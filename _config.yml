@@ -1,0 +1,16 @@
+# Site settings
+title: Digital Gold Institute
+email:
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://dgi.io
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: dgi-1
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-126683188-2
+
+# Build settings
+markdown: kramdown
