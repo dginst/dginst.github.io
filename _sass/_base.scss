@@ -81,9 +81,11 @@
         .navbar-header 
         .navbar-brand {
             color: $theme-primary;
+            text-align: center;
             @include sans-serif-font;
-            font-weight: 700;
+            font-weight: 800;
             padding: 5px;
+            height: 60px;
             //text-transform: uppercase;
             &:hover,
             &:focus {
@@ -95,9 +97,9 @@
                 > a,
                 > a:focus {
                     //text-transform: uppercase;
-                    font-weight: 700;
-                    font-size: 13px;
-                    color: $theme-primary;
+                    font-weight: 800;
+                    font-size: 16px;
+                    color: white;
                     &:hover {
                         color: white;
                     }
@@ -128,15 +130,16 @@
             .nav > li > a:focus {
                 color: $theme-primary;
                 &:hover {
-                    color: $theme-primary;
+                    color: white;
                 }
             }
             &.affix {
-                background-color: black;
+                background-color: black; // background not in top-page 
                 border-color: rgba($theme-dark, .5);
                 .navbar-header .navbar-brand {
-                    color: $theme-primary;
+                    color: white;
                     font-size: 14px;
+                    height: 50px;
                     &:hover,
                     &:focus {
                         color: darken($theme-primary, 10%);
@@ -144,9 +147,10 @@
                 }
                 .nav > li > a,
                 .nav > li > a:focus {
-                    color: $theme-primary;
+                    font-size: 14px;
+                    color: $theme-primary; // text color all line
                     &:hover {
-                        color: white;
+                        color: white; // text color not in top-page when over with pointer
                     }
                 }
             }
