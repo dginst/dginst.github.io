@@ -269,6 +269,8 @@
         width: 100%;
         min-height: auto;
         background-position: center;
+    }
+    .vision{
         background-color: rgb(244, 244, 244);
     }
 
@@ -371,6 +373,7 @@
     .partners {
         padding: 80px 0 30px;
         font-size: 0;
+        background-color: rgb(244, 244, 244);
     
         @media (max-width: $container-responsive--width) {
         padding: 40px 0;
