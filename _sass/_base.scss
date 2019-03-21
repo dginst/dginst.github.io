@@ -165,7 +165,7 @@
         min-height: auto;
         @include background-cover;
         background-position: center;
-        //background-image: url('../img/header_3.jpg');
+        background-image: url('../img/header.jpg');
         background-color: white;
         text-align: center;
         color: black;
@@ -190,6 +190,7 @@
                     font-size: 20px;
                     margin-bottom: 50px;
                     text-align: justify;
+                    color: white;
                 }
             }
         }
