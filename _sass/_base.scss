@@ -298,6 +298,18 @@
     .ots_desc{
         background-color: rgb(244, 244, 244);
     }
+    .ots_desc{
+        p{
+            padding: 10px 30px 10px;
+        }
+        li{
+            padding: 0px 15px 0px;
+            font-size: 16px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+
+        }
+    }
 
     .section-heading {
         margin-top: 0;
