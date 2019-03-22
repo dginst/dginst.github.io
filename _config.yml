@@ -1,8 +1,8 @@
 # Site settings
 title: Digital Gold Institute
 email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: Scarcity in the Digital Realm # this means to ignore newlines until "baseurl:"
+#baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://dgi.io
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts

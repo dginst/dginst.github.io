@@ -1,4 +1,5 @@
 <head>
+    {% include meta.html %}
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -6,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Digital Gold Institute</title>
+    <title>{% if site.title %}{{site.title }} – {% endif %}{{page.title }}</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css" type="text/css">
