@@ -204,7 +204,7 @@
                 p {
                     font-weight: 100;
                     font-size: 14px;
-                    margin-bottom: 50px;
+                    margin-bottom: 20px;
                     //text-align: justify;
                     color: white;
                     background-color: black;
@@ -286,13 +286,16 @@
     // Sections
 
     .vision,
+    .ots,
+    .ots_desc,
     .team {
         position: relative;
         width: 100%;
         min-height: auto;
         background-position: center;
     }
-    .vision{
+    .vision,
+    .ots_desc{
         background-color: rgb(244, 244, 244);
     }
 

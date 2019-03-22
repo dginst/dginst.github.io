@@ -41,5 +41,6 @@ $container-responsive--width: 980px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
-        "base"
+        "base",
+        "stamp-and-verify"
 ;
