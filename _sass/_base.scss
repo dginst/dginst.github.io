@@ -60,6 +60,14 @@
         color: rgba(white, .7);
     }
 
+    .text-small {
+        font-size: 14px;
+    }
+
+    .padding{
+        padding: 30px;
+    }
+
     section {
         padding: 100px 0;
     }
@@ -238,7 +246,7 @@
             display: inline-block;
             vertical-align: top;
             box-sizing: border-box;
-            //line-height: 130px;
+            line-height: 130px;
             text-align: center;
           }
 
