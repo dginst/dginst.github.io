@@ -7,6 +7,7 @@ const OpenTimestamps = window.OpenTimestamps
 const calendarsList = [
     'https://test-calendar.aniasafe.it',  // testnet
     'https://calendar.aniasafe.it',       // mainet
+    'https://btc-ots.dgi.io',
     //'https://ots.btc.catallaxy.com/',
     'https://alice.btc.calendar.opentimestamps.org', 
     'https://bob.btc.calendar.opentimestamps.org',
