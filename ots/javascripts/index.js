@@ -5,13 +5,13 @@ const OpenTimestamps = window.OpenTimestamps
 
 // an empty list would be equivalent to the default calendars
 const calendarsList = [
-    'https://test-calendar.aniasafe.it',  // testnet
-    'https://calendar.aniasafe.it',       // mainet
+    //'https://test-calendar.aniasafe.it',  // testnet
+    //'https://calendar.aniasafe.it',       // mainet
     'https://btc-ots.dgi.io',
     //'https://ots.btc.catallaxy.com/',
     'https://alice.btc.calendar.opentimestamps.org', 
     'https://bob.btc.calendar.opentimestamps.org',
-    'https://finney.calendar.eternitywall.com'
+    //'https://finney.calendar.eternitywall.com'
 ]
 
 const whitelistedCalendars = new OpenTimestamps.Calendar.UrlWhitelist(calendarsList)
