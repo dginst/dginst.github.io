@@ -1,1 +1,3 @@
-# Test Website for DGI.io
+# Repo for the Digital Gold Institute website
+
+[www.dgi.io](www.dgi.io)
