@@ -5,13 +5,19 @@ const OpenTimestamps = window.OpenTimestamps
 
 // an empty list would be equivalent to the default calendars
 const calendarsList = [
-    //'https://test-calendar.aniasafe.it',  // testnet
-    //'https://calendar.aniasafe.it',       // mainet
     'https://btc-ots.dgi.io',
-    //'https://ots.btc.catallaxy.com/',
     'https://alice.btc.calendar.opentimestamps.org', 
     'https://bob.btc.calendar.opentimestamps.org',
-    //'https://finney.calendar.eternitywall.com'
+	'https://finney.calendar.eternitywall.com',
+	//'https://ots.btc.catallaxy.com/'
+]
+
+const aggregatorList = [
+	'https://btc-ots.dgi.io',
+	'https://a.pool.opentimestamps.org',
+	'https://b.pool.opentimestamps.org',
+	'https://a.pool.eternitywall.com',
+	//'https://ots.btc.catallaxy.com'
 ]
 
 const whitelistedCalendars = new OpenTimestamps.Calendar.UrlWhitelist(calendarsList)
@@ -22,12 +28,6 @@ const blockexplorers = {
     	{url: 'https://blockstream.info/api', type: 'blockstream'},
     	{url: 'https://blockexplorer.com/api', type: 'insight'}
       ]
-    },
-    bitcoinTestnet: {
-	  explorers: [
-		{url: 'https://blockstream.info/testnet/api', type: 'blockstream'},
-		{url: 'https://testnet.blockexplorer.com/api', type: 'insight'}
-	  ]
     }
 }
 
@@ -46,7 +46,7 @@ function stamp(filename, hash, hashType) {
 	}
 	
 	const detached = OpenTimestamps.DetachedTimestampFile.fromHash(op, hexToBytes(hash));
-	const options = { calendars: calendarsList }
+	const options = { calendars: aggregatorList }
 
 	OpenTimestamps.stamp(detached, options).then( ()=>{
 		const ctx = new OpenTimestamps.Context.StreamSerialization();
