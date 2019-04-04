@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Description</h2>
+                <h2 class="section-heading">How It Works</h2>
                 <hr class="primary">
             </div>
         </div>
@@ -10,23 +10,16 @@
     <div class="container">
         <div class="row">
             <p class="text-muted">
-                A timestamp proves that some data existed prior to some point in time.
-                The <a href="www.opentimestamps.org">OpenTimestamps</a> protocol defines
-                an open standard consisting in a set of operations for creating provable
-                blockchain timestamps and later independently verifying them.
-            </p>
-            <p class="text-muted">
-                An OpenTimestamps <em>calendar</em> server provides aggregation of multiple
-                documents allowing to timestamp all of them at the same time using just a
-                single blockchain transaction.
-                Moreover, a calendar server can offer its services to multiple remote
-                OpenTimestamps clients.
-                While anyone could realize a timestamp with the permissionless
-                blockchain(s) by paying the transaction fees, OpenTimestamps public servers
+                While anyone could realize a timestamp with any permissionless
+                blockchain by paying the transaction fees,
+                <a href="www.opentimestamps.org">OpenTimestamps</a> public calendar servers
                 are free to use without any registration or API key.
+                A calendar server (e.g. <a href="https://btc-ots.dgi.io">btc-ots.dgi.io</a>)
+                aggregates multiple documents submitted by clients (like this page) and
+                timestamps all of them at the same time using a single blockchain transaction.
             </p>
             <p class="text-muted">
-                While the OpenTimestamps protocol is blockchain agnostic,
+                While the <a href="www.opentimestamps.org">OpenTimestamps</a> protocol is blockchain agnostic,
                 a timestamp is as reliable as the used blockchain:
                 <ul>
                     <li class="text-muted">
@@ -35,24 +28,14 @@
                         computational power (<em>proof-of-work</em>);
                     </li>
                     <li class="text-muted">
-                        much less reliable with other public permissionless blockchain;
+                        much less reliable with other public permissionless blockchains;
                     </li>
                     <li class="text-muted">
                         when used with private permissioned blockchain its reliability
-                        depends on the reliability of the chain governance: in that case
+                        depends on the trustworthyness of the chain governance: in this case
                         traditional certification authorities are probably better.
                     </li>
                 </ul>
-            </p>
-            <p class="text-muted">
-                This webpage is an interface to create timestamp proofs using the
-                facilities provided by the OpenTimestamps public free bitcoin calendar
-                servers: Bitcoin's blockchain is used as a timestamp notary, i.e. the proof
-                is attested in a Bitcoin block header.
-                Timestamps can be verified independently using a local
-                <a href="https://bitcoincore.org/en/download/"">Bitcoin Core</a>
-                node; anyway, since a web-page cannot access the local filesystem,
-                this page relies on public block-explorers for verification.
             </p>
             <p class="text-muted">
                 It should be obvious, but it is worth mentioning that timestamping
