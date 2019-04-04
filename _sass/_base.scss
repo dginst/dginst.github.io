@@ -287,7 +287,6 @@
 
     .vision,
     .ots,
-    .ots_desc,
     .partnership,
     .training,
     .team {
@@ -296,13 +295,10 @@
         min-height: auto;
         background-position: center;
     }
-    .vision,
-    .ots_desc{
-        background-color: rgb(244, 244, 244);
-    }
+
     .partnership,
     .training,
-    .ots_desc{
+    .ots{
         p{
             padding: 0px 10px 0px;
         }
