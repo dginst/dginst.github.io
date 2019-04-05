@@ -190,14 +190,13 @@
                     margin-top: 100;
                     margin-bottom: 100;
                     color: white;
-                    background-color: black;
                 }
                 h2 {
                     font-weight: 100;
-                    font-size: 20px;
+                    font-size: 30px;
                     margin-top: 100;
                     margin-bottom: 100;
-                    background-color: black;
+                    color: white;
                 }
                 hr {
                     margin: 30px auto;
@@ -206,9 +205,10 @@
                     font-weight: 100;
                     font-size: 14px;
                     margin-bottom: 20px;
-                    //text-align: justify;
+                    //font-weight: bold;
+                    display: block;
                     color: white;
-                    background-color: black;
+                    background-color: rgba(0, 0, 0, 0.5);
                 }
             }
         }
