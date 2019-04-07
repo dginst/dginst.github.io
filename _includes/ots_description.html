@@ -10,16 +10,16 @@
     <div class="container">
         <div class="row">
             <p class="text-muted">
-                While anyone could realize a timestamp with any permissionless
-                blockchain by paying the transaction fees,
-                <a href="www.opentimestamps.org">OpenTimestamps</a> public calendar servers
-                are free to use without any registration or API key.
-                A calendar server (e.g. <a href="https://btc-ots.dgi.io">btc-ots.dgi.io</a>)
-                aggregates multiple documents submitted by clients (like this page) and
-                timestamps all of them at the same time using a single blockchain transaction.
+                To avoid the inefficiency of one blockchain transaction for
+                every timastamp, a calendar server
+                provides <em>aggregation</em> of multiple documents
+                (in a Merkle tree data structure)
+                and performs their <em>attestation</em> in a single transaction
+                (actually attesting the tree root). 
             </p>
             <p class="text-muted">
-                While the <a href="www.opentimestamps.org">OpenTimestamps</a> protocol is blockchain agnostic,
+                While the <a href="www.opentimestamps.org">OpenTimestamps</a>
+                protocol is blockchain agnostic,
                 a timestamp is as reliable as the used blockchain:
                 <ul>
                     <li class="text-muted">
@@ -32,14 +32,14 @@
                     </li>
                     <li class="text-muted">
                         when used with private permissioned blockchain its reliability
-                        depends on the trustworthyness of the chain governance: in this case
+                        depends on the trustworthiness of the chain governance: in this case
                         traditional certification authorities are probably better.
                     </li>
                 </ul>
             </p>
             <p class="text-muted">
                 It should be obvious, but it is worth mentioning that timestamping
-                (using the OpenTimestamps protocol or any alternative approach):
+                (using the <a href="www.opentimestamps.org">OpenTimestamps</a> protocol or any alternative approach):
                 <ul>
                     <li class="text-muted">
                     does not prove authorship (that should be proved using a
