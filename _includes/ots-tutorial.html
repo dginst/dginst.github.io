@@ -1,4 +1,4 @@
-<section id="ots_tutorial" class="ots">
+<section id="ots-tutorial" class="ots">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -6,15 +6,16 @@
                 <hr class="primary">
             </div>
             <p class="text-muted">
-                This tutorial breaks down the timestamping process into
-                the following granular steps:
+                This tutorial breaks down the
+                <a href="https://www.opentimestamps.org">OpenTimestamps</a>
+                protocol into the following granular steps:
                 <ol>
-                    <li><a class="page-scroll" href="#ots_tools_hash">Calculating the Data File Hash Value</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_timestamp">Submitting for Attestation</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_load">Loading OTS Receipt/Proof From File</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_info">Displaying OTS Receipt/Proof File Info</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_upgrade">Upgrading the OTS Receipt/Proof</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_verify">Verifying OTS Receipt/Proof</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_hash">Calculating the data file hash value</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_timestamp">Submitting the hash for attestation</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_load">Loading the OTS receipt/proof from file</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_info">Displaying the OTS receipt/proof informations</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_upgrade">Upgrading the OTS receipt/proof</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_verify">Verifying the OTS receipt/proof</a></li>
                 </ol>
             </p>
         </div>
@@ -25,7 +26,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Calculating the Data File Hash Value</h2>
+                <h2 class="section-heading">1. Calculating the Data File Hash Value</h2>
                 <hr class="primary">
             </div>
             <p class="text-muted">
@@ -33,8 +34,8 @@
                 the data file to be timestamped; no internet connectivity is required.
                 <br>
                 The hash is calculated
-                inside your browser without disclosing your document to third
-                parties, preserving your privacy.
+                inside the browser without disclosing the document to third
+                parties, preserving privacy.
             </p>
             <div class="card-body">
                 <div class="row">
@@ -71,12 +72,12 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Submitting for Attestation</h2>
+                <h2 class="section-heading">2. Submitting the Hash for Attestation</h2>
                 <hr class="primary">
             </div>
             <p class="text-muted">
-                Submit the hash value to multiple
-                <a href="https://www.opentimestamps.org">OpenTimestamps</a> calendar servers
+                Submit the hash to multiple
+                OpenTimestamps calendar servers
                 for attestation of its existence (timestamp) and save the OTS
                 submission receipt locally; internet connectivity is required.
                 <br>
@@ -86,13 +87,14 @@
                 blockchain.
                 <br>
                 To avoid the inefficiency of one blockchain transaction for
-                every timestamp, a calendar server
-                provides <em>aggregation</em> of multiple documents
+                every document hash, a calendar server
+                provides <em>aggregation</em> of multiple hashes
                 (in a Merkle tree data structure)
                 and performs their <em>attestation</em> in a single transaction
-                (actually attesting the tree root).
+                (attesting the tree root hash).
                 <br>
-                In time, the hash value will be attested in a Bitcoin block header
+                In time, the document hash will be attested in a Bitcoin
+                block header
                 and the receipt will become upgradable to attestation proof.
             </p>
             <div class="card-body">
@@ -134,7 +136,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Loading OTS Receipt/Proof From File</h2>
+                <h2 class="section-heading">3. Loading the OTS Receipt/Proof From File</h2>
                 <hr class="primary">
             </div>
             <p class="text-muted">
@@ -172,11 +174,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Displaying OTS Receipt/Proof File Info</h2>
+                <h2 class="section-heading">4. Displaying the OTS Receipt/Proof Informations</h2>
                 <hr class="primary">
             </div>
             <p class="text-muted">
-                Display the info included in the OTS receipt/proof,
+                Display the informations included in the OTS receipt/proof,
                 including the actual commitment operations and
                 attestations (if any); no internet connectivity is required.
             </p>
@@ -193,7 +195,7 @@
                         </div>
                         <br>
                         <div class="form-group">
-                            <label for="info-output">Info</label>
+                            <label for="info-output">Informations</label>
                             <textarea type="text" id="info-output" name="info-output" class="form-control" placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
                         </div>
                     </div>
@@ -207,21 +209,21 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Upgrading the OTS Receipt/Proof</h2>
+                <h2 class="section-heading">5. Upgrading the OTS Receipt/Proof</h2>
                 <hr class="primary">
             </div>
             <p class="text-muted">
                 Attempt the upgrade of the OTS receipt/proof with attestations
                 that might be available from the
-                <a href="https://www.opentimestamps.org">OpenTimestamps</a> calendars;
+                OpenTimestamps calendars;
                 internet connectivity is required.
                 <br>
                 To be upgraded to proof status, incomplete receipts require the
                 assistance of the remote calendars used for timestamping:
                 each calendar has to provide its attestation as path to a
                 Bitcoin block header.
-                Upgrading an OTS receipt adds the path to the Bitcoin
-                block header, making it a self-contained
+                Upgrading an OTS receipt adds the path(s) to the Bitcoin
+                block header(s), making it a self-contained
                 calendar-independent OTS proof.
                 <br>
                 Even proofs can be updated, if there is a calendar that can add
@@ -263,7 +265,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Verifying OTS Receipt/Proof</h2>
+                <h2 class="section-heading">6. Verifying the OTS Receipt/Proof</h2>
                 <hr class="primary">
             </div>
             <p class="text-muted">
@@ -271,7 +273,7 @@
                 internet connectivity is required.
                 <br>
                 OTS receipt/proofs can be verified independently from any 
-                <a href="https://www.opentimestamps.org">OpenTimestamps</a>
+                OpenTimestamps
                 server or facility, using a local
                 <a href="http://bitcoincore.org/en/download/">Bitcoin Core</a>
                 node; anyway, since a web-page cannot access the local
@@ -279,7 +281,9 @@
                 for verification.
                 <br>
                 First an upgraded proof is obtained from the calendar servers
-                if available, then the receipt/proof status is displayed below.
+                if available (as in the step above, which is included here to
+                ensure updated informations),
+                then the receipt/proof status is displayed below.
             </p>
             <div class="card-body">
                 <div class="row">
