@@ -34,28 +34,31 @@
         <div class="stamp-and-verify-drop-zone" id="dropbox1">
             <span class="filename"></span>
             <span class="filesize"></span>
-            <p class="hash">
+            <h4>
                 Drop here a file to <b>stamp</b> it
                 or a (<i>.ots</i>) receipt/proof to <b>verify</b> it.
-            </p>
+            </h4>
         </div>
         <br>
-        <p class="text-muted">
-            When a file is dropped in the above box, its hash value
-            is calculated locally inside the browser (the file is not shared
-            with anyone, preserving privacy);
-            then, this hash value is submitted to the public
-            OpenTimestamps
-            calendar servers for attestation of its existence (timestamp); 
-            a submission (<i>.ots</i>) receipt is locally downloaded.
-            In time, the hash value will be attested in a Bitcoin block header
-            and the receipt will become upgradable to attestation proof.
-            <br>
-            Indeed, if the file dropped in the above box is a (<i>.ots</i>)
-            receipt or proof, first an upgraded proof is obtained from the
-            calendar servers if available, then the receipt/proof status is
-            displayed below.
-        </p>
+        <div class="row">
+            <p class="text-muted">
+                When a file is dropped in the above box, its hash value
+                is calculated locally inside the browser (the file is not shared
+                with anyone, preserving privacy);
+                then, this hash value is submitted to the public
+                OpenTimestamps
+                calendar servers for attestation of its existence (timestamp); 
+                a submission (<i>.ots</i>) receipt is locally downloaded.
+                In time, the hash value will be attested in a Bitcoin block header
+                and the receipt will become upgradable to attestation proof.
+                <br>
+                Indeed, if the file dropped in the above box is a (<i>.ots</i>)
+                receipt or proof, first an upgraded proof is obtained from the
+                calendar servers if available, then the receipt/proof status is
+                displayed below.
+            </p>
+        </div>
+
 
         <input id="dropbox1_input" type="file" style="display:none">
         <div class="statuses statuses_hashing" id="proof-status" style="display: none">
@@ -69,7 +72,10 @@
         <div class="stamp-and-verify-drop-zone" id="dropbox2" style="display:none">
             <span class="filename"></span>
             <span class="filesize"></span>
-            <p class="hash" style="text-align: center">Drop here the original file to check that its hash matches the stamped one.</p>
+            <h4>
+                Drop here the <b>original file</b> to check that its hash matches the 
+                stamped one.
+            </h4>
         </div>
 
         <input id="dropbox2_input" type="file" style="display:none">
