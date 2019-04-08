@@ -1,4 +1,4 @@
-<section id="ots_tools" class="ots">
+<section id="ots_tutorial" class="ots">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -6,34 +6,16 @@
                 <hr class="primary">
             </div>
             <p class="text-muted">
-                A timestamp proves that some data existed prior to a given
-                point in time.
-                The <a href="www.opentimestamps.org">OpenTimestamps</a>
-                protocol defines an open standard consisting in a set of
-                operations for creating provable blockchain timestamps and
-                later independently verifying them.
-                <br>
-                While anyone could realize a timestamp with the permissionless
-                blockchain(s) by paying the appropriate transaction fees,
-                there are public
-                <a href="www.opentimestamps.org">OpenTimestamps</a>
-                <em>calendar servers</em>,
-                free to use without any registration or API key.
-                <br>
-                This webpage is an interface to create timestamp proofs using
-                the <a href="www.opentimestamps.org">OpenTimestamps</a>
-                public calendar servers
-                (e.g. <a href="https://btc-ots.dgi.io">btc-ots.dgi.io</a>):
-                Bitcoin's blockchain is used as a timestamp notary, i.e.
-                the proof is attested in a Bitcoin block header.
-                <br>
-                These proofs can be verified independently from any 
-                <a href="www.opentimestamps.org">OpenTimestamps</a>
-                server or facility, using a local
-                <a href="http://bitcoincore.org/en/download/">Bitcoin Core</a>
-                node; anyway, since a web-page cannot access the local
-                filesystem, this page relies on public block-explorers
-                for verification.
+                This tutorial breaks down the timestamping process into
+                the following granular steps:
+                <ol>
+                    <li><a class="page-scroll" href="#ots_tools_hash">Calculating the Data File Hash Value</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_timestamp">Submitting for Attestation</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_load">Loading OTS Receipt/Proof From File</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_info">Displaying OTS Receipt/Proof File Info</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_upgrade">Upgrading the OTS Receipt/Proof</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_verify">Verifying OTS Receipt/Proof</a></li>
+                </ol>
             </p>
         </div>
     </div>
@@ -94,7 +76,7 @@
             </div>
             <p class="text-muted">
                 Submit the hash value to multiple
-                <a href="www.opentimestamps.org">OpenTimestamps</a> calendar servers
+                <a href="https://www.opentimestamps.org">OpenTimestamps</a> calendar servers
                 for attestation of its existence (timestamp) and save the OTS
                 submission receipt locally; internet connectivity is required.
                 <br>
@@ -231,7 +213,7 @@
             <p class="text-muted">
                 Attempt the upgrade of the OTS receipt/proof with attestations
                 that might be available from the
-                <a href="www.opentimestamps.org">OpenTimestamps</a> calendars;
+                <a href="https://www.opentimestamps.org">OpenTimestamps</a> calendars;
                 internet connectivity is required.
                 <br>
                 To be upgraded to proof status, incomplete receipts require the
@@ -289,7 +271,7 @@
                 internet connectivity is required.
                 <br>
                 OTS receipt/proofs can be verified independently from any 
-                <a href="www.opentimestamps.org">OpenTimestamps</a>
+                <a href="https://www.opentimestamps.org">OpenTimestamps</a>
                 server or facility, using a local
                 <a href="http://bitcoincore.org/en/download/">Bitcoin Core</a>
                 node; anyway, since a web-page cannot access the local
