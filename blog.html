@@ -1,0 +1,40 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+<section id="blog" class="partnership">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Blog</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="posts">
+                {% for post in site.posts %}
+                <article class="post">
+                    <p class="pdate text-muted text-small">
+                        {{ post.date | date: "%b %e, %Y" }}
+                    </p>
+                    <p>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </p>
+
+                    <!--<div class="entry">
+                    {{ post.excerpt }}
+                    </div>
+            
+                    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>-->
+                </article>
+                {% endfor %}
+            
+            </div>
+        </div>
+    </div>
+</section>
+  
