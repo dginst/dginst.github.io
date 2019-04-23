@@ -1,15 +1,23 @@
 ---
 layout: news
+comments: false
 title: "Real Volume: The Rock Trading Exchange"
 subtitle: "A supplement to the Bitwise report presented in March 2019 to SEC"
+published: true
 ---
 
-In the presentation to SEC advocating their ETF, Bitwise investigated the real liquidity of the Bitcoin market.
+We have analyzed the trading volume reported by
+[_The Rock Trading_](http://www.therocktrading.com/) exchange,
+according to the criteria used by Bitwise in their
+[March 2019 report to SEC](http://www.sec.gov/comments/sr-nysearca-2019-01/srnysearca201901-5164833-183434.pdf),
+and found them to be credible.
 
-Bitwise analyzed the 81 “top” Bitcoin exchanges by reported volume. The vast majority of reported volume turned 
-out to be fake and/or non-economic wash trading.
+Bitwise investigated the real liquidity of the Bitcoin market,
+covering the 81 “top” Bitcoin exchanges by reported volume.
+The vast majority of those volumes turned out to be fake
+and/or non-economic wash trading.
 
-In the following document we applied the same analysis criteria to the trading volume reported by The Rock Trading 
-exchange.
+For more details see our
+[report]({{ site.baseurl }}/presentations/201904-TRT_Volumes.pdf)
 
-[See DGI report]({{ site.baseurl }}/presentations/201904-TRT_Volumes.pdf)
+[<img src="{{ site.baseurl }}/img/posts/2019-04-23-TRT-Volumes.jpg" alt="TRT Volumes" width="300" />]({{ site.baseurl }}/presentations/201904-TRT_Volumes.pdf)
