@@ -17,11 +17,14 @@ layout: default
             <article class="post">
                 <p class="pdate text-muted">{{ page.date | date: "%b %e, %Y" }}</p>
 
+                {% include share-bar.html %}
+
                 <div class="entry">
                   {{ content }}
                 </div>
 
-                {% include disqus.html %}
+                {% include share-bar.html %}
+
             </article>
         </div>
     </div>
