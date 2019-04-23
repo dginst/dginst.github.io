@@ -313,11 +313,8 @@
             text-align: justify;
         }
         li{
-            //padding: 0px 0px 0px;
             font-size: 16px;
             line-height: 1.5;
-            //margin-bottom: 15px;
-
         }
     }
 
@@ -329,6 +326,42 @@
         h2{
             padding: 0px 10px 0px;
         }
+
+        .list-inline-item {
+            position: center;
+            display: inline-block;
+            vertical-align: top;
+            box-sizing: border-box;
+            line-height: 130px;
+            text-align: center;
+        }
+
+        ul.social-buttons {
+            margin-bottom: 0;
+            padding: 0px 10px 0px;
+            li {
+                a {
+                    font-size: 15px;
+                    line-height: 40px;
+                    display: block;
+                    width: 40px;
+                    height: 40px;
+                    -webkit-transition: all 0.3s;
+                    -moz-transition: all 0.3s;
+                    transition: all 0.3s;
+                    color: white;
+                    border-radius: 100%;
+                    outline: none;
+                    background-color: black;
+                    &:active,
+                    &:focus,
+                    &:hover {
+                        background-color: $theme-primary;
+                        color: white;
+                    }
+                }
+            }
+        }  
     }
 
     .posts > .post {
