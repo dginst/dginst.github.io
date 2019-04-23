@@ -7,17 +7,17 @@ published: true
 ---
 
 We have analyzed the trading volume reported by
-[_The Rock Trading_](http://www.therocktrading.com/) exchange,
+[_The Rock Trading_](http://www.therocktrading.com/) exchange
+and found them to be credible,
 according to the criteria used by Bitwise in their
-[March 2019 report to SEC](http://www.sec.gov/comments/sr-nysearca-2019-01/srnysearca201901-5164833-183434.pdf),
-and found them to be credible.
+[March 2019 report to SEC](http://www.sec.gov/comments/sr-nysearca-2019-01/srnysearca201901-5164833-183434.pdf).
 
 Bitwise investigated the real liquidity of the Bitcoin market,
 covering the 81 “top” Bitcoin exchanges by reported volume.
-The vast majority of those volumes turned out to be fake
+Most of those volumes turned out to be fake
 and/or non-economic wash trading.
 
-For more details see our
+For more details about our supplemental analysis see the
 [report]({{ site.baseurl }}/presentations/201904-TRT_Volumes.pdf)
 
 [<img src="{{ site.baseurl }}/img/posts/2019-04-23-TRT-Volumes.jpg" alt="TRT Volumes" width="300" />]({{ site.baseurl }}/presentations/201904-TRT_Volumes.pdf)
