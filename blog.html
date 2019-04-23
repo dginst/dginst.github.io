@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-<section id="blog" class="partnership">
+<section id="blog" class="blogpage">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -18,10 +18,9 @@ permalink: /blog/
             <div class="posts">
                 {% for post in site.posts %}
                 <article class="post">
-                    <p class="pdate text-muted text-small">
+                    <p class="pdate text-muted">
                         {{ post.date | date: "%b %e, %Y" }}
-                    </p>
-                    <p>
+                        <br>
                         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                     </p>
 
