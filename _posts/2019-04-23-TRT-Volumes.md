@@ -6,10 +6,11 @@ subtitle: "A supplement to the Bitwise report presented in March 2019 to SEC"
 published: true
 ---
 
-We have analyzed the trading volume reported by
+We have analyzed the trading volumes reported by
 [_The Rock Trading_](http://www.therocktrading.com/) exchange
 and found them to be credible,
-according to the criteria used by Bitwise in their
+according to the criteria used by
+[Bitwise Investments](https://www.bitwiseinvestments.com/) in their
 [March 2019 report to SEC](http://www.sec.gov/comments/sr-nysearca-2019-01/srnysearca201901-5164833-183434.pdf).
 
 Bitwise investigated the real liquidity of the Bitcoin market,
