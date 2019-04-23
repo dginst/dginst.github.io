@@ -17,13 +17,11 @@ layout: default
             <article class="post">
                 <p class="pdate text-muted">{{ page.date | date: "%b %e, %Y" }}</p>
 
-                {% include share-bar.html %}
+                <p>{% include share-bar.html %}</p>
 
-                <div class="entry">
-                  {{ content }}
-                </div>
+                <p>{{ content }}</p>
 
-                {% include share-bar.html %}
+                <p>{% include share-bar.html %}</p>
 
             </article>
         </div>
