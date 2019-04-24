@@ -368,7 +368,8 @@
 
     .posts > .post {
         padding-bottom: 2em;
-        border-bottom: 1px;
+        padding-top: 2em;
+        border-bottom: 1px solid $theme-primary;
     }
       
     .posts > .post:last-child {
