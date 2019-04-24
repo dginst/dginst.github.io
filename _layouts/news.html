@@ -5,18 +5,17 @@ layout: default
 <section id="posts" class="newspage">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>{{ page.title }}</h2>
-                <h3>{{ page.subtitle }}</h3>
-                <hr class="primary">
-            </div>
+            <h2>{{ page.title }}</h2>
+            <h3>{{ page.subtitle }}</h3>
         </div>
     </div>
     <div class="container">
         <div class="row">
             <article class="post">
-                <p class="pdate">{{ page.date | date: "%b %e, %Y" }}</p>
-                <p><i>by {{ page.author }}</i></p>
+                <p class="pdate">{{ page.date | date: "%b %e, %Y" }} |
+                    <i> {{ page.author }}</i>
+                </p>
+               
 
                 <p>{% include share-bar.html %}</p>
 
