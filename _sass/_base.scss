@@ -322,13 +322,23 @@
         h3{
             color:#777;
             font-style: italic;
+            padding: 0px 10px 0px;
         }
+
         h2{
             padding: 0px 10px 0px;
         }
+
         p{
             color:#777;
         }
+        
+        img{
+            width: auto ;
+            max-width: 50% ;
+            height: auto ;
+        }
+
         .list-inline-item {
             position: center;
             display: inline-block;
@@ -368,7 +378,8 @@
 
     .posts > .post {
         padding-bottom: 2em;
-        border-bottom: 1px;
+        padding-top: 2em;
+        border-bottom: 1px solid $theme-primary;
     }
       
     .posts > .post:last-child {
