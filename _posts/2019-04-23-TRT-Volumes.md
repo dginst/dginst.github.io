@@ -3,9 +3,9 @@ layout: news
 comments: false
 title: "Real Volume: The Rock Trading Exchange"
 subtitle: "A supplement to the Bitwise report presented in March 2019 to SEC"
+author: "Marcello Pichini"
 published: true
 ---
-
 We have analyzed the trading volumes reported by
 [_The Rock Trading_](http://www.therocktrading.com/) exchange
 and found them to be credible,

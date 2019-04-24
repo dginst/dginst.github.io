@@ -15,7 +15,8 @@ layout: default
     <div class="container">
         <div class="row">
             <article class="post">
-                <p class="pdate text-muted">{{ page.date | date: "%b %e, %Y" }}</p>
+                <p class="pdate">{{ page.date | date: "%b %e, %Y" }}</p>
+                <p>by {{ page.author }}</p>
 
                 <p>{% include share-bar.html %}</p>
 
