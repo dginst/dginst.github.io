@@ -20,14 +20,17 @@
         <br>
         <div class="row">
             <p class="text-muted">
-                When a file is dropped in the above box, its hash value
-                is calculated locally inside the browser (the file is not shared
-                with anyone, preserving privacy);
-                then, this hash is submitted to the public
-                OpenTimestamps
-                calendar servers for attestation of its existence (timestamp); 
-                a submission (<i>.ots</i>) receipt is locally downloaded.
-                In time, the hash will be attested in a Bitcoin block header
+                When a file is dropped in the above box, its <em>hash
+                value</em> is calculated locally inside the browser
+                (the file is not shared with anyone, preserving privacy).
+                The hash value acts as a digital fingerprint, 'uniquely'
+                identifying the unmodified original document, and it is
+                submitted to the public
+                <a href="https://www.opentimestamps.org">OpenTimestamps</a>
+                <em>calendar servers</em>
+                for attestation of its existence (timestamp); a
+                submission (<i>.ots</i>) receipt is locally downloaded.
+                In time, this hash will be attested in a Bitcoin block header
                 and the receipt will become upgradable to attestation proof.
                 <br>
                 Alternatively,
