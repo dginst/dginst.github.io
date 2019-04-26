@@ -176,6 +176,9 @@
         background-image: url('../img/header.jpg');
         background-attachment: fixed;
         background-color: white;
+        z-index:-1;
+        left:0;
+        top:0;
         -webkit-background-size: cover; 
         -moz-background-size: cover; 
         -o-background-size: cover; 
