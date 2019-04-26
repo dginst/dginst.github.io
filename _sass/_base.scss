@@ -208,7 +208,7 @@
             width: 100%;
             .header-content-inner {
                 h1 {
-                    font-weight: 100;
+                    //font-weight: 100;
                     font-size: 25px;
                     margin-top: 100;
                     margin-bottom: 100;
@@ -216,7 +216,7 @@
                     font-weight: bold;
                 }
                 h2 {
-                    font-weight: 100;
+                    //font-weight: 100;
                     font-size: 30px;
                     margin-top: 100;
                     margin-bottom: 100;
@@ -227,13 +227,12 @@
                     margin: 30px auto;
                 }
                 p {
-                    font-weight: 100;
+                    //font-weight: 100;
                     font-size: 14px;
                     margin-bottom: 20px;
-                    //font-weight: bold;
                     display: block;
                     color: white;
-                    background-color: rgba(0, 0, 0, 0.9);
+                    background-color: rgba(0, 0, 0, 0.5);
                 }
             }
         }
