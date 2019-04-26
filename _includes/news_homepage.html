@@ -1,0 +1,32 @@
+<section class="" id="newsfeed" style="background-color:#f5f5f5;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">News feed</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row no-gutter">
+            {% for post in site.posts limit: 2%}
+            <div class="col-lg-12 text-center">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="portfolio-box">
+                    <img src="{{ site.baseurl }}/img/posts/{{ post.image }}" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                {{ post.title }}
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <br>
+    <div class="col-lg-12 text-center">
+        <a href="{{ site.baseurl }}/news" class="btn btn-primary btn-xl page-scroll">See all news</a>
+    </div>
+</section>
