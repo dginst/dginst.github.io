@@ -12,7 +12,7 @@ We have analyzed the trading volumes reported by
 and found them to be credible,
 according to the criteria used by
 [Bitwise Investments](https://www.bitwiseinvestments.com/) in their
-[March 2019 report to SEC](http://www.sec.gov/comments/sr-nysearca-2019-01/srnysearca201901-5164833-183434.pdf).
+[March 2019 report](http://www.sec.gov/comments/sr-nysearca-2019-01/srnysearca201901-5164833-183434.pdf) to SEC.
 
 Bitwise investigated the real liquidity of the Bitcoin market,
 covering the 81 “top” Bitcoin exchanges by reported volume.
