@@ -172,19 +172,39 @@
         width: 100%;
         min-height: auto;
         @include background-cover;
-        background-position: center;
-        background-image: url('../img/header.jpg');
-        background-attachment: fixed;
-        background-color: white;
-        z-index:-1;
-        left:0;
-        top:0;
-        -webkit-background-size: cover; 
-        -moz-background-size: cover; 
-        -o-background-size: cover; 
-        background-size: cover;
+        //background-position: center;
+        //background-image: url('../img/header.jpg');
+        //background-attachment: scroll;
+        //background-color: white;
+        //z-index:-1;
+        //left:0;
+        //top:0;
+        //-webkit-background-size: cover; 
+        //-moz-background-size: cover; 
+        //-o-background-size: cover; 
+        //background-size: cover;
         text-align: center;
         color: black;
+        .bg-wrap {
+            clip: rect(0, auto, auto, 0);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .bg {
+            position: fixed;
+            display: block;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            background-position: center center;
+            transform: translateZ(0);
+            will-change: transform;
+        }
         .header-content {
             position: relative;
             text-align: center;
