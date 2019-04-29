@@ -15,18 +15,25 @@ permalink: /news/
     </div>
     <div class="container">
         <div class="row">
-            <div class="posts">
+            <div class="posts col-lg-8 col-lg-offset-2">
                 {% for post in site.posts %}
                 <article class="post">
-                    <p class="pdate text-muted">
-                        {{ post.date | date: "%b %e, %Y" }}
-                    </p>
                     <h2>
                         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                    </h2> 
+                    </h2>
 
-                    <p><img src="{{ site.baseurl }}/img/posts/{{ post.image }}"></p>
+                    {% if post.subtitle %}
+                    <p>{{ post.subtitle }}</p>
+                    {% endif %}
+                    
+                    {% if post.image.square %}
+                    <p><img src="{{ site.baseurl }}/img/posts/{{ post.image.square }}" class="alignleft" width="200" height="200"></p>
+                    {% endif %}
 
+                    <p class="pdate text-muted">
+                        {{ post.date | date: "%b %e, %Y" }} | <i>by {{ post.author }}</i>
+                    </p>
+    
                     <p>{{ post.excerpt }}</p>
             
                     <p>
@@ -35,7 +42,7 @@ permalink: /news/
                 </article>
                 {% endfor %}
             </div>
+
         </div>
     </div>
 </section>
-  
