@@ -26,14 +26,14 @@ permalink: /news/
                         {{ post.date | date: "%b %e, %Y" }} | <i>by {{ post.author }}</i>
                     </p>
 
-                    {% if post.subtitle %}
-                    <p>{{ post.subtitle }}</p>
-                    {% endif %}
-
                     {% if post.image.square %}
                     <p>
-                        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/posts/{{ post.image.square }}" class="alignleft" width="200" height="200"></a>
+                        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/posts/{{ post.image.square }}" class="alignleft" width="150" height="150"></a>
                     </p>
+                    {% endif %}
+
+                    {% if post.subtitle %}
+                    <p>{{ post.subtitle }}</p>
                     {% endif %}
 
                     <p>{{ post.excerpt }}</p>
