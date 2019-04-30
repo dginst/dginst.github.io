@@ -12,11 +12,11 @@
             {% for post in site.posts limit: 2%}
             <div class="col-lg-12 text-center">
                 <a href="{{ site.baseurl }}{{ post.url }}" class="portfolio-box">
-                    <img src="{{ site.baseurl }}/img/posts/{{ post.image }}" class="img-responsive" alt="">
+                    <img src="{{ site.baseurl }}/img/posts/{{ post.image.news }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                {{ post.title }}
+                            <div class="project-category">
+                                <b>{{ post.title }}</b>
                             </div>
                         </div>
                     </div>

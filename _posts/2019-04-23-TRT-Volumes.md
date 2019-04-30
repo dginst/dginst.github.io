@@ -4,7 +4,9 @@ comments: false
 title: "Real Volume: The Rock Trading Exchange"
 subtitle: "A supplement to the Bitwise report presented in March 2019 to SEC"
 author: "Marcello Pichini"
-image: 2019-04-23-TRT-Volumes.jpg
+image:
+    news: 2019-04-23-TRT-Volumes.jpg
+    square: 2019-04-23-TRT-Volumes_square.jpg
 published: true
 ---
 We have analyzed the trading volumes reported by
@@ -21,5 +23,3 @@ and/or non-economic wash trading.
 
 For more details about our supplemental analysis see the
 [report]({{ site.baseurl }}/presentations/201904-TRT_Volumes.pdf)
-
-[<img src="{{ site.baseurl }}/img/posts/2019-04-23-TRT-Volumes.jpg" alt="TRT Volumes" width="300" />]({{ site.baseurl }}/presentations/201904-TRT_Volumes.pdf)

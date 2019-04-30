@@ -4,20 +4,27 @@ layout: default
 
 <section id="posts" class="newspage">
     <div class="container">
-        <div class="row">
+        <div class="row col-lg-8 col-lg-offset-2">
             <h2>{{ page.title }}</h2>
-            <h3>{{ page.subtitle }}</h3>
         </div>
     </div>
     <div class="container">
-        <div class="row">
+        {% if page.image %}
+        <p>
+            <img src="{{ site.baseurl }}/img/posts/{{ page.image.news }}" class="aligncenter" width="725">  
+        </p>
+        {% endif %}
+    </div>
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
             <article class="post">
                 <p class="pdate">{{ page.date | date: "%b %e, %Y" }} |
                     <i> {{ page.author }}</i>
                 </p>
-               
-
+                
                 <p>{% include share-bar.html %}</p>
+
+                <h3>{{ page.subtitle }}</h3>
 
                 <p>{{ content }}</p>
 
@@ -25,5 +32,8 @@ layout: default
 
             </article>
         </div>
+    </div>
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+        <a href="{{ site.baseurl }}/news" class="btn btn-primary btn-xl">Back to news page</a>
     </div>
 </section>

@@ -1,7 +1,7 @@
 <section id="ots-tutorial" class="ots">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
                 <h2 class="section-heading">OpenTimestamps: A Deep Down Tutorial</h2>
                 <hr class="primary">
             </div>
@@ -24,8 +24,8 @@
 
 <section id="ots_tools_hash" class="ots" style="background-color:#f4f4f4;">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
                 <h2 class="section-heading">1. Calculating the Data File Hash Value</h2>
                 <hr class="primary">
             </div>
@@ -33,7 +33,7 @@
                 Calculate the <em>hash value</em> associated to
                 the data file to be timestamped; no internet connectivity is required.
                 <br>
-                The hash is calculated
+                The hash is calculated locally
                 inside the browser without disclosing the document to third
                 parties, preserving privacy.
             </p>
@@ -70,8 +70,8 @@
 
 <section id="ots_tools_timestamp" class="ots">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
                 <h2 class="section-heading">2. Submitting the Hash for Attestation</h2>
                 <hr class="primary">
             </div>
@@ -83,8 +83,8 @@
                 <br>
                 However, the receipt is not a proof yet,
                 i.e. it cannot be verified immediately: it is incomplete as 
-                it takes a few hours for the timestamp to get confirmed by the Bitcoin 
-                blockchain.
+                it takes up tp few hours for the timestamp to get confirmed
+                by the Bitcoin blockchain.
                 <br>
                 To avoid the inefficiency of one blockchain transaction for
                 every document hash, a calendar server
@@ -134,8 +134,8 @@
 
 <section id="ots_tools_load" class="ots" style="background-color:#f4f4f4;">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
                 <h2 class="section-heading">3. Loading the OTS Receipt/Proof From File</h2>
                 <hr class="primary">
             </div>
@@ -172,8 +172,8 @@
 
 <section id="ots_tools_info" class="ots">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
                 <h2 class="section-heading">4. Displaying the OTS Receipt/Proof Informations</h2>
                 <hr class="primary">
             </div>
@@ -207,8 +207,8 @@
 
 <section id="ots_tools_upgrade" class="ots" style="background-color:#f4f4f4;">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
                 <h2 class="section-heading">5. Upgrading the OTS Receipt/Proof</h2>
                 <hr class="primary">
             </div>
@@ -263,8 +263,8 @@
 
 <section id="ots_tools_verify" class="ots">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
                 <h2 class="section-heading">6. Verifying the OTS Receipt/Proof</h2>
                 <hr class="primary">
             </div>
@@ -280,9 +280,9 @@
                 filesystem, this page relies on public block-explorers
                 for verification.
                 <br>
-                First an upgraded proof is obtained from the calendar servers
-                if available (as in the step above, which is included here to
-                ensure updated informations),
+                First an upgraded proof is obtained from the calendar
+                servers if available (as in the step above, performed
+                also here to ensure updated informations),
                 then the receipt/proof status is displayed below.
             </p>
             <div class="card-body">
