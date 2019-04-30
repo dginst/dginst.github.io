@@ -1,228 +1,231 @@
-<section id="modules" class="training" style="background-color:#f5f5f5;">
-    <div class="container">
-        <div class="row col-lg-8 col-lg-offset-2">
-            <div class="text-center">
-                <h2 class="section-heading">Modules</h2>
-                <hr class="primary">
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row col-lg-8 col-lg-offset-2">
-            <p class="text-muted">
-                <ol>
-                    <li class="text-muted"><b>Introduction to Bitcoin and Blockchain</b>
-                        <ul>
-                            <li class="text-muted">
-                                Prerequisites: none; laptop for the lab 
-                            </li>
-                            <li class="text-muted">
-                                Audience: c-level executives, managers, researchers, technologists, and developers
-                            </li>
-                            <li class="text-muted">
-                                Topics:
-                                <ul>
-                                    <li>Internet Money</li>
-                                    <li>Bitcoin Transactions</li>
-                                    <li>About Money</li>
-                                    <li>Private Money and the Centralization Dilemma</li>
-                                    <li>The Double Spending Problem</li>
-                                    <li>Bitcoin as Digital Gold</li>
-                                    <li>Bitcoin as Investment Asset</li>
-                                    <li>Blockchain Without Bitcoin</li>
-                                    <li>Timestamping and Anchoring</li>
-                                </ul>
-                            </li>
-                            <li class="text-muted">
-                                Lab:
-                                <a href="http://bitaddress.org">bitaddress.org</a>,
-                                <a href="http://blockstream.info/">block explorer</a>,
-                                <a href="http://electrum.org/#download">bitcoin wallet (Electrum)</a>,
-                                digital signature using a bitcoin private key, and
-                                <a href="{{ site.baseurl }}/ots">OpenTimestamps</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <br>
-                    <li class="text-muted"><b>Blockchain, Mining, and Distributed Consensus</b>
-                        <ul>
-                            <li class="text-muted">                    
-                            Prerequisites: module 1; laptop for the lab
-                            </li>
-                            <li class="text-muted">
-                            Audience: managers, researchers, technologists, and developers
-                            </li>
-                            <li class="text-muted">
-                                Topics:
-                                <ul>
-                                    <li>Hash Functions</li>
-                                    <li>Simplified Digital Currency</li>
-                                    <li>Distributed Consensus</li>
-                                    <li>Mining</li>
-                                    <li>P2P Network</li>
-                                    <li>Protocol Governance</li>
-                                </ul>
-                            </li>
-                            <li class="text-muted">   
-                                Lab: mining (<a href="http://github.com/dginst/bbt/blob/master/py-scripts/hash_puzzle.py">partial hash inversion</a>),
-                                <a href="http://github.com/dginst/bbt/tree/master/regtest-lab">regtest</a>
-                                (<a href="http://bitcoincore.org/en/download/">Bitcoin Core</a>)
-                            </li>
-                        </ul>
-                    </li>
-                    <br>
-                    <li class="text-muted"><b>Elliptic Curve Digital Signature Algorithm</b>
-                        <ul>
-                            <li class="text-muted"> 
-                                Prerequisites: none; laptop for the lab  
-                            </li>
-                            <li class="text-muted">
-                                Audience: researchers, technologists, and developers
-                            </li>
-                            <li class="text-muted">
-                                Topics:
-                                <ul>
-                                    <li>Modular Arithmetic</li>
-                                    <li>Algebra of Sets: Finite Field 𝐹</li>
-                                    <li>Elliptic Curves over Real Numbers</li>
-                                    <li>Elliptic Curves over a Finite Field 𝐹</li>
-                                    <li>Asymmetric Cryptography on Elliptic Curves</li>
-                                    <li>Digital Signature Protocol</li>
-                                    <li>Elliptic Curve Digital Signature Algorithm</li>
-                                </ul>
-                            </li>
-                            <li class="text-muted">
-                                Lab: programming with <a href="http://github.com/dginst/btclib">btclib</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <br>
-                    <li class="text-muted"><b>Advanced Elliptic Curve Cryptography</b>
-                        <ul>
-                            <li class="text-muted">   
-                                Prerequisites: modules 3; laptop for the lab  
-                            </li>
-                            <li class="text-muted">
-                                Audience: researchers, technologists, and developers
-                            </li>
-                            <li class="text-muted">
-                                Topics:
-                                <ul>
-                                    <li>Schnorr Signature and batch validation</li>
-                                    <li>Mu(lti)Sig(nature)</li>
-                                    <li>Pedersen Commitment</li>
-                                    <li>Ring signature</li>
-                                    <li>Boneh–Lynn–Shacham (BLS) signature scheme</li>
-                                    <li>Confidential Transactions</li>
-                                    <li>Range Proof</li>
-                                    <li>Bullet Proof</li>
-                                </ul>
-                            </li>
-                            <li class="text-muted">
-                                Lab: programming with <a href="http://github.com/dginst/btclib">btclib</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <br>
-                    <li class="text-muted"><b>Wallets: Key Encodings and Deterministic Sequences</b>
-                        <ul>
-                            <li class="text-muted">   
-                                Prerequisites: modules 1, 2, and 3; laptop for the lab
-                            </li>
-                            <li class="text-muted">  
-                                Audience: researchers, technologists, and developers
-                            </li>
-                            <li class="text-muted">
-                                Topics:  
-                                <ul>
-                                    <li>Addresses and Wallet Import Formats</li>
-                                    <li>Wallets</li>
-                                    <li>Deterministic Wallets</li>
-                                    <li>Hierarchical Deterministic Wallets: BIP32, 53, 55</li>
-                                    <li>Mnemonic Phrase: BIP39 and Electrum</li>
-                                    <li>Payment Processors and Exchanges</li>
-                                </ul>
-                            </li>
-                            <li class="text-muted">
-                                Lab: programming with <a href="http://github.com/dginst/btclib">btclib</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <br>
-                    <li class="text-muted"><b>Transactions and Blocks</b>
-                        <ul>
-                            <li class="text-muted"> 
-                                Prerequisites: modules 1, 2, 3, and 5; laptop for the lab  
-                            </li>
-                            <li class="text-muted">
-                                Audience: researchers, technologists, and developers
-                            </li>
-                            <li class="text-muted">
-                                Topics:
-                                <ul>
-                                    <li>TxIns, TxOs, and UTxO</li>
-                                    <li>Bitcoin Script Language</li>
-                                    <li>Standard Transaction Scripts</li>
-                                    <li>Transactions: Signatures and Smart Contracts</li>
-                                    <li>Blocks</li>
-                                </ul>
-                            </li>
-                            <li class="text-muted">
-                                Lab: Script programming
-                            </li>
-                        </ul>
-                    </li class="text-muted">
-                    <br>
-                    <li class="text-muted"><b>Monetary Engineering and Alternative Coins</b>
-                        <ul>
-                            <li class="text-muted">   
-                                Prerequisites: module 1  
-                            </li>
-                            <li class="text-muted">
-                                Audience: c-level executives, managers, researchers, technologists, and developers
-                            </li>
-                            <li class="text-muted">
-                                Topics:
-                                <ul>
-                                    <li>Cash, Electronic Money, Central Bank Money, eCash</li>
-                                    <li>About Money</li>
-                                    <li>Private Money and the Centralization Dilemma</li>
-                                    <li>The Double Spending Problem</li>
-                                    <li>Bitcoin as Digital Gold</li>
-                                    <li>Hayek Money: Elastic Non-discretionary Policy</li>
-                                    <li>Hayek Money: Dual Asset Ledger and Proof-of-Payment</li>
-                                    <li>Other Cryptocurrencies</li>
-                                    <li>Ethereum</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <br>
-                    <li class="text-muted"><b>Beyond Bitcoin: Between Hype and Reality</b>
-                        <ul>
-                            <li class="text-muted">
-                                Prerequisites: module 1; laptop for the lab  
-                            </li>
-                            <li class="text-muted">
-                                Audience: c-level executives, managers, researchers, technologists, and developers
-                            </li>
-                            <li class="text-muted">
-                                Topics:
-                                <ul>
-                                    <li>Smart Contracts</li>
-                                    <li>Initial Coin Offering</li>
-                                    <li>Blockchain Without Bitcoin</li>
-                                    <li>Distributed Ledger Technology</li>
-                                    <li>Timestamping and Anchoring</li>
-                                </ul>
-                            </li>
-                            <li class="text-muted">
-                                Lab: <a href="{{ site.baseurl }}/ots-tutorial">OpenTimestamps</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ol>
-            </p>
-        </div>
-    </div>
-</section>
+<ol class="text-muted">
+    <li>
+        <details>
+            <summary><em>Introduction to Bitcoin and Blockchain</em></summary>
+            <ul>
+                <li>
+                    Prerequisites: none; laptop for the lab
+                </li>
+                <li>
+                    Audience: c-level executives, managers,
+                    researchers, technologists, and developers
+                </li>
+                <li>
+                    Topics:
+                    <ul>
+                        <li>Internet Money</li>
+                        <li>Bitcoin Transactions</li>
+                        <li>About Money</li>
+                        <li>Private Money and the Centralization Dilemma</li>
+                        <li>The Double Spending Problem</li>
+                        <li>Bitcoin as Digital Gold</li>
+                        <li>Bitcoin as Investment Asset</li>
+                        <li>Blockchain Without Bitcoin</li>
+                        <li>Timestamping and Anchoring</li>
+                    </ul>
+                </li>
+                <li>
+                    Lab:
+                    <a href="http://bitaddress.org">bitaddress.org</a>,
+                    <a href="http://blockstream.info/">block explorer</a>,
+                    <a href="http://electrum.org/#download">bitcoin wallet (Electrum)</a>,
+                    digital signature using a bitcoin private key, and
+                    <a href="{{ site.baseurl }}/ots">OpenTimestamps</a>
+                </li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><em>Blockchain, Mining, and Distributed Consensus</em></summary>
+            <ul>
+                <li>
+                    Prerequisites: module 1; laptop for the lab
+                </li>
+                <li>
+                    Audience: managers, researchers, technologists, and developers
+                </li>
+                <li>
+                    Topics:
+                    <ul>
+                        <li>Hash Functions</li>
+                        <li>Simplified Digital Currency</li>
+                        <li>Distributed Consensus</li>
+                        <li>Mining</li>
+                        <li>P2P Network</li>
+                        <li>Protocol Governance</li>
+                    </ul>
+                </li>
+                <li>
+                    Lab: mining (<a href="http://github.com/dginst/bbt/blob/master/py-scripts/hash_puzzle.py">partial
+                        hash inversion</a>),
+                    <a href="http://github.com/dginst/bbt/tree/master/regtest-lab">regtest</a>
+                    (<a href="http://bitcoincore.org/en/download/">Bitcoin Core</a>)
+                </li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><em>Elliptic Curve Digital Signature Algorithm</em></summary>
+            <ul>
+                <li>
+                    Prerequisites: none; laptop for the lab
+                </li>
+                <li>
+                    Audience: researchers, technologists, and developers
+                </li>
+                <li>
+                    Topics:
+                    <ul>
+                        <li>Modular Arithmetic</li>
+                        <li>Algebra of Sets: Finite Field 𝐹</li>
+                        <li>Elliptic Curves over Real Numbers</li>
+                        <li>Elliptic Curves over a Finite Field 𝐹</li>
+                        <li>Asymmetric Cryptography on Elliptic Curves</li>
+                        <li>Digital Signature Protocol</li>
+                        <li>Elliptic Curve Digital Signature Algorithm</li>
+                    </ul>
+                </li>
+                <li>
+                    Lab: programming with <a href="http://github.com/dginst/btclib">btclib</a>
+                </li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><em>Advanced Elliptic Curve Cryptography</em></summary>
+            <ul>
+                <li>
+                    Prerequisites: modules 3; laptop for the lab
+                </li>
+                <li>
+                    Audience: researchers, technologists, and developers
+                </li>
+                <li>
+                    Topics:
+                    <ul>
+                        <li>Schnorr Signature and batch validation</li>
+                        <li>Mu(lti)Sig(nature)</li>
+                        <li>Pedersen Commitment</li>
+                        <li>Ring signature</li>
+                        <li>Boneh–Lynn–Shacham (BLS) signature scheme</li>
+                        <li>Confidential Transactions</li>
+                        <li>Range Proof</li>
+                        <li>Bullet Proof</li>
+                    </ul>
+                </li>
+                <li>
+                    Lab: programming with <a href="http://github.com/dginst/btclib">btclib</a>
+                </li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><em>Wallets: Key Encodings and Deterministic Sequences</em></summary>
+            <ul>
+                <li>
+                    Prerequisites: modules 1, 2, and 3; laptop for the lab
+                </li>
+                <li>
+                    Audience: researchers, technologists, and developers
+                </li>
+                <li>
+                    Topics:
+                    <ul>
+                        <li>Addresses and Wallet Import Formats</li>
+                        <li>Wallets</li>
+                        <li>Deterministic Wallets</li>
+                        <li>Hierarchical Deterministic Wallets: BIP32, 53, 55</li>
+                        <li>Mnemonic Phrase: BIP39 and Electrum</li>
+                        <li>Payment Processors and Exchanges</li>
+                    </ul>
+                </li>
+                <li>
+                    Lab: programming with <a href="http://github.com/dginst/btclib">btclib</a>
+                </li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><em>Transactions and Blocks</em></summary>
+            <ul>
+                <li>
+                    Prerequisites: modules 1, 2, 3, and 5; laptop for the lab
+                </li>
+                <li>
+                    Audience: researchers, technologists, and developers
+                </li>
+                <li>
+                    Topics:
+                    <ul>
+                        <li>TxIns, TxOs, and UTxO</li>
+                        <li>Bitcoin Script Language</li>
+                        <li>Standard Transaction Scripts</li>
+                        <li>Transactions: Signatures and Smart Contracts</li>
+                        <li>Blocks</li>
+                    </ul>
+                </li>
+                <li>
+                    Lab: Script programming
+                </li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><em>Monetary Engineering and Alternative Coins</em></summary>
+            <ul>
+                <li>
+                    Prerequisites: module 1
+                </li>
+                <li>
+                    Audience: c-level executives, managers, researchers, technologists, and developers
+                </li>
+                <li>
+                    Topics:
+                    <ul>
+                        <li>Cash, Electronic Money, Central Bank Money, eCash</li>
+                        <li>About Money</li>
+                        <li>Private Money and the Centralization Dilemma</li>
+                        <li>The Double Spending Problem</li>
+                        <li>Bitcoin as Digital Gold</li>
+                        <li>Hayek Money: Elastic Non-discretionary Policy</li>
+                        <li>Hayek Money: Dual Asset Ledger and Proof-of-Payment</li>
+                        <li>Other Cryptocurrencies</li>
+                        <li>Ethereum</li>
+                    </ul>
+                </li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><em>Beyond Bitcoin: Between Hype and Reality</em></summary>
+            <ul>
+                <li>
+                    Prerequisites: module 1; laptop for the lab
+                </li>
+                <li>
+                    Audience: c-level executives, managers, researchers, technologists, and developers
+                </li>
+                <li>
+                    Topics:
+                    <ul>
+                        <li>Smart Contracts</li>
+                        <li>Initial Coin Offering</li>
+                        <li>Blockchain Without Bitcoin</li>
+                        <li>Distributed Ledger Technology</li>
+                        <li>Timestamping and Anchoring</li>
+                    </ul>
+                </li>
+                <li>
+                    Lab: <a href="{{ site.baseurl }}/ots-tutorial">OpenTimestamps</a>
+                </li>
+            </ul>
+        </details>
+    </li>
+</ol>

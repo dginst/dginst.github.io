@@ -22,27 +22,26 @@ permalink: /news/
                         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                     </h2>
 
-                    {% if post.subtitle %}
-                    <p>{{ post.subtitle }}</p>
-                    {% endif %}
-                    
-                    {% if post.image.square %}
-                    <p><img src="{{ site.baseurl }}/img/posts/{{ post.image.square }}" class="alignleft" width="200" height="200"></p>
-                    {% endif %}
-
                     <p class="pdate text-muted">
                         {{ post.date | date: "%b %e, %Y" }} | <i>by {{ post.author }}</i>
                     </p>
-    
-                    <p>{{ post.excerpt }}</p>
-            
+
+                    {% if post.subtitle %}
+                    <p>{{ post.subtitle }}</p>
+                    {% endif %}
+
+                    {% if post.image.square %}
                     <p>
-                        <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+                        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/posts/{{ post.image.square }}" class="alignleft" width="200" height="200">
                     </p>
+                    {% endif %}
+
+                    <p>{{ post.excerpt }}</p>
+
+                    <p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
                 </article>
                 {% endfor %}
             </div>
-
         </div>
     </div>
 </section>
