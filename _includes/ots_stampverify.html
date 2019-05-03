@@ -10,19 +10,22 @@
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
             <div class="stamp-and-verify-drop-zone" id="dropbox1">
-                Drop here a file to <b>stamp</b> it
-                or a (<i>.ots</i>) receipt/proof to <b>verify</b> it.
+                <span class="instructions">
+                    Drop here a file to <b>stamp</b> it
+                    or a (.ots) receipt/proof to <b>verify</b> it.
+                </span>
+                <span class="filename"></span>
+                <span class="filesize"></span>
                 <br><br>
                 <img src="{{ site.baseurl }}/img/ots/logo.svg" height="40">
                 <br><br>
-                <span class="filename"></span>
-                <span class="filesize"></span>
+                <span class="hash"></span>
             </div>
             <br>
             <div class="row">
                 <p class="text-muted">
                     When a file is dropped in the above box, its <em>hash
-                    value</em> is calculated locally inside the browser
+                        value</em> is calculated locally inside the browser
                     without disclosing the document to third parties,
                     preserving privacy.
                     The hash value acts as a digital fingerprint, 'uniquely'
@@ -58,14 +61,13 @@
 
             <br>
 
-            <div class="stamp-and-verify-drop-zone" id="dropbox2" style="display:none">
-                Drop here the <b>original file</b> to check that its hash matches the
-                stamped one.
+            <div class="stamp-and-verify-drop-zone" id="dropbox2" style="display: none">
+                <span class="filename"></span>
+                <span class="filesize"></span>
                 <br><br>
                 <img src="{{ site.baseurl }}/img/ots/logo.svg" height="40">
                 <br><br>
-                <span class="filename"></span>
-                <span class="filesize"></span>
+                <span class="hash"></span>
             </div>
 
             <input id="dropbox2_input" type="file" style="display:none">
