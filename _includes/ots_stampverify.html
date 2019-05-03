@@ -26,13 +26,18 @@
                 preserving privacy.
                 The hash value acts as a digital fingerprint, 'uniquely'
                 identifying the unmodified original document, and it is
-                submitted to the public
+                submitted to multiple 
                 <a href="https://www.opentimestamps.org">OpenTimestamps</a>
-                <em>calendar servers</em>
-                for attestation of its existence (timestamp); a
-                submission (<i>.ots</i>) receipt is locally downloaded.
+                public <em>calendar servers</em>
+                for attestation of its existence (timestamp); a submission
+                (<i>.ots</i>) receipt is locally downloaded.
                 In time, this hash will be attested in a Bitcoin block header
-                and the receipt will become upgradable to attestation proof.
+                and the submission receipt will become upgradable to
+                attestation proof.
+                The submission receipt is not an attestation proof yet,
+                i.e. it cannot be verified immediately: it is incomplete as
+                it takes up to few hours for the timestamp to get confirmed
+                by the Bitcoin blockchain.
                 <br>
                 Alternatively,
                 if the file dropped in the above box is a (<i>.ots</i>)

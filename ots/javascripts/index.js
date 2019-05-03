@@ -54,7 +54,7 @@ function stamp(filename, hash, hashType) {
 		const timestampBytes = ctx.getOutput();
 		download(filename, timestampBytes);
 		Document.progressStop();
-		success('OpenTimestamps receipt created and download started');
+		receipt('Created (.ots) submission receipt and started its download.');
 	}).catch(err => {
 		console.log("err "+err);
 		Document.progressStop();
@@ -107,7 +107,7 @@ function upgrade_verify(ots, hash, hashType, filename) {
                 	}
             	});
     		} else {
-                proof_warning('Pending attestation');
+                proof_warning('The (.ots) submission receipt is still in pending attestation.');
 			}
 		} else {
 			var text = "";
@@ -367,9 +367,9 @@ var Document = {
 		// Run automatically stamp or verify action
         if (Proof.exist()) {
 			if (Proof.getHash() == Hashes.get("SHA256")) {
-				success('The provided file is the stamped one: its hash value matches the stamped one')
+				success('The provided file matches the provided receipt/proof: same hash values.')
 			} else {
-				warning('The provided file is not the stamped one: its hash value does not match the stamped one')
+				failure('The provided file does NOT matches the provided receipt/proof: different hash values.')
 			}
 		} else {
             // Automatically stamp
@@ -389,7 +389,6 @@ var Proof = {
     isValid : function(fileName) {
         const res = fileName.match(/\.[0-9a-z]+$/i);
 		return res !== null && res.length > 0 && res[0] === ".ots";
-
     },
     setTagId : function(tagId) {
         this.tagId = tagId;
@@ -629,6 +628,7 @@ function run_stamping() {
         failure("To <strong>stamp</strong> you need to drop a file in the Data field");
     }
 }
+
 function run_verification(){
     if (Proof.data) {
         Proof.progressStart();
@@ -782,6 +782,9 @@ function hashing(text) {
 }
 function stamping(text) {
     document_message("STAMPING", text, 'statuses_hashing', false);
+}
+function receipt(text) {
+    document_message("SUBMITTED", text, 'statuses_success');
 }
 function success(text) {
     document_message("SUCCESS!", text, 'statuses_success');
