@@ -54,7 +54,7 @@ function stamp(filename, hash, hashType) {
 		const timestampBytes = ctx.getOutput();
 		download(filename, timestampBytes);
 		Document.progressStop();
-		receipt('Created (.ots) submission receipt and started its download.');
+		submitted('Created (.ots) submission receipt and started its download.');
 	}).catch(err => {
 		console.log("err " + err);
 		Document.progressStop();
@@ -84,7 +84,6 @@ function upgrade_verify(ots, hash, hashType, filename) {
 	OpenTimestamps.upgrade(detachedOts, upgradeOptions).then((changed) => {
 		const bytes = detachedOts.serializeToBytes();
 		if (changed) {
-			//success('Timestamp has been successfully upgraded!');
 			download(filename, bytes);
 
 			// update proof
@@ -113,9 +112,10 @@ function upgrade_verify(ots, hash, hashType, filename) {
 			var text = "";
 			Object.keys(results).map(chain => {
 				var date = moment(results[chain].timestamp * 1000).tz(moment.tz.guess()).format('YYYY-MM-DD z')
-				text += upperFirstLetter(chain) + ' block ' + results[chain].height + ' attests existence as of ' + date + '<br>';
+				text += upperFirstLetter(chain) + ' block ' + results[chain].height;
+				text += ' attests the submitted <b>hash value</b> as of ' + date;
 			});
-			verified(text);
+			stamped(text);
 		}
 	}).catch(err => {
 		Proof.progressStop();
@@ -324,7 +324,7 @@ var Document = {
 			$(this.tagId + " .filename").html(this.filename);
 			$(this.tagId + " .instructions").html("&nbsp;");
 		} else {
-			$(this.tagId + " .filename").html("Drop here the <b>original</b> file to check that its hash matches the receipt/proof one.");
+			$(this.tagId + " .filename").html("Drop here the <b>original</b> file to <b>verify</b> it matches the receipt/proof.");
 		}
 		if (this.filesize) {
 			$(this.tagId + " .filesize").html(" " + humanFileSize(this.filesize, true));
@@ -345,7 +345,7 @@ var Document = {
 			return;
 		}
 		if (!Hashes.progress && Hashes.get(hashType)) {
-			$(this.tagId + " .hash").html("(" + hashType + ") " + Hashes.get(hashType));
+			$(this.tagId + " .hash").html("<b>hash value</b>:<br>(" + hashType + ") " + Hashes.get(hashType));
 		} else {
 			$(this.tagId + " .hash").html("&nbsp;");
 		}
@@ -368,8 +368,8 @@ var Document = {
 		// Run automatically stamp or verify action
 		if (Proof.exist()) {
 			if (Proof.getHash() == Hashes.get("SHA256")) {
-				if (Proof.verified()) {
-					success('The provided file matches the provided (.ots) attestation proof: same hash values.')
+				if (Proof.stamped()) {
+					verified('The provided file matches the provided (.ots) attestation proof: same hash values.<br><b>File existance is attested</b> at the above date.')
 				} else {
 					matched('The provided file matches the provided (.ots) submission receipt: same hash values. Anyway, attestation is still pending.')
 				}
@@ -412,10 +412,10 @@ var Proof = {
 	exist: function () {
 		return this.filename !== undefined && this.filesize !== undefined && this.data !== undefined;
 	},
-	verified: function () {
+	stamped: function () {
 		return this.isVerified;
 	},
-	setVerified: function () {
+	setStamped: function () {
 		this.isVerified = true;
 	},
 	upload: function (file) {
@@ -451,7 +451,7 @@ var Proof = {
 				return;
 			}
 			var hash = Proof.getHash();
-			$(this.tagId + " .hash").html("Stamped hash:<br>(" + hashType + ") " + hash);
+			$(this.tagId + " .hash").html("Submitted <b>hash value</b>:<br>(" + hashType + ") " + hash);
 
 			run_verification();
 		}
@@ -775,9 +775,9 @@ function proof_message(title, text, cssClass, showInfo) {
 function verifying(text) {
 	proof_message("VERIFYING", text, 'statuses_hashing', true);
 }
-function verified(text) {
-	Proof.setVerified()
-	proof_message("VERIFIED!", text, 'statuses_success');
+function stamped(text) {
+	Proof.setStamped()
+	proof_message("STAMPED!", text, 'statuses_success');
 }
 
 function document_message(title, text, cssClass, showInfo) {
@@ -797,14 +797,14 @@ function hashing(text) {
 function stamping(text) {
 	document_message("STAMPING", text, 'statuses_hashing', false);
 }
-function receipt(text) {
+function submitted(text) {
 	document_message("SUBMITTED!", text, 'statuses_success');
 }
 function matched(text) {
 	document_message("MATCHED!", text, 'statuses_success');
 }
-function success(text) {
-	document_message("SUCCESS!", text, 'statuses_success');
+function verified(text) {
+	document_message("VERIFIED!", text, 'statuses_success');
 }
 function failure(text) {
 	document_message("FAILURE!", text, 'statuses_failure');
