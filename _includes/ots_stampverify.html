@@ -9,6 +9,80 @@
     </div>
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
+
+            <div class="row">
+                <p class="text-muted">
+                    A timestamp proves that a document existed in a
+                    specific status prior to a given point in time.
+                    A digital document can be timestamped <em>attesting</em>
+                    its <em>hash value</em> inside a blockchain transaction:
+                    the hash value 'uniquely' identifies the document
+                    (as if it was some kind of digital fingerprint),
+                    the blockchain transaction extends its native timestamping
+                    to the hash value.
+                    As a result, the attestation of the hash value existance
+                    at a given point in time implicitly proves the existance
+                    of the document prior to that given moment.
+                </p>
+                <p class="text-muted">
+                    The timestamping and content of a blockchain transaction
+                    (including the hash value of the document)
+                    are secured by the amount of computational effort
+                    performed after its inclusion in a block of the chain.
+                    Indeed, the more blocks are added to the chain
+                    after a given block,
+                    the more computationally intensive becomes
+                    tampering with that block data; even just trying
+                    to alter the timestamp of one of its transactions
+                    becomes technically and economically prohibitive,
+                    especially in the Bitcoin case.
+                </p>
+                <p class="text-muted">
+                    Although there are many ways to realize a timestamp,
+                    <a href="https://www.opentimestamps.org">OpenTimestamps</a>
+                    is a vendor-independent blockchain-agnostic
+                    open protocol that defines a
+                    set of operations for creating provable blockchain
+                    timestamps and later independently verifying them;
+                    as such, it allows for third party auditability and
+                    is suitable for regulatory prescriptions.
+                </p>
+                <p class="text-muted">
+                    While anyone could timestamp with any permissionless
+                    blockchain by paying the appropriate transaction fees
+                    (using the OpenTimestamps protocol or any alternative approach),                   
+                    there are public OpenTimestamps
+                    <em>calendar servers</em>,
+                    free to use without any registration or API key,
+                    that use the Bitcoin blockchain as a timestamp notary,
+                    i.e. the proof is attested in a Bitcoin block header.
+                    This webpage is an interface to create timestamp proofs
+                    using the OpenTimestamps public servers.
+                </p>
+                <p class="text-muted">
+                    When a file is dropped in the box below, its
+                    hash value is calculated locally inside the
+                    browser without disclosing the document to third parties,
+                    preserving privacy.
+                    The hash is then submitted to multiple
+                    public servers
+                    (e.g. <a href="https://btc.ots.dgi.io">btc.ots.dgi.io</a>)
+                    to obtain an <em>attestation proof</em>
+                    of its existence (timestamp).
+                    A (<i>.ots</i>) 
+                    <em>submission receipt</em> is immediately downloaded;
+                    this is not an attestation proof yet:
+                    it is incomplete and it cannot be verified immediately,
+                    as it can take up to few hours for the transaction to be
+                    included in a valid block.
+                    In time, the hash value will be attested in a block:
+                    the servers it has been submitted to
+                    will be able to upgrade the submission receipt to
+                    attestation proof.
+                </p>
+                
+            </div>
+
             <div class="stamp-and-verify-drop-zone" id="dropbox1">
                 <span class="instructions">
                     Drop here a file to <b>stamp</b> it
@@ -21,36 +95,29 @@
                 <br><br>
                 <span class="hash"></span>
             </div>
+
             <br>
+
             <div class="row">
                 <p class="text-muted">
-                    When a file is dropped in the above box, its <em>hash
-                        value</em> is calculated locally inside the browser
-                    without disclosing the document to third parties,
-                    preserving privacy.
-                    The hash value acts as a digital fingerprint, 'uniquely'
-                    identifying the unmodified original document, and it is
-                    submitted to multiple
-                    <a href="https://www.opentimestamps.org">OpenTimestamps</a>
-                    public <em>calendar servers</em>
-                    for attestation of its existence (timestamp); a submission
-                    (<i>.ots</i>) receipt is locally downloaded.
-                    In time, this hash will be attested in a Bitcoin block header
-                    and the submission receipt will become upgradable to
-                    attestation proof.
-                    The submission receipt is not an attestation proof yet,
-                    i.e. it cannot be verified immediately: it is incomplete as
-                    it takes up to few hours for the timestamp to get confirmed
-                    by the Bitcoin blockchain.
-                    <br>
                     Alternatively,
                     if the file dropped in the above box is a (<i>.ots</i>)
-                    receipt/proof, first an upgraded proof is obtained from the
+                    submission receipt or attestation proof,
+                    first an upgraded proof is downloaded from the
                     calendar servers if available, then the most recent
-                    receipt/proof status is displayed below.
+                    receipt/proof is verified below.
+                </p>
+                <p class="text-muted">
+                    OpenTimestamps attestation proofs can be verified
+                    independently from
+                    any server, vendor, or sofisticated infrastructure, simply
+                    using a local copy of the blockchain (e.g. a Bitcoin
+                    <a href="http://bitcoincore.org/en/download/"></a>full node</a>);
+                    this interface is just a facility and,
+                    since a webpage cannot access the local filesystem,
+                    relies on public Bitcoin block-explorers for verification.
                 </p>
             </div>
-
 
             <input id="dropbox1_input" type="file" style="display:none">
             <div class="statuses statuses_hashing" id="proof-status" style="display: none">
@@ -85,6 +152,7 @@
                     </button>
                 </a>
             </div>
+
         </div>
     </div>
 </section>
