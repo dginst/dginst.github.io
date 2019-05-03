@@ -2,18 +2,19 @@
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
             <div class="text-center">
-                <h2 class="section-heading">OpenTimestamps: A Deep Down Tutorial</h2>
+                <h2 class="section-heading">OpenTimestamps: A Step by Step Tutorial</h2>
                 <hr class="primary">
             </div>
             <p class="text-muted">
                 This tutorial breaks down the
-                <a href="https://www.opentimestamps.org">OpenTimestamps</a>
+                <a href="https://opentimestamps.org">OpenTimestamps</a>
                 protocol into the following granular steps:
                 <ol>
                     <li><a class="page-scroll" href="#ots_tools_hash">Calculating the data file hash value</a></li>
                     <li><a class="page-scroll" href="#ots_tools_timestamp">Submitting the hash for attestation</a></li>
                     <li><a class="page-scroll" href="#ots_tools_load">Loading the OTS receipt/proof from file</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_info">Displaying the OTS receipt/proof informations</a></li>
+                    <li><a class="page-scroll" href="#ots_tools_info">Displaying the OTS receipt/proof informations</a>
+                    </li>
                     <li><a class="page-scroll" href="#ots_tools_upgrade">Upgrading the OTS receipt/proof</a></li>
                     <li><a class="page-scroll" href="#ots_tools_verify">Verifying the OTS receipt/proof</a></li>
                 </ol>
@@ -44,7 +45,8 @@
                     <div class="col-lg-12 col-md-12 padding">
                         <div class="form-group">
                             <label for="hash-filename">Data file</label>
-                            <input type="file" id="hash-filename" class="form-control" accept='*' placeholder="datafile.ext"/>
+                            <input type="file" id="hash-filename" class="form-control" accept='*'
+                                placeholder="datafile.ext" />
                         </div>
                         <div class="form-group">
                             <label for="hash-hashType">Hash function</label>
@@ -61,7 +63,8 @@
                         <br>
                         <div class="form-group">
                             <label for="hash-output">Hash value</label>
-                            <textarea type="text" id="hash-output" name="hash" class="form-control" placeholder="Result will be displayed here" rows="1" cols="64"></textarea><br>
+                            <textarea type="text" id="hash-output" name="hash" class="form-control"
+                                placeholder="Result will be displayed here" rows="1" cols="64"></textarea><br>
                         </div>
                     </div>
                 </div>
@@ -98,7 +101,7 @@
                 <em>aggregation</em> of multiple hashes
                 in a Merkle tree data structure and
                 performs their <em>attestation</em> in a single transaction,
-                effectively attesting only the Merkle tree root, 
+                effectively attesting only the Merkle tree root,
                 which is itself a hash value.
             </p>
             <div class="card-body">
@@ -106,7 +109,8 @@
                     <div class="col-md-12 padding">
                         <div class="form-group">
                             <label for="stamp-hashValue">Hash value</label>
-                            <textarea type="text" id="stamp-hashValue" name="stamp-hashValue" class="form-control" placeholder="Paste input here" rows="1" cols="64"></textarea>
+                            <textarea type="text" id="stamp-hashValue" name="stamp-hashValue" class="form-control"
+                                placeholder="Paste input here" rows="1" cols="64"></textarea>
                         </div>
                         <div class="form-group">
                             <label for="stamp-hashType">Hash function used for the hash above</label>
@@ -118,7 +122,8 @@
                         </div>
                         <div class="form-group">
                             <label for="stamp-filename">OTS receipt filename</label>
-                            <textarea type="text" id="stamp-filename" name="stamp-filename" class="form-control" rows="1" cols="64">datafile.ext.ots</textarea>
+                            <textarea type="text" id="stamp-filename" name="stamp-filename" class="form-control"
+                                rows="1" cols="64">datafile.ext.ots</textarea>
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
@@ -127,7 +132,8 @@
                         <br>
                         <div class="form-group">
                             <label for="stamp-output">OTS receipt</label>
-                            <textarea type="text" id="stamp-output" name="stamp-output" class="form-control" placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
+                            <textarea type="text" id="stamp-output" name="stamp-output" class="form-control"
+                                placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
                         </div>
                     </div>
                 </div>
@@ -152,7 +158,8 @@
                     <div class="col-md-12 padding">
                         <div class="form-group">
                             <label for="load-filename">OTS receipt/proof filename</label>
-                            <input type="file" id="load-filename" name="load-filename" class="form-control" accept='*' placeholder="datafile.ext.ots"/>
+                            <input type="file" id="load-filename" name="load-filename" class="form-control" accept='*'
+                                placeholder="datafile.ext.ots" />
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
@@ -161,11 +168,13 @@
                         <br>
                         <div class="form-group">
                             <label for="load-hashValue">OTS receipt/proof is for the hash</label>
-                            <textarea type="text" id="load-hashValue" name="load-hashValue" class="form-control" placeholder="Result will be displayed here" rows="1" cols="64"></textarea>
+                            <textarea type="text" id="load-hashValue" name="load-hashValue" class="form-control"
+                                placeholder="Result will be displayed here" rows="1" cols="64"></textarea>
                         </div>
-                    <div class="form-group">
+                        <div class="form-group">
                             <label for="load-output">OTS receipt/proof</label>
-                            <textarea type="text" id="load-output" name="load-output" class="form-control" placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
+                            <textarea type="text" id="load-output" name="load-output" class="form-control"
+                                placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
                         </div>
                     </div>
                 </div>
@@ -191,7 +200,8 @@
                     <div class="col-md-12 padding">
                         <div class="form-group">
                             <label for="info-ots">OTS receipt/proof</label>
-                            <textarea type="text" id="info-ots" name="info-ots" class="form-control" placeholder="Paste input here" rows="8" cols="64"></textarea>
+                            <textarea type="text" id="info-ots" name="info-ots" class="form-control"
+                                placeholder="Paste input here" rows="8" cols="64"></textarea>
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
@@ -200,7 +210,8 @@
                         <br>
                         <div class="form-group">
                             <label for="info-output">Informations</label>
-                            <textarea type="text" id="info-output" name="info-output" class="form-control" placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
+                            <textarea type="text" id="info-output" name="info-output" class="form-control"
+                                placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
                         </div>
                     </div>
                 </div>
@@ -238,11 +249,13 @@
                     <div class="col-md-12 padding">
                         <div class="form-group">
                             <label for="upgrade-ots">OTS receipt/proof</label>
-                            <textarea type="text" id="upgrade-ots" name="upgrade-ots" class="form-control" placeholder="Paste input here" rows="8" cols="64"></textarea>
+                            <textarea type="text" id="upgrade-ots" name="upgrade-ots" class="form-control"
+                                placeholder="Paste input here" rows="8" cols="64"></textarea>
                         </div>
                         <div class="form-group">
                             <label for="upgrade-filename">Filename for the upgraded OTS proof (if any)</label>
-                            <textarea type="text" id="upgrade-filename" name="upgrade-filename" class="form-control" rows="1" cols="64">datafile.ext.upgraded.ots</textarea>
+                            <textarea type="text" id="upgrade-filename" name="upgrade-filename" class="form-control"
+                                rows="1" cols="64">datafile.ext.upgraded.ots</textarea>
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
@@ -251,11 +264,13 @@
                         <br>
                         <div class="form-group">
                             <label for="upgrade-hashValue">OTS receipt/proof is for the hash</label>
-                            <textarea type="text" id="upgrade-hashValue" name="uograde-hashValue" class="form-control" placeholder="Result will be displayed here" rows="1" cols="64"></textarea>
+                            <textarea type="text" id="upgrade-hashValue" name="uograde-hashValue" class="form-control"
+                                placeholder="Result will be displayed here" rows="1" cols="64"></textarea>
                         </div>
-                    <div class="form-group">
+                        <div class="form-group">
                             <label for="upgrade-output">Upgraded OTS proof</label>
-                            <textarea type="text" id="upgrade-output" name="upgrade-output" class="form-control" placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
+                            <textarea type="text" id="upgrade-output" name="upgrade-output" class="form-control"
+                                placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
                         </div>
                     </div>
                 </div>
@@ -275,7 +290,7 @@
                 Verify the attestations included in the OTS receipt/proof
                 (if any); internet connectivity is required.
                 <br>
-                OTS receipt/proofs can be verified independently from any 
+                OTS receipt/proofs can be verified independently from any
                 OpenTimestamps
                 server or facility, using a local
                 <a href="http://bitcoincore.org/en/download/">Bitcoin Core</a>
@@ -293,11 +308,13 @@
                     <div class="col-md-12 padding">
                         <div class="form-group">
                             <label for="verify-ots">OTS receipt/proof</label>
-                            <textarea type="text" id="verify-ots" name="verify-ots" class="form-control" placeholder="Paste input here" rows="8" cols="64"></textarea>
+                            <textarea type="text" id="verify-ots" name="verify-ots" class="form-control"
+                                placeholder="Paste input here" rows="8" cols="64"></textarea>
                         </div>
                         <div class="form-group">
                             <label for="verify-filename">Filename for the upgraded OTS proof (if any)</label>
-                            <textarea type="text" id="verify-filename" name="verify-filename" class="form-control" rows="1" cols="64">datafile.ext.upgraded.ots</textarea>
+                            <textarea type="text" id="verify-filename" name="verify-filename" class="form-control"
+                                rows="1" cols="64">datafile.ext.upgraded.ots</textarea>
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
@@ -306,11 +323,13 @@
                         <br>
                         <div class="form-group">
                             <label for="verify-hashValue">OTS receipt/proof is for the hash</label>
-                            <textarea type="text" id="verify-hashValue" name="verify-hashValue" class="form-control" placeholder="Result will be displayed here" rows="1" cols="64"></textarea>
+                            <textarea type="text" id="verify-hashValue" name="verify-hashValue" class="form-control"
+                                placeholder="Result will be displayed here" rows="1" cols="64"></textarea>
                         </div>
                         <div class="form-group">
                             <label for="verify-output">Proof attestations</label>
-                            <textarea type="text" id="verify-output" name="verify-output" class="form-control" placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
+                            <textarea type="text" id="verify-output" name="verify-output" class="form-control"
+                                placeholder="Result will be displayed here" rows="8" cols="64"></textarea>
                         </div>
                     </div>
                 </div>

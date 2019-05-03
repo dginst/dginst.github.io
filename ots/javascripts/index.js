@@ -54,7 +54,7 @@ function stamp(filename, hash, hashType) {
 		const timestampBytes = ctx.getOutput();
 		download(filename, timestampBytes);
 		Document.progressStop();
-		submitted('Created (.ots) submission receipt and started its download.');
+		submitted('Created submission receipt and started its download.');
 	}).catch(err => {
 		console.log("err " + err);
 		Document.progressStop();
@@ -106,7 +106,7 @@ function upgrade_verify(ots, hash, hashType, filename) {
 					}
 				});
 			} else {
-				proof_warning('The (.ots) submission receipt is still in pending attestation.');
+				proof_warning('The submission receipt is still in pending attestation.');
 			}
 		} else {
 			var text = "";
@@ -324,7 +324,7 @@ var Document = {
 			$(this.tagId + " .filename").html(this.filename);
 			$(this.tagId + " .instructions").html("&nbsp;");
 		} else {
-			$(this.tagId + " .filename").html("Drop here the <b>original</b> file to <b>verify</b> it matches the receipt/proof.");
+			$(this.tagId + " .filename").html("Drop here the <b>original</b> file to <b>verify</b> it matches the receipt/proof provided above.");
 		}
 		if (this.filesize) {
 			$(this.tagId + " .filesize").html(" " + humanFileSize(this.filesize, true));
@@ -369,12 +369,16 @@ var Document = {
 		if (Proof.exist()) {
 			if (Proof.getHash() == Hashes.get("SHA256")) {
 				if (Proof.stamped()) {
-					verified('The provided file matches the provided (.ots) attestation proof: same hash values.<br><b>File existance is attested</b> at the above date.')
+					verified('The provided file matches the provided attestation proof: same hash values.<br><b>File existence is attested</b> at the above date.')
 				} else {
-					matched('The provided file matches the provided (.ots) submission receipt: same hash values. Anyway, attestation is still pending.')
+					matched('The provided file matches the provided submission receipt: same hash values.<br>Anyway, <b>attestation is still pending</b>.')
 				}
 			} else {
-				failure('The provided file does NOT matches the provided receipt/proof: different hash values.')
+				if (Proof.stamped()) {
+					failure('The provided file does NOT match the provided attestation proof: different hash values.<br><b>File existence is NOT attested</b> at the above date.')
+				} else {
+					failure('The provided file does NOT match the provided submission receipt: different hash values.')
+				}
 			}
 		} else {
 			// Automatically stamp

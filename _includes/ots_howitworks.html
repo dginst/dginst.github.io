@@ -1,22 +1,29 @@
-<section id="ots_howitworks" class="ots" style="background-color:#f4f4f4;">
+<section id="ots_howitworks" class="ots">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">How It Works</h2>
+                <h2 class="section-heading">Warnings</h2>
                 <hr class="primary">
             </div>
         </div>
     </div>
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
+
             <p class="text-muted">
-                To avoid the inefficiency of one blockchain transaction
-                for every timestamp, an OpenTimestaps server
-                provides <em>aggregation</em> of multiple hashes
-                (in a Merkle tree data structure)
-                and performs their <em>attestation</em> in a single
-                transaction (actually attesting only the tree root hash).
+                Attestation proofs can be verified independently from any
+                OpenTimestamps server or facility. The same is not true for
+                the submission receipt, which can only be upgraded to proof
+                using the OpenTimestamps calendar(s) used for submission.
             </p>
+
+            <p class="text-muted">
+                The user is responsible to store both the stamped document
+                (which has never been shared with the OpenTimestamps servers)
+                and its attestation proof (which technically might be stored
+                by the OpenTimestamps servers).
+            </p>
+
             <p class="text-muted">
                 While the OpenTimestamps
                 protocol is blockchain agnostic,
@@ -39,22 +46,24 @@
                     </li>
                 </ul>
             </p>
+
             <p class="text-muted">
                 It should be obvious, but it is worth mentioning that timestamping
                 (using the OpenTimestamps protocol or any alternative approach):
                 <ul>
                     <li class="text-muted">
-                    does not prove authorship (that should be proved using a
-                    digital signature);
+                        does not prove authorship (that should be proved using a
+                        digital signature);
                     </li>
                     <li class="text-muted">
-                    does not ensure veracity of the timestamped document.
+                        does not ensure veracity of the timestamped document.
                     </li>
                 </ul>
             </p>
         </div>
         <div class="col-lg-8 col-lg-offset-2 text-center">
-            <a href="{{ site.baseurl }}/ots-tutorial" class="btn btn-primary btn-xl page-scroll">Deep Down Tutorial</a>
+            <a href="{{ site.baseurl }}/ots-tutorial" class="btn btn-primary btn-xl page-scroll">Step by Step Advanced
+                Tutorial</a>
         </div>
     </div>
 </section>

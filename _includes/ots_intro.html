@@ -1,0 +1,107 @@
+<section id="ots_intro" class="ots">
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
+                <h2 class="section-heading">OpenTimestamps</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+
+            <!-- introduction -->
+            <div class="row">
+                <p class="text-muted">
+                    This webpage is an
+                    <a href="{{ site.baseurl }}/ots/#ots_stampverify">interface</a>
+                    to create and/or verify timestamp proofs using the
+                    <a href="https://opentimestamps.org">OpenTimestamps</a>
+                    protocol and its free public Bitcoin calendar servers.
+                </p>
+                <p class="text-muted">
+                    A timestamp proves that a document existed in a
+                    specific status prior to a given point in time.
+                    A digital document can be timestamped introducing
+                    its <em>hash value</em> inside a blockchain transaction:
+                    the hash value 'uniquely' identifies the document
+                    (as if it were a digital fingerprint) and
+                    the blockchain transaction extends its native timestamping
+                    to the included exogenous hash value.
+                    As a result, the <em>attestation</em> of the hash value
+                    existence at a given point in time implicitly proves
+                    the existence of the document itself
+                    prior to that moment.
+                </p>
+                <p class="text-muted">
+                    The timestamping and content of a blockchain transaction
+                    are secured by the amount of computational effort
+                    performed after its inclusion in a block of the chain.
+                    Indeed, the more blocks are added to the chain
+                    after a given block,
+                    the more computationally intensive becomes
+                    tampering with that block data; even just trying
+                    to alter the timestamp of one of its transactions
+                    becomes technically and economically prohibitive,
+                    especially in the Bitcoin case.
+                </p>
+                <p class="text-muted">
+                    Although there are many ways to realize a timestamp,
+                    <a href="https://opentimestamps.org"></a>OpenTimestamps</a>
+                    is a vendor-independent blockchain-agnostic
+                    open protocol that defines a
+                    set of operations for creating provable blockchain
+                    timestamps and later independently verifying them;
+                    as such, it allows for third party auditability and
+                    is suitable for regulatory prescriptions.
+                </p>
+                <p class="text-muted">
+                    OpenTimestamps attestation proofs can be verified
+                    independently from
+                    any server, vendor, or sophisticated infrastructure, simply
+                    using a local copy of the blockchain (e.g. a Bitcoin
+                    <a href="http://bitcoincore.org/en/download/">full node</a>);
+                    this interface is just a facility and,
+                    since a webpage cannot access the local filesystem,
+                    relies on public Bitcoin block-explorers for verification.
+                </p>
+                <p class="text-muted">
+                    While anyone could timestamp with any permissionless
+                    blockchain by paying the appropriate transaction fees
+                    (using the OpenTimestamps protocol
+                    or any alternative approach),
+                    there are multiple public OpenTimestamps
+                    <em>calendar servers</em>,
+                    free to use without any registration or API key.
+                    They use the Bitcoin blockchain as a timestamp notary,
+                    i.e. they make the Bitcoin transactions that ultimately
+                    attest hash values in Bitcoin blocks.
+                </p>
+                <p class="text-muted">
+                    To avoid the inefficiency of one blockchain transaction
+                    for every timestamp, an OpenTimestamps server
+                    provides <em>aggregation</em> of multiple hashes
+                    (in a Merkle tree data structure)
+                    and performs their <em>attestation</em> in a single
+                    transaction (attesting only the tree root hash).
+                </p>
+
+
+
+
+
+
+
+            </div>
+
+            <div class="col-lg-12 text-center">
+                <a href="#ots_stampverify" class="page-scroll">
+                    <button class="btn btn-primary">
+                        <i class="fa fa-angle-down fa-2x"></i>
+                    </button>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</section>
