@@ -9,78 +9,80 @@
     </div>
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
-        <div class="stamp-and-verify-drop-zone" id="dropbox1">
-            <span class="filename"></span>
-            <span class="filesize"></span>
-            <h4>
+            <div class="stamp-and-verify-drop-zone" id="dropbox1">
                 Drop here a file to <b>stamp</b> it
                 or a (<i>.ots</i>) receipt/proof to <b>verify</b> it.
-            </h4>
-        </div>
-        <br>
-        <div class="row">
-            <p class="text-muted">
-                When a file is dropped in the above box, its <em>hash
-                value</em> is calculated locally inside the browser
-                without disclosing the document to third parties,
-                preserving privacy.
-                The hash value acts as a digital fingerprint, 'uniquely'
-                identifying the unmodified original document, and it is
-                submitted to multiple 
-                <a href="https://www.opentimestamps.org">OpenTimestamps</a>
-                public <em>calendar servers</em>
-                for attestation of its existence (timestamp); a submission
-                (<i>.ots</i>) receipt is locally downloaded.
-                In time, this hash will be attested in a Bitcoin block header
-                and the submission receipt will become upgradable to
-                attestation proof.
-                The submission receipt is not an attestation proof yet,
-                i.e. it cannot be verified immediately: it is incomplete as
-                it takes up to few hours for the timestamp to get confirmed
-                by the Bitcoin blockchain.
-                <br>
-                Alternatively,
-                if the file dropped in the above box is a (<i>.ots</i>)
-                receipt/proof, first an upgraded proof is obtained from the
-                calendar servers if available, then the most recent
-                receipt/proof status is displayed below.
-            </p>
-        </div>
+                <br><br>
+                <img src="{{ site.baseurl }}/img/ots/logo.svg" height="40">
+                <br><br>
+                <span class="filename"></span>
+                <span class="filesize"></span>
+            </div>
+            <br>
+            <div class="row">
+                <p class="text-muted">
+                    When a file is dropped in the above box, its <em>hash
+                    value</em> is calculated locally inside the browser
+                    without disclosing the document to third parties,
+                    preserving privacy.
+                    The hash value acts as a digital fingerprint, 'uniquely'
+                    identifying the unmodified original document, and it is
+                    submitted to multiple
+                    <a href="https://www.opentimestamps.org">OpenTimestamps</a>
+                    public <em>calendar servers</em>
+                    for attestation of its existence (timestamp); a submission
+                    (<i>.ots</i>) receipt is locally downloaded.
+                    In time, this hash will be attested in a Bitcoin block header
+                    and the submission receipt will become upgradable to
+                    attestation proof.
+                    The submission receipt is not an attestation proof yet,
+                    i.e. it cannot be verified immediately: it is incomplete as
+                    it takes up to few hours for the timestamp to get confirmed
+                    by the Bitcoin blockchain.
+                    <br>
+                    Alternatively,
+                    if the file dropped in the above box is a (<i>.ots</i>)
+                    receipt/proof, first an upgraded proof is obtained from the
+                    calendar servers if available, then the most recent
+                    receipt/proof status is displayed below.
+                </p>
+            </div>
 
 
-        <input id="dropbox1_input" type="file" style="display:none">
-        <div class="statuses statuses_hashing" id="proof-status" style="display: none">
-            <a href="#" class="statuses-info" style="display: none"></a>
-            <p class="statuses-title">52%</p>
-            <p class="statuses-description">Verifying</p>
-        </div>
+            <input id="dropbox1_input" type="file" style="display:none">
+            <div class="statuses statuses_hashing" id="proof-status" style="display: none">
+                <a href="#" class="statuses-info" style="display: none"></a>
+                <p class="statuses-title">52%</p>
+                <p class="statuses-description">Verifying</p>
+            </div>
 
-        <br>
+            <br>
 
-        <div class="stamp-and-verify-drop-zone" id="dropbox2" style="display:none">
-            <span class="filename"></span>
-            <span class="filesize"></span>
-            <h4>
-                Drop here the <b>original file</b> to check that its hash matches the 
+            <div class="stamp-and-verify-drop-zone" id="dropbox2" style="display:none">
+                Drop here the <b>original file</b> to check that its hash matches the
                 stamped one.
-            </h4>
-        </div>
+                <br><br>
+                <img src="{{ site.baseurl }}/img/ots/logo.svg" height="40">
+                <br><br>
+                <span class="filename"></span>
+                <span class="filesize"></span>
+            </div>
 
-        <input id="dropbox2_input" type="file" style="display:none">
-        <div class="statuses statuses_hashing" id="document-status" style="display: none">
-            <p class="statuses-title">xx%</p>
-            <p class="statuses-description">Hashing</p>
-        </div>
+            <input id="dropbox2_input" type="file" style="display:none">
+            <div class="statuses statuses_hashing" id="document-status" style="display: none">
+                <p class="statuses-title">xx%</p>
+                <p class="statuses-description">Hashing</p>
+            </div>
 
-        <br>
+            <br>
 
-        <div class="col-lg-12 text-center">
-            <a href="#ots_howitworks" class="page-scroll">
-                <button class="btn btn-primary">
-                    <i class="fa fa-angle-down fa-2x"></i>
-                </button>
-            </a>  
+            <div class="col-lg-12 text-center">
+                <a href="#ots_howitworks" class="page-scroll">
+                    <button class="btn btn-primary">
+                        <i class="fa fa-angle-down fa-2x"></i>
+                    </button>
+                </a>
+            </div>
         </div>
     </div>
-</div>
 </section>
