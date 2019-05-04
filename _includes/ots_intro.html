@@ -24,14 +24,14 @@
                 <p class="text-muted">
                     A timestamp proves that a document existed in a
                     specific status prior to a given point in time.
-                    A digital document can be timestamped introducing
+                    A digital document can be timestamped including
                     its <em>hash value</em> inside a blockchain transaction:
                     the hash value 'uniquely' identifies the document
                     (as if it were a digital fingerprint) and
                     the blockchain transaction extends its native timestamping
                     to the included exogenous hash value.
                     As a result, the <em>attestation</em> of the hash value
-                    existence at a given point in time is proved and
+                    existence at a given point in time is proved; in turn,
                     this implicitly attests the existence of the
                     document itself prior to that moment.
                 </p>
@@ -41,9 +41,9 @@
                     performed after its inclusion in a block of the chain.
                     Indeed, the more blocks are added to the chain
                     after a given block,
-                    the more computationally intensive becomes
-                    tampering with that block data; even just trying
-                    to alter the timestamp of one of its transactions
+                    the more computationally intensive is
+                    tampering with the data of that block; even just trying
+                    to alter the timestamp of a transaction
                     becomes technically and economically prohibitive,
                     especially in the Bitcoin case.
                 </p>
@@ -60,7 +60,7 @@
                 <p class="text-muted">
                     OpenTimestamps attestation proofs can be verified
                     independently from
-                    any server, vendor, or sophisticated infrastructure, simply
+                    any server, vendor, or centralized infrastructure, simply
                     using a local copy of the blockchain (e.g. a Bitcoin
                     <a href="http://bitcoincore.org/en/download/">full node</a>);
                     this webpage interface is just a facility and,
