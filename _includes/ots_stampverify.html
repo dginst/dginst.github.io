@@ -12,47 +12,77 @@
 
             <div class="row">
                 <p class="text-muted">
-                    Use the box below to:
+                    Use the box below to create an attestation proof (timestamp),
+                    upgrade a submission receipt, or
+                    update+verify an attestation proof.
                 </p>
-                <ol class="text-muted">
-                    <li>create an attestation proof (timestamp):
-                        <br>
-                        when a file is dropped in the box, its
-                        hash value is calculated locally inside the
-                        browser without disclosing the document to third parties,
-                        preserving privacy.<br>
-                        The hash is then submitted to multiple redundant
-                        public OpenTimestamps servers
-                        (e.g. <a href="https://btc.ots.dgi.io">btc.ots.dgi.io</a>)
-                        to obtain an <em>attestation proof</em>
-                        of its existence (timestamp).<br>
-                        A <em>submission receipt</em> is immediately downloaded
-                        (as <i>.ots</i> filetype);
-                        this is not an attestation proof yet:
-                        it is incomplete and it cannot be verified immediately,
-                        as it can take up to few hours for the
-                        transaction to be
-                        included in the blockchain.<br>
-                        In time,
-                        the hash value will be attested in a block:
-                        then, the servers it has been submitted to
-                        will be able to upgrade its submission receipt to
-                        attestation proof.
+                <ul class="text-muted">
+                    <li><em>Create an attestation proof (timestamp)</em>:
+                        when a file is dropped in the box
+                        <ol>
+                            <li>
+                                its
+                                hash value is calculated locally inside the
+                                browser without disclosing the document to third parties,
+                                preserving privacy;
+                            </li>
+                            <li>
+                                the hash is then submitted to multiple redundant
+                                public OpenTimestamps servers
+                                to obtain an <em>attestation proof</em>
+                                of its existence (timestamp);
+                            </li>
+                            <li>
+                                A <em>submission receipt</em> is immediately downloaded
+                                (as <i>.ots</i> filetype);
+                                this is not an attestation proof yet:
+                                it is incomplete and it cannot be verified immediately,
+                                as it can take up to few hours for the
+                                transaction to be
+                                included in the blockchain;
+                            </li>
+                            <li>
+                                In time,
+                                the hash value will be attested in a block:
+                                then, the servers it has been submitted to
+                                will be able to upgrade its submission receipt to
+                                attestation proof.
+                            </li>
+                        </ol>
                         As long as at least one server is properly functioning,
                         the timestamp will be ensured.
                     </li>
-                    <li>upgrade a submission receipt or
-                        update/verify an attestation proof (<i>*.ots</i>):
+                    <li><em>Upgrade a submission receipt (*.ots)</em>:
                         <br>
                         if the file dropped in the box is a
-                        submission receipt (attestation proof),
-                        first an upgrade (updated) proof is downloaded
-                        from the calendar servers if available;
-                        then the proof, if any, is verified
-                        using public Bitcoin block-explorers
-                        (e.g. <a href="http://blockstream.info">blockstream.info</a>).
+                        submission receipt (*.ots)
+                        <ol>
+                            <li>
+                                an upgrade to proof attestation is downloaded
+                                from the calendar servers if available;
+                            </li>
+                            <li>
+                                the proof, if any, is verified
+                                using public Bitcoin block-explorers.
+                            </li>
+                        </ol>
                     </li>
-                    </ul>
+                    <li><em>Update and verify an attestation proof (*.ots)</em>:
+                        <br>
+                        if the file dropped in the box is an
+                        attestation proof (*.ots),
+                        <ol>
+                            <li>
+                                an updated proof is downloaded
+                                from the calendar servers if available;
+                            </li>
+                            <li>
+                                the most recent proof available is verified
+                                using public Bitcoin block-explorers.
+                            </li>
+                        </ol>
+                    </li>
+                </ul>
             </div>
             <br>
 
@@ -98,7 +128,7 @@
 
             <div class="col-lg-12 text-center">
                 <br>
-                <a href="#ots_howitworks" class="page-scroll">
+                <a href="#ots_warnings" class="page-scroll">
                     <button class="btn btn-primary">
                         <i class="fa fa-angle-down fa-2x"></i>
                     </button>

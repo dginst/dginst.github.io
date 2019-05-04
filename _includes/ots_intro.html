@@ -13,11 +13,13 @@
             <!-- introduction -->
             <div class="row">
                 <p class="text-muted">
-                    This webpage is an
-                    <a href="{{ site.baseurl }}/ots/#ots_stampverify">interface</a>
+                    This webpage is an interface
                     to create and/or verify timestamp proofs using the
                     <a href="https://opentimestamps.org">OpenTimestamps</a>
                     protocol and its free public Bitcoin calendar servers.
+                    [<em>If in a hurry, skip the following introduction
+                        at your own risk and go straight away to
+                        <a href="{{ site.baseurl }}/ots/#ots_stampverify">timestamping</a></em>.]
                 </p>
                 <p class="text-muted">
                     A timestamp proves that a document existed in a
@@ -29,9 +31,9 @@
                     the blockchain transaction extends its native timestamping
                     to the included exogenous hash value.
                     As a result, the <em>attestation</em> of the hash value
-                    existence at a given point in time implicitly proves
-                    the existence of the document itself
-                    prior to that moment.
+                    existence at a given point in time is proved and
+                    this implicitly attests the existence of the
+                    document itself prior to that moment.
                 </p>
                 <p class="text-muted">
                     The timestamping and content of a blockchain transaction
@@ -61,9 +63,11 @@
                     any server, vendor, or sophisticated infrastructure, simply
                     using a local copy of the blockchain (e.g. a Bitcoin
                     <a href="http://bitcoincore.org/en/download/">full node</a>);
-                    this interface is just a facility and,
+                    this webpage interface is just a facility and,
                     since a webpage cannot access the local filesystem,
-                    relies on public Bitcoin block-explorers for verification.
+                    relies on public Bitcoin block-explorers
+                    (e.g. <a href="http://blockstream.info">blockstream.info</a>)
+                    for verification.
                 </p>
                 <p class="text-muted">
                     While anyone could timestamp with any permissionless
@@ -71,7 +75,8 @@
                     (using the OpenTimestamps protocol
                     or any alternative approach),
                     there are multiple public OpenTimestamps
-                    <em>calendar servers</em>,
+                    <em>calendar servers</em> (e.g.
+                    <a href="https://btc.ots.dgi.io">btc.ots.dgi.io</a>),
                     free to use without any registration or API key.
                     They use the Bitcoin blockchain as a timestamp notary,
                     i.e. they make the Bitcoin transactions that ultimately
@@ -85,12 +90,6 @@
                     and performs their <em>attestation</em> in a single
                     transaction (attesting only the tree root hash).
                 </p>
-
-
-
-
-
-
 
             </div>
 
