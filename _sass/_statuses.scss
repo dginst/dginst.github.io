@@ -14,7 +14,8 @@
   margin-top: 20px;
   border-width: 1px;
   border-style: solid;
-  padding: 15px 15px 15px 50px;
+  border-radius: 25px;
+  padding: 15px 15px 0px 50px;
 
   &:before {
     @include image-2x('/img/ots/statuses@2x.png', 24px, 72px);
@@ -29,7 +30,7 @@
   &_hashing,
   &_success {
     border-color: $theme-primary;
-    background-color: #f4f4f4;
+    background-color: white;
     color: $theme-primary;
   }
 
@@ -67,7 +68,7 @@
 
   &_failure {
     border-color: #d1071a;
-    background-color: #f4f4f4;
+    background-color: white;
     color: #d1071a;
 
     &:before {
@@ -77,8 +78,8 @@
     }
   }
   &_warning {
-    border-color: #faebcc;
-    background-color: #f4f4f4;
+    border-color: #8a6d3b;
+    background-color: white;
     color: #8a6d3b;
 
     &:before {
