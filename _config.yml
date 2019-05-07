@@ -13,6 +13,8 @@ disqus: dgi-1
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-126683188-2
 
+include: [_pages]
+
 # Build settings
 markdown: kramdown
 
