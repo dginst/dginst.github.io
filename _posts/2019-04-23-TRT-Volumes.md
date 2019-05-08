@@ -9,6 +9,7 @@ image:
     square: 2019-04-23-TRT-Volumes_square.jpg
 published: true
 ---
+
 We have analyzed the trading volumes reported by
 [_The Rock Trading_](http://www.therocktrading.com/) exchange
 and found them to be credible,
