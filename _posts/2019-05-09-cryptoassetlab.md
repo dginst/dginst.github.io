@@ -7,7 +7,7 @@ author: "Ferdinando M. Ametrano"
 image:
     news: 2019-05-09-cal-logo.png
     square: 2019-05-09-cal-logo_squared.jpg
-published: true
+published: false
 ---
 
 We are happy to announce
