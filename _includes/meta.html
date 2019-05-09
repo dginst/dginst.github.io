@@ -6,23 +6,25 @@
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}">
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
+    <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@DigitalGoldInst">
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
+    <meta name="twitter:title" content="{{ page.title }}">
     {% if page.image.news %}
     <meta property="og:image" content="{{ page.image.news }}">
-    <meta name="twitter:card" content="{{ page.image.news }}">
     <meta name="twitter:image" content="{{ page.image.news }}">
     {% else %}
     <meta property="og:image" content="http://dgi.io/img/logo/dgi-logo.png">
-    <meta name="twitter:card" content="http://dgi.io/img/logo/dgi-logo.png">
     <meta name="twitter:image" content="http://dgi.io/img/logo/dgi-logo.png">
     {% endif %}
-    <meta name="twitter:site" content="@site_username">
-    <meta name="twitter:title" content="{{ page.title }}">
+
     {% endif %}
