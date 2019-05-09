@@ -20,7 +20,7 @@ Milano-Bicocca has been offering a
 taught by Ferdinando Ametrano,
 since [2015/2016](https://www.ametrano.net/courses/#past-university-courses);
 going forward in that direction,
-the new lab is a joint effort between the University of Milano-Bicocca and
+the new lab is a joint effort between the University and
 our Institute; its aim is to be a meeting point between academia,
 industry, institutions, and regulators.
 
