@@ -12,7 +12,7 @@ published: false
 
 We are happy to announce
 [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it/),
-a joint initiative between the University of Milano-Bicocca and our institute.
+a joint initiative between the University of Milano-Bicocca and our Institute.
 
 Milano-Bicocca has been offering a
 “[Bitcoin and Blockchain Technology](https://www.ametrano.net/bbt/)” course
@@ -25,12 +25,16 @@ to join the lab and help with research, development, training,
 teaching, and other experimental activities.
 
 With a great
-[faculty](https://cryptoassetlab.diseade.unimib.it/faculty/) and an outstanding
-[advisory board](http://cryptoassetlab.diseade.unimib.it/advisory-board/), the lab promises
+[faculty](https://cryptoassetlab.diseade.unimib.it/faculty/)
+and an outstanding
+[advisory board](http://cryptoassetlab.diseade.unimib.it/advisory-board/),
+the lab promises
 to be a catalyst in the Italian crytpo-ecosystem for improved understanding
 and informed adoption of digital assets like bitcoin.
 
 Crypto Asset Lab will be lunched with an open workshop in the
-afternoon of June 5, 2019: save the date!
-For the program and the online subscription form
-see <http://cryptoassetlab.diseade.unimib.it/2019/05/09/save_the_date.html>.
+afternoon of June 5, 2019: partecipation is free,
+but registration is required;
+program and online subscription form
+are available at
+<http://cryptoassetlab.diseade.unimib.it/2019/05/09/save_the_date.html>.
