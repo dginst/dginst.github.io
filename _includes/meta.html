@@ -14,7 +14,10 @@
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
+    {% if page.image.news %}
+    <meta property="og:image" content="{{ page.image.news }}">
+    {% else %}
+    <meta property="og:image" content="http://dgi.io/img/logo/dgi-logo.png">
+    {% endif %}
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
-
-    <meta property="og:image" content="http://dgi.io/img/logo/dgi-logo.png" />
