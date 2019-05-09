@@ -8,13 +8,13 @@
   link: http://www.twitter.com/DigitalGoldInst
 
 - social: fab fa-facebook-f
-  link: https://www.facebook.com/DigitalGoldInstitute    
+  link: http://www.facebook.com/DigitalGoldInstitute    
 
 - social: fab fa-linkedin-in
-  link: https://www.linkedin.com/school/digital-gold-institute      
+  link: http://www.linkedin.com/school/digital-gold-institute      
 
 - social: fab fa-github
-  link: https://www.github.com/dginst
+  link: http://www.github.com/dginst
     
 - social: fas fa-rss"
-  link: {{ site.baseurl }}/feed.xml
+  link: "{{ site.baseurl }}/feed.xml"
