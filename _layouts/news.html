@@ -6,17 +6,13 @@ layout: page
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
             <h2>{{ page.title }}</h2>
-        </div>
-    </div>
-    <div class="container">
-        {% if page.image %}
-        <p>
-            <img src="{{ site.baseurl }}/img/posts/{{ page.image.news }}" class="aligncenter" width="725">  
-        </p>
-        {% endif %}
-    </div>
-    <div class="container">
-        <div class="row col-lg-8 col-lg-offset-2">
+        
+            {% if page.image %}
+            <p>
+                <img src="{{ site.baseurl }}/img/posts/{{ page.image.news }}" class="aligncenter" width="100%" height="auto">  
+            </p>
+            {% endif %}
+
             <article class="post">
                 <p class="pdate">{{ page.date | date: "%b %e, %Y" }} |
                     <i> {{ page.author }}</i>

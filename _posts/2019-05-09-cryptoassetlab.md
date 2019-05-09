@@ -6,7 +6,7 @@ subtitle: "A joint initiative between the University of Milano-Bicocca and the D
 author: "Ferdinando M. Ametrano"
 image:
     news: 2019-05-09-cal-logo.png
-    square: 2019-05-09-cal-logo_squared.jpg
+    square: 2019-05-09-cal-logo_squared.png
 published: false
 ---
 
