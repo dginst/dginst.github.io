@@ -7,26 +7,37 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid">
-        <div class="row no-gutter">
+    <div class="container">
+        <div class="row">
             {% for post in site.posts limit: 2%}
-            <div class="col-lg-12 text-center">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="portfolio-box">
-                    <img src="{{ site.baseurl }}/img/posts/{{ post.image.news }}" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category">
-                                <b>{{ post.title }}</b>
-                            </div>
-                        </div>
-                    </div>
-                </a>
+            <div class="col-lg-6 col-md-6">
+                <article class="post">
+                    {% if post.image.square %}
+                    <p>
+                        <a href="{{ site.baseurl }}{{ post.url }}">
+                            <img src="{{ site.baseurl }}/img/posts/{{ post.image.square }}" class="alignleft"
+                                width="100" height="100%">
+                        </a>
+                    </p>
+                    {% endif %}
+
+                    <h4>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </h4>
+
+                    <p class="pdate text-muted">
+                        {{ page.date | date: "%b %e, %Y" }}
+
+                        {% if post.subtitle %}
+                        <p>{{ post.subtitle }}</p>
+                        {% endif %}
+
+                </article>
             </div>
             {% endfor %}
         </div>
-    </div>
-    <br>
-    <div class="col-lg-12 text-center">
-        <a href="{{ site.baseurl }}/news" class="btn btn-primary btn-xl page-scroll">See All News</a>
-    </div>
+        <br>
+        <div class="col-lg-12 text-center">
+            <a href="{{ site.baseurl }}/news" class="btn btn-primary btn-xl page-scroll">See All News</a>
+        </div>
 </section>
