@@ -23,7 +23,10 @@ permalink: /news/
                     </h2>
 
                     <p class="pdate text-muted">
-                        {{ post.date | date: "%b %e, %Y" }} | <i>by {{ post.author }}</i>
+                        {{ page.date | date: "%b %e, %Y" }}
+                        {% if page.author %}
+                        |<i> {{ page.author }}</i>
+                        {% endif %}
                     </p>
 
                     {% if post.image.square %}
@@ -33,7 +36,7 @@ permalink: /news/
                     {% endif %}
 
                     {% if post.subtitle %}
-                    <p>{{ post.subtitle }}</p>
+                        <p>{{ post.subtitle }}</p>
                     {% endif %}
 
                     <p>{{ post.excerpt }}</p>
