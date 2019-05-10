@@ -1,7 +1,7 @@
 # Site settings
 title: Digital Gold Institute
 email:
-description: Scarcity in the Digital Realm # this means to ignore newlines until "baseurl:"
+description: Research and development center about scarcity in the digital realm (bitcoin and crypto-assets) and blockchain technology.
 #baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://dgi.io
 logo: http://dgi.io/img/logo/dgi-logo.png
