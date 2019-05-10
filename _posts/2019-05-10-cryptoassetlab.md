@@ -36,6 +36,9 @@ the lab promises
 to be a catalyst in the Italian crypto-ecosystem for improved understanding
 and informed adoption of digital assets like bitcoin.
 
-Crypto Asset Lab will be lunched with an open workshop in the
-afternoon of June 5, 2019 ([program](http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf)): partecipation is free,
-but [registration](https://docs.google.com/forms/d/e/1FAIpQLSeI4YDiaNdSCOr2h0QXa9qDUSmmsFqtdgsk6j4_x8FcVgK84Q/viewform) is required.
+Crypto Asset Lab will be lunched with an
+[open workshop](https://cryptoassetlab.diseade.unimib.it/2019/05/10/presentation.html)
+in the afternoon of June 5, 2019
+([program](http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf)): partecipation is free, but
+[registration](https://docs.google.com/forms/d/e/1FAIpQLSeI4YDiaNdSCOr2h0QXa9qDUSmmsFqtdgsk6j4_x8FcVgK84Q/viewform)
+is required.
