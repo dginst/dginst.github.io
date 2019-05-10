@@ -1,8 +1,8 @@
 ---
 layout: news
 comments: false
-title: "Crypto Asset Lab"
-subtitle: "A joint research initiative between University of Milano-Bicocca and Digital Gold Institute"
+title: "Crypto Asset Lab: A Research Initiative on Digital Assets"
+subtitle: "A joint initiative of University of Milano-Bicocca and Digital Gold Institute"
 author: "Paolo Mazzocchi"
 image:
     news: 20190510-cal-logo.jpg
@@ -20,7 +20,7 @@ Milano-Bicocca has been offering a
 taught by Ferdinando Ametrano,
 since [2015/2016](https://www.ametrano.net/courses/#past-university-courses);
 going forward in that direction,
-the new lab is a joint effort between the University and
+the new lab is a joint effort of the University and
 our Institute; its aim is to be a meeting point between academia,
 industry, institutions, and regulators.
 
