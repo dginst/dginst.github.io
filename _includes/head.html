@@ -68,11 +68,11 @@
     {% endif %}
 
     {% if page.image.news %}
-    <meta property="og:image" content="{{ site.baseurl }}/img/posts/{{page.image.news}}">
-    <meta name="twitter:image" content="{{ site.baseurl }}/img/posts/{{page.image.news}}">
+    <meta property="og:image"  content="{{ site.url }}{{ site.baseurl }}/img/posts/{{page.image.news}}">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/posts/{{page.image.news}}">
     {% else %}
-    <meta property="og:image" content="{{ site.baseurl }}/img/logo/dgi-logo.png">
-    <meta name="twitter:image" content="{{ site.baseurl }}/img/logo/dgi-logo.png">
+    <meta property="og:image"  content="{{ site.url }}{{ site.baseurl }}/img/logo/dgi-logo.png">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/logo/dgi-logo.png">
     {% endif %}
 
     <meta name="twitter:site" content="@DigitalGoldInst">
