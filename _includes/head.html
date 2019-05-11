@@ -59,34 +59,30 @@
     <meta name="twitter:description" content="{{site.description| strip_html }}">
     {% endif %}
 
-    {% if page.author %}
-    <meta name="author" content="{{page.author| strip_html}}">
-    <meta name="twitter:creator" content="@DigitalGoldInst">
-    {% else %}
-    <meta name="author" content="{{site.name| strip_html}}">
-    <meta name="twitter:creator" content="@DigitalGoldInst">
-    {% endif %}
-
     {% if page.image.main %}
-    <meta property="og:image"  content="{{ site.url }}{{ site.baseurl }}/img/posts/{{page.image.main}}">
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/posts/{{page.image.main}}">
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/posts/{{page.image.main}}">
     {% else %}
-    <meta property="og:image"  content="{{ site.url }}{{ site.baseurl }}/img/logo/dgi-logo.png">
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/logo/dgi-logo.png">
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/logo/dgi-logo.png">
     {% endif %}
 
-    <meta name="twitter:site" content="@DigitalGoldInst">
     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@DigitalGoldInst">
+    <meta name="twitter:site" content="@DigitalGoldInst">
 
     <meta property="og:site_name" content="{{site.name| strip_html}}">
-    <meta property="og:type"      content="article">
 
     {% if page.url %}
-    <link rel="canonical"      href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <meta name="author" content="{{page.author| strip_html}}">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
     {% elsif post.url %}
-    <link rel="canonical"      href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+    <meta property="og:type" content="article">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+    <meta name="author" content="{{site.name| strip_html}}">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
     {% endif %}
 
 </head>
