@@ -79,14 +79,14 @@
     <meta name="twitter:card" content="summary_large_image">
 
     <meta property="og:site_name" content="{{site.name| strip_html}}">
-    <meta property="og:type" content="article">
+    <meta property="og:type"      content="article">
 
     {% if page.url %}
-    <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}">
-    <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
+    <link rel="canonical"      href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
     {% elsif post.url %}
-    <link rel="canonical" href="{{ site.baseurl }}{{ post.url }}">
-    <meta property="og:url" content="{{ site.baseurl }}{{ post.url }}">
+    <link rel="canonical"      href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
     {% endif %}
 
 </head>
