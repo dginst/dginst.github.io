@@ -1,16 +1,20 @@
 <!DOCTYPE html>
+{% if page.lang %}
+<html lang="{{ page.lang }}">
+{% else %}
 <html lang="en">
+{% endif %}
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body id="page-top">
-    {% include nav.html %}
+<body id="page-top">
+  {% include nav.html %}
 
-    {{ content }}
-    
-    {% include footer.html %}
-    {% include scripts.html %}
-    {% include analytics.html %}
-  </body>
+  {{ content }}
+
+  {% include footer.html %}
+  {% include scripts.html %}
+  {% include analytics.html %}
+</body>
 
 </html>
