@@ -29,13 +29,15 @@
     </li>
     <li class="list-inline-item">
         <a href="https://wa.me/?text={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-        title="Share on WhatsApp" >
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on WhatsApp">
             <i class="fab fa-whatsapp"></i>
         </a>
     </li>
     <li class="list-inline-item">
         <a href="https://t.me/share/url?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-        title="Share on Telegram" >
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Telegram">
             <i class="fab fa-telegram"></i>
         </a>
     </li>
