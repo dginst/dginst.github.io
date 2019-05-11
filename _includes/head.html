@@ -85,4 +85,10 @@
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
     {% endif %}
 
+    {% if page.lang == "it"%}
+    <meta property="og:locale" content="it_IT">
+    {% else %}
+    <meta property="og:locale" content="en_US">
+    {% endif %}
+
 </head>
