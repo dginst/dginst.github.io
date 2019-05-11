@@ -12,10 +12,10 @@
             {% for post in site.posts limit: 2%}
             <div class="col-lg-6 col-md-6">
                 <article class="post">
-                    {% if post.image.square %}
+                    {% if post.image.thumb %}
                     <p>
                         <a href="{{ site.baseurl }}{{ post.url }}">
-                            <img src="{{ site.baseurl }}/img/posts/{{ post.image.square }}" class="alignleft"
+                            <img src="{{ site.baseurl }}/img/posts/{{ post.image.thumb }}" class="alignleft"
                                 width="100" height="100%">
                         </a>
                     </p>

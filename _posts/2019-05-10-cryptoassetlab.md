@@ -5,8 +5,8 @@ title: "Crypto Asset Lab: A Research Initiative on Digital Assets"
 subtitle: "A joint initiative of University of Milano-Bicocca and Digital Gold Institute"
 author: "Paolo Mazzocchi"
 image:
-    news: 20190510-cal-logo.jpg
-    square: 20190510-cal-logo_squared.jpg
+    main: 2019-05-10-cryptoassetlab.jpg
+    thumb: 2019-05-10-cryptoassetlab-thumb.jpg
 published: true
 ---
 

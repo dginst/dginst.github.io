@@ -5,8 +5,8 @@ title: "Real Volume: The Rock Trading Exchange"
 subtitle: "A supplement to the Bitwise report presented in March 2019 to SEC"
 author: "Marcello Pichini"
 image:
-    news: 20190423-trt-volumes.jpg
-    square: 20190423-trt-volumes_squared.jpg
+    main: 2019-04-23-trt-volumes.jpg
+    thumb: 2019-04-23-trt-volumes-thumb.jpg
 published: true
 ---
 
