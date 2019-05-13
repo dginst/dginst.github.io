@@ -7,7 +7,7 @@ author: "Paolo Mazzocchi"
 image:
     main: 2019-05-13-hesec-and-dgi-webinar.jpg
     thumb: 2019-05-13-hesec-and-dgi-webinar-thumb.jpg
-youtube_video: 36slArIgsbw
+youtube: 36slArIgsbw?t=18
 published: true
 ---
 
