@@ -18,4 +18,4 @@ The [video](https://youtu.be/36slArIgsbw?t=18) is shared on our
 the channel to be notified about our upcoming video material.
 [Slides]({{ site.url }}{{ site.baseurl }}/docs/2019-05-13-hesec-webinar.pdf) are also available.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/36slArIgsbw?start=18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed//36slArIgsbw' frameborder='0' allowfullscreen></iframe></div>
