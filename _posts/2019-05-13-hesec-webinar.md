@@ -7,6 +7,7 @@ author: "Paolo Mazzocchi"
 image:
     main: 2019-05-13-hesec-and-dgi-webinar.jpg
     thumb: 2019-05-13-hesec-and-dgi-webinar-thumb.jpg
+youtube_video: 36slArIgsbw
 published: true
 ---
 
@@ -17,5 +18,3 @@ The [video](https://youtu.be/36slArIgsbw?t=18) is shared on our
 [YouTube channel](https://www.youtube.com/channel/UC8h0W-Jan5GkbHLQAO0FYKA): subscribe
 the channel to be notified about our upcoming video material.
 [Slides]({{ site.url }}{{ site.baseurl }}/docs/2019-05-13-hesec-webinar.pdf) are also available.
-
-<div class='embed-container'><iframe src='https://www.youtube.com/embed//36slArIgsbw' frameborder='0' allowfullscreen></iframe></div>

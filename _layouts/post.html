@@ -6,10 +6,11 @@ layout: page
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
             <h2>{{ page.title }}</h2>
-        
+
             {% if page.image %}
             <p>
-                <img src="{{ site.baseurl }}/img/posts/{{ page.image.main }}" class="aligncenter" width="100%" height="auto">  
+                <img src="{{ site.baseurl }}/img/posts/{{ page.image.main }}" class="aligncenter" width="100%"
+                    height="auto">
             </p>
             {% endif %}
 
@@ -17,12 +18,19 @@ layout: page
                 <p class="pdate">{{ page.date | date: "%b %e, %Y" }} |
                     <i> {{ page.author }}</i>
                 </p>
-                
+
                 <p>{% include share-bar.html %}</p>
 
                 <h3>{{ page.subtitle }}</h3>
 
                 <p>{{ content }}</p>
+
+                {% if page.youtube_video %}
+                <div class='embed-container'>
+                    <iframe src='https://www.youtube.com/embed/{{ page.youtube_video }}' frameborder='0'
+                        allowfullscreen></iframe>
+                </div>
+                {% endif %}
 
                 <p>{% include share-bar.html %}</p>
 
