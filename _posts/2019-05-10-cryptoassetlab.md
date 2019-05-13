@@ -14,7 +14,7 @@ We are happy to announce [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib
 
 Milano-Bicocca has been offering a
 “[Bitcoin and Blockchain Technology](https://www.ametrano.net/bbt/)” course,
-taught by Ferdinando Ametrano,
+taught by [Ferdinando Ametrano]({{ site.url }}{{ site.baseurl }}/#team),
 since [2015/2016](https://www.ametrano.net/courses/#past-university-courses);
 going forward in that direction,
 the new lab is a joint effort of the University and
