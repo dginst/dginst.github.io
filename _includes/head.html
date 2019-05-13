@@ -44,19 +44,15 @@
     {% if page.description %}
     <meta name="description" content="{{page.description| strip_html}}">
     <meta property="og:description" content="{{page.description| strip_html}}">
-    <meta name="twitter:description" content="{{page.description| strip_html}} via @DigitalGoldInst">
     {% elsif page.subtitle %}
     <meta name="description" content="{{page.subtitle| strip_html}}">
     <meta property="og:description" content="{{page.subtitle| strip_html}}">
-    <meta name="twitter:description" content="{{page.subtitle| strip_html}} via @DigitalGoldInst">
     {% elsif page.excerpt %}
     <meta name="description" content="{{page.excerpt| strip_html}}">
     <meta property="og:description" content="{{page.excerpt| strip_html}}">
-    <meta name="twitter:description" content="{{page.excerpt| strip_html}} via @DigitalGoldInst">
     {% else %}
     <meta name="description" content="{{site.description| strip_html }}">
     <meta property="og:description" content="{{site.description| strip_html }}">
-    <meta name="twitter:description" content="{{site.description| strip_html}} via @DigitalGoldInst">
     {% endif %}
 
     {% if page.image.main %}
