@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 comments: false
 title: "Real Volume: The Rock Trading Exchange"
 subtitle: "A supplement to the Bitwise report presented in March 2019 to SEC"

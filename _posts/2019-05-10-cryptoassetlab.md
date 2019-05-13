@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 comments: false
 title: "Crypto Asset Lab: A Research Initiative on Digital Assets"
 subtitle: "A joint initiative of University of Milano-Bicocca and Digital Gold Institute"
