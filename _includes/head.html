@@ -88,4 +88,8 @@
     <meta property="og:locale" content="en_US">
     {% endif %}
 
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+  
 </head>
