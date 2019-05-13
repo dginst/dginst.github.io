@@ -64,6 +64,11 @@
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/logo/dgi-logo.png">
     {% endif %}
 
+    {% if page.youtube %}
+    <meta property="og:video" content="https://www.youtube.com/embed/{{ page.youtube }}" />
+    <meta name="twitter:player" content="https://www.youtube.com/embed/{{ page.youtube }}">
+    {% endif %}
+
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:creator" content="@DigitalGoldInst">
     <meta name="twitter:site" content="@DigitalGoldInst">
