@@ -10,7 +10,7 @@ image:
 published: false
 ---
 
-In collaboration with [Harvard Extension Students Environment Club](https://hesec.extension.harvard.edu/webinars) (HESEC) we delivered a webinar on the Economics and Environmental Sustainability   of Bitcoin.
+In collaboration with [Harvard Extension Students Environment Club](https://hesec.extension.harvard.edu/webinars) (HESEC) we delivered a webinar on the Economics and Environmental Sustainability of Bitcoin.
 
 We are happy to share here the [video](https://youtu.be/36slArIgsbw?t=18) of the webinar and the [slides]({{ site.baseurl }}/docs/2019-05-13-hesec-webinar.pdf) presented.
 
