@@ -12,17 +12,17 @@ our font is XXX, the uppercase i is actually a lowercase l
 
 ## Icons
 
-[dgi-icon-neg-mono-rot.svg](dgi-icon-neg-mono-rot.svg)
+[dgi-icon-neg-mono-rot.svg](dgi-icon-neg-mono-rot.svg) white icon, horizontal, transparent
 
-[dgi-icon-neg-mono.svg](dgi-icon-neg-mono.svg)
+[dgi-icon-neg-mono.svg](dgi-icon-neg-mono.svg) white icon, transparent
 
-[dgi-icon-rot.svg](dgi-icon-rot.svg) rotated
+[dgi-icon-rot.svg](dgi-icon-rot.svg) gold icon, horizontal, transparent
 
-[dgi-icon.svg](dgi-icon-rot.svg)
+[dgi-icon.svg](dgi-icon.svg) gold icon, transparent
 
 ## Logos
 
-[dgi-logo-neg-mono.svg](dgi-logo-neg-mono.svg) 
+[dgi-logo-neg-mono.svg](dgi-logo-neg-mono.svg) white letters, white icon, transparent
 
 [dgi-logo-neg.svg](dgi-logo-neg.svg) white letters, gold icon, transparent
 
