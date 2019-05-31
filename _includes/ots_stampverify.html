@@ -14,45 +14,48 @@
                 <p class="text-muted">
                     Use the box below to create an attestation proof (timestamp),
                     upgrade a submission receipt, or
-                    update+verify an attestation proof.
+                    verify an attestation proof.
                 </p>
                 <ul class="text-muted">
-                    <li><b>Create an attestation proof (timestamp)</b><br>
-                        When a file is dropped in the box:
-                        <ol>
-                            <li>
-                                its
-                                hash value is calculated locally inside the
-                                browser without disclosing the document to third parties,
-                                preserving privacy;
-                            </li>
-                            <li>
-                                the hash is then submitted to multiple redundant
-                                public OpenTimestamps servers
-                                to obtain an <em>attestation proof</em>
-                                of its existence (timestamp);
-                            </li>
-                            <li>
-                                A <em>submission receipt</em> is immediately downloaded
-                                (as <i>.ots</i> filetype);
-                                this is not an attestation proof yet:
-                                it is incomplete and it cannot be verified immediately,
-                                as it can take up to few hours for the
-                                transaction to be
-                                included in the blockchain;
-                            </li>
-                            <li>
-                                In time,
-                                the hash value will be attested in a block:
-                                then, the servers it has been submitted to
-                                will be able to upgrade its submission receipt to
-                                attestation proof.
-                            </li>
-                        </ol>
-                        As long as at least one server is properly functioning,
-                        the timestamp will be ensured.
+                    <li>
+                        <details>
+                            <summary><b>Create an attestation proof (timestamp)</b><br></summary>
+                            When a file is dropped in the box:
+                            <ol>
+                                <li>
+                                    its
+                                    hash value is calculated locally inside the
+                                    browser without disclosing the document to third parties,
+                                    preserving privacy;
+                                </li>
+                                <li>
+                                    the hash is then submitted to multiple redundant
+                                    public OpenTimestamps servers
+                                    to obtain an <em>attestation proof</em>
+                                    of its existence (timestamp);
+                                </li>
+                                <li>
+                                    A <em>submission receipt</em> is immediately downloaded
+                                    (as <i>.ots</i> filetype);
+                                    this is not an attestation proof yet:
+                                    it is incomplete and it cannot be verified immediately,
+                                    as it can take up to few hours for the
+                                    transaction to be
+                                    included in the blockchain;
+                                </li>
+                                <li>
+                                    In time,
+                                    the hash value will be attested in a block:
+                                    then, the servers it has been submitted to
+                                    will be able to upgrade its submission receipt to
+                                    attestation proof.
+                                </li>
+                            </ol>
+                            As long as at least one server is properly functioning,
+                            the timestamp will be ensured.
+                        </details>
                     </li>
-                    <li><b>Upgrade a submission receipt and verify the attestation proof, if available</b><br>
+                    <li><b>Upgrade a submission receipt to attestation proof, if possible</b><br>
                         If the file dropped in the box is a
                         submission receipt (filetype <em>*.ots</em>):
                         <ol>
@@ -66,7 +69,7 @@
                             </li>
                         </ol>
                     </li>
-                    <li><b>Update and verify an attestation proof</b><br>
+                    <li><b>Verify an attestation proof</b><br>
                         If the file dropped in the box is an
                         attestation proof (filetype <em>*.ots</em>):
                         <ol>
