@@ -12,9 +12,7 @@
 
             <div class="row">
                 <p class="text-muted">
-                    Use the box below to create an attestation proof (timestamp),
-                    upgrade a submission receipt, or
-                    verify an attestation proof.
+                    Use the box below to:
                 </p>
                 <ul class="text-muted">
                     <li>
@@ -55,33 +53,40 @@
                             the timestamp will be ensured.
                         </details>
                     </li>
-                    <li><b>Upgrade a submission receipt to attestation proof, if possible</b><br>
-                        If the file dropped in the box is a
-                        submission receipt (filetype <em>*.ots</em>):
-                        <ol>
-                            <li>
-                                an upgrade to proof attestation is downloaded
-                                from the calendar servers if available;
-                            </li>
-                            <li>
-                                the proof, if any, is verified
-                                using public Bitcoin block-explorers.
-                            </li>
-                        </ol>
+                    <li>
+                        <details>
+                            <summary><b>Upgrade a submission receipt to attestation proof, if possible</b><br></summary>
+                            If the file dropped in the box is a
+                            submission receipt (filetype <em>*.ots</em>):
+                            <ol>
+                                <li>
+                                    an upgrade to proof attestation is downloaded
+                                    from the calendar servers if available;
+                                </li>
+                                <li>
+                                    the proof, if any, is verified
+                                    using public Bitcoin block-explorers.
+                                </li>
+                            </ol>
+                        </details>
                     </li>
-                    <li><b>Verify an attestation proof</b><br>
-                        If the file dropped in the box is an
-                        attestation proof (filetype <em>*.ots</em>):
-                        <ol>
-                            <li>
-                                an updated proof is downloaded
-                                from the calendar servers if available;
-                            </li>
-                            <li>
-                                the most recent proof available is verified
-                                using public Bitcoin block-explorers.
-                            </li>
-                        </ol>
+                    <li>
+                        <details>
+                            <summary><b>Verify an attestation proof</b><br></summary>
+                            If the file dropped in the box is an
+                            attestation proof (filetype <em>*.ots</em>):
+                            <ol>
+                                <li>
+                                    an updated proof is downloaded
+                                    from the calendar servers if available;
+                                </li>
+                                <li>
+                                    the most recent proof available is verified
+                                    using public Bitcoin block-explorers.
+                                </li>
+                            </ol>
+
+                        </details>
                     </li>
                 </ul>
             </div>
