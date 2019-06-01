@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Logos"
+subtitle: "Different versions of the DGI logo"
+---
+
 # DGI icons and logos
 
 our gold is:  
