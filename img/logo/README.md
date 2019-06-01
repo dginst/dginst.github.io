@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Logos"
-subtitle: "Different versions of the DGI logo"
+title: "DGI Logo and Icon"
+subtitle: "Different versions of the DGI logo and icon"
 ---
 
-# DGI icons and logos
+## DGI icons and logos
 
 our gold is:  
 RGB 241 175 9  
