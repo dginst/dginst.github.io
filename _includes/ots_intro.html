@@ -23,7 +23,14 @@
                 </p>
                 <p class="text-muted">
                     A timestamp demonstrates that a document existed in a
-                    specific status prior to a given point in time.
+                    specific status prior to a given point in time, providing
+                    a document with a certain sure date (e.g. postmark).
+                    Law requires dates to be usually certified by
+                    public officials and notary services;
+                    for digital documents, timestamping is based on the
+                    digital signature of a Certification Authority (CA).
+                </p>
+                <p class="text-muted">
                     Digital data can be securely timestamped though the
                     <em>attestation</em> of its <em>hash value</em>
                     in a blockchain transaction:
@@ -63,35 +70,45 @@
                     independently from
                     any server, vendor, or centralized infrastructure, simply
                     using a local copy of the blockchain (e.g. a Bitcoin
-                    <a href="http://bitcoincore.org/en/download/">full node</a>);
-                    this webpage interface is just a facility and,
+                    <a href="http://bitcoincore.org/en/download/">full node</a>).
+                    <b>Trust minimization</b> is achieved because of this
+                    distributed, decentralized, independent, uncensorable,
+                    and cross-jurisdictional design.
+                    This webpage interface is just a facility and,
                     since a webpage cannot access the local filesystem,
                     relies on public Bitcoin block-explorers
                     (e.g. <a href="http://blockstream.info">blockstream.info</a>)
                     for verification.
                 </p>
                 <p class="text-muted">
+                    To avoid the inefficiency of one blockchain transaction
+                    for every timestamp, an OpenTimestamps server
+                    provides <em>aggregation</em> of multiple hashes
+                    in a <em>Merkle tree</em>> data structure
+                    and performs their <em>attestation</em> in a single
+                    transaction (attesting only the tree root hash).
+                    <em>Aggregation before attestation</em> results in
+                    almost unlimited <b>scalability</b>.
+                </p>
+                <p class="text-muted">
                     While anyone could timestamp with any permissionless
                     blockchain by paying the appropriate transaction fees
                     (using the OpenTimestamps protocol
                     or any alternative approach),
+                    for <b>convenience</b>
                     there are multiple public OpenTimestamps
                     <em>calendar servers</em> (e.g.
                     <a href="https://btc.ots.dgi.io">btc.ots.dgi.io</a>),
                     free to use without any registration or API key.
-                    They use the Bitcoin blockchain as a timestamp notary,
-                    i.e. they make the Bitcoin transactions that ultimately
-                    attest hash values in Bitcoin blocks.
-                </p>
-                <p class="text-muted">
-                    To avoid the inefficiency of one blockchain transaction
-                    for every timestamp, an OpenTimestamps server
-                    provides <em>aggregation</em> of multiple hashes
-                    (in a Merkle tree data structure)
-                    and performs their <em>attestation</em> in a single
-                    transaction (attesting only the tree root hash).
-                </p>
+                    A single calendar server can offer its services to
+                    multiple remote OpenTimestamps clients: verifiable
+                    timestamp are created almost instantly.
+                    The public free OpenTimestamps calendar servers
+                    use Bitcoin as timestamp notary,
+                    i.e. they make the Bitcoin transactions that will
+                    ultimately attest hash values in the Bitcoin blockchain.
 
+                </p>
             </div>
 
             <div class="col-lg-12 text-center">
