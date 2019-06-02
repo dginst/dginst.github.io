@@ -5,8 +5,6 @@ subtitle: "Different versions of the DGI logo and icon"
 permalink: /logo/
 ---
 
-## DGI logo and icon
-
 our gold is:  
 RGB 241 175 9  
 HEX f1af09  
