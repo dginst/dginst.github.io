@@ -7,11 +7,16 @@ layout: page
         <div class="row col-lg-8 col-lg-offset-2">
             <h2>{{ page.title }}</h2>
 
-            {% if page.image %}
+            {% if page.image.main %}
             <p>
                 <img src="{{ site.baseurl }}/img/posts/{{ page.image.main }}" class="aligncenter" width="100%"
                     height="auto">
             </p>
+            {% else if page.youtube %}
+            <div class='embed-container'>
+                <iframe src='https://www.youtube.com/embed/{{ page.youtube }}' frameborder='0'
+                    allowfullscreen></iframe>
+            </div>
             {% endif %}
 
             <article class="post">
