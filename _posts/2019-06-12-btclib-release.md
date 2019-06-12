@@ -18,7 +18,7 @@ originally developed for the
 at University of Milano-Bicocca and Politecnico di Milano.
 
 The major focus of this new
-[v2019.6.12 release](https://github.com/dginst/btclib/tree/v2019.6.12)
+[v2019.6.12 release](https://github.com/dginst/btclib/releases/tag/v2019.6.12)
 is the documentation,
 now automatically generated and available at
 <https://btclib.readthedocs.io/en/latest/>.
