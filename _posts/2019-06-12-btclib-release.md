@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "New btclib release"
-subtitle: "A python library for bitcoin cryptography."
+subtitle: "A python library for bitcoin cryptography"
 author: "Ferdinando Ametrano"
 image:
     main: 2019-06-12-btclib-tentative-logo.jpg
