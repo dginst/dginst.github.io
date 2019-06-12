@@ -23,7 +23,7 @@ is the added documentation,
 now automatically generated and available at
 <https://btclib.readthedocs.io/en/latest/>.
 Hopefully this will help introducing new users and devs to the library
-and existing users/devs to deal with the relevant refactoring going on.
+and existing users/devs to deal with any refactoring.
 
 A relevant "lost leading zeros in entropy" bug has been fixed.
 See the issue and the provided links for more details:
