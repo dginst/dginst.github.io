@@ -10,7 +10,8 @@ image:
 published: true
 ---
 
-btclib is a python3 type annotated library intended for teaching and
+[btclib](https://github.com/dginst/btclib)
+is a python3 type annotated library intended for teaching and
 demonstration of the elliptic curve cryptography used in bitcoin,
 originally developed for the
 [_Bitcoin and Blockchain Technology_](https://www.ametrano.net/bbt/) course
