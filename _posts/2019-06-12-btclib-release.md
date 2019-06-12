@@ -19,7 +19,7 @@ at University of Milano-Bicocca and Politecnico di Milano.
 
 The major focus of
 [this new release](https://github.com/dginst/btclib/releases/tag/v2019.2.5)
-is the added documentation,
+is the documentation,
 now automatically generated and available at
 <https://btclib.readthedocs.io/en/latest/>.
 Hopefully this will help introducing new users and devs to the library
