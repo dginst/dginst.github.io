@@ -25,10 +25,6 @@ now automatically generated and available at
 Hopefully this will help introducing new users and devs to the library
 and existing users/devs to deal with any refactoring.
 
-A relevant "lost leading zeros in entropy" bug has been fixed.
-See the issue and the provided links for more details:
-<https://github.com/fametrano/btclib/issues/15>.
-
 The major new feature is Bitcoin message signing with compact encoding.
 
 The library adopts the
