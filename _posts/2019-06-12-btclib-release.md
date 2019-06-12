@@ -17,8 +17,8 @@ originally developed for the
 [_Bitcoin and Blockchain Technology_](https://www.ametrano.net/bbt/) course
 at University of Milano-Bicocca and Politecnico di Milano.
 
-The major focus of
-[this new release](https://github.com/dginst/btclib/releases/tag/v2019.2.5)
+The major focus of this new
+[v2019.6.12 release](https://github.com/dginst/btclib/releases/tag/v2019.2.5)
 is the documentation,
 now automatically generated and available at
 <https://btclib.readthedocs.io/en/latest/>.
