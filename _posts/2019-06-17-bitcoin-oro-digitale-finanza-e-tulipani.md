@@ -5,12 +5,14 @@ title: "[ITA] Bitcoin: oro digitale, finanza e tulipani - parte 1 di 11"
 subtitle: "Intervista a Ferdinando Ametrano"
 author: "Paolo Mazzocchi"
 image:
-    thumb: 2019-06-13-bitcoin-oro-digitale-e-tulipani-thumb.jpg
+    thumb: 2019-06-17-bitcoin-oro-digitale-e-tulipani-thumb.jpg
 youtube: ygXXBpk_ABU
 published: false
 ---
 
-In questa serie di news, presentiamo una lunga intervista (suddivisa in 11 parti) di approfondimento su Bitcoin tenuta dal nostro direttore esecutivo Ferdinando Ametrano. L'intervista si è svolta presso la **Green House di Deloitte** a Milano, tenuta da *Nicole Vismara*, Manager di Deloitte Consulting. In questa news presentiamo la prima parte dell'intervista dal titolo: *Oro Digitale*.
+In questa serie di news, presentiamo una lunga intervista (suddivisa in 11 parti) di approfondimento su Bitcoin tenuta dal nostro direttore esecutivo Ferdinando Ametrano. L'intervista si è svolta presso la **Green House di Deloitte** a Milano, tenuta da *Nicole Vismara*, Manager di Deloitte Consulting. 
+
+Di seguito la trascrizione della prima parte dell'intervista dal titolo: *Oro Digitale*.
 
 ### Parte 1 - Oro Digitale
 
@@ -76,6 +78,6 @@ In questa serie di news, presentiamo una lunga intervista (suddivisa in 11 parti
 
 [FMA] Capisco la difficoltà a comprendere queste dinamiche, perché non siamo di fronte semplicemente ad una nuova tecnologia, ma ad un cambio di paradigma. La governance non è proceduralizzata e centralizzata, ma dinamica e distribuita tra diversi attori: sviluppatori, utilizzatori, investitori, nodi del network, aziende. Ognuno può tentare di orientare bitcoin secondo le sue preferenze, ma tutti sono direttamente o indirettamente incentivati a preservare e far crescere il valore di bitcoin. È un processo fluido e non governato in maniera impositiva: bitcoin è di fatto il consenso attorno a cui si coagula la maggioranza degli attori economicamente significativi dell’ecosistema. Chi si colloca su posizioni minoritarie è marginalizzato e di conseguenza automaticamente penalizzato dal punto di vista economico.
 
-**[NV] Non si capisce...**
+**[NV] Non si capisce, riusciresti a spiegare meglio questo concetto?**
 
-[FMA] La scarsità dell’oro fisico è garantita da madre natura, quella digitale è puramente convenzionale, necessita del consenso degli attori interessati. Ma non si tratta di una convenzione fragile o velleitaria; piuttosto siamo di fronte ad una architettura che orienta gli incentivi economici di tutti gli attori coinvolti a vantaggio di immutabilità, incensurabilità e preservazione della scarsità. Adam Smith ci ha insegnato che non è dalla benevolenza del macellaio, del birraio o del panettiere che ci aspettiamo la cena, ma dalla cura che questi hanno per il loro interesse. In questo caso la cena è la sostenibilità dell’esperimento bitcoin.
+[FMA] Proviamo a dire così, la scarsità dell’oro fisico è garantita da madre natura, quella digitale è puramente convenzionale, necessita del consenso degli attori interessati. Ma non si tratta di una convenzione fragile o velleitaria; piuttosto siamo di fronte ad una architettura che orienta gli incentivi economici di tutti gli attori coinvolti a vantaggio di immutabilità, incensurabilità e preservazione della scarsità. Adam Smith ci ha insegnato che non è dalla benevolenza del macellaio, del birraio o del panettiere che ci aspettiamo la cena, ma dalla cura che questi hanno per il loro interesse. In questo caso la cena è la sostenibilità dell’esperimento bitcoin.
