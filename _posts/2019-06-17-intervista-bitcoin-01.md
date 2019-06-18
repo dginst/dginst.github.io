@@ -6,7 +6,7 @@ subtitle: "Intervista a Ferdinando Ametrano"
 author: "Staff"
 image:
     thumb: 2019-06-17-intervista-bitcoin-01-thumb.jpg
-youtube: ygXXBpk_ABU&list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC
+youtube: ygXXBpk_ABU
 published: true
 ---
 
