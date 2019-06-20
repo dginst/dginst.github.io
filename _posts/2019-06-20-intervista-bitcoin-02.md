@@ -10,7 +10,7 @@ youtube: 8FnkrTb6qM4
 published: true
 ---
 
-Presentiamo la seconda parte di una lunga intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin. L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è suddivisa in 11 parti: le successive verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione della seconda parte.
+Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione della seconda parte.
 
 ### 2 - Tra truffa e speculazione
 
