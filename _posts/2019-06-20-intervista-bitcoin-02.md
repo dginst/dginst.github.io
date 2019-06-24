@@ -10,7 +10,7 @@ youtube: 8FnkrTb6qM4
 published: true
 ---
 
-Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione della seconda parte.
+Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa seconda parte.
 
 ### 2 - Tra truffa e speculazione
 
@@ -33,3 +33,7 @@ Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Amet
 **[NV] Se qualcosa aumenta di valore 14 volte in un anno e non è una bolla, allora cos’è?**
 
 [FA] Non credo sia una bolla, piuttosto qualcuno suggerisce potrebbe essere lo spillo che fa scoppiare altre bolle. In primis, quella di un debito pubblico che cresce inesorabilmente. A differenza di quest'ultimo, che costituisce passività, bitcoin è intrinsecamente un attivo: nel momento in cui dovesse prevalere la sfiducia sulla sostenibilità del debito i capitali si riverseranno in bitcoin. Scenari meno drammatici potrebbero invece vedere l'euro e il dollaro intraprendere percorsi virtuosi per l’urgenza della concorrenza bitcoin (e dei nuovi sistemi monetari che ne potranno derivare). Se proprio dobbiamo usare un’immagine per la crescita di valore, bitcoin rappresenta una grande, confusa, magari anche pericolosa, ma sostanzialmente inarrestabile corsa all'oro: un new wild west con truffatori, prestigiatori, ubriachi molesti, furfanti da baraccone e fuorilegge; non ci sono mappe e lo sceriffo non è ancora arrivato in città. La confusione con bitcoin è anche maggiore, perché tanti non hanno chiarezza sulla sua natura: ma negare che luccichi non aiuta nessuno. Dopotutto, città straordinarie come San Francisco sono nate proprio dalla corsa all'oro.
+
+[1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+
+[Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
