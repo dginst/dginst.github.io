@@ -14,7 +14,8 @@ Presentiamo la terza parte dell'intervista al nostro direttore Ferdinando Ametra
 
 ### 3 - Regolazione
 
-[1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
-[2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
-
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
+
+[Trascrizione 1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+
+[Trascrizione 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)

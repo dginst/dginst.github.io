@@ -79,3 +79,5 @@ Presentiamo la prima parte di una lunga intervista al nostro direttore Ferdinand
 **[NV] Non si capisce, riusciresti a spiegare meglio questo concetto?**
 
 [FA] Proviamo a dire così, la scarsità dell’oro fisico è garantita da madre natura, quella digitale è puramente convenzionale, necessita del consenso degli attori interessati. Ma non si tratta di una convenzione fragile o velleitaria; piuttosto siamo di fronte ad una architettura che orienta gli incentivi economici di tutti gli attori coinvolti a vantaggio di immutabilità, incensurabilità e preservazione della scarsità. Adam Smith ci ha insegnato che non è dalla benevolenza del macellaio, del birraio o del panettiere che ci aspettiamo la cena, ma dalla cura che questi hanno per il loro interesse. In questo caso la cena è la sostenibilità dell’esperimento bitcoin.
+
+[Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
