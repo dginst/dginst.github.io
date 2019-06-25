@@ -35,7 +35,7 @@ Presentiamo la prima parte di una lunga intervista al nostro direttore Ferdinand
 
 **[NV] È difficile accettare che qualcosa senza valore intrinseco possa avere valore.**
 
-[FA] Nemmeno l’euro o il dollaro hanno valore intrinseco: dal 1971 nessuna valuta con corso legale è convertibile in oro. In realtà nulla ha davvero valore “intrinseco”: le cose hanno valore per gli utilizzi che possiamo farne e l’apprezzamento che ne deriverà in noi o negli altri. Per questo non ci sentiamo ridicoli ad andare in giro con quei foglietti di carta colorata nei nostri portafogli. E se proprio volessimo trovare un valore intrinseco nell’oro è il fatto che luccica (non si ossida) ed è scarso, esattamente come bitcoin in ambito digitale.
+[FA] Nemmeno l’euro o il dollaro hanno valore intrinseco: dal 1971 [nessuna valuta con corso legale è convertibile in oro](https://www.federalreservehistory.org/essays/gold_convertibility_ends). In realtà nulla ha davvero valore “intrinseco”: le cose hanno valore per gli utilizzi che possiamo farne e l’apprezzamento che ne deriverà in noi o negli altri. Per questo non ci sentiamo ridicoli ad andare in giro con quei foglietti di carta colorata nei nostri portafogli. E se proprio volessimo trovare un valore intrinseco nell’oro è il fatto che luccica (non si ossida) ed è scarso, esattamente come bitcoin in ambito digitale.
 
 **[NV] Ma qui si tratta di una semplice sequenza alfanumerica digitale...**
 
@@ -47,7 +47,7 @@ Presentiamo la prima parte di una lunga intervista al nostro direttore Ferdinand
 
 **[NV] Parli di oro, ma bitcoin non è una moneta? La chiamano crittovaluta...**
 
-[FA] Anche l’oro fisico è stato usato a lungo come moneta, analogamente succede oggi con bitcoin. A maggior ragione perché è uno straordinario mezzo di scambio: “leggerissimo”, trasferibile in maniera praticamente istantanea, con massima sicurezza e comodità, programmabile e divisibile in 100 milioni di parti. Ma sebbene sia tecnicamente possibile, può non essere saggio pagare in bitcoin: chi ha speso 10.000 bitcoin per due pizze nel maggio 2010 non ha fatto una scelta ragionevole per il suo patrimonio. Una valuta è caratterizzata da una politica monetaria elastica, in cui l’offerta di moneta si adegua alla domanda, tentando di tenere stabile il potere di acquisto; nel caso di bitcoin l’offerta è non solo deterministica, ma soprattutto completamente inelastica. Bitcoin è crypto-commodity più che crypto-currency, bene rifugio più che moneta transazionale.
+[FA] Anche l’oro fisico è stato usato a lungo come moneta, analogamente succede oggi con bitcoin. A maggior ragione perché è uno straordinario mezzo di scambio: “leggerissimo”, trasferibile in maniera praticamente istantanea, con massima sicurezza e comodità, programmabile e divisibile in 100 milioni di parti. Ma sebbene sia tecnicamente possibile, può non essere saggio pagare in bitcoin: chi ha speso [10.000 bitcoin per due pizze](https://bitcointalk.org/index.php?topic=137.msg1195#msg1) nel maggio 2010 non ha fatto una scelta ragionevole per il suo patrimonio. Una valuta è caratterizzata da una politica monetaria elastica, in cui l’offerta di moneta si adegua alla domanda, tentando di tenere stabile il potere di acquisto; nel caso di bitcoin l’offerta è non solo deterministica, ma soprattutto completamente inelastica. Bitcoin è crypto-commodity più che crypto-currency, bene rifugio più che moneta transazionale.
 
 **[NV] Veramente sembra più speculazione selvaggia: il prezzo si muove con dinamiche da montagne russe, non da mercati finanziari...**
 
@@ -59,7 +59,7 @@ Presentiamo la prima parte di una lunga intervista al nostro direttore Ferdinand
 
 **[NV] I banchieri centrali servono proprio a questo, a rendere stabile il valore di una moneta.**
 
-[FA] Dalla sua fondazione nel 1913 la Federal Reserve ha accompagnato il dollaro statunitense in un percorso di svalutazione che gli ha fatto perdere ad oggi il 98% del suo potere di acquisto. Secondo Milton Friedman “nessuna grande istituzione negli Stati Uniti ha registrato performance così mediocri per un periodo così lungo come la Federal Reserve, nonostante questo mantenendo un’alta reputazione pubblica”. In ogni caso bitcoin non è moneta: la sua offerta non è governabile discrezionalmente, esattamente come l’oro. Non esiste per fortuna banchiere centrale o governante che possa per decreto aumentare la quantità di oro in circolazione.
+[FA] Dalla sua fondazione nel 1913 la Federal Reserve ha accompagnato il dollaro statunitense in un percorso di svalutazione che gli ha fatto perdere ad oggi il 98% del suo potere di acquisto. Secondo Milton Friedman [“nessuna grande istituzione negli Stati Uniti ha registrato performance così mediocri per un periodo così lungo come la Federal Reserve, nonostante questo mantenendo un’alta reputazione pubblica”](https://miltonfriedman.hoover.org/friedman_images/Collections/2016c21/WSJ_04_15_1988.pdf). In ogni caso bitcoin non è moneta: la sua offerta non è governabile discrezionalmente, esattamente come l’oro. Non esiste per fortuna banchiere centrale o governante che possa per decreto aumentare la quantità di oro in circolazione.
 
 **[NV] Ma che valore può avere qualcosa che non ha emittente centrale e non è garantito da alcuna autorità?**
 

@@ -21,7 +21,7 @@ Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Amet
 
 **[NV] Molti però paragonano bitcoin alla bolla dei tulipani, che secoli fa furono scambiati in Olanda a prezzi esorbitanti per un periodo, dopodiché il valore crollò a zero.**
 
-[FA] Quella dei tulipani è una bolla durata sei mesi, al massimo tre anni, alcuni sostengono addirittura non sia mai davvero accaduta come lo raccontiamo oggi, nell’Olanda del 1637. Trovo intellettualmente disonesto e sconfortante paragonarla con un fenomeno che dura da nove anni nell’economia globale del 2018: l'informazione disponibile oggi è infinitamente superiore, circola con maggiore facilità, il mercato è molto più aperto ed esteso. Bitcoin non è effimero, anzi si sta mostrando straordinariamente resiliente. Su bitcoin c’è una taglia formidabile: chiunque ne rompa il funzionamento può trarne un gigantesco beneficio economico o almeno una straordinaria fama. Nessuno ci è riuscito...
+[FA] Quella dei tulipani è una [bolla durata sei mesi](https://en.wikipedia.org/wiki/Tulip_mania), al massimo tre anni, alcuni sostengono addirittura non sia [mai davvero accaduta](https://theconversation.com/tulip-mania-the-classic-story-of-a-dutch-financial-bubble-is-mostly-wrong-91413) come lo raccontiamo oggi, nell’Olanda del 1637. Trovo intellettualmente disonesto e sconfortante paragonarla con un fenomeno che dura da nove anni nell’economia globale del 2018: l'informazione disponibile oggi è infinitamente superiore, circola con maggiore facilità, il mercato è molto più aperto ed esteso. Bitcoin non è effimero, anzi si sta mostrando straordinariamente resiliente. Su bitcoin c’è una taglia formidabile: chiunque ne rompa il funzionamento può trarne un gigantesco beneficio economico o almeno una straordinaria fama. Nessuno ci è riuscito...
 
 **[NV] Non puoi negare però che nella crescita di prezzo ci sia una fortissima componente speculativa che certamente danneggia la reputazione bitcoin.**
 
@@ -29,7 +29,7 @@ Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Amet
 
 **[NV] Premi Nobel come Krugman e Stiglitz criticano severamente la bolla bitcoin.**
 
-[FA] Del primo ricordo la frase “l’impatto di internet sull’economia non sarà superiore a quello avuto dal fax”. Il secondo stimò la probabilità di fallimento delle agenzie americane Fannie Mae e Freddie Mac talmente piccola da non essere misurabile: quei fallimenti hanno innescato la crisi finanziaria del 2007 che dura tutt’ora. Vincere un premio Nobel non garantisce una intelligenza assoluta e ineccepibile.
+[FA] Del primo ricordo la frase [“l’impatto di internet sull’economia non sarà superiore a quello avuto dal fax”](http://web.archive.org/web/19980610100009/www.redherring.com/mag/issue55/economics.html). Il secondo stimò la probabilità di fallimento delle agenzie americane Fannie Mae e Freddie Mac talmente piccola da [non essere misurabile](https://www.wsj.com/articles/SB10001424052748704204304574543503520372002): quei fallimenti hanno innescato la crisi finanziaria del 2007 che dura tutt’ora. Vincere un premio Nobel non garantisce una intelligenza assoluta e ineccepibile.
 
 **[NV] Se qualcosa aumenta di valore 14 volte in un anno e non è una bolla, allora cos’è?**
 
