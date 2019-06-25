@@ -29,7 +29,9 @@
                     </h4>
 
                     <p class="pdate text-muted">
-                        {{ page.date | date: "%b %e, %Y" }}
+                        {{ post.date | date: "%b %e, %Y" }} |
+                        <i>{{ post.author }}</i>
+                    </p>
 
                         {% if post.subtitle %}
                         <p>{{ post.subtitle }}</p>
