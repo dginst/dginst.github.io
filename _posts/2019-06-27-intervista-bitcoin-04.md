@@ -8,6 +8,7 @@ image:
     thumb: 2019-06-27-intervista-bitcoin-04-thumb.jpg
 youtube: h6iECRbnaiY
 published: false
+newsfeed: false
 ---
 
 Presentiamo la quarta parte dell'intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa quarta parte.

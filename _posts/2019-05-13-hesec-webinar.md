@@ -9,6 +9,7 @@ image:
     thumb: 2019-05-13-hesec-and-dgi-webinar-thumb.jpg
 youtube: 36slArIgsbw?t=18
 published: true
+newsfeed: true
 ---
 
 The [Harvard Extension Students Environment Club](https://hesec.extension.harvard.edu/webinars)

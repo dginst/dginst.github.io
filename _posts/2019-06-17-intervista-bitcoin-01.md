@@ -8,6 +8,7 @@ image:
     thumb: 2019-06-17-intervista-bitcoin-01-thumb.jpg
 youtube: ygXXBpk_ABU
 published: true
+newsfeed: false
 ---
 
 Presentiamo la prima parte di una lunga intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin. L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è suddivisa in 11 parti: le successive verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione di questa prima parte.
@@ -81,3 +82,5 @@ Presentiamo la prima parte di una lunga intervista al nostro direttore Ferdinand
 [FA] Proviamo a dire così, la scarsità dell’oro fisico è garantita da madre natura, quella digitale è puramente convenzionale, necessita del consenso degli attori interessati. Ma non si tratta di una convenzione fragile o velleitaria; piuttosto siamo di fronte ad una architettura che orienta gli incentivi economici di tutti gli attori coinvolti a vantaggio di immutabilità, incensurabilità e preservazione della scarsità. Adam Smith ci ha insegnato che non è dalla benevolenza del macellaio, del birraio o del panettiere che ci aspettiamo la cena, ma dalla cura che questi hanno per il loro interesse. In questo caso la cena è la sostenibilità dell’esperimento bitcoin.
 
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
+
+[Parte 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)

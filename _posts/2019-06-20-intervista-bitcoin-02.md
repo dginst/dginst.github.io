@@ -8,6 +8,7 @@ image:
     thumb: 2019-06-20-intervista-bitcoin-02-thumb.jpg
 youtube: 8FnkrTb6qM4
 published: true
+newsfeed: false
 ---
 
 Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa seconda parte.
@@ -36,4 +37,6 @@ Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Amet
 
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
-[Trascrizione 1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+[Parte 1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+
+[Parte 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
