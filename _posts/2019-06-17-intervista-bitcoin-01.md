@@ -11,11 +11,15 @@ published: true
 newsfeed: false
 ---
 
-Presentiamo la prima parte di una lunga intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin. L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è suddivisa in 11 parti: le successive verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione di questa prima parte.
+Presentiamo la prima parte di una lunga intervista al nostro direttore
+[Ferdinando Ametrano](https://www.ametrano.net) sul tema Bitcoin.
+L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è suddivisa in 11 parti: le successive verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione di questa prima parte.
 
-### 1 - Oro Digitale
+### 1 - Oro digitale
 
-*[NV] Se ne discute molto, ma su bitcoin la divisione è radicale, tra scettici che parlano di bolla ed entusiasti che descrivono una rivoluzione globale. Tra questi ultimi, Ferdinando Maria Ametrano è uno degli esperti più controversi ed interessanti: fisico di formazione, per decenni si è occupato di derivati finanziari, fino al 2014 quando scopre bitcoin; oggi dirige il Digital Gold Institute ed insegna “Bitcoin and Blockchain Technology” all’Università Milano Bicocca ed al Politecnico di Milano. È stato Head of Blockchain and Virtual Currencies in Intesa Sanpaolo, membro del comitato organizzatore di Scaling Bitcoin (la principale conferenza annuale per gli sviluppatori della crittovaluta) e nel 2018 è intervenuto al [primo seminario organizzato su bitcoin all’ONU](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10). Lo abbiamo intervistato, accendendo il riflettore sui molteplici aspetti di bitcoin.*
+*[NV] Se ne discute molto, ma su bitcoin la divisione è radicale, tra scettici che parlano di bolla ed entusiasti che descrivono una rivoluzione globale. Tra questi ultimi, Ferdinando Maria Ametrano è uno degli esperti più controversi ed interessanti: fisico di formazione, per decenni si è occupato di derivati finanziari, fino al 2014 quando scopre bitcoin; oggi dirige il
+[Digital Gold Institute](https://dgi.io/full-team/) ed insegna
+[“Bitcoin and Blockchain Technology”](http://www.ametrano.net/bbt/) all’Università Milano-Bicocca ed al Politecnico di Milano. È stato Head of Blockchain and Virtual Currencies in Intesa Sanpaolo, membro del comitato organizzatore di Scaling Bitcoin (la principale conferenza annuale per gli sviluppatori della crittovaluta) e nel 2018 è intervenuto al [primo seminario organizzato su bitcoin all’ONU](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10). Lo abbiamo intervistato, accendendo il riflettore sui molteplici aspetti di bitcoin.*
 
 **[NV] Ferdinando, partiamo dalle basi: cos’è bitcoin?**
 
