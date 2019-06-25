@@ -60,4 +60,6 @@ Presentiamo la terza parte dell'intervista al nostro direttore Ferdinando Ametra
 
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
+[Parte 1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+
 [Parte 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)

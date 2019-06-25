@@ -84,3 +84,5 @@ Presentiamo la prima parte di una lunga intervista al nostro direttore Ferdinand
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
 [Parte 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
+
+[Parte 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
