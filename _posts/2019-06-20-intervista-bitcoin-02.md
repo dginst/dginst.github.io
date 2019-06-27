@@ -40,3 +40,5 @@ Presentiamo la seconda parte dell'intervista al nostro direttore Ferdinando Amet
 [Parte 1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
 
 [Parte 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
+
+[Parte 4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)

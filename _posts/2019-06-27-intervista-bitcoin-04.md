@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: 2019-06-27-intervista-bitcoin-04-thumb.jpg
 youtube: h6iECRbnaiY
-published: false
-newsfeed: false
+published: true
+newsfeed: true 
 ---
 
 Presentiamo la quarta parte dell'intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa quarta parte.
@@ -33,7 +33,7 @@ Presentiamo la quarta parte dell'intervista al nostro direttore Ferdinando Ametr
 
 **[NV] L’ostilità delle grandi banche sembra generalizzata.**
 
-[FA] Non aver compreso bitcoin per tempo ed averlo osteggiato impedisce adesso di riconoscere l’errore. Ed è innegabile che bitcoin sia cresciuto in un ecosistema che non ama il mondo della finanza. Ma l’ostilità, pur generalizzata, non è unanime. Ad esempio Lloyd Blankfein, l’amministratore delegato di Goldman Sachs, si mostra più possibilista: dice di non essere ancora arrivato ad una conclusione su bitcoin, ricorda che c’era scetticismo anche quando la carta moneta sostituì l’oro; addirittura ipotizza che bitcoin possa rappresentare una naturale progressione: come siamo passati da moneta garantita (redimibile in oro) a moneta fiduciaria (non redimibile), potremmo andare oggi verso “consensus money”. E la sua banca sta per lanciare un desk di trading specializzato in crittovalute. L’alternativa miope è quella delle multinazionali musicali che hanno fatto la lotta agli MP3 ed al file-sharing col risultato che la musica liquida oggi non la compriamo da loro ma da iTunes, Amazon e Google.
+[FA] Non aver compreso bitcoin per tempo ed averlo osteggiato impedisce adesso di riconoscere l’errore. Ed è innegabile che bitcoin sia cresciuto in un ecosistema che non ama il mondo della finanza. Ma l’ostilità, pur generalizzata, non è unanime. Ad esempio Lloyd Blankfein, l’amministratore delegato di Goldman Sachs, [si mostra più possibilista](https://www.cnbc.com/2017/11/09/cnbc-exclusive-cnbc-transcript-goldman-sachs-ceo-lloyd-blankfein-speaks-with-cnbcs-kayla-tausche-today.html): dice di non essere ancora arrivato ad una conclusione su bitcoin, ricorda che c’era scetticismo anche quando la carta moneta sostituì l’oro; addirittura ipotizza che bitcoin possa rappresentare una naturale progressione: come siamo passati da moneta garantita (redimibile in oro) a moneta fiduciaria (non redimibile), potremmo andare oggi verso “consensus money”. E la sua banca sta per lanciare un desk di trading specializzato in crittovalute. L’alternativa miope è quella delle multinazionali musicali che hanno fatto la lotta agli MP3 ed al file-sharing col risultato che la musica liquida oggi non la compriamo da loro ma da iTunes, Amazon e Google.
 
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
