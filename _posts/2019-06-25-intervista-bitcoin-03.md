@@ -11,9 +11,11 @@ published: true
 newsfeed: false
 ---
 
-Presentiamo la terza parte dell'intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa terza parte.
+Presentiamo la terza parte dell'intervista al nostro direttore
+[Ferdinando Ametrano](https://www.ametrano.net) sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa terza parte.
 
 ### 3 - Regolazione
+
 **[NV] Non sarebbe opportuno regolamentare bitcoin?**
 
 [FA] Bitcoin è tecnologia nativamente permissionless: come il web, l’email ed i protocolli peer-to-peer sfugge ai tentativi di regolazione. “Regolare bitcoin” suona velleitario: la natura di bitcoin è indifferente alla regolazione tanto quanto lo sono le caratteristiche chimico-fisiche dell'oro. È invece necessario contrastare i criminali che utilizzassero bitcoin, come si fa con quelli che usano l'oro, l'euro o le partecipazioni azionarie. Sono già regolati i punti di contatto tra bitcoin e le monete a corso legale (le borse di scambio, i fornitori di servizi finanziari, ecc.): è inutile tentare di imporre ulteriori vincoli tecnicamente non praticabili o peggio ancora criminalizzarlo.
@@ -58,9 +60,9 @@ Presentiamo la terza parte dell'intervista al nostro direttore Ferdinando Ametra
 
 [FA] Non c’è modo di salvare gli investitori incoscienti da sé stessi: sapranno sempre trovare modi nuovi con cui farsi del male. Si può solo investire in informazione ed educazione sul tema. Quanto all’affidabilità delle piattaforme: nel 2017 è partita al Chicago Mercantile Exchange la contrattazione dei derivati (futures) su bitcoin, mentre la compravendita del sottostante bitcoin (spot) avviene ancora su borse di scambio che non sono istituzioni finanziarie vigilate. Le migliori borse ottemperano già alla normativa su antiriciclaggio, prevenzione del finanziamento al terrorismo e adeguata verifica: bisognerebbe incoraggiarne l'inclusione nel sistema finanziario, marginalizzando banditi e fuorilegge. Il mercato dei bitcoin ha grande volatilità, anche a causa di volumi scambiati relativamente bassi che consentono ancora manipolazioni dei prezzi. Ci sono trader e speculatori che applicano tecniche inapplicabili o addirittura illegali sui mercati tradizionali. Se davvero si vuole difendere il risparmiatore, bisogna consentirgli una semplice e sicura operatività in bitcoin.
 
-[Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
+[Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
-[Parte 1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+[Parte 1: Oro digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
 
 [Parte 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
 

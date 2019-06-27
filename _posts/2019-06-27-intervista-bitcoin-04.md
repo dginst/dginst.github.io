@@ -11,9 +11,10 @@ published: true
 newsfeed: true 
 ---
 
-Presentiamo la quarta parte dell'intervista al nostro direttore Ferdinando Ametrano sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa quarta parte.
+Quarta parte dell'intervista al nostro direttore
+[Ferdinando Ametrano](https://www.ametrano.net) sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive parti verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa quarta parte.
 
-### 4 - La Finanza
+### 4 - La finanza
 
 **[NV] In molti sostengono che l’aumento di valore di bitcoin negli ultimi mesi del 2017 sia stato dovuto al lancio dei contratti futures sulla piazza di Chicago: perché?**
 
@@ -35,9 +36,9 @@ Presentiamo la quarta parte dell'intervista al nostro direttore Ferdinando Ametr
 
 [FA] Non aver compreso bitcoin per tempo ed averlo osteggiato impedisce adesso di riconoscere l’errore. Ed è innegabile che bitcoin sia cresciuto in un ecosistema che non ama il mondo della finanza. Ma l’ostilità, pur generalizzata, non è unanime. Ad esempio Lloyd Blankfein, l’amministratore delegato di Goldman Sachs, [si mostra più possibilista](https://www.cnbc.com/2017/11/09/cnbc-exclusive-cnbc-transcript-goldman-sachs-ceo-lloyd-blankfein-speaks-with-cnbcs-kayla-tausche-today.html): dice di non essere ancora arrivato ad una conclusione su bitcoin, ricorda che c’era scetticismo anche quando la carta moneta sostituì l’oro; addirittura ipotizza che bitcoin possa rappresentare una naturale progressione: come siamo passati da moneta garantita (redimibile in oro) a moneta fiduciaria (non redimibile), potremmo andare oggi verso “consensus money”. E la sua banca sta per lanciare un desk di trading specializzato in crittovalute. L’alternativa miope è quella delle multinazionali musicali che hanno fatto la lotta agli MP3 ed al file-sharing col risultato che la musica liquida oggi non la compriamo da loro ma da iTunes, Amazon e Google.
 
-[Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
+[Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
-[Trascrizione 1: Oro Digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+[Trascrizione 1: Oro digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
 
 [Trascrizione 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
 
