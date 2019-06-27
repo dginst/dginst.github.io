@@ -41,8 +41,5 @@ Presentiamo la seconda parte dell'intervista al nostro direttore
 [Parte 1: Oro digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
 
 [Parte 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
-<<<<<<< HEAD
 
 [Parte 4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
-=======
->>>>>>> e7f7f2a4ab6a8574de18bc75a88294a0ff742e51
