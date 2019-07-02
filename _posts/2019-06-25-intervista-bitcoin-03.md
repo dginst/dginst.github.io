@@ -16,7 +16,7 @@ Presentiamo la terza parte dell'intervista al nostro direttore
 
 ### 3 - Regolazione
 
-**[NV] Non sarebbe opportuno regolamentare bitcoin?**
+**[NV] Non sarebbe opportuno regolare bitcoin?**
 
 [FA] Bitcoin è tecnologia nativamente permissionless: come il web, l’email ed i protocolli peer-to-peer sfugge ai tentativi di regolazione. “Regolare bitcoin” suona velleitario: la natura di bitcoin è indifferente alla regolazione tanto quanto lo sono le caratteristiche chimico-fisiche dell'oro. È invece necessario contrastare i criminali che utilizzassero bitcoin, come si fa con quelli che usano l'oro, l'euro o le partecipazioni azionarie. Sono già regolati i punti di contatto tra bitcoin e le monete a corso legale (le borse di scambio, i fornitori di servizi finanziari, ecc.): è inutile tentare di imporre ulteriori vincoli tecnicamente non praticabili o peggio ancora criminalizzarlo.
 
