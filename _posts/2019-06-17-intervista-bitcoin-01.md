@@ -92,3 +92,5 @@ L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è su
 [Parte 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
 
 [Parte 4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
+
+[Parte 5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)

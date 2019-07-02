@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: 2019-07-02-intervista-bitcoin-05-thumb.jpg
 youtube: owAwuxfDZe4
-published: false
-newsfeed: false
+published: true
+newsfeed: true
 ---
 
 Quinta parte dell'intervista al nostro direttore

@@ -67,3 +67,5 @@ Presentiamo la terza parte dell'intervista al nostro direttore
 [Parte 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
 
 [Parte 4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
+
+[Parte 5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)

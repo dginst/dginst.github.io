@@ -8,7 +8,7 @@ image:
     thumb: 2019-06-27-intervista-bitcoin-04-thumb.jpg
 youtube: h6iECRbnaiY
 published: true
-newsfeed: true 
+newsfeed: false 
 ---
 
 Quarta parte dell'intervista al nostro direttore
@@ -38,8 +38,10 @@ Quarta parte dell'intervista al nostro direttore
 
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
-[Trascrizione 1: Oro digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+[Parte 1: Oro digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
 
-[Trascrizione 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
+[Parte 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
 
-[Trascrizione 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
+[Parte 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
+
+[Parte 5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)

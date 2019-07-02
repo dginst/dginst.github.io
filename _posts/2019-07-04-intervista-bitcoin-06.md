@@ -81,4 +81,4 @@ Di seguito la trascrizione di questa sesta parte.
 
 [Parte 4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
 
-[Parte 5: Come funziona bitcoin](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
+[Parte 5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)
