@@ -12,7 +12,8 @@ newsfeed: false
 ---
 
 Presentiamo la prima parte di una lunga intervista al nostro direttore
-[Ferdinando Ametrano](https://www.ametrano.net) sul tema Bitcoin.
+[*Ferdinando Ametrano*](https://www.ametrano.net)
+sul tema Bitcoin.
 L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è suddivisa in 11 parti: le successive verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione di questa prima parte.
 
 ### 1 - Oro digitale

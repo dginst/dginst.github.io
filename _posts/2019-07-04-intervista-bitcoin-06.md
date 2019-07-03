@@ -12,7 +12,7 @@ newsfeed: false
 ---
 
 Sesta parte dell'intervista al nostro direttore
-[Ferdinando Ametrano](https://www.ametrano.net)
+[*Ferdinando Ametrano*](https://www.ametrano.net)
 sul tema Bitcoin,
 a cura di *Nicole Vismara* (manager di Deloitte Consulting).
 Le successive parti verranno pubblicate con cadenza regolare
