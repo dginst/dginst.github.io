@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "[ITA] Bitcoin: oro digitale, finanza e tulipani (parte 1 di 11)"
+title: "[ITA] Bitcoin: oro digitale, finanza e tulipani (puntata 1 di 11)"
 subtitle: "Intervista a Ferdinando Ametrano"
 author: "Staff"
 image:
@@ -11,10 +11,10 @@ published: true
 newsfeed: false
 ---
 
-Presentiamo la prima parte di una lunga intervista al nostro direttore
+Presentiamo la prima puntata di una lunga intervista al nostro direttore
 [*Ferdinando Ametrano*](https://www.ametrano.net)
 sul tema Bitcoin.
-L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è suddivisa in 11 parti: le successive verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione di questa prima parte.
+L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è suddivisa in 11 puntate: le successive verranno pubblicate con cadenza regolare ogni martedì e giovedì. Di seguito la trascrizione di questa puntata.
 
 ### 1 - Oro digitale
 
@@ -52,7 +52,7 @@ L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è su
 
 **[NV] Parli di oro, ma bitcoin non è una moneta? La chiamano crittovaluta...**
 
-[FA] Anche l’oro fisico è stato usato a lungo come moneta, analogamente succede oggi con bitcoin. A maggior ragione perché è uno straordinario mezzo di scambio: “leggerissimo”, trasferibile in maniera praticamente istantanea, con massima sicurezza e comodità, programmabile e divisibile in 100 milioni di parti. Ma sebbene sia tecnicamente possibile, può non essere saggio pagare in bitcoin: chi ha speso [10.000 bitcoin per due pizze](https://bitcointalk.org/index.php?topic=137.msg1195#msg1) nel maggio 2010 non ha fatto una scelta ragionevole per il suo patrimonio. Una valuta è caratterizzata da una politica monetaria elastica, in cui l’offerta di moneta si adegua alla domanda, tentando di tenere stabile il potere di acquisto; nel caso di bitcoin l’offerta è non solo deterministica, ma soprattutto completamente inelastica. Bitcoin è crypto-commodity più che crypto-currency, bene rifugio più che moneta transazionale.
+[FA] Anche l’oro fisico è stato usato a lungo come moneta, analogamente succede oggi con bitcoin. A maggior ragione perché è uno straordinario mezzo di scambio: “leggerissimo”, trasferibile in maniera praticamente istantanea, con massima sicurezza e comodità, programmabile e divisibile in 100 milioni di puntate. Ma sebbene sia tecnicamente possibile, può non essere saggio pagare in bitcoin: chi ha speso [10.000 bitcoin per due pizze](https://bitcointalk.org/index.php?topic=137.msg1195#msg1) nel maggio 2010 non ha fatto una scelta ragionevole per il suo patrimonio. Una valuta è caratterizzata da una politica monetaria elastica, in cui l’offerta di moneta si adegua alla domanda, tentando di tenere stabile il potere di acquisto; nel caso di bitcoin l’offerta è non solo deterministica, ma soprattutto completamente inelastica. Bitcoin è crypto-commodity più che crypto-currency, bene rifugio più che moneta transazionale.
 
 **[NV] Veramente sembra più speculazione selvaggia: il prezzo si muove con dinamiche da montagne russe, non da mercati finanziari...**
 
@@ -88,10 +88,10 @@ L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è su
 
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
-[Parte 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
+[2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
 
-[Parte 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
+[3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
 
-[Parte 4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
+[4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
 
-[Parte 5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)
+[5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)

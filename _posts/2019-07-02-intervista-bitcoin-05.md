@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "[ITA] Bitcoin: oro digitale, finanza e tulipani (parte 5 di 11)"
+title: "[ITA] Bitcoin: oro digitale, finanza e tulipani (puntata 5 di 11)"
 subtitle: "Intervista a Ferdinando Ametrano"
 author: "Staff"
 image:
@@ -11,13 +11,13 @@ published: true
 newsfeed: true
 ---
 
-Quinta parte dell'intervista al nostro direttore
+Quinta puntata dell'intervista al nostro direttore
 [*Ferdinando Ametrano*](https://www.ametrano.net)
 sul tema Bitcoin,
 a cura di *Nicole Vismara* (manager di Deloitte Consulting).
-Le successive parti verranno pubblicate con cadenza regolare
+Le successive puntate verranno pubblicate con cadenza regolare
 ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti.
-Di seguito la trascrizione di questa quinta parte.
+Di seguito la trascrizione di questa puntata.
 
 ### 5 - Come funzione Bitcoin
 
@@ -44,10 +44,10 @@ Di seguito la trascrizione di questa quinta parte.
 
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
-[Parte 1: Oro digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
+[1: Oro digitale](https://dgi.io/2019/06/17/intervista-bitcoin-01.html)
 
-[Parte 2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
+[2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-bitcoin-02.html)
 
-[Parte 3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
+[3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
 
-[Parte 4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
+[4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
