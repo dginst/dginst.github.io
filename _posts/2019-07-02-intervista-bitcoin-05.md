@@ -8,7 +8,7 @@ image:
     thumb: 2019-07-02-intervista-bitcoin-05-thumb.jpg
 youtube: owAwuxfDZe4
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Quinta puntata dell'intervista al nostro direttore
@@ -51,3 +51,5 @@ Di seguito la trascrizione di questa puntata.
 [3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
 
 [4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
+
+[6: Ico, forkcoin e altcoin](https://dgi.io/2019/07/04/intervista-bitcoin-06.html)

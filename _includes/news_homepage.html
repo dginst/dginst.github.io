@@ -12,8 +12,8 @@
             {% for post in site.posts %}
             {% if post.newsfeed %}
             {% capture times_if %}{% increment times_if %}{% endcapture %}
-            {% if times_if <= '1' %}
-            <div class="col-lg-6 col-md-6">
+            {% if times_if <= '2' %}
+            <div class="col-lg-4 col-md-4">
                 <article class="post">
                     {% if post.image.thumb %}
                     <p>
@@ -32,11 +32,6 @@
                         {{ post.date | date: "%b %e, %Y" }} |
                         <i>{{ post.author }}</i>
                     </p>
-
-                        {% if post.subtitle %}
-                        <p>{{ post.subtitle }}</p>
-                        {% endif %}
-
                 </article>
             </div>
             {% endif %}

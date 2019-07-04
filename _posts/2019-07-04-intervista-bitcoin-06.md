@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: 2019-07-04-intervista-bitcoin-06-thumb.jpg
 youtube: M77hvBBan9I
-published: false
-newsfeed: false
+published: true
+newsfeed: true
 ---
 
 Sesta puntata dell'intervista al nostro direttore

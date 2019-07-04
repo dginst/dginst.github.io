@@ -33,4 +33,4 @@ Di seguito la trascrizione di questa puntata.
 
 [5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)
 
-[6: Come funziona bitcoin](https://dgi.io/2019/07/04/intervista-bitcoin-06.html)
+[6: Ico, forkcoin e altcoin](https://dgi.io/2019/07/04/intervista-bitcoin-06.html)
