@@ -13,7 +13,7 @@
             {% if post.newsfeed %}
             {% capture times_if %}{% increment times_if %}{% endcapture %}
             {% if times_if <= '1' %}
-            <div class="col-lg-4 col-md-4">
+            <div class="col-lg-6 col-md-6">
                 <article class="post">
                     {% if post.image.thumb %}
                     <p>
@@ -36,7 +36,7 @@
                     {% if post.subtitle %}
                         <p>{{ post.subtitle }}</p>
                     {% endif %}
-                    
+
                 </article>
             </div>
             {% endif %}
