@@ -46,3 +46,5 @@ sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). L
 [3: Regolazione](https://dgi.io/2019/06/25/intervista-bitcoin-03.html)
 
 [5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)
+
+[6: Ico, forkcoin e altcoin](https://dgi.io/2019/07/04/intervista-bitcoin-06.html)
