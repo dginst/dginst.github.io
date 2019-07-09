@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: 2019-07-09-intervista-bitcoin-07-thumb.jpg
 youtube: HGOpSn0vsV4
-published: false
-newsfeed: false
+published: true
+newsfeed: true
 ---
 
 Settima puntata dell'intervista al nostro direttore

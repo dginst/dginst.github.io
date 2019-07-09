@@ -53,3 +53,5 @@ Di seguito la trascrizione di questa puntata.
 [4: La finanza](https://dgi.io/2019/06/27/intervista-bitcoin-04.html)
 
 [6: Ico, forkcoin e altcoin](https://dgi.io/2019/07/04/intervista-bitcoin-06.html)
+
+[7: Privacy e futuro della moneta](https://dgi.io/2019/07/09/intervista-bitcoin-07.html)
