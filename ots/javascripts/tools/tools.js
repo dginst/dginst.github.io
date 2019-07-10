@@ -62,10 +62,15 @@ $("#btn-stamp").click(function(event) {
     const hashValue = $("#stamp-hashValue").val()
     const hashData = hexToBytes(hashValue)
     const detachedOriginal = OpenTimestamps.DetachedTimestampFile.fromHash(op, hashData)
+    var calendars = []
+  	$("input:checkbox[name='stamp-calendar']:checked").each(function(){
+  		calendars.push($(this).val())
+  	})
+    const param = { calendars: calendars }
 
     const filename = $("#stamp-filename").val()
 
-    OpenTimestamps.stamp(detachedOriginal).then( () => {
+    OpenTimestamps.stamp(detachedOriginal,param).then( () => {
         const byteots = detachedOriginal.serializeToBytes()
         const hexots = bytesToHex(byteots)
         $("#stamp-output").val(hexots)
@@ -160,10 +165,16 @@ $("#btn-upgrade").click(function(event) {
     const hashValue = bytesToHex(digest)
     $("#upgrade-hashValue").val(hashValue)
 
+    var calendars = []
+    $("input:checkbox[name='upgrade-calendar']:checked").each(function(){
+      calendars.push($(this).val())
+    })
+    const param = { calendars: calendars }
+
     const filename = $("#upgrade-filename").val()
     $("#verify-filename").val(filename)
 
-    OpenTimestamps.upgrade(detachedStamped).then( (changed)=>{
+    OpenTimestamps.upgrade(detachedStamped,param).then( (changed)=>{
         const timestampBytes = detachedStamped.serializeToBytes()
         const hexots = bytesToHex(timestampBytes)
         if (changed === true) {
@@ -200,10 +211,16 @@ $("#btn-verify").click(function(event) {
     const hashValue = bytesToHex(digest)
     $("#verify-hashValue").val(hashValue)
 
+    var calendars = []
+    $("input:checkbox[name='verify-calendar']:checked").each(function(){
+      calendars.push($(this).val())
+    })
+    const param = { calendars: calendars }
+
     const filename = $("#verify-filename").val()
     var outputText = ""
 
-    OpenTimestamps.upgrade(detachedStamped).then( (changed)=>{
+    OpenTimestamps.upgrade(detachedStamped,param).then( (changed)=>{
         const timestampBytes = detachedStamped.serializeToBytes()
         hexots = bytesToHex(timestampBytes)
         if (changed === true) {
