@@ -99,3 +99,5 @@ L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è su
 [6: Ico, forkcoin e altcoin](https://dgi.io/2019/07/04/intervista-bitcoin-06.html)
 
 [7: Privacy e futuro della moneta](https://dgi.io/2019/07/09/intervista-bitcoin-07.html)
+
+[8: La blockchain oltre bitcoin](https://dgi.io/2019/07/11/intervista-bitcoin-08.html)

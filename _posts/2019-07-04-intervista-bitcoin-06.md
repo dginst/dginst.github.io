@@ -84,3 +84,5 @@ Di seguito la trascrizione di questa puntata.
 [5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)
 
 [7: Privacy e futuro della moneta](https://dgi.io/2019/07/09/intervista-bitcoin-07.html)
+
+[8: La blockchain oltre bitcoin](https://dgi.io/2019/07/11/intervista-bitcoin-08.html)

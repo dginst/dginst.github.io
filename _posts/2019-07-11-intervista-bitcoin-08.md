@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: 2019-07-11-intervista-bitcoin-08-thumb.jpg
 youtube: QZOvwyDJUtk
-published: false
-newsfeed: false
+published: true
+newsfeed: true
 ---
 
 Ottava puntata dell'intervista al nostro direttore

@@ -8,7 +8,7 @@ image:
     thumb: 2019-07-09-intervista-bitcoin-07-thumb.jpg
 youtube: HGOpSn0vsV4
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Settima puntata dell'intervista al nostro direttore
@@ -78,3 +78,5 @@ Di seguito la trascrizione di questa puntata.
 [5: Come funziona bitcoin](https://dgi.io/2019/07/02/intervista-bitcoin-05.html)
 
 [6: Ico, forkcoin e altcoin](https://dgi.io/2019/07/04/intervista-bitcoin-06.html)
+
+[8: La blockchain oltre bitcoin](https://dgi.io/2019/07/11/intervista-bitcoin-08.html)
