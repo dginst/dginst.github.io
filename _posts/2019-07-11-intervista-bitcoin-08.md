@@ -8,7 +8,7 @@ image:
     thumb: 2019-07-11-intervista-bitcoin-08-thumb.jpg
 youtube: QZOvwyDJUtk
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Ottava puntata dell'intervista al nostro direttore
@@ -81,3 +81,5 @@ Di seguito la trascrizione di questa puntata.
 [6: Ico, forkcoin e altcoin](https://dgi.io/2019/07/04/intervista-bitcoin-06.html)
 
 [7: Privacy e futuro della moneta](https://dgi.io/2019/07/09/intervista-bitcoin-07.html)
+
+[9: I punti deboli di bitcoin](https://dgi.io/2019/07/16/intervista-bitcoin-09.html)

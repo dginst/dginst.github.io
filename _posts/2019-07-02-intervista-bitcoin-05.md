@@ -57,3 +57,5 @@ Di seguito la trascrizione di questa puntata.
 [7: Privacy e futuro della moneta](https://dgi.io/2019/07/09/intervista-bitcoin-07.html)
 
 [8: La blockchain oltre bitcoin](https://dgi.io/2019/07/11/intervista-bitcoin-08.html)
+
+[9: I punti deboli di bitcoin](https://dgi.io/2019/07/16/intervista-bitcoin-09.html)
