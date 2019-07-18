@@ -83,3 +83,5 @@ Di seguito la trascrizione di questa puntata.
 [7: Privacy e futuro della moneta](https://dgi.io/2019/07/09/intervista-bitcoin-07.html)
 
 [9: I punti deboli di bitcoin](https://dgi.io/2019/07/16/intervista-bitcoin-09.html)
+
+[10: Investire in bitcoin](https://dgi.io/2019/07/18/intervista-bitcoin-10.html)

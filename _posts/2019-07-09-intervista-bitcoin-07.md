@@ -82,3 +82,5 @@ Di seguito la trascrizione di questa puntata.
 [8: La blockchain oltre bitcoin](https://dgi.io/2019/07/11/intervista-bitcoin-08.html)
 
 [9: I punti deboli di bitcoin](https://dgi.io/2019/07/16/intervista-bitcoin-09.html)
+
+[10: Investire in bitcoin](https://dgi.io/2019/07/18/intervista-bitcoin-10.html)

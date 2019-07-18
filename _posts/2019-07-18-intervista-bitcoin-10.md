@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: 2019-07-18-intervista-bitcoin-10-thumb.jpg
 youtube: IhIw8Z5vsTQ
-published: false
-newsfeed: false
+published: true
+newsfeed: true
 ---
 
 Decima puntata dell'intervista al nostro direttore
