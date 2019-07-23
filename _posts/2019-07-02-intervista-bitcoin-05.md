@@ -61,3 +61,5 @@ Di seguito la trascrizione di questa puntata.
 [9: I punti deboli di bitcoin](https://dgi.io/2019/07/16/intervista-bitcoin-09.html)
 
 [10: Investire in bitcoin](https://dgi.io/2019/07/18/intervista-bitcoin-10.html)
+
+[11: Tra divulgazione e università](https://dgi.io/2019/07/23/intervista-bitcoin-11.html)

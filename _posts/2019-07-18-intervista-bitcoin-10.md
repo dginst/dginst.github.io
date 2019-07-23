@@ -8,7 +8,7 @@ image:
     thumb: 2019-07-18-intervista-bitcoin-10-thumb.jpg
 youtube: IhIw8Z5vsTQ
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Decima puntata dell'intervista al nostro direttore
@@ -89,3 +89,5 @@ Di seguito la trascrizione di questa puntata.
 [8: La blockchain oltre bitcoin](https://dgi.io/2019/07/11/intervista-bitcoin-08.html)
 
 [9: I punti deboli di bitcoin](https://dgi.io/2019/07/16/intervista-bitcoin-09.html)
+
+[11: Tra divulgazione e università](https://dgi.io/2019/07/23/intervista-bitcoin-11.html)

@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: 2019-07-23-intervista-bitcoin-11-thumb.jpg
 youtube: UL9RHSYgZ7A
-published: false
-newsfeed: false
+published: true
+newsfeed: true
 ---
 
 Undicesima (ultima) puntata dell'intervista al nostro direttore
