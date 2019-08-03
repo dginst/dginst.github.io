@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: false
-title: "[ITA] Report Trimestrale DGI sull'ecosistema cryptoasset e blockchain"
-subtitle: "Primo trimestre 2019"
+title: "[ITA] Report trimestrale sull'ecosistema bitcoin, cryptoasset e blockchain"
+subtitle: "Secondo trimestre 2019"
 author: "Staff"
 image: 
     main: 2019-07-31-report-trimestrale.jpg
@@ -11,14 +11,11 @@ published: true
 newsfeed: true
 ---
 
-Come punto qualificante della collaborazione con i partner, il Digital Gold Institute offre un report trimestrale sull'ecosistema cryptoasset e tecnologia blockchain con particolare focus su mercato, sviluppi tecnologici, regolazione e notizie principali dell'ecosistema.
+Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema bitcoin, cryptoasset e blockchain: è appena uscito il #1 (secondo trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
 
-Pubblichiamo ora il primo numero riguardante il primo trimestre 2019 che abbiamo fornito ai nostri partner ad inizio aprile. Potete scaricare il report al seguente [link]({{ site.baseurl }}/docs/2019-07-31-2019Q1.pdf).
+Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti: ad esempio, il numero zero (primo trimestre 2019) si trova al seguente [link]({{ site.baseurl }}/docs/reports/2019Q1.pdf).
 
-### Anticipazione report secondo trimestre 2019
-Come anticipazione del report sul secondo trimestre, che abbiamo fornito ai nostri partner e renderemo pubblico a metà ottobre, potete trovare di seguito l'editoriale.
-
-**Editoriale**
+### Editoriale 2019-Q2
 
 *Dopo il caloroso apprezzamento che avete riservato al numero zero di aprile (Q1 2019), ecco il numero uno nella serie dei report trimestrali prodotti dal Digital Gold Institute. L’intento resta quello di offrirvi uno sguardo sintetico ma ampio agli eventi che hanno caratterizzato l’ultimo trimestre, in questo caso Q2 2019.*
 
