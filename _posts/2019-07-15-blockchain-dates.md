@@ -17,17 +17,16 @@ Il workshop sarà guidato da [Ferdinando Ametrano](https://dgi.io/full-team/) e 
 
 Vi aspettiamo!
 
-**Programma del corso**:
-<ul class="text-muted">
-<li>About Money: Bitcoin as Digital Gold</li>
-<li>Hash Functions and Digital Signatures</li>
-<li>Mining and Distributed Consensus</li>
-<li>Blockchain Applications: Timestamping, Smart Contracts, Initial Coin Offering</li>
-<li>Distributed Ledger Technology</li>
-<li>Other Cryptocurrencies and more…</li>
-</ul>
+**Programma del corso**
 
-**Data e indirizzo**:
+- About Money: Bitcoin as Digital Gold
+- Hash Functions and Digital Signatures
+- Mining and Distributed Consensus
+- Blockchain Applications: Timestamping, Smart Contracts, Initial Coin Offering
+- Distributed Ledger Technology
+- Other Cryptocurrencies and more...
+
+**Data e indirizzo**
 
 30 settembre 2019, dalle ore 10.00 alle ore 18.00
 Hotel Michelangelo, Milano
