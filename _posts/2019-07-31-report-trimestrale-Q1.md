@@ -17,7 +17,7 @@ Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners)
 
 > ### Editoriale 2019-Q2
 >
->*Dopo il caloroso apprezzamento che avete riservato al numero zero di aprile (2019-Q1), ecco il numero uno nella serie dei report trimestrali prodotti dal Digital Gold Institute. L’intento resta quello di offrirvi uno sguardo sintetico ma ampio agli eventi che hanno caratterizzato l’ultimo trimestre, in questo caso 2019-Q2.
+>Dopo il caloroso apprezzamento che avete riservato al numero zero di aprile (2019-Q1), ecco il numero uno nella serie dei report trimestrali prodotti dal Digital Gold Institute. L’intento resta quello di offrirvi uno sguardo sintetico ma ampio agli eventi che hanno caratterizzato l’ultimo trimestre, in questo caso 2019-Q2.
 >
 >Senza girarci troppo attorno, è inevitabile che la notizia principale sia stata l’apprezzamento di Bitcoin che ha chiuso il trimestre a $10817, con una crescita del 163% rispetto al prezzo di riferimento del 31 marzo ($4105): ne discutiamo nella sezione mercato.
 >
