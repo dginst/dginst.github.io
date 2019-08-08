@@ -11,9 +11,9 @@ published: true
 newsfeed: true
 ---
 
-Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema bitcoin, cryptoasset e blockchain: è appena uscito il numero uno (2019-Q2: secondo trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
+Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema bitcoin, cryptoasset e blockchain: è appena uscito il numero uno (2019-Q2, secondo trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
 
-Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti: ad esempio, il numero zero (2019-Q1: primo trimestre 2019) si trova al seguente [link]({{ site.baseurl }}/docs/reports/2019Q1.pdf).
+Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti: ad esempio, il numero zero (2019-Q1, primo trimestre 2019) si trova al seguente [link]({{ site.baseurl }}/docs/reports/2019Q1.pdf).
 
 > ### Editoriale 2019-Q2
 >
