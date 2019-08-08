@@ -11,22 +11,22 @@ published: true
 newsfeed: true
 ---
 
-Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema bitcoin, cryptoasset e blockchain: è appena uscito il #1 (secondo trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
+Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema bitcoin, cryptoasset e blockchain: è appena uscito il numero uno (2019-Q2: secondo trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
 
-Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti: ad esempio, il numero zero (primo trimestre 2019) si trova al seguente [link]({{ site.baseurl }}/docs/reports/2019Q1.pdf).
+Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti: ad esempio, il numero zero (2019-Q1: primo trimestre 2019) si trova al seguente [link]({{ site.baseurl }}/docs/reports/2019Q1.pdf).
 
-### Editoriale 2019-Q2
-
-*Dopo il caloroso apprezzamento che avete riservato al numero zero di aprile (Q1 2019), ecco il numero uno nella serie dei report trimestrali prodotti dal Digital Gold Institute. L’intento resta quello di offrirvi uno sguardo sintetico ma ampio agli eventi che hanno caratterizzato l’ultimo trimestre, in questo caso Q2 2019.*
-
-*Senza girarci troppo attorno, è inevitabile che la notizia principale sia stata l’apprezzamento di Bitcoin che ha chiuso il trimestre a $10817, con una crescita del 163% rispetto al prezzo di riferimento del 31 marzo ($4105): ne discutiamo nella sezione mercato.*
-
-*L’altra notizia principale è l’annuncio di Libra, il coin promosso da Facebook attraverso la Libra Association, che dovrebbe arrivare nel primo semestre 2020. Si tratta di un evento estremamente significativo perché “sdogana” definitivamente l’idea che sia possibile e persino realistico trasferire valore attraverso strumenti di scambio digitali emessi da privati. Che Libra si concretizzi davvero come opportunità per gli oltre due miliardi di utenti Facebook o che sia fermata dai regolatori, si tratterà in entrambi i casi di uno snodo cruciale nella storia della moneta. Analizziamo il fenomeno Libra nella sezione ecosistema.*
-
-*Con questo numero debutta anche una sezione dedicata alle news del nostro Istituto: con la velocità di evoluzione e cambiamento che caratterizza le nostre giornate, noi stessi possiamo talvolta trascurare o dare per scontati i passi avanti che l’Istituto sta compiendo; a maggior ragione ci siamo accorti che voi, i nostri partner, non siete puntualmente aggiornati su tutte le novità. Fare il punto delle attività è quindi l’occasione per apprezzare il percorso comune, riconsiderare le scelte di indirizzo, fissare nuovi obiettivi. Tra le diverse attività del trimestre, la notizia principale è il lancio del “Crypto Asset Lab”, iniziativa di ricerca congiunta tra il Digital Gold Institute e l’Università degli Studi di Milano-Bicocca: vi raccontiamo del Lab, del suo convegno di lancio e delle sue linee di ricerca.*
-
-*Non resistiamo alla tentazione di chiudere questo editoriale senza indulgere, almeno brevemente, nel folklore. Se lo scorso trimestre festeggiavamo i 10 anni di Bitcoin, questo trimestre ha visto l’anniversario del pizza-day: il 22 maggio 2010 Laszlo pagava 10000 Bitcoin per due pizze. All’epoca si trattava della prima transazione che dava un controvalore a Bitcoin (0.0032 dollari per Bitcoin), al cambio attuale sono oltre 100 milioni di dollari: difficile immaginare pizze così buone da meritare un investimento simile.*
-
-*Al solito l’ultimo paragrafo è per ribadire che il report è pensato e scritto per voi: partner, sostenitori e collaboratori dell’Istituto; per renderlo sempre più utile sono indispensabili i vostri suggerimenti, così come eventuali richieste per ulteriori approfondimenti.*
-
-*Buona estate.*
+> ### Editoriale 2019-Q2
+>
+>*Dopo il caloroso apprezzamento che avete riservato al numero zero di aprile (2019-Q1), ecco il numero uno nella serie dei report trimestrali prodotti dal Digital Gold Institute. L’intento resta quello di offrirvi uno sguardo sintetico ma ampio agli eventi che hanno caratterizzato l’ultimo trimestre, in questo caso 2019-Q2.
+>
+>Senza girarci troppo attorno, è inevitabile che la notizia principale sia stata l’apprezzamento di Bitcoin che ha chiuso il trimestre a $10817, con una crescita del 163% rispetto al prezzo di riferimento del 31 marzo ($4105): ne discutiamo nella sezione mercato.
+>
+>L’altra notizia principale è l’annuncio di Libra, il coin promosso da Facebook attraverso la Libra Association, che dovrebbe arrivare nel primo semestre 2020. Si tratta di un evento estremamente significativo perché “sdogana” definitivamente l’idea che sia possibile e persino realistico trasferire valore attraverso strumenti di scambio digitali emessi da privati. Che Libra si concretizzi davvero come opportunità per gli oltre due miliardi di utenti Facebook o che sia fermata dai regolatori, si tratterà in entrambi i casi di uno snodo cruciale nella storia della moneta. Analizziamo il fenomeno Libra nella sezione ecosistema.
+>
+>Con questo numero debutta anche una sezione dedicata alle news del nostro Istituto: con la velocità di evoluzione e cambiamento che caratterizza le nostre giornate, noi stessi possiamo talvolta trascurare o dare per scontati i passi avanti che l’Istituto sta compiendo; a maggior ragione ci siamo accorti che voi, i nostri partner, non siete puntualmente aggiornati su tutte le novità. Fare il punto delle attività è quindi l’occasione per apprezzare il percorso comune, riconsiderare le scelte di indirizzo, fissare nuovi obiettivi. Tra le diverse attività del trimestre, la notizia principale è il lancio del “Crypto Asset Lab”, iniziativa di ricerca congiunta tra il Digital Gold Institute e l’Università degli Studi di Milano-Bicocca: vi raccontiamo del Lab, del suo convegno di lancio e delle sue linee di ricerca.
+>
+>Non resistiamo alla tentazione di chiudere questo editoriale senza indulgere, almeno brevemente, nel folklore. Se lo scorso trimestre festeggiavamo i 10 anni di Bitcoin, questo trimestre ha visto l’anniversario del pizza-day: il 22 maggio 2010 Laszlo pagava 10000 Bitcoin per due pizze. All’epoca si trattava della prima transazione che dava un controvalore a Bitcoin (0.0032 dollari per Bitcoin), al cambio attuale sono oltre 100 milioni di dollari: difficile immaginare pizze così buone da meritare un investimento simile.
+>
+>Al solito l’ultimo paragrafo è per ribadire che il report è pensato e scritto per voi: partner, sostenitori e collaboratori dell’Istituto; per renderlo sempre più utile sono indispensabili i vostri suggerimenti, così come eventuali richieste per ulteriori approfondimenti.
+>
+>Buona estate.
