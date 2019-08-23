@@ -165,9 +165,12 @@ $("#btn-upgrade").click(function(event) {
     const hashValue = bytesToHex(digest)
     $("#upgrade-hashValue").val(hashValue)
 
+    const info = OpenTimestamps.info(detachedStamped)
     var calendars = []
-    $("input:checkbox[name='upgrade-calendar']:checked").each(function(){
-      calendars.push($(this).val())
+    calendarsList.forEach(function(item,index){
+      if(info.includes(item)){
+        calendars.push(item);
+      }
     })
     const param = { calendars: calendars }
 
