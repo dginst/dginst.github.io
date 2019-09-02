@@ -18,6 +18,14 @@
   thesis: Mercato elettrico e mining Bitcoin
   thesis_link: https://github.com/simonecolombo/thesis-scolombo
 
+- name: Stefano Fedeli
+  role: Student @ Politecnico di Milano
+  social_num: 2
+  social_1: fab fa-linkedin-in
+  social_1_link: https://www.linkedin.com/in/stefano-f-676165127/
+  social_2: fab fa-github
+  social_2_link: https://github.com/principesayan
+
 - name: Federico Panisi
   role: Legal Analyst
   social_num: 3
@@ -31,16 +39,16 @@
   affiliation_1: Juris Doctor, Università Cattolica del Sacro Cuore - Milan
   affiliation_2: Ph.D. candidate @ Università degli Studi di Brescia
   affiliation_3: SPILS candidate @ Stanford University
-    
+
 - name: Marcello Pichini
   role: Market Data Specialist
   social_num: 1
   social_1: fab fa-github
   social_1_link: https://github.com/mpichini1
   affiliation_rows: 3
-  affiliation_1: <br> 
+  affiliation_1: <br>
   affiliation_2: <br>
-  affiliation_3:  
+  affiliation_3:
 
 - name: Nicholas Sollazzo
   role: ICT Analyst
