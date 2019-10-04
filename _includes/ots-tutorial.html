@@ -88,7 +88,7 @@
                 <hr class="primary">
             </div>
             <p class="text-muted">
-                Submit the hash to multiple OpenTimestamps
+                Submit the hash to a selected set of OpenTimestamps
                 public calendar servers
                 (e.g. <a href="https://btc.ots.dgi.io">btc.ots.dgi.io</a>)
                 for <em>attestation</em> of its existence (timestamp)
@@ -131,6 +131,17 @@
                             <label for="stamp-filename">OTS receipt filename</label>
                             <textarea type="text" id="stamp-filename" name="stamp-filename" class="form-control"
                                 rows="1" cols="64">datafile.ext.ots</textarea>
+                        </div>
+                        <div class="form-group">
+                          <label for="stamp-filename">OTS Calendar selection</label><br>
+                          <input type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://btc.ots.dgi.io">
+                          <a href="https://btc.ots.dgi.io">Btc (dgi.io)</a><br>
+                          <input  type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://alice.btc.calendar.opentimestamps.org">
+                          <a href="https://alice.btc.calendar.opentimestamps.org">Alice (opentimestamps)</a><br>
+                          <input type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://bob.btc.calendar.opentimestamps.org">
+                          <a href="https://bob.btc.calendar.opentimestamps.org">Bob (opentimestamps)</a><br>
+                          <input type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://finney.calendar.eternitywall.com">
+                          <a href="https://finney.calendar.eternitywall.com">Finney (eternitywall)</a><br>
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
@@ -236,7 +247,7 @@
             </div>
             <p class="text-muted">
                 Attempt the upgrade of the OTS receipt/proof with attestations
-                that might be available from the OpenTimestamps calendars;
+                that might be available from the selected OpenTimestamps calendars;
                 internet connectivity is required.
                 <br>
                 To be upgraded to proof status, incomplete receipts require the
@@ -264,7 +275,6 @@
                             <textarea type="text" id="upgrade-filename" name="upgrade-filename" class="form-control"
                                 rows="1" cols="64">datafile.ext.upgraded.ots</textarea>
                         </div>
-                        <br>
                         <div class="col-lg-12 text-center">
                             <button class="btn btn-primary" id="btn-upgrade">UPGRADE OTS RECEIPT/PROOF</button>
                         </div>
@@ -305,7 +315,7 @@
                 filesystem, this page relies on public block-explorers
                 for verification.
                 <br>
-                First an upgraded proof is obtained from the calendar
+                First an upgraded proof is obtained from the selected calendar
                 servers if available (as in the step above, performed
                 also here to ensure updated informations),
                 then the receipt/proof status is displayed below.
@@ -322,6 +332,17 @@
                             <label for="verify-filename">Filename for the upgraded OTS proof (if any)</label>
                             <textarea type="text" id="verify-filename" name="verify-filename" class="form-control"
                                 rows="1" cols="64">datafile.ext.upgraded.ots</textarea>
+                        </div>
+                        <div class="form-group row">
+                            <label for="stamp-filename">OTS Calendar selection</label><br>
+                            <input  class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar" value="https://btc.ots.dgi.io">
+                              <a href="https://btc.ots.dgi.io">Btc (dgi.io)</a><br>
+                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar" value="https://alice.btc.calendar.opentimestamps.org">
+                              <a href="https://alice.btc.calendar.opentimestamps.org">Alice (opentimestamps)</a><br>
+                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar" value="https://bob.btc.calendar.opentimestamps.org">
+                              <a href="https://bob.btc.calendar.opentimestamps.org">Bob (opentimestamps)</a><br>
+                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar" value="https://finney.calendar.eternitywall.com">
+                              <a href="https://finney.calendar.eternitywall.com">Finney (eternitywall)</a><br>
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
