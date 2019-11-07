@@ -1,20 +1,20 @@
 - social: fas fa-envelope
-  link: http://docs.google.com/forms/d/e/1FAIpQLSeSdkEDzVV_OGrTb6h07DGZ1pQ1QRxt9h0cRERJ4-4EeYMDng/viewform
+  link: mailto:info@dgi.io
 
 - social: fab fa-twitter
-  link: http://www.twitter.com/DigitalGoldInst
+  link: https://www.twitter.com/DigitalGoldInst
 
 - social: fab fa-facebook-f
-  link: http://www.facebook.com/DigitalGoldInstitute    
+  link: https://www.facebook.com/DigitalGoldInstitute
 
 - social: fab fa-linkedin-in
-  link: http://www.linkedin.com/school/digital-gold-institute      
+  link: https://www.linkedin.com/school/digital-gold-institute
 
 - social: fab fa-github
-  link: http://www.github.com/dginst
+  link: https://www.github.com/dginst
     
 - social: fab fa-youtube
   link: "https://youtube.com/c/DigitalGoldInstitute"
 
 - social: fas fa-rss"
-  link: "http://dgi.io/feed.xml"
+  link: "https://dgi.io/feed.xml"
