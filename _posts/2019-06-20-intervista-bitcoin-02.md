@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "[ITA] Bitcoin: oro digitale, finanza e tulipani (puntata 2 di 11)"
+title: "Bitcoin: oro digitale, finanza e tulipani (puntata 2 di 11)"
 subtitle: "Intervista a Ferdinando Ametrano"
 author: "Staff"
 image:

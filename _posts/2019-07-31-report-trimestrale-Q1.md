@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "[ITA] Report trimestrale sull'ecosistema bitcoin, cryptoasset e blockchain"
+title: "Report trimestrale sull'ecosistema bitcoin, cryptoasset e blockchain"
 subtitle: "Secondo trimestre 2019"
 author: "Staff"
 image: 
