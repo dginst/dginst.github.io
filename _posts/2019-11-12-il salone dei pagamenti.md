@@ -5,8 +5,8 @@ title: "Cryptovalute e nuovi player nel mercato dei Pagamenti"
 subtitle: "Tavola rotonda moderata da Ferdinando Ametrano" 
 author: "Lucia Mandelli"
 image:
-    main: 2019-11-11-il salone dei pagamenti.jpg
-    thumb: 2019-11-11-il salone dei pagamenti-thumb.jpg
+    main: 2019-11-12-il salone dei pagamenti.jpg
+    thumb: 2019-11-12-il salone dei pagamenti-thumb.jpg
 published: false
 newsfeed: true  
 ---
