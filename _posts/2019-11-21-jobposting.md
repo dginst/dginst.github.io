@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Open Jobs Opportunities"
-subtitle: "Coders wanted @CheckSig" 
+subtitle: "Developers wanted @CheckSig" 
 author: "Lucia Mandelli"
 image:
     main: 2019-11-21-jobposting.jpg
@@ -11,7 +11,11 @@ published: true
 newsfeed: true  
 ---
 
-[CheckSig](http://checksig.io//) is a fintech startup, based in Milan, specializing in the custody of bitcoin on behalf of institutions and high net worth individuals.  CheckSig is expanding quickly and is looking for coders to join its team in Milan to help in the development of their custody solution. 
+[CheckSig](https://checksig.io//) is a fintech startup, based in Milan,
+specialized in the custody of bitcoin
+on behalf of institutions and high-net-worth individuals.
+CheckSig is expanding quickly and is looking for developers to join
+its team to help building and maintaining its custody solution.
 
 **CheckSig is recruiting individuals with experience in any of the following areas**:
 
