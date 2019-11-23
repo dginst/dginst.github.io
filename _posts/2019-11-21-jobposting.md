@@ -20,12 +20,14 @@ its team to help building and maintaining its custody solution.
 **CheckSig is recruiting individuals with experience in any of the following areas**:
 
 - Coding the bitcoin blockchain.
-- Working with custody of cryptocurrencies.
 - Coding in C++ and/or Python.
 - Implementing embedded systems.
 - Implementing secure online applications.
 - Working with Hardware Security Modules.
 - Working in computer security, including protection of hardware devices and/or of online applications.
+- Working with custody of cryptocurrencies.
+
+Knowledge about HWI, PSBT, Taproot, Miniscript, HSM, etc. would be a big plus.
 
 Ability to speak English is a must.  Ability to speak Italian is a plus.
 
