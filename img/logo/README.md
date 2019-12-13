@@ -10,7 +10,7 @@ RGB 241 175 9
 HEX f1af09  
 CMYK 0 27 96 5
 
-our font is XXX, the uppercase i is actually a lowercase l
+our font is Play, the uppercase i is actually a lowercase l
 
 ## Logos
 
@@ -20,6 +20,15 @@ our font is XXX, the uppercase i is actually a lowercase l
   ![white letters, gold icon, transparent](dgi-logo-neg.svg)
 * [dgi-logo-neg-mono.svg](dgi-logo-neg-mono.svg): white letters, white icon, transparent  
   ![white letters, white icon, transparent](dgi-logo-neg-mono.svg)
+
+## Logos with tagline
+
+* [dgi-tagline-logo.svg](./dgi-tagline-logo.svg): black letters, gold icon, transparent  
+  ![black letters, gold icon, transparent](./dgi-tagline-logo.svg)
+* [dgi-tagline-logo-neg.svg](dgi-tagline-logo-neg.svg): white letters, gold icon, transparent  
+  ![white letters, gold icon, transparent](dgi-tagline-logo-neg.svg)
+* [dgi-tagline-logo-neg-mono.svg](dgi-tagline-logo-neg-mono.svg): white letters, white icon, transparent  
+  ![white letters, white icon, transparent](dgi-tagline-logo-neg-mono.svg)
 
 ## Icons
 
