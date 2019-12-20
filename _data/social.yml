@@ -18,3 +18,6 @@
 
 - social: fas fa-rss"
   link: "https://dgi.io/feed.xml"
+
+- social: fas fa-info"
+  link: "https://dgi.io/info"
