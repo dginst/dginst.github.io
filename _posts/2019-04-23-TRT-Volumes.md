@@ -19,4 +19,4 @@ Most of those volumes turned out to be fake
 and/or non-economic wash trading.
 
 For more details about our supplemental analysis see the
-[report]({{ site.baseurl }}/docs/2019-04-23-trt-volumes.pdf)
+[report]({{ site.baseurl }}/docs/2019-04-23-trt-volumes.pdf).
