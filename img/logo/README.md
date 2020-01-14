@@ -1,16 +1,20 @@
 ---
-layout: page
+layout: readme
 title: "DGI Logo and Icon"
 subtitle: "Different versions of the DGI logo and icon"
 permalink: /logo/
 ---
 
-our gold is:  
-RGB 241 175 9  
-HEX f1af09  
-CMYK 0 27 96 5
+### Color
 
-our font is Play, the uppercase i is actually a lowercase l
+Our gold is:  
+* RGB 241 175 9  
+* HEX f1af09  
+* CMYK 0 27 96 5
+
+### Font
+
+Our font is Play, the uppercase i is actually a lowercase l
 
 ## Logos
 
