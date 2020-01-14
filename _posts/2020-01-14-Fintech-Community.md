@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "DGI entra nella Fintech Community"
+title: "DGI entra nella community di Fintech District"
 subtitle: "Nuove opportunità per il centro di ricerca" 
 author: "Lucia Mandelli"
 image:
