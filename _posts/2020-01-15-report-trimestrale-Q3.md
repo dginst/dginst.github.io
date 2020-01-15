@@ -7,7 +7,7 @@ author: "Staff"
 image: 
     main: 2020-01-15-report-trimestrale.jpg
     thumb: 2020-01-15-report-trimestrale-thumb.jpg
-published: true
+published: false
 newsfeed: true
 ---
 
