@@ -527,7 +527,7 @@ readers do not read off random characters that represent icons */
 .fa-bitbucket:before {
   content: "\f171"; }
 
-.fa-bitcoin:before {
+.fa-Bitcoin:before {
   content: "\f379"; }
 
 .fa-bity:before {

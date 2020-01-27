@@ -1622,7 +1622,7 @@ bitbucket:
     - brands
   unicode: f171
   voted: false
-bitcoin:
+Bitcoin:
   changes:
     - 5.0.0
   label: Bitcoin

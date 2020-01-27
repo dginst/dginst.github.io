@@ -23,7 +23,7 @@ const aggregatorList = [
 const whitelistedCalendars = new OpenTimestamps.Calendar.UrlWhitelist(calendarsList)
 
 const blockexplorers = {
-	bitcoin: {
+	Bitcoin: {
 		explorers: [
 			{ url: 'https://blockstream.info/api', type: 'blockstream' },
 			{ url: 'https://blockexplorer.com/api', type: 'insight' }
