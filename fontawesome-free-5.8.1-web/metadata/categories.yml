@@ -565,7 +565,7 @@ construction:
   label: Construction
 currency:
   icons:
-    - bitcoin
+    - Bitcoin
     - btc
     - dollar-sign
     - ethereum
@@ -1795,7 +1795,7 @@ payments-shopping:
     - amazon-pay
     - apple-pay
     - bell
-    - bitcoin
+    - Bitcoin
     - bookmark
     - btc
     - bullhorn

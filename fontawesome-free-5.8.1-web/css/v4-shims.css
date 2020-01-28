@@ -733,11 +733,11 @@
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400; }
 
-.fa.fa-bitcoin {
+.fa.fa-Bitcoin {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400; }
 
-.fa.fa-bitcoin:before {
+.fa.fa-Bitcoin:before {
   content: "\f15a"; }
 
 .fa.fa-file-text:before {
