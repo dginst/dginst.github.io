@@ -7,7 +7,7 @@ author: "Staff"
 image: 
     main: 2020-01-15-report-trimestrale.jpg
     thumb: 2020-01-15-report-trimestrale-thumb.jpg
-published: false
+published: true
 newsfeed: true
 ---
 
@@ -17,16 +17,10 @@ Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners)
 
 > ### Editoriale 2019-Q3
 >
->Dopo il caloroso apprezzamento che avete riservato al numero zero di aprile (2019-Q1), ecco il numero uno nella serie dei report trimestrali prodotti dal Digital Gold Institute. L’intento resta quello di offrirvi uno sguardo sintetico ma ampio agli eventi che hanno caratterizzato l’ultimo trimestre, in questo caso 2019-Q2.
+>Questo trimestre è stato caratterizzato dalle vicende legate a Libra, la valuta dell’omonimo consorzio promosso da Facebook. Nella sezione dedicata alla regolazione commentiamo (con qualche punta di provocazione intellettuale) quella che ci sembra una vicenda straordinariamente rivelatoria: il monopolio governativo della moneta è una delle trincee più calde della battaglia culturale liberale e libertaria. Se pensiamo a quanto travagliata è stata la separazione storica della Chiesa dallo Stato, possiamo avere idea di quanto sarà impervia e controversa la separazione tra Moneta e Stato. Ex-post sembrerà a tutti una ovvia conquista di civiltà e libertà, di cui beneficeranno sia la Moneta che lo Stato, ma ad oggi la “sovranità monetaria delle nazioni” è un paradigma che preserva l’ultimo tra i monopoli logicamente indifendibili.
 >
->Senza girarci troppo attorno, è inevitabile che la notizia principale sia stata l’apprezzamento di Bitcoin che ha chiuso il trimestre a $10817, con una crescita del 163% rispetto al prezzo di riferimento del 31 marzo ($4105): ne discutiamo nella sezione mercato.
+>Il fronte dei servizi finanziari per crypto-assets continua a presentare spunti di vivacità: questo trimestre ha debuttato il molto atteso contratto futures di Bakkt, caratterizzato da physical delivery, differentemente dal cugino di CME che è invece cash settled. La partenza è stata senza particolari trionfalismi, in linea con un trimestre in cui Bitcoin ha registrato una pesante performance negativa: il prezzo ha perso il -25% portando il rendimento dall’inizio dell’anno a +97%. Gli alt-coin si sono accodati, senza alcun velleitarismo, con la solita altissima correlazione che li rende sostanzialmente inutili anche dal punto di vista di diversificazione del rischio finanziario.
 >
->L’altra notizia principale è l’annuncio di Libra, il coin promosso da Facebook attraverso la Libra Association, che dovrebbe arrivare nel primo semestre 2020. Si tratta di un evento estremamente significativo perché “sdogana” definitivamente l’idea che sia possibile e persino realistico trasferire valore attraverso strumenti di scambio digitali emessi da privati. Che Libra si concretizzi davvero come opportunità per gli oltre due miliardi di utenti Facebook o che sia fermata dai regolatori, si tratterà in entrambi i casi di uno snodo cruciale nella storia della moneta. Analizziamo il fenomeno Libra nella sezione ecosistema.
+>Il fronte che a noi sembra invece più promettente nell’ambito della nuova finanza per l’economia bitcoin e blockchain è quello dei servizi di custodia per crypto-assets, cruciale per l’ingresso nel mercato di investitori istituzionali e high-net-worth individuals: Coinbase, leader di mercato, ha acquisito il business istituzionale di Xapo; Bryan Bishop propone tecniche avanzate di self-custody. Il nostro istituto sta seguendo questi sviluppi con grande attenzione e sono imminenti novità della nostra ricerca che potrebbero avere una significativa rilevanza industriale.
 >
->Con questo numero debutta anche una sezione dedicata alle news del nostro Istituto: con la velocità di evoluzione e cambiamento che caratterizza le nostre giornate, noi stessi possiamo talvolta trascurare o dare per scontati i passi avanti che l’Istituto sta compiendo; a maggior ragione ci siamo accorti che voi, i nostri partner, non siete puntualmente aggiornati su tutte le novità. Fare il punto delle attività è quindi l’occasione per apprezzare il percorso comune, riconsiderare le scelte di indirizzo, fissare nuovi obiettivi. Tra le diverse attività del trimestre, la notizia principale è il lancio del “Crypto Asset Lab”, iniziativa di ricerca congiunta tra il Digital Gold Institute e l’Università degli Studi di Milano-Bicocca: vi raccontiamo del Lab, del suo convegno di lancio e delle sue linee di ricerca.
->
->Non resistiamo alla tentazione di chiudere questo editoriale senza indulgere, almeno brevemente, nel folklore. Se lo scorso trimestre festeggiavamo i 10 anni di Bitcoin, questo trimestre ha visto l’anniversario del pizza-day: il 22 maggio 2010 Laszlo pagava 10000 Bitcoin per due pizze. All’epoca si trattava della prima transazione che dava un controvalore a Bitcoin (0.0032 dollari per Bitcoin), al cambio attuale sono oltre 100 milioni di dollari: difficile immaginare pizze così buone da meritare un investimento simile.
->
->Al solito l’ultimo paragrafo è per ribadire che il report è pensato e scritto per voi: partner, sostenitori e collaboratori dell’Istituto; per renderlo sempre più utile sono indispensabili i vostri suggerimenti, così come eventuali richieste per ulteriori approfondimenti.
->
->Buona estate.
+>Nel frattempo, lo sviluppo del protocollo Bitcoin prosegue la sua strada, sostanzialmente incurante tanto del dibattito regolamentare, quando delle dinamiche di prezzo. Nel nostro piccolo abbiamo contribuito sostenendo come Crypto Asset Lab (la joint-venture tra il nostro Istituto e l’Università Milano-Bicocca) la conferenza Scaling Bitcoin questo settembre a Tel Aviv. Scaling Bitcoin resta a nostro avviso il punto di riferimento tecnico a livello internazionale e siamo orgogliosi di essere “academic supporting organization” assieme a Stanford, MIT, Imperial College ed altre prestigiose università.
