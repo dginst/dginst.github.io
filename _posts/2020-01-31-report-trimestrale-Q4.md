@@ -31,7 +31,7 @@ Sul fronte tecnologico il 2019 ha segnato anche un generale ridimensionamento de
 
 Rilevantissimo invece il dibattito su Libra e stablecoin, che occupa gran parte della sezione regolazione. Se vi hanno appassionato le puntate precedenti, non potete perdervi questo aggiornamento che vede tutte le banche centrali rincorrere Zuckerberg. Per quanto ci riguarda, riteniamo che il tema possa rappresentare una tra le sfide più decisive del prossimo decennio. Bitcoin ha innescato il potenziale per una svolta senza precedenti nella storia della moneta: Libra è solo la prima bomba culturale che scoppia.
 
-Nella sezione regolazione trovate anche un aggiornamento sullo sviluppo da parte di FAFT-GAFI delle linee guida per il contrasto a riciclaggio, finanziamento del terrorismo e reati finanziari compiuti con crypto-assets. Il tema è delicato perché risulta tecnicamente difficile riproporre in ambito crypto i paradigmi tradizionali. Considerando l’esplosione dei servizi finanziari basati su Bitcoin, sarà essenziale monitorare anche questo tema. 
+Nella sezione regolazione trovate anche un aggiornamento sullo sviluppo da parte di FAFT-GAFI delle linee guida per il contrasto a riciclaggio, finanziamento del terrorismo e reati finanziari compiuti con crypto-assets. Il tema è delicato perché risulta tecnicamente difficile riproporre in ambito crypto i paradigmi tradizionali. Considerando l’esplosione dei servizi finanziari basati su Bitcoin, sarà essenziale monitorare anche questo tema.
 
 Infine, qualche cenno sulla vita dell’istituto: il lancio del nostro programma di formazione, l’ingresso nel gruppo Global Digital Finance del Crypto Asset Lab (la nostra iniziativa di ricerca congiunta con l’Università degli Studi di Milano-Bicocca), interviste e tavole rotonde.
 
