@@ -8,7 +8,7 @@ image:
     main: 2019-11-21-jobposting.jpg
     thumb: 2019-11-21-jobposting-thumb.jpg
 published: true
-newsfeed: false  
+newsfeed: true  
 ---
 
 [CheckSig](https://checksig.io//) is

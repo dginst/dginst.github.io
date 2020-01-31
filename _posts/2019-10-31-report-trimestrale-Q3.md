@@ -5,15 +5,15 @@ title: "Report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain"
 subtitle: "Terzo trimestre 2019"
 author: "Staff"
 image: 
-    main: 2020-01-15-report-trimestrale.jpg
-    thumb: 2020-01-15-report-trimestrale-thumb.jpg
+    main: 2019-10-31-report-trimestrale.jpg
+    thumb: 2019-10-31-report-trimestrale-thumb.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain: è appena uscito il numero due (2019-Q3, terzo trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
 
-Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti: ad esempio, il numero zero (2019-Q1, primo trimestre 2019) si trova al seguente [link]({{ site.baseurl }}/docs/reports/2019Q1.pdf) ed il numero uno (2019-Q1, primo trimestre 2019) si trova al seguente [link]({{ site.baseurl }}/docs/reports/2019Q2.pdf).
+Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti al seguente [link]({{ site.baseurl }}/pages/reports.html).
 
 > ### Editoriale 2019-Q3
 >
