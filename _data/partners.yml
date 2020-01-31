@@ -1,0 +1,29 @@
+- name: CheckSig
+  link: https://checksig.io/
+  logo: img/partners/CheckSig-logo-transparent.png
+  size: 300
+
+- name: Crypto Asset Lab
+  link: https://cryptoassetlab.diseade.unimib.it/
+  logo: img/partners/cal6.png
+  size: 150
+
+- name: CryptoValues
+  link: http://www.cryptovalues.eu
+  logo: img/partners/cryptovalues-logo.png
+  size: 300
+
+- name: Deloitte
+  link: https://www2.deloitte.com/it
+  logo: img/partners/deloitte-logo.png
+  size: 300
+
+- name: FaberBee
+  link: http://www.faberbee.com/
+  logo: img/partners/faberbee-logo.svg
+  size: 300
+
+- name: Prometeia
+  link: http://www.prometeia.it/
+  logo: img/partners/prometeia-logo.png
+  size: 300
