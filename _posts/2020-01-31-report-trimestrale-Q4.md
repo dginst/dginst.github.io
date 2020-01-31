@@ -13,7 +13,7 @@ newsfeed: false
 
 Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema Bitcoin, crypto asset e blockchain: è appena uscito il numero tre (2019-Q4, quarto trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
 
-Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti al seguente [link]({{ site.baseurl }}/reports.html).
+Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti al seguente [link]({{ site.baseurl }}/reports).
 
 > ### Editoriale 2019-Q4
 >
