@@ -1,14 +1,15 @@
 ---
 layout: readme
 title: "DGI Logo and Icon"
-subtitle: "Different versions of the DGI logo and icon"
+subtitle: "Different versions of our logo and icon"
 permalink: /logo/
 ---
 
 ### Color
 
-Our gold is:  
-* RGB 241 175 9  
+Our gold is:
+
+* RGB 241 175 9
 * HEX f1af09  
 * CMYK 0 27 96 5
 
