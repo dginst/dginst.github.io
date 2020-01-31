@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Report 2019-Q2"
-subtitle: "Report 2019-Q2 sull'ecosistema Bitcoin, crypto-asset e blockchain"
+subtitle: "Report 2019-Q2 sull'ecosistema Bitcoin, crypto asset e blockchain"
 author: "Staff"
 image: 
     main: 2019-07-31-report-trimestrale.jpg

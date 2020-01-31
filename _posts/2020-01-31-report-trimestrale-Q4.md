@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "Report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain"
+title: "Report trimestrale sull'ecosistema Bitcoin, crypto asset e blockchain"
 subtitle: "Quarto trimestre 2019"
 author: "Staff"
 image: 
@@ -11,7 +11,7 @@ published: false
 newsfeed: false
 ---
 
-Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain: è appena uscito il numero tre (2019-Q4, quarto trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
+Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema Bitcoin, crypto asset e blockchain: è appena uscito il numero tre (2019-Q4, quarto trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
 
 Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti al seguente [link]({{ site.baseurl }}/reports.html).
 
@@ -19,7 +19,7 @@ Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners)
 >
 >La chiusura dell’anno è inevitabilmente tempo di bilanci, per cui il nostro sguardo, pur focalizzato sul quarto trimestre, inevitabilmente abbraccia tutto il 2019.
 
-È sempre opportuno partire dal mercato, che rappresenta il luogo dove viene messo a fuoco il valore di asset, idee e progetti. Bitcoin ha registrato una performance del 92%, nonostante il secondo semestre sia stato significativamente negativo. Ed altrettanto effervescente è stata l’offerta di prodotti finanziari denominati in Bitcoin: futures, opzioni, ETN, ETP. Grayscale Trust ha superato il miliardo di dollari di crypto-asset gestiti ed i fondi pensione americani iniziano timidamente a sondare l’investimento in Bitcoin.
+È sempre opportuno partire dal mercato, che rappresenta il luogo dove viene messo a fuoco il valore di asset, idee e progetti. Bitcoin ha registrato una performance del 92%, nonostante il secondo semestre sia stato significativamente negativo. Ed altrettanto effervescente è stata l’offerta di prodotti finanziari denominati in Bitcoin: futures, opzioni, ETN, ETP. Grayscale Trust ha superato il miliardo di dollari di crypto asset gestiti ed i fondi pensione americani iniziano timidamente a sondare l’investimento in Bitcoin.
 
 Tra i servizi finanziari per Bitcoin e crypto-assets, svolge un ruolo cruciale la custodia, precondizione per l’ingresso dei capitali istituzionali nel mercato. Questo trimestre il tema è esploso e ve lo raccontiamo nella sezione ecosistema. Crediamo molto nella custodia: nello scorso semestre la nostra ricerca ha messo a fuoco un protocollo innovativo che riteniamo superiore a tutte le soluzioni attualmente sul mercato. Ci crediamo talmente tanto che abbiamo costituito una startup dedicata alla custodia: CheckSig. Lo dichiariamo senza timore di conflitti di interesse: da sempre we walk the talk, diciamo quello che pensiamo e facciamo quello che diciamo. La credibilità accumulata in questi anni ci ha consentito di raccogliere capitali con sorprendente facilità: un milione di euro per il 20% di CheckSig, con una valutazione implicita di cinque milioni di euro al momento della costituzione dell’azienda. E questo è ovviamente solo l’inizio…
 
