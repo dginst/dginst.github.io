@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Report trimestali"
-subtitle: "Report trimestrali sull'ecosistema Bitcoin, crypto-asset e blockchain"
+subtitle: "Report trimestrali sull'ecosistema Bitcoin, crypto asset e blockchain"
 permalink: /reports/
 ---
 
