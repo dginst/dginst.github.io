@@ -1,19 +1,21 @@
 ---
 layout: post
 comments: false
-title: "Report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain"
-subtitle: "Quarto trimestre 2019"
+title: "Report 2019-Q4"
+subtitle: "Report 2019-Q4 sull'ecosistema Bitcoin, crypto asset e blockchain"
 author: "Staff"
 image: 
     main: 2020-01-31-report-trimestrale.jpg
     thumb: 2020-01-31-report-trimestrale-thumb.jpg
-published: false
-newsfeed: false
+published: true
+newsfeed: true
 ---
 
-Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain: è appena uscito il numero tre (2019-Q4, quarto trimestre 2019), di cui in coda trovate l'editoriale. I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre.
+Il Digital Gold Institute pubblica un report trimestrale sull'ecosistema Bitcoin, crypto asset e blockchain: è appena uscito il numero 2019-Q4. Il report copre le notizie su Bitcoin e blockchain, inquadrate in termini di mercato, regolazione, ecosistema e tecnologia. 
 
-Il report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma i numeri precedenti sono disponibili alla consultazione per tutti al seguente [link]({{ site.baseurl }}/reports.html).
+Il report è stato presentato ai nostri [partner]({{ site.baseurl }}/#partners) il 28 gennaio presso il *Fintech District* di Milano dal nostro direttore <a href="http://www.ametrano.net/">Ferdinando Maria Ametrano</a> ([slides]({{site.baseurl}}/docs/reports/2019Q4-presentation.pdf)); <a href="https://www.linkedin.com/in/raffaelemauro/">Raffaele Mauro</a> di <a href="https://endeavoritaly.org/">Endeavor Italia</a> ha invece curato un approfondimento tecnico su _Quantum Computing_ ([slides]({{site.baseurl}}/docs/reports/2019Q4-quantumcumputing.pdf)).
+
+L'ultimo report è in *esclusiva* per i nostri [partner]({{ site.baseurl }}/#partners), ma di seguito ne trovate l'editoriale; i numeri precedenti sono disponibili alla consultazione per tutti al seguente [link]({{ site.baseurl }}/reports.html).
 
 > ### Editoriale 2019-Q4
 >
