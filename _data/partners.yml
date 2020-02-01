@@ -24,6 +24,6 @@
   size: 300
 
 - name: Join Us
-  link: https://dgi.io/partnership
+  link: "{{ site.baseurl }}/partnership"
   logo: img/partners/company.png
   size: 100
