@@ -2,35 +2,199 @@
 layout: page
 lang: en
 title: Events
-description: "Digital Gold Institute events: save the date!"
+description: "Digital Gold Institute events"
 permalink: /events/
 ---
 
-<section id="events" class="events">
+<section id="next-events" class="events">
     <div class="container">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Next Events: Save the Date!</h2>
+            <h2 class="section-heading">Next Events</h2>
             <hr class="primary">
         </div>
     </div>
-    <div class="container" style="margin-bottom:+20px;">
+    <!--div class="container" style="margin-bottom:+20px;">
         <div class="row col-lg-8 col-lg-offset-2">
             <img src="{{ site.baseurl }}/img/events/dgi-events.jpg" alt="Save the date" width="400" height="auto">
         </div>
-    </div>
+    <div-->
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
-            {% for event in site.data.events %}
-            <h4 class="section-heading"><b>
-                {{ event.title1 }}<br>
-                {{ event.title2 }}
-            </b></h4>
-            <p class="text-muted">
-                <b>{{ event.date }}</b> - 
-                <em><a href="{{ event.organizer_link }}">{{ event.organizer }}</a></em>,
-                {{ event.address }}            
-            </p>
-            {% endfor %}
+            {% assign events = site.data.events | sort: 'date1' %}            
+            <ul>
+                {% assign today_date = 'today' | date: '%s' %}
+                {% for event in events %}
+                    {% assign event_date = event.date1 | date: '%s' %}
+                    {% if event.date2 %}
+                        {% assign event_date = event.date2 | date: '%s' %}
+                    {% endif %}
+                    {% if event_date >= today_date and event.publish %}
+                    <li>
+                        <h4><a href="{{ event.link }}">
+                            {{ event.title1 }}
+                            {% if event.title2 %}
+                                <br>{{ event.title2 }}
+                            {% endif %}
+                        </a></h4>
+                        <p class="text-muted">
+                            {% if event.date2 %}
+                                {% assign m1 = event.date1 | date: "%-m" | minus: 1 %}
+                                {% assign m2 = event.date2 | date: "%-m" | minus: 1 %}
+                                {% if event.lang == "it" %}
+                                    {% if m1 != m2 %}
+                                        {{ event.date1 | date: "%-d" }}
+                                        {{ site.data.it.months[m1] }} - 
+                                        {{ event.date2 | date: "%-d" }}
+                                        {{ site.data.it.months[m2] }}
+                                    {% else %}
+                                        {{ event.date1 | date: "%-d" }}-{{ event.date2 | date: "%-d"}}
+                                        {{ site.data.it.months[m1] }}
+                                    {% endif %}
+                                    {{ event.date1 | date: "%Y" }}
+                                {% else %}
+                                    {% if m1 != m2 %}
+                                        {{ event.date1 | date: "%B %-d" }} - {{ event.date2 | date: "%B %-d, %Y" }}
+                                    {% else %}
+                                        {{ event.date1 | date: "%B %-d" }}-{{ event.date2 | date: "%-d, %Y" }}
+                                    {% endif %}
+                                {% endif %}
+                            {% else %}
+                                {% if event.lang == "it" %}
+                                    {% assign m = event.date1 | date: "%-m" | minus: 1 %}
+                                    {% assign w = event.date1 | date: "%w" | minus: 0  %}
+                                    {{ site.data.it.weekdays[w] | capitalize }},
+                                    {{ event.date1 | date: "%-d" }}
+                                    {{ site.data.it.months[m] }}
+                                    {{ event.date1 | date: "%Y" }}
+                                {% else %}
+                                    {{ event.date1 | date: "%A, %B %-d, %Y" }}
+                                {% endif %}
+                            {% endif %}
+                            {% if event.hours %}
+                                - {{ event.hours }}
+                            {% endif %}
+
+                            <br>
+                            {% if event.lang == "it" %}
+                                Organizzato da: {{ event.organizer }}
+                            {% else %}
+                                Organized by: {{ event.organizer }}
+                            {% endif %}
+                            
+                            <br>
+                            {% if event.lang == "it" %}
+                                Presso: {{ event.address }}
+                            {% else %}
+                                Location: {{ event.address }}
+                            {% endif %}
+                            
+                            <br>
+                            {% if event.lang == "it" %}
+                                Registrazione:
+                            {% else %}
+                                Registration:
+                            {% endif %}
+                            {% if event.registration_link %}
+                                <a href="{{ event.registration_link }}">{{ event.registration_text }}</a>
+                            {% else %}
+                                {{ event.registration_text }}
+                            {% endif %}
+                        </p>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section id="past-events" class="events" style="background-color:#f4f4f4;">
+    <div class="container">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Past Events</h2>
+            <hr class="primary">
+        </div>
+    </div>
+    <!--div class="container" style="margin-bottom:+20px;">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <img src="{{ site.baseurl }}/img/events/dgi-events.jpg" alt="Save the date" width="400" height="auto">
+        </div>
+    <div-->
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            {% assign events = site.data.events | sort: 'date1' | reverse %}            
+            <ul>
+                {% assign today_date = 'today' | date: '%s' %}
+                {% for event in events %}
+                    {% assign event_date = event.date1 | date: '%s' %}
+                    {% if event.date2 %}
+                        {% assign event_date = event.date2 | date: '%s' %}
+                    {% endif %}
+                    {% if event_date < today_date %}
+                    <li>
+                        <h4><a href="{{ event.link }}">
+                            {{ event.title1 }}
+                            {% if event.title2 %}
+                                <br>{{ event.title2 }}
+                            {% endif %}
+                        </a></h4>
+                        <p class="text-muted">
+                            {% if event.date2 %}
+                                {% assign m1 = event.date1 | date: "%-m" | minus: 1 %}
+                                {% assign m2 = event.date2 | date: "%-m" | minus: 1 %}
+                                {% if event.lang == "it" %}
+                                    {% if m1 != m2 %}
+                                        {{ event.date1 | date: "%-d" }}
+                                        {{ site.data.it.months[m1] }} - 
+                                        {{ event.date2 | date: "%-d" }}
+                                        {{ site.data.it.months[m2] }}
+                                    {% else %}
+                                        {{ event.date1 | date: "%-d" }}-{{ event.date2 | date: "%-d"}}
+                                        {{ site.data.it.months[m1] }}
+                                    {% endif %}
+                                    {{ event.date1 | date: "%Y" }}
+                                {% else %}
+                                    {% if m1 != m2 %}
+                                        {{ event.date1 | date: "%B %-d" }} - {{ event.date2 | date: "%B %-d, %Y" }}
+                                    {% else %}
+                                        {{ event.date1 | date: "%B %-d" }}-{{ event.date2 | date: "%-d, %Y" }}
+                                    {% endif %}
+                                {% endif %}
+                            {% else %}
+                                {% if event.lang == "it" %}
+                                    {% assign m = event.date1 | date: "%-m" | minus: 1 %}
+                                    {% assign w = event.date1 | date: "%w" | minus: 0  %}
+                                    {{ site.data.it.weekdays[w] | capitalize }},
+                                    {{ event.date1 | date: "%-d" }}
+                                    {{ site.data.it.months[m] }}
+                                    {{ event.date1 | date: "%Y" }}
+                                {% else %}
+                                    {{ event.date1 | date: "%A, %B %-d, %Y" }}
+                                {% endif %}
+                            {% endif %}
+                            {% if event.hours %}
+                                - {{ event.hours }}
+                            {% endif %}
+
+                            <br>
+                            {% if event.lang == "it" %}
+                                Organizzato da: {{ event.organizer }}
+                            {% else %}
+                                Organized by: {{ event.organizer }}
+                            {% endif %}
+                            
+                            <br>
+                            {% if event.lang == "it" %}
+                                Presso: {{ event.address }}
+                            {% else %}
+                                Location: {{ event.address }}
+                            {% endif %}
+
+                        </p>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         </div>
     </div>
 </section>

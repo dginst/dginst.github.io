@@ -1,51 +1,119 @@
-- title1: "Bitcoin, blockchain e crypto assets: servizi finanziari e assicurativi"
-  title2:
-  lang: it
-  event_page:
-  date: 30 marzo 2020
-  img:
-  img_size:
-  organizer: Borsa Italiana Academy 
-  organizer_link: https://www.borsaitaliana.it/borsaitaliana/academy/formazione-academy.htm
-  address: Piazza degli Affari 6, 20123 Milano
-  registration_text: registrazione tramite Borsa Italiana Academy
-  registration_link:
-
-- title1: "Presentazione del Report 2020-Q1"
-  title2:
-  lang: it
-  event_page:
-  date: 7 aprile 2020
-  img:
-  img_size:
-  organizer: Digital Gold Institute
-  organizer_link: https://dgi.io
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
-  registration_text: evento ad invito
-  registration_link:
-
-- title1: "DGI Training Program: 1. Introduzione a Bitcoin e Blockchain"
-  title2: "DGI Training Program: 2. Aspetti tecnici di Bitcoin e Blockchain"
-  lang: it
-  event_page:
-  date: 21-22 aprile 2020
-  img:
-  img_size:
-  organizer: Digital Gold Institute
-  organizer_link: https://dgi.io
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
-  registration_text: registrazione tramite Eventbrite
-  registration_link:
-
 - title1: "2nd International Conference of the Crypto Asset Lab"
   title2:
   lang: en
-  event_page:
-  date: 10 giugno 2020
+  link: https://cryptoassetlab.diseade.unimib.it
+  date1: 2020-06-10
+  date2:
+  hours: 9:30-17:30
   img:
   img_size:
-  organizer: University of Milano-Bicocca
-  organizer_link: https://cryptoassetlab.diseade.unimib.it
-  address: Edificio U12, Via Vizzola 5, 20126 Milano
-  registration_text: registrazione tramite Crypto Asset Lab
+  organizer: Crypto Asset Lab (University of Milano-Bicocca)
+  address: University of Milano-Bicocca, Building U12, Via Vizzola 5, 20126 Milan (Italy)
+  registration_text: through Crypto Asset Lab
   registration_link:
+  publish: true
+
+- title1: "Dal sesterzio a Bitcoin"
+  title2:
+  lang: it
+  link: https://dgi.io/events
+  date1: 2020-05-05
+  date2:
+  hours: 10:00-13:00
+  img:
+  img_size:
+  organizer: Museo Bottacin
+  address: Sala del Medagliere, Museo Bottacin, Corso Garibaldi 33, 35121 Padova
+  registration_text: tramite Museo Bottacin
+  registration_link:
+  publish: false
+
+- title1: "DGI Training Program:"
+  title2: "1. Introduzione a Bitcoin e Blockchain<br>2. Aspetti tecnici di Bitcoin e Blockchain"
+  lang: it
+  link: https://dgi.io/events
+  date1: 2020-04-21
+  date2: 2020-04-22
+  hours: 9:30-17:30
+  img:
+  img_size:
+  organizer: Digital Gold Institute
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  registration_text: tramite Eventbrite
+  registration_link:
+  publish: true
+
+- title1: "Dal sesterzio a Bitcoin"
+  title2:
+  lang: it
+  link: https://dgi.io/events
+  date1: 2020-04-18
+  date2:
+  hours: 10:00-12:00
+  img:
+  img_size:
+  organizer: Museo Bottacin
+  address: Sala del Romanino, Musei agli Eremitani, Piazza Eremitani 8, 35121 Padova
+  registration_text: tramite Museo Bottacin
+  registration_link:
+  publish: false
+
+- title1: "Presentazione del Report DGI 2020-Q1"
+  title2:
+  lang: it
+  link: https://dgi.io/events
+  date1: 2020-04-07
+  date2:
+  hours: 16:00-18:00
+  img:
+  img_size:
+  organizer: Digital Gold Institute
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  registration_text: evento ad invito
+  registration_link:
+  publish: true
+
+- title1: "Bitcoin, blockchain e crypto assets: servizi finanziari e assicurativi"
+  title2:
+  lang: it
+  link: https://www.borsaitaliana.it/borsaitaliana/academy/formazione-academy.htm
+  date1: 2020-03-30
+  date2:
+  hours: 9:30-17:30
+  img:
+  img_size:
+  organizer: Borsa Italiana Academy 
+  address: Borsa Italiana, Piazza degli Affari 6, 20123 Milano
+  registration_text: tramite Borsa Italiana Academy
+  registration_link:
+  publish: true
+
+- title1: "Presentazione del Report DGI 2019-Q4"
+  title2:
+  lang: it
+  link: https://dgi.io/2020/01/31/report-q4.html
+  date1: 2020-01-28
+  date2:
+  hours: 16:00-18:00
+  img:
+  img_size:
+  organizer: Digital Gold Institute
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  registration_text: evento ad invito
+  registration_link:
+  publish: true
+
+- title1: "Conferenza di presentazione del Crypto Asset Lab"
+  title2:
+  lang: it
+  link: https://cryptoassetlab.diseade.unimib.it/2019/06/12/conference.html
+  date1: 2019-06-05
+  date2:
+  hours: 14:30-18:00
+  img:
+  img_size:
+  organizer: Crypto Asset Lab (Università di Milano-Bicocca)
+  address: Università di Milano-Bicocca, Edificio U12, Via Vizzola 5, 20126 Milano
+  registration_text: tramite il Crypto Asset Lab
+  registration_link:
+  publish: true
