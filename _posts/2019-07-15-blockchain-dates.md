@@ -13,7 +13,7 @@ newsfeed: false
 
 ₿lockchain Dates è un workshop organizzato in collaborazione con [Craon](https://www.craon.it/), per indagare con chiarezza cosa sono Bitcoin e Blockchain e come stanno cambiando il mondo digitale.
 
-Il workshop sarà guidato da [Ferdinando Ametrano](https://dgi.io/full-team/) e [Paolo Mazzocchi](https://dgi.io/full-team/). Per partecipare è necessaria l'iscrizione tramite il modulo presente al seguente [link](https://www.craon.it/blockchain-dates-early-bird/). Fino a fine luglio il corso è in promozione al 30% di sconto.
+Il workshop sarà guidato da [Ferdinando Ametrano]({{ site.baseurl }}/full-team/) e [Paolo Mazzocchi]({{ site.baseurl }}/full-team/). Per partecipare è necessaria l'iscrizione tramite il modulo presente al seguente [link](https://www.craon.it/blockchain-dates-early-bird/). Fino a fine luglio il corso è in promozione al 30% di sconto.
 
 Vi aspettiamo!
 

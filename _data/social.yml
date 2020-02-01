@@ -17,7 +17,7 @@
   link: "https://youtube.com/c/DigitalGoldInstitute"
 
 - social: fas fa-rss"
-  link: "https://dgi.io/feed.xml"
+  link: "{{ site.baseurl }}/feed.xml"
 
 - social: fas fa-info"
-  link: "https://dgi.io/info"
+  link: "{{ site.baseurl }}/info"

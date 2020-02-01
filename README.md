@@ -1,6 +1,6 @@
 # Repo for the Digital Gold Institute website
 
-[www.dgi.io](https://dgi.io)
+[www.dgi.io]({{ site.baseurl }})
 
 ## Testing your GitHub Pages site locally with Jekyll
 

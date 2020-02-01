@@ -19,7 +19,7 @@ L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è su
 ### 1 - Oro digitale
 
 *[NV] Se ne discute molto, ma su Bitcoin la divisione è radicale, tra scettici che parlano di bolla ed entusiasti che descrivono una rivoluzione globale. Tra questi ultimi, Ferdinando Maria Ametrano è uno degli esperti più controversi ed interessanti: fisico di formazione, per decenni si è occupato di derivati finanziari, fino al 2014 quando scopre Bitcoin; oggi dirige il
-[Digital Gold Institute](https://dgi.io/full-team/) ed insegna
+[Digital Gold Institute]({{ site.baseurl }}/full-team/) ed insegna
 [“Bitcoin and Blockchain Technology”](http://www.ametrano.net/bbt/) all’Università Milano-Bicocca ed al Politecnico di Milano. È stato Head of Blockchain and Virtual Currencies in Intesa Sanpaolo, membro del comitato organizzatore di Scaling Bitcoin (la principale conferenza annuale per gli sviluppatori della crittovaluta) e nel 2018 è intervenuto al [primo seminario organizzato su Bitcoin all’ONU](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10). Lo abbiamo intervistato, accendendo il riflettore sui molteplici aspetti di Bitcoin.*
 
 **[NV] Ferdinando, partiamo dalle basi: cos’è Bitcoin?**
@@ -88,22 +88,22 @@ L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è su
 
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
-[2: Tra truffa e speculazione](https://dgi.io/2019/06/20/intervista-Bitcoin-02.html)
+[2: Tra truffa e speculazione]({{ site.baseurl }}/2019/06/20/intervista-Bitcoin-02.html)
 
-[3: Regolazione](https://dgi.io/2019/06/25/intervista-Bitcoin-03.html)
+[3: Regolazione]({{ site.baseurl }}/2019/06/25/intervista-Bitcoin-03.html)
 
-[4: La finanza](https://dgi.io/2019/06/27/intervista-Bitcoin-04.html)
+[4: La finanza]({{ site.baseurl }}/2019/06/27/intervista-Bitcoin-04.html)
 
-[5: Come funziona Bitcoin](https://dgi.io/2019/07/02/intervista-Bitcoin-05.html)
+[5: Come funziona Bitcoin]({{ site.baseurl }}/2019/07/02/intervista-Bitcoin-05.html)
 
-[6: Ico, forkcoin e altcoin](https://dgi.io/2019/07/04/intervista-Bitcoin-06.html)
+[6: Ico, forkcoin e altcoin]({{ site.baseurl }}/2019/07/04/intervista-Bitcoin-06.html)
 
-[7: Privacy e futuro della moneta](https://dgi.io/2019/07/09/intervista-Bitcoin-07.html)
+[7: Privacy e futuro della moneta]({{ site.baseurl }}/2019/07/09/intervista-Bitcoin-07.html)
 
-[8: La blockchain oltre Bitcoin](https://dgi.io/2019/07/11/intervista-Bitcoin-08.html)
+[8: La blockchain oltre Bitcoin]({{ site.baseurl }}/2019/07/11/intervista-Bitcoin-08.html)
 
-[9: I punti deboli di Bitcoin](https://dgi.io/2019/07/16/intervista-Bitcoin-09.html)
+[9: I punti deboli di Bitcoin]({{ site.baseurl }}/2019/07/16/intervista-Bitcoin-09.html)
 
-[10: Investire in Bitcoin](https://dgi.io/2019/07/18/intervista-Bitcoin-10.html)
+[10: Investire in Bitcoin]({{ site.baseurl }}/2019/07/18/intervista-Bitcoin-10.html)
 
-[11: Tra divulgazione e università](https://dgi.io/2019/07/23/intervista-Bitcoin-11.html)
+[11: Tra divulgazione e università]({{ site.baseurl }}/2019/07/23/intervista-Bitcoin-11.html)
