@@ -1,3 +1,63 @@
+- title1: "DGI Training Program:"
+  title2: "1. Introduzione a Bitcoin e Blockchain<br>2. Aspetti tecnici di Bitcoin e Blockchain"
+  lang: it
+  link: https://dgi.io/events
+  date1: 2020-10-20
+  date2: 2020-10-21
+  hours: 9:30-17:30
+  img:
+  img_size:
+  organizer: Digital Gold Institute
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  registration_text: tramite Eventbrite
+  registration_link:
+  publish: false
+
+- title1: "Presentazione del Report DGI 2020-Q2"
+  title2:
+  lang: it
+  link: https://dgi.io/events
+  date1: 2020-10-06
+  date2:
+  hours: 16:00-18:00
+  img:
+  img_size:
+  organizer: Digital Gold Institute
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  registration_text: evento ad invito
+  registration_link:
+  publish: false
+
+- title1: "DGI Training Program:"
+  title2: "1. Introduzione a Bitcoin e Blockchain<br>2. Aspetti tecnici di Bitcoin e Blockchain"
+  lang: it
+  link: https://dgi.io/events
+  date1: 2020-07-21
+  date2: 2020-07-22
+  hours: 9:30-17:30
+  img:
+  img_size:
+  organizer: Digital Gold Institute
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  registration_text: tramite Eventbrite
+  registration_link:
+  publish: false
+
+- title1: "Presentazione del Report DGI 2020-Q2"
+  title2:
+  lang: it
+  link: https://dgi.io/events
+  date1: 2020-07-07
+  date2:
+  hours: 16:00-18:00
+  img:
+  img_size:
+  organizer: Digital Gold Institute
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  registration_text: evento ad invito
+  registration_link:
+  publish: false
+
 - title1: "2nd International Conference of the Crypto Asset Lab"
   title2:
   lang: en
