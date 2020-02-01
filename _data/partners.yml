@@ -4,7 +4,7 @@
   size: 300
 
 - name: CryptoValues
-  link: http://www.cryptovalues.eu
+  link: https://www.cryptovalues.eu
   logo: img/partners/cryptovalues-logo.png
   size: 300
 
@@ -14,16 +14,16 @@
   size: 300
 
 - name: FaberBee
-  link: http://www.faberbee.com/
+  link: https://www.faberbee.com/
   logo: img/partners/faberbee-logo.svg
   size: 300
 
 - name: Prometeia
-  link: http://www.prometeia.it/
+  link: https://www.prometeia.it/
   logo: img/partners/prometeia-logo.png
   size: 300
 
 - name: Join Us
-  link: {{ site.baseurl }}/partnership_it
+  link: https://dgi.io/partnership_it
   logo: img/partners/company.png
   size: 100

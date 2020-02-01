@@ -16,7 +16,7 @@
 - title1: "Dal sesterzio a Bitcoin"
   title2:
   lang: it
-  link: {{ site.baseurl }}/events
+  link: https://dgi.io/events
   date1: 2020-05-05
   date2:
   hours: 10:00-13:00
@@ -31,7 +31,7 @@
 - title1: "DGI Training Program:"
   title2: "1. Introduzione a Bitcoin e Blockchain<br>2. Aspetti tecnici di Bitcoin e Blockchain"
   lang: it
-  link: {{ site.baseurl }}/events
+  link: https://dgi.io/events
   date1: 2020-04-21
   date2: 2020-04-22
   hours: 9:30-17:30
@@ -46,7 +46,7 @@
 - title1: "Dal sesterzio a Bitcoin"
   title2:
   lang: it
-  link: {{ site.baseurl }}/events
+  link: https://dgi.io/events
   date1: 2020-04-18
   date2:
   hours: 10:00-12:00
@@ -61,7 +61,7 @@
 - title1: "Presentazione del Report DGI 2020-Q1"
   title2:
   lang: it
-  link: {{ site.baseurl }}/events
+  link: https://dgi.io/events
   date1: 2020-04-07
   date2:
   hours: 16:00-18:00
@@ -91,7 +91,7 @@
 - title1: "Presentazione del Report DGI 2019-Q4"
   title2:
   lang: it
-  link: {{ site.baseurl }}/2020/01/31/report-q4.html
+  link: https://dgi.io/2020/01/31/report-q4.html"
   date1: 2020-01-28
   date2:
   hours: 16:00-18:00
