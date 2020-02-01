@@ -5,4 +5,280 @@ description: Directors, researchers, students, staff, and alumni.
 permalink: /full-team/
 ---
 
-{% include directors-team-alumni.html %}
+<section id="fullteam" class="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Directors</h2>
+                <hr class="primary">
+            </div>
+            {% include directors.html %}
+        </div>
+    </div>
+</section>
+
+<section id="students" class="team" style="background-color:#f4f4f4;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Students & Researchers</h2>
+                <hr class="primary">
+            </div>
+            {% for member in site.data.team %}
+            <div class="col-lg-6 col-md-6 text-center padding">
+                <h4>{{ member.name }}</h4>
+                <p class="text-muted">{{ member.role }}</p>
+
+                {% if member.social_num == 1 %}
+                <ul class="list-inline social-buttons">
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_1_link }}">
+                            <i class="{{ member.social_1 }}"></i>
+                        </a>
+                    </li>
+                </ul>
+                {% endif %}
+                {% if member.social_num == 2 %}
+                <ul class="list-inline social-buttons">
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_1_link }}">
+                            <i class="{{ member.social_1 }}"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_2_link }}">
+                            <i class="{{ member.social_2 }}"></i>
+                        </a>
+                    </li>
+                </ul>
+                {% endif %}
+                {% if member.social_num == 3 %}
+                <ul class="list-inline social-buttons">
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_1_link }}">
+                            <i class="{{ member.social_1 }}"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_2_link }}">
+                            <i class="{{ member.social_2 }}"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_3_link }}">
+                            <i class="{{ member.social_3 }}"></i>
+                        </a>
+                    </li>
+                </ul>
+                {% endif %}
+                {% if member.social_num == 4 %}
+                <ul class="list-inline social-buttons">
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_1_link }}">
+                            <i class="{{ member.social_1_link }}"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_2_link }}">
+                            <i class="{{ member.social_2_link }}"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_3_link }}">
+                            <i class="{{ member.social_3_link }}"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_4_link }}">
+                            <i class="{{ member.social_4_link }}"></i>
+                        </a>
+                    </li>
+                </ul>
+                {% endif %}
+
+                {% if member.thesis %}
+                <p class="text-muted text-center text-small">
+                    Thesis: <a href="{{ member.thesis_link }}">{{ member.thesis }}</a>
+                </p>
+                {% endif %}
+                {% if member.affiliation_rows %}
+                {% if member.affiliation_rows == 1 %}
+                <p class="text-muted text-center text-small">
+                    {{ member.affiliation_1 }}
+                </p>
+                {% endif %}
+                {% if member.affiliation_rows == 2 %}
+                <p class="text-muted text-center text-small">
+                    {{ member.affiliation_1 }}<br>
+                    {{ member.affiliation_2 }}
+                </p>
+                {% endif %}
+                {% if member.affiliation_rows == 3 %}
+                <p class="text-muted text-center text-small">
+                    {{ member.affiliation_1 }}<br>
+                    {{ member.affiliation_2 }}<br>
+                    {{ member.affiliation_3 }}
+                </p>
+                {% endif %}
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+</section>
+
+<section id="alumni" class="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Alumni</h2>
+                <hr class="primary">
+                <p class="text-muted">
+                    <b>Digital Gold Institute School:</b>
+                    </br>
+                    <a href="https://www.linkedin.com/school/digital-gold-institute/people/">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                </p>
+            </div>
+            <p class="text-muted padding">
+                Our network of alumni represents a vibrant ecosystem of proficiency and innovation:
+                the experience at the Digital Gold Institute is usually
+                just a stepping stone toward other prestigious destinations. 
+            </p>
+            <p class="text-muted padding">
+                <b>Samuele Vianello</b>
+                </br>
+                Master Degree in Mathematical Engineerging, Politecnico di Milano
+                </br>
+                Thesis: <em>Bitcoin as a Digital Asset: Correlation and Optimal Portfolio Allocation </em>
+                (<a
+                    href="https://github.com/SamueleVianello/MasterThesis/blob/master/Latex/thesis-master/main.pdf">pdf</a>,
+                <a href="https://github.com/SamueleVianello/MasterThesis/">source</a>)
+                </br>
+                Slides:
+                </br>
+                April 2019
+                </br>
+                <a href="https://github.com/SamueleVianello">
+                    <i class="fab fa-github"></i>
+                </a>
+            </p>
+            <p class="text-muted padding">
+                <b>Andrea Brandoli</b>
+                </br>
+                Master Degree in Mathematical Engineerging, Politecnico di Milano
+                </br>
+                Thesis: <em>Blockchain Notarization: Extensions to the OpenTimestamps Protocol </em>
+                (<a href="https://github.com/AndreaBrandoli90/thesis-abrandoli/blob/master/thesis_ab.pdf">pdf</a>,
+                <a href="https://github.com/AndreaBrandoli90/thesis-abrandoli">source</a>)
+                </br>
+                Slides:
+                </br>
+                April 2019
+                </br>
+                <a href="https://github.com/AndreaBrandoli90">
+                    <i class="fab fa-github"></i>
+                </a>
+            </p>
+            <p class="text-muted padding">
+                <b>Giona Soldati</b>
+                </br>
+                Master Degree in Mathematical Engineerging, Politecnico di Milano
+                </br>
+                Thesis: <em>An Advanced Signature Scheme: Schnorr Algorithm and its Benefits
+                    to the Bitcoin Ecosystem </em>
+                (<a href="https://github.com/gionasoldati/thesis/blob/master/main.pdf">pdf</a>,
+                <a href="https://github.com/gionasoldati/thesis">source</a>)
+                </br>
+                Slides:
+                (<a href="https://github.com/gionasoldati/thesis/blob/master/Presentation/main.pdf">pdf</a>,
+                <a href="https://github.com/gionasoldati/thesis/tree/master/Presentation">source</a>)
+                </br>
+                December 2018
+                </br>
+                <a href="https://github.com/gionasoldati">
+                    <i class="fab fa-github"></i>
+                </a>
+            </p>
+            <p class="text-muted padding">
+                <b>Alessandro Miola</b>
+                </br>
+                Master Degree in Mathematical Engineerging, Politecnico di Milano
+                </br>
+                Thesis: <em>Addressing Privacy and Fungibility Issues in Bitcoin: Confidential Transactions </em>
+                (<a href="https://github.com/AlessandroMiola/Thesis/blob/master/Thesis.pdf">pdf</a>,
+                <a href="https://github.com/AlessandroMiola/Thesis">source</a>)
+                </br>
+                Slides:
+                (<a href="https://github.com/AlessandroMiola/Thesis/blob/master/Slides/Presentation.pdf">pdf</a>,
+                <a href="https://github.com/AlessandroMiola/Thesis">source</a>)
+                </br>
+                December 2018
+                </br>
+                <a href="https://github.com/AlessandroMiola">
+                    <i class="fab fa-github"></i>
+                </a>
+            </p>
+            <p class="text-muted padding">
+                <b>Leonardo Comandini</b>
+                </br>
+                Master Degree in Mathematical Engineerging, Politecnico di Milano
+                </br>
+                Thesis: <em>Sign-to-contract: how to achieve digital notarization with zero marginal cost</em>
+                (<a href="https://www.politesi.polimi.it/bitstream/10589/140124/1/2018_04_Comandini.pdf">pdf</a>,
+                <a href="https://github.com/LeoComandini/Thesis">source</a>)
+                </br>
+                Slides:
+                (<a href="https://www.politesi.polimi.it/bitstream/10589/140124/1/2018_04_Comandini.pdf">pdf</a>,
+                <a href="https://github.com/LeoComandini/Thesis">source</a>)
+                </br>
+                April 2018
+                </br>
+                <a href="https://github.com/LeoComandini">
+                    <i class="fab fa-github"></i>
+                </a>
+            </p>
+            <p class="text-muted padding">
+                <b>Daniele Fornaro</b>
+                </br>
+                Master Degree in Mathematical Engineerging, Politecnico di Milano
+                </br>
+                Thesis: <em>Elliptic Curve Hierarchical Deterministic Private Key Sequences: Bitcoin Standards and Best
+                    Practices</em>
+                (<a href="https://www.politesi.polimi.it/bitstream/10589/140112/1/2018_04_Fornaro.pdf">pdf</a>,
+                <a href="https://github.com/danielefornaro/Tesi">source</a>)
+                </br>
+                <!--Slides:
+                (<a href="">pdf</a>,
+                <a href="">source</a>)
+                </br>-->
+                April 2018
+                </br>
+                <a href="https://github.com/danielefornaro">
+                    <i class="fab fa-github"></i>
+                </a>
+            </p>
+            <p class="text-muted padding">
+                <b>Chiara Lelli</b>
+                </br>
+                Bachelor Degree in Mathematical Engineerging, Politecnico di Milano
+                </br>
+                Thesis: <em>Schnorr signature: additivity and multisignature</em>
+                (<a href="https://github.com/clelli/Schnorr/blob/master/tesi.pdf">pdf</a>,
+                <a href="https://github.com/clelli/Schnorr">source</a>)
+                </br>
+                Winner of the 2017/2018 <em>Blockchain Thesis Award</em> of the Italian
+                Blockchain Educational Network
+                <!--Slides:
+                (<a href="">pdf</a>,
+                <a href="">source</a>)-->
+                </br>
+                March 2018
+                </br>
+                <a href="https://github.com/clelli">
+                    <i class="fab fa-github"></i>
+                </a>
+            </p>
+        </div>
+    </div>
+</section>
