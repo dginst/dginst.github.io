@@ -65,7 +65,6 @@ Di seguito la trascrizione di questa puntata.
 
 [FA] Per ora si tratta di enunciazioni velleitarie: una crittovaluta governativa è un ossimoro, a maggior ragione quando si tratta di dittature che non vogliono realizzare qualcosa di decentralizzato e incensurabile. Maduro vorrebbe rifarsi una verginità deflattiva, ma non sarà il travestimento da crittovaluta a dargliela. La Russia vuole probabilmente familiarizzare con la tecnologia, per imparare a reprimere ed eventualmente ad attaccare con queste armi. C’è la Corea del Nord che accumula Bitcoin, anche con attacchi predatori e terroristici. Le crittovalute saranno davvero strumenti di posizionamento geopolitico: ci sono potenze economiche che potrebbero considerare nuove valute, garantite da Bitcoin come asset di riserva, per portare sfide epocali sullo scenario monetario internazionale.
 
-
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
 [1: Oro digitale]({{ site.baseurl }}l }}/2019/06/17/intervista-Bitcoin-01.html)
