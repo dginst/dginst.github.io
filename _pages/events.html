@@ -30,12 +30,11 @@ permalink: /events/
                     {% endif %}
                     {% if event_date >= today_date and event.publish %}
                     <li>
-                        <h4><a href="{{ event.link }}">
-                            {{ event.title1 }}
+                        <h4>{{ event.title1 }}
                             {% if event.title2 %}
                                 <br>{{ event.title2 }}
                             {% endif %}
-                        </a></h4>
+                        </h4>
                         <p class="text-muted">
                             {% if event.date2 %}
                                 {% assign m1 = event.date1 | date: "%-m" | minus: 1 %}
@@ -90,14 +89,14 @@ permalink: /events/
                             
                             <br>
                             {% if event.lang == "it" %}
-                                Registrazione:
+                                Informazioni:
                             {% else %}
-                                Registration:
+                                Information:
                             {% endif %}
-                            {% if event.registration_link %}
-                                <a href="{{ event.registration_link }}">{{ event.registration_text }}</a>
+                            {% if event.info_link %}
+                                <a href="{{ event.info_link }}">{{ event.info }}</a>
                             {% else %}
-                                {{ event.registration_text }}
+                                {{ event.info }}
                             {% endif %}
                         </p>
                     </li>
@@ -132,12 +131,11 @@ permalink: /events/
                     {% endif %}
                     {% if event_date < today_date %}
                     <li>
-                        <h4><a href="{{ event.link }}">
-                            {{ event.title1 }}
+                        <h4>{{ event.title1 }}
                             {% if event.title2 %}
                                 <br>{{ event.title2 }}
                             {% endif %}
-                        </a></h4>
+                        </h4>
                         <p class="text-muted">
                             {% if event.date2 %}
                                 {% assign m1 = event.date1 | date: "%-m" | minus: 1 %}
