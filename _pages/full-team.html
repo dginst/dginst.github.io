@@ -145,140 +145,54 @@ permalink: /full-team/
                 the experience at the Digital Gold Institute is usually
                 just a stepping stone toward other prestigious destinations. 
             </p>
+            {% for member in site.data.alumni %}
             <p class="text-muted padding">
-                <b>Samuele Vianello</b>
+                <b>{{ member.name }}</b>
                 </br>
-                Master Degree in Mathematical Engineerging, Politecnico di Milano
+                {{ member.degree }}
                 </br>
-                Thesis: <em>Bitcoin as a Digital Asset: Correlation and Optimal Portfolio Allocation </em>
-                (<a
-                    href="https://github.com/SamueleVianello/MasterThesis/blob/master/Latex/thesis-master/main.pdf">pdf</a>,
-                <a href="https://github.com/SamueleVianello/MasterThesis/">source</a>)
+                Thesis: <em>{{ member.thesis }} </em>
                 </br>
-                Slides:
+                (
+                    {% if member.pdf%}
+                    <a href="{{ member.pdf }}">pdf</a>
+                    {% endif %}
+                    {% if member.slides%}
+                    , <a href="{{ member.slides }}">slides</a>
+                    {% endif %}
+                    {% if member.source%}
+                    , <a href="{{ member.source }}">source</a>
+                    {% endif %}
+                )
                 </br>
-                April 2019
+                {{ member.thesis_date }}
                 </br>
-                <a href="https://github.com/SamueleVianello">
-                    <i class="fab fa-github"></i>
+                {% if member.award%}
+                {{ member.award }}
+                </br>
+                {% endif %}
+                {% if member.social_1%}
+                <a href="{{ member.social_1_link }}">
+                    <i class="{{ member.social_1 }}"></i>
                 </a>
-            </p>
-            <p class="text-muted padding">
-                <b>Andrea Brandoli</b>
-                </br>
-                Master Degree in Mathematical Engineerging, Politecnico di Milano
-                </br>
-                Thesis: <em>Blockchain Notarization: Extensions to the OpenTimestamps Protocol </em>
-                (<a href="https://github.com/AndreaBrandoli90/thesis-abrandoli/blob/master/thesis_ab.pdf">pdf</a>,
-                <a href="https://github.com/AndreaBrandoli90/thesis-abrandoli">source</a>)
-                </br>
-                Slides:
-                </br>
-                April 2019
-                </br>
-                <a href="https://github.com/AndreaBrandoli90">
-                    <i class="fab fa-github"></i>
+                {% endif %}
+                {% if member.social_2%}
+                <a href="{{ member.social_2_link }}">
+                    <i class="{{ member.social_2 }}"></i>
                 </a>
-            </p>
-            <p class="text-muted padding">
-                <b>Giona Soldati</b>
-                </br>
-                Master Degree in Mathematical Engineerging, Politecnico di Milano
-                </br>
-                Thesis: <em>An Advanced Signature Scheme: Schnorr Algorithm and its Benefits
-                    to the Bitcoin Ecosystem </em>
-                (<a href="https://github.com/gionasoldati/thesis/blob/master/main.pdf">pdf</a>,
-                <a href="https://github.com/gionasoldati/thesis">source</a>)
-                </br>
-                Slides:
-                (<a href="https://github.com/gionasoldati/thesis/blob/master/Presentation/main.pdf">pdf</a>,
-                <a href="https://github.com/gionasoldati/thesis/tree/master/Presentation">source</a>)
-                </br>
-                December 2018
-                </br>
-                <a href="https://github.com/gionasoldati">
-                    <i class="fab fa-github"></i>
+                {% endif %}
+                {% if member.social_3%}
+                <a href="{{ member.social_3_link }}">
+                    <i class="{{ member.social_3 }}"></i>
                 </a>
-            </p>
-            <p class="text-muted padding">
-                <b>Alessandro Miola</b>
-                </br>
-                Master Degree in Mathematical Engineerging, Politecnico di Milano
-                </br>
-                Thesis: <em>Addressing Privacy and Fungibility Issues in Bitcoin: Confidential Transactions </em>
-                (<a href="https://github.com/AlessandroMiola/Thesis/blob/master/Thesis.pdf">pdf</a>,
-                <a href="https://github.com/AlessandroMiola/Thesis">source</a>)
-                </br>
-                Slides:
-                (<a href="https://github.com/AlessandroMiola/Thesis/blob/master/Slides/Presentation.pdf">pdf</a>,
-                <a href="https://github.com/AlessandroMiola/Thesis">source</a>)
-                </br>
-                December 2018
-                </br>
-                <a href="https://github.com/AlessandroMiola">
-                    <i class="fab fa-github"></i>
+                {% endif %}
+                {% if member.social_4%}
+                <a href="{{ member.social_4_link }}">
+                    <i class="{{ member.social_4 }}"></i>
                 </a>
+                {% endif %}
             </p>
-            <p class="text-muted padding">
-                <b>Leonardo Comandini</b>
-                </br>
-                Master Degree in Mathematical Engineerging, Politecnico di Milano
-                </br>
-                Thesis: <em>Sign-to-contract: how to achieve digital notarization with zero marginal cost</em>
-                (<a href="https://www.politesi.polimi.it/bitstream/10589/140124/1/2018_04_Comandini.pdf">pdf</a>,
-                <a href="https://github.com/LeoComandini/Thesis">source</a>)
-                </br>
-                Slides:
-                (<a href="https://www.politesi.polimi.it/bitstream/10589/140124/1/2018_04_Comandini.pdf">pdf</a>,
-                <a href="https://github.com/LeoComandini/Thesis">source</a>)
-                </br>
-                April 2018
-                </br>
-                <a href="https://github.com/LeoComandini">
-                    <i class="fab fa-github"></i>
-                </a>
-            </p>
-            <p class="text-muted padding">
-                <b>Daniele Fornaro</b>
-                </br>
-                Master Degree in Mathematical Engineerging, Politecnico di Milano
-                </br>
-                Thesis: <em>Elliptic Curve Hierarchical Deterministic Private Key Sequences: Bitcoin Standards and Best
-                    Practices</em>
-                (<a href="https://www.politesi.polimi.it/bitstream/10589/140112/1/2018_04_Fornaro.pdf">pdf</a>,
-                <a href="https://github.com/danielefornaro/Tesi">source</a>)
-                </br>
-                <!--Slides:
-                (<a href="">pdf</a>,
-                <a href="">source</a>)
-                </br>-->
-                April 2018
-                </br>
-                <a href="https://github.com/danielefornaro">
-                    <i class="fab fa-github"></i>
-                </a>
-            </p>
-            <p class="text-muted padding">
-                <b>Chiara Lelli</b>
-                </br>
-                Bachelor Degree in Mathematical Engineerging, Politecnico di Milano
-                </br>
-                Thesis: <em>Schnorr signature: additivity and multisignature</em>
-                (<a href="https://github.com/clelli/Schnorr/blob/master/tesi.pdf">pdf</a>,
-                <a href="https://github.com/clelli/Schnorr">source</a>)
-                </br>
-                Winner of the 2017/2018 <em>Blockchain Thesis Award</em> of the Italian
-                Blockchain Educational Network
-                <!--Slides:
-                (<a href="">pdf</a>,
-                <a href="">source</a>)-->
-                </br>
-                March 2018
-                </br>
-                <a href="https://github.com/clelli">
-                    <i class="fab fa-github"></i>
-                </a>
-            </p>
+            {% endfor %}
         </div>
     </div>
 </section>

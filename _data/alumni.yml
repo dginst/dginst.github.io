@@ -1,0 +1,77 @@
+- name: Simone Colombo
+  degree: Master Degree in Electrical Engineerging, Politecnico di Milano
+  thesis: Mercato elettrico e mining Bitcoin
+  pdf: https://github.com/simonecolombo/thesis-scolombo
+  source: https://github.com/simonecolombo/thesis-scolombo
+  thesis_date: December 2019
+  social_1: fab fa-linkedin-in
+  social_1_link: https://www.linkedin.com/in/SimoneColombo1988/
+  social_2: fab fa-github
+  social_2_link: https://github.com/simonecolombo
+  
+- name: Samuele Vianello
+  degree: Master Degree in Mathematical Engineerging, Politecnico di Milano
+  thesis: "Bitcoin as a Digital Asset: Correlation and Optimal Portfolio Allocation"
+  pdf: https://github.com/SamueleVianello/MasterThesis/blob/master/Latex/thesis-master/main.pdf 
+  source: https://github.com/SamueleVianello/MasterThesis/
+  thesis_date: April 2019
+  social_1: fab fa-github
+  social_1_link: https://github.com/SamueleVianello
+
+- name: Andrea Brandoli
+  degree: Master Degree in Mathematical Engineerging, Politecnico di Milano
+  thesis: "Blockchain Notarization: Extensions to the OpenTimestamps Protocol"
+  pdf: https://github.com/AndreaBrandoli90/thesis-abrandoli/blob/master/thesis_ab.pdf
+  source: https://github.com/AndreaBrandoli90/thesis-abrandoli
+  thesis_date: April 2019
+  social_1: fab fa-github
+  social_1_link: https://github.com/AndreaBrandoli90
+
+- name: Giona Soldati
+  degree: Master Degree in Mathematical Engineerging, Politecnico di Milano
+  thesis: "An Advanced Signature Scheme: Schnorr Algorithm and its Benefits to the Bitcoin Ecosystem"
+  pdf: https://github.com/gionasoldati/thesis/blob/master/main.pdf
+  slides: https://github.com/gionasoldati/thesis/blob/master/Presentation/main.pdf
+  source: https://github.com/gionasoldati/thesis
+  thesis_date: December 2018
+  social_1: fab fa-github
+  social_1_link: https://github.com/gionasoldati
+
+- name: Alessandro Miola
+  degree: Master Degree in Mathematical Engineerging, Politecnico di Milano
+  thesis: "An Advanced Signature Scheme: Addressing Privacy and Fungibility Issues in Bitcoin: Confidential Transactions"
+  pdf: https://github.com/AlessandroMiola/Thesis/blob/master/Thesis.pdf
+  slides: https://github.com/AlessandroMiola/Thesis/blob/master/Slides/Presentation.pdf
+  source: https://github.com/AlessandroMiola/Thesis
+  thesis_date: December 2018
+  social_1: fab fa-github
+  social_1_link: https://github.com/AlessandroMiola
+
+- name: Leonardo Comandini
+  degree: Master Degree in Mathematical Engineerging, Politecnico di Milano
+  thesis: "Sign-to-contract: how to achieve digital notarization with zero marginal cost"
+  pdf: https://www.politesi.polimi.it/bitstream/10589/140124/1/2018_04_Comandini.pdf
+  slides: https://www.politesi.polimi.it/bitstream/10589/140124/1/2018_04_Comandini.pdf
+  source: https://github.com/LeoComandini/Thesis
+  thesis_date: April 2018
+  social_1: fab fa-github
+  social_1_link: https://github.com/LeoComandini
+
+- name: Daniele Fornaro
+  degree: Master Degree in Mathematical Engineerging, Politecnico di Milano
+  thesis: "Elliptic Curve Hierarchical Deterministic Private Key Sequences: Bitcoin Standards and Best Practices"
+  pdf: https://www.politesi.polimi.it/bitstream/10589/140112/1/2018_04_Fornaro.pdf
+  source: https://github.com/danielefornaro/Tesi
+  thesis_date: April 2018
+  social_1: fab fa-github
+  social_1_link: https://github.com/danielefornaro
+
+- name: Chiara Lelli
+  degree: Bachelor Degree in Mathematical Engineerging, Politecnico di Milano
+  thesis: "Schnorr signature: additivity and multisignature"
+  pdf: https://github.com/clelli/Schnorr/blob/master/tesi.pdf
+  source: https://github.com/clelli/Schnorr
+  award: Winner of the 2017/2018 <em>Blockchain Thesis Award</em> of the Italian Blockchain Educational Network
+  thesis_date: March 2018
+  social_1: fab fa-github
+  social_1_link: https://github.com/clelli
