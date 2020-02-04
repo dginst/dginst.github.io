@@ -97,7 +97,7 @@ permalink: /full-team/
                 </br>
                 {{ member.degree }}
                 </br>
-                Thesis: <em>{{ member.thesis }} </em>
+                Thesis: <em>{{ member.thesis }} </em> ({{ member.thesis_date }})
                 </br>
                 (
                     {% if member.pdf%}
@@ -110,8 +110,6 @@ permalink: /full-team/
                     , <a href="{{ member.source }}">source</a>
                     {% endif %}
                 )
-                </br>
-                {{ member.thesis_date }}
                 </br>
                 {% if member.award%}
                 {{ member.award }}
