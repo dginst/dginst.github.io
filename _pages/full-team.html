@@ -28,98 +28,44 @@ permalink: /full-team/
             <div class="col-lg-6 col-md-6 text-center padding">
                 <h4>{{ member.name }}</h4>
                 <p class="text-muted">{{ member.role }}</p>
-
-                {% if member.social_num == 1 %}
+                {% if member.social_1 %}
                 <ul class="list-inline social-buttons">
                     <li class="list-inline-item">
                         <a href="{{ member.social_1_link }}">
                             <i class="{{ member.social_1 }}"></i>
                         </a>
                     </li>
-                </ul>
-                {% endif %}
-                {% if member.social_num == 2 %}
-                <ul class="list-inline social-buttons">
-                    <li class="list-inline-item">
-                        <a href="{{ member.social_1_link }}">
-                            <i class="{{ member.social_1 }}"></i>
-                        </a>
-                    </li>
+                    {% if member.social_2 %}
                     <li class="list-inline-item">
                         <a href="{{ member.social_2_link }}">
                             <i class="{{ member.social_2 }}"></i>
                         </a>
                     </li>
-                </ul>
-                {% endif %}
-                {% if member.social_num == 3 %}
-                <ul class="list-inline social-buttons">
-                    <li class="list-inline-item">
-                        <a href="{{ member.social_1_link }}">
-                            <i class="{{ member.social_1 }}"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="{{ member.social_2_link }}">
-                            <i class="{{ member.social_2 }}"></i>
-                        </a>
-                    </li>
+                    {% endif %}
+                    {% if member.social_3 %}
                     <li class="list-inline-item">
                         <a href="{{ member.social_3_link }}">
                             <i class="{{ member.social_3 }}"></i>
                         </a>
                     </li>
+                    {% endif %}
                 </ul>
                 {% endif %}
-                {% if member.social_num == 4 %}
-                <ul class="list-inline social-buttons">
-                    <li class="list-inline-item">
-                        <a href="{{ member.social_1_link }}">
-                            <i class="{{ member.social_1_link }}"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="{{ member.social_2_link }}">
-                            <i class="{{ member.social_2_link }}"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="{{ member.social_3_link }}">
-                            <i class="{{ member.social_3_link }}"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="{{ member.social_4_link }}">
-                            <i class="{{ member.social_4_link }}"></i>
-                        </a>
-                    </li>
-                </ul>
-                {% endif %}
-
                 {% if member.thesis %}
                 <p class="text-muted text-center text-small">
                     Thesis: <a href="{{ member.thesis_link }}">{{ member.thesis }}</a>
                 </p>
                 {% endif %}
-                {% if member.affiliation_rows %}
-                {% if member.affiliation_rows == 1 %}
+                {% if member.affiliation_1 %}
                 <p class="text-muted text-center text-small">
                     {{ member.affiliation_1 }}
+                    {% if member.affiliation_2 %}
+                    <br>{{ member.affiliation_2 }}
+                    {% endif %}
+                    {% if member.affiliation_3 %}
+                    <br>{{ member.affiliation_3 }}
+                    {% endif %}
                 </p>
-                {% endif %}
-                {% if member.affiliation_rows == 2 %}
-                <p class="text-muted text-center text-small">
-                    {{ member.affiliation_1 }}<br>
-                    {{ member.affiliation_2 }}
-                </p>
-                {% endif %}
-                {% if member.affiliation_rows == 3 %}
-                <p class="text-muted text-center text-small">
-                    {{ member.affiliation_1 }}<br>
-                    {{ member.affiliation_2 }}<br>
-                    {{ member.affiliation_3 }}
-                </p>
-                {% endif %}
                 {% endif %}
             </div>
             {% endfor %}

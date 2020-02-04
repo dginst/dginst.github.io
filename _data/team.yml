@@ -1,12 +1,10 @@
 - name: Marcello Pichini
   role: Market Data Specialist
-  social_num: 1
   social_1: fab fa-github
   social_1_link: https://github.com/mpichini1
 
 - name: Nicholas Sollazzo
   role: ICT Analyst
-  social_num: 3
   social_1: fab fa-twitter
   social_1_link: https://twitter.com/n_sollazzo
   social_2: fab fa-linkedin-in
@@ -16,7 +14,6 @@
 
 - name: Matteo Avigni
   role: Student @ Politecnico di Milano
-  social_num: 2
   social_1: fab fa-linkedin-in
   social_1_link: https://www.linkedin.com/in/matteo-avigni-35b2b3140/
   social_2: fab fa-github
@@ -24,7 +21,6 @@
 
 - name: Stefano Fedeli
   role: Student @ Politecnico di Milano
-  social_num: 2
   social_1: fab fa-linkedin-in
   social_1_link: https://www.linkedin.com/in/stefano-f-676165127/
   social_2: fab fa-github
@@ -32,20 +28,17 @@
 
 - name: Federico Panisi
   role: Legal Analyst
-  social_num: 3
   social_1: fab fa-twitter
   social_1_link: https://twitter.com/FedericoPanisi
   social_2: fab fa-linkedin-in
   social_2_link: https://www.linkedin.com/in/federico-panisi/
   social_3: fab fa-medium-m
   social_3_link: https://medium.com/@FedericoPanisi
-  affiliation_rows: 3
   affiliation_1: Juris Doctor, Università Cattolica del Sacro Cuore - Milan
   affiliation_2: Ph.D. candidate @ Università degli Studi di Brescia
   affiliation_3: SPILS candidate @ Stanford University
 
 - name: <b>Join the Team!</b>
   role: <b>Contact us:</b>
-  social_num: 1
   social_1: fas fa-envelope
   social_1_link: https://docs.google.com/forms/d/e/1FAIpQLSeSdkEDzVV_OGrTb6h07DGZ1pQ1QRxt9h0cRERJ4-4EeYMDng/viewform
