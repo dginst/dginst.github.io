@@ -1,62 +1,66 @@
+{% for member in site.data.directors %}
 <div class="col-lg-3 col-md-3 text-center">
-    <a href="https://www.ametrano.net/about/">
-    <img class="mx-auto rounded-circle" src="{{ site.baseurl }}/img/team/Ametrano.png" alt="Ametrano">
-    <h4>Ferdinando M. Ametrano</h4>
+    <img class="mx-auto rounded-circle" src="{{ site.baseurl }}/{{ member.photo }}" alt="{{ member.photo_name }}">
+    <h4>{{ member.name }}</h4>
     </a>
-    <p class="text-muted">Executive Director</p>
+    <p class="text-muted">{{ member.role }}</p>
+    {% if member.social_1 %}
     <ul class="list-inline social-buttons">
         <li class="list-inline-item">
-            <a href="http://twitter.com/Ferdinando1970">
-                <i class="fab fa-twitter"></i>
+            <a href="{{ member.social_1_link }}">
+                <i class="{{ member.social_1 }}"></i>
             </a>
         </li>
+        {% if member.social_2 %}
         <li class="list-inline-item">
-            <a href="http://linkedin.com/in/ferdinandoametrano/">
-                <i class="fab fa-linkedin-in"></i>
+            <a href="{{ member.social_2_link }}">
+                <i class="{{ member.social_2 }}"></i>
             </a>
         </li>
+        {% endif %}
+        {% if member.social_3 %}
         <li class="list-inline-item">
-            <a href="http://github.com/fametrano">
-                <i class="fab fa-github"></i>
+            <a href="{{ member.social_3_link }}">
+                <i class="{{ member.social_3 }}"></i>
             </a>
         </li>
+        {% endif %}
+        {% if member.social_4 %}
         <li class="list-inline-item">
-            <a href="http://facebook.com/ferdinando.ametrano">
-                <i class="fab fa-facebook-f"></i>
+            <a href="{{ member.social_4_link }}">
+                <i class="{{ member.social_4 }}"></i>
             </a>
         </li>
-        <!--li class="list-inline-item">
-            <a href="http://www.reddit.com/user/Nando1970">
-                <i class="fab fa-reddit-alien"></i>
-            </a>
-        </li-->
+        {% endif %}
+        {% if member.social_5 %}
         <li class="list-inline-item">
-            <a href="http://www.youtube.com/c/FerdinandoMAmetrano">
-                <i class="fab fa-youtube"></i>
+            <a href="{{ member.social_5_link }}">
+                <i class="{{ member.social_5 }}"></i>
             </a>
         </li>
+        {% endif %}
+        {% if member.social_6 %}
         <li class="list-inline-item">
-            <a href="http://medium.com/@nando1970">
-                <i class="fab fa-medium-m"></i>
+            <a href="{{ member.social_6_link }}">
+                <i class="{{ member.social_6 }}"></i>
             </a>
         </li>
+        {% endif %}
+        {% if member.social_7 %}
         <li class="list-inline-item">
-            <a href="http://ametrano.net/">
-                <i class="fas fa-globe"></i>
+            <a href="{{ member.social_7_link }}">
+                <i class="{{ member.social_7 }}"></i>
             </a>
         </li>
+        {% endif %}
     </ul>
+    {% endif %}
     <p class="text-muted text-center text-small">
-        <a href="http://ametrano.net/bbt/">Bitcoin and Blockchain Technology</a>
-        at Milano-Bicocca and other universities.<br>
-        <a href="http://cryptoassetlab.diseade.unimib.it/">Crypto Asset Lab</a> scientific director,
-        <a href="http://ssrn.com/abstract=2425270">Hayek Money</a> promoter,
-        <a href="http://quantlib.org/">QuantLib</a> founder,
-        <a href="http://ametrano.net/ird/">Interest Rate Derivatives</a> Adjunct
-        <a href="http://www.unimib.it/ferdinando-maria-ametrano">Professor at Milano-Bicocca</a>.</br>
-        Ex-physicist, Springsteen fan, husband, father of three.
+        {{ member.desc }}
     </p>
 </div>
+{% endfor %}
+
 <div class="col-lg-3 col-md-3 text-center">
     <img class="mx-auto rounded-circle" src="{{ site.baseurl }}/img/team/Ehlers.png" alt="Ehlers">
     <h4>Eric Ehlers</h4>

@@ -1,0 +1,22 @@
+- name: Ferdinando M. Ametrano
+  role: Executive Director
+  photo: img/team/Ametrano.png
+  photo_name: Ametrano
+  desc: <a href="http://ametrano.net/bbt/">Bitcoin and Blockchain Technology</a> at Milano-Bicocca and other universities.<br> <a href="http://cryptoassetlab.diseade.unimib.it/">Crypto Asset Lab</a> scientific director, <a href="http://ssrn.com/abstract=2425270">Hayek Money</a> promoter, <a href="http://quantlib.org/">QuantLib</a> founder, <a href="http://ametrano.net/ird/">Interest Rate Derivatives</a> Adjunct <a href="http://www.unimib.it/ferdinando-maria-ametrano">Professor at Milano-Bicocca</a>.</br> Ex-physicist, Springsteen fan, husband, father of three.
+  social_1: fab fa-twitter
+  social_1_link: http://twitter.com/Ferdinando1970
+  social_2: fab fa-linkedin-in
+  social_2_link: http://linkedin.com/in/ferdinandoametrano/
+  social_3: fab fa-github
+  social_3_link: http://github.com/fametrano
+  social_4: fab fa-facebook
+  social_4_link: http://facebook.com/ferdinando.ametrano
+  social_5: fab fa-youtube
+  social_5_link: http://www.youtube.com/c/FerdinandoMAmetrano
+  social_6: fab fa-medium-m
+  social_6_link: http://medium.com/@nando1970
+  social_7: fas fa-globe
+  social_7_link: http://ametrano.net/
+
+
+
