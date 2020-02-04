@@ -18,5 +18,38 @@
   social_7: fas fa-globe
   social_7_link: http://ametrano.net/
 
+- name: Eric Ehlers
+  role: Technical Officer
+  photo: img/team/Ehlers.png
+  photo_name: Ehlers
+  desc: Cofounder and director of <a href="https://www.reposit.be/">Reposit Limited</a>, providing consulting services in the domain of quantitative finance.</br><a href="https://www.quantlib.org/quantlibxl/">QuanLibXL</a> project founder. </br> Formerly 12 years at J.P. Morgan Chase, first in IT management and later as technical lead for front-office pricing spreadsheets.
+  social_1: fab fa-twitter
+  social_1_link: http://twitter.com/CheckSigCTO
+  social_2: fab fa-linkedin-in
+  social_2_link: https://www.linkedin.com/in/eric-ehlers-9ba682/
+  social_3: fab fa-github
+  social_3_link: https://github.com/eehlers
 
+- name: Paolo Mazzocchi
+  role: Operating Officer
+  photo: img/team/Mazzocchi.png
+  photo_name: Mazzocchi
+  desc: <a href="http://cryptoassetlab.diseade.unimib.it/">Crypto Asset Lab</a> faculty member,</br> <a href="http://ametrano.net/ird/">Interest Rate Derivatives</a> Assistant Lecturer at Milano-Bicocca.</br> Master's degree in Mathematical Engineering at Politecnico di Milano. </br> <a href="https://itra.run/community/paolo.mazzocchi/2206375/153211">Ultra Trail Runner</a>. 
+  social_1: fab fa-twitter
+  social_1_link: https://twitter.com/MazzocchiPaolo
+  social_2: fab fa-linkedin-in
+  social_2_link: https://www.linkedin.com/in/paolo-mazzocchi-6672a591/
+  social_3: fab fa-github
+  social_3_link: https://github.com/pmazzocchi
 
+- name: Lucia Mandelli
+  role: Business Developer
+  photo: img/team/Mandelli.png
+  photo_name: Mandelli
+  desc: Bitcoin and blockchain passionate.</br> Eight years of hands-on entrepreneurial experience and formerly Vice President of <a href="http://www.upi.pr.it/unione-parmense-degli-industriali/gruppo-giovani/index.jsp">“Giovani Imprenditori di Confindustria Parma”</a>.
+  social_1: fab fa-twitter
+  social_1_link: https://twitter.com/luciamandelli
+  social_2: fab fa-linkedin-in
+  social_2_link: https://www.linkedin.com/in/luciamandelli/
+  social_3: fab fa-github
+  social_3_link: https://github.com/lmandelli
