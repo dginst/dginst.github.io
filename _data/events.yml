@@ -124,7 +124,7 @@
   info_link: https://dgi.io/docs/reports/2020Q1-agenda.pdf
   publish: true
 
-- title1: "Bitcoin, blockchain e crypto assets: servizi finanziari e assicurativi"
+- title1: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
   title2:
   lang: it
   date1: 2020-03-30
@@ -152,18 +152,18 @@
   info_link: https://www.tickettailor.com/events/interlogicasrl/338816
   publish: true
 
-- title1: "Bitcoin e Blockchain a Montecitorio"
+- title1: "Blockchain: l'innovazione parte dalle Università"
   title2:
   lang: it
   date1: 2020-02-25
   date2:
-  hours: 10:00-13:00
+  hours: 10:30-13:00
   img:
   img_size:
-  organizer: Blockchain Education Network
-  address: Palazzo Montecitorio, Piazza di Monte Citorio, 00186 Roma (RM)
+  organizer: Blockchain Education Network e Movimento 5 Stelle
+  address: Sala delle Conferenze Stampa di Palazzo Montecitorio, Piazza di Monte Citorio, 00186 Roma (RM)
   info: iscrizione online
-  info_link: https://www.blockchainedu.net/eventi/
+  info_link: https://partecipa.ilblogdellestelle.it/t/eventi-portavoce/c/camera-dei-deputati/blockchain-linnovazione-parte-dalle-universita/
   publish: true
 
 - title1: "Presentazione del Report DGI 2019-Q4"
