@@ -9,7 +9,7 @@ permalink: /events/
 <section id="next-events" class="events">
     <div class="container">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Next Events</h2>
+            <h2 class="section-heading">Prossimi Eventi / Next Events</h2>
             <hr class="primary">
         </div>
     </div>
@@ -28,7 +28,7 @@ permalink: /events/
                     {% if event.date2 %}
                         {% assign event_date = event.date2 | date: '%s' %}
                     {% endif %}
-                    {% if event_date >= today_date and event.publish %}
+                    {% if event_date >= today_date and event.published %}
                     <li>
                         <h4>{{ event.title1 }}
                             {% if event.title2 %}
@@ -93,10 +93,30 @@ permalink: /events/
                             {% else %}
                                 Information:
                             {% endif %}
-                            {% if event.info_link %}
-                                <a href="{{ event.info_link }}">{{ event.info }}</a>
+                            {% if event.info.link %}
+                                <a href="{{ event.info.link }}">{{ event.info.text }}</a>
                             {% else %}
-                                {{ event.info }}
+                                {{ event.info.text}}
+                            {% endif %}
+
+                            {% if event.discount_code_publish %}
+                                <br>
+                                {% if event.lang == "it" %}
+                                    Codice di sconto riservato: <em>{{ event.discount_code }}</em>
+                                {% else %}
+                                    Exclusive discount code: <em>{{ event.discount_code }}</em>
+                                {% endif %}
+                            {% endif %}
+
+                            {% if event.image.main %}
+                                <br>
+                                {% if event.info.link %}
+                                    <a href="{{ event.info.link }}">
+                                    <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="200">
+                                    </a>
+                                {% else %}
+                                    <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="200">
+                                {% endif %}
                             {% endif %}
                         </p>
                     </li>
@@ -110,7 +130,7 @@ permalink: /events/
 <section id="past-events" class="events" style="background-color:#f4f4f4;">
     <div class="container">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Past Events</h2>
+            <h2 class="section-heading">Eventi Precedenti / Past Events</h2>
             <hr class="primary">
         </div>
     </div>
