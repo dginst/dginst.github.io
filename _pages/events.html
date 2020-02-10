@@ -112,10 +112,10 @@ permalink: /events/
                                 <br>
                                 {% if event.info.link %}
                                     <a href="{{ event.info.link }}">
-                                    <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="200">
+                                    <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="{{ event.image.size }}">
                                     </a>
                                 {% else %}
-                                    <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="200">
+                                    <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="{{ event.image.size }}">
                                 {% endif %}
                             {% endif %}
                         </p>
