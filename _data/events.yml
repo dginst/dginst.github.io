@@ -202,8 +202,8 @@
   discount_code:
   discount_code_publish:
   image:
-    main:
-    size: 
+    main: 20200330-borsaitaliana.png
+    size: 200
     thumb:
   newsfeed: true
   published: true
