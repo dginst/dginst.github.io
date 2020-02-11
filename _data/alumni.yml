@@ -4,10 +4,10 @@
   pdf: https://github.com/simonecolombo/thesis-scolombo
   source: https://github.com/simonecolombo/thesis-scolombo
   thesis_date: December 2019
-  social_1: fab fa-linkedin-in
-  social_1_link: https://www.linkedin.com/in/SimoneColombo1988/
-  social_2: fab fa-github
-  social_2_link: https://github.com/simonecolombo
+  social_1: fab fa-github
+  social_1_link: https://github.com/simonecolombo
+  social_2: fab fa-linkedin-in
+  social_2_link: https://www.linkedin.com/in/SimoneColombo1988/
   
 - name: Samuele Vianello
   degree: Master Degree in Mathematical Engineerging, Politecnico di Milano
@@ -75,3 +75,6 @@
   thesis_date: March 2018
   social_1: fab fa-github
   social_1_link: https://github.com/clelli
+  social_2: fab fa-linkedin-in
+  social_2_link: https://www.linkedin.com/in/chiara-lelli-5bb648134/
+  
