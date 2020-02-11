@@ -34,12 +34,13 @@
                     Digital data can be securely timestamped though the
                     <em>attestation</em> of its <em>hash value</em>
                     in a blockchain transaction:
+                    the hash value 'uniquely' identifies the document
+                    (as if it were its digital fingerprint),
                     the transaction extends its native blockchain
                     timestamping to the included hash value,
                     therefore proving its
                     existence at a given point in time.
-                    The hash value 'uniquely' identifies the document
-                    (as if it were its digital fingerprint): as a result,
+                    As a result,
                     its blockchain attestation proves the existence of the
                     original document itself prior to the timestamp moment.
                 </p>
@@ -83,11 +84,21 @@
                 <p class="text-muted">
                     To avoid the inefficiency of one blockchain transaction
                     for every timestamp, an OpenTimestamps server
-                    provides <em>aggregation</em> of multiple hashes
-                    in a <em>Merkle tree</em>> data structure
-                    and performs their <em>attestation</em> in a single
-                    transaction (attesting only the tree root hash).
-                    <em>Aggregation before attestation</em> results in
+                    provides <em>aggregation</em> of multiple
+                    document hashes
+                    in a <em>Merkle tree</em> data structure
+                    and
+                    attests only the hash
+                    of the Merkle tree root.
+                    Since the inclusion of a 
+                    hash value <em>leaf</em> in a Merkel tree
+                    can be cryptographically proved and is
+                    part of the attestation proof,
+                    the single <em>attestation</em> 
+                    of the tree root implicitly attests
+                    all the leaves.
+                    This <em>aggregation before attestation</em>
+                    approach results in
                     almost unlimited <b>scalability</b>.
                 </p>
                 <p class="text-muted">

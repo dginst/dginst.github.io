@@ -17,13 +17,15 @@
                 <ol class="text-muted">
                     <li>
                         <details>
-                            <summary><b>Submit (the hash value of) a file for timestamping</b><br></summary>
+                            <summary><b>Submit a file for timestamping</b><br></summary>
                             When a file is dropped in the box:
                             <ol>
                                 <li>
                                     its hash value is calculated locally inside
                                     the browser without disclosing the document
-                                    to third parties, preserving privacy;
+                                    to third parties,
+                                    not even the OpenTimestamps servers,
+                                    preserving privacy;
                                 </li>
                                 <li>
                                     the hash is then submitted to multiple
@@ -34,16 +36,17 @@
                                 <li>
                                     a <em>submission receipt</em> is
                                     downloaded (as <i>.ots</i> filetype);
-                                    this is not an attestation proof yet:
-                                    it is incomplete and it cannot be verified
-                                    immediately, as it can take up to few hours
+                                    this is not the attestation proof yet:
+                                    it is incomplete and cannot be verified
+                                    immediately, as it can take up to one hour
+                                    (or even more in some circumstances)
                                     for the transaction to be included in the
                                     blockchain.
                                 </li>
                             </ol>
                             In time, the hash value will be attested in a
                             block: then, the servers it has been submitted to
-                            will be able to upgrade its submission receipt to
+                            will be able to upgrade the submission receipt to
                             attestation proof. As long as at least one server
                             is properly functioning, the timestamp is ensured.
                         </details>
