@@ -250,6 +250,27 @@
   newsfeed: true
   published: true
 
+- title1: "Il futuro del denaro"
+  title2:
+  lang: it
+  city: Milano
+  date1: 2020-02-17
+  date2:
+  hours: 17:30-19:00
+  organizer: Univesità IULM
+  address: Aula Seminari IULM 1
+  info:
+    text: Evento aperto al pubblico
+    link: https://www.iulm.it/it/news-ed-eventi/news/Il+futuro+del+denaro
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200217-iulm.png
+    size: 200
+    thumb:
+  newsfeed: true
+  published: true
+
 - title1: "Presentazione del Report DGI 2019-Q4"
   title2:
   lang: it
