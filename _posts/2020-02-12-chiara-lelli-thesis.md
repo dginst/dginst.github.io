@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Premio tesi Blockchainedu"
-subtitle: "Premiata Chiara Lelli, prima alumna DGI, per la sua tesi sulla Schnorr signature."
+subtitle: "Premiata Chiara Lelli, prima alumna DGI, per la sua tesi sulla Schnorr signature del 2017."
 author: "Staff"
 image: 
     main: 2020-02-12-chiara-lelli-thesis.jpg
