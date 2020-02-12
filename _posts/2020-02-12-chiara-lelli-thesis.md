@@ -15,7 +15,9 @@ Martedì 25 febbraio a Roma, presso *Montecitorio*, si svolgerà la conferenza �
 
 Durante la conferenza verrà premiata la [**Dott.ssa Chiara Lelli**](https://dgi.io/full-team/#alumni), **vincitrice** della *prima edizione* del “**premio tesi blockchainedu**”, bando organizzato dal BEN in cui viene premiata la miglior tesi di laurea su blockchain e criptovalute. 
 
-Il risultato raggiunto dalla Dott.ssa Lelli, prima alumna del nostro centro di ricerca nel 2017, è conferma della lungimiranza della vision di Digital Gold Institute sull'ecosistema bitcoin e blockchain.
+Il risultato raggiunto dalla Dott.ssa Lelli, prima alumna del nostro centro di ricerca nel 2017, è conferma della lungimiranza della vision di Digital Gold Institute sull'ecosistema bitcoin e blockchain. 
+
+La tesi è consultabile [qui](https://github.com/clelli/Schnorr/blob/master/tesi.pdf)
 
 Interverranno alla conferenza:
  - [**Mirella Liuzzi**](https://www.linkedin.com/in/mirellaliuzzi/) (Sottosegretario di Stato per lo Sviluppo Economico)
