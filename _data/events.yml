@@ -19,7 +19,7 @@
   newsfeed: true
   published: false
 
-- title1: "Presentazione del Report DGI 2020-Q2"
+- title1: "Presentazione del Report DGI 2020-Q3"
   title2:
   lang: it
   city: Milano
@@ -257,7 +257,7 @@
   date1: 2020-02-17
   date2:
   hours: 17:30-19:00
-  organizer: Univesità IULM
+  organizer: Università IULM
   address: Aula Seminari IULM 1
   info:
     text: Evento aperto al pubblico
@@ -307,7 +307,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main:
+    main: 20200610-cal2020.png
     size: 
     thumb:
   newsfeed: true
