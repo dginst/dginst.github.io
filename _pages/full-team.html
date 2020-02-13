@@ -99,17 +99,15 @@ permalink: /full-team/
                 </br>
                 Thesis: <em>{{ member.thesis }} </em> ({{ member.thesis_date }})
                 </br>
-                (
                     {% if member.pdf%}
-                    <a href="{{ member.pdf }}">pdf</a>
+                      <a href="{{ member.pdf }}">pdf</a>,
                     {% endif %}
                     {% if member.slides%}
-                    , <a href="{{ member.slides }}">slides</a>
+                      <a href="{{ member.slides }}">slides</a>,
                     {% endif %}
                     {% if member.source%}
-                    , <a href="{{ member.source }}">source</a>
+                      <a href="{{ member.source }}">source</a>
                     {% endif %}
-                )
                 </br>
                 {% if member.award%}
                 {{ member.award }}

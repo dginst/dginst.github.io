@@ -19,7 +19,7 @@
   newsfeed: true
   published: false
 
-- title1: "Presentazione del Report DGI 2020-Q2"
+- title1: "Presentazione del Report DGI 2020-Q3"
   title2:
   lang: it
   city: Milano
@@ -197,13 +197,13 @@
   organizer: Borsa Italiana Academy 
   address: Borsa Italiana, Piazza degli Affari 6, 20123 Milano
   info:
-    text: sul sito Borsa Italiana Academy
-    link: https://www.borsaitaliana.it/borsaitaliana/academy/formazione-academy.htm
+    text: iscrizione sul sito Borsa Italiana Academy
+    link: https://www.lseg.com/it/Blockchain2020
   discount_code:
   discount_code_publish:
   image:
-    main:
-    size: 
+    main: 20200330-borsaitaliana.png
+    size: 200
     thumb:
   newsfeed: true
   published: true
@@ -250,6 +250,27 @@
   newsfeed: true
   published: true
 
+- title1: "Il futuro del denaro"
+  title2:
+  lang: it
+  city: Milano
+  date1: 2020-02-17
+  date2:
+  hours: 17:30-19:00
+  organizer: Univesità IULM
+  address: Aula Seminari IULM 1
+  info:
+    text: Evento aperto al pubblico
+    link: https://www.iulm.it/it/news-ed-eventi/news/Il+futuro+del+denaro
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200217-iulm.png
+    size: 200
+    thumb:
+  newsfeed: true
+  published: true
+
 - title1: "Presentazione del Report DGI 2019-Q4"
   title2:
   lang: it
@@ -286,7 +307,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main:
+    main: 20200610-cal2020.png
     size: 
     thumb:
   newsfeed: true
