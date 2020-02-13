@@ -309,6 +309,6 @@
   image:
     main: 20200610-cal2020.png
     size: 
-    thumb: 20200610-cal2020.png
+    thumb:
   newsfeed: true
   published: true
