@@ -307,8 +307,8 @@
   discount_code:
   discount_code_publish:
   image:
-    main:
+    main: 20200610-cal2020.png
     size: 
-    thumb:
+    thumb: 20200610-cal2020.png
   newsfeed: true
   published: true
