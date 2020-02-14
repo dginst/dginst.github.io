@@ -95,23 +95,31 @@ permalink: /full-team/
             <p class="text-muted padding">
                 <b>{{ member.name }}</b>
                 </br>
-                {{ member.degree }}
+                {% if member.degree%}
+                    {{ member.degree }}
                 </br>
-                Thesis: <em>{{ member.thesis }} </em> ({{ member.thesis_date }})
-                </br>
-                    {% if member.pdf%}
-                      <a href="{{ member.pdf }}">pdf</a>,
-                    {% endif %}
-                    {% if member.slides%}
-                      <a href="{{ member.slides }}">slides</a>,
-                    {% endif %}
-                    {% if member.source%}
-                      <a href="{{ member.source }}">source</a>
-                    {% endif %}
-                </br>
+                {% endif %}
+                {% if member.thesis%}
+                    Thesis: <em>{{ member.thesis }} </em> ({{ member.thesis_date }})
+                    </br>
+                        {% if member.pdf%}
+                        <a href="{{ member.pdf }}">pdf</a>,
+                        {% endif %}
+                        {% if member.slides%}
+                        <a href="{{ member.slides }}">slides</a>,
+                        {% endif %}
+                        {% if member.source%}
+                        <a href="{{ member.source }}">source</a>
+                        {% endif %}
+                    </br>
+                {% endif %}
                 {% if member.award%}
-                {{ member.award }}
-                </br>
+                    {{ member.award }}
+                    </br>
+                {% endif %}
+                {% if member.research%}
+                    Research: <em>{{ member.research }} </em> ({{ member.research_date }})
+                    </br>
                 {% endif %}
                 {% if member.social_1%}
                 <a href="{{ member.social_1_link }}">
