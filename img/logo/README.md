@@ -5,17 +5,17 @@ subtitle: "Different versions of our logo and icon"
 permalink: /logo/
 ---
 
-### Color
-
-Our gold is:
+### Our gold color is
 
 * RGB 241 175 9
 * HEX f1af09  
 * CMYK 0 27 96 5
 
-### Font
+### Our font is
 
-Our font is Play, the uppercase i is actually a lowercase l
+* [Play](https://fonts.google.com/specimen/Play) ([ttf](https://github.com/google/fonts/tree/master/ofl/play))
+
+Nothe that the uppercase i in _Institute_ is actually a lowercase l
 
 ## Logos
 
