@@ -1,7 +1,7 @@
 ---
 layout: readme
 title: "DGI Logo and Icon"
-subtitle: "Different versions of our logo and icon"
+subtitle: "Detaild about DGI logo and icon"
 permalink: /logo/
 ---
 
@@ -15,7 +15,7 @@ permalink: /logo/
 
 * [Play](https://fonts.google.com/specimen/Play) ([ttf](https://github.com/google/fonts/tree/master/ofl/play))
 
-Nothe that the uppercase i in _Institute_ is actually a lowercase l
+Note that the uppercase i in Institute is actually a lowercase l
 
 ## Logos
 
