@@ -22,11 +22,11 @@ permalink: /events/
         <div class="row col-lg-8 col-lg-offset-2">
             {% assign events = site.data.events | sort: 'date1' %}            
             <ul>
-                {% assign today_date = 'today' | date: '%s' %}
+                {% assign today_date = 'today' | date: '%y %m %d' %}
                 {% for event in events %}
-                    {% assign event_date = event.date1 | date: '%s' %}
+                    {% assign event_date = event.date1 | date: '%y %m %d' %}
                     {% if event.date2 %}
-                        {% assign event_date = event.date2 | date: '%s' %}
+                        {% assign event_date = event.date2 | date: '%y %m %d' %}
                     {% endif %}
                     {% if event_date >= today_date and event.published %}
                     <li>
@@ -143,11 +143,11 @@ permalink: /events/
         <div class="row col-lg-8 col-lg-offset-2">
             {% assign events = site.data.events | sort: 'date1' | reverse %}            
             <ul>
-                {% assign today_date = 'today' | date: '%s' %}
+                {% assign today_date = 'today' | date: '%y %m %d' %}
                 {% for event in events %}
-                    {% assign event_date = event.date1 | date: '%s' %}
+                    {% assign event_date = event.date1 | date: '%y %m %d' %}
                     {% if event.date2 %}
-                        {% assign event_date = event.date2 | date: '%s' %}
+                        {% assign event_date = event.date2 | date: '%y %m %d' %}
                     {% endif %}
                     {% if event_date < today_date %}
                     <li>
