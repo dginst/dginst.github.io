@@ -27,7 +27,7 @@ notice on the homepage of our web site for a period of time after the change is 
 ## About privacy on other web sites
 
 This web site may contain links to other web sites. Some of those web sites may be
-operated by by third parties. We provide the links for your convenience, but we do
+operated by third parties. We provide the links for your convenience, but we do
 not review, control, or monitor the privacy practices of web sites operated by
 others.
 
