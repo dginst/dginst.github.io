@@ -4,15 +4,16 @@ title: "Privacy Statement"
 permalink: /privacy/
 ---
 
-The Digital Gold Institute
-is committed to protecting the privacy and
-accuracy of confidential information to the extent possible,
-subject to provisions of law.
-
 ## Concerned about privacy? We are too
 
-Although there are many applications and websites that collect information and
-other statistics about their users, we *DO NOT* collect any personal information
+The Digital Gold Institute
+is committed to protecting the privacy and accuracy
+of confidential information to the extent possible,
+subject to provisions of law.
+
+Although there are many applications and websites
+that collect information and other statistics about their users,
+we **DO NOT** collect any personal information
 about you when you visit this web site.
 
 ## Privacy statement changes
