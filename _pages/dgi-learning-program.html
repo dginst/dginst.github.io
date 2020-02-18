@@ -1,0 +1,164 @@
+---
+layout: page
+title: DGI Learning Program
+description: Corso di alta formazione su Bitcoin e Blockchain.
+permalink: /learningprogram/
+---
+<header>
+    <div class="bg-wrap">
+        <div class="bg" style="background-image: url('../img/events/dgilearningprogram-header.jpg');">
+        </div>
+    </div>
+    <div class="header-content">
+        <div class="header-content-inner">
+            <h1><em>DGI Learning Program</em></h1>
+            <p>
+                Corso di alta formazione sull'ecosistema Bitcoin e Blockchain<br>
+            </p>
+            <br>
+            <h2>Milano</h2>
+            <h2>21-22 Aprile 2020</h2>
+            <br>
+            <div class="col-lg-12 text-center">
+                <a href="#learningprogram-application" class="btn btn-primary btn-xl page-scroll">Iscriviti Ora</a>
+            </div>
+            <br>
+            <!--<a href="#learningprogram-participants" class="page-scroll">
+                <button class="btn btn-primary">
+                    <i class="fa fa-angle-down fa-2x"></i>
+                </button>
+            </a-->  
+        </div>
+    </div>
+</header>
+<section id="learningprogram-content" class="learningprogram-content" style="background-color:#f4f4f4;">
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
+                <h2 class="section-heading">Di cosa si tratta</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <p class="text-muted">
+                to be defined
+            </p>
+        </div>
+    </div>
+</section>
+<section id="learningprogram-participants" class="learningprogram-participants">
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
+                <h2 class="section-heading">A chi si rivolge</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <p class="text-muted">
+                to be defined
+            </p>
+        </div>
+    </div>
+</section>
+<section id="learningprogram-application" class="learningprogram-application" style="background-color:#f4f4f4;">
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
+                <h2 class="section-heading">Come partecipare</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <p class="text-muted">
+                to be defined
+            </p>
+        </div>
+    </div>
+</section>
+<section id="learningprogram-speakers" class="learningprogram-speakers">
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <div class="text-center">
+                <h2 class="section-heading">I relatori</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            {% for member in site.data.directors %}
+            {% if member.training==true %}
+            <div class="col-lg-3 col-md-11 text-center">
+                <img class="mx-auto rounded-circle" src="{{ site.baseurl }}/{{ member.photo }}" alt="{{ member.photo_name }}" width=130>
+                <h4>{{ member.name }}</h4>
+                <p class="text-muted">{{ member.role }}</p>
+                {% if  member.social_1 %}
+                <ul class="list-inline social-buttons">
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_1_link }}">
+                            <i class="{{ member.social_1 }}"></i>
+                        </a>
+                    </li>
+                    {% if member.social_2 %}
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_2_link }}">
+                            <i class="{{ member.social_2 }}"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if member.social_3 %}
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_3_link }}">
+                            <i class="{{ member.social_3 }}"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if member.social_4 %}
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_4_link }}">
+                            <i class="{{ member.social_4 }}"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if member.social_5 %}
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_5_link }}">
+                            <i class="{{ member.social_5 }}"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if member.social_6 %}
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_6_link }}">
+                            <i class="{{ member.social_6 }}"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if member.social_7 %}
+                    <li class="list-inline-item">
+                        <a href="{{ member.social_7_link }}">
+                            <i class="{{ member.social_7 }}"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+                {% endif %}
+                <p class="text-muted text-center text-small">
+                {{ member.desc }}
+                </p>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <div class="col-lg-12 text-center">
+            <a href="{{ site.baseurl }}/" class="btn btn-primary btn-xl page-scroll">Scopri Digital Gold Institute</a>
+        </div>
+    </div>
+</section>
