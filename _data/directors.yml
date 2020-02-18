@@ -17,6 +17,7 @@
   social_6_link: http://medium.com/@nando1970
   social_7: fas fa-globe
   social_7_link: http://ametrano.net/
+  training: true
 
 - name: Eric Ehlers
   role: Technical Officer
@@ -29,6 +30,7 @@
   social_2_link: https://www.linkedin.com/in/eric-ehlers-9ba682/
   social_3: fab fa-github
   social_3_link: https://github.com/eehlers
+  training: false
 
 - name: Paolo Mazzocchi
   role: Operating Officer
@@ -41,6 +43,7 @@
   social_2_link: https://www.linkedin.com/in/paolo-mazzocchi-6672a591/
   social_3: fab fa-github
   social_3_link: https://github.com/pmazzocchi
+  training: true
 
 - name: Lucia Mandelli
   role: Business Developer
@@ -53,3 +56,4 @@
   social_2_link: https://www.linkedin.com/in/luciamandelli/
   social_3: fab fa-github
   social_3_link: https://github.com/lmandelli
+  training: false
