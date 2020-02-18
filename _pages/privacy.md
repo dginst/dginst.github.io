@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: readme
 title: "Privacy Statement"
 permalink: /privacy/
 ---
 
-The Digital Gold Institute is committed to protecting the privacy and
+The Digital Gold Institute
+is committed to protecting the privacy and
 accuracy of confidential information to the extent possible,
 subject to provisions of law.
 
