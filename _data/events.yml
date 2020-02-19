@@ -1,10 +1,10 @@
-- title1: "Workshops:"
-  title2: "1. Introduzione a Bitcoin e blockchain<br>2. Aspetti tecnici di Bitcoin e blockchain"
+- title1: "Bitcoin e blockchain:"
+  title2: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
   city: Milano
   date1: 2020-10-20
   date2: 2020-10-21
-  hours: 9:30-17:30
+  hours: 9:00-17:30
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
@@ -40,13 +40,13 @@
   newsfeed: true
   published: false
 
-- title1: "Workshops:"
-  title2: "1. Introduzione a Bitcoin e blockchain<br>2. Aspetti tecnici di Bitcoin e blockchain"
+- title1: "Bitcoin e blockchain:"
+  title2: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
   city: Milano
   date1: 2020-07-21
   date2: 2020-07-22
-  hours: 9:30-17:30
+  hours: 9:00-17:30
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
@@ -124,13 +124,13 @@
   newsfeed: true
   published: false
 
-- title1: "Workshops:"
-  title2: "1. Introduzione a Bitcoin e blockchain<br>2. Aspetti tecnici di Bitcoin e blockchain"
+- title1: "Bitcoin e blockchain:"
+  title2: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
   city: Milano
   date1: 2020-04-21
   date2: 2020-04-22
-  hours: 9:30-17:30
+  hours: 9:00-17:30
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
