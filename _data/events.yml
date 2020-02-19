@@ -1,314 +1,314 @@
-- title1: "Bitcoin e blockchain:"
-  title2: "1. Introduzione<br>2. Aspetti tecnici"
+- title: "Bitcoin e blockchain"
+  subtitle: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
   city: Milano
-  date1: 2020-10-20
+  date: 2020-10-20
   date2: 2020-10-21
   hours: 9:00-17:30
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: vedi programma
-    link: http://dgi.io/workshop
+    url: http://dgi.io/workshop
   discount_code:
   discount_code_publish:
   image:
     main:
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: true
   published: false
 
-- title1: "Presentazione del Report 2020-Q3"
-  title2:
+- title: "Presentazione del Report 2020-Q3"
+  subtitle:
   lang: it
   city: Milano
-  date1: 2020-10-06
+  date: 2020-10-06
   date2:
   hours: 16:00-18:00
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: evento ad invito
-    link: http://dgi.io/docs/reports/2020Q3-agenda.pdf
+    url: http://dgi.io/docs/reports/2020Q3-agenda.pdf
   discount_code:
   discount_code_publish:
   image:
     main:
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: false
   published: false
 
-- title1: "Bitcoin e blockchain:"
-  title2: "1. Introduzione<br>2. Aspetti tecnici"
+- title: "Bitcoin e blockchain"
+  subtitle: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
   city: Milano
-  date1: 2020-07-21
+  date: 2020-07-21
   date2: 2020-07-22
   hours: 9:00-17:30
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: vedi programma
-    link: http://dgi.io/workshop
+    url: http://dgi.io/workshop
   discount_code:
   discount_code_publish:
   image:
     main:
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: true
   published: false
 
-- title1: "Presentazione del Report 2020-Q2"
-  title2:
+- title: "Presentazione del Report 2020-Q2"
+  subtitle:
   lang: it
   city: Milano
-  date1: 2020-07-07
+  date: 2020-07-07
   date2:
   hours: 16:00-18:00
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: evento ad invito
-    link: http://dgi.io/docs/reports/2020Q2-agenda.pdf
+    url: http://dgi.io/docs/reports/2020Q2-agenda.pdf
   discount_code:
   discount_code_publish:
   image:
     main:
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: false
   published: false
 
-- title1: "2nd Crypto Asset Lab Conference"
-  title2:
+- title: "2nd Crypto Asset Lab Conference"
+  subtitle:
   lang: en
-  city: Milan
-  date1: 2020-06-10
+  city: Milan (Italy)
+  date: 2020-06-10
   date2:
   hours: 9:30-17:30
   organizer: Crypto Asset Lab (University of Milano-Bicocca)
   address: University of Milano-Bicocca, Building U12, Via Vizzola 5, 20126 Milan (Italy)
   info:
     text: conference web-page
-    link: https://cryptoassetlab.diseade.unimib.it/cal2020/
+    url: https://cryptoassetlab.diseade.unimib.it/cal2020/
   discount_code:
   discount_code_publish:
   image:
     main: 20200610-cal2020.png
     size: 100
-    thumb: 
-  newsfeed: true
+    thumb: 20200610-cal2020.png
+  eventfeed: true
   published: true
 
-- title1: "Dal sesterzio a Bitcoin"
-  title2:
+- title: "Dal sesterzio a Bitcoin"
+  subtitle:
   lang: it
   city: Padova
-  date1: 2020-05-05
+  date: 2020-05-05
   date2:
   hours: 10:00-13:00
   organizer: Museo Bottacin
   address: Sala del Medagliere, Museo Bottacin, Corso Garibaldi 33, 35121 Padova
   info:
     text: tramite Museo Bottacin
-    link:
+    url:
   discount_code:
   discount_code_publish:
   image:
     main:
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: false
   published: false
 
-- title1: "Bitcoin e blockchain:"
-  title2: "1. Introduzione<br>2. Aspetti tecnici"
+- title: "Bitcoin e blockchain"
+  subtitle: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
   city: Milano
-  date1: 2020-04-21
+  date: 2020-04-21
   date2: 2020-04-22
   hours: 9:00-17:30
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: vedi programma
-    link: http://dgi.io/workshop
+    url: http://dgi.io/workshop
   discount_code:
   discount_code_publish:
   image:
     main:
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: true
   published: true
 
-- title1: "Dal sesterzio a Bitcoin"
-  title2:
+- title: "Dal sesterzio a Bitcoin"
+  subtitle:
   lang: it
   city: Padova
-  date1: 2020-04-18
+  date: 2020-04-18
   date2:
   hours: 10:00-12:00
   organizer: Museo Bottacin
   address: Sala del Romanino, Musei agli Eremitani, Piazza Eremitani 8, 35121 Padova
   info:
     text: tramite Museo Bottacin
-    link:
+    url:
   discount_code:
   discount_code_publish:
   image:
     main:
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: false
   published: false
 
-- title1: "Presentazione del Report 2020-Q1"
-  title2:
+- title: "Presentazione del Report 2020-Q1"
+  subtitle:
   lang: it
   city: Milano
-  date1: 2020-04-07
+  date: 2020-04-07
   date2:
   hours: 16:00-18:00
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: evento ad invito
-    link: http://dgi.io/docs/reports/2020Q1-agenda.pdf
+    url: http://dgi.io/docs/reports/2020Q1-agenda.pdf
   discount_code:
   discount_code_publish:
   image:
     main: 20200407-report-2020q1.png
     size: 200
     thumb:
-  newsfeed: true
+  eventfeed: false
   published: true
 
-- title1: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
-  title2:
+- title: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
+  subtitle:
   lang: it
   city: Milano
-  date1: 2020-03-30
+  date: 2020-03-30
   date2:
   hours: 9:30-17:30
   organizer: Borsa Italiana Academy
   address: Borsa Italiana, Piazza degli Affari 6, 20123 Milano
   info:
     text: iscrizione sul sito Borsa Italiana Academy
-    link: https://www.lseg.com/it/Blockchain2020
+    url: https://www.lseg.com/it/Blockchain2020
   discount_code:
   discount_code_publish:
   image:
     main: 20200330-borsaitaliana.png
     size: 200
-    thumb:
-  newsfeed: true
+    thumb: 20200330-borsaitaliana.png
+  eventfeed: false
   published: true
 
-- title1: "Bitcoin Venezia Meetup | Re-Start"
-  title2:
+- title: "Bitcoin Venezia Meetup | Re-Start"
+  subtitle:
   lang: it
   city: Mestre
-  date1: 2020-02-28
+  date: 2020-02-28
   date2:
   hours: 19:00-22:30
   organizer: Interlogica
   address: Auditorium Mainardi, Campus Scientifico Ca' Foscari, Via Torino 155, 30172 Mestre (VE)
   info:
     text: iscrizione online
-    link: https://www.tickettailor.com/events/interlogicasrl/338816
+    url: https://www.tickettailor.com/events/interlogicasrl/338816
   discount_code: B1tco1nM33tup
   discount_code_publish: true
   image:
     main: 20200228-ametrano.jpg
     size: 200
-    thumb:
-  newsfeed: true
+    thumb: 20200228-ametrano.jpg
+  eventfeed: true
   published: true
 
-- title1: "Blockchain: l'innovazione parte dalle Università"
-  title2:
+- title: "Blockchain: l'innovazione parte dalle Università"
+  subtitle:
   lang: it
   city: Roma
-  date1: 2020-02-25
+  date: 2020-02-25
   date2:
   hours: 10:30-13:00
-  organizer: Blockchain Education Network e M5S
+  organizer: Blockchain Education Network
   address: Sala delle Conferenze Stampa di Palazzo Montecitorio, Piazza di Monte Citorio, 00186 Roma (RM)
   info:
     text: iscrizione online
-    link: https://partecipa.ilblogdellestelle.it/t/eventi-portavoce/c/camera-dei-deputati/blockchain-linnovazione-parte-dalle-universita/
+    url: https://partecipa.ilblogdellestelle.it/t/eventi-portavoce/c/camera-dei-deputati/blockchain-linnovazione-parte-dalle-universita/
   discount_code:
   discount_code_publish:
   image:
     main: 20200225-ben.jpg
     size: 200
-    thumb:
-  newsfeed: true
+    thumb: 20200225-ben.jpg
+  eventfeed: true
   published: true
 
-- title1: "Il futuro del denaro"
-  title2:
+- title: "Il futuro del denaro"
+  subtitle:
   lang: it
   city: Milano
-  date1: 2020-02-17
+  date: 2020-02-17
   date2:
   hours: 17:30-19:00
   organizer: Università IULM
   address: Aula Seminari IULM 1
   info:
     text: Evento aperto al pubblico
-    link: https://www.iulm.it/it/news-ed-eventi/news/Il+futuro+del+denaro
+    url: https://www.iulm.it/it/news-ed-eventi/news/Il+futuro+del+denaro
   discount_code:
   discount_code_publish:
   image:
     main: 20200217-iulm.png
     size: 200
     thumb:
-  newsfeed: true
+  eventfeed: true
   published: true
 
-- title1: "Presentazione del Report 2019-Q4"
-  title2:
+- title: "Presentazione del Report 2019-Q4"
+  subtitle:
   lang: it
   city: Milano
-  date1: 2020-01-28
+  date: 2020-01-28
   date2:
   hours: 16:00-18:00
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: evento ad invito
-    link: http://dgi.io/2020/01/31/report-q4.html
+    url: http://dgi.io/2020/01/31/report-q4.html
   discount_code:
   discount_code_publish:
   image:
     main:
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: true
   published: true
 
-- title1: "Conferenza di presentazione del Crypto Asset Lab"
-  title2:
+- title: "Conferenza di presentazione del Crypto Asset Lab"
+  subtitle:
   lang: it
   city: Milano
-  date1: 2019-06-05
+  date: 2019-06-05
   date2:
   hours: 14:30-18:00
   organizer: Crypto Asset Lab (Università di Milano-Bicocca)
   address: Università di Milano-Bicocca, Edificio U12, Via Vizzola 5, 20126 Milano
   info:
     text: tramite il Crypto Asset Lab
-    link: https://cryptoassetlab.diseade.unimib.it/2019/06/12/conference.html
+    url: https://cryptoassetlab.diseade.unimib.it/2019/06/12/conference.html
   discount_code:
   discount_code_publish:
   image:
     main: 20200610-cal2020.png
     size: 
     thumb:
-  newsfeed: true
+  eventfeed: true
   published: true

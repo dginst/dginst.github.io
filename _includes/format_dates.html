@@ -1,0 +1,33 @@
+{% if include.date2 %}
+    {% assign m1 = include.date | date: "%-m" | minus: 1 %}
+    {% assign m2 = include.date2 | date: "%-m" | minus: 1 %}
+    {% if include.lang == "it" %}
+        {% if m1 != m2 %}
+            {{ include.date | date: "%-d" }}
+            {{ site.data.it.months[m1] }} - 
+            {{ include.date2 | date: "%-d" }}
+            {{ site.data.it.months[m2] }}
+        {% else %}
+            {{ include.date | date: "%-d" }}-{{ include.date2 | date: "%-d"}}
+            {{ site.data.it.months[m1] }}
+        {% endif %}
+        {{ include.date | date: "%Y" }}
+    {% else %}
+        {% if m1 != m2 %}
+            {{ include.date | date: "%B %-d" }} - {{ include.date2 | date: "%B %-d, %Y" }}
+        {% else %}
+            {{ include.date | date: "%B %-d" }}-{{ include.date2 | date: "%-d, %Y" }}
+        {% endif %}
+    {% endif %}
+{% else %}
+    {% if include.lang == "it" %}
+        {% assign m = include.date | date: "%-m" | minus: 1 %}
+        {% assign w = include.date | date: "%w" | minus: 0  %}
+        {{ site.data.it.weekdays[w] }}
+        {{ include.date | date: "%-d" }}
+        {{ site.data.it.months[m] }}
+        {{ include.date | date: "%Y" }}
+    {% else %}
+        {{ include.date | date: "%A, %B %-d, %Y" }}
+    {% endif %}
+{% endif %}

@@ -20,55 +20,24 @@ permalink: /events/
     <div-->
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
-            {% assign events = site.data.events | sort: 'date1' %}            
+            {% assign events = site.data.events | sort: 'date' %}
+            {% assign today_date = 'today' | date: '%y %m %d' %}
             <ul>
-                {% assign today_date = 'today' | date: '%y %m %d' %}
                 {% for event in events %}
-                    {% assign event_date = event.date1 | date: '%y %m %d' %}
+                    {% assign event_date = event.date | date: '%y %m %d' %}
                     {% if event.date2 %}
                         {% assign event_date = event.date2 | date: '%y %m %d' %}
                     {% endif %}
                     {% if event_date >= today_date and event.published %}
                     <li>
-                        <h4>{{ event.title1 }}
-                            {% if event.title2 %}
-                                <br>{{ event.title2 }}
+                        <h4>{{ event.title }}
+                            {% if event.subtitle %}
+                                <br>{{ event.subtitle }}
                             {% endif %}
                         </h4>
                         <p class="text-muted">
-                            {% if event.date2 %}
-                                {% assign m1 = event.date1 | date: "%-m" | minus: 1 %}
-                                {% assign m2 = event.date2 | date: "%-m" | minus: 1 %}
-                                {% if event.lang == "it" %}
-                                    {% if m1 != m2 %}
-                                        {{ event.date1 | date: "%-d" }}
-                                        {{ site.data.it.months[m1] }} - 
-                                        {{ event.date2 | date: "%-d" }}
-                                        {{ site.data.it.months[m2] }}
-                                    {% else %}
-                                        {{ event.date1 | date: "%-d" }}-{{ event.date2 | date: "%-d"}}
-                                        {{ site.data.it.months[m1] }}
-                                    {% endif %}
-                                    {{ event.date1 | date: "%Y" }}
-                                {% else %}
-                                    {% if m1 != m2 %}
-                                        {{ event.date1 | date: "%B %-d" }} - {{ event.date2 | date: "%B %-d, %Y" }}
-                                    {% else %}
-                                        {{ event.date1 | date: "%B %-d" }}-{{ event.date2 | date: "%-d, %Y" }}
-                                    {% endif %}
-                                {% endif %}
-                            {% else %}
-                                {% if event.lang == "it" %}
-                                    {% assign m = event.date1 | date: "%-m" | minus: 1 %}
-                                    {% assign w = event.date1 | date: "%w" | minus: 0  %}
-                                    {{ site.data.it.weekdays[w] | capitalize }},
-                                    {{ event.date1 | date: "%-d" }}
-                                    {{ site.data.it.months[m] }}
-                                    {{ event.date1 | date: "%Y" }}
-                                {% else %}
-                                    {{ event.date1 | date: "%A, %B %-d, %Y" }}
-                                {% endif %}
-                            {% endif %}
+                            {{ event.city }},
+                            {% include format_dates.html date=event.date date2=event.date2 lang=event.lang %}
                             {% if event.hours %}
                                 ({{ event.hours }})
                             {% endif %}
@@ -93,8 +62,8 @@ permalink: /events/
                             {% else %}
                                 Information:
                             {% endif %}
-                            {% if event.info.link %}
-                                <a href="{{ event.info.link }}">{{ event.info.text }}</a>
+                            {% if event.info.url %}
+                                <a href="{{ event.info.url }}">{{ event.info.text }}</a>
                             {% else %}
                                 {{ event.info.text}}
                             {% endif %}
@@ -110,8 +79,8 @@ permalink: /events/
 
                             {% if event.image.main %}
                                 <br>
-                                {% if event.info.link %}
-                                    <a href="{{ event.info.link }}">
+                                {% if event.info.url %}
+                                    <a href="{{ event.info.url }}">
                                     <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="{{ event.image.size }}">
                                     </a>
                                 {% else %}
@@ -141,55 +110,24 @@ permalink: /events/
     <div-->
     <div class="container">
         <div class="row col-lg-8 col-lg-offset-2">
-            {% assign events = site.data.events | sort: 'date1' | reverse %}            
+            {% assign events = site.data.events | sort: 'date' | reverse %}            
+            {% assign today_date = 'today' | date: '%y %m %d' %}
             <ul>
-                {% assign today_date = 'today' | date: '%y %m %d' %}
                 {% for event in events %}
-                    {% assign event_date = event.date1 | date: '%y %m %d' %}
+                    {% assign event_date = event.date | date: '%y %m %d' %}
                     {% if event.date2 %}
                         {% assign event_date = event.date2 | date: '%y %m %d' %}
                     {% endif %}
                     {% if event_date < today_date %}
                     <li>
-                        <h4>{{ event.title1 }}
-                            {% if event.title2 %}
-                                <br>{{ event.title2 }}
+                        <h4>{{ event.title }}
+                            {% if event.subtitle %}
+                                <br>{{ event.subtitle }}
                             {% endif %}
                         </h4>
                         <p class="text-muted">
-                            {% if event.date2 %}
-                                {% assign m1 = event.date1 | date: "%-m" | minus: 1 %}
-                                {% assign m2 = event.date2 | date: "%-m" | minus: 1 %}
-                                {% if event.lang == "it" %}
-                                    {% if m1 != m2 %}
-                                        {{ event.date1 | date: "%-d" }}
-                                        {{ site.data.it.months[m1] }} - 
-                                        {{ event.date2 | date: "%-d" }}
-                                        {{ site.data.it.months[m2] }}
-                                    {% else %}
-                                        {{ event.date1 | date: "%-d" }}-{{ event.date2 | date: "%-d"}}
-                                        {{ site.data.it.months[m1] }}
-                                    {% endif %}
-                                    {{ event.date1 | date: "%Y" }}
-                                {% else %}
-                                    {% if m1 != m2 %}
-                                        {{ event.date1 | date: "%B %-d" }} - {{ event.date2 | date: "%B %-d, %Y" }}
-                                    {% else %}
-                                        {{ event.date1 | date: "%B %-d" }}-{{ event.date2 | date: "%-d, %Y" }}
-                                    {% endif %}
-                                {% endif %}
-                            {% else %}
-                                {% if event.lang == "it" %}
-                                    {% assign m = event.date1 | date: "%-m" | minus: 1 %}
-                                    {% assign w = event.date1 | date: "%w" | minus: 0  %}
-                                    {{ site.data.it.weekdays[w] | capitalize }},
-                                    {{ event.date1 | date: "%-d" }}
-                                    {{ site.data.it.months[m] }}
-                                    {{ event.date1 | date: "%Y" }}
-                                {% else %}
-                                    {{ event.date1 | date: "%A, %B %-d, %Y" }}
-                                {% endif %}
-                            {% endif %}
+                            {{ event.city }},
+                            {% include format_dates.html date=event.date date2=event.date2 lang=event.lang %}
                             {% if event.hours %}
                                , {{ event.hours }}
                             {% endif %}
