@@ -1,5 +1,5 @@
 - title1: "DGI Training Program:"
-  title2: "1. Introduzione a Bitcoin e Blockchain<br>2. Aspetti tecnici di Bitcoin e Blockchain"
+  title2: "1. Introduzione a Bitcoin e blockchain<br>2. Aspetti tecnici di Bitcoin e blockchain"
   lang: it
   city: Milano
   date1: 2020-10-20
@@ -8,8 +8,8 @@
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
-    text: in arrivo...
-    link:
+    text: vedi programma
+    link: http://dgi.io/workshop
   discount_code:
   discount_code_publish:
   image:
@@ -30,7 +30,7 @@
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: evento ad invito
-    link: https://dgi.io/docs/reports/2020Q3-agenda.pdf
+    link: http://dgi.io/docs/reports/2020Q3-agenda.pdf
   discount_code:
   discount_code_publish:
   image:
@@ -41,7 +41,7 @@
   published: false
 
 - title1: "DGI Training Program:"
-  title2: "1. Introduzione a Bitcoin e Blockchain<br>2. Aspetti tecnici di Bitcoin e Blockchain"
+  title2: "1. Introduzione a Bitcoin e blockchain<br>2. Aspetti tecnici di Bitcoin e blockchain"
   lang: it
   city: Milano
   date1: 2020-07-21
@@ -50,8 +50,8 @@
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
-    text: in arrivo...
-    link:
+    text: vedi programma
+    link: http://dgi.io/workshop
   discount_code:
   discount_code_publish:
   image:
@@ -72,7 +72,7 @@
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: evento ad invito
-    link: https://dgi.io/docs/reports/2020Q2-agenda.pdf
+    link: http://dgi.io/docs/reports/2020Q2-agenda.pdf
   discount_code:
   discount_code_publish:
   image:
@@ -125,7 +125,7 @@
   published: false
 
 - title1: "DGI Training Program:"
-  title2: "1. Introduzione a Bitcoin e Blockchain<br>2. Aspetti tecnici di Bitcoin e Blockchain"
+  title2: "1. Introduzione a Bitcoin e blockchain<br>2. Aspetti tecnici di Bitcoin e blockchain"
   lang: it
   city: Milano
   date1: 2020-04-21
@@ -134,8 +134,8 @@
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
-    text: in arrivo...
-    link:
+    text: vedi programma
+    link: http://dgi.io/workshop
   discount_code:
   discount_code_publish:
   image:
@@ -177,7 +177,7 @@
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: evento ad invito
-    link: https://dgi.io/docs/reports/2020Q1-agenda.pdf
+    link: http://dgi.io/docs/reports/2020Q1-agenda.pdf
   discount_code:
   discount_code_publish:
   image:
@@ -194,7 +194,7 @@
   date1: 2020-03-30
   date2:
   hours: 9:30-17:30
-  organizer: Borsa Italiana Academy 
+  organizer: Borsa Italiana Academy
   address: Borsa Italiana, Piazza degli Affari 6, 20123 Milano
   info:
     text: iscrizione sul sito Borsa Italiana Academy
@@ -282,7 +282,7 @@
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
   info:
     text: evento ad invito
-    link: https://dgi.io/2020/01/31/report-q4.html
+    link: http://dgi.io/2020/01/31/report-q4.html
   discount_code:
   discount_code_publish:
   image:
