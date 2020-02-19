@@ -14,90 +14,30 @@
                 <div class="service-box">
                     <i class="fab fa-4x fa-btc wow bounceIn text-primary"></i>
                     <h3>Bitcoin: Digital Gold</h3>
-                    <p class="text-muted">
-                        The most successful attempt at creating
-                        <em>scarcity in the digital realm</em>
-                        without a trusted third party,
-                        Bitcoin is a bearer asset that can be
-                        transferred over computer networks but not duplicated.
-                        Accessible to anyone, 
-                        it is <em>intrinsic to a peculiar uncensorable
-                        distributed settlement ledger</em>,
-                        updated with cryptographic techniques
-                        and secured by large amounts of energy
-                        in the form of computational work.
-                        Bitcoin is the digital equivalent of gold,
-                        disruptive for our current digital civilization
-                        and the future of money and finance.
-                        More a crypto-commodity then a crypto-currency,
-                        Bitcoin aims to be world reserve asset. 
-                    </p>
+                    {% include bitcoin_header.html %}
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 text-center">
                 <div class="service-box">
                     <i class="fas fa-4x fa-link wow bounceIn text-primary" data-wow-delay=".1s"></i>
                     <h3>Blockchain: Hype or Reality?</h3>
-                    <p class="text-muted">
-                        Blockchain is an append-only sequential data structure:
-                        to change a block in the middle of the chain all
-                        subsequent blocks need to be changed.
-                        Very inefficient if compared to a
-                        relational database, it is mostly an idiosyncratic
-                        technology for digital scarcity.
-                        Indeed, <em>blockchain requires an
-                        intrinsic native digital asset</em>
-                        to provide the economic incentives for the
-                        blockchain maintainers to be honest. 
-                        Without the seigniorage revenues associated to its
-                        native asset, a blockchain system would need to select
-                        and appoint its maintainers,
-                        ultimately resorting to central governance.
-                    </p>
+                    {% include blockchain_header.html %}
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-lg-6 col-md-6 text-center">
                 <div class="service-box">
                     <i class="fas fa-4x fa-stamp wow bounceIn text-primary" data-wow-delay=".2s"></i>
-                    <!--img src="{{ site.baseurl }}/img/ots/logo.svg" width="60" data-wow-delay=".2s" /-->
                     <h3>Beyond Bitcoin: Timestamping</h3>
-                    <p class="text-muted">
-                        A timestamp demonstrates that a document existed in a
-                        specific status prior to a given point in time.
-                        Digital data can be securely timestamped though the
-                        <em>attestation</em> of its <em>hash value</em>
-                        in a blockchain transaction.
-                        <em>OpenTimestamps</em>
-                        is a vendor-independent open protocol that defines a
-                        set of operations for creating
-                        <a href="{{ site.baseurl }}/ots"><em>provable blockchain
-                        timestamps</em></a> and later independently verifying them;
-                        as such, it allows for third party auditability and
-                        is suitable for regulatory prescriptions.
-                        What jewelry is for gold, timestamping could be for Bitcoin:
-                        not essential but effective at leveraging its beauty.
-                    </p>
+                    {% include timestamping_header.html %}
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 text-center">
                 <div class="service-box">
-                    <!--i class="fas fa-4x fa-coins wow bounceIn text-primary" data-wow-delay=".3s"></i-->
-                    <!--i class="fas fa-4x fa-university wow bounceIn text-primary" data-wow-delay=".3s"></i-->
-                    <i class="fas fa-4x fa-landmark wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                    <i class="fas fa-4x fa-coins wow bounceIn text-primary" data-wow-delay=".3s"></i>
                     <h3>Financial Services for Crypto</h3>
-                    <p class="text-muted">
-                        The most promising field,
-                        instead of
-                        technological applications of blockchain,
-                        is the development of
-                        <em>financial services</em> for crypto assets:
-                        those tools, practices, and facilities
-                        (primarily custody)
-                        needed by institutional investors
-                        and high-net-worth individuals.
-                        Finance might not need blockchain, but the
-                        blockchain economy does need new financial services.
-                    </p>
+                    {% include cryptofinance_header.html %}
                 </div>
             </div>
         </div>
@@ -105,7 +45,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-message"><em>Digital Gold Is What Matters</em></h2>
+                <h2 class="section-message"><em>Vision Makes A Difference</em></h2>
             </div>
         </div>
     </div>
