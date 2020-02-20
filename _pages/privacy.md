@@ -1,5 +1,6 @@
 ---
 layout: readme
+lang: en
 title: "Privacy Statement"
 permalink: /privacy/
 ---
