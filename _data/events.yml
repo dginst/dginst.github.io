@@ -16,7 +16,7 @@
     main:
     size: 
     thumb:
-  eventfeed: true
+  eventfeed: false
   published: false
 
 - title: "Presentazione del Report 2020-Q3"
@@ -58,7 +58,7 @@
     main:
     size: 
     thumb:
-  eventfeed: true
+  eventfeed: false
   published: false
 
 - title: "Presentazione del Report 2020-Q2"
@@ -142,7 +142,7 @@
     main:
     size: 
     thumb:
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Dal sesterzio a Bitcoin"
