@@ -164,41 +164,47 @@ permalink: /workshop/
                     <h2><em>EARLYBIRD solo fino al 21 marzo!!</em></h2>
                     <hr class="primary">
                 </div>
-                {% assign today_date = 'today' | date: '%yyyy-%mm-%dd' %}
-                <ul class="text-muted">
+                <p>
+                    {% assign today_date = 'today' | date: '%yyyy-%mm-%dd' %}
                     {% assign early_date = "2020-03-21" | date: '%yyyy-%mm-%dd' %}
-                    {% if today_date > early_date %}<s>{% endif %}
-                    <li>Tariffe <em>EARLYBIRD</em> disponibili solo fino al 21 marzo:</li>
-                    <li>21 aprile: introduzione <b>€490</b></li>
-                    <li>22 aprile: aspetti tecnici <b>€350</b></li>
-                    <li>21 e 22 aprile: introduzione e aspetti tecnici <b>€690</b></li>
-                    {% if today_date > early_date %}</s>{% endif %}
-                </ul>
-                <ul class="text-muted">
                     {% assign regular_date = "2020-04-14" | date: '%yyyy-%mm-%dd' %}
-                    {% if today_date > regular_date %}<s>{% endif %}
-                    <li>Tariffe <em>REGULAR</em> disponibili fino al 14 aprile:</li>
-                    <li>21 aprile: introduzione <b>€690</b></li>
-                    <li>22 aprile: aspetti tecnici <b>€490</b></li>
-                    <li>21 e 22 aprile: introduzione e aspetti tecnici <b>€990</b></li>
-                    {% if today_date > regular_date %}</s>{% endif %}
-                </ul>
-                <ul class="text-muted">
-                    <li>Tariffe <em>LATECOMER</em> per chi si iscrive nell'ultima settimana:</li>
-                    <li>21 aprile: introduzione <b>€990</b></li>
-                    <li>22 aprile: aspetti tecnici <b>€690</b></li>
-                    <li>21 e 22 aprile: introduzione e aspetti tecnici <b>€1390</b></li>
-                </ul>
-                <hr class="primary text-center">
-                <ul class="text-muted">
-                    <li>Tariffe <em>STUDENT</em> per studenti con e-mail e tesserino universitario:</li>
-                    <li>21 aprile: introduzione <b>€100</b></li>
-                    <li>22 aprile: aspetti tecnici <b>€70</b></li>
-                    <li>21 e 22 aprile: introduzione e aspetti tecnici <b>€140</b></li>
-                    <li><b>ingressi gratuiti</b> per studenti meritevoli previa
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSyLLPvcNE_GZS4BNbJHKR5SFEgCKifLJ_T85IWzKMtddWTg">selezione discrezionale</a>
-                    </li>
-                </ul>
+                    {% assign past_date = "2020-01-01" | date: '%yyyy-%mm-%dd' %}
+                    <ul class="text-muted">
+                        <li>
+                            {% if today_date > early_date %}<s>{% endif %}
+                            Tariffe <em>EARLYBIRD</em> disponibili solo fino al 21 marzo:<br>
+                            21 aprile: introduzione <b>€490</b><br>
+                            22 aprile: aspetti tecnici <b>€350</b><br>
+                            21 e 22 aprile: introduzione e aspetti tecnici <b>€690</b>
+                            {% if today_date > early_date %}</s>{% endif %}
+                        </li><li>
+                            {% if today_date > regular_date %}<s>{% endif %}
+                            Tariffe <em>REGULAR</em> disponibili fino al 14 aprile:<br>
+                            21 aprile: introduzione <b>€690</b><br>
+                            22 aprile: aspetti tecnici <b>€490</b><br>
+                            21 e 22 aprile: introduzione e aspetti tecnici <b>€990</b>
+                            {% if today_date > regular_date %}</s>{% endif %}
+                        </li><li>
+                            Tariffe <em>LATECOMER</em> per chi si iscrive nell'ultima settimana:<br>
+                            21 aprile: introduzione <b>€990</b><br>
+                            22 aprile: aspetti tecnici <b>€690</b><br>
+                            21 e 22 aprile: introduzione e aspetti tecnici <b>€1390</b>
+                        </li>
+                    </ul>
+                    <hr class="text-center">
+                    <ul class="text-muted">
+                        <li>
+                            {% if today_date < past_date %}<s>{% endif %}
+                            Tariffe <em>STUDENT</em> per studenti con e-mail e tesserino universitario:<br>
+                            21 aprile: introduzione <b>€100</b><br>
+                            22 aprile: aspetti tecnici <b>€70</b><br>
+                            21 e 22 aprile: introduzione e aspetti tecnici <b>€140</b><br>
+                            <b>ingressi gratuiti</b> per studenti meritevoli previa
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSyLLPvcNE_GZS4BNbJHKR5SFEgCKifLJ_T85IWzKMtddWTg/viewform?usp=sf_link">selezione discrezionale</a>
+                            {% if today_date < past_date %}</s>{% endif %}
+                        </li>
+                    </ul>
+                </p>
                 <div class="text-center">
                     <a href="https://www.eventbrite.com/e/biglietti-workshop-bitcoin-e-blockchain-95216028705" class="btn btn-primary btn-xl page-scroll">Iscriviti ora</a>
                 </div>
@@ -219,17 +225,17 @@ permalink: /workshop/
                 </div>
             </div>
 
-            <div class="col-lg-6">
+            <div class="col-lg-6 text-center">
+                <hr class="primary">
                 <p>
-                    "<em>Bitcoin è l'equivalente digitale dell'oro:
+                    <em>Bitcoin è l'equivalente digitale dell'oro:
                     se pensiamo alla rilevanza dell'oro fisico
                     nella storia della civilizzazione,
                     della moneta e della finanzia,
                     allora possiamo capire quanto dirompente
                     potrebbe essere l'emergere di un oro digitale
                     nella nostra civilizzazione digitale
-                    e nel futuro della moneta e della finanza</em>"
-                    <div class="text-right">Ferdinando M. Ametrano</div>
+                    e nel futuro della moneta e della finanza</em>
                 </p>
             </div>
             <div class="col-lg-6 text-center">
