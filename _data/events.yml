@@ -124,6 +124,26 @@
   eventfeed: false
   published: false
 
+- title: "Bitcoin e blockchain: aspetti tecnici (2/2)"
+  subtitle:
+  lang: it
+  city: Milano
+  date: 2020-04-22
+  hours: 9:00-17:30
+  organizer: Digital Gold Institute
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  info:
+    text: vedi programma
+    url: http://dgi.io/workshop
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200421-eventbrite.png
+    size: 
+    thumb:
+  eventfeed: false
+  published: true
+
 - title: "Bitcoin e blockchain: introduzione (1/2)"
   subtitle:
   lang: it
@@ -139,27 +159,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main:
-    size: 
-    thumb:
-  eventfeed: false
-  published: true
-
-- title: "Bitcoin e blockchain: aspetti tecnici (2/2)"
-  subtitle:
-  lang: it
-  city: Milano
-  date: 2020-04-22
-  hours: 9:00-17:30
-  organizer: Digital Gold Institute
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
-  info:
-    text: vedi programma
-    url: http://dgi.io/workshop
-  discount_code:
-  discount_code_publish:
-  image:
-    main:
+    main: 20200421-eventbrite.png
     size: 
     thumb:
   eventfeed: false
