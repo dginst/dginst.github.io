@@ -158,17 +158,24 @@ permalink: /workshop/
                     <h2><em>EARLYBIRD solo fino al 21 marzo!!</em></h2>
                     <hr class="primary">
                 </div>
+                {% assign today_date = 'today' | date: '%yyyy-%mm-%dd' %}
                 <ul class="text-muted">
+                    {% assign early_date = "2020-03-21" | date: '%yyyy-%mm-%dd' %}
+                    {% if today_date > early_date %}<s>{% endif %}
                     <li>Tariffe <em>EARLYBIRD</em> disponibili solo fino al 21 marzo:</li>
                     <li>21 aprile: introduzione <b>€490</b></li>
                     <li>22 aprile: aspetti tecnici <b>€350</b></li>
                     <li>21 e 22 aprile: introduzione e aspetti tecnici <b>€690</b></li>
+                    {% if today_date > early_date %}</s>{% endif %}
                 </ul>
                 <ul class="text-muted">
+                    {% assign regular_date = "2020-04-14" | date: '%yyyy-%mm-%dd' %}
+                    {% if today_date > regular_date %}<s>{% endif %}
                     <li>Tariffe <em>REGULAR</em> disponibili fino al 14 aprile:</li>
                     <li>21 aprile: introduzione <b>€690</b></li>
                     <li>22 aprile: aspetti tecnici <b>€490</b></li>
                     <li>21 e 22 aprile: introduzione e aspetti tecnici <b>€990</b></li>
+                    {% if today_date > regular_date %}</s>{% endif %}
                 </ul>
                 <ul class="text-muted">
                     <li>Tariffe <em>LATECOMER</em> per chi si iscrive nell'ultima settimana:</li>
