@@ -139,7 +139,7 @@
   discount_code_publish:
   image:
     main: 20200421-eventbrite.png
-    size: 
+    size: 200
     thumb:
   eventfeed: false
   published: true
@@ -160,7 +160,7 @@
   discount_code_publish:
   image:
     main: 20200421-eventbrite.png
-    size: 
+    size: 200
     thumb:
   eventfeed: false
   published: true
@@ -267,7 +267,7 @@
     main: 20200225-ben.jpg
     size: 200
     thumb: 20200225-ben.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Il futuro del denaro"
