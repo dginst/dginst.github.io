@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Premio tesi Blockchainedu"
-subtitle: "Premiata Chiara Lelli, prima alumna DGI, per la sua tesi sulla Schnorr signature del 2017."
+subtitle: "Premiata Chiara Lelli, prima alumna DGI, per la sua tesi del 2017."
 author: "Staff"
 image: 
     main: 2020-02-12-chiara-lelli-thesis.jpg
@@ -13,9 +13,9 @@ newsfeed: true
 
 Martedì 25 febbraio a Roma, presso *Montecitorio*, si svolgerà la conferenza “**Blockchain: l’innovazione parte dalle università**”, dove si parlerà dell’importanza che la ricerca universitaria porta in questo ambito __[evento RIMANDATO A DATA DA STABILIRSI per restrizioni covid19]__.
 
-Durante la conferenza verrà premiata la [**Dott.ssa Chiara Lelli**](https://dgi.io/full-team/#alumni), **vincitrice** della *prima edizione* del “**premio tesi blockchainedu**”, bando organizzato dal BEN in cui viene premiata la miglior tesi di laurea su blockchain e criptovalute. 
+Durante la conferenza verrà premiata [**Chiara Lelli**](https://dgi.io/full-team/#alumni), **vincitrice** della *prima edizione* del “**premio tesi blockchainedu**”, bando organizzato dal BEN in cui viene premiata la miglior tesi di laurea su blockchain e criptovalute. 
 
- Il risultato raggiunto dalla Dott.ssa Lelli, prima alumna del nostro centro di ricerca nel 2017, è conferma della lungimiranza della vision di Digital Gold Institute sull'ecosistema bitcoin e blockchain. 
+ Il risultato raggiunto da Chiara Lelli, prima alumna del nostro centro di ricerca nel 2017, è conferma della lungimiranza della vision di Digital Gold Institute sull'ecosistema bitcoin e blockchain. 
  La tesi dal titolo "Schnorr signature: additivity and multisignature" è consultabile [qui](https://github.com/clelli/Schnorr/blob/master/tesi.pdf).
 
 Interverranno alla conferenza:
