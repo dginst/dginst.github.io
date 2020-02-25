@@ -224,8 +224,8 @@
   image:
     main: 20200330-borsaitaliana.png
     size: 200
-    thumb: 20200330-borsaitaliana.png
-  eventfeed: false
+    thumb: 20200330-borsaitaliana-thumb.jpg
+  eventfeed: true
   published: true
 
 - title: "Bitcoin e risparmio gestito"
@@ -245,7 +245,7 @@
   image:
     main: 
     size: 
-    thumb:
+    thumb: 20200324-risparmiogestito-thumb.jpg
   eventfeed: true
   published: true
 
