@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-Martedì 25 febbraio a Roma, presso *Montecitorio*, si svolgerà la conferenza “**Blockchain: l’innovazione parte dalle università**”, dove si parlerà dell’importanza che la ricerca universitaria porta in questo ambito. 
+Martedì 25 febbraio a Roma, presso *Montecitorio*, si svolgerà la conferenza “**Blockchain: l’innovazione parte dalle università**”, dove si parlerà dell’importanza che la ricerca universitaria porta in questo ambito __[evento RIMANDATO A DATA DA STABILIRSI per restrizioni covid19]__.
 
 Durante la conferenza verrà premiata la [**Dott.ssa Chiara Lelli**](https://dgi.io/full-team/#alumni), **vincitrice** della *prima edizione* del “**premio tesi blockchainedu**”, bando organizzato dal BEN in cui viene premiata la miglior tesi di laurea su blockchain e criptovalute. 
 
