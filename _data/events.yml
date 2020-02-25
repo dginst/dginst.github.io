@@ -228,6 +228,27 @@
   eventfeed: false
   published: true
 
+- title: "Bitcoin e risparmio gestito"
+  subtitle:
+  lang: it
+  city: Milano
+  date: 2020-03-24
+  date2:
+  hours: 16:00-18:00
+  organizer: DGI in collaborazione con A&C Law
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  info:
+    text: presto disponibili
+    url: 
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 
+    size: 
+    thumb:
+  eventfeed: true
+  published: true
+
 - title: "Bitcoin Venezia Meetup | Re-Start"
   subtitle: Evento CANCELLATO in seguito all'ordinanza del Ministero della Salute e della Regione del Veneto
   lang: it
@@ -246,7 +267,7 @@
     main: 20200228-ametrano.jpg
     size: 200
     thumb: 20200228-ametrano.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Blockchain: l'innovazione parte dalle Università"
