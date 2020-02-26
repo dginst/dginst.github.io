@@ -287,7 +287,7 @@
   image:
     main: 20200225-ben.jpg
     size: 200
-    thumb: 20200225-ben.jpg
+    thumb: 20200225-ben-thumb.jpg
   eventfeed: false
   published: true
 
