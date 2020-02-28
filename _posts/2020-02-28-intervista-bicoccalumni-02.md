@@ -1,0 +1,20 @@
+---
+layout: post
+comments: false
+title: "The Blockchain Series: Bitcoin First (puntata 2 di 25)"
+subtitle: "Intervista a Ferdinando Ametrano"
+author: "Staff"
+image:
+    thumb: 2020-02-26-intervista-bicoccalumni-thumb.png
+youtube: 88HTaY-o9Ks
+published: true
+newsfeed: true
+---
+
+Se ne discute molto, ma su bitcoin la divisione è radicale, tra scettici che parlano di bolla ed entusiasti che descrivono una rivoluzione globale. **The Blockchain Series: Bitcoin First** è l'evento organizzato da [BicoccAlumni](https://www.bicoccalumni.it/), [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) e [Distretto Bicocca](https://www.distrettobicocca.it/), che si è svolto lo scorso 4 luglio allo Spazio MIL di Milano, con lo scopo di fare chiarezza e informazione sul tema Bitcoin e Blockchain.
+
+L'evento ha avuto come protagonista [*Ferdinando Ametrano*](https://www.ametrano.net), che ha illustrato il tema Bitcoin e Blockchain in un format domande e risposte. Dato il successo dell'iniziativa, BicoccAlumni ha prodotto una serie di contenuti video, che vi riproponiamo qui, ogni mercoledì e venerdì, con l'obiettivo di fare chiarezza e informazione su questi temi sempre più attuali. 
+
+Oggi proponiamo la seconda di 25 puntate: **Cosa determina il valore di Bitcoin?**
+
+"Bitcoin è un'esperimento di scarsità in ambito digitale che se continuerà a durare nel tempo, produrrà una domanda sempre maggiore di bitcoin come asset di investimento. Tuttavia, quando ci sono dirompenti discontinuità di paradigma la scoperta del valore è un processo dinamico e complesso, con volatilità altissima."

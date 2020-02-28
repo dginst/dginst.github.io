@@ -8,7 +8,7 @@ image:
     main: 2019-04-23-trt-volumes.jpg
     thumb: 2019-04-23-trt-volumes-thumb.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 We have analyzed the trading volumes reported by [_The Rock Trading_](http://www.therocktrading.com/) exchange and found them to be credible, according to the criteria used by [Bitwise Investments](https://www.bitwiseinvestments.com/) in their [March 2019 report](http://www.sec.gov/comments/sr-nysearca-2019-01/srnysearca201901-5164833-183434.pdf) to SEC.
