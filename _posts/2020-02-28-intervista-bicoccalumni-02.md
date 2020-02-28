@@ -17,4 +17,4 @@ L'evento ha avuto come protagonista [*Ferdinando Ametrano*](https://www.ametrano
 
 Oggi proponiamo la seconda di 25 puntate: **Cosa determina il valore di Bitcoin?**
 
-"Bitcoin è un'esperimento di scarsità in ambito digitale che se continuerà a durare nel tempo, produrrà una domanda sempre maggiore di bitcoin come asset di investimento. Tuttavia, quando ci sono dirompenti discontinuità di paradigma la scoperta del valore è un processo dinamico e complesso, con volatilità altissima."
+"Bitcoin è un'esperimento di scarsità in ambito digitale che se continuerà a durare nel tempo, produrrà una domanda sempre maggiore di bitcoin come asset di investimento. La sua resilienza sta convincendo un numero crescente di persone che l’esperimento possa aver successo. Il valore è dato, come per qualsiasi bene, dall'incontro di domanda e offerta sul mercato. Siccome l'offerta è limitata e la domanda crescente, il prezzo sale. Tuttavia, quando ci sono dirompenti discontinuità di paradigma la scoperta del valore è un processo dinamico e complesso, con volatilità altissima."
