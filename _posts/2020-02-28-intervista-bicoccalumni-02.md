@@ -5,7 +5,7 @@ title: "The Blockchain Series: Bitcoin First (puntata 2 di 25)"
 subtitle: "Intervista a Ferdinando Ametrano"
 author: "Staff"
 image:
-    thumb: 2020-02-26-intervista-bicoccalumni-thumb.png
+    thumb: 2020-02-25-intervista-bicoccalumni-thumb.png
 youtube: 88HTaY-o9Ks
 published: true
 newsfeed: true
