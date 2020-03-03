@@ -108,7 +108,7 @@
   lang: it
   city: Padova
   date: 2020-05-05
-  date2:
+  date2: 2020-05-06
   hours: 10:00-13:00
   organizer: Museo Bottacin
   address: Sala del Medagliere, Museo Bottacin, Corso Garibaldi 33, 35121 Padova
@@ -184,7 +184,28 @@
     size: 
     thumb:
   eventfeed: false
-  published: false
+  published: true
+
+- title: "Bitcoin e risparmio gestito"
+  subtitle:
+  lang: it
+  city: Milano
+  date: 2020-04-15
+  date2:
+  hours: 16:00-18:00
+  organizer: DGI in collaborazione con A&C Law
+  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  info:
+    text: presto disponibili
+    url: 
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 
+    size: 
+    thumb: 20200324-risparmiogestito-thumb.jpg
+  eventfeed: true
+  published: true
 
 - title: "Presentazione del Report 2020-Q1"
   subtitle:
@@ -225,27 +246,6 @@
     main: 20200330-borsaitaliana.png
     size: 200
     thumb: 20200330-borsaitaliana-thumb.jpg
-  eventfeed: true
-  published: true
-
-- title: "Bitcoin e risparmio gestito"
-  subtitle:
-  lang: it
-  city: Milano
-  date: 2020-03-24
-  date2:
-  hours: 16:00-18:00
-  organizer: DGI in collaborazione con A&C Law
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
-  info:
-    text: presto disponibili
-    url: 
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 
-    size: 
-    thumb: 20200324-risparmiogestito-thumb.jpg
   eventfeed: true
   published: true
 
