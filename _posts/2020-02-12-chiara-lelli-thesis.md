@@ -8,7 +8,7 @@ image:
     main: 2020-02-12-chiara-lelli-thesis.jpg
     thumb: 2020-02-12-chiara-lelli-thesis-thumble.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Martedì 25 febbraio a Roma, presso *Montecitorio*, si svolgerà la conferenza “**Blockchain: l’innovazione parte dalle università**”, dove si parlerà dell’importanza che la ricerca universitaria porta in questo ambito __[evento RIMANDATO A DATA DA STABILIRSI per restrizioni covid19]__.
