@@ -5,7 +5,7 @@ title: "Bitcoin: oro digitale, finanza e tulipani (puntata 10 di 11)"
 subtitle: "Intervista a Ferdinando Ametrano"
 author: "Staff"
 image:
-    thumb: 2019-07-18-intervista-Bitcoin-10-thumb.jpg
+    thumb: 2019-07-18-intervista-bitcoin-10-thumb.jpg
 youtube: IhIw8Z5vsTQ
 published: true
 newsfeed: false
