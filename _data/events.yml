@@ -100,7 +100,7 @@
     main: 20200610-cal2020.png
     size: 200
     thumb: 20200610-cal2020-thumb.png
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Dal sesterzio a Bitcoin"
