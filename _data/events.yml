@@ -249,6 +249,27 @@
   eventfeed: true
   published: true
 
+- title: "Virtual Bitcoin Meetup"
+  subtitle:
+  lang: it
+  city: Milano
+  date: 2020-03-11
+  date2:
+  hours: 20:00-21:30
+  organizer: Interlogica
+  address: Online
+  info:
+    text: live streaming accessibile qui
+    url: https://www.interlogica.it/news/virtual-bitcoin-meetup/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200311-virtual-bitcoin-meetup.jpg
+    size: 200
+    thumb: 20200311-virtual-bitcoin-meetup-thumb.jpg
+  eventfeed: true
+  published: true
+
 - title: "Bitcoin Venezia Meetup | Re-Start"
   subtitle: Evento RIMANDATO A DATA DA STABILIRSI in seguito all'ordinanza del Ministero della Salute e della Regione del Veneto
   lang: it
