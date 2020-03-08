@@ -100,7 +100,7 @@
     main: 20200610-cal2020.png
     size: 200
     thumb: 20200610-cal2020-thumb.png
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Dal sesterzio a Bitcoin"
@@ -246,6 +246,27 @@
     main: 20200330-borsaitaliana.png
     size: 200
     thumb: 20200330-borsaitaliana-thumb.jpg
+  eventfeed: true
+  published: true
+
+- title: "Virtual Bitcoin Meetup"
+  subtitle:
+  lang: it
+  city: Milano
+  date: 2020-03-11
+  date2:
+  hours: 20:00-21:30
+  organizer: Interlogica
+  address: Online
+  info:
+    text: live streaming accessibile qui
+    url: https://www.interlogica.it/news/virtual-bitcoin-meetup/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200311-virtual-bitcoin-meetup.jpg
+    size: 200
+    thumb: 20200311-virtual-bitcoin-meetup-thumb.jpg
   eventfeed: true
   published: true
 
