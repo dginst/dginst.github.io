@@ -138,7 +138,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20200421-eventbrite.png
+    main: 20200421-eventbrite-streaming.png
     size: 200
     thumb:
   eventfeed: false
@@ -159,7 +159,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20200421-eventbrite.png
+    main: 20200421-eventbrite-streaming.png
     size: 200
     thumb:
   eventfeed: false
