@@ -124,7 +124,7 @@
   eventfeed: false
   published: false
 
-- title: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
+  - title: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
   subtitle:
   lang: it
   city: Milano
@@ -144,7 +144,7 @@
     thumb: 20200330-borsaitaliana-thumb.jpg
   eventfeed: true
   published: true
-  
+
 - title: "Bitcoin e blockchain: aspetti tecnici (2/2)"
   subtitle:
   lang: it
