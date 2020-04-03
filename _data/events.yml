@@ -187,7 +187,7 @@
   published: true
 
 - title: "Dal sesterzio a Bitcoin"
-  subtitle:
+  subtitle: Evento RINVIATO A DATA DA STABILIRSI
   lang: it
   city: Padova
   date: 2020-04-18
@@ -225,28 +225,28 @@
     main: 
     size: 
     thumb: 20200324-risparmiogestito-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Presentazione del Report 2020-Q1"
   subtitle: 
   lang: it
-  city: Milano
-  date: 2020-04-07
+  city: Live streaming
+  date: 2020-04-15
   date2:
   hours: 16:00-18:00
   organizer: Digital Gold Institute
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  address: Piattaforma Youtube
   info:
-    text: evento virtuale sotto forma di webinar
-    url: http://dgi.io/docs/reports/2020Q1-agenda.pdf
+    text: Agenda e contenuti disponibili qui
+    url: http://dgi.io/2020Q1
   discount_code:
   discount_code_publish:
   image:
-    main: 20200407-report-2020q1.png
+    main: 20200415-2020Q1-web.jpg
     size: 200
-    thumb:
-  eventfeed: false
+    thumb: 20200415-2020Q1-thumb.jpg
+  eventfeed: true
   published: true
 
 - title: "Virtual Bitcoin Meetup"
