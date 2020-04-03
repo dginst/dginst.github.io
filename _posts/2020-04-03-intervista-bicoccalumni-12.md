@@ -15,6 +15,6 @@ Se ne discute molto, ma su bitcoin la divisione è radicale, tra scettici che pa
 
 L'evento ha avuto come protagonista [*Ferdinando Ametrano*](https://www.ametrano.net), che ha illustrato il tema Bitcoin e Blockchain in un format domande e risposte. Dato il successo dell'iniziativa, BicoccAlumni ha prodotto una serie di contenuti video, che vi riproponiamo qui, ogni martedì e venerdì, con l'obiettivo di fare chiarezza e informazione su questi temi sempre più attuali.
 
-Oggi proponiamo la docicesima di 25 puntate: **Il mondo degli exchange angel: l'esperienza di Alessandro Preti in Binance**.
+Oggi proponiamo la docicesima di 25 puntate: **L'esperienza di crypto-angel di Alessandro Preti in Binance**.
 
-[*Alessandro Preti*](https://www.linkedin.com/in/alessandro-preti-3a685988/?originalSubdomain=it) è Binance Angel presso Binance, un exchange globale che fornisce una piattaforma per il trading di oltre 100 criptovalute. Dall'inizio del 2018, Binance è considerato il più grande scambio di criptovaluta al mondo in termini di volume degli scambi.
+[*Alessandro Preti*](https://www.linkedin.com/in/alessandro-preti-3a685988/?originalSubdomain=it) è Binance Angel presso Binance, un exchange globale che fornisce una piattaforma per il trading di oltre 100 criptovalute. Dall'inizio del 2018, Binance è considerato il più grande scambio di criptovaluta al mondo in termini di volume degli scambi. 
