@@ -17,4 +17,4 @@ L'evento ha avuto come protagonista [*Ferdinando Ametrano*](https://www.ametrano
 
 Oggi proponiamo la docicesima di 25 puntate: **L'esperienza di crypto-angel di Alessandro Preti in Binance**.
 
-[*Alessandro Preti*](https://www.linkedin.com/in/alessandro-preti-3a685988/?originalSubdomain=it) è Binance Angel presso Binance, un exchange globale che fornisce una piattaforma per il trading di oltre 100 criptovalute. Dall'inizio del 2018, Binance è considerato il più grande scambio di criptovaluta al mondo in termini di volume degli scambi. 
+[*Alessandro Preti*](https://www.linkedin.com/in/alessandro-preti-3a685988/?originalSubdomain=it) è Binance Angel presso Binance, un exchange globale che fornisce una piattaforma per il trading di oltre 100 criptovalute. Dall'inizio del 2018, Binance è considerato il più grande scambio di criptovaluta al mondo in termini di volume degli scambi.
