@@ -22,9 +22,9 @@ The major focus of this new
 [v2020.4.7 release](https://github.com/btclib-org/btclib/releases/tag/v2020.4.7)
 is the Schnorr implementation to BIP340 proposed standard.
 
-Most notably, the library is now able to accept any representation of private keys as input, 
-with all the WIF/BIP32/bytes/integer conversion auto-magically being taken care of. 
-The same apply to public key BIP32/SEC-bytes/tuple conversion. 
+Most notably, the library is now able to accept any representation of private keys as input,
+with all the WIF/BIP32/bytes/integer conversion auto-magically being taken care of.
+The same apply to public key BIP32/SEC-bytes/tuple conversion.
 As usual, whenever bytes are accepted, hex-string or text string are accepted too, as appropriate.
 
 Hopefully this will help introducing new users and devs to the library and existing users/devs to deal with any refactoring.
