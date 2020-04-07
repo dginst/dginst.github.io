@@ -8,7 +8,7 @@ image:
     thumb: 2020-02-25-intervista-bicoccalumni-thumb.png
 youtube: HHPQ_WiFuvQ
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Se ne discute molto, ma su bitcoin la divisione è radicale, tra scettici che parlano di bolla ed entusiasti che descrivono una rivoluzione globale. **The Blockchain Series: Bitcoin First** è l'evento organizzato da [BicoccAlumni](https://www.bicoccalumni.it/), [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) e [Distretto Bicocca](https://www.distrettobicocca.it/), che si è svolto lo scorso 4 luglio allo Spazio MIL di Milano, con lo scopo di fare chiarezza e informazione sul tema Bitcoin e Blockchain.
