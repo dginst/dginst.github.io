@@ -232,7 +232,7 @@
   subtitle: 
   lang: it
   city: Live streaming
-  date: 2020-04-15
+  date: 2020-04-17
   date2:
   hours: 16:00-18:00
   organizer: Digital Gold Institute
@@ -243,9 +243,9 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20200415-2020Q1-web.jpg
+    main: 20200417-2020Q1-web.jpg
     size: 200
-    thumb: 20200415-2020Q1-thumb.jpg
+    thumb: 20200417-2020Q1-thumb.jpg
   eventfeed: true
   published: true
 
