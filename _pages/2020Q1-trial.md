@@ -2,7 +2,7 @@
 layout: readme
 lang: it
 title: #"DGI Report 2020Q1"
-permalink: /2020Q1/
+permalink: /2020Q1-trial/
 
 ---
 
@@ -18,7 +18,7 @@ nella dichiarazione dei redditi.
 
 ### Agenda
 
-#### Venerdì 17 aprile 2020
+>Venerdì 17 aprile 2020
 >
 | :---: | - | :--- |
 | 16:00 | | **Presentazione del report** a cura di [**Ferdinando Ametrano**](http://www.ametrano.net/) |
@@ -26,10 +26,9 @@ nella dichiarazione dei redditi.
 | 17:30 | | **Sezione di domande e risposte** |
 | 18:00 | | **Chiusura lavori** |
 
-Per accedere al live streaming clicca su questo [link]({{ site.baseurl }}/2020Q1), sarà accessibile il giorno dell'evento:  
-Nel frattempo, consulta le *scorse edizioni* dei report qui:
+Per accedere al live streaming clicca qui:  
 <p align="center">
-<a href="{{ site.baseurl }}/reports" class="btn btn-primary btn-xl page-scroll">Consulta tutti i report</a>
+<a href="https://youtu.be/0dwp7j0Y2dI" class="btn btn-primary btn-xl page-scroll">Report 2020-Q1</a>
 </p>
 
 ### Informazioni
