@@ -55,9 +55,9 @@
   discount_code:
   discount_code_publish:
   image:
-    main: cal2020-no-date.png
+    main: 20200916-cal2020.png
     size: 200
-    thumb: cal2020-no-date-thumb.png
+    thumb: 20200916-cal2020-thumb.png
   eventfeed: true
   published: true
   
