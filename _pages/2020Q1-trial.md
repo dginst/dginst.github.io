@@ -65,8 +65,13 @@ raccolte attraverso la chat del live-stream.
 
 > 16:00 *Presentazione del report* a cura di [*Ferdinando Ametrano*](http://www.ametrano.net/)  
 > 17:00 *Bitcoin nella dichiarazione dei redditi* a cura di [*Francesco Avella*](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
-> 17:30 *Sezione di domande e risposte*  
+> 17:30 *Sessione di domande e risposte*  
 > 18:00 *Chiusura lavori*
 
 Nel frattempo, le *precedenti edizioni* del report sono consultabili dalla
 pagina dedicata [www.dgi.io/reports]({{ site.baseurl }}/reports)
+
+<p align="center">
+<a href="https://youtu.be/0dwp7j0Y2dI"
+class="btn btn-primary btn-xl page-scroll">Live stream</a>
+</p>
