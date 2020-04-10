@@ -40,6 +40,27 @@
   eventfeed: false
   published: false
 
+- title: "2nd Crypto Asset Lab Conference"
+  subtitle: 
+  lang: en
+  city: Milan (Italy)
+  date: 2020-09-16
+  date2:
+  hours: 9:30-17:30
+  organizer: Crypto Asset Lab (University of Milano-Bicocca)
+  address: University of Milano-Bicocca, Building U12, Via Vizzola 5, 20126 Milan (Italy)
+  info:
+    text: conference web-page
+    url: https://cryptoassetlab.diseade.unimib.it/cal2020/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: cal2020-no-date.png
+    size: 200
+    thumb: cal2020-no-date-thumb.png
+  eventfeed: true
+  published: true
+  
 - title: "Bitcoin e blockchain"
   subtitle: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
@@ -82,27 +103,6 @@
   eventfeed: false
   published: false
 
-- title: "2nd Crypto Asset Lab Conference"
-  subtitle:
-  lang: en
-  city: Milan (Italy)
-  date: 2020-06-10
-  date2:
-  hours: 9:30-17:30
-  organizer: Crypto Asset Lab (University of Milano-Bicocca)
-  address: University of Milano-Bicocca, Building U12, Via Vizzola 5, 20126 Milan (Italy)
-  info:
-    text: conference web-page
-    url: https://cryptoassetlab.diseade.unimib.it/cal2020/
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20200610-cal2020.png
-    size: 200
-    thumb: 20200610-cal2020-thumb.png
-  eventfeed: false
-  published: true
-
 - title: "Dal sesterzio a Bitcoin"
   subtitle:
   lang: it
@@ -139,9 +139,9 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20200330-borsaitaliana.png
+    main: 20200427-borsaitaliana.jpg
     size: 200
-    thumb: 20200330-borsaitaliana-thumb.jpg
+    thumb: 20200427-borsaitaliana-thumb.jpg
   eventfeed: true
   published: true
 
@@ -152,12 +152,12 @@
   date: 2020-04-22
   hours: 9:00-17:30
   organizer: Digital Gold Institute
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  address: Live streaming
   info:
     text: vedi programma
     url: http://dgi.io/workshop
-  discount_code:
-  discount_code_publish:
+  discount_code: WSSBTC
+  discount_code_publish: true
   image:
     main: 20200421-eventbrite-streaming.png
     size: 200
@@ -173,12 +173,12 @@
   date2:
   hours: 9:00-17:30
   organizer: Digital Gold Institute
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  address: Live streaming
   info:
     text: vedi programma
     url: http://dgi.io/workshop
-  discount_code:
-  discount_code_publish:
+  discount_code: WSSBTC
+  discount_code_publish: true
   image:
     main: 20200421-eventbrite-streaming.png
     size: 200
@@ -187,7 +187,7 @@
   published: true
 
 - title: "Dal sesterzio a Bitcoin"
-  subtitle:
+  subtitle: Evento RINVIATO A DATA DA STABILIRSI
   lang: it
   city: Padova
   date: 2020-04-18
@@ -208,7 +208,7 @@
   published: true
 
 - title: "Bitcoin e risparmio gestito"
-  subtitle:
+  subtitle: Evento RINVIATO A DATA DA STABILIRSI
   lang: it
   city: Milano
   date: 2020-04-15
@@ -225,28 +225,28 @@
     main: 
     size: 
     thumb: 20200324-risparmiogestito-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Presentazione del Report 2020-Q1"
-  subtitle:
+  subtitle: 
   lang: it
-  city: Milano
-  date: 2020-04-07
+  city: Live streaming
+  date: 2020-04-17
   date2:
   hours: 16:00-18:00
   organizer: Digital Gold Institute
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  address: Piattaforma Youtube
   info:
-    text: evento ad invito
-    url: http://dgi.io/docs/reports/2020Q1-agenda.pdf
+    text: Agenda e contenuti disponibili qui
+    url: http://dgi.io/2020Q1
   discount_code:
   discount_code_publish:
   image:
-    main: 20200407-report-2020q1.png
+    main: 20200417-2020Q1-web.jpg
     size: 200
-    thumb:
-  eventfeed: false
+    thumb: 20200417-2020Q1-thumb.jpg
+  eventfeed: true
   published: true
 
 - title: "Virtual Bitcoin Meetup"
@@ -269,7 +269,7 @@
     thumb: 20200311-virtual-bitcoin-meetup-thumb.jpg
   eventfeed: true
   published: true
-
+  
 - title: "Bitcoin Venezia Meetup | Re-Start"
   subtitle: Evento RIMANDATO A DATA DA STABILIRSI in seguito all'ordinanza del Ministero della Salute e della Regione del Veneto
   lang: it
