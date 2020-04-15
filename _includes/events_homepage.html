@@ -15,8 +15,6 @@
             {% if event.eventfeed and event.published %}
             {% assign event_date = event.date | date: '%y %m %d' %}
             {% if event_date >= today_date %}
-
-
             <div class="col-lg-4 col-md-4">
                 <article class="post">
                     {% if event.image.thumb %}
@@ -37,7 +35,7 @@
                         {{ event.city }},
                         {% include format_dates.html date=event.date date2=event.date2 lang=event.lang %}
                     </p>
-                </article>
+                </article><br>
             </div>
             {% endif %}
             {% endif %}
