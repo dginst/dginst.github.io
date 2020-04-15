@@ -60,7 +60,28 @@
     thumb: 20200916-cal2020-thumb.png
   eventfeed: true
   published: true
-  
+ 
+- title: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
+  subtitle:
+  lang: it
+  city: Milano
+  date: 2020-09-15
+  date2:
+  hours: 9:30-17:30
+  organizer: Borsa Italiana Academy
+  address: Borsa Italiana, Piazza degli Affari 6, 20123 Milano
+  info:
+    text: iscrizione sul sito Borsa Italiana Academy
+    url: https://www.lseg.com/it/Blockchain2020
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200427-borsaitaliana.jpg
+    size: 200
+    thumb: 20200427-borsaitaliana-thumb.jpg
+  eventfeed: true
+  published: true
+ 
 - title: "Bitcoin e blockchain"
   subtitle: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
@@ -123,27 +144,6 @@
     thumb:
   eventfeed: false
   published: false
-
-- title: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
-  subtitle:
-  lang: it
-  city: Milano
-  date: 2020-04-27
-  date2:
-  hours: 9:30-17:30
-  organizer: Borsa Italiana Academy
-  address: Borsa Italiana, Piazza degli Affari 6, 20123 Milano
-  info:
-    text: iscrizione sul sito Borsa Italiana Academy
-    url: https://www.lseg.com/it/Blockchain2020
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20200427-borsaitaliana.jpg
-    size: 200
-    thumb: 20200427-borsaitaliana-thumb.jpg
-  eventfeed: true
-  published: true
 
 - title: "Bitcoin e blockchain: aspetti tecnici (2/2)"
   subtitle:
