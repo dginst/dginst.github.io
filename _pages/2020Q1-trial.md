@@ -5,12 +5,15 @@ title: #"DGI Report 2020Q1"
 permalink: /2020Q1-trial/
 ---
 
-![2020Q1-agenda](/img/events/20200417-2020Q1-web.jpg){:class="img-responsive"}
-
-<p align="center">
-<a href="https://youtu.be/0dwp7j0Y2dI"
-class="btn btn-primary btn-xl page-scroll">Live stream</a>
-</p>
+<div class='embed-container'>
+    <iframe
+        src="https://www.youtube.com/embed/0dwp7j0Y2dI"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+</div>
+<br>
 
 In via eccezionale e nello spirito di condivisione con cui stiamo
 affrontando queste settimane, i nostri partner
@@ -68,10 +71,14 @@ raccolte attraverso la chat del live-stream.
 > 17:30 *Sessione di domande e risposte*  
 > 18:00 *Chiusura lavori*
 
-Nel frattempo, le *precedenti edizioni* del report sono consultabili dalla
+Le *precedenti edizioni* del report sono consultabili dalla
 pagina dedicata [www.dgi.io/reports]({{ site.baseurl }}/reports)
 
-<p align="center">
-<a href="https://youtu.be/0dwp7j0Y2dI"
-class="btn btn-primary btn-xl page-scroll">Live stream</a>
-</p>
+<div class='embed-container'>
+    <iframe
+        src="https://www.youtube.com/embed/0dwp7j0Y2dI"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+</div>
