@@ -78,7 +78,7 @@
   image:
     main: 20200915-borsa-italiana.jpg
     size: 200
-    thumb: 20200915-borsa-italiana-thumb.jpg.jpg
+    thumb: 20200915-borsa-italiana-thumb.jpg
   eventfeed: true
   published: true
  
