@@ -120,9 +120,9 @@
   image:
     main:
     size: 
-    thumb:
-  eventfeed: false
-  published: false
+    thumb: 20200707-report2020q2-thumb.jpg
+  eventfeed: true
+  published: true
 
 - title: "Dal sesterzio a Bitcoin"
   subtitle:
