@@ -125,8 +125,8 @@
             }
         }
         @media (min-width: 768px) {
-            background-color: rgba(black, .0);
-            border-color: rgba(black, .0);
+            background-color: black;
+            border-color: rgba(black, .3);
             .navbar-header .navbar-brand {
                 color: rgba(black, .7);
                 &:hover,
