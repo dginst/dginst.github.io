@@ -58,7 +58,7 @@
     main: 20200916-cal2020.png
     size: 200
     thumb: 20200916-cal2020-thumb.png
-  eventfeed: true
+  eventfeed: false
   published: true
  
 - title: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
