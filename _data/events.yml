@@ -108,7 +108,7 @@
   lang: it
   city: Milano
   date: 2020-07-07
-  date2: 2020-07-14
+  date2: 
   hours: 16:00-18:00
   organizer: Digital Gold Institute
   address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
@@ -118,7 +118,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main:
+    main: 20200707-report2020q2.jpg
     size: 
     thumb: 20200707-report2020q2-thumb.jpg
   eventfeed: true
