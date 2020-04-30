@@ -98,7 +98,7 @@
   discount_code_publish:
   image:
     main: 20200721-workshop.jpg
-    size: 
+    size: 200
     thumb: 20200721-workshop-thumb.jpg
   eventfeed: true
   published: true
