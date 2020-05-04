@@ -79,7 +79,7 @@
     main: 20200915-borsa-italiana.jpg
     size: 200
     thumb: 20200915-borsa-italiana-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
  
 - title: "Bitcoin e blockchain"
@@ -119,8 +119,29 @@
   discount_code_publish:
   image:
     main: 20200707-report2020q2.jpg
-    size: 
+    size: 200
     thumb: 20200707-report2020q2-thumb.jpg
+  eventfeed: true
+  published: true
+
+- title: "Cryptoassets e allocazione di portafoglio"
+  subtitle: "una nuova asset class"
+  lang: it
+  city: Streaming
+  date: 2020-05-14
+  date2:
+  hours: 19:00-19:45
+  organizer: Digital Gold Institute
+  address:
+  info:
+    text: consulta l'agenda
+    url: https://dgi.io/docs/20200514-tesi-avigni.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200514-tesi-avigni.jpg
+    size: 250
+    thumb: 20200514-tesi-avigni-thumb.jpg
   eventfeed: true
   published: true
 
