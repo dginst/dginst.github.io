@@ -8,6 +8,12 @@ The first time setup requires Ruby and Jekyll installation, plus:
 
 ```shell
 $ gem install bundler
+```
+
+Project dependencies are listed in the Gemfile,
+so install them from the project's root:
+
+```shell
 $ bundle install
 ```
 
