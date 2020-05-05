@@ -61,7 +61,7 @@
   eventfeed: false
   published: true
  
-- title: "Bitcoin, blockchain e crypto-assets: impatti nei settori finanziari e assicurativi"
+- title: "Bitcoin, blockchain e crypto-assets: <br> impatti nei settori finanziari e assicurativi"
   subtitle:
   lang: it
   city: Milano
@@ -83,7 +83,7 @@
   published: true
  
 - title: "Bitcoin e blockchain"
-  subtitle: "1. Introduzione<br>2. Aspetti tecnici"
+  subtitle: "Introduzione e aspetti tecnici"
   lang: it
   city: Milano
   date: 2020-07-21
@@ -98,7 +98,7 @@
   discount_code_publish:
   image:
     main: 20200721-workshop.jpg
-    size: 200
+    size: 
     thumb: 20200721-workshop-thumb.jpg
   eventfeed: true
   published: true
@@ -119,13 +119,13 @@
   discount_code_publish:
   image:
     main: 20200707-report2020q2.jpg
-    size: 200
+    size: 
     thumb: 20200707-report2020q2-thumb.jpg
   eventfeed: true
   published: true
 
 - title: "Cryptoassets e allocazione di portafoglio"
-  subtitle: "una nuova asset class"
+  subtitle: "Una nuova asset class"
   lang: it
   city: Streaming
   date: 2020-05-14
@@ -140,7 +140,7 @@
   discount_code_publish:
   image:
     main: 20200514-tesi-avigni.jpg
-    size: 250
+    size: 
     thumb: 20200514-tesi-avigni-thumb.jpg
   eventfeed: true
   published: true
@@ -180,7 +180,7 @@
     url: http://dgi.io/workshop
   image:
     main: 20200421-eventbrite-streaming.png
-    size: 200
+    size: 
     thumb:
   eventfeed: false
   published: true

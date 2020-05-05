@@ -19,7 +19,7 @@ permalink: /events/
         </div>
     <div-->
     <div class="container">
-        <div class="row col-lg-8 col-lg-offset-2">
+        <div class="row">
             {% assign events = site.data.events | sort: 'date' %}
             {% assign today_date = 'today' | date: '%y %m %d' %}
             <ul>
@@ -29,69 +29,70 @@ permalink: /events/
                         {% assign event_date = event.date2 | date: '%y %m %d' %}
                     {% endif %}
                     {% if event_date >= today_date and event.published %}
-                    <li>
-                        <h4>{{ event.title }}
-                            {% if event.subtitle %}
-                                <br>{{ event.subtitle }}
-                            {% endif %}
-                        </h4>
-                        <p class="text-muted">
-                            {{ event.city }},
-                            {% include format_dates.html date=event.date date2=event.date2 lang=event.lang %}
-                            {% if event.hours %}
-                                ({{ event.hours }})
-                            {% endif %}
-
-                            <br>
-                            {% if event.lang == "it" %}
-                                Organizzato da: {{ event.organizer }}
-                            {% else %}
-                                Organized by: {{ event.organizer }}
-                            {% endif %}
-                            
-                            <br>
-                            {% if event.lang == "it" %}
-                                Presso: {{ event.address }}
-                            {% else %}
-                                Location: {{ event.address }}
-                            {% endif %}
-                            
-                            <br>
-                            {% if event.lang == "it" %}
-                                Informazioni:
-                            {% else %}
-                                Information:
-                            {% endif %}
-                            {% if event.info.url %}
-                                <a href="{{ event.info.url }}">{{ event.info.text }}</a>
-                            {% else %}
-                                {{ event.info.text}}
-                            {% endif %}
-
-                            {% if event.discount_code_publish %}
+                        <div class="col-lg-5 col-md-6" align="right">
+                            <p class="text-muted">
+                                {% if event.image.main %}
+                                    {% if event.info.url %}
+                                        <a href="{{ event.info.url }}">
+                                        <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="190">
+                                        </a>
+                                        {% else %}
+                                        <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="190">
+                                    {% endif %}
+                                {% endif %}
+                            </p>
+                        </div>
+                        <div class="col-lg-7 col-md-6">
+                            <h4>{{ event.title }}
+                                {% if event.subtitle %}
+                                    <br>{{ event.subtitle }}
+                                {% endif %}
+                            </h4>
+                            <hr class="primary" align="left">
+                            <p class="text-muted">
+                                {{ event.city }},
+                                {% include format_dates.html date=event.date date2=event.date2 lang=event.lang %}
+                                {% if event.hours %}
+                                    ({{ event.hours }})
+                                {% endif %}
                                 <br>
                                 {% if event.lang == "it" %}
-                                    Codice di sconto riservato: <em>{{ event.discount_code }}</em>
+                                    Organizzato da: {{ event.organizer }}
                                 {% else %}
-                                    Exclusive discount code: <em>{{ event.discount_code }}</em>
+                                    Organized by: {{ event.organizer }}
                                 {% endif %}
-                            {% endif %}
-
-                            {% if event.image.main %}
                                 <br>
-                                {% if event.info.url %}
-                                    <a href="{{ event.info.url }}">
-                                    <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="{{ event.image.size }}">
-                                    </a>
+                                {% if event.lang == "it" %}
+                                    Presso: {{ event.address }}
                                 {% else %}
-                                    <img src="{{ site.baseurl }}/img/events/{{ event.image.main }}" height="{{ event.image.size }}">
+                                    Location: {{ event.address }}
                                 {% endif %}
-                            {% endif %}
-                        </p>
-                    </li>
+                                <br>
+                                {% if event.lang == "it" %}
+                                    Informazioni:
+                                {% else %}
+                                    Information:
+                                {% endif %}
+                                {% if event.info.url %}
+                                    <a href="{{ event.info.url }}">{{ event.info.text }}</a>
+                                {% else %}
+                                    {{ event.info.text}}
+                                {% endif %}
+                                {% if event.discount_code_publish %}
+                                    <br>
+                                    {% if event.lang == "it" %}
+                                        Codice di sconto riservato: <em>{{ event.discount_code }}</em>
+                                    {% else %}
+                                        Exclusive discount code: <em>{{ event.discount_code }}</em>
+                                    {% endif %}
+                                {% endif %}
+                                <br>
+                                <br>
+                            </p>
+                        </div>
                     {% endif %}
                 {% endfor %}
-            </ul>
+            </ul>             
         </div>
     </div>
 </section>
