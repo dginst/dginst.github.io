@@ -10,9 +10,11 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
 
 - 2020-Q1:
   report ([pagina singola]({{ site.baseurl }}/docs/reports/2020Q1.pdf) o
-  [pagina doppia]({{ site.baseurl }}/docs/reports/2020Q1-doppiapagina.pdf)),
-  [video di presentazione](https://www.youtube.com/watch?v=0dwp7j0Y2dI) e
-  [slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf)
+  [pagina doppia]({{ site.baseurl }}/docs/reports/2020Q1-doppiapagina.pdf)) e
+  sua presentazione
+  ([video](https://www.youtube.com/watch?v=0dwp7j0Y2dI),
+  [slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf) e
+  [news]({{ site.baseurl }}/2020/04/20/report-q1-presentation))
 - 2019-Q4:
   [report]({{ site.baseurl }}/docs/reports/2019Q4.pdf),
   [slides]({{site.baseurl}}/docs/reports/2019Q4-presentation.pdf) e
