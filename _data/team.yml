@@ -12,13 +12,6 @@
   social_3: fab fa-github
   social_3_link: https://github.com/nsollazzo
 
-- name: Matteo Avigni
-  role: Student @ Politecnico di Milano
-  social_1: fab fa-linkedin-in
-  social_1_link: https://www.linkedin.com/in/matteo-avigni-35b2b3140/
-  social_2: fab fa-github
-  social_2_link: https://github.com/matteoavigni
-
 - name: Stefano Fedeli
   role: Student @ Politecnico di Milano
   social_1: fab fa-linkedin-in
