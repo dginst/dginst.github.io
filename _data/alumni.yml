@@ -1,13 +1,14 @@
 - name: Matteo Avigni
   degree: Master Degree in Mathematical Engineerging, Politecnico di Milano
   thesis: "Cryptoassets in Asset Allocation: a new Asset Class"
-  pdf: https://github.com/matteoavigni/Master-Thesis/blob/master/Latex_code/Thesis_master/main.tex
+  pdf: https://github.com/matteoavigni/Master-Thesis/blob/master/Latex_code/Thesis_master/Master_thesis.pdf
+  slides: https://github.com/matteoavigni/Master-Thesis/blob/master/Latex_code/Presentazione/Master_thesis_presentation.pdf
   source: https://github.com/matteoavigni/Master-Thesis
   thesis_date: April 2020
   social_1: fab fa-github
   social_1_link: https://github.com/matteoavigni
   social_2: fab fa-linkedin-in
-  social_2_link: www.linkedin.com/in/matteo-avigni-35b2b3140
+  social_2_link: www.linkedin.com/in/matteo-avigni-35b2b3140/
 
 - name: Rocco Sciaraffa
   research: "Portfolio Diversification using Crypto-Assets"
