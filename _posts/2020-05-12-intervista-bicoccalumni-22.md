@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: false
-title: "The Blockchain Series: Bitcoin First (puntata 21 di 25)"
+title: "The Blockchain Series: Bitcoin First (puntata 22 di 25)"
 subtitle: "Intervista a F. Ametrano e A. Preti"
 author: "Staff"
 image:
     thumb: 2020-02-25-intervista-bicoccalumni-thumb.png
-youtube: Ana1kxofKbo
+youtube: qqImOQscBsc
 published: true
 newsfeed: false
 ---
@@ -15,7 +15,7 @@ Se ne discute molto, ma su bitcoin la divisione è radicale, tra scettici che pa
 
 L'evento ha avuto come protagonista [*Ferdinando Ametrano*](https://www.ametrano.net), che ha illustrato il tema Bitcoin e Blockchain in un format domande e risposte. Dato il successo dell'iniziativa, BicoccAlumni ha prodotto una serie di contenuti video, che vi riproponiamo qui, ogni martedì e venerdì, con l'obiettivo di fare chiarezza e informazione su questi temi sempre più attuali.
 
-Oggi proponiamo la ventunesima di 25 puntate:
-**Cryptovalute e le banche commerciali**.
+Oggi proponiamo la ventiduesima di 25 puntate:
+**Cryptovalute e giochi geopolitici**.
 
-"Non aver compreso bitcoin per tempo ed averlo osteggiato impedisce adesso di riconoscere l’errore. Ed è innegabile che bitcoin sia cresciuto in un ecosistema che non ama il mondo della finanza. Ma l’ostilità, pur generalizzata, non è unanime. Ad esempio, Lloyd Blankfein, ex amministratore delegato di Goldman Sachs, si mostra più possibilista: dice di non essere ancora arrivato ad una conclusione su bitcoin, ricorda che c’era scetticismo anche quando la carta moneta sostituì l’oro; addirittura ipotizza che bitcoin possa rappresentare una naturale progressione: come siamo passati da moneta garantita (redimibile in oro) a moneta fiduciaria (non redimibile), potremmo andare oggi verso “consensus money”. L’alternativa miope è quella delle multinazionali musicali che hanno fatto la lotta agli MP3 ed al file-sharing col risultato che la musica liquida oggi non la compriamo da loro ma da iTunes, Amazon e Google."
+"Per ora si tratta di enunciazioni velleitarie: una crittovaluta governativa è un ossimoro, a maggior ragione quando si tratta di dittature che non vogliono realizzare qualcosa di decentralizzato e incensurabile. Maduro vorrebbe rifarsi una verginità deflattiva, ma non sarà il travestimento da crittovaluta a dargliela. La Russia vuole probabilmente familiarizzare con la tecnologia, per imparare a reprimere ed eventualmente ad attaccare con queste armi. C’è la Corea del Nord che accumula bitcoin, anche con attacchi predatori e terroristici. Le crittovalute saranno davvero strumenti di posizionamento geopolitico: ci sono potenze economiche che potrebbero considerare nuove valute, garantite da bitcoin come asset di riserva, per portare sfide epocali sullo scenario monetario internazionale."
