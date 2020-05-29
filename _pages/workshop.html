@@ -63,7 +63,7 @@ permalink: /workshop/
                     <em>Timestamping, Smart Contracts, ICO, and DLT</em><br>
                 </p>
                 <div class="col-lg-6 text-center">
-                    <a href="#eventbrite-widget-container-107191257938"
+                    <a href="#checkout"
                     class="btn btn-primary btn-xl page-scroll">Iscriviti ora</a>
                 </div>
                 <br>
@@ -90,11 +90,10 @@ permalink: /workshop/
                     <em>Deterministic Key Sequences</em><br>
                     <em>Transactions and Scripts</em><br>
                 </p>
-                <div class="text-center">
-                <div class="col-lg-6 text-center">
-                    <a href="#eventbrite-widget-container-107191257938"
-                        class="btn btn-primary btn-xl page-scroll">Iscriviti ora</a>
-                </div>
+               <div class="col-lg-6 text-center">
+                        <a href="#checkout"
+                            class="btn btn-primary btn-xl page-scroll">Iscriviti ora</a>
+                    </div>
             </div>
         </div>
     </div>
@@ -149,15 +148,15 @@ permalink: /workshop/
                             oro digitale, finanza e tulipani</a></em>.
                 </p>
             <div class="col-lg-6 text-center">
-                <a href="#eventbrite-widget-container-107191257938"
+                <a href="#checkout"
                     class="btn btn-primary btn-xl page-scroll">Iscriviti ora</a>
             </div>
             </div>
 
 
-            <div class="col-lg-6">
+            <div id="tariffe" class="col-lg-6">
                 <div class="text-center">
-                    <h2><em>EARLYBIRD solo fino al 20 giugno!!</em></h2>
+                    <h2>Quota di partecipazione</h2>
                     <hr class="primary">
                 </div>
                 <p class="text-muted">
@@ -199,7 +198,7 @@ permalink: /workshop/
                         {% if today_date < past_date %}</s>{% endif %}
                 </p>
             <div class="col-lg-6 text-center">
-                <a href="#eventbrite-widget-container-107191257938"
+                <a href="#checkout"
                     class="btn btn-primary btn-xl page-scroll">Iscriviti ora</a>
             </div>
             </div>
@@ -209,6 +208,11 @@ permalink: /workshop/
 
 <section id="video" style="background-color:#f4f4f4;">
     <div class="container">
+        <div class="text-center">
+            <h2>Bitcoin: l'equivalente digitale dell'oro</h2>
+            <hr class="primary">
+        </div>
+        <br>
         <div class="row">
             <div class="col-lg-6 text-center">
                 <div class='embed-container'>
@@ -216,9 +220,8 @@ permalink: /workshop/
                     </iframe>
                 </div>
             </div>
-
+            <br>
             <div class="col-lg-6 text-center">
-                <hr class="primary">
                 <p>
                     <em>Bitcoin è l'equivalente digitale dell'oro:
                         se pensiamo alla rilevanza dell'oro fisico
@@ -230,8 +233,8 @@ permalink: /workshop/
                         e nel futuro della moneta e della finanza</em>
                 </p>
             </div>
-            <div class="section-heading text-center">
-                <a href="#eventbrite-widget-container-107191257938" class="page-scroll">
+            <div class="col-lg-6 text-center">
+                <a href="#checkout" class="page-scroll">
                     <button class="btn btn-primary" align="center">
                         <i class="fa fa-angle-down fa-2x"></i>
                     </button>
@@ -241,24 +244,46 @@ permalink: /workshop/
     </div>
 </section>
 
-<!--eventbrite embed checkout-->
-<div id="eventbrite-widget-container-107191257938"></div>
+<section id="checkout">
+    <div class="container">
+        <div class="text-center">
+            <h2>Iscriviti ora: <em>tariffa EARLYBIRD fino al 20 giugno!</em></h2>
+            <hr class="primary">
+        </div>
+        <br>
+        <div class='embed-container'>
+            <div id="eventbrite-widget-container-107191257938">
+            </div>
 
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+            <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
+            <script type="text/javascript">
+                var exampleCallback = function() {
+                    console.log('Order complete!');
+                };
 
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '107191257938',
-        iframeContainerId: 'eventbrite-widget-container-107191257938',
+                window.EBWidgets.createWidget({
+                    // Required
+                    widgetType: 'checkout',
+                    eventId: '107191257938',
+                    iframeContainerId: 'eventbrite-widget-container-107191257938',
 
-        // Optional
-        iframeContainerHeight: 420,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+                    // Optional
+                    iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+                    onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+                });
+            </script>
+        </div>
+        <hr class="primary">
+        <div class="row">
+            <div class="col-lg-6 text-center">
+                <a href="#tariffe" class="btn btn-primary btn-xl page-scroll">Consulta tutte le tariffe</a>
+            </div>
+            <br>
+            <div class="col-lg-6 text-center">
+                <a href="#program" class="btn btn-primary btn-xl page-scroll">Consulta il programma</a>
+            </div>
+        </div>
+    </div>
+</section>
+
