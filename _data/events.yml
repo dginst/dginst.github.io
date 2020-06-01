@@ -18,7 +18,7 @@
     thumb:
   eventfeed: false
   published: false
-
+  
 - title: "Presentazione del Report 2020-Q3"
   subtitle:
   lang: it
@@ -39,7 +39,7 @@
     thumb:
   eventfeed: false
   published: false
-
+  
 - title: "2nd Crypto Asset Lab Conference"
   subtitle: 
   lang: en
@@ -60,7 +60,7 @@
     thumb: 20200916-cal2020-thumb.png
   eventfeed: false
   published: true
- 
+  
 - title: "Bitcoin, blockchain e crypto-assets: <br> impatti nei settori finanziari e assicurativi"
   subtitle:
   lang: it
@@ -81,7 +81,7 @@
     thumb: 20200915-borsa-italiana-thumb.jpg
   eventfeed: false
   published: true
- 
+  
 - title: "Bitcoin e blockchain"
   subtitle: "Introduzione e aspetti tecnici"
   lang: it
@@ -102,7 +102,7 @@
     thumb: 20200721-workshop-thumb.jpg
   eventfeed: true
   published: true
-
+  
 - title: "Presentazione del Report 2020-Q2"
   subtitle:
   lang: it
@@ -121,6 +121,27 @@
     main: 20200707-report2020q2.jpg
     size: 
     thumb: 20200707-report2020q2-thumb.jpg
+  eventfeed: true
+  published: true
+  
+- title: "Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"
+  subtitle: Modera M.Chiratti <br> Relatori F.Ametrano, A.Conso, A. Medri e M. Scopsi
+  lang: it
+  city: Live Streaming
+  date: 2020-06-04
+  date2:
+  hours: 17:30-19:00
+  organizer: A&C Law
+  address: Zoom meeting 
+  info:
+    text: Agenda e registrazione disponibili qui
+    url: http://dgi.io/docs/202020604-bitcoin-e-normativa-tedesca.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 202020604-bitcoin-e-normativa-tedesca.jpg
+    size: 
+    thumb: 202020604-bitcoin-e-normativa-tedesca-thumb.jpg
   eventfeed: true
   published: true
 
@@ -203,27 +224,6 @@
     main:
     size: 
     thumb:
-  eventfeed: false
-  published: false
-
-- title: "Bitcoin e risparmio gestito"
-  subtitle: Evento RINVIATO A DATA DA STABILIRSI
-  lang: it
-  city: Milano
-  date: 2020-04-15
-  date2:
-  hours: 16:00-18:00
-  organizer: DGI in collaborazione con A&C Law
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
-  info:
-    text: presto disponibili
-    url: https://aclaw.eu/it/home/
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 
-    size: 
-    thumb: 20200324-risparmiogestito-thumb.jpg
   eventfeed: false
   published: false
 
