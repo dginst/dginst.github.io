@@ -4,7 +4,10 @@
 
 ## Testing your GitHub Pages site locally with Jekyll
 
-The first time setup requires Ruby and Jekyll installation, plus:
+The first time setup requires:
+
+- Ruby installation (https://rubyinstaller.org/)
+- Jekyll installation (https://jekyllrb.com/docs/installation/windows/)
 
 ```shell
 $ gem install bundler
