@@ -124,6 +124,49 @@
   eventfeed: true
   published: true
   
+- title: "A&C Webinar"
+  subtitle: 
+  lang: it
+  city: Live Streaming
+  date: 2020-06-25
+  date2:
+  hours: 17:30-19:00
+  organizer: A&C Law
+  address: Zoom meeting 
+  info:
+    text: Agenda e registrazione disponibili qui
+    url: 
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 
+    size: 
+    thumb: 
+  eventfeed: false
+  published: false
+  
+- title: "Bitcoin, criptovalute e risparmio gestito: asset eligible anche
+per Fondi e gestioni di portafoglio?"
+  subtitle: Modera M.Chiratti <br> Relatori F.Ametrano, A.Conso, A. Medri, F. Berneri, F. Frontini
+  lang: it
+  city: Live Streaming
+  date: 2020-06-11
+  date2:
+  hours: 17:30-19:00
+  organizer: A&C Law
+  address: Zoom meeting 
+  info:
+    text: Agenda e registrazione disponibili qui    
+    url: http://dgi.io/docs/20200611-bitcoin-e-risparmio-gestito.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200611-bitcoin-e-risparmio-gestito.jpg
+    size: 
+    thumb: 20200611-bitcoin-e-risparmio-gestito-thumb.jpg
+  eventfeed: true
+  published: true
+
 - title: "Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"
   subtitle: Modera M.Chiratti <br> Relatori F.Ametrano, A.Conso, A. Medri e M. Scopsi
   lang: it
@@ -135,13 +178,13 @@
   address: Zoom meeting 
   info:
     text: Agenda e registrazione disponibili qui
-    url: http://dgi.io/docs/202020604-bitcoin-e-normativa-tedesca.pdf
+    url: http://dgi.io/docs/20200604-bitcoin-e-normativa-tedesca.pdf
   discount_code:
   discount_code_publish:
   image:
-    main: 202020604-bitcoin-e-normativa-tedesca.jpg
+    main: 20200604-bitcoin-e-normativa-tedesca.jpg
     size: 
-    thumb: 202020604-bitcoin-e-normativa-tedesca-thumb.jpg
+    thumb: 20200604-bitcoin-e-normativa-tedesca-thumb.jpg
   eventfeed: true
   published: true
 
