@@ -5,10 +5,10 @@ title: "Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"
 subtitle: "Come si inserisce questa novità nel quadro europeo di MIFID II" 
 author: "Lucia Mandelli"
 image:
-    main: 202020604-bitcoin-e-normativa-tedesca.jpg
-    thumb: 202020604-bitcoin-e-normativa-tedesca-thumb.jpg
+    main: 20200604-bitcoin-e-normativa-tedesca.jpg
+    thumb: 20200604-bitcoin-e-normativa-tedesca-thumb.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Abbiamo il piacere di invitarvi al webinar **"Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"** organizzato dai nostri partner [A&C Law](https://aclaw.eu/it/home/), [CryptoValues](https://cryptovalues.eu//) e [CheckSig](https:/checksig.io/) che si terrà domani, giovedì 4 giugno 2020,
@@ -19,7 +19,9 @@ Kreditwesengesetz (KWG)) che, inter alia, ha introdotto (anche) con riferimento 
 
 I chiarimenti di BaFin aprono l'ulteriore riflessione sulle possibili implicazioni pratiche per l’industria, in una prospettiva non solo nazionale, ma anche europea.
 
-ll workshop si concentra sul controverso tema della qualificazione giuridica di bitcoin. Ne discutono:
+Il webinar è il primo di tre appuntamenti e si concentra sul controverso tema della qualificazione giuridica di bitcoin; successivamente, nei prossimi webinar, esploreremo il suo ruolo in un portafoglio di investimento e, infine, come soddisfare i requisiti tecnologici e regolamentari per investire in bitcoin.
+
+Ne discutono:
 
 - [*Ferdinando Ametrano*](http://www.ametrano.net/bbt/), che racconta come questi temi abbiano creato lo spin-off _CheckSig_ dalla ricerca DGI;
 - [*Andrea Conso*](https://www.linkedin.com/in/andrea-conso/), Partner di Annunziata&Conso;
