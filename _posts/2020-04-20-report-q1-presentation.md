@@ -11,8 +11,8 @@ published: true
 newsfeed: false
 ---
 
-Il Digital Gold Institute pubblica un rapporto trimestrale
-sull'ecosistema Bitcoin, crypto asset e blockchain:
+Il Digital Gold Institute pubblica un **rapporto trimestrale
+sull'ecosistema Bitcoin, crypto asset e blockchain**:
 è appena uscito il numero 2020-Q1.
 I temi coperti sono: mercato, sviluppi tecnologici,
 regolazione ed in generale le notizie principali del trimestre.
@@ -24,11 +24,10 @@ affrontando queste settimane, i nostri partner
 [Deloitte](http://www2.deloitte.com/it) e
 [Prometeia](http://www.prometeia.it)
 hanno deciso di rilasciare pubblicamente il
-**report sull’ecosistema bitcoin, crypto-assets e blockchain**
-che produciamo trimestralmente _in esclusiva_ per loro.
+report usualmente riservato _in esclusiva_ per loro.
 
-Il report è stato [presentato]({{site.baseurl}}/2020Q1/)
-in live-streaming [Youtube](https://youtu.be/0dwp7j0Y2dI) il 17 aprile,
+Il rapporto è stato [presentato]({{site.baseurl}}/2020Q1/)
+in live-streaming [YouTube](https://youtu.be/0dwp7j0Y2dI) il 17 aprile,
 dal nostro direttore [Ferdinando Ametrano](http://www.ametrano.net)
 ([slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf));
 [**Francesco Avella**](https://www.linkedin.com/in/francesco-avella-84b1a111/)
