@@ -8,7 +8,7 @@ image:
     main: 20200611-bitcoin-e-risparmio-gestito.jpg
     thumb: 20200611-bitcoin-e-risparmio-gestito-thumb.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Abbiamo il piacere di invitarvi al webinar "**Bitcoin, criptovalute e risparmio gestito: asset _eligible_ anche per Fondi e gestioni di portafoglio?**" organizzato dai nostri partner [A&C Law](https://aclaw.eu/it/home/), [CryptoValues](https://cryptovalues.eu//) e [CheckSig](https:/checksig.io/) che si terrà domani, giovedì 11 giugno 2020,
