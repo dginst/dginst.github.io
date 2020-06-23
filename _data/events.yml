@@ -124,8 +124,8 @@
   eventfeed: true
   published: true
   
-- title: "A&C Webinar"
-  subtitle: 
+- title: "Bitcoin e i modelli di custodia dei cryptoasset: tra rischio di frode, AML e perdita di asset"
+  subtitle: Modera M.Chiratti <br> Intervengono F.Ametrano, A. Medri, D. Varani, A. Berruto
   lang: it
   city: Live Streaming
   date: 2020-06-25
@@ -135,15 +135,15 @@
   address: Zoom meeting 
   info:
     text: Agenda e registrazione disponibili qui
-    url: 
+    url: http://dgi.io/docs/20200625-bitcoin-e-custodia.pdf
   discount_code:
   discount_code_publish:
   image:
-    main: 
+    main: 20200625-bitcoin-e-custodia.jpg
     size: 
-    thumb: 
-  eventfeed: false
-  published: false
+    thumb: 20200625-bitcoin-e-custodia-thumb.jpg
+  eventfeed: true
+  published: true
   
 - title: "Bitcoin, criptovalute e risparmio gestito: asset eligible anche
 per Fondi e gestioni di portafoglio?"
@@ -165,7 +165,7 @@ per Fondi e gestioni di portafoglio?"
     size: 
     thumb: 20200611-bitcoin-e-risparmio-gestito-thumb.jpg
   eventfeed: true
-  published: true
+  published: false
 
 - title: "Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"
   subtitle: Modera M.Chiratti <br> Relatori F.Ametrano, A.Conso, A. Medri e M. Scopsi
