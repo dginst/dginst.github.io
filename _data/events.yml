@@ -106,10 +106,10 @@
 - title: "Presentazione del Report 2020-Q2"
   subtitle:
   lang: it
-  city: Milano
-  date: 2020-07-07
+  city: Online streaming
+  date: 2020-07-16
   date2: 
-  hours: 16:00-18:00
+  hours: 17:30-19:00
   organizer: Digital Gold Institute
   address: Milano
   info:
@@ -118,9 +118,9 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20200707-report2020q2.jpg
+    main: 20200716-report2020q2.jpg
     size: 
-    thumb: 20200707-report2020q2-thumb.jpg
+    thumb: 20200716-report2020q2-thumb.jpg
   eventfeed: true
   published: true
   
