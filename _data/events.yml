@@ -19,6 +19,27 @@
   eventfeed: false
   published: false
   
+- title: "2nd Crypto Asset Lab Conference"
+  subtitle: 
+  lang: en
+  city: Milan (Italy)
+  date: 2020-10-27
+  date2:
+  hours: 9:30-17:30
+  organizer: Crypto Asset Lab (University of Milano-Bicocca)
+  address: University of Milano-Bicocca, Building U12, Via Vizzola 5, 20126 Milan (Italy)
+  info:
+    text: conference web-page
+    url: https://cryptoassetlab.diseade.unimib.it/cal2020/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20201027-cal2020.png
+    size: 200
+    thumb: 20201027-cal2020-thumb.png
+  eventfeed: true
+  published: true
+
 - title: "Presentazione del Report 2020-Q3"
   subtitle:
   lang: it
@@ -39,27 +60,6 @@
     thumb:
   eventfeed: false
   published: false
-  
-- title: "2nd Crypto Asset Lab Conference"
-  subtitle: 
-  lang: en
-  city: Milan (Italy)
-  date: 2020-09-16
-  date2:
-  hours: 9:30-17:30
-  organizer: Crypto Asset Lab (University of Milano-Bicocca)
-  address: University of Milano-Bicocca, Building U12, Via Vizzola 5, 20126 Milan (Italy)
-  info:
-    text: conference web-page
-    url: https://cryptoassetlab.diseade.unimib.it/cal2020/
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20200916-cal2020.png
-    size: 200
-    thumb: 20200916-cal2020-thumb.png
-  eventfeed: false
-  published: true
   
 - title: "Bitcoin, blockchain e crypto-assets: <br> impatti nei settori finanziari e assicurativi"
   subtitle:
