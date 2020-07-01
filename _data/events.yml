@@ -37,7 +37,7 @@
     main: 20201027-cal2020.png
     size: 200
     thumb: 20201027-cal2020-thumb.png
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Presentazione del Report 2020-Q3"
@@ -102,7 +102,28 @@
     thumb: 20200721-workshop-thumb.jpg
   eventfeed: true
   published: true
-  
+    
+- title: "Blockchain Days"
+  subtitle:
+  lang: it
+  city: Online streaming
+  date: 2020-07-17
+  date2: 
+  hours: 17:30-19:00
+  organizer: Associazione BlockchainEdu
+  address: 
+  info:
+    text: dettagli ed iscrizioni nella pagina dedicata
+    url: https://www.rinascitadigitale.it/blockchain-days/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200717-ben.png
+    size: 
+    thumb: 20200717-ben-thumb.png
+  eventfeed: true
+  published: true
+
 - title: "Presentazione del Report 2020-Q2"
   subtitle:
   lang: it
