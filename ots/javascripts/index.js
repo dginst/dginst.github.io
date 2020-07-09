@@ -9,6 +9,7 @@ const calendarsList = [
 	'https://alice.btc.calendar.opentimestamps.org',
 	'https://bob.btc.calendar.opentimestamps.org',
 	'https://finney.calendar.eternitywall.com',
+	'https://ots.evtel.com'
 	//'https://ots.btc.catallaxy.com/'
 ]
 
@@ -17,6 +18,7 @@ const aggregatorList = [
 	'https://a.pool.opentimestamps.org',
 	'https://b.pool.opentimestamps.org',
 	'https://a.pool.eternitywall.com',
+	'https://ots.evtel.com'
 	//'https://ots.btc.catallaxy.com'
 ]
 
