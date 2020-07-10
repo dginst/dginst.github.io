@@ -144,6 +144,27 @@
     thumb: 20200716-report2020q2-thumb.jpg
   eventfeed: true
   published: true
+
+- title: "GDF Travel Rule Summit"
+  subtitle: Travel rule interpretation, implementation and compliance.
+  lang: it
+  city: Online streaming
+  date: 2020-07-15
+  date2: 
+  hours: 14:30-15:30
+  organizer: Associazione BlockchainEdu
+  address: 
+  info:
+    text: dettagli ed iscrizioni nella pagina dedicata
+    url: https://www.gdf.io/mem_event/gdf-travel-rule-summit/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20200715-gdf-travel-rule-summit-thumb.png
+    size: 
+    thumb: 20200715-gdf-travel-rule-summit-thumb.png
+  eventfeed: false
+  published: true
   
 - title: "Bitcoin e i modelli di custodia dei cryptoasset: tra rischio di frode, AML e perdita di asset"
   subtitle: Modera M.Chiratti <br> Intervengono F.Ametrano, A. Medri, D. Varani, A. Berruto
