@@ -8,6 +8,9 @@ permalink: /reports/
 
 I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre. Questi i report finora prodotti:
 
+- 2020-Q2:
+  presentazione del report ([video](https://youtu.be/m1hoHLewIWo) e
+  [slides]({{site.baseurl}}/docs/reports/2020Q2-presentation.pdf)).
 - 2020-Q1:
   report ([pagina singola]({{ site.baseurl }}/docs/reports/2020Q1.pdf) o
   [pagina doppia]({{ site.baseurl }}/docs/reports/2020Q1-doppiapagina.pdf)) e
