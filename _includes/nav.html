@@ -41,56 +41,11 @@
     
     {% if page.url == "/" %}
     
-    <div align='center'>
+    <!--div align='center'>
         <a href="{{ site.baseurl }}/workshop">
             <img src="{{ site.baseurl }}/img/events/20200721-banner.png" class="img-responsive" height="60">
         </a>
-    </div>
-    
-
-    <!--style type='text/css'>
-        #fire {
-          position:absolute;
-          top:0px; left:0px;
-          visibility:hidden;
-        }
-    </style>
-    <script type='text/javascript'>
-        var imgId = 'banner';
-        var imgOnTime = 1050;
-        var imgOffTime = 350;
-        window.onload = function()
-        {
-          // check for existence of objects we will use
-          if (document.getElementById) {
-            var ele = document.getElementById(imgId);
-            if (ele && ele.style) {
-              setTimeout('blinkImg()', imgOffTime);
-            }
-          }
-        }
-        function blinkImg()
-        {
-          var v, t, ele = document.getElementById(imgId);
-          if (ele.style.visibility == 'visible') {
-            // hide it, then wait for imgOffTime
-            v = 'hidden';
-            t = imgOffTime;
-          }
-          else {
-            // show it, then wait for imgOnTime
-            v = 'visible';
-            t = imgOnTime;
-          }
-          ele.style.visibility = v;
-          setTimeout('blinkImg()', t);
-        }
-    </script>
-    <div align='center'>
-        <a href="{{ site.baseurl }}/workshop">
-            <img src="{{ site.baseurl }}/img/events/20200721-banner.png" class="img-responsive" height="60" id="banner">
-        </a>
     </div-->
-
+    
     {% endif %}
 </nav>
