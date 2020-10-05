@@ -19,19 +19,6 @@
   social_7_link: http://ametrano.net/
   training: true
 
-- name: Eric Ehlers
-  role: Technical Officer
-  photo: img/team/Ehlers.png
-  photo_name: Ehlers
-  desc: Cofounder and director of <a href="https://www.reposit.be/">Reposit Limited</a>, providing consulting services in the domain of quantitative finance.</br><a href="https://www.quantlib.org/quantlibxl/">QuanLibXL</a> project founder. </br> Formerly 12 years at J.P. Morgan Chase, first in IT management and later as technical lead for front-office pricing spreadsheets.
-  social_1: fab fa-twitter
-  social_1_link: http://twitter.com/CheckSigCTO
-  social_2: fab fa-linkedin-in
-  social_2_link: https://www.linkedin.com/in/eric-ehlers-9ba682/
-  social_3: fab fa-github
-  social_3_link: https://github.com/eehlers
-  training: false
-
 - name: Paolo Mazzocchi
   role: Operating Officer
   photo: img/team/Mazzocchi.png
