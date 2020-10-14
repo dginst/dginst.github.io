@@ -55,11 +55,11 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20201015-report2020q3.jpg
+    main: 20201029-report2020q3.jpg
     size: 200
-    thumb: 20201015-report2020q3-thumb.jpg
-  eventfeed: false
-  published: false
+    thumb: 2020129-report2020q3-thumb.jpg
+  eventfeed: true
+  published: true
   
 - title: "Bitcoin, blockchain e crypto-assets: <br> impatti nei settori finanziari e assicurativi"
   subtitle: Evento annullato
