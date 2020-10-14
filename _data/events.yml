@@ -58,8 +58,8 @@
     main: 20201015-report2020q3.jpg
     size: 200
     thumb: 20201015-report2020q3-thumb.jpg
-  eventfeed: true
-  published: true
+  eventfeed: false
+  published: false
   
 - title: "Bitcoin, blockchain e crypto-assets: <br> impatti nei settori finanziari e assicurativi"
   subtitle: Evento annullato
