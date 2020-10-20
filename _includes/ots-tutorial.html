@@ -9,15 +9,15 @@
                 This tutorial breaks down the
                 <a href="https://opentimestamps.org">OpenTimestamps</a>
                 protocol into the following granular steps:
-                <ol>
-                    <li><a class="page-scroll" href="#ots_tools_hash">Calculating the data file hash value</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_timestamp">Submitting the hash for attestation</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_load">Loading the OTS receipt/proof from file</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_info">Displaying the OTS receipt/proof informations</a>
-                    </li>
-                    <li><a class="page-scroll" href="#ots_tools_upgrade">Upgrading the OTS receipt/proof</a></li>
-                    <li><a class="page-scroll" href="#ots_tools_verify">Verifying the OTS receipt/proof</a></li>
-                </ol>
+            <ol>
+                <li><a class="page-scroll" href="#ots_tools_hash">Calculating the data file hash value</a></li>
+                <li><a class="page-scroll" href="#ots_tools_timestamp">Submitting the hash for attestation</a></li>
+                <li><a class="page-scroll" href="#ots_tools_load">Loading the OTS receipt/proof from file</a></li>
+                <li><a class="page-scroll" href="#ots_tools_info">Displaying the OTS receipt/proof informations</a>
+                </li>
+                <li><a class="page-scroll" href="#ots_tools_upgrade">Upgrading the OTS receipt/proof</a></li>
+                <li><a class="page-scroll" href="#ots_tools_verify">Verifying the OTS receipt/proof</a></li>
+            </ol>
             </p>
             <div class="col-lg-12 text-center">
                 <a href="#ots_stampverify" class="page-scroll">
@@ -133,15 +133,18 @@
                                 rows="1" cols="64">datafile.ext.ots</textarea>
                         </div>
                         <div class="form-group">
-                          <label for="stamp-filename">OTS Calendar selection</label><br>
-                          <input type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://btc.ots.dgi.io">
-                          <a href="https://btc.ots.dgi.io">Btc (Digital Gold Institute)</a><br>
-                          <input  type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://alice.btc.calendar.opentimestamps.org">
-                          <a href="https://alice.btc.calendar.opentimestamps.org">Alice (Opentimestamps)</a><br>
-                          <input type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://bob.btc.calendar.opentimestamps.org">
-                          <a href="https://bob.btc.calendar.opentimestamps.org">Bob (Opentimestamps)</a><br>
-                          <input type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://finney.calendar.eternitywall.com">
-                          <a href="https://finney.calendar.eternitywall.com">Finney (Eternitywall)</a><br>
+                            <label for="stamp-filename">OTS Calendar selection</label><br>
+                            <!--input type="checkbox" id="stamp-calendar" name="stamp-calendar" value="https://btc.ots.dgi.io">
+                          <a href="https://btc.ots.dgi.io">Btc (Digital Gold Institute)</a><br-->
+                            <input type="checkbox" id="stamp-calendar" name="stamp-calendar"
+                                value="https://alice.btc.calendar.opentimestamps.org">
+                            <a href="https://alice.btc.calendar.opentimestamps.org">Alice (Opentimestamps)</a><br>
+                            <input type="checkbox" id="stamp-calendar" name="stamp-calendar"
+                                value="https://bob.btc.calendar.opentimestamps.org">
+                            <a href="https://bob.btc.calendar.opentimestamps.org">Bob (Opentimestamps)</a><br>
+                            <input type="checkbox" id="stamp-calendar" name="stamp-calendar"
+                                value="https://finney.calendar.eternitywall.com">
+                            <a href="https://finney.calendar.eternitywall.com">Finney (Eternitywall)</a><br>
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
@@ -335,14 +338,18 @@
                         </div>
                         <div class="form-group row">
                             <label for="stamp-filename">OTS Calendar selection</label><br>
-                            <input  class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar" value="https://btc.ots.dgi.io">
-                              <a href="https://btc.ots.dgi.io">Btc (Digital Gold Institute)</a><br>
-                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar" value="https://alice.btc.calendar.opentimestamps.org">
-                              <a href="https://alice.btc.calendar.opentimestamps.org">Alice (Opentimestamps)</a><br>
-                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar" value="https://bob.btc.calendar.opentimestamps.org">
-                              <a href="https://bob.btc.calendar.opentimestamps.org">Bob (Opentimestamps)</a><br>
-                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar" value="https://finney.calendar.eternitywall.com">
-                              <a href="https://finney.calendar.eternitywall.com">Finney (Eternitywall)</a><br>
+                            <!--input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar"
+                                value="https://btc.ots.dgi.io">
+                            <a href="https://btc.ots.dgi.io">Btc (Digital Gold Institute)</a><br-->
+                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar"
+                                value="https://alice.btc.calendar.opentimestamps.org">
+                            <a href="https://alice.btc.calendar.opentimestamps.org">Alice (Opentimestamps)</a><br>
+                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar"
+                                value="https://bob.btc.calendar.opentimestamps.org">
+                            <a href="https://bob.btc.calendar.opentimestamps.org">Bob (Opentimestamps)</a><br>
+                            <input class="col-sm" type="checkbox" id="verify-calendar" name="verify-calendar"
+                                value="https://finney.calendar.eternitywall.com">
+                            <a href="https://finney.calendar.eternitywall.com">Finney (Eternitywall)</a><br>
                         </div>
                         <br>
                         <div class="col-lg-12 text-center">
