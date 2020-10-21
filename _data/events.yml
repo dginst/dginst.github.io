@@ -1,24 +1,24 @@
-- title: "Bitcoin e blockchain"
-  subtitle: "1. Introduzione<br>2. Aspetti tecnici"
+- title: "Presentazione del Report 2020-Q3"
+  subtitle:
   lang: it
   city: Milano
-  date: 2020-10-20
-  date2: 2020-10-21
-  hours: 9:00-17:30
+  date: 2020-10-29
+  date2:
+  hours: 16:00-18:00
   organizer: Digital Gold Institute
-  address: Copernico-Isola S32, Via Filippo Sassetti 32, 20124 Milano
+  address: 
   info:
-    text: vedi programma
-    url: http://dgi.io/workshop
+    text: evento ad invito
+    url:
   discount_code:
   discount_code_publish:
   image:
-    main: 20201020-workshop.jpg
+    main: 20201029-report2020q3.jpg
     size: 200
-    thumb: 20201020-workshop-thumb.jpg
+    thumb: 20201029-report2020q3-thumb.jpg
   eventfeed: true
   published: true
-  
+
 - title: "2nd Crypto Asset Lab Conference"
   subtitle: 
   lang: en
@@ -40,27 +40,28 @@
   eventfeed: true
   published: true
 
-- title: "Presentazione del Report 2020-Q3"
-  subtitle:
+- title: "Bitcoin e blockchain"
+  subtitle: "1. Introduzione<br>2. Aspetti tecnici"
   lang: it
   city: Milano
-  date: 2020-10-15
-  date2:
-  hours: 16:00-18:00
+  date: 2020-10-20
+  date2: 2020-10-21
+  hours: 9:00-17:30
   organizer: Digital Gold Institute
-  address: 
+  address: Online streaming
   info:
-    text: evento ad invito
-    url:
+    text: vedi programma
+    url: http://dgi.io/workshop
   discount_code:
   discount_code_publish:
   image:
-    main: 20201029-report2020q3.jpg
+    main: 20201020-workshop.jpg
     size: 200
-    thumb: 2020129-report2020q3-thumb.jpg
+    thumb: 20201020-workshop-thumb.jpg
   eventfeed: true
   published: true
   
+
 - title: "Bitcoin, blockchain e crypto-assets: <br> impatti nei settori finanziari e assicurativi"
   subtitle: Evento annullato
   lang: it
