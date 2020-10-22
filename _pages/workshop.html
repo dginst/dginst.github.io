@@ -163,19 +163,19 @@ permalink: /workshop/
                 </div>
                 <p class="text-muted">
                     {% assign today_date = 'today' | date: '%yyyy-%mm-%dd' %}
-                    {% assign early_date = "2020-09-20" | date: '%yyyy-%mm-%dd' %}
-                    {% assign regular_date = "2020-10-14" | date: '%yyyy-%mm-%dd' %}
+                    {% assign early_date = "2021-02-20" | date: '%yyyy-%mm-%dd' %}
+                    {% assign regular_date = "2021-03-14" | date: '%yyyy-%mm-%dd' %}
                     {% assign past_date = "2020-01-01" | date: '%yyyy-%mm-%dd' %}
 
                     {% if today_date > early_date %}<s>{% endif %}
-                        Tariffe <em>EARLYBIRD</em> disponibili solo fino al 20 settembre:<br>
+                        Tariffe <em>EARLYBIRD</em>:<br>
                         20 ottobre: introduzione <b>€490</b><br>
                         21 ottobre: aspetti tecnici <b>€350</b><br>
                         20 e 21 ottobre: introduzione e aspetti tecnici <b>€690</b><br>
                         {% if today_date > early_date %}</s>{% endif %}
                     <br>
                     {% if today_date > regular_date %}<s>{% endif %}
-                        Tariffe <em>REGULAR</em> disponibili fino al 14 ottobre:<br>
+                        Tariffe <em>REGULAR</em>:<br>
                         20 ottobre: introduzione <b>€690</b><br>
                         21 ottobre: aspetti tecnici <b>€490</b><br>
                         20 e 21 ottobre: introduzione e aspetti tecnici <b>€990</b><br>
