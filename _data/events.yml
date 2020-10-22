@@ -1,3 +1,24 @@
+- title: "Presente e futuro: l'innovazione digitale"
+  subtitle: Corso di formazione
+  lang: it
+  city: Milano
+  date: 2020-11-04
+  date2:
+  hours: 
+  organizer: Digital Gold Institute
+  address: 
+  info:
+    text: "iscrizioni: info@cryptovalues.eu"
+    url: https://cryptovalues.eu/events/4-5-novembre-2020-cryptovalues-corso-introduttivo
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20201104-cryptovalues.jpg
+    size: 200
+    thumb: 20201104-cryptovalues-thumb.jpg
+  eventfeed: true
+  published: true
+
 - title: "Presentazione del Report 2020-Q3"
   subtitle:
   lang: it

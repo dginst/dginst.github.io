@@ -14,9 +14,20 @@
             </a>        
         </div>
         {% endfor %}
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Institutional Partners</h2>
+            <hr class="primary">
+        </div>
+        {% for member in site.data.partners %}
+        <div class="partners-i">
+            <a href="{{ member.link }}" class="partners-link">
+                <img src="{{ member.logo }}" alt="{{ member.name }}" width="{{ member.size }}">
+            </a>        
+        </div>
+        {% endfor %}
 </section>
 
-<section class="partners" id="partners" style="background-color:#f5f5f5;">
+<!--section class="partners" id="partners" style="background-color:#f5f5f5;">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -32,4 +43,4 @@
         </div>
         {% endfor %}
     </div>
-</section>
+</section-->
