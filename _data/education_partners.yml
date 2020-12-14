@@ -23,7 +23,7 @@
   logo: img/partners/edulab-logo.png
   size: 200  
 
-- name: Craon
-  link: https://www.craon.it
-  logo: img/partners/craon-2.png
-  size: 200
+- name: Join Us
+  link: "https://dgi.io/training"
+  logo: img/partners/training.png
+  size: 300

@@ -5,7 +5,7 @@ const OpenTimestamps = window.OpenTimestamps
 
 // an empty list would be equivalent to the default calendars
 const calendarsList = [
-	'https://btc.ots.dgi.io',
+	//'https://btc.ots.dgi.io',
 	'https://alice.btc.calendar.opentimestamps.org',
 	'https://bob.btc.calendar.opentimestamps.org',
 	'https://finney.calendar.eternitywall.com',
@@ -13,7 +13,7 @@ const calendarsList = [
 ]
 
 const aggregatorList = [
-	'https://btc.ots.dgi.io',
+	//'https://btc.ots.dgi.io',
 	'https://a.pool.opentimestamps.org',
 	'https://b.pool.opentimestamps.org',
 	'https://a.pool.eternitywall.com',
