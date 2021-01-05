@@ -80,22 +80,22 @@ Di seguito la trascrizione di questa puntata.
 
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
-[1: Oro digitale]({{ site.baseurl }}/2019/06/17/intervista-Bitcoin-01.html)
+[1: Oro digitale]({{ site.baseurl }}/2019/06/17/intervista-bitcoin-01.html)
 
-[2: Tra truffa e speculazione]({{ site.baseurl }}/2019/06/20/intervista-Bitcoin-02.html)
+[2: Tra truffa e speculazione]({{ site.baseurl }}/2019/06/20/intervista-bitcoin-02.html)
 
-[3: Regolazione]({{ site.baseurl }}/2019/06/25/intervista-Bitcoin-03.html)
+[3: Regolazione]({{ site.baseurl }}/2019/06/25/intervista-bitcoin-03.html)
 
-[4: La finanza]({{ site.baseurl }}/2019/06/27/intervista-Bitcoin-04.html)
+[4: La finanza]({{ site.baseurl }}/2019/06/27/intervista-bitcoin-04.html)
 
-[5: Come funziona Bitcoin]({{ site.baseurl }}/2019/07/02/intervista-Bitcoin-05.html)
+[5: Come funziona Bitcoin]({{ site.baseurl }}/2019/07/02/intervista-bitcoin-05.html)
 
-[6: Ico, forkcoin e altcoin]({{ site.baseurl }}/2019/07/04/intervista-Bitcoin-06.html)
+[6: Ico, forkcoin e altcoin]({{ site.baseurl }}/2019/07/04/intervista-bitcoin-06.html)
 
-[7: Privacy e futuro della moneta]({{ site.baseurl }}/2019/07/09/intervista-Bitcoin-07.html)
+[7: Privacy e futuro della moneta]({{ site.baseurl }}/2019/07/09/intervista-bitcoin-07.html)
 
-[8: La blockchain oltre Bitcoin]({{ site.baseurl }}/2019/07/11/intervista-Bitcoin-08.html)
+[8: La blockchain oltre Bitcoin]({{ site.baseurl }}/2019/07/11/intervista-bitcoin-08.html)
 
-[10: Investire in Bitcoin]({{ site.baseurl }}/2019/07/18/intervista-Bitcoin-10.html)
+[10: Investire in Bitcoin]({{ site.baseurl }}/2019/07/18/intervista-bitcoin-10.html)
 
-[11: Tra divulgazione e università]({{ site.baseurl }}/2019/07/23/intervista-Bitcoin-11.html)
+[11: Tra divulgazione e università]({{ site.baseurl }}/2019/07/23/intervista-bitcoin-11.html)
