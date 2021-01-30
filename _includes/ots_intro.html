@@ -17,31 +17,32 @@
                     to create and/or verify timestamp proofs using the
                     <a href="https://opentimestamps.org">OpenTimestamps</a>
                     protocol and its free public Bitcoin calendar servers.
-                    [<em>If in a hurry, skip the following introduction
-                        at your own risk and go straight away to
+                    [<em>If in a hurry, skip this introduction
+                        and go straight away to
                         <a href="{{ site.baseurl }}/ots/#ots_stampverify">timestamping</a></em>.]
                 </p>
                 <p class="text-muted">
                     A timestamp demonstrates that a document existed in a
                     specific status prior to a given point in time, providing
                     a document with a certain sure date (e.g. postmark).
-                    Law requires dates to be usually certified by
+                    Law requires dates to be certified by
                     public officials and notary services;
-                    for digital documents, timestamping is based on the
+                    for digital documents, timestamping is usually based on the
                     digital signature of a Certification Authority (CA).
                 </p>
                 <p class="text-muted">
-                    Digital data can be securely timestamped though the
+                    Anyway, digital data can be securely timestamped using the
                     <em>attestation</em> of its <em>hash value</em>
-                    in a blockchain transaction:
-                    the hash value 'uniquely' identifies the document
+                    in a blockchain transaction.
+                    The hash value 'uniquely' identifies the document
                     (as if it were its digital fingerprint),
                     the transaction extends its native blockchain
                     timestamping to the included hash value,
                     therefore proving its
                     existence at a given point in time.
                     As a result,
-                    its blockchain attestation proves the existence of the
+                    the blockchain attestation of the hash value
+                    proves the existence of the
                     original document itself prior to the timestamp moment.
                 </p>
                 <p class="text-muted">
@@ -90,11 +91,11 @@
                     and
                     attests only the hash
                     of the Merkle tree root.
-                    Since the inclusion of a 
+                    Since the inclusion of a
                     hash value <em>leaf</em> in a Merkel tree
                     can be cryptographically proved and is
                     part of the attestation proof,
-                    the single <em>attestation</em> 
+                    the single <em>attestation</em>
                     of the tree root implicitly attests
                     all the leaves.
                     This <em>aggregation before attestation</em>
