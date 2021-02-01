@@ -1,22 +1,22 @@
 - title: "Presentazione del Report 2020-Q4"
   subtitle:
   lang: it
-  city: Milano
+  city: Milan
   date: 2021-02-05
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
   address: 
   info:
-    text: live streaming su Youtube
-    url: https://youtu.be/TBMSFubeVTM
+    text: maggiori informazioni
+    url: https://dgi.io/2020q4
   discount_code:
   discount_code_publish:
   image:
     main: 20210205-2020q4-report.jpg
     size: 200
     thumb: 20210205-2020q4-report-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Bitcoin & Blockchain"
