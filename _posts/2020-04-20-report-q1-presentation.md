@@ -26,7 +26,7 @@ affrontando queste settimane, i nostri partner
 hanno deciso di rilasciare pubblicamente il
 report usualmente riservato _in esclusiva_ per loro.
 
-Il rapporto è stato [presentato]({{site.baseurl}}/2020Q1/)
+Il rapporto è stato [presentato]({{site.baseurl}}/2020q1/)
 in live-streaming [YouTube](https://youtu.be/0dwp7j0Y2dI) il 17 aprile,
 dal nostro direttore [Ferdinando M. Ametrano](http://www.ametrano.net)
 ([slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf));
