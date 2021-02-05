@@ -1,3 +1,24 @@
+- title: "Bitcoin & Blockchain"
+  subtitle: Training
+  lang: it
+  city: Milano
+  date: 2021-03-16
+  date2: 2021-03-17
+  hours: 
+  organizer: Digital Gold Institute
+  address: 
+  info:
+    text: Programma e registrazione
+    url: https://dgi.io/workshop
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210317-workshop.jpg
+    size: 200
+    thumb: 20210126-workshop-thumb.jpg
+  eventfeed: true
+  published: true
+
 - title: "Presentazione del Report 2020-Q4"
   subtitle:
   lang: it
@@ -15,7 +36,7 @@
   image:
     main: 20210205-2020q4-report.jpg
     size: 200
-    thumb: 20210205-2020q4-report-thumb.jpg
+    thumb: 20210205-2020q4-report.jpg
   eventfeed: false
   published: true
 
