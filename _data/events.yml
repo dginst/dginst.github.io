@@ -37,7 +37,7 @@
     main: 20210205-2020Q4-report.jpg
     size: 200
     thumb: 20210205-2020Q4-report-thumb.jpg
-  eventfeed: false
+  eventfeed: true
   published: true
 
 - title: "Bitcoin & Blockchain"
