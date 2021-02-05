@@ -21,7 +21,7 @@ custodia sicura dei cryptoasset ed i presidi di controllo ed organizzativi che g
 
 Ne discutono:
 
-- [*Ferdinando Ametrano*](http://www.ametrano.net/bbt/), Founder e CEO di CheckSig;
+- [*Ferdinando M. Ametrano*](http://www.ametrano.net/bbt/), Founder e CEO di CheckSig;
 - [Andrea Berruto](https://www.linkedin.com/in/andrea-g-p-berruto/), Associate di Annunziata&Conso
 - [Andrea Medri](https://www.linkedin.com/in/andrea-medri-5792828b/), Partner and CFO di The Rock Trading;
 - [Donato Varani](https://www.linkedin.com/in/donato-varani-9321172b/), Associate di Annunziata&Conso.

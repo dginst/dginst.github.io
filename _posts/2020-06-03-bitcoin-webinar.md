@@ -23,7 +23,7 @@ Il webinar è il primo di tre appuntamenti e si concentra sul controverso tema d
 
 Ne discutono:
 
-- [*Ferdinando Ametrano*](http://www.ametrano.net/bbt/), che racconta come questi temi abbiano creato lo spin-off _CheckSig_ dalla ricerca DGI;
+- [*Ferdinando M. Ametrano*](http://www.ametrano.net/bbt/), che racconta come questi temi abbiano creato lo spin-off _CheckSig_ dalla ricerca DGI;
 - [*Andrea Conso*](https://www.linkedin.com/in/andrea-conso/), Partner di Annunziata&Conso;
 - [Andrea Medri](https://www.linkedin.com/in/andrea-medri-5792828b/), Partner and CFO di The Rock Trading;
 - [Martina Scopsi](https://www.unibocconi.eu/wps/wcm/connect/47e8e165-c722-4acb-86c1-34987a8bcb7c/SCOPSI_Martina.pdf?MOD=AJPERES&CVID=lzjGGuW), Associate di Annunziata&Conso.

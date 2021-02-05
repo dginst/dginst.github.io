@@ -20,7 +20,7 @@ ll webinar mira ad approfondire le potenzialità di Bitcoin, come asset eligible
 
 Ne discutono:
 
-- [*Ferdinando Ametrano*](http://www.ametrano.net/bbt/), Founder di CheckSig;
+- [*Ferdinando M. Ametrano*](http://www.ametrano.net/bbt/), Founder di CheckSig;
 - [Filippo Berneri](https://www.linkedin.com/in/filippo-berneri-151a448/), Partner di Annunziata&Conso.
 - [*Andrea Conso*](https://www.linkedin.com/in/andrea-conso/), Partner di Annunziata&Conso;
 - [Andrea Medri](https://www.linkedin.com/in/andrea-medri-5792828b/), Partner and CFO di The Rock Trading;

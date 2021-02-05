@@ -28,7 +28,7 @@ crypto-asset, anche attraverso il richiamo di casi pratici, in particolare in am
 
 Relatori del corso:
 
-- [*Ferdinando Ametrano*](http://www.ametrano.net/bbt/), Founder e CEO di CheckSig;
+- [*Ferdinando M. Ametrano*](http://www.ametrano.net/bbt/), Founder e CEO di CheckSig;
 - [*Vito Barbera*](https://www.linkedin.com/in/vito-barbera-44883a89/), Crypto Asset Lab, Università Milano Bicocca;
 - [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/), Professore Associato Diritto dell’Economia, Università Milano Bicocca;
 - [Paolo Mazzocchi](https://www.linkedin.com/in/paolomazzocchi/), Founder and Operating Officer, CheckSig

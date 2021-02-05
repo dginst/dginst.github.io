@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Cryptovalute e nuovi player nel mercato dei Pagamenti"
-subtitle: "Tavola rotonda moderata da Ferdinando Ametrano" 
+subtitle: "Tavola rotonda moderata da Ferdinando M. Ametrano" 
 author: "Lucia Mandelli"
 image:
     main: 2019-11-08-il salone dei pagamenti.jpg
@@ -11,7 +11,7 @@ published: true
 newsfeed: false   
 ---
 
-In occasione de [Il Salone dei Pagamenti - Payvolution](http://www.salonedeipagamenti.com//) si è parlato di cryptovalute. All'interno del panel *[Cryptovalute e nuovi player nel mercato dei Pagamenti: uno sguardo sul mondo](http://www.salonedeipagamenti.com/agenda/sessione-cryptovalute-e-nuovi-player-nel-mercato-dei-pagamenti-impatti-regolamentazione-privacy?fbclid=IwAR1zg1pLavCB65NjnCPTc4XrHEeGou_Mz1jS0zAHW_1RFHUxpb7fGkHo6-0//)*, il direttore del nostro centro di ricerca [Ferdinando Ametrano](http://www.ametrano.net/) ha guidato il confronto tra i partecipanti sul tema del cambiamento del sistema finanziario tradizionale, a seguito dell'introduzione delle cryptovalute nel mondo dei pagamenti.
+In occasione de [Il Salone dei Pagamenti - Payvolution](http://www.salonedeipagamenti.com//) si è parlato di cryptovalute. All'interno del panel *[Cryptovalute e nuovi player nel mercato dei Pagamenti: uno sguardo sul mondo](http://www.salonedeipagamenti.com/agenda/sessione-cryptovalute-e-nuovi-player-nel-mercato-dei-pagamenti-impatti-regolamentazione-privacy?fbclid=IwAR1zg1pLavCB65NjnCPTc4XrHEeGou_Mz1jS0zAHW_1RFHUxpb7fGkHo6-0//)*, il direttore del nostro centro di ricerca [Ferdinando M. Ametrano](http://www.ametrano.net/) ha guidato il confronto tra i partecipanti sul tema del cambiamento del sistema finanziario tradizionale, a seguito dell'introduzione delle cryptovalute nel mondo dei pagamenti.
 
 **Di seguito un abstract dei contenuti trattati**:
 
@@ -26,7 +26,7 @@ Ad aprire il dibattito è  [Claudia Segre](http://www.salonedeipagamenti.com/rel
 
  L’ultima parte della tavola rotonda ha avuto come focus il pensiero dei risparmiatori, esplorato da [Andrea Alemanno](http://www.salonedeipagamenti.com/relators/andrea-alemanno), Senior Client Officer **Ipsos** e responsabile delle ricerche reputazionali e finanziarie. Il fenomeno è di nicchia, afferma **Alemanno**. L'attesa per i servizi di innovazione finanziaria, infatti, non risulta alta. Per il cittadino domina il rapporto fiduciario. La cryptovaluta che ad oggi esprime il valore maggiore in termini di trust rimane Bitcoin, mentre per Lybra di Facebook non vi è ancora fiducia. 
 
-In quest’ottica è ancora [Ferdinando Ametrano](http://www.ametrano.net/) a richiamare l’attenzione sul ruolo cruciale di Bitcoin come *oro digitale*. Un numero crescente di persone, seppure ancora in una nicchia, ne comprende il potenziale come asset di investimento. Ed essendo quest’ultimo la mission del nostro centro di ricerca, suggeriamo di approfondire la tematica [qui](http://bit.ly/37kl8Jn). 
+In quest’ottica è ancora [Ferdinando M. Ametrano](http://www.ametrano.net/) a richiamare l’attenzione sul ruolo cruciale di Bitcoin come *oro digitale*. Un numero crescente di persone, seppure ancora in una nicchia, ne comprende il potenziale come asset di investimento. Ed essendo quest’ultimo la mission del nostro centro di ricerca, suggeriamo di approfondire la tematica [qui](http://bit.ly/37kl8Jn). 
 
 
 La tavola rotonda, per riassumere, evidenzia chiaramente un trend in crescita del fenomeno, che però si alimenta in un ecosistema selvaggio. Sono necessari, quindi, una regolamentazione adeguata alla protezione del suo potenziale sviluppo, e strumenti tecnologici in grado di supportarne le potenzialità.

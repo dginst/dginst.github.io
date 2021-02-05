@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Bitcoin: oro digitale, finanza e tulipani (puntata 3 di 11)"
-subtitle: "Intervista a Ferdinando Ametrano"
+subtitle: "Intervista a Ferdinando M. Ametrano"
 author: "Staff"
 image:
     thumb: 2019-06-25-intervista-bitcoin-03-thumb.jpg
@@ -12,7 +12,7 @@ newsfeed: false
 ---
 
 Presentiamo la terza puntata dell'intervista al nostro direttore
-[*Ferdinando Ametrano*](https://www.ametrano.net)
+[*Ferdinando M. Ametrano*](https://www.ametrano.net)
 sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive puntate verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa puntata.
 
 ### 3 - Regolazione

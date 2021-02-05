@@ -28,7 +28,7 @@ report usualmente riservato _in esclusiva_ per loro.
 
 Il rapporto è stato [presentato]({{site.baseurl}}/2020Q1/)
 in live-streaming [YouTube](https://youtu.be/0dwp7j0Y2dI) il 17 aprile,
-dal nostro direttore [Ferdinando Ametrano](http://www.ametrano.net)
+dal nostro direttore [Ferdinando M. Ametrano](http://www.ametrano.net)
 ([slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf));
 [**Francesco Avella**](https://www.linkedin.com/in/francesco-avella-84b1a111/)
 managing partner di [Studio Avella](http://www.studioavella.it/),

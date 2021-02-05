@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Bitcoin: oro digitale, finanza e tulipani (puntata 6 di 11)"
-subtitle: "Intervista a Ferdinando Ametrano"
+subtitle: "Intervista a Ferdinando M. Ametrano"
 author: "Staff"
 image:
     thumb: 2019-07-04-intervista-bitcoin-06-thumb.jpg
@@ -12,7 +12,7 @@ newsfeed: false
 ---
 
 Sesta puntata dell'intervista al nostro direttore
-[*Ferdinando Ametrano*](https://www.ametrano.net)
+[*Ferdinando M. Ametrano*](https://www.ametrano.net)
 sul tema Bitcoin,
 a cura di *Nicole Vismara* (manager di Deloitte Consulting).
 Le successive puntate verranno pubblicate con cadenza regolare

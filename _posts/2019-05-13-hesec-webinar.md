@@ -14,7 +14,7 @@ newsfeed: false
 
 The [Harvard Extension Students Environment Club](https://hesec.extension.harvard.edu/webinars)
 invited
-[Ferdinando Ametrano]({{ site.url }}{{ site.baseurl }}/#team)
+[Ferdinando M. Ametrano]({{ site.url }}{{ site.baseurl }}/#team)
 for a webinar on *Economics and Environmental Sustainability of Bitcoin*.
 The [video](https://youtu.be/36slArIgsbw?t=18) is shared on our
 [YouTube channel](https://www.youtube.com/channel/UC8h0W-Jan5GkbHLQAO0FYKA): subscribe
