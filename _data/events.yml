@@ -37,7 +37,7 @@
     main: 20210226-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "CryptoWeek #2"
@@ -58,7 +58,7 @@
     main: 20210219-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "CryptoWeek #1"
