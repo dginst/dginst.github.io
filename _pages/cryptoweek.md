@@ -6,40 +6,40 @@ permalink: /cryptoinsights
 ---
 
 
-_CryptoWeek_ è il nuovo format DGI:
-la raccolta delle news principali dell'ecosistema crypto in 30 minuti.
+_CryptoWeek_ è il nuovo format pubblico DGI :
+la rassegna delle news principali dell'ecosistema crypto in 30 minuti.
 
-La crescita del valore di Bitcoin ha aumentato l'interesse
-del settore della finanza tradizionale, degli istituzionali e dei risparmiatori
-verso questo bene digitale scarso.
+La crescita del valore di Bitcoin ha aumentato l’interesse
+del settore della finanza tradizionale, degli istituzionali
+e dei risparmiatori verso questo bene digitale scarso:
+nuovi player, nuovi mercati, un’inarrestabile corsa all’oro.
 
-Nuovi player, nuovi mercati: un'inarrestabile corsa all'oro.
+La confusione con Bitcoin è però ancora grande:
+la necessità di comprenderne gli scenari di mercato,
+normativi e tecnologici è rilevante per una corretta
+interpretazione degli avvenimenti, della volatilità di mercato
+e delle opportunità/criticità collegate.
 
-La confusione con bitcoin è però ancora grande:
-**la necessità di comprenderne gli scenari di mercato, normativi
-e tecnologici è rilevante soprattutto in momenti di incertezza
-come quello che stiamo vivendo, per una corretta interpretazione
-degli avvenimenti e delle opportunità/criticità collegate**.
-
-Ecco che il Digital Gold institute si propone di fare chiarezza sulla natura di Bitcoin 
-e il suo veloce sviluppo a tutela dei risparmiatori.
+Ecco che Digital Gold Institute si propone nel fare chiarezza
+tra le varie news e fake news che emergono quotidianamente,
+avorendo una corretta informazione sulla natura di Bitcoin
+a tutela di player del settore ed investitori.
 
 >In un format settimanale, **ogni venerdì alle 18 in live streaming**,
 >[**Ferdinando M. Ametrano**](https://www.ametrano.net/)
 >presenta e discute quanto di rilevante è accaduto
 >nel corso della settimana:
-> mercato, tecnologia, regolazione e ecosistema.
->
->I partecipanti potranno intervenire attivamente via chat o video durante il live _CryptoWeek_.
+>mercato, tecnologia, regolazione e ecosistema.
 
-#### **_CryptoWeek_, febbraio 2021**
+#### **I _CryptoWeek_ di febbraio:**
 
-- **Venerdì 12 febbraio, 18:00**
-- **Venerdì 19 febbraio, 18:00**
-- **Venerdì 26 febbraio, 18:00**
+- **Venerdì 12 febbraio**, 18:00-18:30
+- **Venerdì 19 febbraio**, 18:00-18:30
+- **Venerdì 26 febbraio**, 18:00-18:30
 
 ---
 
+#### **Il prossimo _CryptoWeek_: venerdì 12 febbraio**
 
 <div class='embed-container'>
     <iframe
@@ -49,6 +49,14 @@ e il suo veloce sviluppo a tutela dei risparmiatori.
         allowfullscreen>
     </iframe>
 </div>
+
+---
+ 
+#### **Tutti i _CryptoWeek_**
+<br>
+<a href="https://youtube.com/playlist?list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc">
+    ![CryptoWeek_Playlist]({{ site.baseurl }}/img/events/cryptoweek-playlist.jpg){:class="img-responsive"}
+</a>
 
 ---
 
