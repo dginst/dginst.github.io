@@ -1,8 +1,8 @@
 ---
 layout: readme
 lang: it
-title: "CryptoWeek: le news settimanali del mercato crypto in 30 minuti!"
-permalink: /cryptoinsights
+title: "CryptoWeek: le news settimanali del mercato crypto!"
+permalink: /cryptoweek
 ---
 
 
@@ -31,11 +31,9 @@ a tutela di player del settore ed investitori.
 >nel corso della settimana:
 >mercato, tecnologia, regolazione e ecosistema.
 
-#### **I _CryptoWeek_ di febbraio:**
+#### **Il prossimo _CryptoWeek_**
 
-- **Venerdì 12 febbraio**, 18:00-18:30
-- **Venerdì 19 febbraio**, 18:00-18:30
-- **Venerdì 26 febbraio**, 18:00-18:30
+- **Venerdì 12 febbraio**, 18:00
 
 ---
 

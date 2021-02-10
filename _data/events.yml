@@ -19,49 +19,7 @@
   eventfeed: true
   published: true
   
-- title: "CryptoWeek #3"
-  subtitle: Presentazione insights a cura di Ferdinando Ametrano
-  lang: it
-  city: Milano
-  date: 2021-02-26
-  date2:
-  hours: 
-  organizer: Digital Gold Institute
-  address: live streaming
-  info:
-    text: Informazioni e connessione
-    url: https://dgi.io/cryptoinsights
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20210226-cryptoweek.jpg
-    size: 200
-    thumb: cryptoweek-thumb.jpg
-  eventfeed: false
-  published: true
-
-- title: "CryptoWeek #2"
-  subtitle: Presentazione insights a cura di Ferdinando Ametrano
-  lang: it
-  city: Milano
-  date: 2021-02-19
-  date2:
-  hours: 
-  organizer: Digital Gold Institute
-  address: live streaming
-  info:
-    text: Informazioni e connessione
-    url: https://dgi.io/cryptoinsights
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20210219-cryptoweek.jpg
-    size: 200
-    thumb: cryptoweek-thumb.jpg
-  eventfeed: false
-  published: true
-
-- title: "CryptoWeek #1"
+- title: "CryptoWeek"
   subtitle: Presentazione insights a cura di Ferdinando Ametrano
   lang: it
   city: Milano
@@ -72,11 +30,11 @@
   address: live streaming
   info:
     text: Informazioni e connessione
-    url: https://dgi.io/cryptoinsights
+    url: https://dgi.io/cryptoweek
   discount_code:
   discount_code_publish:
   image:
-    main: 20210212-cryptoweek.jpg
+    main: 2021-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
   eventfeed: true
