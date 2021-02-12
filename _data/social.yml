@@ -16,6 +16,9 @@
 - social: fab fa-youtube
   link: "https://youtube.com/c/DigitalGoldInstitute"
 
+- social: fas fa-podcast
+  link: "https://podcast.dgi.io/"
+
 - social: fas fa-rss"
   link: "https://dgi.io/feed.xml"
 
