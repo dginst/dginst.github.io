@@ -14,8 +14,9 @@ nel corso della settimana,
 rispondendo anche alle domande del pubblico.
 
 In live-streaming su
-[YouTube](https://youtu.be/sxgGQs7W9Y4)
+[YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc)
 e
-[Facebook](https://www.facebook.com/2010536319214039/posts/2748823428718654/)
+[Facebook](https://www.facebook.com/DigitalGoldInstitute/events),
+disponibile anche come [podcast](https://podcast.dgi.io/).
 
-[![La playlist YouTube di tutti i CryptoWeek]({{ site.baseurl }}/img/events/cryptoweek-playlist.jpg){:class="img-responsive"}](https://youtube.com/playlist?list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc)
+[![La playlist YouTube di tutti gli episodi]({{ site.baseurl }}/img/events/cryptoweek-playlist.jpg){:class="img-responsive"}](https://youtube.com/playlist?list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc)
