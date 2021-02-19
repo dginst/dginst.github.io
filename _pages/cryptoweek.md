@@ -20,3 +20,5 @@ e
 disponibile anche come [podcast](https://podcast.dgi.io/).
 
 [![La playlist YouTube di tutti gli episodi]({{ site.baseurl }}/img/events/cryptoweek-playlist.jpg){:class="img-responsive"}](https://youtube.com/playlist?list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc)
+
+<div id='buzzsprout-large-player-1686991'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1686991.js?container_id=buzzsprout-large-player-1686991&player=large'></script>
