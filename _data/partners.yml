@@ -8,6 +8,11 @@
   logo: img/partners/deloitte-logo.png
   size: 300
 
+- name: Prometeia
+  link: https://www.prometeia.it
+  logo: img/partners/prometeia-logo.png
+  size: 300
+
 - name: Join Us
   link: "https://dgi.io/partnership"
   logo: img/partners/company.png
