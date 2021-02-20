@@ -16,7 +16,7 @@ rispondendo anche alle domande del pubblico.
 In live-streaming su
 [YouTube](https://www.youtube.com/playlist?list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc)
 e
-[Facebook](https://www.facebook.com/DigitalGoldInstitute/events),
+[Facebook](https://www.facebook.com/DigitalGoldInstitute),
 disponibile anche come [podcast](https://podcast.dgi.io/).
 
 [![La playlist YouTube di tutti gli episodi]({{ site.baseurl }}/img/events/2021-cryptoweek.jpg){:class="img-responsive"}](https://youtube.com/playlist?list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc)
