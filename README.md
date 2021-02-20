@@ -6,18 +6,18 @@
 
 The first time setup requires:
 
-- Ruby installation (https://rubyinstaller.org/)
-- Jekyll installation (https://jekyllrb.com/docs/installation/windows/)
+- Ruby installation <https://rubyinstaller.org/>
+- Jekyll installation <https://jekyllrb.com/docs/installation/windows/>
 
 ```shell
-$ gem install bundler
+gem install bundler
 ```
 
 Project dependencies are listed in the Gemfile,
 so install them from the project's root:
 
 ```shell
-$ bundle install
+bundle install
 ```
 
 Then, every time:
