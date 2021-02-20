@@ -5,13 +5,13 @@ title: "BLOCKCHAIN&CO"
 subtitle: "Il programma di BFC Forbes sulla tecnologia blockchain" 
 author: "Staff"
 image:
-    main: bfcvideo.jpg
-    thumb: bfcvideo-thumb.jpg
+    main: 2021-01-20-bfc-forbes.jpg
+    thumb: 2021-01-20-bfc-forbes-thumb.jpg
 published: false
 newsfeed: false
 ---
 
-_BLOCKCHAIN&CO_ è il nuovo programma di approfondimento di BFC sulla tecnologia blockchain. Va in onda onda in prima visione ogni lunedì alle 21, visibile al numero 511 del telecomando Sky, sul canale 61 di Tivùsat e online su [Bfcvideo.com](https://bfcvideo.com/category/forbes/blockchain-and-co/).
+_BLOCKCHAIN&CO_ è il nuovo programma di approfondimento di BFC sulla tecnologia blockchain. Va in onda onda in prima visione ogni lunedì alle 21, visibile al numero 511 del telecomando Sky, sul canale 61 di Tivùsat e online su [Bfcvideo.com](https://2021-01-20-bfc-forbes.com/category/forbes/blockchain-and-co/).
 
 Nella puntata di ieri 19 gennaio 2021, [**Federico Morgantini**](https://www.linkedin.com/in/federico-morgantini/) ha intervistato il direttore scientifico DGI [**Ferdinando M. Ametrano**](https://ametrano.net/) sul tema Bitcoin e blockchain.
 

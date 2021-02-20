@@ -5,8 +5,8 @@ title: "THE DIGITAL RUSH"
 subtitle: "A Bitcoin Documentary" 
 author: "Staff"
 image:
-    main: thedigitalrush.jpg
-    thumb: thedigitalrush-thumb.jpg
+    main: 2020-10-31-the-digital-rush.jpg
+    thumb: 2020-10-31-the-digital-rush-thumb.jpg
 published: true
 newsfeed: true
 ---

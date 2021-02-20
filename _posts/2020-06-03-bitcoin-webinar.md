@@ -5,8 +5,8 @@ title: "Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"
 subtitle: "Come si inserisce questa novità nel quadro europeo di MIFID II" 
 author: "Lucia Mandelli"
 image:
-    main: 20200604-bitcoin-e-normativa-tedesca.jpg
-    thumb: 20200604-bitcoin-e-normativa-tedesca-thumb.jpg
+    main: 2020-06-04-bitcoin-e-normativa-tedesca.jpg
+    thumb: 2020-06-04-bitcoin-e-normativa-tedesca-thumb.jpg
 published: true
 newsfeed: false
 ---

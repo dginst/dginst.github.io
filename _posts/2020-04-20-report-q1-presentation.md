@@ -5,8 +5,8 @@ title: "Presentazione del report 2020-Q1"
 subtitle: "Aggiornamento sull'ecosistema Bitcoin, crypto asset e blockchain"
 author: "Staff"
 image: 
-    main: 20200417-2020Q1-report.jpg
-    thumb: 20200417-2020Q1-thumb.jpg
+    main: 2020-04-17-2020Q1-report.jpg
+    thumb: 2020-04-17-2020Q1-thumb.jpg
 published: true
 newsfeed: false
 ---

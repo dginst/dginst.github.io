@@ -5,8 +5,8 @@ title: "Presente e Futuro"
 subtitle: "Bitcoin, blockchain e cryptoasset: verso una finanza decentralizzata (DeFi)." 
 author: "Lucia Mandelli"
 image:
-    main: 20201104-cryptovalues.jpg
-    thumb: 20201104-cryptovalues-thumb.jpg
+    main: 2020-11-04-cryptovalues.jpg
+    thumb: 2020-11-04-cryptovalues-thumb.jpg
 published: true
 newsfeed: true
 ---
@@ -40,7 +40,7 @@ Relatori del corso:
 Il corso è rivolto in particolare a soggetti che operano nel settore finanziario, bancario e assicurativo
 ed in particolare alle figure delle aree compliance, audit, regolamentazione, IT e antiriciclaggio.
 
-L’iscrizione, che prevede una quota di partecipazione di 150€, può essere effettuata inviando a Cryptovalues la [scheda di iscrizione]({{ site.baseurl }}/docs/20201104-cryptovalues-webinar-iscrizione.pdf) debitamente
+L’iscrizione, che prevede una quota di partecipazione di 150€, può essere effettuata inviando a Cryptovalues la [scheda di iscrizione]({{ site.baseurl }}/docs/2020-11-04-cryptovalues-webinar-iscrizione.pdf) debitamente
 compilata via mail:  [info@cryptovalues.eu](mailto: info@cryptovalues.eu).
 
-Il programma completo del corso ed ulteriori informazioni sono disponibili [qui]({{ site.baseurl }}/docs/20201104-cryptovalues-webinar.pdf).
+Il programma completo del corso ed ulteriori informazioni sono disponibili [qui]({{ site.baseurl }}/docs/2020-11-04-cryptovalues-webinar.pdf).

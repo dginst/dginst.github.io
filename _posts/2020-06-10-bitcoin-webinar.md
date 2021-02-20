@@ -5,8 +5,8 @@ title: "Bitcoin, criptovalute e risparmio gestito"
 subtitle: "Asset eligible anche per Fondi e gestioni di portafoglio?" 
 author: "Lucia Mandelli"
 image:
-    main: 20200611-bitcoin-e-risparmio-gestito.jpg
-    thumb: 20200611-bitcoin-e-risparmio-gestito-thumb.jpg
+    main: 2020-06-11-bitcoin-e-risparmio-gestito.jpg
+    thumb: 2020-06-11-bitcoin-e-risparmio-gestito-thumb.jpg
 published: true
 newsfeed: false
 ---

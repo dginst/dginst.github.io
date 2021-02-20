@@ -5,8 +5,8 @@ title: "Rassegna stampa"
 subtitle: "Quarto trimestre 2020" 
 author: "Staff"
 image:
-    main: rassegna-stampa.jpg
-    thumb: rassegna-stampa-thumb.jpg
+    main: 2020-12-21-rassegna-stampa-q4.jpg
+    thumb: 2020-12-21-rassegna-stampa-q4-thumb.jpg
 published: true
 newsfeed: true
 ---
