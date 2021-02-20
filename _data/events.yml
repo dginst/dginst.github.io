@@ -1,12 +1,12 @@
 - title: "Bitcoin & Blockchain"
   subtitle: Training
   lang: it
-  city: Milano
+  city: online
   date: 2021-03-16
   date2: 2021-03-17
   hours: 
   organizer: Digital Gold Institute
-  address: streaming
+  address: live streaming
   info:
     text: Programma e registrazione
     url: https://dgi.io/workshop
@@ -20,9 +20,9 @@
   published: true
   
 - title: "CryptoWeek"
-  subtitle: Presentazione insights a cura di Ferdinando Ametrano
+  subtitle: Commento alle news della settimana
   lang: it
-  city: Milano
+  city: online
   date: 2021-02-26
   date2:
   hours: 
