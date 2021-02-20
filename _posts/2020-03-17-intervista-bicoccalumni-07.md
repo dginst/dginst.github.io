@@ -17,6 +17,6 @@ L'evento ha avuto come protagonista [*Ferdinando M. Ametrano*](https://www.ametr
 
 Oggi proponiamo la settima di 25 puntate: **Bitcoin e proibizionismo**
 
-"È vero: i piccoli spacciatori online usano bitcoin; il cartello colombiano della droga però preferisce ancora i dollari statunitensi. I riscatti per i virus informatici negli anni novanta si pagavano in dollari presso una casella postale o un conto panamense, oggi in bitcoin perché bitcoin… funziona! 
+"È vero: i piccoli spacciatori online usano bitcoin; il cartello colombiano della droga però preferisce ancora i dollari statunitensi. I riscatti per i virus informatici negli anni novanta si pagavano in dollari presso una casella postale o un conto panamense, oggi in bitcoin perché bitcoin… funziona!
 Faccio però notare che i bitcoin sequestrati dalle forze dell’ordine sono stati messi all’asta dal Dipartimento di Giustizia degli Stati Uniti, in molteplici occasioni. Quando si sequestra droga non la si mette all’asta perché illegale; le aste bitcoin hanno quindi creato un precedente significativo in un ordinamento di common law: dichiarare illegale bitcoin richiederebbe probabilmente un pronunciamento della Corte Suprema. E comunque conosciamo l’effetto del proibizionismo: che riguardi gli alcolici negli anni venti o la droga oggi, l’effetto è primariamente quello di aumentare il prezzo del bene proibito.
 Gli usi patologici non possono, dunque, essere la chiave con cui si guarda ad un fenomeno nuovo e positivo. Vanno perseguiti i criminali, non demonizzati strumenti utili ed innovativi."

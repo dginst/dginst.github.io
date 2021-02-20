@@ -18,4 +18,4 @@ L'evento ha avuto come protagonista [*Ferdinando M. Ametrano*](https://www.ametr
 Oggi proponiamo l'ultima delle 25 puntate:
 **I saluti di Ferdinando Maria Ametrano**.
 
-Vi ringraziamo per aver seguito questa miniserie; per contenuti sempre attuali e divulgativi, consigliamo di seguire il nostro canale [Youtube](https://www.youtube.com/channel/UC8h0W-Jan5GkbHLQAO0FYKA). 
+Vi ringraziamo per aver seguito questa miniserie; per contenuti sempre attuali e divulgativi, consigliamo di seguire il nostro canale [Youtube](https://www.youtube.com/channel/UC8h0W-Jan5GkbHLQAO0FYKA).

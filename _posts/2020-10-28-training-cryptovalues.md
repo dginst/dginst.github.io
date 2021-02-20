@@ -19,12 +19,13 @@ pone come il principale interlocutore italiano interprete dell’evoluzione del 
 italiano e internazionale attraverso il confronto con i professionisti del settore.
 
 Il corso, in formato Webinar live, ha l’obiettivo di fornire ai partecipanti, anche senza pregressa
-esperienza sul tema, un’occasione di:<br>
--- conoscenza dei meccanismi di funzionamento della blockchain e del suo collegamento con i bitcoin;<br>
--- analisi dello stato dell’arte della regolamentazione di questo settore;<br>
--- analisi delle modalità per prevenire i rischi finanziari che derivano dall’utilizzo di Blockchain e
-crypto-asset, anche attraverso il richiamo di casi pratici, in particolare in ambito antiriciclaggio;<br>
--- principali applicazioni De.Fi e scenari futuri.
+esperienza sul tema, un’occasione di:
+
+- conoscenza dei meccanismi di funzionamento della blockchain e del suo collegamento con i bitcoin;
+- analisi dello stato dell’arte della regolamentazione di questo settore;
+- analisi delle modalità per prevenire i rischi finanziari che derivano dall’utilizzo di Blockchain e
+crypto-asset, anche attraverso il richiamo di casi pratici, in particolare in ambito antiriciclaggio;
+- principali applicazioni De.Fi e scenari futuri.
 
 Relatori del corso:
 

@@ -38,7 +38,7 @@ Di seguito la trascrizione di questa puntata.
 [FA] Mi preoccupo della sicurezza e della libertà. Come cittadini ci propongono di barattare la privacy con la sicurezza, ma non funzionerà e rischia di mettere a repentaglio la libertà nostra e dei nostri figli. Ci lasciamo cullare dalle “magnifiche sorti e progressive” della democrazia ma dimentichiamo le dittature in Cina, Corea del Nord, Myanmar, Venezuela e che 80 anni fa dalle nostre parti c’erano Hitler, Mussolini e Stalin. Dobbiamo temere strumenti di controllo di massa che i regimi totalitari di domani potrebbero usare con efficacia inedita e spaventosa.
 
 **[NV] Addirittura Bitcoin paladino dei diritti umani?**
-[FA] Bitcoin è già oggi una cartina tornasole della democrazia essendo sostanzialmente avversato in paesi come Cina, Russia e Venezuela. Chi è perseguitato o vive in uno Stato sull’orlo della bancarotta con Bitcoin può portare in salvo i suoi risparmi. In quanto oro, Bitcoin è un bene rifugio non manipolabile, non confiscabile: una "garanzia" per i propri risparmi, al riparo da inflazione o interventi predatori. Se un paese come il Venezuela o la Grecia va in crisi, Bitcoin difende la proprietà privata dalle grinfie del Leviatano. 
+[FA] Bitcoin è già oggi una cartina tornasole della democrazia essendo sostanzialmente avversato in paesi come Cina, Russia e Venezuela. Chi è perseguitato o vive in uno Stato sull’orlo della bancarotta con Bitcoin può portare in salvo i suoi risparmi. In quanto oro, Bitcoin è un bene rifugio non manipolabile, non confiscabile: una "garanzia" per i propri risparmi, al riparo da inflazione o interventi predatori. Se un paese come il Venezuela o la Grecia va in crisi, Bitcoin difende la proprietà privata dalle grinfie del Leviatano.
 
 **[NV] Certo, ma questo aiuta anche la fuga all’estero dei capitali e l’evasione fiscale.**
 
@@ -63,7 +63,6 @@ Di seguito la trascrizione di questa puntata.
 **[NV] Il gold standard è stato abbandonato perché aveva chiari limiti.**
 
 [FA] Nel 1966 Alan Greenspan, che forse allora non immaginava sarebbe diventato chairman della Federal Reserve, scriveva: “la spesa in deficit è semplicemente uno schema per la confisca di ricchezza. L’oro ostacola questo processo insidioso. Si erge come protettore dei diritti di proprietà. Se uno capisce questo, allora non ha difficoltà a comprendere l’antagonismo degli statisti verso il gold standard”. In ogni caso, almeno sia consentito agli ingenui come me di sognare la possibilità che un nuovo Bitcoin standard possa competere in un libero mercato con le monete a corso legale. Poi vedremo quale soluzione prevarrà.
-
 
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 

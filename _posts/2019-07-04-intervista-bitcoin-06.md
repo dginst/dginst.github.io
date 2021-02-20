@@ -61,7 +61,6 @@ Di seguito la trascrizione di questa puntata.
 
 [FA] Bitcoin è oro digitale per trasferimenti di valore incensurabili; ether, la moneta della piattaforma Ethereum, è il carburante per attività computazionali incensurabili. Ethereum vuole essere un super-computer distribuito, capace di ogni tipo di elaborazione (in gergo tecnico è Turing-complete) con memoria persistente globale e ricchezza di possibili stati. Prediletto da quegli informatici che trovano Bitcoin noioso nella sua semplicità concettuale, è straordinariamente versatile e permette sofisticati smart contract: contratti crittografici i cui termini sono rispettati dall’esecuzione automatica del software che li definisce. Qualcuno sogna di usarli un giorno per il trading di derivati, per ora è una specie di parco giochi che consente la cura dei cryptokitties, gattini digitali scambiati in rete per decine di migliaia di dollari. La killer application di Ethereum è aver consentito le Ico: difficile esserne orgogliosi. In realtà la grande ambizione e complessità di Ethereum lo rendono proporzionalmente fragile: lo stesso Vlad Zamfir, ricercatore di punta dell’Ethereum Foundation, lo ha più volte definito “non sicuro né scalabile, un’immatura tecnologia sperimentale: inaffidabile per applicazioni critiche”. Ethereum promette molto ma è per ora fragile: se alla fine dovesse mantenere le promesse potrebbe diventare uno straordinario successo. Io sono scettico, ma potrei sbagliarmi e sono comunque grato di una competizione tecnologica che fa bene anche a Bitcoin. Dagli errori di Ethereum stiamo imparando tutti tanto.
 
-
 **[NV] Si parla di innovazioni decisive sulla piattaforma Ethereum: lo sharding dovrebbe ridisegnare la tecnologia blockchain, Casper dovrebbe sostituire la dispendiosa proof-of-work, la virtual machine che esegue il codice dovrebbe essere rimpiazzata con una architettura migliore e scalabile.**
 
 [FA] Il suo elenco mostra come sostanzialmente dell’Ethereum attuale non funzioni praticamente nulla e si stia tentando di cambiare in corsa, senza nemmeno sapere quale sia il processo di governo e controllo, componenti tecnologiche delicatissime. Peraltro nulla di quello a cui accenna lei è pronto: si tratta di ricerca futuristica e per ora spesso infondata: io sono pessimista sulla tenuta nel tempo di Ethereum.
@@ -69,7 +68,6 @@ Di seguito la trascrizione di questa puntata.
 **[NV] Non mi dica che apprezza Monero, la crittovaluta che garantisce l’anonimato assoluto nelle transazioni.**
 
 [FA] Il mio apprezzamento è solo per Bitcoin: Monero, come gli altri altcoin, non ha le carte in regola per una sostenibilità futura. Monero però sperimenta tecniche crittografiche di avanguardia (crittografia omomorfa, ring signature, zero-knowledge proofs) che in futuro potrebbero essere adottate per migliorare la confidenzialità delle transazioni Bitcoin.
-
 
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 

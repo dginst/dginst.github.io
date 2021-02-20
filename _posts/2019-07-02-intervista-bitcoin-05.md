@@ -41,7 +41,6 @@ Di seguito la trascrizione di questa puntata.
 
 [FA] Bitcoin combina in maniera inedita e creativa elementi di crittografia, teoria monetaria ed economica, sistemi distribuiti, teoria dei giochi. È complicato comprenderne la natura sinfonica che amalgama elementi così diversi: per questo spesso se ne colgono (e criticano) aspetti parziali, perdendo di vista l’insieme. Però Bitcoin si può usare in modo semplice, così come per telefonare non è necessario capire come funzioni la rete GSM.
 
-
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
 [1: Oro digitale]({{ site.baseurl }}/2019/06/17/intervista-bitcoin-01.html)

@@ -36,7 +36,6 @@ di seguito la trascrizione di questa puntata.
 
 [FA] Sì, alla fine quello è il cuore della faccenda: è stato scoperto l’oro digitale, un numero crescente di persone ne comprende il luccichio inossidabile e il potenziale come asset di investimento. La corsa all’oro apre sentieri in territori ancora selvaggi. È un ecosistema dove, al fianco di esploratori e guide serie, c’è un pullulare di furfanti ed imbroglioni. Ma per chi saprà arrivare in fondo, senza farsi frodare e avendo chiaro l’orizzonte, il premio esiste: Bitcoin, oro digitale a 24 carati.
 
-
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
 [1: Oro digitale]({{ site.baseurl }}/2019/06/17/intervista-bitcoin-01.html)

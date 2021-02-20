@@ -35,6 +35,6 @@ Ability to speak English is a must.  Ability to speak Italian is a plus.
 
 If you are interested in joining a talented team and taking on an exciting
 challenge in the area of crypto asset management, then checkout the
-[**job ad**](http://angel.co/company/checksig/jobs/668336-coders-for-crypto asset-management)
+[**job ad**](<http://angel.co/company/checksig/jobs/668336-coders-for-crypto> asset-management)
 for more info or send an email to
 [**jobs@checksig.io**](mailto:jobs@checksig.io)

@@ -37,7 +37,6 @@ Di seguito la trascrizione di questa puntata.
 
 [FA] Il futures sul coin da loro promosso, il cosiddetto bitcoin2x, aveva una quotazione di mercato pari ad un decimo del Bitcoin tradizionale. Insomma il mercato ha mostrato di non apprezzare il Bitcoin modificato: per i miner, la cui attività sarebbe stata retribuita con quel coin, andare avanti diventava economicamente folle. Il protocollo Bitcoin ha dimostrato ancora una volta di essere robusto: i suoi incentivi economici lo rendono resiliente a tentativi di manipolazione.
 
-
 **[NV] Ma un attaccante malevolo capace di spendere le risorse necessarie a raggiungere il 51% della potenza computazionale, senza doverne ricavare profitto direttamente, non potrebbe fermare Bitcoin?**
 
 [FA] Un simile attaccante, forte della maggioranza del potere computazionale, potrebbe secondo le regole del protocollo Bitcoin sopraffare gli altri miner ed aggiornare una blockchain con blocchi vuoti, censurando le transazioni e rendendo il network non funzionale. Ma questo blackout non durerebbe: i nodi degli agenti economicamente significativi si coordinerebbero per un cambio di protocollo che possa rendere obsoleto l’hardware dell'attaccante (cambiando la tipologia di problema computazionale sottostante la proof-of-work) o comunque invalidare gli aggiornamenti censurati del registro transazionale a vantaggio di aggiornamenti legittimi. Un cambiamento di protocollo quasi impossibile da concordare nella normalità operativa, ma che verrebbe eseguito certamente in una situazione di attacco.
@@ -60,7 +59,6 @@ Di seguito la trascrizione di questa puntata.
 **[NV] Perché le transazioni in Bitcoin non sono più gratuite?**
 
 [FA] Non lo sono mai state, ma oggi come in passato hanno di solito un costo talmente basso da essere trascurabile. C’è stato un periodo a fine 2017 in cui il costo è salito moltissimo perché la rete era intasata, fondamentalmente da transazioni fittizie che attaccavano il network. Ma è indubbio che andando avanti transare sulla rete più sicura al mondo avrà un costo sempre più elevato.
-
 
 **[NV] Bitcoin regge poche transazioni al secondo: se, come lei dice, avrà anche costi transazionali crescenti, allora non decollerà mai come metodo di pagamento.**
 

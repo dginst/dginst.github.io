@@ -30,6 +30,6 @@ Ne discutono:
 
 Modera gli interventi [Massimo Chiriatti](https://www.linkedin.com/in/massimochiriatti/?originalSubdomain=it), CTO Blockchain & Digital Currencies di IBM Italia.
 
-Sarà possibile seguire il workshop da remoto e formulare le proprie domande in diretta. 
+Sarà possibile seguire il workshop da remoto e formulare le proprie domande in diretta.
 
-Per iscriversi e riceve il link del live streaming contattare la segreteria di A&C Law all'indirizzo [segreteria2.mi@aclaw.eu](mailto: segreteria2.mi@aclaw.eu)
+Per iscriversi e riceve il link del live streaming contattare la segreteria di A&C Law all'indirizzo [segreteria2.mi@aclaw.eu](mailto: segreteria2.mi@aclaw.eu

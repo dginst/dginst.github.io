@@ -69,7 +69,6 @@ Di seguito la trascrizione di questa puntata.
 
 [FA] La risoluzione dell’Agenzia delle Entrate 72/E del 2016 dichiara che “per [..] persone fisiche che detengono Bitcoin al di fuori dell’attività di impresa, si ricorda che le operazioni a pronti (acquisti e vendite) di valuta non generano redditi imponibili mancando la finalità speculativa”. Tale parere è però criticato nel merito da molti commercialisti, i quali sottolineano anche che il pronunciamento dell’Agenzia non ha rilevanza normativa. L’Agenzia è quindi recentemente intervenuta con ulteriori precisazioni, ma io non sono esperto di temi fiscali e non ho elementi di chiarimento da aggiungere.
 
-
 [Playlist YouTube con tutti gli interventi](https://www.youtube.com/playlist?list=PLTLa2tRY91LKw5CrWIFFeIws08Sr7q-jC)
 
 [1: Oro digitale]({{ site.baseurl }}/2019/06/17/intervista-bitcoin-01.html)

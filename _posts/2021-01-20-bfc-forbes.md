@@ -17,10 +17,10 @@ Nella puntata di ieri 19 gennaio 2021, [**Federico Morgantini**](https://www.lin
 
 ---
 
-### Rivedi la puntata:
+### Rivedi la puntata
 
 <div class='embed-container'>
-    <iframe 
+    <iframe
         title="vimeo-player"
         src="https://player.vimeo.com/video/501940562"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
