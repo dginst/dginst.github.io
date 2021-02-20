@@ -1,7 +1,7 @@
 ---
 layout: readme
 lang: it
-title: "CryptoWeek: il punto della settimana crypto"
+title: "CryptoWeek: il commento alle news della settimana"
 permalink: /cryptoweek
 ---
 
