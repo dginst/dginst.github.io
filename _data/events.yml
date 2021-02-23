@@ -1,3 +1,24 @@
+- title: "Presentazione del Report 2021-Q1"
+  subtitle:
+  lang: it
+  city: Milano
+  date: 2021-04-07
+  date2:
+  hours: 17:30-19:00
+  organizer: Digital Gold Institute
+  address: 
+  info:
+    text: evento ad invito
+    url:
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 
+    size: 200
+    thumb: 
+  eventfeed: false
+  published: false
+
 - title: "Bitcoin & Blockchain"
   subtitle: Training
   lang: it
@@ -18,7 +39,28 @@
     thumb: 20210126-workshop-thumb.jpg
   eventfeed: true
   published: true
-  
+
+- title: "Moneta digitale e dintorni"
+  subtitle: Webinar
+  lang: it
+  city: online
+  date: 2021-03-12
+  date2:
+  hours: 13:00-15:00
+  organizer: Centro di ricerca Paolo Ferro-Luzzi
+  address: 
+  info:
+    text: Informazioni e connessione
+    url: http://dgi.io/docs/20210312-webinar-moneta-digitale-e-dintorni.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210312-webinar.jpg
+    size: 200
+    thumb: 20210312-webinar-thumb.jpg
+  eventfeed: true
+  published: true
+
 - title: "CryptoWeek"
   subtitle: Il commento alle news della settimana
   lang: it
