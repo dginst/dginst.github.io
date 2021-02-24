@@ -1,5 +1,5 @@
-- title: "Presentazione del Report 2021-Q1"
-  subtitle:
+- title: "Presentazione Report 2021-Q1"
+  subtitle: rapporto di ricerca trimestrale
   lang: it
   city: Milano
   date: 2021-04-07
@@ -13,11 +13,11 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 
+    main: 20210407-2021Q1-report.jpg
     size: 200
-    thumb: 
+    thumb: 20210407-2021Q1-report-thumb.jpg
   eventfeed: false
-  published: false
+  published: true
 
 - title: "Bitcoin & Blockchain"
   subtitle: Training
