@@ -14,15 +14,33 @@ newsfeed: false
 Le news della settimana commentate dal nostro direttore scientifico
 [**Ferdinando M. Ametrano**](https://ametrano.net/).
 
+## Stablecoins
+
+- [US Central Bank Explains ‘Preconditions’ for a Digital Dollar](https://www.coindesk.com/federal-reserve-digital-dollar-consultation)
+
+
+## Market
+
+- [Bitcoin reaches 10% of gold's market cap](https://www.theblockcrypto.com/linked/95583/bitcoin-gold-market-cap-new-high)
+- [Cathie Wood Says Bitcoin Has Trillions in Market Cap Potential](https://www.bloomberg.com/news/articles/2021-02-25/cathie-wood-says-bitcoin-has-trillions-in-market-cap-potential)
+- [Arca Is Latest Crypto Fund to Launch a Bitcoin Trust](https://www.coindesk.com/arca-launches-bitcoin-trust)
+- [Canada’s CI Global Files for What Would Be World’s First Ether ETF](https://www.coindesk.com/canadas-ci-global-files-for-what-would-be-worlds-first-ether-etf)
+- [](https://www.bloomberg.com/news/articles/2021-02-25/investors-could-add-up-to-1-of-bitcoin-to-mix-jpmorgan-says)
+- [Square reports $4.57 billion in bitcoin sales for 2020 via Cash App](https://www.theblockcrypto.com/post/95882/square-bitcoin-2020-cash-app-results)
+- [MicroStrategy Bets Another $1B on Bitcoin](https://www.coindesk.com/microstrategy-buys-billion-dollars-bitcoin)
+- [Bitcoin Futures See Record $180 Billion in Trading Volume](https://decrypt.co/59303/bitcoin-futures-see-record-180-billion-in-trading-volume)
+- [Yellen sounds warning about ‘extremely inefficient’ bitcoin](https://www.cnbc.com/2021/02/22/yellen-sounds-warning-about-extremely-inefficient-bitcoin.html)
+
+## Bitfinex
 
 - [Attorney General James Ends Virtual Currency Trading Platform Bitfinex’s Illegal Activities in New York](https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal)
 - [A Sudden Loss of Faith in Tether Would Pose Risk to Bitcoin, JPMorgan Says](https://www.coindesk.com/a-sudden-loss-of-faith-in-tether-would-pose-risk-to-bitcoin-jpmorgan-says)
 - [Bitfinex Settles New York Probe Into Tether, Hiding Losses](https://www.bloomberg.com/news/articles/2021-02-23/crypto-exchange-bitfinex-settles-with-new-york-to-end-probe)
 
 - [Second Canadian Bitcoin ETF Begins Trading on TSX](https://www.coindesk.com/second-canadian-bitcoin-etf-begins-trading-on-tsx-today)
-- [Coinbase valued above $100 billion, ahead of direct listing](https://www.axios.com/coinbase-valued-100-billion-direct-listing-9b43e316-7ff7-4f6a-a1db-4dc2481a93ee.html)
+## Coinbase
 
-- [Bitcoin reaches 10% of gold's market cap](https://www.theblockcrypto.com/linked/95583/bitcoin-gold-market-cap-new-high)
+- [Coinbase valued above $100 billion, ahead of direct listing](https://www.axios.com/coinbase-valued-100-billion-direct-listing-9b43e316-7ff7-4f6a-a1db-4dc2481a93ee.html)
 
 - [Elon Musk, Bitcoin Advocates Have #LaserRayUntil100K on Twitter](https://decrypt.co/58302/elon-musk-bitcoin-advocates-have-laser-eyes-on-twitter-heres-why)
 - [Elon Musk: BTC & ETH do seem high, lol](https://twitter.com/elonmusk/status/1363021091086561285?s=20)
