@@ -12,9 +12,7 @@ newsfeed: true
 ---
 
 Le news della settimana commentate dal nostro direttore scientifico
-[**Ferdinando M. Ametrano**](https://ametrano.net/).
-
-Il commento è disponibile su [YouTube](https://www.youtube.com/watch?v=DAQlSecIwd8) e in [podcast]().
+[**Ferdinando M. Ametrano**](https://ametrano.net/). Il commento è disponibile su [YouTube](https://www.youtube.com/watch?v=DAQlSecIwd8) e in [podcast]().
 
 [CryptoWeek](https://dgi.io/cryptoweek) è in live streaming ogni venerdì alle 18:00.
 
