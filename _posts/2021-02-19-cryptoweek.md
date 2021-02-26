@@ -8,7 +8,7 @@ image:
     main: 2021-02-19-cryptoweek.jpg
     thumb: cryptoweek-post-thumb.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Le news della settimana commentate dal nostro direttore scientifico
