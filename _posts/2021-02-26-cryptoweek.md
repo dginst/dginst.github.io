@@ -38,50 +38,50 @@ Le news della settimana commentate dal nostro direttore scientifico
 
 - Bitcoin reaches 10% of gold's market cap [[9]](https://www.theblockcrypto.com/linked/95583/bitcoin-gold-market-cap-new-high)
 - Cathie Wood Says Bitcoin Has Trillions in Market Cap Potential [[10]](https://www.bloomberg.com/news/articles/2021-02-25/cathie-wood-says-bitcoin-has-trillions-in-market-cap-potential)
-- Square Buys Another $170M in Bitcoin](https://www.coindesk.com/square-announces-additional-170m-bitcoin-buy)
-- Square reports $4.57 billion in bitcoin sales for 2020 via Cash App [[11]](https://www.theblockcrypto.com/post/95882/square-bitcoin-2020-cash-app-results)
-- MicroStrategy Bets Another $1B on Bitcoin [[12]](https://www.coindesk.com/microstrategy-buys-billion-dollars-bitcoin)
-- Bitcoin Futures See Record $180 Billion in Trading Volume [[13]](https://decrypt.co/59303/bitcoin-futures-see-record-180-billion-in-trading-volume)
+- Square Buys Another $170M in Bitcoin [[11]](https://www.coindesk.com/square-announces-additional-170m-bitcoin-buy)
+- Square reports $4.57 billion in bitcoin sales for 2020 via Cash App [[12]](https://www.theblockcrypto.com/post/95882/square-bitcoin-2020-cash-app-results)
+- MicroStrategy Bets Another $1B on Bitcoin [[13]](https://www.coindesk.com/microstrategy-buys-billion-dollars-bitcoin)
+- Bitcoin Futures See Record $180 Billion in Trading Volume [[14]](https://decrypt.co/59303/bitcoin-futures-see-record-180-billion-in-trading-volume)
 
 ## Bitfinex
 
-- Attorney General James Ends Virtual Currency Trading Platform Bitfinex’s Illegal Activities in New York [[14]](https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal)
-- Bitfinex Settles New York Probe Into Tether, Hiding Losses [[15]](https://www.bloomberg.com/news/articles/2021-02-23/crypto-exchange-bitfinex-settles-with-new-york-to-end-probe)
+- Attorney General James Ends Virtual Currency Trading Platform Bitfinex’s Illegal Activities in New York [[15]](https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal)
+- Bitfinex Settles New York Probe Into Tether, Hiding Losses [[16]](https://www.bloomberg.com/news/articles/2021-02-23/crypto-exchange-bitfinex-settles-with-new-york-to-end-probe)
 
 ## Coinbase
 
-- Coinbase valued above $100 billion, ahead of direct listing [[16]](https://www.axios.com/coinbase-valued-100-billion-direct-listing-9b43e316-7ff7-4f6a-a1db-4dc2481a93ee.html)
+- Coinbase valued above $100 billion, ahead of direct listing [[17]](https://www.axios.com/coinbase-valued-100-billion-direct-listing-9b43e316-7ff7-4f6a-a1db-4dc2481a93ee.html)
 
 ## Traditional Finance
 
-- Arca Is Latest Crypto Fund to Launch a Bitcoin Trust [[17]](https://www.coindesk.com/arca-launches-bitcoin-trust)
-- Canada’s CI Global Files for What Would Be World’s First Ether ETF [[18]](https://www.coindesk.com/canadas-ci-global-files-for-what-would-be-worlds-first-ether-etf)
-- Second Canadian Bitcoin ETF Begins Trading on TSX [[19]](https://www.coindesk.com/second-canadian-bitcoin-etf-begins-trading-on-tsx-today)
-- BNY Mellon Said to Hire Fireblocks for Bitcoin Custody Service [[20]](https://www.coindesk.com/bny-mellon-said-to-hire-fireblocks-for-bitcoin-custody-service)
-- Crypto Custody Platform Koine Goes Into Insolvency [[21]](https://www.coindesk.com/crypto-custody-platform-koine-goes-into-insolvency)
+- Arca Is Latest Crypto Fund to Launch a Bitcoin Trust [[18]](https://www.coindesk.com/arca-launches-bitcoin-trust)
+- Canada’s CI Global Files for What Would Be World’s First Ether ETF [[19]](https://www.coindesk.com/canadas-ci-global-files-for-what-would-be-worlds-first-ether-etf)
+- Second Canadian Bitcoin ETF Begins Trading on TSX [[20]](https://www.coindesk.com/second-canadian-bitcoin-etf-begins-trading-on-tsx-today)
+- BNY Mellon Said to Hire Fireblocks for Bitcoin Custody Service [[21]](https://www.coindesk.com/bny-mellon-said-to-hire-fireblocks-for-bitcoin-custody-service)
+- Crypto Custody Platform Koine Goes Into Insolvency [[22]](https://www.coindesk.com/crypto-custody-platform-koine-goes-into-insolvency)
 
 ## Alt-Coins
 
-- MoneyGram Puts Relationship With Ripple’s XRP on Hold [[22]](https://www.coindesk.com/moneygram-puts-relationship-with-ripples-xrp-on-hold)
-- Protecting Bitcoin — why we’re removing BCH and BSV from OKCoin [[23]](https://blog.okcoin.com/2021/02/19/protecting-bitcoin-why-were-removing-bch-and-bsv-from-okcoin/)
+- MoneyGram Puts Relationship With Ripple’s XRP on Hold [[23]](https://www.coindesk.com/moneygram-puts-relationship-with-ripples-xrp-on-hold)
+- Protecting Bitcoin — why we’re removing BCH and BSV from OKCoin [[24]](https://blog.okcoin.com/2021/02/19/protecting-bitcoin-why-were-removing-bch-and-bsv-from-okcoin/)
 
 ## Ethereum MEV
 
-- Nyan Cat NFT Sells for 300 ETH, Opening Door to the ‘Meme Economy’[[24]](https://www.coindesk.com/nyan-cat-nft-ethereum-meme)
-- Flashbots: Frontrunning the MEV Crisis [[24]](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
-- Ed Felten on MEV](https://medium.com/@EdFelten)
-- Ethereum Trading Bot Strategy ‘Extracted’ $107M in 30 Days, Research Suggests [[25]](https://www.coindesk.com/ethereum-trading-bot-strategy-miner-extracted-value-research)
+- Nyan Cat NFT Sells for 300 ETH, Opening Door to the ‘Meme Economy’[[25]](https://www.coindesk.com/nyan-cat-nft-ethereum-meme)
+- Flashbots: Frontrunning the MEV Crisis [[26]](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
+- Ed Felten on MEV [[27]](https://medium.com/@EdFelten)
+- Ethereum Trading Bot Strategy ‘Extracted’ $107M in 30 Days, Research Suggests [[28]](https://www.coindesk.com/ethereum-trading-bot-strategy-miner-extracted-value-research)
 
 ## Ecosystem
 
-- Bitcoin Is Venice, by Allen Farrington [[26]](https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070)
-- Can Governments Stop Bitcoin? [[27]](https://quillette.com/2021/02/21/can-governments-stop-bitcoin)
+- Bitcoin Is Venice, by Allen Farrington [[29]](https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070)
+- Can Governments Stop Bitcoin? [[30]](https://quillette.com/2021/02/21/can-governments-stop-bitcoin)
 
 ## Tech
 
-- Hardware Wallet Support in GUI and RPC, using HWI [[28]](https://twitter.com/provoost/status/1364305306713542656?s=20)
-- Bitcoin Tech Talk Issue #228 [[29]](https://jimmysong.substack.com/p/the-bitcoinization-of-the-economy)
-- Bitcoin Optech Newsletter #137 [[30]](https://bitcoinops.org/en/newsletters/2021/02/24/)
-- Taproot activation meeting 2 [[31]](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018380.html)
-- Taproot activation: lockinontimeout (LOT) [[32]](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018425.html)
-- Taproot Activation - Pools will be able to veto again? Seriously? [[33]](https://old.reddit.com/r/Bitcoin/comments/lcjhl6/taproot_activation_pools_will_be_able_to_veto/gm2l02w/)
+- Hardware Wallet Support in GUI and RPC, using HWI [[31]](https://twitter.com/provoost/status/1364305306713542656?s=20)
+- Bitcoin Tech Talk Issue #228 [[32]](https://jimmysong.substack.com/p/the-bitcoinization-of-the-economy)
+- Bitcoin Optech Newsletter #137 [[33]](https://bitcoinops.org/en/newsletters/2021/02/24/)
+- Taproot activation meeting 2 [[34]](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018380.html)
+- Taproot activation: lockinontimeout (LOT) [[35]](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018425.html)
+- Taproot Activation - Pools will be able to veto again? Seriously? [[36]](https://old.reddit.com/r/Bitcoin/comments/lcjhl6/taproot_activation_pools_will_be_able_to_veto/gm2l02w/)
