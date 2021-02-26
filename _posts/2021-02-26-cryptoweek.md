@@ -16,6 +16,7 @@ Le news della settimana commentate dal nostro direttore scientifico
 
 [CryptoWeek](https://dgi.io/cryptoweek) è in live streaming ogni venerdì alle 18:00.
 
+<div id='buzzsprout-small-player-1686991-limit-1'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1686991.js?player=small&limit=1&container_id=buzzsprout-small-player-1686991-limit-1'></script>
 ## Elon Musk
 
 - Elon Musk: BTC & ETH do seem high, lol [[1]](https://twitter.com/elonmusk/status/1363021091086561285?s=20)
@@ -84,5 +85,3 @@ Le news della settimana commentate dal nostro direttore scientifico
 - Taproot activation meeting 2 [[31]](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018380.html)
 - Taproot activation: lockinontimeout (LOT) [[32]](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018425.html)
 - Taproot Activation - Pools will be able to veto again? Seriously? [[33]](https://old.reddit.com/r/Bitcoin/comments/lcjhl6/taproot_activation_pools_will_be_able_to_veto/gm2l02w/)
-
-<div id='buzzsprout-small-player-1686991-limit-1'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1686991.js?player=small&limit=1&container_id=buzzsprout-small-player-1686991-limit-1'></script>
