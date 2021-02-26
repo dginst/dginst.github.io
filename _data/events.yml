@@ -1,7 +1,7 @@
 - title: "Presentazione Report 2021-Q1"
   subtitle: Il rapporto di ricerca trimestrale dell'ultimo trimestre
   lang: it
-  city: Milano
+  city: online
   date: 2021-04-07
   date2:
   hours: 17:30-19:00
@@ -41,14 +41,14 @@
   published: true
 
 - title: "Moneta digitale e dintorni"
-  subtitle: Webinar in Microsoft Teams
+  subtitle: Webinar
   lang: it
-  city: 
+  city: online
   date: 2021-03-12
   date2:
   hours: 13:00-15:00
   organizer: Centro di ricerca Paolo Ferro-Luzzi
-  address: online 
+  address: live streaming 
   info:
     text: programma e registrazione
     url: http://dgi.io/docs/20210312-webinar-moneta-digitale-e-dintorni.pdf
@@ -71,7 +71,7 @@
   organizer: Digital Gold Institute
   address: live streaming
   info:
-    text: connessione e playlist completa
+    text: pagina dedicata
     url: https://dgi.io/cryptoweek
   discount_code:
   discount_code_publish:
