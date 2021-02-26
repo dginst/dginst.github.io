@@ -5,18 +5,17 @@ title: "CryptoWeek #2"
 subtitle: "Il commento alle news della settimana" 
 author: "Staff"
 image:
-    main: 2021-02-19-cryptoweek.jpg
     thumb: cryptoweek-post-thumb.jpg
+youtube: RCz99O-Xszk
 published: true
 newsfeed: false
 ---
 
-Le news della settimana commentate dal nostro direttore scientifico
+In live streaming ogni venerdì alle 18:00,
+con il nostro direttore scientifico
 [**Ferdinando M. Ametrano**](https://ametrano.net/).
-Il commento è disponibile su [YouTube](https://www.youtube.com/watch?v=RCz99O-Xszk)
-e in [podcast](https://podcast.dgi.io/1686991/7966633-cryptoweek-2-19-febbraio-2021).
 
-[CryptoWeek](https://dgi.io/cryptoweek) è in live streaming ogni venerdì alle 18:00.
+<div id='buzzsprout-small-player-1686991-limit-1'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1686991.js?player=small&limit=1&container_id=buzzsprout-small-player-1686991-limit-1'></script>
 
 - [Bitcoin Market Value Tops $1T as Price Passes $53,697](https://www.coindesk.com/bitcoin-1-trillion-market-value)
 - [UK Trading Firm BCB Launches Bitcoin Treasury Service for Crypto-Curious CFOs](https://www.coindesk.com/uk-trading-firm-bcb-launches-bitcoin-treasury-service-for-crypto-curious-cfos)

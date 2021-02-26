@@ -5,18 +5,18 @@ title: "CryptoWeek #3"
 subtitle: "Il commento alle news della settimana" 
 author: "Staff"
 image:
-    main: 2021-02-26-cryptoweek.jpg
     thumb: cryptoweek-post-thumb.jpg
+youtube: DAQlSecIwd8
 published: true
 newsfeed: true
 ---
 
-Le news della settimana commentate dal nostro direttore scientifico
-[**Ferdinando M. Ametrano**](https://ametrano.net/). Il commento è disponibile su [YouTube](https://www.youtube.com/watch?v=DAQlSecIwd8) e in [podcast]().
-
-[CryptoWeek](https://dgi.io/cryptoweek) è in live streaming ogni venerdì alle 18:00.
+In live streaming ogni venerdì alle 18:00,
+con il nostro direttore scientifico
+[**Ferdinando M. Ametrano**](https://ametrano.net/).
 
 <div id='buzzsprout-small-player-1686991-limit-1'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1686991.js?player=small&limit=1&container_id=buzzsprout-small-player-1686991-limit-1'></script>
+
 ## Elon Musk
 
 - Elon Musk: BTC & ETH do seem high, lol [[1]](https://twitter.com/elonmusk/status/1363021091086561285?s=20)
@@ -65,12 +65,12 @@ Le news della settimana commentate dal nostro direttore scientifico
 - MoneyGram Puts Relationship With Ripple’s XRP on Hold [[23]](https://www.coindesk.com/moneygram-puts-relationship-with-ripples-xrp-on-hold)
 - Protecting Bitcoin — why we’re removing BCH and BSV from OKCoin [[24]](https://blog.okcoin.com/2021/02/19/protecting-bitcoin-why-were-removing-bch-and-bsv-from-okcoin/)
 
-## Ethereum MEV
+## Ethereum
 
 - Nyan Cat NFT Sells for 300 ETH, Opening Door to the ‘Meme Economy’[[25]](https://www.coindesk.com/nyan-cat-nft-ethereum-meme)
+- Ethereum Trading Bot Strategy ‘Extracted’ $107M in 30 Days, Research Suggests [[28]](https://www.coindesk.com/ethereum-trading-bot-strategy-miner-extracted-value-research)
 - Flashbots: Frontrunning the MEV Crisis [[26]](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
 - Ed Felten on MEV [[27]](https://medium.com/@EdFelten)
-- Ethereum Trading Bot Strategy ‘Extracted’ $107M in 30 Days, Research Suggests [[28]](https://www.coindesk.com/ethereum-trading-bot-strategy-miner-extracted-value-research)
 
 ## Ecosystem
 
