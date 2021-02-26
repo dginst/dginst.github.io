@@ -13,6 +13,10 @@ newsfeed: false
 
 Le news della settimana commentate dal nostro direttore scientifico
 [**Ferdinando M. Ametrano**](https://ametrano.net/).
+Il commento è disponibile su [YouTube](https://www.youtube.com/watch?v=RCz99O-Xszk)
+e in [podcast](https://podcast.dgi.io/1686991/7966633-cryptoweek-2-19-febbraio-2021).
+
+[CryptoWeek](https://dgi.io/cryptoweek) è in live streaming ogni venerdì alle 18:00.
 
 - [Bitcoin Market Value Tops $1T as Price Passes $53,697](https://www.coindesk.com/bitcoin-1-trillion-market-value)
 - [UK Trading Firm BCB Launches Bitcoin Treasury Service for Crypto-Curious CFOs](https://www.coindesk.com/uk-trading-firm-bcb-launches-bitcoin-treasury-service-for-crypto-curious-cfos)
@@ -41,7 +45,3 @@ Le news della settimana commentate dal nostro direttore scientifico
 - [Anti-Exfil: Stopping Key Exfiltration](https://medium.com/blockstream/anti-exfil-stopping-key-exfiltration-589f02facc2e)
 - [Remote multisig theft attack on the Coldcard hardware wallet](https://shiftcrypto.ch/blog/remote-multisig-theft-attack-on-the-coldcard-hardware-wallet/)
 - [[bitcoin-dev] Proposal: Bitcoin Secure Multisig Setup](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018385.html)
-
-Il commento è disponibile su [YouTube](https://www.youtube.com/watch?v=RCz99O-Xszk) e in [podcast](https://podcast.dgi.io/1686991/7966633-cryptoweek-2-19-febbraio-2021).
-
-[CryptoWeek](https://dgi.io/cryptoweek) è in live streaming ogni venerdì alle 18:00.
