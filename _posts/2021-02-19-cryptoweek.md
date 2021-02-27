@@ -15,7 +15,8 @@ In live streaming ogni venerdì alle 18:00,
 con il nostro direttore scientifico
 [**Ferdinando M. Ametrano**](https://ametrano.net/).
 
-<div id='buzzsprout-small-player-1686991-limit-1'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1686991.js?player=small&limit=1&container_id=buzzsprout-small-player-1686991-limit-1'></script>
+<div id="buzzsprout-player-7966633"></div>
+<script src="https://www.buzzsprout.com/1686991/7966633-cryptoweek-2-19-febbraio-2021.js?container_id=buzzsprout-player-7966633&player=small" type="text/javascript" charset="utf-8"></script>
 
 - [Bitcoin Market Value Tops $1T as Price Passes $53,697](https://www.coindesk.com/bitcoin-1-trillion-market-value)
 - [UK Trading Firm BCB Launches Bitcoin Treasury Service for Crypto-Curious CFOs](https://www.coindesk.com/uk-trading-firm-bcb-launches-bitcoin-treasury-service-for-crypto-curious-cfos)

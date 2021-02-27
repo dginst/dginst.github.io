@@ -15,7 +15,8 @@ In live streaming ogni venerdì alle 18:00,
 con il nostro direttore scientifico
 [**Ferdinando M. Ametrano**](https://ametrano.net/).
 
-<div id='buzzsprout-small-player-1686991-limit-1'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1686991.js?player=small&limit=1&container_id=buzzsprout-small-player-1686991-limit-1'></script>
+<div id="buzzsprout-player-8035698"></div>
+<script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script>
 
 ## Elon Musk
 
