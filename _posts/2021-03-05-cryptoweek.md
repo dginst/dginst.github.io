@@ -32,15 +32,20 @@ rispondendo anche alle domande del pubblico.
 
 ### Stablecoins
 
+- India preparing to launch digital rupee [modernconsensus](https://modernconsensus.com/regulation/india-preparing-to-launch-digital-rupee/)
 ## Ecosystem
 
-### Coinbase
+### Coinbase and Exchange Valuations
 
 - Form S-1 Prospectus [SEC](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
+- Kraken Negotiating New Capital Raise at $10B Valuation: Report [Coindesk](https://www.coindesk.com/kraken-exchange-capital-raise)
 
 ### Traditional Finance
 
 - Ex-London Stock Exchange Chief Says UK Should Embrace Crypto Post-Brexit [Coindesk](https://www.coindesk.com/ex-london-stock-exchange-chief-says-uk-should-embrace-crypto-post-brexit)
+- UK Must Act Quickly to Ensure Fintech Lead, Encourage Crypto: Treasury Report Urges [Coindesk](https://www.coindesk.com/uk-must-act-quickly-to-ensure-fintech-lead-encourage-crypto-treasury-report-urges)
+- UK Investors Can Now Integrate Their Crypto Holdings With Their Bank Accounts [Coindesk](https://www.coindesk.com/uk-investors-can-now-integrate-their-crypto-holdings-with-their-bank-accounts)
+- Banking on Bitcoin – The State of Bitcoin As Collateral [Coindesk](https://www.coindesk.com/research/reports/arcane-research-banking-on-bitcoin-the-state-of-bitcoin-as-collateral)
 
 ## Technology
 
