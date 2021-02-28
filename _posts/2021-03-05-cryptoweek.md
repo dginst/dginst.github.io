@@ -33,6 +33,7 @@ rispondendo anche alle domande del pubblico.
 ### Stablecoins
 
 - India preparing to launch digital rupee [modernconsensus](https://modernconsensus.com/regulation/india-preparing-to-launch-digital-rupee/)
+
 ## Ecosystem
 
 ### Coinbase and Exchange Valuations
