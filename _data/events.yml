@@ -4,7 +4,7 @@
   city: online
   date: 2021-03-05
   date2:
-  hours: 
+  hours: 18:00-18:45
   organizer: Digital Gold Institute
   address: live streaming
   info:
@@ -19,7 +19,7 @@
   eventfeed: true
   published: true
   
-  - title: "Presentazione Report 2021-Q1"
+- title: "Presentazione Report 2021-Q1"
   subtitle: Il rapporto di ricerca trimestrale dell'ultimo trimestre
   lang: it
   city: Milano
@@ -37,6 +37,27 @@
     main: 20210407-2021Q1-report.jpg
     size: 200
     thumb: 20210407-2021Q1-report-thumb.jpg
+  eventfeed: false
+  published: true
+
+- title: "Cripto-attività"
+  subtitle: Tra recenti sviluppi e digital finance package
+  lang: it
+  city: online
+  date: 2021-03-26
+  date2: 
+  hours: 
+  organizer: Parlamento europeo
+  address: live streaming
+  info:
+    text: programma
+    url: http://dgi.io/docs/20210326-parlamento-europeo.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210326-parlamento-europeo.png
+    size: 200
+    thumb: 20210326-parlamento-europeo-thumb.jpg
   eventfeed: false
   published: true
 
