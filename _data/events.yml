@@ -1,4 +1,25 @@
-- title: "Presentazione Report 2021-Q1"
+- title: "CryptoWeek"
+  subtitle: Il commento alle news della settimana
+  lang: it
+  city: online
+  date: 2021-03-05
+  date2:
+  hours: 
+  organizer: Digital Gold Institute
+  address: live streaming
+  info:
+    text: connessione e playlist completa
+    url: https://dgi.io/cryptoweek
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 2021-cryptoweek.jpg
+    size: 200
+    thumb: cryptoweek-thumb.jpg
+  eventfeed: true
+  published: true
+  
+  - title: "Presentazione Report 2021-Q1"
   subtitle: Il rapporto di ricerca trimestrale dell'ultimo trimestre
   lang: it
   city: Milano
@@ -37,7 +58,7 @@
     main: 20210317-workshop.jpg
     size: 200
     thumb: 20210126-workshop-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Moneta digitale e dintorni"
@@ -79,28 +100,6 @@
     main: 20210312-iisfa.jpg
     size: 200
     thumb: 20210312-iisfa-thumb.jpg
-  eventfeed: true
-  published: true
-
-- title: "CryptoWeek"
-  subtitle: Il commento alle news della settimana
-  lang: it
-  city: 
-
-  date: 2021-02-26
-  date2:
-  hours: 
-  organizer: Digital Gold Institute
-  address: live streaming
-  info:
-    text: connessione e playlist completa
-    url: https://dgi.io/cryptoweek
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 2021-cryptoweek.jpg
-    size: 200
-    thumb: cryptoweek-thumb.jpg
   eventfeed: true
   published: true
 
