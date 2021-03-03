@@ -40,27 +40,6 @@
   eventfeed: true
   published: true
 
-- title: "L'evoluzione delle tecniche di Information Forensics"
-  subtitle: Webinar
-  lang: it
-  city: online
-  date: 2021-03-12
-  date2:
-  hours: 15:30-16:30
-  organizer: IISFA - Associazione Italiana Digital Forensics
-  address: online 
-  info:
-    text: informazioni
-    url: http://iisfa.it
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20210312-iisfa.jpg
-    size: 200
-    thumb: 20210312-iisfa-thumb.jpg
-  eventfeed: true
-  published: true
-
 - title: "Moneta digitale e dintorni"
   subtitle: Webinar in Microsoft Teams
   lang: it
@@ -79,6 +58,27 @@
     main: 20210312-webinar.jpg
     size: 200
     thumb: 20210312-webinar-thumb.jpg
+  eventfeed: true
+  published: true
+
+- title: "L'evoluzione delle tecniche di Information Forensics"
+  subtitle: Webinar
+  lang: it
+  city: online
+  date: 2021-03-12
+  date2:
+  hours: 15:30-16:30
+  organizer: IISFA - Associazione Italiana Digital Forensics
+  address: online 
+  info:
+    text: informazioni
+    url: http://iisfa.it
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210312-iisfa.jpg
+    size: 200
+    thumb: 20210312-iisfa-thumb.jpg
   eventfeed: true
   published: true
 
