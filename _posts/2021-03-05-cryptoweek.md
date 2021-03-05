@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: 6SVoSmLxNhM
-published: true
-newsfeed: true
+published: false
+newsfeed: false
 ---
 
 Il venerdì alle 18:00 in live-streaming
