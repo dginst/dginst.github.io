@@ -31,8 +31,10 @@ rispondendo anche alle domande del pubblico.
 - Crypto Firm Kraken Seeks Over $10 Billion Valuation [bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/crypto-firm-kraken-said-to-seek-roughly-10-billion-valuation)
 
 ## Market
-- MicroStrategy buys another 205 bitcoins, for $10 million [marketwatch](https://www.marketwatch.com/story/microstrategy-buys-another-205-bitcoins-for-10-million-2021-03-05)
+
 ### Bitcoin
+
+- MicroStrategy buys another 205 bitcoins, for $10 million [marketwatch](https://www.marketwatch.com/story/microstrategy-buys-another-205-bitcoins-for-10-million-2021-03-05)
 
 ### Alt-coins
 
@@ -42,11 +44,8 @@ rispondendo anche alle domande del pubblico.
 
 - Binance Pledges New Controls After 99% ‘Flash Crash’ in Polkadot Futures [coindesk](https://www.coindesk.com/binance-controls-flash-crash-polkadot)
 - Does Crypto Need Circuit Breakers? Last Week’s Price Crash Ignites a Debate [coindesk](https://www.coindesk.com/does-crypto-need-circuit-breakers-last-weeks-price-crash-ignites-a-debate)
-- Goldman Sachs restarts cryptocurrency desk amid bitcoin boom [reuters](https://www.reuters.com/article/crypto-currency-goldman-sachs/exclusive-goldman-sachs-restarts-cryptocurrency-desk-amid-bitcoin-boom-idUSL2N2KZ0XX)
 - BitMEX’s Arthur Hayes Proposes Surrender to U.S. Authorities [Coindesk](https://www.bloomberg.com/news/articles/2021-03-03/bitmex-s-arthur-hayes-proposes-to-surrender-to-u-s-authorities)
 - BitGo Receives NYDFS Approval for New York Trust Charter [Coindesk](https://www.coindesk.com/bitgo-receives-nydfs-approval-for-new-york-trust-charter)
-- PayPal CEO Reveals Plans for New Crypto Unit [decrypt](https://decrypt.co/60086/paypal-ceo-schulman-talks-new-crypto-unit)
-- March 2021 ETP Snapshot [digitalassetresearch](https://www.digitalassetresearch.com/march-2021-etp-snapshot/)
 
 ### Coinbase and Exchange Valuations
 
@@ -58,13 +57,15 @@ rispondendo anche alle domande del pubblico.
 - Splashy Canadian Bitcoin ETF Sees Inflows Slow as Price Drops [Coindesk](https://www.coindesk.com/canada-purpose-bitcoin-etf-inflows-slow)
 - CBOE Kicks Off Bitcoin ETF Clock With VanEck Filing [coindesk](https://www.coindesk.com/cboe-kicks-off-bitcoin-etf-clock-with-vaneck-filing)
 - New ETF products — and investors cashing out — are behind the collapse of the GBTC premium [theblockcrypto](https://www.theblockcrypto.com/linked/96611/jpmorgan-anlysis-bitcoin-gbtc-premium-collapse)
+- March 2021 ETP Snapshot [digitalassetresearch](https://www.digitalassetresearch.com/march-2021-etp-snapshot/)
+- 40% of Goldman Sachs Clients Reported Exposure to Crypto: Survey [Coindesk](https://www.coindesk.com/40-of-goldman-sachs-clients-reported-exposure-to-crypto-survey)
+- Goldman Sachs restarts cryptocurrency desk amid bitcoin boom [reuters](https://www.reuters.com/article/crypto-currency-goldman-sachs/exclusive-goldman-sachs-restarts-cryptocurrency-desk-amid-bitcoin-boom-idUSL2N2KZ0XX)
 - BITCOIN: At the Tipping Point [Citibank](https://ir.citi.com/_tpHpW8MfaZ1QXwGmP1JGMGXXI95qXm3IMJzUJScLMb6XIjtOls6EbDehXMR3B_o9Opi7mdc5tQ%3D)
 - Ex-London Stock Exchange Chief Says UK Should Embrace Crypto Post-Brexit [Coindesk](https://www.coindesk.com/ex-london-stock-exchange-chief-says-uk-should-embrace-crypto-post-brexit)
 - UK Must Act Quickly to Ensure Fintech Lead, Encourage Crypto: Treasury Report Urges [Coindesk](https://www.coindesk.com/uk-must-act-quickly-to-ensure-fintech-lead-encourage-crypto-treasury-report-urges)
 - UK Investors Can Now Integrate Their Crypto Holdings With Their Bank Accounts [Coindesk](https://www.coindesk.com/uk-investors-can-now-integrate-their-crypto-holdings-with-their-bank-accounts)
-- Banking on Bitcoin – The State of Bitcoin As Collateral [Coindesk](https://www.coindesk.com/research/reports/arcane-research-banking-on-bitcoin-the-state-of-bitcoin-as-collateral)
-- 40% of Goldman Sachs Clients Reported Exposure to Crypto: Survey [Coindesk](https://www.coindesk.com/40-of-goldman-sachs-clients-reported-exposure-to-crypto-survey)
 - Grayscale Bitcoin Premium Flips Negative as BTC Stays Below $50,000 [coindesk](https://www.coindesk.com/grayscale-negative-premium-bitcoin)
+- PayPal CEO Reveals Plans for New Crypto Unit [decrypt](https://decrypt.co/60086/paypal-ceo-schulman-talks-new-crypto-unit)
 
 ## Technology
 
@@ -75,6 +76,7 @@ rispondendo anche alle domande del pubblico.
 - India preparing to launch digital rupee [modernconsensus](https://modernconsensus.com/regulation/india-preparing-to-launch-digital-rupee/)
 - FATF Says It Is Open to Amending Crypto Travel Rule Guidance [Coindesk](https://www.coindesk.com/fatf-says-it-is-open-to-amending-crypto-travel-rule-guidance)
 - Crypto Is Spared Scapegoat Treatment in US Hearing on Terror Financing [Coindesk](https://www.coindesk.com/crypto-is-spared-scapegoat-treatment-in-us-hearing-on-terror-financing)
+- Banking on Bitcoin – The State of Bitcoin As Collateral [Coindesk](https://www.coindesk.com/research/reports/arcane-research-banking-on-bitcoin-the-state-of-bitcoin-as-collateral)
 
 ## DGI Activity
 
