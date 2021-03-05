@@ -19,7 +19,7 @@ commenta quanto di rilevante è accaduto nel corso della settimana
 in ambito bitcoin, crypto-assets e blockchain,
 rispondendo anche alle domande del pubblico.
 
-<script src="https://www.buzzsprout.com/1686991/8083493-cryptoweek-4-5-marzo-2021.js?container_id=buzzsprout-player-8083493&player=small" type="text/javascript" charset="utf-8"></script>
+<div id='buzzsprout-player-8083493'></div><script src="https://www.buzzsprout.com/1686991/8083493-cryptoweek-4-5-marzo-2021.js?container_id=buzzsprout-player-8083493&player=small" type="text/javascript" charset="utf-8"></script>
 ## Market
 
 ### Bitcoin
