@@ -7,8 +7,8 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: 6SVoSmLxNhM
-published: false
-newsfeed: false
+published: true
+newsfeed: true
 ---
 
 Il venerdì alle 18:00 in live-streaming
@@ -20,7 +20,7 @@ commenta quanto di rilevante è accaduto nel corso della settimana
 in ambito bitcoin, crypto-assets e blockchain,
 rispondendo anche alle domande del pubblico.
 
-<div id="buzzsprout-player-8035698"></div><script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script>
+<!--div id="buzzsprout-player-8035698"></div><script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script-->
 
 ## Market
 
@@ -55,18 +55,3 @@ rispondendo anche alle domande del pubblico.
 - FATF Says It Is Open to Amending Crypto Travel Rule Guidance [Coindesk](https://www.coindesk.com/fatf-says-it-is-open-to-amending-crypto-travel-rule-guidance)
 - Crypto Is Spared Scapegoat Treatment in US Hearing on Terror Financing [Coindesk](https://www.coindesk.com/crypto-is-spared-scapegoat-treatment-in-us-hearing-on-terror-financing)
 
-## DGI Activity
-
-- [Events](https://dgi.io/events/)
-  - Moneta digitale e dintorni,
-    Centro Paolo Ferro-Luzzi,
-    [12 marzo, 13:00-15:00](https://dgi.io/docs/20210312-webinar-moneta-digitale-e-dintorni.pdf)
-  - CryptoWeek
-    [12 marzo, 18:00-18:30](https://dgi.io/cryptoweek)
-  - Bitcoin & Blockchain,
-    Training sull'ecosistema crypto e la tecnologia sottostante
-    [16-17 marzo](https://dgi.io/workshop/)
-  - Webinar "Cripto-attività: tra recenti sviluppi e digital finance package",
-    Parlamento Europeo [26 marzo, 10:00-12:30](tbd)
-  - Report trimestrale
-    [7 aprile, 17:30-19:00](https://dgi.io/workshop/)
