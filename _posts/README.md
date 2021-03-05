@@ -8,52 +8,47 @@ permalink: /cryptoweekinternal/
 
 ### Streamyard
 
-* 
-* 
+* verificare contenuti banner
 
-### Youtube
-
-* 
-* 
 ### Facebook
 
-* 
-* 
+* pubblicizzare la pagina cryptoweek.dgi
+* promuovere il live Fb
 
 ## Linkedin
 
-* 
-* 
+* pubblicizzare la pagina cryptoweek.dgi
+* promuovere il live Fb
 
 ## Website
 
-* 
-* 
+* aggiornare il post con tutte le news che verranno illustrate
 
 ## Durante il CryptoWeek
 
 ### Streamyard
 
 * selezionare domande e comunicare il numero a Ferdinando
-* 
 
 ### Facebook
 
-* 
-* 
+* commento DGI con domande al live
+
+### Youtube
+
+* commento DGI con domande al live
 
 ## Linkedin
+* pubblicare screenshot
 
-* 
-* 
+## Twitter
+* pubblicare link youtube
 
 ## Website
 
-* 
-* 
+* pubblicare le news (Published: true)
 
 ## Dopo il CryptoWeek
-
 
 ### Streamyard
 
@@ -69,13 +64,14 @@ permalink: /cryptoweekinternal/
 
 ### Facebook
 
-* 
+* rilanciare sabato mattina le news
 * 
 
 ## Linkedin
 
 * creare evento collegato al live youtube
-* 
+* rilanciare sabato mattina le news
+
 
 ## Website
 
