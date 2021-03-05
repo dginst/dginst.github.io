@@ -53,12 +53,3 @@ rispondendo anche alle domande del pubblico.
 ## DGI Activity
 
 - [Events](https://dgi.io/events/)
-  - CryptoWeek
-    [19 marzo, 18:00-18:30](https://dgi.io/cryptoweek)
-  - Bitcoin & Blockchain,
-    Training sull'ecosistema crypto e la tecnologia sottostante
-    [16-17 marzo](https://dgi.io/workshop/)
-  - Webinar "Cripto-attività: tra recenti sviluppi e digital finance package",
-    Parlamento Europeo [26 marzo, 10:00-12:30](tbd)
-  - Report trimestrale
-    [7 aprile, 17:30-19:00](https://dgi.io/workshop/)
