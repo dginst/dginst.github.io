@@ -8,7 +8,7 @@ image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: DAQlSecIwd8
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Il venerdì alle 18:00 in live-streaming
