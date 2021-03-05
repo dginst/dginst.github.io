@@ -31,7 +31,7 @@ rispondendo anche alle domande del pubblico.
 - Crypto Firm Kraken Seeks Over $10 Billion Valuation [bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/crypto-firm-kraken-said-to-seek-roughly-10-billion-valuation)
 
 ## Market
-
+- MicroStrategy buys another 205 bitcoins, for $10 million [marketwatch](https://www.marketwatch.com/story/microstrategy-buys-another-205-bitcoins-for-10-million-2021-03-05)
 ### Bitcoin
 
 ### Alt-coins
