@@ -48,6 +48,7 @@ rispondendo anche alle domande del pubblico.
 ## Ecosystem
 
 - Binance Pledges New Controls After 99% ‘Flash Crash’ in Polkadot Futures [coindesk](https://www.coindesk.com/binance-controls-flash-crash-polkadot?utm_source=Sailthru&utm_medium=email&utm_campaign=THE%20NODE%20MAR%205%202021&utm_term=Blockchain%20Bites)
+- Does Crypto Need Circuit Breakers? Last Week’s Price Crash Ignites a Debate [coindesk](https://www.coindesk.com/does-crypto-need-circuit-breakers-last-weeks-price-crash-ignites-a-debate?utm_source=Sailthru&utm_medium=email&utm_campaign=THE%20NODE%20MAR%205%202021&utm_term=Blockchain%20Bites)
 - New ETF products — and investors cashing out — are behind the collapse of the GBTC premium [theblockcrypto](https://www.theblockcrypto.com/linked/96611/jpmorgan-anlysis-bitcoin-gbtc-premium-collapse)
 - Goldman Sachs restarts cryptocurrency desk amid bitcoin boom [reuters](https://www.reuters.com/article/crypto-currency-goldman-sachs/exclusive-goldman-sachs-restarts-cryptocurrency-desk-amid-bitcoin-boom-idUSL2N2KZ0XX)
 - BitMEX’s Arthur Hayes Proposes Surrender to U.S. Authorities [Coindesk](https://www.bloomberg.com/news/articles/2021-03-03/bitmex-s-arthur-hayes-proposes-to-surrender-to-u-s-authorities?srnd=cryptocurrencies&utm_medium=email&_hsmi=114283714&_hsenc=p2ANqtz-_vyiWS_v1UYzHFZhpoze-JPdo0olXCW6wWoJFzpOrOMTXBaTcdJYrt0weAW4O--opqkv5182_esutuHfMMGGJHOV05N9R-OUwut-LvmB2yTaPzHXs&utm_content=114283714&utm_source=hs_email)
