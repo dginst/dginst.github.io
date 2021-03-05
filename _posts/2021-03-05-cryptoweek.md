@@ -22,6 +22,18 @@ rispondendo anche alle domande del pubblico.
 
 <!--div id="buzzsprout-player-8035698"></div><script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script-->
 
+##lucia
+
+- https://news.bitcoin.com/report-asias-cryptocurrency-landscape-the-most-active-most-populous-region-has-an-outsize-role/
+- https://cryptobriefing.com/bitcoin-primed-new-all-time-highs-retail-interest-returns/
+- https://cryptobriefing.com/google-finance-adds-bitcoin-ethereum-litecoin-bitcoin-cash/
+- https://news.bitcoin.com/biden-sec-chairman-gary-gensler-policies-bitcoin-cryptocurrency-regulation/
+- https://cryptobriefing.com/gemini-launches-new-service-bitcoin-etf-providers/
+- https://www.bloomberg.com/news/articles/2021-03-04/crypto-fraudster-sentenced-to-8-years-in-token-offering-scheme
+- https://www.bloomberg.com/news/videos/2021-03-04/china-s-inner-mongolia-declares-war-on-crypto-mining-video
+- https://www.bloomberg.com/news/articles/2021-03-05/bitcoin-storm-brewing-over-trump-s-anti-money-laundering-push
+- https://www.bloomberg.com/news/articles/2021-03-05/bitcoin-dips-as-rising-yields-prompt-rethink-of-popular-trades
+
 ## Market
 
 ### Bitcoin
@@ -35,6 +47,8 @@ rispondendo anche alle domande del pubblico.
 - India preparing to launch digital rupee [modernconsensus](https://modernconsensus.com/regulation/india-preparing-to-launch-digital-rupee/)
 
 ## Ecosystem
+
+- 
 
 ### Coinbase and Exchange Valuations
 
