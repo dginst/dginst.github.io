@@ -59,11 +59,13 @@ permalink: /cryptoweekinternal/
 
 * estrarre podcast e caricarlo sulla piattaforma podcast
 * creare nuovo stream per la settimana successiva
+* aggiornare foto thumb
 
 ### Youtube
 
-* 
-* 
+* marcare "contenuto sponsorizzato"
+* aggiungere il video alla playlist "cryptoweek"
+* aggiornare il titolo
 
 ### Facebook
 
@@ -80,3 +82,4 @@ permalink: /cryptoweekinternal/
 * aggiornare la data del nuovo event in events.yml
 * newsfeed: aggiornare link e data
 * creare il post del cryptoweek della settimana successiva (false, false)
+* inserire il link podcast alla news
