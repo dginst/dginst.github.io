@@ -21,15 +21,6 @@ in ambito bitcoin, crypto-assets e blockchain,
 rispondendo anche alle domande del pubblico.
 
 <!--div id="buzzsprout-player-8035698"></div><script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script-->
-
-- Report: Asia's Cryptocurrency Landscape the Most Active, Most Populous Region 'Has an Outsize Role' [bitcoin.com](https://news.bitcoin.com/report-asias-cryptocurrency-landscape-the-most-active-most-populous-region-has-an-outsize-role/)
-- Google Finance Adds Bitcoin, Ethereum, Litecoin, and Bitcoin Cash [cryptobriefing](https://cryptobriefing.com/google-finance-adds-bitcoin-ethereum-litecoin-bitcoin-cash/)
-- Biden's SEC Chair Pick Gary Gensler Reveals Policies on Bitcoin and Crypto Regulation [bitcoin.com](https://news.bitcoin.com/biden-sec-chairman-gary-gensler-policies-bitcoin-cryptocurrency-regulation/)
-- China's Inner Mongolia Declares War on Crypto Mining [bloomberg](https://www.bloomberg.com/news/videos/2021-03-04/china-s-inner-mongolia-declares-war-on-crypto-mining-video)
-- Cboe Seeks Approval to List Trailblazer Bitcoin ETF in U.S. [bloomberg](https://www.bloomberg.com/news/articles/2021-03-01/cboe-says-it-s-seeking-approval-to-list-bitcoin-etf-in-u-s)
-- Goldman Sachs Set to Jump Back Into Cryptocurrency Trading [bloomberg](https://www.bloomberg.com/news/articles/2021-03-01/goldman-sachs-set-to-jump-back-into-cryptocurrency-trading)
-- Crypto Firm Kraken Seeks Over $10 Billion Valuation [bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/crypto-firm-kraken-said-to-seek-roughly-10-billion-valuation)
-
 ## Market
 
 ### Bitcoin
@@ -81,3 +72,4 @@ rispondendo anche alle domande del pubblico.
 ## DGI Activity
 
 - [Events](https://dgi.io/events/)
+- 16-17 marzo 2021: [Bitcoin & Blockchain Training](https://dgi.io/workshop/)
