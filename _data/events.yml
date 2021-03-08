@@ -23,7 +23,7 @@
   subtitle: Il rapporto di ricerca trimestrale dell'ultimo trimestre
   lang: it
   city: Milano
-  date: 2021-04-07
+  date: 2021-04-14
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
@@ -34,9 +34,9 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20210407-2021Q1-report.jpg
+    main: 20210414-2021Q1-report.jpg
     size: 200
-    thumb: 20210407-2021Q1-report-thumb.jpg
+    thumb: 20210414-2021Q1-report-thumb.jpg
   eventfeed: false
   published: true
 
