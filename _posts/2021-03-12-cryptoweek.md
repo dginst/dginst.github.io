@@ -34,7 +34,8 @@ rispondendo anche alle domande del pubblico.
 
 ### Bitcoin
 
-- 
+- There are good reasons for business leaders to invest in bitcoin
+[[financial times](https://www.ft.com/content/11e2ac1d-90e9-4308-9cac-d55e9ff13498)]
 
 ### Alt-coins
 
