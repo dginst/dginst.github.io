@@ -29,7 +29,7 @@ rispondendo anche alle domande del pubblico.
 
 ## Market
 
-- CONTANGO AND OVER COLLATERALIZATION [[bitcoinmagazine](https://bitcoinmagazine.com/markets/contango-and-over-collateralization)]
+- Contango and over collateralization [[bitcoinmagazine](https://bitcoinmagazine.com/markets/contango-and-over-collateralization)]
 - WisdomTree Files for a Bitcoin ETF [[coindesk](https://www.coindesk.com/wisdomtree-files-for-a-bitcoin-etf)]
 
 ### Bitcoin
@@ -65,7 +65,7 @@ rispondendo anche alle domande del pubblico.
 
 ## Technology
 
-- TAPROOT ACTIVATION AND THE LOT DEBATE [[bitcoinmagazine](https://bitcoinmagazine.com/technical/taproot-activation-and-the-lot-debate)]
+- Taproot activation and the lot debate [[bitcoinmagazine](https://bitcoinmagazine.com/technical/taproot-activation-and-the-lot-debate)]
 - LOT=TRUE OR LOT=FALSE? THIS IS THE LAST HURDLE BEFORE TAPROOT ACTIVATION [[bitcoinmagazine](https://bitcoinmagazine.com/technical/lottrue-or-lotfalse-this-is-the-last-hurdle-before-taproot-activation)]
 - Taproot activation discussion [[bitcoin optech](https://bitcoinops.org/en/newsletters/2021/03/10/)]
 - On taproot activation and consensus changes in Bitcoin" [[medium](https://medium.com/@sdaftuar/on-taproot-activation-and-consensus-changes-in-bitcoin-5b3453e91c4e)]
@@ -73,7 +73,7 @@ rispondendo anche alle domande del pubblico.
 
 ## Regulation
 
-- 
+- In Italia non è chiaro quando si pagano le tasse su bitcoin e criptovalute [[wired])(<<https://www.wired.it/economia/finanza/2021/03/10/bitcoin-criptovalute-tasse)]
 
 ## DGI Activity
 
