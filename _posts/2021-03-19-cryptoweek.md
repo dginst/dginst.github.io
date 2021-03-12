@@ -56,6 +56,6 @@ rispondendo anche alle domande del pubblico.
 - AAA
 - BBB
 
-## DGI Activity
+### DGI
 
 - [Events](https://dgi.io/events/)

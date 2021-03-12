@@ -65,7 +65,7 @@ rispondendo anche alle domande del pubblico.
 [[financial times](https://www.ft.com/content/11e2ac1d-90e9-4308-9cac-d55e9ff13498)]
 - Bitcoin sarà l’oro digitale? Prospettive e limiti [[il sole 24 ore](https://www.ilsole24ore.com/art/bitcoin-sara-l-oro-digitale-prospettive-e-limiti-ADERWWOB)]
 
-## DGI Activity
+### DGI
 
 - [Events](https://dgi.io/events/)
 - 16-17 marzo 2021: [Bitcoin & Blockchain Training](https://dgi.io/workshop/)
