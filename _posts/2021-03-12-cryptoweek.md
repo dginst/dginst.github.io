@@ -60,6 +60,7 @@ rispondendo anche alle domande del pubblico.
 
 - [[bitcoinmagazine](https://bitcoinmagazine.com/technical/taproot-activation-and-the-lot-debate)]
 
+https://bitcoinmagazine.com/markets/contango-and-over-collateralization
 ## Market
 
 ### Bitcoin
