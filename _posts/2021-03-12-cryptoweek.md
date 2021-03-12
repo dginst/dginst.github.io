@@ -22,42 +22,43 @@ rispondendo anche alle domande del pubblico.
 <!--div id="buzzsprout-player-8035698"></div><script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script-->
 
 
-https://www.coindesk.com/beeple-nft-christies-auction
+- Beeple NFT Sold for Record-Setting $69.3M at Christie’s Auction [[coindesk](https://www.coindesk.com/beeple-nft-christies-auction)]
 
-https://www.coindesk.com/wisdomtree-files-for-a-bitcoin-etf
+- [[coindesk](https://www.coindesk.com/wisdomtree-files-for-a-bitcoin-etf)]
 
-https://www.coindesk.com/beeple-nft-christies-auction
+- [[coindesk](https://www.coindesk.com/beeple-nft-christies-auction)]
 
+- [[coindesk](https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz)]
 
-https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz
+- [[coindesk](https://www.coindesk.com/grayscale-halts-new-investments-in-gbtc-after-trading-at-15-below-bitcoin)]
 
-https://www.coindesk.com/grayscale-halts-new-investments-in-gbtc-after-trading-at-15-below-bitcoin
+- [[coindesk](https://www.coindesk.com/digital-currency-group-to-put-up-to-250m-into-grayscales-bitcoin-trust)]
 
-https://www.coindesk.com/digital-currency-group-to-put-up-to-250m-into-grayscales-bitcoin-trust
+- [[bitcoinops](https://bitcoinops.org/en/newsletters/2021/03/10/)]
 
-https://bitcoinops.org/en/newsletters/2021/03/10/
+- [[coindesk](https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks)]
 
-https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks
+- [[bloomberg](https://www.bloomberg.com/news/articles/2021-03-08/coinbase-is-said-to-be-valued-at-90-billion-in-private-auction)]
 
-https://www.bloomberg.com/news/articles/2021-03-08/coinbase-is-said-to-be-valued-at-90-billion-in-private-auction
+- [[decrypt](https://decrypt.co/60505/paypal-buys-crypto-firm-curv-for-nearly-200-million)]
 
-https://decrypt.co/60505/paypal-buys-crypto-firm-curv-for-nearly-200-million
+- [[coindesk](https://www.coindesk.com/ethereum-etp-to-list-on-deutsche-borse)]
 
-https://www.coindesk.com/ethereum-etp-to-list-on-deutsche-borse
+- [[linuxfoundation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018583.html)]
 
-https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018583.html
+- [[medium](https://medium.com/@sdaftuar/on-taproot-activation-and-consensus-changes-in-bitcoin-5b3453e91c4e)]
 
-https://medium.com/@sdaftuar/on-taproot-activation-and-consensus-changes-in-bitcoin-5b3453e91c4e
+- [[jimmysong](https://jimmysong.substack.com/p/nfts-are-doomed-bitcoin-tech-talk)]
 
-https://jimmysong.substack.com/p/nfts-are-doomed-bitcoin-tech-talk
+- [[jimmysong](https://jimmysong.substack.com/p/nfts-are-doomed-bitcoin-tech-talk)]
 
-https://www.theblockcrypto.com/post/97257/jp-morgan-bitcoin-deck-private-client
+- [[jimmysong](https://www.theblockcrypto.com/post/97257/jp-morgan-bitcoin-deck-private-client)]
 
-https://www.coindesk.com/twitter-ceo-jack-dorsey-is-offering-to-sell-the-first-ever-tweet
+- [[coindesk](https://www.coindesk.com/twitter-ceo-jack-dorsey-is-offering-to-sell-the-first-ever-tweet)]
 
-https://bitcoinmagazine.com/technical/lottrue-or-lotfalse-this-is-the-last-hurdle-before-taproot-activation
+- [[bitcoinmagazine](https://bitcoinmagazine.com/technical/lottrue-or-lotfalse-this-is-the-last-hurdle-before-taproot-activation)]
 
-https://bitcoinmagazine.com/technical/taproot-activation-and-the-lot-debate
+- [[bitcoinmagazine](https://bitcoinmagazine.com/technical/taproot-activation-and-the-lot-debate)]
 
 ## Market
 
