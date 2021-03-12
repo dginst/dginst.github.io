@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: 6SVoSmLxNhM
-published: true
+published: false
 newsfeed: false
 ---
 
@@ -20,6 +20,8 @@ in ambito bitcoin, crypto-assets e blockchain,
 rispondendo anche alle domande del pubblico.
 
 <!--div id="buzzsprout-player-8035698"></div><script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script-->
+
+- Bitcoin sarà l’oro digitale? Prospettive e limiti [[il sole 24 ore](https://www.ilsole24ore.com/art/bitcoin-sara-l-oro-digitale-prospettive-e-limiti-ADERWWOB)]
 
 - JPMorgan’s New Crypto Bond ‘Not for the Faint of Heart,’ Former Star Analyst Hintz Says [[coindesk](https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz)]
 
