@@ -66,3 +66,4 @@ rispondendo anche alle domande del pubblico.
 ## DGI Activity
 
 - [Events](https://dgi.io/events/)
+- 16-17 marzo 2021: [Bitcoin & Blockchain Training](https://dgi.io/workshop/)
