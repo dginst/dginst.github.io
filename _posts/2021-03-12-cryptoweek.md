@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: 6SVoSmLxNhM
-published: false
+published: true
 newsfeed: false
 ---
 
@@ -40,10 +40,11 @@ rispondendo anche alle domande del pubblico.
 
 - NFTs are doomed [[jimmy song](https://jimmysong.substack.com/p/nfts-are-doomed-bitcoin-tech-talk)]
 - Beeple NFT Sold for Record-Setting $69.3M at Christie’s Auction [[coindesk](https://www.coindesk.com/beeple-nft-christies-auction)]
+- What is an NFT, and how did an artist called Beeple sell one for $69 million at Christie’s? [[the washington post](https://www.washingtonpost.com/technology/2021/03/12/nft-beeple-christies-blockchain/)]
 
 ### Stablecoins
 
-- 
+- No, Bank of America. A digital euro won’t be “kryptonite for crypto” [[financial times](https://www.ft.com/content/07a06481-0337-419e-9f33-07d5a5881370)]
 
 ## Ecosystem
 
@@ -74,6 +75,7 @@ rispondendo anche alle domande del pubblico.
 ## Regulation
 
 - In Italia non è chiaro quando si pagano le tasse su bitcoin e criptovalute [[wired])(<<https://www.wired.it/economia/finanza/2021/03/10/bitcoin-criptovalute-tasse)]
+- A world rapidly going digital [[global digital finance](https://www.gdf.io/wp-content/uploads/2021/01/GDF-Annual-Report-2020-v.2.pdf)]
 
 ## DGI Activity
 
