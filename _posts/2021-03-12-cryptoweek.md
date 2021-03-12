@@ -21,53 +21,25 @@ rispondendo anche alle domande del pubblico.
 
 <!--div id="buzzsprout-player-8035698"></div><script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script-->
 
+- JPMorgan’s New Crypto Bond ‘Not for the Faint of Heart,’ Former Star Analyst Hintz Says [[coindesk](https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz)]
 
-- Beeple NFT Sold for Record-Setting $69.3M at Christie’s Auction [[coindesk](https://www.coindesk.com/beeple-nft-christies-auction)]
+- JPMorgan to Launch ‘Cryptocurrency Exposure Basket’ of Bitcoin Proxy Stocks [[coindesk](https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks)]
 
-- [[coindesk](https://www.coindesk.com/wisdomtree-files-for-a-bitcoin-etf)]
+- Ethereum ETP to List on Deutsche Borse [[coindesk](https://www.coindesk.com/ethereum-etp-to-list-on-deutsche-borse)]
 
-- [[coindesk](https://www.coindesk.com/beeple-nft-christies-auction)]
-
-- [[coindesk](https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz)]
-
-- [[coindesk](https://www.coindesk.com/grayscale-halts-new-investments-in-gbtc-after-trading-at-15-below-bitcoin)]
-
-- [[coindesk](https://www.coindesk.com/digital-currency-group-to-put-up-to-250m-into-grayscales-bitcoin-trust)]
-
-- [[bitcoinops](https://bitcoinops.org/en/newsletters/2021/03/10/)]
-
-- [[coindesk](https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks)]
-
-- [[bloomberg](https://www.bloomberg.com/news/articles/2021-03-08/coinbase-is-said-to-be-valued-at-90-billion-in-private-auction)]
-
-- [[decrypt](https://decrypt.co/60505/paypal-buys-crypto-firm-curv-for-nearly-200-million)]
-
-- [[coindesk](https://www.coindesk.com/ethereum-etp-to-list-on-deutsche-borse)]
-
-- [[linuxfoundation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018583.html)]
-
-- [[medium](https://medium.com/@sdaftuar/on-taproot-activation-and-consensus-changes-in-bitcoin-5b3453e91c4e)]
-
-- [[jimmysong](https://jimmysong.substack.com/p/nfts-are-doomed-bitcoin-tech-talk)]
-
-- [[jimmysong](https://jimmysong.substack.com/p/nfts-are-doomed-bitcoin-tech-talk)]
-
-- [[jimmysong](https://www.theblockcrypto.com/post/97257/jp-morgan-bitcoin-deck-private-client)]
-
-- [[coindesk](https://www.coindesk.com/twitter-ceo-jack-dorsey-is-offering-to-sell-the-first-ever-tweet)]
-
-- [[bitcoinmagazine](https://bitcoinmagazine.com/technical/lottrue-or-lotfalse-this-is-the-last-hurdle-before-taproot-activation)]
-
-- [[bitcoinmagazine](https://bitcoinmagazine.com/technical/taproot-activation-and-the-lot-debate)]
-
-- [[bitcoinmagazine](https://bitcoinmagazine.com/markets/contango-and-over-collateralization)]
 ## Market
+
+- CONTANGO AND OVER COLLATERALIZATION [[bitcoinmagazine](https://bitcoinmagazine.com/markets/contango-and-over-collateralization)]
+- WisdomTree Files for a Bitcoin ETF [[coindesk](https://www.coindesk.com/wisdomtree-files-for-a-bitcoin-etf)]
 
 ### Bitcoin
 
 - 
 
 ### Alt-coins
+
+- NFTs are doomed [[jimmy song](https://jimmysong.substack.com/p/nfts-are-doomed-bitcoin-tech-talk)]
+- Beeple NFT Sold for Record-Setting $69.3M at Christie’s Auction [[coindesk](https://www.coindesk.com/beeple-nft-christies-auction)]
 
 ### Stablecoins
 
@@ -77,6 +49,11 @@ rispondendo anche alle domande del pubblico.
 
 - Tiger Invests in Crypto Platform FalconX Valued at $675 Million [[bloomberg]](https://www.bloomberg.com/news/articles/2021-03-11/tiger-invests-in-crypto-platform-falconx-valued-at-675-million)
 - Former US Senator Joins Binance as Policy Adviser and Government Liaison [coindesk](https://www.coindesk.com/binance-hires-max-baucus)
+- Grayscale Halts New Investments in GBTC After Trading at 15% Below Bitcoin [[coindesk](https://www.coindesk.com/grayscale-halts-new-investments-in-gbtc-after-trading-at-15-below-bitcoin)]
+- Coinbase Is Said to Be Valued at $90 Billion in Private Auction [[bloomberg](https://www.bloomberg.com/news/articles/2021-03-08/coinbase-is-said-to-be-valued-at-90-billion-in-private-auction)]
+- Bidding Reaches $2.5M as Twitter’s Dorsey Highlights NFT Version of First-Ever Tweet [[coindesk](https://www.coindesk.com/twitter-ceo-jack-dorsey-is-offering-to-sell-the-first-ever-tweet)]
+- Digital Capital Group to Buy Up to $250M of Grayscale Bitcoin Trust Shares [[coindesk](https://www.coindesk.com/digital-currency-group-to-put-up-to-250m-into-grayscales-bitcoin-trust)]
+- PayPal Acquires Crypto Security Firm Curv for Nearly $200M [[decrypt](https://decrypt.co/60505/paypal-buys-crypto-firm-curv-for-nearly-200-million)]
 
 ### Coinbase and Exchange Valuations
 
@@ -84,9 +61,15 @@ rispondendo anche alle domande del pubblico.
 
 ### Traditional Finance
 
-- 
+- JPMorgan tells private wealth clients that bitcoin can be a portfolio diversifier 'if sized correctly' [[jimmy song](https://www.theblockcrypto.com/post/97257/jp-morgan-bitcoin-deck-private-client)]
 
 ## Technology
+
+- TAPROOT ACTIVATION AND THE LOT DEBATE [[bitcoinmagazine](https://bitcoinmagazine.com/technical/taproot-activation-and-the-lot-debate)]
+- LOT=TRUE OR LOT=FALSE? THIS IS THE LAST HURDLE BEFORE TAPROOT ACTIVATION [[bitcoinmagazine](https://bitcoinmagazine.com/technical/lottrue-or-lotfalse-this-is-the-last-hurdle-before-taproot-activation)]
+- Taproot activation discussion [[bitcoin optech](https://bitcoinops.org/en/newsletters/2021/03/10/)]
+- On taproot activation and consensus changes in Bitcoin" [[medium](https://medium.com/@sdaftuar/on-taproot-activation-and-consensus-changes-in-bitcoin-5b3453e91c4e)]
+- Taproot activation proposal "Speedy Trial" [[linux foundation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018583.html)]
 
 ## Regulation
 
