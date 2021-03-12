@@ -33,6 +33,7 @@ rispondendo anche alle domande del pubblico.
 - Ethereum ETP to List on Deutsche Borse [[coindesk](https://www.coindesk.com/ethereum-etp-to-list-on-deutsche-borse)]
 - Grayscale Halts New Investments in GBTC After Trading at 15% Below Bitcoin [[coindesk](https://www.coindesk.com/grayscale-halts-new-investments-in-gbtc-after-trading-at-15-below-bitcoin)]
 - Digital Capital Group to Buy Up to $250M of Grayscale Bitcoin Trust Shares [[coindesk](https://www.coindesk.com/digital-currency-group-to-put-up-to-250m-into-grayscales-bitcoin-trust)]
+- Firm Behind Biggest Bitcoin Trust Is Hiring Entire ETF Team [[bloomberg]](https://www.bloomberg.com/news/articles/2021-03-11/firm-behind-biggest-bitcoin-trust-is-hiring-an-entire-etf-team)
 
 ### Non Fungible Tokens
 
