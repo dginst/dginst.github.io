@@ -53,7 +53,7 @@ permalink: /cryptoweekinternal/
 ### Streamyard
 
 * estrarre podcast e caricarlo sulla piattaforma podcast
-* creare nuovo stream per la settimana successiva
+* creare nuovo broadcast per la settimana successiva
 * aggiornare foto thumb
 
 ### Youtube
