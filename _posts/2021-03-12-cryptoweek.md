@@ -59,6 +59,7 @@ https://bitcoinmagazine.com/technical/lottrue-or-lotfalse-this-is-the-last-hurdl
 
 https://bitcoinmagazine.com/technical/taproot-activation-and-the-lot-debate
 
+https://bitcoinmagazine.com/markets/contango-and-over-collateralization
 ## Market
 
 ### Bitcoin
