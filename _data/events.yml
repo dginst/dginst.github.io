@@ -58,7 +58,28 @@
     main: 20210326-parlamento-europeo.png
     size: 200
     thumb: 20210326-parlamento-europeo-thumb.jpg
-  eventfeed: false
+  eventfeed: true
+  published: true
+
+- title:  "Alla frontiera degli standard monetari"
+  subtitle: Tra Bitcoin, Libra e Euro digitale
+  lang: it
+  city: online
+  date: 2021-03-25
+  date2: 
+  hours: 14:30 - 16:30
+  organizer: ibicocca
+  address: live streaming
+  info:
+    text: programma provvisorio, seguirannno modalità di registrazione
+    url: http://dgi.io/docs/20210326-parlamento-europeo.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210325-ibicocca.png
+    size: 200
+    thumb: 20210325-ibicocca-thumb.jpg
+  eventfeed: true
   published: true
 
 - title: "Bitcoin & Blockchain"
@@ -100,7 +121,7 @@
     main: 20210312-webinar.jpg
     size: 200
     thumb: 20210312-webinar-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "L'evoluzione delle tecniche di Information Forensics"
@@ -121,7 +142,7 @@
     main: 20210312-iisfa.jpg
     size: 200
     thumb: 20210312-iisfa-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Presentazione del Report 2020-Q4"
@@ -142,7 +163,7 @@
     main: 20210205-2020Q4-report.jpg
     size: 200
     thumb: 20210205-2020Q4-report-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Bitcoin & Blockchain"
@@ -163,7 +184,7 @@
     main: 20210126-workshop.jpg
     size: 200
     thumb: 20210126-workshop-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title: "Presente e futuro: l'innovazione digitale"
