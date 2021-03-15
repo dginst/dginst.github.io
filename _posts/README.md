@@ -4,6 +4,7 @@ title: "Cryptoweek: to do list"
 subtitle: "Internal updates"
 permalink: /cryptoweekinternal/
 ---
+
 ## Prima di ogni CryptoWeek
 
 * Streamyard: verificare contenuti banner
