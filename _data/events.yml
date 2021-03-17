@@ -1,3 +1,24 @@
+- title: "Bitcoin & Blockchain"
+  subtitle: Training sull'ecosistema crypto e la tecnologia sottostante
+  lang: it
+  city: online
+  date: 2021-06-15
+  date2: 2021-06-16
+  hours: 09:00-18:00
+  organizer: Digital Gold Institute
+  address: webinar
+  info:
+    text: programma e registrazione
+    url: https://dgi.io/workshop
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210615-workshop.jpg
+    size: 200
+    thumb: 20210126-workshop-thumb.jpg
+  eventfeed: false
+  published: true
+
 - title: "CryptoWeek"
   subtitle: Il commento alle news della settimana
   lang: it
@@ -20,7 +41,7 @@
   published: true
   
 - title: "Presentazione Report 2021-Q1"
-  subtitle: Il rapporto di ricerca trimestrale dell'ultimo trimestre
+  subtitle: Il rapporto di ricerca trimestrale dell'istituto
   lang: it
   city: Milano
   date: 2021-04-14
@@ -71,8 +92,8 @@
   organizer: ibicocca
   address: live streaming
   info:
-    text: programma provvisorio, seguirannno modalità di registrazione
-    url: http://dgi.io/docs/20210326-parlamento-europeo.pdf
+    text: evento riservato agli iscritti al portale ibicocca
+    url: http://ibicocca.it/evento/iknow-alla-frontiera-degli-standard-monetari-tra-bitcoin-libra-e-euro-digitale/
   discount_code:
   discount_code_publish:
   image:
@@ -80,27 +101,6 @@
     size: 200
     thumb: 20210325-ibicocca-thumb.jpg
   eventfeed: true
-  published: true
-
-- title: "Bitcoin & Blockchain"
-  subtitle: Training sull'ecosistema crypto e la tecnologia sottostante
-  lang: it
-  city: online
-  date: 2021-03-16
-  date2: 2021-03-17
-  hours: 
-  organizer: Digital Gold Institute
-  address: live streaming
-  info:
-    text: programma e registrazione
-    url: https://dgi.io/workshop
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20210317-workshop.jpg
-    size: 200
-    thumb: 20210126-workshop-thumb.jpg
-  eventfeed: false
   published: true
 
 - title: "Moneta digitale e dintorni"
