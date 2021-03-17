@@ -6,7 +6,7 @@ subtitle: "Intervista Youtube a F. M. Ametrano"
 author: "Staff"
 image:
     thumb: 2021-01-27-max-relativo-thumb.jpg
-youtube: WMc2hr3Y92A
+youtube: oZaUZ2iFK0Y
 published: true
 newsfeed: true
 ---
