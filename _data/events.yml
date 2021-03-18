@@ -51,7 +51,7 @@
   address: live streaming
   info:
     text: evento ad invito
-    url:
+    url: http://dgi.io/docs/reports/2021Q1-agenda.pdf
   discount_code:
   discount_code_publish:
   image:
@@ -346,7 +346,7 @@
   address: Milano
   info:
     text: evento ad invito
-    url: http://dgi.io/docs/reports/2020Q2-agenda.pdf
+    url: 
   discount_code:
   discount_code_publish:
   image:
