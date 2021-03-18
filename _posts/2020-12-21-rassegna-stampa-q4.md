@@ -8,7 +8,7 @@ image:
     main: 2020-12-21-rassegna-stampa-q4.jpg
     thumb: 2020-12-21-rassegna-stampa-q4-thumb.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 L'interesse su Bitcoin cresce al crescere della performance di mercato di questo ultimo trimestre dell'anno. Nuovi player, nuovi mercati: un’inarrestabile corsa all’oro.

@@ -8,7 +8,7 @@ image:
     main: 2020-10-31-the-digital-rush.jpg
     thumb: 2020-10-31-the-digital-rush-thumb.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 THE DIGITAL RUSH presents a proper representation of the bitcoin idea: cypherpunk roots, technological choices, monetary impact, and cultural relevance. Aimed at a non-technical audience, the documentary emphasizes the emergence of bitcoin as digital gold.
