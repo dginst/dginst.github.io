@@ -84,7 +84,7 @@ rispondendo anche alle domande del pubblico.
 ## Opinions
 
 - Surveys Indicate Inflow of Stimulus Checks to Stocks, Bitcoin [[cryptobriefing](https://cryptobriefing.com/surveys-indicate-inflow-stimulus-checks-stocks-bitcoin/)]
-- Taleb, Peterson and Weinstein's engagement with Bitcoin. Bitcoin Tech Talk #231 [[Jimmy Song](https://jimmysong.substack.com/p/taleb-peterson-and-weinsteins-engagement)]
+- Bitcoin Tech Talk #231 [[Jimmy Song](https://jimmysong.substack.com/p/taleb-peterson-and-weinsteins-engagement)]
 - Gauge Theory Does Not Fix This [[Allen Farrington](https://allenfarrington.medium.com/gauge-theory-does-not-fix-this-625f98de3246)]
 
 ## Bitcoin Tech
@@ -95,4 +95,4 @@ rispondendo anche alle domande del pubblico.
 ### DGI
 
 - [Events](https://dgi.io/events/)
-- [Interview](https://dgi.io/2021/03/17/bnp-paribas.html)
+- [BNP Paribas interview](https://dgi.io/2021/03/17/bnp-paribas.html)
