@@ -21,6 +21,10 @@ rispondendo anche alle domande del pubblico.
 
 <!--div id="buzzsprout-player-8035698"></div><script src="https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script-->
 
+
+- Cryptomania gives Austria its first unicorn: Bitpanda [[theblockcrypto](https://www.ft.com/content/0f5d5439-c655-4f0f-a484-8aacd0333c96)]
+
+
 ### JPMorgan
 
 - AAA
