@@ -12,7 +12,7 @@ newsfeed: true
 ---
 
 Il venerdì alle 18:00 in live-streaming
-([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc&index=1),
+([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc),
 [Facebook](https://www.facebook.com/DigitalGoldInstitute))
 il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
 commenta quanto di rilevante è accaduto nel corso della settimana
