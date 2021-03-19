@@ -52,12 +52,12 @@ rispondendo anche alle domande del pubblico.
 - Coinbase valuation soars to $68 billion ahead of highly anticipated crypto listing [[Cnbc](https://www.cnbc.com/2021/03/17/coinbase-valuation-rises-to-68-billion-ahead-of-crypto-listing.html)]
 - Kraken CEO Says He’d Only Want to Go Public at a Valuation Above $10B [[Coindesk](https://www.coindesk.com/kraken-jesse-powell-bloomberg)]
 - Crypto exchange Kraken could go public next year via a direct listing [[The Block Crypto](https://www.theblockcrypto.com/linked/98587/crypto-exchange-kraken-direct-listing-plan-2022)]
-- Cryptomania gives Austria its first unicorn: Bitpanda [Financial Times](https://www.ft.com/content/0f5d5439-c655-4f0f-a484-8aacd0333c96)]
+- Cryptomania gives Austria its first unicorn: Bitpanda [[Financial Times](https://www.ft.com/content/0f5d5439-c655-4f0f-a484-8aacd0333c96)]
 - Crypto Has Another Unicorn as Bitpanda Raises $170M at $1.2B Valuation [[Coindesk](https://www.coindesk.com/crypto-has-another-unicorn-as-bitpanda-raises-170m-at-1-2b-valuation)]
 
 ## Custodians
 
-- Bank of New York Mellon Invests in Crypto Startup [WallStreetJournal](https://www.wsj.com/articles/bank-of-new-york-mellon-invests-in-crypto-startup-11616063404)]
+- Bank of New York Mellon Invests in Crypto Startup [[WallStreetJournal](https://www.wsj.com/articles/bank-of-new-york-mellon-invests-in-crypto-startup-11616063404)]
 - BNY Mellon Joins $133M Investment in Crypto Startup Fireblocks [[cryptobriefing](https://cryptobriefing.com/bny-mellon-joins-133m-investment-crypto-startup-fireblocks/)]
 - BNY Mellon Joins $133 Million In Series C In Bitcoin Custodian Fireblocks [[Forbes](https://www.forbes.com/sites/ninabambysheva/2021/03/18/bny-mellon-joins-133-million-in-series-c-in-bitcoin-custodian-fireblocks/)]
 - Crypto security firm Fireblocks raises $30 million in Series B led by Paradigm [[The Block Crypto](https://www.theblockcrypto.com/post/85052/crypto-fireblocks-series-b-funding-round-paradigm)]
