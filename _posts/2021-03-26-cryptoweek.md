@@ -27,8 +27,8 @@ rispondendo anche alle domande del pubblico.
 - PBoC official says 'completely anonymous CBDC is not an option' [[The Block](https://www.theblockcrypto.com/linked/98925/pboc-anonymous-cbdc-not-option)]
 - People’s Bank of China Official Says Fully Anonymous Digital Yuan ‘Not Feasible’ [[coindesk](https://www.coindesk.com/peoples-bank-of-china-official-says-fully-anonymous-digital-yuan-not-feasible)]
 - Fed Chair Powell Doubles Down on Bitcoin as Digital Gold [[decrypt](https://decrypt.co/62381/fed-chair-powell-doubles-down-bitcoin-digital-gold)]
-- Roma tre - Moneta digitale e dintorni (12/3/2021): [[video](https://www.youtube.com/watch?v=MxlS0SeXjQs&t=5592s) e [[slide](https://drive.google.com/file/d/1NcejTJNetUQCXpwb2XROELJGhnbBVMS2)]
-- Parlamento Europeo - Cripto-attività (26/3/2021): [[video](https://www.youtube.com/watch?v=MxlS0SeXjQs&t=5592s) e [[slide](https://drive.google.com/file/d/1NcejTJNetUQCXpwb2XROELJGhnbBVMS2)]
+- Roma tre - Moneta digitale e dintorni (12/3/2021): [[video](https://www.youtube.com/watch?v=MxlS0SeXjQs&t=5592s)] e [[slide](https://drive.google.com/file/d/1uCmpeXgWwld_RZZ5rmXp83xUpum6gbMq)]
+- Parlamento Europeo - Cripto-attività (26/3/2021): [[video](https://www.youtube.com/watch?v=QLC_qGeZBR8)] e [[slide](https://drive.google.com/file/d/1NcejTJNetUQCXpwb2XROELJGhnbBVMS2)]
 - USDC's total stablecoin supply has surpassed $10 billion [[The Block](https://www.theblockcrypto.com/linked/98860/usdc-stablecoin-10-billion)]
 
 ### FAFT-GAFI
@@ -74,7 +74,7 @@ rispondendo anche alle domande del pubblico.
 - The New York Times just turned one of its columns into an NFT [[theblockcrypto](https://www.theblockcrypto.com/linked/99255/new-york-times-column-nft)]
 - Musicians Turn to NFTs to Make Up for Lost Revenue [[Wall Street Journal](https://www.wsj.com/articles/nfts-are-music-industrys-latest-big-hit-11616491801)]
 - NFTs are Bribes [[Jimmy Song](https://jimmysong.substack.com/p/nfts-are-bribes-bitcoin-tech-talk)]
-- Deconstructing that $69million NFT [erratasec](https://blog.erratasec.com/2021/03/deconstructing-that-69million-nft.html)
+- Deconstructing that $69million NFT [[erratasec](https://blog.erratasec.com/2021/03/deconstructing-that-69million-nft.html)]
 
 ### Tech
 
