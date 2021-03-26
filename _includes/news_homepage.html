@@ -11,8 +11,8 @@
         <div class="row">
             {% for post in site.posts %}
             {% if post.newsfeed %}
-            {% capture times_if %}{% increment times_if %}{% endcapture %}
-            {% if times_if <= '2' %} <div class="col-lg-4 col-md-4">
+            {% capture times_post_if %}{% increment times_post_if %}{% endcapture %}
+            {% if times_post_if <= '2' %} <div class="col-lg-4 col-md-4">
                 <article class="post">
                     {% if post.image.thumb %}
                     <p>
