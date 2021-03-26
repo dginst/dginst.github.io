@@ -1,0 +1,60 @@
+---
+layout: page
+---
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WR2N34H" height="0" width="0"
+        style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<section id="posts" class="newspage">
+    <div class="container">
+        <div class="row col-lg-8 col-lg-offset-2">
+            <h2>{{ page.title }}</h2>
+
+            {% if page.image.main %}
+            <p>
+                <img src="{{ site.baseurl }}/img/posts/{{ page.image.main }}" class="aligncenter" width="100%"
+                    height="auto">
+            </p>
+            {% elsif page.youtubeplaylist %}
+            <div class='embed-container'>
+                <iframe src='https://www.youtube.com/embed/videoseries?list={{ page.youtubeplaylist }}' frameborder='0'
+                    allowfullscreen></iframe>
+            </div>
+            {% elsif page.youtube %}
+            <div class='embed-container'>
+                <iframe src='https://www.youtube.com/embed/{{ page.youtube }}?&autoplay=1' frameborder='0'
+                    allowfullscreen></iframe>
+            </div>
+            {% endif %}
+
+            <article class="post">
+                {% if page.date and page.author %}
+                <p class="pdate">
+                    {{ page.date | date: "%b %e, %Y" }}
+                    |
+                    <i> {{ page.author }}</i>
+                </p>
+                {% elsif page.author %}
+                <p class="pdate">
+                    <i> {{ page.author }}</i>
+                </p>
+                {% elsif page.date %}
+                <p class="pdate">
+                    {{ page.date | date: "%b %e, %Y" }}
+                </p>
+                {% endif %}
+
+                <p>{% include share-bar.html %}</p>
+
+                <h3>{{ page.subtitle }}</h3>
+
+                <p>{{ content }}</p>
+
+            </article>
+        </div>
+    </div>
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+        <a href="{{ site.baseurl }}/cryptoweek" class="btn btn-primary btn-xl">All CryptoWeeks</a>
+    </div>
+</section>

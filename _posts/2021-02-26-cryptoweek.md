@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cryptoweek
 comments: false
 title: "CryptoWeek #3"
 subtitle: "Il commento alle news della settimana" 
@@ -8,7 +8,7 @@ image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: DAQlSecIwd8
 published: true
-newsfeed: false
+cryptoweek: true
 ---
 
 Il venerdì alle 18:00 in live-streaming

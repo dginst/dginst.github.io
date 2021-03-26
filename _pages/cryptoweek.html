@@ -1,0 +1,85 @@
+---
+layout: page
+comments: false
+lang: it
+title: "CryptoWeek"
+subtitle: "Il commento alle news della settimana"
+youtubeplaylist: PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc
+permalink: /cryptoweek
+---
+
+<section id="cryptoweeks" class="">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">CryptoWeeks</h2>
+                <hr class="primary">
+            </div>
+            <div class="row col-lg-8 col-lg-offset-2">
+                <div class='embed-container'>
+                    <iframe src='https://www.youtube.com/embed/videoseries?list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc'
+                        frameborder='0' allowfullscreen></iframe>
+                </div>
+            </div>
+            <br>
+            <div class="row col-lg-8 col-lg-offset-2">
+                <p class="text-muted">
+                    Il venerdì alle 18:00 in live-streaming
+                    <a
+                        href="https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc"><em>YouTube</em></a>,
+                    <a href="https://www.facebook.com/DigitalGoldInstitute"><em>Facebook</em></a>,
+                    il nostro direttore scientifico
+                    <a href="https://www.ametrano.net"><em>Ferdinando M. Ametrano</em></a>
+                    commenta quanto di rilevante è accaduto nel corso della settimana
+                    in ambito bitcoin, crypto-assets e blockchain,
+                    rispondendo anche alle domande del pubblico.
+                </p>
+                <div id='buzzsprout-large-player-1686991'></div>
+                <script type='text/javascript' charset='utf-8'
+                    src='https://www.buzzsprout.com/1686991.js?container_id=buzzsprout-large-player-1686991&player=large'></script>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="posts col-lg-8 col-lg-offset-2">
+                {% for post in site.posts %}
+                {% if post.cryptoweek %}
+                <article class="post">
+                    <h2>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </h2>
+
+                    <p class="text-muted">
+                        {{ post.date | date: "%b %e, %Y" }}
+                        {% if post.author %}
+                        |<i> {{ post.author }}</i>
+                        {% endif %}
+                    </p>
+
+                    {% if post.image.thumb %}
+                    <p>
+                        <a href="{{ site.baseurl }}{{ post.url }}"><img
+                                src="{{ site.baseurl }}/img/posts/{{ post.image.thumb }}" class="alignleft" width="150"
+                                height="150"></a>
+                    </p>
+                    {% endif %}
+
+                    {% if post.subtitle %}
+                    <p><i>{{ post.subtitle }}</i></p>
+                    {% endif %}
+
+                    <p>{{ post.excerpt }}</p>
+
+                    <p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+                </article>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+        <a href="{{ site.baseurl }}/" class="btn btn-primary btn-xl">Homepage</a>
+    </div>
+</section>
