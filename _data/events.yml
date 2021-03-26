@@ -16,7 +16,7 @@
     main: 20210615-workshop.jpg
     size: 200
     thumb: 20210126-workshop-thumb.jpg
-  eventfeed: false
+  eventfeed: true
   published: true
 
 - title: "CryptoWeek"
@@ -58,7 +58,7 @@
     main: 20210414-2021Q1-report.jpg
     size: 200
     thumb: 20210414-2021Q1-report-thumb.jpg
-  eventfeed: false
+  eventfeed: true
   published: true
 
 - title: "Cripto-attività"
@@ -79,7 +79,7 @@
     main: 20210326-parlamento-europeo.png
     size: 200
     thumb: 20210326-parlamento-europeo-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
 
 - title:  "Alla frontiera degli standard monetari"
