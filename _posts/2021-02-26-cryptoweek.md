@@ -118,7 +118,7 @@ rispondendo anche alle domande del pubblico.
 - Bitcoin Tech Talk Issue #228
   [[jimmysong](https://jimmysong.substack.com/p/the-bitcoinization-of-the-economy)]
 - Bitcoin Optech Newsletter #137
-  [[bitcoinops](https://bitcoinops.org/en/newsletters/2021/02/24/)]
+  [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/02/24/)]
 - Taproot activation meeting 2
   [[linuxfoundation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018380.html)]
 - Taproot activation: lockinontimeout (LOT)

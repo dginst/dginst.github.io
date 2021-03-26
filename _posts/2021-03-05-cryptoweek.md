@@ -59,7 +59,7 @@ rispondendo anche alle domande del pubblico.
 
 ## Technology
 
-- Bitcoin Optech Newsletter #138 [[bitcoinops](https://bitcoinops.org/en/newsletters/2021/03/03/)]
+- Bitcoin Optech Newsletter #138 [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/03/03/)]
 
 ## Regulation
 
