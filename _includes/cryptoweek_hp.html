@@ -1,0 +1,61 @@
+<section class="" id="cryptoweek" style="background-color:#f5f5f5;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">CryptoWeek</h2>
+                <hr class="primary">
+            </div>
+        </div>
+        <p class="text-muted">
+            Il venerdì alle 18:00 in live-streaming
+            <a
+                href="https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc"><em>YouTube</em></a>,
+            <a href="https://www.facebook.com/DigitalGoldInstitute"><em>Facebook</em></a>,
+            il nostro direttore scientifico
+            <a href="https://www.ametrano.net"><em>Ferdinando M. Ametrano</em></a>
+            commenta quanto di rilevante è accaduto nel corso della settimana
+            in ambito bitcoin, crypto-assets e blockchain,
+            rispondendo anche alle domande del pubblico.
+        </p>
+    </div>
+    <div class="container">
+        <div class="row">
+            {% for post in site.posts %}
+            {% if post.cryptoweek %}
+            {% capture times_if %}{% increment times_if %}{% endcapture %}
+            {% if times_if <= '2' %} <div class="col-lg-4 col-md-4">
+                <article class="post">
+                    {% if post.image.thumb %}
+                    <p>
+                        <a href="{{ site.baseurl }}{{ post.url }}">
+                            <img src="{{ site.baseurl }}/img/posts/{{ post.image.thumb }}" class="alignleft" width="100"
+                                height="100%">
+                        </a>
+                    </p>
+                    {% endif %}
+
+                    <h4>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </h4>
+
+                    <p class="text-muted">
+                        {{ post.date | date: "%b %e, %Y" }} |
+                        <em>{{ post.author }}</em>
+                    </p>
+
+                    {% if post.subtitle %}
+                    <p>{{ post.subtitle }}</p>
+                    {% endif %}
+
+                </article>
+        </div>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+    </div>
+    <br>
+    <div class="col-lg-12 text-center">
+        <a href="{{ site.baseurl }}/cryptoweek" class="btn btn-primary btn-xl page-scroll">All cryptoweeks</a>
+    </div>
+    </div>
+</section>
