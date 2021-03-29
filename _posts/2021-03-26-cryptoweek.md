@@ -12,15 +12,18 @@ cryptoweek: true
 ---
 
 Il venerdì alle 18:00 in live-streaming
-([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc),
+([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc) e
 [Facebook](https://www.facebook.com/DigitalGoldInstitute))
 il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
 commenta quanto di rilevante è accaduto nel corso della settimana
 in ambito bitcoin, crypto-assets e blockchain,
 rispondendo anche alle domande del pubblico.
 
-<!--div id="buzzsprout-player-8173333"></div>
-<script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
+Questa puntata, in particolare, si segnala per ridicoli incidenti tecnici:
+si potrà sorridere di noi, con noi, speriamo apprezzando comunque il contenuto tecnico.
+
+<div id="buzzsprout-player-8217722"></div>
+<script src="https://www.buzzsprout.com/1686991/8217722-cryptoweek-7-26-marzo-2021.js?container_id=buzzsprout-player-8217722&player=small" type="text/javascript" charset="utf-8"></script>
 
 ### CBDC
 
@@ -79,7 +82,7 @@ rispondendo anche alle domande del pubblico.
 ### Tech
 
 - Introducing Bech32 Deposits on BitMEX to Deepen Bitcoin Integration, Lower Fees [[bitmex](https://blog.bitmex.com/introducing-bech32-deposits-on-bitmex-to-deepen-bitcoin-integration-lower-fees/)]
-- Bitcoin Optech Newsletter #141 [[bitcoinops](https://bitcoinops.org/en/newsletters/2021/03/24/)]
+- Bitcoin Optech Newsletter #141 [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/03/24/)]
 
 ### DGI
 

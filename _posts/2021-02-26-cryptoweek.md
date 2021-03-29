@@ -12,7 +12,7 @@ cryptoweek: true
 ---
 
 Il venerdì alle 18:00 in live-streaming
-([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc),
+([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc) e
 [Facebook](https://www.facebook.com/DigitalGoldInstitute))
 il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
 commenta quanto di rilevante è accaduto nel corso della settimana
@@ -118,7 +118,7 @@ rispondendo anche alle domande del pubblico.
 - Bitcoin Tech Talk Issue #228
   [[jimmysong](https://jimmysong.substack.com/p/the-bitcoinization-of-the-economy)]
 - Bitcoin Optech Newsletter #137
-  [[bitcoinops](https://bitcoinops.org/en/newsletters/2021/02/24/)]
+  [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/02/24/)]
 - Taproot activation meeting 2
   [[linuxfoundation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018380.html)]
 - Taproot activation: lockinontimeout (LOT)
