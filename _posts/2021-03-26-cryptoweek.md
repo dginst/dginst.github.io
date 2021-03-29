@@ -19,6 +19,9 @@ commenta quanto di rilevante è accaduto nel corso della settimana
 in ambito bitcoin, crypto-assets e blockchain,
 rispondendo anche alle domande del pubblico.
 
+Questa puntata, in particolare, si segnala per ridicoli incidenti tecnici:
+si potrà sorridere di noi, con noi, speriamo apprezzando comunque il contenuto tecnico.
+
 <div id="buzzsprout-player-8217722"></div>
 <script src="https://www.buzzsprout.com/1686991/8217722-cryptoweek-7-26-marzo-2021.js?container_id=buzzsprout-player-8217722&player=small" type="text/javascript" charset="utf-8"></script>
 
