@@ -21,3 +21,7 @@ rispondendo anche alle domande del pubblico.
 
 <!--div id="buzzsprout-player-8173333"></div>
 <script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
+
+## Bitcoin Mining Energy Consumption
+
+- Bitcoin Mining [Nic Carter on Medium](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
