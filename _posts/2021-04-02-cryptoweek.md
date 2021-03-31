@@ -25,3 +25,4 @@ rispondendo anche alle domande del pubblico.
 ## Bitcoin Mining Energy Consumption
 
 - Bitcoin Mining [Nic Carter on Medium](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
+- Amundi: Crypto-currencies: a bubble or the emergence of a new paradigm in decentralised finance? [Amundi](https://research-center.amundi.com/article/crypto-currencies-bubble-or-emergence-new-paradigm-decentralised-finance)
