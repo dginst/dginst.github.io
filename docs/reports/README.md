@@ -37,7 +37,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
 - 2019-Q4:
   [report]({{ site.baseurl }}/docs/reports/2019Q4.pdf),
   [evidenze]({{site.baseurl}}/docs/reports/2019Q4-presentation.pdf),
-  [quantum cumputing]({{site.baseurl}}/docs/reports/2019Q4-quantumcumputing.pdf)
+  [quantum computing]({{site.baseurl}}/docs/reports/2019Q4-quantumcumputing.pdf)
   e
   [news]({{ site.baseurl }}/2020/01/31/report-q4)
 - 2019-Q3: [report]({{ site.baseurl }}/docs/reports/2019Q3.pdf) e [news]({{ site.baseurl }}/2019/10/31/report-q3.html)
