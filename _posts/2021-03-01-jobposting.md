@@ -22,13 +22,13 @@ The main project is to build the client web-interface and the administrative bac
 The ideal candidate is a professional with at least a few years of work experience and a proven track record as hands-on full stack developer with effective system integration achievements.
 
 The future Technology Officer should be familiar with:
+
 * Agile development
 * DevOps (CI/CD)
 * Cloud solutions and security
 * CRM systems
 * Design and development of front-end solutions with an appealing user experience
 * Design and develop high quality back-end applications and databases
-
 
 CS/STEM master's degree and English+Italian fluency are a must.
 

@@ -16,6 +16,6 @@ Se ne discute molto, ma su bitcoin la divisione è radicale, tra scettici che pa
 L'evento ha avuto come protagonista [*Ferdinando M. Ametrano*](https://www.ametrano.net), che ha illustrato il tema Bitcoin e Blockchain in un format domande e risposte. Dato il successo dell'iniziativa, BicoccAlumni ha prodotto una serie di contenuti video, che vi riproponiamo qui, ogni martedì e venerdì, con l'obiettivo di fare chiarezza e informazione su questi temi sempre più attuali.
 
 Oggi proponiamo l'ultima delle 25 puntate:
-**I saluti di Ferdinando Maria Ametrano**.
+**I saluti di Ferdinando M. Ametrano**.
 
 Vi ringraziamo per aver seguito questa miniserie; per contenuti sempre attuali e divulgativi, consigliamo di seguire il nostro canale [Youtube](https://www.youtube.com/channel/UC8h0W-Jan5GkbHLQAO0FYKA).

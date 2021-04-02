@@ -18,7 +18,7 @@ L'intervista, a cura di *Nicole Vismara* (manager di Deloitte Consulting), è su
 
 ### 1 - Oro digitale
 
-*[NV] Se ne discute molto, ma su Bitcoin la divisione è radicale, tra scettici che parlano di bolla ed entusiasti che descrivono una rivoluzione globale. Tra questi ultimi, Ferdinando Maria Ametrano è uno degli esperti più controversi ed interessanti: fisico di formazione, per decenni si è occupato di derivati finanziari, fino al 2014 quando scopre Bitcoin; oggi dirige il
+*[NV] Se ne discute molto, ma su Bitcoin la divisione è radicale, tra scettici che parlano di bolla ed entusiasti che descrivono una rivoluzione globale. Tra questi ultimi, Ferdinando M. Ametrano è uno degli esperti più controversi ed interessanti: fisico di formazione, per decenni si è occupato di derivati finanziari, fino al 2014 quando scopre Bitcoin; oggi dirige il
 [Digital Gold Institute]({{ site.baseurl }}/full-team/) ed insegna
 [“Bitcoin and Blockchain Technology”](http://www.ametrano.net/bbt/) all’Università Milano-Bicocca ed al Politecnico di Milano. È stato Head of Blockchain and Virtual Currencies in Intesa Sanpaolo, membro del comitato organizzatore di Scaling Bitcoin (la principale conferenza annuale per gli sviluppatori della crittovaluta) e nel 2018 è intervenuto al [primo seminario organizzato su Bitcoin all’ONU](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10). Lo abbiamo intervistato, accendendo il riflettore sui molteplici aspetti di Bitcoin.*
 

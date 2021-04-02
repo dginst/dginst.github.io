@@ -32,7 +32,7 @@ Interverranno alla conferenza:
 - [**Mauro Conti**](https://www.linkedin.com/in/mauroconti/), Professore Ordinario di Sicurezza Informatica all’Università di Padova
 - [**Guido Baroncini Turricchia**](https://www.linkedin.com/in/guidobaronciniturricchia/?originalSubdomain=it), Ingegnere e CEO Helperbit
 - [**Chiara Lelli**](https://www.linkedin.com/in/chiara-lelli-5bb648134/), Presentatrice della tesi premiata da Blockchain Education Network
-- [**Ferdinando Maria Ametrano**](http://www.ametrano.net/), direttore del nostro istituto di ricerca
+- [**Ferdinando M. Ametrano**](http://www.ametrano.net/), direttore del nostro istituto di ricerca
 - [**Lorenzo Giustozzi**](https://www.linkedin.com/in/lorenzogiustozzi/), moderatore, Presidente Associazione BlockchainEdu – Blockchain Education Network Italia, CEO Chainside.
 
 Per accreditarsi scrivere a [**Davide Zanichelli**](mailto:zanichelli_d@camera.it).
