@@ -71,16 +71,16 @@ https://www.coindesk.com/galaxy-digital-preparing-us-listing-names-new-cfo
 - Britain will focus crypto rules on stablecoins, minister says [[Reuters](https://www.reuters.com/article/us-crypto-currency-regulations/uk-to-focus-crypto-rules-on-stablecoins-says-minister-idUSKBN2BM11G)]
 - A Closer Look at the Environmental Impact of Bitcoin Mining [[CoinShares](https://coinshares.com/research/closer-look-environmental-impact-of-bitcoin-mining)]
 - Goldman Sachs to Offer Bitcoin to Wealth Management Clients - [CoinDesk](https://www.coindesk.com/goldman-sachs-to-offer-bitcoin-to-wealth-management-clients)]
-- [BlackRock Has Begun Trading Bitcoin Futures - CoinDesk](https://www.coindesk.com/blackrock-has-begun-trading-bitcoin-futures)]
-- [Millions Tempted By Stimulus Check Bitcoin Bet After Sudden Price Surge](https://www.forbes.com/sites/billybambrough/2021/03/17/millions-tempted-by-stimulus-check-bitcoin-bet/?utm_medium=email&_hsmi=119003146&_hsenc=p2ANqtz-9jafSNxMCGqWUjP_jiRRlEn3HYmkZyC7RSPIMvJVJJj5FQM3kWrVjmwdIyyKEWhndrlzyIlODov8AqhhgK-dfC06qGMUH5rQ59K5tcm_hC9EZ1DIg&utm_content=119003146&utm_source=hs_email)
-- [Billionaire Investor George Soros’ Fund Reveals Bitcoin ‘Inflection Point’ Bet As Crypto Market Cap Nears $2 Trillion](https://www.forbes.com/sites/billybambrough/2021/03/31/billionaire-investor-george-soros-fund-reveals-bitcoin-inflection-point-bet-as-crypto-market-price-nears-2-trillion)
-- [Digital Euro Will Be Decided On Within Months: ECB’s Lagarde - Decrypt](https://decrypt.co/63558/digital-euro-plans-launch-ecb-president-lagarde)
-- [Documents - Financial Action Task Force (FATF)](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html)
-- [Bitcoin: Goldman is close to offering bitcoin to its richest clients](https://www.cnbc.com/2021/03/31/bitcoin-goldman-is-close-to-offering-bitcoin-to-its-richest-clients.html)
-- [BlackRock Has Begun Trading Bitcoin Futures - CoinDesk](https://www.coindesk.com/blackrock-has-begun-trading-bitcoin-futures)
-- [Crypto Options Giant Deribit Launches Bitcoin Volatility Index - CoinDesk](https://www.coindesk.com/crypto-options-deribit-bitcoin-volatility-index)
-- [South Korea to issue blockchain-protected digital 'vaccine passports' | Reuters](https://www.reuters.com/article/us-health-coronavirus-southkorea-idUSKBN2BO43W)
-- [Chainalysis Blog | FATF’s Proposed Updated Guidance for Cryptocurrency Regulation: Everything You Need to Know](https://blog.chainalysis.com/reports/fatfs-updated-guidance-march-2021)
+- BlackRock Has Begun Trading Bitcoin Futures [[CoinDesk](https://www.coindesk.com/blackrock-has-begun-trading-bitcoin-futures)]
+- Millions Tempted By Stimulus Check Bitcoin Bet After Sudden Price Surge[[Forbes](https://www.forbes.com/sites/billybambrough/2021/03/17/millions-tempted-by-stimulus-check-bitcoin-bet/)]
+- Billionaire Investor George Soros’ Fund Reveals Bitcoin ‘Inflection Point’ Bet As Crypto Market Cap Nears $2 Trillion[[Forbes](https://www.forbes.com/sites/billybambrough/2021/03/31/billionaire-investor-george-soros-fund-reveals-bitcoin-inflection-point-bet-as-crypto-market-price-nears-2-trillion)]
+- Digital Euro Will Be Decided On Within Months: ECB’s Lagarde [[Decrypt](https://decrypt.co/63558/digital-euro-plans-launch-ecb-president-lagarde)]
+- Documents - Financial Action Task Force [[FATF-GAFI](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html)]
+- Bitcoin: Goldman is close to offering bitcoin to its richest clients[CNBC](https://www.cnbc.com/2021/03/31/bitcoin-goldman-is-close-to-offering-bitcoin-to-its-richest-clients.html)]
+- BlackRock Has Begun Trading Bitcoin Futures [[CoinDesk](https://www.coindesk.com/blackrock-has-begun-trading-bitcoin-futures)]
+- Crypto Options Giant Deribit Launches Bitcoin Volatility Index [[CoinDesk](https://www.coindesk.com/crypto-options-deribit-bitcoin-volatility-index)]
+- South Korea to issue blockchain-protected digital 'vaccine passports' [[Reuters](https://www.reuters.com/article/us-health-coronavirus-southkorea-idUSKBN2BO43W)]
+- Chainalysis Blog | FATF’s Proposed Updated Guidance for Cryptocurrency Regulation: Everything You Need to Know[[Chainalysis](https://blog.chainalysis.com/reports/fatfs-updated-guidance-march-2021)]
 - SPECTER WALLET RELEASES VERSION 1.3.0 [bitcoinmagazine](https://bitcoinmagazine.com/technical/specter-wallet-releases-version-1-3-0)
 - PayPal will let US users pay with Bitcoin, Ethereum, and Litecoin starting today [theverge](https://www.theverge.com/2021/3/30/22357246/paypal-buy-with-bitcoin-litecoin-ethereum-crypto-checkout)
 - BLOCKSTREAM LAUNCHES BITCOIN MINING HASH RATE TOKEN [bitcoinmagazine](https://bitcoinmagazine.com/business/blockstream-launches-bitcoin-mining-hash-rate-token)
