@@ -41,11 +41,12 @@ rispondendo anche alle domande del pubblico.
 - Goldman Sachs to Offer Bitcoin to Wealth Management Clients [[CoinDesk](https://www.coindesk.com/goldman-sachs-to-offer-bitcoin-to-wealth-management-clients)]
 - Bitcoin: Goldman is close to offering bitcoin to its richest clients [[CNBC](https://www.cnbc.com/2021/03/31/bitcoin-goldman-is-close-to-offering-bitcoin-to-its-richest-clients.html)]
 - BNY Mellon releases report on future Bitcoin valuations [[Bitcoinmagazine](https://bitcoinmagazine.com/markets/bny-mellon-releases-report-on-future-bitcoin-valuations)]
-- Amundi: Crypto-currencies: a bubble or the emergence of a new paradigm in decentralised finance? [[Amundi](https://research-center.amundi.com/article/crypto-currencies-bubble-or-emergence-new-paradigm-decentralised-finance)]
+- Amundi - Crypto-currencies: a bubble or the emergence of a new paradigm in decentralised finance? [[Amundi](https://research-center.amundi.com/article/crypto-currencies-bubble-or-emergence-new-paradigm-decentralised-finance)]
 - Square CFO Amrita Ahuja Makes The Case For Bitcoin On 'Every Balance Sheet' [[Decrypt](https://decrypt.co/63192/square-cfo-amrita-ahuja-makes-the-case-for-bitcoin-on-every-balance-sheet)]
 - Former SEC Chairman Jay Clayton to Advise One River Asset Management on Crypto [[CoinDesk](https://www.coindesk.com/former-sec-chairman-jay-clayton-to-advise-one-river-asset-management-on-crypto)]
 - Bitcoin at 'Inflection Point' as Fiat Debasement Rises: Soros Fund Management CIO [[Decrypt](https://decrypt.co/62981/bitcoin-inflection-point-soros-fund-management-cio)]
 - Grayscale's Sonnenshein Addresses GBTC's Collapsing Premium [[CoinDesk](https://www.coindesk.com/grayscale-sonnenshein-gbtc-collapsing-premium-coindesktv)]
+- Coinbase’s COIN Stock to Go Live on Nasdaq April 14 [[CoinDesk](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14)]
 
 ### CBDC
 
@@ -60,7 +61,6 @@ rispondendo anche alle domande del pubblico.
 - Tether releases an assurance report that shows its stablecoins were fully backed as of February [[The Block crypto](https://www.theblockcrypto.com/post/99806/tether-assurance-report-stablecoins-usdt-fully-backed)]
 - The rise and fall of a Bitcoin billionaire [[Vanityfair](https://archive.vanityfair.com/article/2021/4/1/the-rise-and-fall-of-a-bitcoin-billionaire)]
 - Welcoming our New Compliance and Regulatory Advisors: Two Former FATF Executives [[Binance](https://www.binance.com/en/blog/421499824684901842/Welcoming-our-New-Compliance-and-Regulatory-Advisors-Two-Former-FATF-Executives)]
-- Coinbase’s COIN Stock to Go Live on Nasdaq April 14 [[CoinDesk](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14)]
 
 ### Bitcoin Mining Energy Consumption
 
@@ -70,7 +70,7 @@ rispondendo anche alle domande del pubblico.
 ### Tech
 
 - Bitcoin Mining Difficulty Hits All-Time High as Delayed ASIC Shipments Come Online [[CoinDesk](https://www.coindesk.com/bitcoin-mining-difficulty)]
-- Debunking the Empty Block Attack. It’s amazing how much effort critics… [[Medium](https://jimmysong.medium.com/debunking-the-empty-block-attack-10513858b3f8)]
+- Debunking the Empty Block Attack [[Medium](https://jimmysong.medium.com/debunking-the-empty-block-attack-10513858b3f8)]
 - Bitcoin Tech Talk [[Jimmy Song](https://jimmysong.substack.com/)]
 - Bitcoin Optech Newsletter #142 [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/03/31/)]
 - tor - How can I use Bitcoin Core with the anonymous network protocol I2P? [[Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/103402/how-can-i-use-bitcoin-core-with-the-anonymous-network-protocol-i2p)]
