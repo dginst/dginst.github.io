@@ -13,7 +13,7 @@ permalink: /cryptoweekinternal/
 * Linkedin: pubblicizzare la pagina dgi.io/cryptoweek
 * Linkedin: promuovere il live Fb
 * website: aggiornare il post con tutte le news che verranno illustrate
-* website: pubblicare il post subito prima di andare live (Published: true)
+* website: pubblicare il post subito prima di andare live (published: true; cryptoweek: true)
 
 ## Durante il CryptoWeek
 
@@ -33,7 +33,7 @@ permalink: /cryptoweekinternal/
 * YouTube: aggiornare il titolo
 * Linkedin: creare evento collegato al live youtube
 * Website: aggiornare la data del nuovo cryptoweek in events.yml
-* Website: creare il post del cryptoweek della settimana successiva (published: false, cryptoweek: true, incrementare il #)
+* Website: creare il post del cryptoweek della settimana successiva (published: false, cryptoweek: true, incrementare il #, metere il link YouTube corretto)
 * Website: inserire il link podcast del cyptoweek appena concluso
 
 ## Sabato mattina
