@@ -75,9 +75,8 @@ rispondendo anche alle domande del pubblico.
 - Bitcoin Tech Talk [[Jimmy Song](https://jimmysong.substack.com/)]
 - Bitcoin Optech Newsletter #142 [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/03/31/)]
 - tor - How can I use Bitcoin Core with the anonymous network protocol I2P? [[Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/103402/how-can-i-use-bitcoin-core-with-the-anonymous-network-protocol-i2p)]
-- SPECTER WALLET RELEASES VERSION 1.3.0 [[bitcoinmagazine](https://bitcoinmagazine.com/technical/specter-wallet-releases-version-1-3-0)]
-- BLOCKSTREAM LAUNCHES BITCOIN MINING HASH RATE TOKEN [[bitcoinmagazine](https://bitcoinmagazine.com/business/blockstream-launches-bitcoin-mining-hash-rate-token)]
-
+- Specter Wallet releases version 1.3.0 [[bitcoinmagazine](https://bitcoinmagazine.com/technical/specter-wallet-releases-version-1-3-0)]
+- Blockstream launches Bitcoin mining hash rate token [[bitcoinmagazine](https://bitcoinmagazine.com/business/blockstream-launches-bitcoin-mining-hash-rate-token)]
 
 ## Blockchain
 
@@ -86,8 +85,8 @@ rispondendo anche alle domande del pubblico.
 
 ## FATF-GAFI
 
-- Documents - Financial Action Task Force [[FATF-GAFI](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html)]
-- Chainalysis Blog | FATF’s Proposed Updated Guidance for Cryptocurrency Regulation: Everything You Need to Know [[Chainalysis](https://blog.chainalysis.com/reports/fatfs-updated-guidance-march-2021)]
+- Financial Action Task Force [[FATF-GAFI](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html)]
+- FATF’s Proposed Updated Guidance for Cryptocurrency Regulation: Everything You Need to Know [[Chainalysis](https://blog.chainalysis.com/reports/fatfs-updated-guidance-march-2021)]
 
 ## Staking
 
