@@ -23,13 +23,13 @@ rispondendo anche alle domande del pubblico.
 <script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
 
 
-## Payments
+### Payments
 
 - Bakkt Launches Its Bitcoin Payments App [[Cryptobriefing](https://cryptobriefing.com/bakkt-launches-its-bitcoin-payments-app/)]
 - PayPal will let US users pay with Bitcoin, Ethereum, and Litecoin starting today [[theverge](https://www.theverge.com/2021/3/30/22357246/paypal-buy-with-bitcoin-litecoin-ethereum-crypto-checkout)]
 - PayPal Pushes Crypto Further Mainstream With Planned Checkout Service for 29M Merchants [[CoinDesk](https://www.coindesk.com/paypal-to-start-letting-us-customers-to-use-their-crypto-at-checkout-report)]
 
-## Investments
+### Investments
 
 - Bitcoin (BTC USD) Cryptocurrency Price Rises With Ethereum (ETH) on Visa [[Bloomberg](https://www.bloomberg.com/news/articles/2021-03-29/visa-using-stablecoin-to-settle-transactions-in-lure-to-fintechs)]
 - CME Group to Launch Micro Bitcoin Futures on May 3 [[Prnewswire](https://www.prnewswire.com/news-releases/cme-group-to-launch-micro-bitcoin-futures-on-may-3-301258262.html)]
@@ -49,26 +49,26 @@ rispondendo anche alle domande del pubblico.
 - Grayscale's Sonnenshein Addresses GBTC's Collapsing Premium [[CoinDesk](https://www.coindesk.com/grayscale-sonnenshein-gbtc-collapsing-premium-coindesktv)]
 - Coinbase’s COIN Stock to Go Live on Nasdaq April 14 [[Coindesk](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14)]
 
-## CBDC
+### CBDC
 
 - Bank of Japan forms committee to share details on CBDC proof-of-concept [[The block crypto](https://www.theblockcrypto.com/linked/99626/boj-cbdc-committee-proof-of-concept)]
 - Establishment of Liaison and Coordination Committee on Central Bank Digital Currency [[Bank of Japan](https://www.boj.or.jp/en/announcements/release_2021/rel210326a.pdf)]
 - Britain will focus crypto rules on stablecoins, minister says [[Reuters](https://www.reuters.com/article/us-crypto-currency-regulations/uk-to-focus-crypto-rules-on-stablecoins-says-minister-idUSKBN2BM11G)]
 - Digital Euro Will Be Decided On Within Months: ECB’s Lagarde [[Decrypt](https://decrypt.co/63558/digital-euro-plans-launch-ecb-president-lagarde)]
 
-## Exchanges
+### Exchanges
 
 - Assurance Opinion Confirms Tether's Reserves Fully Backed; Company Shares as Part of Ongoing Transparency Commitment [[Tether](https://tether.to/assurance-opinion-mar-21/)]
 - Tether releases an assurance report that shows its stablecoins were fully backed as of February [[The block crypto](https://www.theblockcrypto.com/post/99806/tether-assurance-report-stablecoins-usdt-fully-backed)]
 - The rise and fall of a Bitcoin billionaire [[vanityfair](https://archive.vanityfair.com/article/2021/4/1/the-rise-and-fall-of-a-bitcoin-billionaire)]
 - Welcoming our New Compliance and Regulatory Advisors: Two Former FATF Executives [[Binance](https://www.binance.com/en/blog/421499824684901842/Welcoming-our-New-Compliance-and-Regulatory-Advisors-Two-Former-FATF-Executives)]
 
-## Bitcoin Mining Energy Consumption
+### Bitcoin Mining Energy Consumption
 
 - Bitcoin Mining [[Nic Carter on Medium](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)]
 - A Closer Look at the Environmental Impact of Bitcoin Mining [[CoinShares](https://coinshares.com/research/closer-look-environmental-impact-of-bitcoin-mining)]
 
-## Tech
+### Tech
 
 - Bitcoin Mining Difficulty Hits All-Time High as Delayed ASIC Shipments Come Online [[Coindesk](https://www.coindesk.com/bitcoin-mining-difficulty)]
 - Debunking the Empty Block Attack. It’s amazing how much effort critics… [[Medium](https://jimmysong.medium.com/debunking-the-empty-block-attack-10513858b3f8)]
@@ -78,16 +78,16 @@ rispondendo anche alle domande del pubblico.
 - Specter Wallet releases version 1.3.0 [[bitcoinmagazine](https://bitcoinmagazine.com/technical/specter-wallet-releases-version-1-3-0)]
 - Blockstream launches Bitcoin mining hash rate token [[bitcoinmagazine](https://bitcoinmagazine.com/business/blockstream-launches-bitcoin-mining-hash-rate-token)]
 
-## Blockchain
+### Blockchain
 
 - New York Launches a Blockchain-Powered COVID-19 Passport [[Decrypt](https://decrypt.co/63115/new-york-launches-a-blockchain-powered-covid-19-passport)]
 - South Korea to issue blockchain-protected digital 'vaccine passports' [[Reuters](https://www.reuters.com/article/us-health-coronavirus-southkorea-idUSKBN2BO43W)]
 
-## FATF-GAFI
+### FATF-GAFI
 
 - Financial Action Task Force [[FATF-GAFI](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html)]
 - FATF’s Proposed Updated Guidance for Cryptocurrency Regulation: Everything You Need to Know [[Chainalysis](https://blog.chainalysis.com/reports/fatfs-updated-guidance-march-2021)]
 
-## Staking
+### Staking
 
 - Deconstructing the Bitcoin lending landscape in 2021: How to lend wisely and avoid disaster [[bitcoinmagazine](https://bitcoinmagazine.com/markets/deconstructing-the-bitcoin-lending-landscape-in-2021-how-to-lend-wisely-and-avoid-disaster)]
