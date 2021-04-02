@@ -19,8 +19,8 @@ commenta quanto di rilevante è accaduto nel corso della settimana
 in ambito bitcoin, crypto-assets e blockchain,
 rispondendo anche alle domande del pubblico.
 
-<!--div id="buzzsprout-player-8173333"></div>
-<script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
+<div id="buzzsprout-player-8261625"></div>
+<script src="https://www.buzzsprout.com/1686991/8261625-crytpoweek-8-2-aprile-2021.js?container_id=buzzsprout-player-8261625&player=small" type="text/javascript" charset="utf-8"></script>
 
 ### Payments
 
