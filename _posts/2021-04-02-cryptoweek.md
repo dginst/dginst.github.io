@@ -26,7 +26,7 @@ rispondendo anche alle domande del pubblico.
 ## Payments
 
 - Bakkt Launches Its Bitcoin Payments App [[Cryptobriefing](https://cryptobriefing.com/bakkt-launches-its-bitcoin-payments-app/)]
-- PayPal will let US users pay with Bitcoin, Ethereum, and Litecoin starting today [theverge](https://www.theverge.com/2021/3/30/22357246/paypal-buy-with-bitcoin-litecoin-ethereum-crypto-checkout)
+- PayPal will let US users pay with Bitcoin, Ethereum, and Litecoin starting today [[theverge](https://www.theverge.com/2021/3/30/22357246/paypal-buy-with-bitcoin-litecoin-ethereum-crypto-checkout)]
 - PayPal Pushes Crypto Further Mainstream With Planned Checkout Service for 29M Merchants [[CoinDesk](https://www.coindesk.com/paypal-to-start-letting-us-customers-to-use-their-crypto-at-checkout-report)]
 
 ## Investments
@@ -34,14 +34,14 @@ rispondendo anche alle domande del pubblico.
 - Bitcoin (BTC USD) Cryptocurrency Price Rises With Ethereum (ETH) on Visa [[Bloomberg](https://www.bloomberg.com/news/articles/2021-03-29/visa-using-stablecoin-to-settle-transactions-in-lure-to-fintechs)]
 - CME Group to Launch Micro Bitcoin Futures on May 3 [[Prnewswire](https://www.prnewswire.com/news-releases/cme-group-to-launch-micro-bitcoin-futures-on-may-3-301258262.html)]
 - CME to Launch Micro Bitcoin Futures in May [[CoinDesk](https://www.coindesk.com/cme-announces-launch-of-micro-bitcoin-futures-in-may)]
-- Bitcoin Futures Contract Specs [CME Group](https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_contract_specifications.html)]
+- Bitcoin Futures Contract Specs [[CME Group](https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_contract_specifications.html)]
 - BlackRock Has Begun Trading Bitcoin Futures [[Coindesk](https://www.coindesk.com/blackrock-has-begun-trading-bitcoin-futures)]
 - Morgan Stanley Registers Funds With Up to 25% Bitcoin Allocation [[Cryptobriefing](https://cryptobriefing.com/morgan-stanley-registers-funds-25-bitcoin-allocation/)]
 - Morgan Stanley Approves Bitcoin Exposure for Handful of Mutual Funds [[Coindesk](https://www.coindesk.com/morgan-stanley-approves-bitcoin-exposure-for-handful-of-mutual-funds)]
 - Goldman Sachs Plans Suite of Bitcoin Products for Q2 [[Cryptobriefing](https://cryptobriefing.com/goldman-sachs-plans-suite-bitcoin-products-q2/)]
-- Goldman Sachs to Offer Bitcoin to Wealth Management Clients - [CoinDesk](https://www.coindesk.com/goldman-sachs-to-offer-bitcoin-to-wealth-management-clients)]
-- Bitcoin: Goldman is close to offering bitcoin to its richest clients[CNBC](https://www.cnbc.com/2021/03/31/bitcoin-goldman-is-close-to-offering-bitcoin-to-its-richest-clients.html)]
-- BNY Mellon releases report on future Bitcoin valuations [bitcoinmagazine](https://bitcoinmagazine.com/markets/bny-mellon-releases-report-on-future-bitcoin-valuations)
+- Goldman Sachs to Offer Bitcoin to Wealth Management Clients [[CoinDesk](https://www.coindesk.com/goldman-sachs-to-offer-bitcoin-to-wealth-management-clients)]
+- Bitcoin: Goldman is close to offering bitcoin to its richest clients [[CNBC](https://www.cnbc.com/2021/03/31/bitcoin-goldman-is-close-to-offering-bitcoin-to-its-richest-clients.html)]
+- BNY Mellon releases report on future Bitcoin valuations [[bitcoinmagazine](https://bitcoinmagazine.com/markets/bny-mellon-releases-report-on-future-bitcoin-valuations)]
 - Amundi: Crypto-currencies: a bubble or the emergence of a new paradigm in decentralised finance? [[Amundi](https://research-center.amundi.com/article/crypto-currencies-bubble-or-emergence-new-paradigm-decentralised-finance)]
 - Square CFO Amrita Ahuja Makes The Case For Bitcoin On 'Every Balance Sheet' [[Decrypt](https://decrypt.co/63192/square-cfo-amrita-ahuja-makes-the-case-for-bitcoin-on-every-balance-sheet)]
 - Former SEC Chairman Jay Clayton to Advise One River Asset Management on Crypto [[CoinDesk](https://www.coindesk.com/former-sec-chairman-jay-clayton-to-advise-one-river-asset-management-on-crypto)]
@@ -51,7 +51,7 @@ rispondendo anche alle domande del pubblico.
 
 ## CBDC
 
-- Bank of Japan forms committee to share details on CBDC proof-of-concept[[The block crypto](https://www.theblockcrypto.com/linked/99626/boj-cbdc-committee-proof-of-concept)]
+- Bank of Japan forms committee to share details on CBDC proof-of-concept [[The block crypto](https://www.theblockcrypto.com/linked/99626/boj-cbdc-committee-proof-of-concept)]
 - Establishment of Liaison and Coordination Committee on Central Bank Digital Currency [[Bank of Japan](https://www.boj.or.jp/en/announcements/release_2021/rel210326a.pdf)]
 - Britain will focus crypto rules on stablecoins, minister says [[Reuters](https://www.reuters.com/article/us-crypto-currency-regulations/uk-to-focus-crypto-rules-on-stablecoins-says-minister-idUSKBN2BM11G)]
 - Digital Euro Will Be Decided On Within Months: ECB’s Lagarde [[Decrypt](https://decrypt.co/63558/digital-euro-plans-launch-ecb-president-lagarde)]
@@ -59,7 +59,7 @@ rispondendo anche alle domande del pubblico.
 ## Exchanges
 
 - Assurance Opinion Confirms Tether's Reserves Fully Backed; Company Shares as Part of Ongoing Transparency Commitment [[Tether](https://tether.to/assurance-opinion-mar-21/)]
-- Tether releases an assurance report that shows its stablecoins were fully backed as of February[[The block crypto](https://www.theblockcrypto.com/post/99806/tether-assurance-report-stablecoins-usdt-fully-backed)]
+- Tether releases an assurance report that shows its stablecoins were fully backed as of February [[The block crypto](https://www.theblockcrypto.com/post/99806/tether-assurance-report-stablecoins-usdt-fully-backed)]
 - The rise and fall of a Bitcoin billionaire [[vanityfair](https://archive.vanityfair.com/article/2021/4/1/the-rise-and-fall-of-a-bitcoin-billionaire)]
 - Welcoming our New Compliance and Regulatory Advisors: Two Former FATF Executives [[Binance](https://www.binance.com/en/blog/421499824684901842/Welcoming-our-New-Compliance-and-Regulatory-Advisors-Two-Former-FATF-Executives)]
 
