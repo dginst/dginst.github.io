@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: L7xo8xIHKYo
-published: false
+published: true
 cryptoweek: true
 ---
 
