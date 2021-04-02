@@ -22,7 +22,6 @@ rispondendo anche alle domande del pubblico.
 <!--div id="buzzsprout-player-8173333"></div>
 <script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
 
-
 ### Payments
 
 - Bakkt Launches Its Bitcoin Payments App [[Cryptobriefing](https://cryptobriefing.com/bakkt-launches-its-bitcoin-payments-app/)]
@@ -47,7 +46,6 @@ rispondendo anche alle domande del pubblico.
 - Former SEC Chairman Jay Clayton to Advise One River Asset Management on Crypto [[CoinDesk](https://www.coindesk.com/former-sec-chairman-jay-clayton-to-advise-one-river-asset-management-on-crypto)]
 - Bitcoin at 'Inflection Point' as Fiat Debasement Rises: Soros Fund Management CIO [[Decrypt](https://decrypt.co/62981/bitcoin-inflection-point-soros-fund-management-cio)]
 - Grayscale's Sonnenshein Addresses GBTC's Collapsing Premium [[CoinDesk](https://www.coindesk.com/grayscale-sonnenshein-gbtc-collapsing-premium-coindesktv)]
-- Coinbase’s COIN Stock to Go Live on Nasdaq April 14 [[CoinDesk](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14)]
 
 ### CBDC
 
@@ -62,6 +60,7 @@ rispondendo anche alle domande del pubblico.
 - Tether releases an assurance report that shows its stablecoins were fully backed as of February [[The Block crypto](https://www.theblockcrypto.com/post/99806/tether-assurance-report-stablecoins-usdt-fully-backed)]
 - The rise and fall of a Bitcoin billionaire [[Vanityfair](https://archive.vanityfair.com/article/2021/4/1/the-rise-and-fall-of-a-bitcoin-billionaire)]
 - Welcoming our New Compliance and Regulatory Advisors: Two Former FATF Executives [[Binance](https://www.binance.com/en/blog/421499824684901842/Welcoming-our-New-Compliance-and-Regulatory-Advisors-Two-Former-FATF-Executives)]
+- Coinbase’s COIN Stock to Go Live on Nasdaq April 14 [[CoinDesk](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14)]
 
 ### Bitcoin Mining Energy Consumption
 
