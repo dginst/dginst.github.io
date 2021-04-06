@@ -32,7 +32,6 @@ L’evento è stato trasmesso in diretta su [www.ilsole24ore.com](www.ilsole24or
 ---
 
 ### Rivedi il webinar "*CRIPTO-ATTIVITÀ: tra recenti sviluppi e Digital Finance Package*":
-<br>
 <div class='embed-container'>
     <iframe width="560" height="315"
     src="https://www.youtube.com/embed/QLC_qGeZBR8"
