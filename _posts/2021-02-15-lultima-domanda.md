@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "L'Ultima Domanada"
+title: "L'Ultima Domanda"
 subtitle: "Intervista a Paolo Mazzocchi" 
 author: "Staff"
 image:
