@@ -3,7 +3,7 @@ layout: post
 comments: false
 title: "CRIPTO-ATTIVITÀ: tra recenti sviluppi e Digital Finance Package"
 subtitle: "Webinar del Parlamento Europeo" 
-author: "Ferdinando M. Ametrano"
+author: "Staff"
 image:
     main: 2021-03-31-parlamento-europeo.png
     thumb: 2021-03-31-parlamento-europeo-thumb.jpg
