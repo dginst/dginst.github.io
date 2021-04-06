@@ -61,6 +61,27 @@
   eventfeed: true
   published: true
 
+- title: "Presentazione del libro: DAL SESTERZIO AL BITCOIN"
+  subtitle: Vecchie e nuove dimensioni del denaro
+  lang: it
+  city: online
+  date: 2021-04-12
+  date2:
+  hours:
+  organizer: Lodi Liberale
+  address: webinar
+  info:
+    text: consulta la locandina
+    url: http://dgi.io/docs/20210412-lodi-liberale.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210412-lodi-liberale.jpg
+    size: 200
+    thumb: 20210412-lodi-liberale-thumb.jpg
+  eventfeed: false
+  published: true
+
 - title: "Cripto-attività"
   subtitle: Tra recenti sviluppi e digital finance package
   lang: it
