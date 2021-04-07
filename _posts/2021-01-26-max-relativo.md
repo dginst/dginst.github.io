@@ -5,7 +5,7 @@ title: "Max Relativo"
 subtitle: "Intervista Youtube a F. M. Ametrano" 
 author: "Staff"
 image:
-    thumb: 2021-01-27-max-relativo-thumb.jpg
+    thumb: 2021-01-26-max-relativo-thumb.jpg
 youtube: oZaUZ2iFK0Y
 published: true
 newsfeed: false
