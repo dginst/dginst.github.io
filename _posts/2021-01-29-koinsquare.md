@@ -6,7 +6,7 @@ subtitle: "Bitcoin Italia, Crypto & Blockchain"
 author: "Staff"
 image:
     main: 2021-01-29-koinsquare.jpg
-    thumb: 2021-01-29-koinsquare-thumb2.jpg
+    thumb: 2021-01-29-koinsquare-thumb.jpg
 published: true
 newsfeed: false
 ---
