@@ -31,7 +31,7 @@ rispondendo anche alle domande del pubblico.
 [Coinbase Announces First Quarter 2021 Estimated Results and Full Year 2021 Outlook | Business Wire](https://www.businesswire.com/news/home/20210406006015/en/Coinbase-Announces-First-Quarter-2021-Estimated-Results-and-Full-Year-2021-Outlook)
 [Coinbase reports an estimated $1.8 billion in total revenue for Q1 2021](https://www.theblockcrypto.com/post/100680/coinbase-q1-results-april-direct-listing)
 [Coinbase To Begin Trading April 14 With Direct Listing on Nasdaq - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/coinbase-is-said-to-plan-its-direct-listing-in-two-weeks)
-
+- Binance CEO Goes All-in on Tokens: ‘I Just Want to Keep Crypto’ [Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto)
 ### ETF
 
 - Grayscale Bitcoin Trust (GBTC) Assailed by Investor as Discount Grows [Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/grayscale-bitcoin-trust-assailed-by-investor-as-discount-grows)
