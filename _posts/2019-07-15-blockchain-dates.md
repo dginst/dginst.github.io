@@ -8,7 +8,7 @@ image:
     main: 2019-07-15-blockchain-dates.jpg
     thumb: 2019-07-15-blockchain-dates-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 ₿lockchain Dates è un workshop organizzato in collaborazione con [Craon](https://www.craon.it/), per indagare con chiarezza cosa sono Bitcoin e Blockchain e come stanno cambiando il mondo digitale.

@@ -8,7 +8,7 @@ image:
     thumb: 2021-01-26-max-relativo-thumb.jpg
 youtube: oZaUZ2iFK0Y
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 **Cos'è Bitcoin? Come funziona, a cosa serve?**

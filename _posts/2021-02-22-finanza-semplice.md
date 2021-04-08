@@ -8,7 +8,7 @@ image:
     main: 2021-02-22-finanza-semplice.jpg
     thumb: 2021-02-22-finanza-semplice-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 [Alfonso Selva](https://www.alfonsoselva.it/), di professione consulente finanziario, è attivo nel trasmettere un'educazione finanziaria online, tramite i suoi canali social ed il suo blog.

@@ -8,7 +8,7 @@ image:
     main: 2019-05-10-cryptoassetlab.jpg
     thumb: 2019-05-10-cryptoassetlab-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 We are happy to announce [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it/), a research initiative on crypto-assets (Bitcoin *in primis*) as investment opportunity, fintech innovation, and regulatory challenge.

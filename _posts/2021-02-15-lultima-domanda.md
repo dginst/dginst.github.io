@@ -8,7 +8,7 @@ image:
     main: 2021-02-15-lultima-domanda.jpg
     thumb: 2021-02-15-lultima-domanda-thumb.png
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 [L’Ultima Domanda](https://www.ultimadomanda.com/) è un podcast in cui si esplorano temi che spaziano dallo scientifico-tecnologico al socio-culturale. Ogni puntata consiste in una lunga conversazione ininterrotta tra l'intervistatore ed un ospite esperto nel suo campo.

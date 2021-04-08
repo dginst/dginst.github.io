@@ -8,7 +8,7 @@ image:
     main: 2020-04-17-2020Q1-report.jpg
     thumb: 2020-04-17-2020Q1-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Il Digital Gold Institute pubblica un **rapporto trimestrale

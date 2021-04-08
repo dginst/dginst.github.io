@@ -8,7 +8,7 @@ image:
     main: 2021-03-31-parlamento-europeo.png
     thumb: 2021-03-31-parlamento-europeo-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 La proposta di regolamentazione dei mercati in crypto-asset (MiCA):

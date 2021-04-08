@@ -8,7 +8,7 @@ image:
     thumb: 2019-06-17-intervista-bitcoin-01-thumb.jpg
 youtube: ygXXBpk_ABU
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Presentiamo la prima puntata di una lunga intervista al nostro direttore

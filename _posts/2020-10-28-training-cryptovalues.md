@@ -8,7 +8,7 @@ image:
     main: 2020-11-04-cryptovalues.jpg
     thumb: 2020-11-04-cryptovalues-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Abbiamo il piacere di invitarvi al webinar ["**Presente e Futuro**"](https://cryptovalues.eu/events/4-5-novembre-2020-cryptovalues-corso-introduttivo) organizzato dal nostro partner [CryptoValues](https://cryptovalues.eu//) che si terrà il 4 e 5 novembre 2020,

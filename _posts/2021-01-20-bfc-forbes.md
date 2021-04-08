@@ -8,7 +8,7 @@ image:
     main: 2021-01-20-bfc-forbes.jpg
     thumb: 2021-01-20-bfc-forbes-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 _BLOCKCHAIN&CO_ è il nuovo programma di approfondimento di BFC sulla tecnologia blockchain. Va in onda onda in prima visione ogni lunedì alle 21, visibile al numero 511 del telecomando Sky, sul canale 61 di Tivùsat e online su [Bfcvideo.com](https://2021-01-20-bfc-forbes.com/category/forbes/blockchain-and-co/).

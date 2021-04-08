@@ -8,7 +8,7 @@ image:
     main: 2021-03-08-zerovirgola.jpg
     thumb: 2021-03-08-zerovirgola-thumb.png
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Bitcoin sta diventando un asset alla portata di tutti, ma comprenderne la natura è fondamentale per essere consapevoli dei rischi che un investitore corre approcciandosi ad un asset estremamente redditizio, ma anche con un alto grado di rischio.

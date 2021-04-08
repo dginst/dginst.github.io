@@ -8,7 +8,7 @@ image:
     main: 2019-06-12-btclib-tentative-logo.jpg
     thumb: 2019-06-12-btclib-tentative-logo-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 [btclib](https://github.com/dginst/btclib)

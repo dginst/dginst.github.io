@@ -8,7 +8,7 @@ image:
     main: 2020-02-12-chiara-lelli-thesis.jpg
     thumb: 2020-02-12-chiara-lelli-thesis-thumble.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Martedì 25 febbraio a Roma, presso *Montecitorio*,

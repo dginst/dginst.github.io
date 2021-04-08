@@ -8,7 +8,7 @@ image:
     main: 2020-06-25-bitcoin-e-custodia.jpg
     thumb: 2020-06-25-bitcoin-e-custodia-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Abbiamo il piacere di invitarvi al webinar "**Bitcoin e i modelli di custodia dei cryptoasset: tra rischio di frode, AML e perdita di asset**" organizzato dai nostri partner [A&C Law](https://aclaw.eu/it/home/), [CryptoValues](https://cryptovalues.eu//) e [CheckSig](https:/checksig.io/) che si terrà giovedì 25 giugno 2020,

@@ -8,7 +8,7 @@ image:
     main: 2020-01-14-fintech-district.jpg
     thumb: 2020-01-14-fintech-district-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 **Digital Gold Institute** entra a far parte della community

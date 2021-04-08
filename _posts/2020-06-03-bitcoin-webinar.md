@@ -8,7 +8,7 @@ image:
     main: 2020-06-04-bitcoin-e-normativa-tedesca.jpg
     thumb: 2020-06-04-bitcoin-e-normativa-tedesca-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Abbiamo il piacere di invitarvi al webinar **"Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"** organizzato dai nostri partner [A&C Law](https://aclaw.eu/it/home/), [CryptoValues](https://cryptovalues.eu//) e [CheckSig](https:/checksig.io/) che si terrà domani, giovedì 4 giugno 2020,

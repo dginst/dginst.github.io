@@ -8,7 +8,7 @@ image:
     main: 2021-01-29-koinsquare.jpg
     thumb: 2021-01-29-koinsquare-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 [**Koinsquare**](https://koinsquare.com/) è la community di riferimento in Italia per Bitcoin, Criptovalute e Blockchain.
