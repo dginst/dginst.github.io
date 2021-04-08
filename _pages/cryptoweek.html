@@ -47,36 +47,20 @@ permalink: /cryptoweek
     <div class="container">
         <div class="row">
             <div class="posts col-lg-8 col-lg-offset-2">
+                <br>
+                <p class="text-muted">Link alle news:</p>
                 {% for post in site.posts %}
                 {% if post.cryptoweek %}
-                <article class="post">
-                    <h2>
-                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                    </h2>
-
-                    <p class="text-muted">
-                        {{ post.date | date: "%b %e, %Y" }}
-                        {% if post.author %}
-                        |<i> {{ post.author }}</i>
-                        {% endif %}
-                    </p>
-
-                    {% if post.image.thumb %}
-                    <p>
-                        <a href="{{ site.baseurl }}{{ post.url }}"><img
-                                src="{{ site.baseurl }}/img/posts/{{ post.image.thumb }}" class="alignleft" width="150"
-                                height="150"></a>
-                    </p>
-                    {% endif %}
-
-                    {% if post.subtitle %}
-                    <p><i>{{ post.subtitle }}</i></p>
-                    {% endif %}
-
-                    <p>{{ post.excerpt }}</p>
-
-                    <p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
-                </article>
+                <ul>
+                    <li>
+                        <p class="text-muted">
+                            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%b
+                            %e,
+                            %Y"
+                            }})
+                        </p>
+                    </li>
+                </ul>
                 {% endif %}
                 {% endfor %}
             </div>
