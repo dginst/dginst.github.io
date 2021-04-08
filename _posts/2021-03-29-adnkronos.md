@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Adnkronos"
-subtitle: "Intervista a F. Ametrano" 
+subtitle: Gli spunti di maggiore attualità nell'intervista su Bitcoin di Massimo Germinario a Ferdinando Ametrano per Adnkronos.
 author: "Staff"
 image:
     main: 2021-03-29-adnkronos.jpg

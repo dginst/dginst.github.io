@@ -1,4 +1,4 @@
-<section class="" id="eventsfeed" style="background-color:#f5f5f5;">
+<section class="" id="eventsfeed">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -8,14 +8,14 @@
         </div>
     </div>
     <div class="container">
-        <div class="row">
+        <div class="row col-lg-8 col-lg-offset-2">
             {% assign events = site.data.events | sort: 'date' %}
             {% assign today_date = 'today' | date: '%y %m %d' %}
             {% for event in events %}
             {% if event.eventfeed and event.published %}
             {% assign event_date = event.date | date: '%y %m %d' %}
             {% if event_date >= today_date %}
-            <div class="col-lg-4 col-md-4">
+            <div class="col-lg-12 col-md-12">
                 <article class="post">
                     {% if event.image.thumb %}
                     <p>
@@ -31,10 +31,13 @@
                     </h4>
 
                     <p class="text-muted">
-                        <em>{{ event.organizer }}</em><br>
+                        <em>{{ event.organizer }}</em> |
                         {{ event.city }},
                         {% include format_dates.html date=event.date date2=event.date2 lang=event.lang %}
                     </p>
+                    {% if event.subtitle %}
+                    <p class="text-muted">{{ event.subtitle }}</p>
+                    {% endif %}
                 </article><br>
             </div>
             {% endif %}
