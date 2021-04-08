@@ -16,7 +16,7 @@ Ogni venerdì alle 18:00 in live-streaming
 [Facebook](https://www.facebook.com/DigitalGoldInstitute))
 il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
 commenta quanto di rilevante è accaduto nel corso della settimana
-in ambito bitcoin, crypto-assets e blockchain,
+in ambito bitcoin, crypto-asset e blockchain,
 rispondendo anche alle domande del pubblico.
 
 <div id="buzzsprout-player-7831831"></div><script src="https://www.buzzsprout.com/1686991/7831831-cryptoweek-1-12-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small" type="text/javascript" charset="utf-8"></script>

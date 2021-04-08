@@ -16,7 +16,7 @@ Ogni venerdì alle 18:00 in live-streaming
 [Facebook](https://www.facebook.com/DigitalGoldInstitute))
 il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
 commenta quanto di rilevante è accaduto nel corso della settimana
-in ambito bitcoin, crypto-assets e blockchain,
+in ambito bitcoin, crypto-asset e blockchain,
 rispondendo anche alle domande del pubblico.
 
 Questa puntata, in particolare, si segnala per ridicoli incidenti tecnici:
