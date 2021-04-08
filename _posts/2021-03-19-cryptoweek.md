@@ -32,7 +32,7 @@ rispondendo anche alle domande del pubblico.
 
 ### Regulation
 
-- ESMA sees high risk for investors in non-regulated crypto assets [[ESMA](https://www.esma.europa.eu/press-news/esma-news/esma-sees-high-risk-investors-in-non-regulated-crypto-assets)]
+- ESMA sees high risk for investors in non-regulated crypto-assets [[ESMA](https://www.esma.europa.eu/press-news/esma-news/esma-sees-high-risk-investors-in-non-regulated-crypto-assets)]
 - France's government is set to auction off $34 million in bitcoin this week [[The Block Crypto](https://www.theblockcrypto.com/linked/98356/france-bitcoin-auction-wednesday)]
 
 ### ETF

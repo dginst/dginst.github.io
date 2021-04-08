@@ -35,7 +35,7 @@ CS/STEM master's degree and English+Italian fluency are a must.
 CheckSig offers a competitive compensation package in line with your skills and experience.
 
 If you are interested in joining a talented team and taking on an exciting
-challenge in the area of crypto asset management, then checkout the
+challenge in the area of crypto-asset management, then checkout the
 [**job ad**](https://www.linkedin.com/jobs/view/2395945204/)
 for more info or send an email to
 [**jobs@checksig.io**](mailto:jobs@checksig.io)

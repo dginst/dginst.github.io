@@ -11,7 +11,7 @@ published: true
 newsfeed: false
 ---
 
-We are happy to announce [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it/), a research initiative on crypto assets (Bitcoin *in primis*) as investment opportunity, fintech innovation, and regulatory challenge.
+We are happy to announce [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it/), a research initiative on crypto-assets (Bitcoin *in primis*) as investment opportunity, fintech innovation, and regulatory challenge.
 
 Milano-Bicocca has been offering a
 “[Bitcoin and Blockchain Technology](https://www.ametrano.net/bbt/)” course,
