@@ -48,6 +48,7 @@ rispondendo anche alle domande del pubblico.
 - Coinbase Announces First Quarter 2021 Estimated Results and Full Year 2021 Outlook [[Business Wire](https://www.businesswire.com/news/home/20210406006015/en/Coinbase-Announces-First-Quarter-2021-Estimated-Results-and-Full-Year-2021-Outlook)]
 - Coinbase reports an estimated $1.8 billion in total revenue for Q1 2021 [[theblockcrypto](https://www.theblockcrypto.com/post/100680/coinbase-q1-results-april-direct-listing)]
 - Coinbase To Begin Trading April 14 With Direct Listing on Nasdaq [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/coinbase-is-said-to-plan-its-direct-listing-in-two-weeks)]
+- Why Coinbase’s stellar earnings are not what they seem [[Financial Times](https://on.ft.com/3fPyR1d)]
 - Binance CEO Goes All-in on Tokens: ‘I Just Want to Keep Crypto’ [[Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto)]
 
 ### ETF and Futures
@@ -72,6 +73,7 @@ rispondendo anche alle domande del pubblico.
 ### Bockchain
 
 - Stock clearing stalwarts face increasing threat from blockchain [[Financial Times](https://on.ft.com/2PNyXvR)]
+- State Street to provide tech for cryptocurrency trading platform [[Financial Times](https://on.ft.com/2Q1d8IV)]
 
 ### Tech
 
@@ -102,6 +104,7 @@ rispondendo anche alle domande del pubblico.
 - Ether Reaches Record After Visa Move [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-02/ether-rises-to-record-as-crypto-rally-broadens-beyond-bitcoin)]
 - ETH breaks all-time high amid fresh price surge [[cointelegraph](https://cointelegraph.com/news/eth-breaks-all-time-high-amid-fresh-price-surge)]
 - Fei Labs raises over $1.2 billion for its stablecoin project [[theblockcrypto](https://www.theblockcrypto.com/linked/100463/fei-labs-raises-over-1-2-billion-for-its-stablecoin-project)]
+- $1B Fei Stablecoin’s Rocky Start Is a Wake-Up Call for DeFi Investors [[CoinDesk](https://www.coindesk.com/1b-fei-stablecoins-rocky-start-is-a-wake-up-call-for-defi-investors)]
 - Tether Is Fully Backed, Assurance Opinion Shows [[The BTC Times](https://www.btctimes.com/news/tether-is-fully-backed-assurance-opinion-shows)]
 - Tether to launch USDT stablecoin on Polkadot and Kusama [[theblockcrypto](https://www.theblockcrypto.com/post/100614/tether-usdt-stablecoin-polkadot-kusama)]
 - Coinbase Ventures backing DeFi in the Polkadot ecosystem [[cointelegraph](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem)]
@@ -110,3 +113,4 @@ rispondendo anche alle domande del pubblico.
 
 - Test payments in Signal [[Signal](https://signal.org/blog/help-us-test-payments-in-signal/)]
 - Privacy Chat App Signal Rolls Out Cryptocurrency Payments [[Decrypt](https://decrypt.co/64135/signal-mobilecoin-cryptocurrency-payments)]
+- Peter Todd on MobileCoin centralization [[Twitter](https://twitter.com/peterktodd/status/1380029316969476098?s=20)]
