@@ -105,7 +105,7 @@ rispondendo anche alle domande del pubblico.
 - BOJ sees scope to set common rules on CBDCs with major central banks [[Reuters](https://www.reuters.com/article/cenbanks-digital-japan/boj-sees-scope-to-set-common-rules-on-cbdcs-with-major-central-banks-idUSL4N2M1265){:target="_blank"}]
 - ESMA sees high risk for investors in non-regulated crypto assets [[ESMA](https://www.esma.europa.eu/press-news/esma-news/esma-sees-high-risk-investors-in-non-regulated-crypto-assets){:target="_blank"}]
 - Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce [[Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce){:target="_blank"}]
-- HSBC consider Microstrategy as a virtual currency product [[Twitter](https://twitter.com/camadamus/status/1380030785911025671?s=21){:target="_blank"}]
+- HSBC considers Microstrategy as a virtual currency product [[Twitter](https://twitter.com/camadamus/status/1380030785911025671?s=21){:target="_blank"}]
 
 ### Altcoins
 
