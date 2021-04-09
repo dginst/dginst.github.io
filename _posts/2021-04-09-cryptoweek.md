@@ -27,7 +27,6 @@ rispondendo anche alle domande del pubblico.
 
 - The Blocksize War – Chapter 3 – Scaling I – Montreal [[BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-3-scaling-i-montreal/)]
 - Peter Thiel: Bitcoin Could Be 'Chinese Financial Weapon' [[Decrypt](https://decrypt.co/65845/peter-thiel-bitcoin-could-be-chinese-financial-weapon)]
-- Peter Thiel Calls Bitcoin ‘a Chinese Financial Weapon’ at Virtual Roundtable [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable)]
 - Michael Saylor Keynote on Bitcoin & The US Dollar - MIT Bitcoin Expo 2021 [[YouTube](https://www.youtube.com/watch?v=-s-A_TK8gNk)]
 
 ### Investments
