@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: 2h49jP_ix8s
-published: false
+published: true
 cryptoweek: true
 ---
 
@@ -23,21 +23,21 @@ rispondendo anche alle domande del pubblico.
 <!--div id="buzzsprout-player-8173333"></div>
 <script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
 
-[Bitcoin: Coinbase rival Kraken may go public via direct listing](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)
-[Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce - Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce)
-[Riot to Acquire Whinstone, Creating a US-Based Industry Leader in Bitcoin Mining Nasdaq:RIOT](http://www.globenewswire.com/news-release/2021/04/08/2206616/0/en/Riot-to-Acquire-Whinstone-Creating-a-US-Based-Industry-Leader-in-Bitcoin-Mining.html)
-[BOJ sees scope to set common rules on CBDCs with major central banks | Reuters](https://www.reuters.com/article/cenbanks-digital-japan/boj-sees-scope-to-set-common-rules-on-cbdcs-with-major-central-banks-idUSL4N2M1265)
-[Ora Yahoo fa parte del gruppo Verizon Media](https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4aceeb2c-b86c-4f3c-9c7b-41aa4eea2558)
-[Binance CEO Changpeng Zhao Says 'I Just Want to Keep Crypto' - Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto)
-[State Street May Start Trading Crypto on Platform It's Helping Build - CoinDesk](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021?utm_medium=email&_hsmi=120412325&_hsenc=p2ANqtz-8c_m1xS4zxUDevS_xcHg5V3i3s6aygW8EtX5zU7aJv9N4eO7MktCjCSGbod5isILWjO-PjEOWam9w4YLrA3od5vKKW-Qh4Dsam77RgcJfLHFfzMnk&utm_content=120412325&utm_source=hs_email)
-[Peter Thiel: Bitcoin Could Be 'Chinese Financial Weapon' - Decrypt](https://decrypt.co/65845/peter-thiel-bitcoin-could-be-chinese-financial-weapon?utm_medium=email&_hsmi=120412325&_hsenc=p2ANqtz-9dOsVCNRejPNWKlgWYsQLEe4V7DjRZxLSPbyu7tHQ5r94oIaw7xqYzPbKNrXPS_6yk101uDTPhCmrqSojVYwrfcDafd0ZnDw049ZMKR2tBpKd-DyM&utm_content=120412325&utm_source=hs_email)
-[Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce - Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce?utm_medium=email&_hsmi=120412325&_hsenc=p2ANqtz-9ULcZSxYZqirL9o6JTX6xIv14RrcCeL4ITahIzf5BKoKe7Ji9NvEG8UUSiNR2QxQfjAQ7UQZKY-E6zqYEdO2KcM2DMnd0MheX0GIxLT-m_tHVH1yU&utm_content=120412325&utm_source=hs_email)
-[State Street to provide tech for cryptocurrency trading platform | Financial Times](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe)
-[Peter Thiel Calls Bitcoin ‘a Chinese Financial Weapon’ at Virtual Roundtable - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable)
-[Coinbase Earned More in First Quarter Than in All of 2020 - WSJ](https://www.wsj.com/articles/coinbase-earned-more-in-first-quarter-than-in-all-of-2020-11617745114)
-[Bloomberg Foresees Bitcoin Rallying to $400K This Year - CoinDesk](https://www.coindesk.com/bloomberg-bitcoin-400k-prediction?utm_medium=email&_hsmi=120183355&_hsenc=p2ANqtz-_JaofM8Dxk8IHlNvtlj0J9B8I-2AVoHdL5x0gKbejUvzA1F-YJB5ACtfdTptTU7q38GrVwFvebyN8nbSGzTcXYUObB8cMS_bKaN2aNO_S5NYqeDrE&utm_content=120183355&utm_source=hs_email)
-[Swedish Central Bank Reveals First Study of Digital Currency - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/sweden-s-central-bank-reveals-first-study-of-digital-currency?srnd=cryptocurrencies&utm_medium=email&_hsmi=120183355&_hsenc=p2ANqtz-_ZMwZqj1lj0ddvFcHw7T9yLbtGmCI8hgc6Wvf65rZuEIPZfBLY6xVimaceJOUD_GmZ-CpREe4fvlRgcTt629Tx-P-9mDv66PgiUifc8vsZbhhUJ5U&utm_content=120183355&utm_source=hs_email)
-[Bitcoin mining firm Hut 8 files to raise nearly $400 million in Canada](https://www.theblockcrypto.com/linked/101017/hut-8-bitcoin-mining-funding-filing?utm_medium=email&_hsmi=120183355&_hsenc=p2ANqtz--XhSh85sDbcDUpbqawJeTbqStqyZKV_ZF2SjtqU2tF6aO0XGKMN4gGEKyAfS8oMnmLgeIjMHKuXFPBnGLtBayXYhWo71fmaA-MeNsU2T1n1VrtVKU&utm_content=120183355&utm_source=hs_email)
+- Bitcoin: Coinbase rival Kraken may go public via direct listing [[Cnbc](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)]
+- Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce [[Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce)]
+- Riot to Acquire Whinstone, Creating a US-Based Industry Leader in Bitcoin Mining Nasdaq:RIOT [[globenewswire](http://www.globenewswire.com/news-release/2021/04/08/2206616/0/en/Riot-to-Acquire-Whinstone-Creating-a-US-Based-Industry-Leader-in-Bitcoin-Mining.html)]
+- BOJ sees scope to set common rules on CBDCs with major central banks [[Reuters](https://www.reuters.com/article/cenbanks-digital-japan/boj-sees-scope-to-set-common-rules-on-cbdcs-with-major-central-banks-idUSL4N2M1265)]
+- Ora Yahoo fa parte del gruppo Verizon Media [[Yahoo](https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4aceeb2c-b86c-4f3c-9c7b-41aa4eea2558)]
+- Binance CEO Changpeng Zhao Says 'I Just Want to Keep Crypto' [[Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto)]
+- State Street May Start Trading Crypto on Platform It's Helping Build [[CoinDesk](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021)]
+- Peter Thiel: Bitcoin Could Be 'Chinese Financial Weapon' [[Decrypt](https://decrypt.co/65845/peter-thiel-bitcoin-could-be-chinese-financial-weapon)]
+- Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce [[Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce)]
+- State Street to provide tech for cryptocurrency trading platform [[Financial Times](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe)]
+- Peter Thiel Calls Bitcoin ‘a Chinese Financial Weapon’ at Virtual Roundtable [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable)]
+- Coinbase Earned More in First Quarter Than in All of 2020 [[WSJ](https://www.wsj.com/articles/coinbase-earned-more-in-first-quarter-than-in-all-of-2020-11617745114)]
+- Bloomberg Foresees Bitcoin Rallying to $400K This Year [[CoinDesk](https://www.coindesk.com/bloomberg-bitcoin-400k-prediction)]
+- Swedish Central Bank Reveals First Study of Digital Currency [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/sweden-s-central-bank-reveals-first-study-of-digital-currency?srnd=cryptocurrencies)]
+- Bitcoin mining firm Hut 8 files to raise nearly $400 million in Canada [[theblockcrypto](https://www.theblockcrypto.com/linked/101017/hut-8-bitcoin-mining-funding-filing)]
 
 - Michael Saylor Keynote on Bitcoin & The US Dollar - MIT Bitcoin Expo 2021 [[YouTube](https://www.youtube.com/watch?v=-s-A_TK8gNk)]
 - Crypto Firms Got More Funding Last Quarter Than In All of 2020 [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/crypto-firms-got-more-funding-last-quarter-than-in-all-of-2020)]
