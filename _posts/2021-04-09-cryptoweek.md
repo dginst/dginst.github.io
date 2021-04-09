@@ -97,11 +97,10 @@ rispondendo anche alle domande del pubblico.
 
 ### CBDC and Regulators
 
-- Swedish Central Bank Reveals First Study of Digital Currency [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/sweden-s-central-bank-reveals-first-study-of-digital-currency?srnd=cryptocurrencies){:target="_blank"}]
+- Swedish Central Bank Reveals First Study of Digital Currency [[Yahoo Finance](https://finance.yahoo.com/news/sweden-central-bank-reveals-first-040000189.html){:target="_blank"}]
 - Japan's central bank kicks off experiments on issuing digital currency [[Reuters](https://www.reuters.com/article/us-japan-economy-cbdc-idUSKBN2BS0EG){:target="_blank"}]
 - BOJ Starts Central Bank Digital Currency Experiments [[CoinDesk](https://www.coindesk.com/boj-starts-central-bank-digital-currency-experiments){:target="_blank"}]
 - BOJ sees scope to set common rules on CBDCs with major central banks [[Reuters](https://www.reuters.com/article/cenbanks-digital-japan/boj-sees-scope-to-set-common-rules-on-cbdcs-with-major-central-banks-idUSL4N2M1265){:target="_blank"}]
-- ESMA sees high risk for investors in non-regulated crypto assets [[ESMA](https://www.esma.europa.eu/press-news/esma-news/esma-sees-high-risk-investors-in-non-regulated-crypto-assets){:target="_blank"}]
 - Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce [[Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce){:target="_blank"}]
 - HSBC considers Microstrategy as a virtual currency product [[Twitter](https://twitter.com/camadamus/status/1380030785911025671?s=21){:target="_blank"}]
 
