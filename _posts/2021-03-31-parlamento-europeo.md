@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "CRIPTO-ATTIVITÀ: tra recenti sviluppi e Digital Finance Package"
-subtitle: "Intervento di Ferdinando Ametrano al Webinar del Parlamento Europeo sulla proposta di regolamentazione dei mercati in crypto-asset (MiCA)" 
+subtitle: "Intervento di Ferdinando M. Ametrano al Webinar del Parlamento Europeo sulla proposta di regolamentazione dei mercati in crypto-asset (MiCA)" 
 author: "Staff"
 image:
     main: 2021-03-31-parlamento-europeo.png
@@ -31,7 +31,7 @@ Moderato da **Pierangelo Soldavini**, *Il Sole 24 Ore*, il webinar è stato cos�
 - Saluti introduttivi  
   **Fabrizio Spada**, *Ufficio del Parlamento europeo in Italia*
 - Le cripto-attività: bitcoin, blockchain e smart contracts  
-  **Ferdinando Ametrano**, direttore scientifico del *Digital Gold Institute*
+  **Ferdinando M. Ametrano**, direttore scientifico del *Digital Gold Institute*
 - Digital Finance Package, posizione del Parlamento Europeo e degli enti regolatori  
   **Ugo Bassi**, *Commissione europea*  
   **Sabrina Pignedoli**, Parlamentare europeo  

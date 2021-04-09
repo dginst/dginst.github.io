@@ -27,7 +27,7 @@ L'articolo pone l'accendo sul dibattito tra gli esperti, che sono divisi nel con
 
 #### **Perché il bitcoin ha quotazioni record e crescerà ancora**
 
-**Ferdinando Ametrano** su **Agenda Digitale**, 3 dicembre.
+**Ferdinando M. Ametrano** su **Agenda Digitale**, 3 dicembre.
 
 <https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/perche-bitcoin-ha-quotazioni-record-e-crescera-ancora/>
 

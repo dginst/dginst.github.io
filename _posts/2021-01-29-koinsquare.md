@@ -19,7 +19,7 @@ Nel 48mo episodio della serie [Bitcoin Italia, Crypto & Blockchain](https://www.
 
 ---
 
-### Ascolta il podcast "Bitcoin: il nuovo oro digitale FT. Ferdinando Ametrano"
+### Ascolta il podcast "Bitcoin: il nuovo oro digitale FT. Ferdinando M. Ametrano"
 
 <iframe 
     src="https://www.listennotes.com/embedded/e/24917f2f65244739aa7950c53d21a0a6/" 

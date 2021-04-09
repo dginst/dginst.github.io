@@ -14,6 +14,7 @@ permalink: /cryptoweekinternal/
 * Linkedin: promuovere il live Fb
 * website: aggiornare il post con tutte le news che verranno illustrate
 * website: pubblicare il post subito prima di andare live (published: true; cryptoweek: true)
+* desktop: controllare il laptop sia wired and charged
 
 ## Durante il CryptoWeek
 
