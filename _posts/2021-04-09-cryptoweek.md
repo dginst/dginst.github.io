@@ -55,7 +55,6 @@ rispondendo anche alle domande del pubblico.
 
 - Grayscale says it's committed to launching bitcoin ETF [[YouTube](https://www.youtube.com/watch?v=HuyF_-L2Wpw){:target="_blank"}]
 - Grayscale’s Intentions for a Bitcoin ETF [[Medium](https://grayscaleinvest.medium.com/grayscales-intentions-for-a-bitcoin-etf-b11e4faf4c05){:target="_blank"}]
-- CME Group to Launch Micro Bitcoin Futures on May 3 [[cmegroup](https://www.cmegroup.com/media-room/press-releases/2021/3/30/cme_group_to_launchmicrobitcoinfuturesonmay3.html){:target="_blank"}]
 - Grayscale Says It's '100% Committed to Converting GBTC Into an ETF' [[CoinDesk](https://www.coindesk.com/grayscale-says-its-100-committed-to-converting-gbtc-into-an-etf){:target="_blank"}]
 - Asset management giant Fidelity files for a bitcoin ETF [[theblockcrypto](https://www.theblockcrypto.com/linked/99279/fidelity-bitcoin-etf-filing){:target="_blank"}]
 - CI Global Asset Management Launches North America’s First Bitcoin Mutual Fund [[Business Wire](https://www.businesswire.com/news/home/20210405005330/en/){:target="_blank"}]
