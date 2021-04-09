@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "CRIPTO-ATTIVITÀ: tra recenti sviluppi e Digital Finance Package"
-subtitle: "Webinar del Parlamento Europeo" 
+subtitle: "Intervento di Ferdinando Ametrano al Webinar del Parlamento Europeo sulla proposta di regolamentazione dei mercati in crypto-asset (MiCA)" 
 author: "Staff"
 image:
     main: 2021-03-31-parlamento-europeo.png
