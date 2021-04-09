@@ -23,31 +23,16 @@ rispondendo anche alle domande del pubblico.
 <!--div id="buzzsprout-player-8173333"></div>
 <script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
 
-- Bitcoin: Coinbase rival Kraken may go public via direct listing [[Cnbc](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)]
-- Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce [[Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce)]
-- Riot to Acquire Whinstone, Creating a US-Based Industry Leader in Bitcoin Mining Nasdaq:RIOT [[globenewswire](http://www.globenewswire.com/news-release/2021/04/08/2206616/0/en/Riot-to-Acquire-Whinstone-Creating-a-US-Based-Industry-Leader-in-Bitcoin-Mining.html)]
-- BOJ sees scope to set common rules on CBDCs with major central banks [[Reuters](https://www.reuters.com/article/cenbanks-digital-japan/boj-sees-scope-to-set-common-rules-on-cbdcs-with-major-central-banks-idUSL4N2M1265)]
-- Ora Yahoo fa parte del gruppo Verizon Media [[Yahoo](https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4aceeb2c-b86c-4f3c-9c7b-41aa4eea2558)]
-- Binance CEO Changpeng Zhao Says 'I Just Want to Keep Crypto' [[Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto)]
-- State Street May Start Trading Crypto on Platform It's Helping Build [[CoinDesk](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021)]
-- Peter Thiel: Bitcoin Could Be 'Chinese Financial Weapon' [[Decrypt](https://decrypt.co/65845/peter-thiel-bitcoin-could-be-chinese-financial-weapon)]
-- Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce [[Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce)]
-- State Street to provide tech for cryptocurrency trading platform [[Financial Times](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe)]
-- Peter Thiel Calls Bitcoin ‘a Chinese Financial Weapon’ at Virtual Roundtable [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable)]
-- Coinbase Earned More in First Quarter Than in All of 2020 [[WSJ](https://www.wsj.com/articles/coinbase-earned-more-in-first-quarter-than-in-all-of-2020-11617745114)]
-- Bloomberg Foresees Bitcoin Rallying to $400K This Year [[CoinDesk](https://www.coindesk.com/bloomberg-bitcoin-400k-prediction)]
-- Swedish Central Bank Reveals First Study of Digital Currency [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/sweden-s-central-bank-reveals-first-study-of-digital-currency?srnd=cryptocurrencies)]
-- Bitcoin mining firm Hut 8 files to raise nearly $400 million in Canada [[theblockcrypto](https://www.theblockcrypto.com/linked/101017/hut-8-bitcoin-mining-funding-filing)]
-
-
-
 ### Opinions
 
 - The Blocksize War – Chapter 3 – Scaling I – Montreal [[BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-3-scaling-i-montreal/)]
+- Peter Thiel: Bitcoin Could Be 'Chinese Financial Weapon' [[Decrypt](https://decrypt.co/65845/peter-thiel-bitcoin-could-be-chinese-financial-weapon)]
+- Peter Thiel Calls Bitcoin ‘a Chinese Financial Weapon’ at Virtual Roundtable [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable)]
 - Michael Saylor Keynote on Bitcoin & The US Dollar - MIT Bitcoin Expo 2021 [[YouTube](https://www.youtube.com/watch?v=-s-A_TK8gNk)]
 
 ### Investments
 
+- Bloomberg Foresees Bitcoin Rallying to $400K This Year [[CoinDesk](https://www.coindesk.com/bloomberg-bitcoin-400k-prediction)]
 - Bitcoin Cryptocurrency Price Rise Leads $2 Billion Crypto Market Cap [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-05/crypto-market-cap-doubles-past-2-trillion-after-two-month-surge)]
 - Rising Bitcoin Adoption Tide [[Bloomberg Crypto Outlook](https://assets.bbhub.io/promo/sites/12/1060725_Crypto-Apr2021Outlook.pdf)]
 - Bitcoin Is Going Mainstream. What Investors Need to Know [[Barron's](https://www.barrons.com/articles/bitcoin-is-going-mainstream-what-investors-need-to-know-51617393392)]
@@ -61,9 +46,12 @@ rispondendo anche alle domande del pubblico.
 
 - Coinbase Announces First Quarter 2021 Estimated Results and Full Year 2021 Outlook [[Business Wire](https://www.businesswire.com/news/home/20210406006015/en/Coinbase-Announces-First-Quarter-2021-Estimated-Results-and-Full-Year-2021-Outlook)]
 - Coinbase reports an estimated $1.8 billion in total revenue for Q1 2021 [[theblockcrypto](https://www.theblockcrypto.com/post/100680/coinbase-q1-results-april-direct-listing)]
+- Coinbase Earned More in First Quarter Than in All of 2020 [[WSJ](https://www.wsj.com/articles/coinbase-earned-more-in-first-quarter-than-in-all-of-2020-11617745114)]
 - Coinbase To Begin Trading April 14 With Direct Listing on Nasdaq [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/coinbase-is-said-to-plan-its-direct-listing-in-two-weeks)]
 - Why Coinbase’s stellar earnings are not what they seem [[Financial Times](https://on.ft.com/3fPyR1d)]
+- Coinbase rival Kraken may go public via direct listing [[Cnbc](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)]
 - Binance CEO Goes All-in on Tokens: ‘I Just Want to Keep Crypto’ [[Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto)]
+- Binance CEO Changpeng Zhao Says 'I Just Want to Keep Crypto' [[Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto)]
 - Former BitMEX CEO Arthur Hayes Surrenders to Face Charges [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/former-bitmex-ceo-arthur-hayes-surrenders-to-face-u-s-charges)]
 - ALL ABOARD! by Arthur Hayes [[Medium](https://cryptohayes.medium.com/all-aboard-4d50435190d6)]
 - Revenge Of The Winklevii [[forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/04/05/revenge-of-the-winklevii-facebook-winklevoss-bitcoin-nft-billionaire-revenge)]
@@ -81,13 +69,20 @@ rispondendo anche alle domande del pubblico.
 - CoinShares Partners With Canada’s 3iQ to Launch New Bitcoin ETF on TSX [[CoinDesk](https://www.coindesk.com/coinshares-partners-with-canadas-3iq-to-launch-new-bitcoin-etf-on-tsx)]
 - Morgan Stanley Approves Bitcoin Exposure for Handful of Mutual Funds [[CoinDesk](https://www.coindesk.com/morgan-stanley-approves-bitcoin-exposure-for-handful-of-mutual-funds)]
 - Record volumes for Bitcoin futures and options in March [[](https://www.theblockcrypto.com/linked/100600/record-volumes-bitcoin-futures-options-march-2021)]
+- State Street May Start Trading Crypto on Platform It's Helping Build [[CoinDesk](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021)]
+- State Street to provide tech for cryptocurrency trading platform [[Financial Times](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe)]
 
 ### NTF
 
 - Sotheby’s Embarks on NFTs With Digital Creator Pak’s ‘The Fungible Collection’ [[Barron's](https://www.barrons.com/articles/sothebys-embarks-on-nfts-with-digital-creator-paks-the-fungible-collection-01617739344)]
 - Luxury fashion brands poised to join the NFT party | [[Vogue Business](https://www.voguebusiness.com/technology/luxury-fashion-brands-poised-to-join-the-nft-party)]
 
-### Bockchain
+### Mining
+
+- Riot to Acquire Whinstone, Creating a US-Based Industry Leader in Bitcoin Mining Nasdaq:RIOT [[globenewswire](http://www.globenewswire.com/news-release/2021/04/08/2206616/0/en/Riot-to-Acquire-Whinstone-Creating-a-US-Based-Industry-Leader-in-Bitcoin-Mining.html)]
+- Bitcoin mining firm Hut 8 files to raise nearly $400 million in Canada [[theblockcrypto](https://www.theblockcrypto.com/linked/101017/hut-8-bitcoin-mining-funding-filing)]
+
+### Blockchain
 
 - Stock clearing stalwarts face increasing threat from blockchain [[Financial Times](https://on.ft.com/2PNyXvR)]
 - State Street to provide tech for cryptocurrency trading platform [[Financial Times](https://on.ft.com/2Q1d8IV)]
@@ -112,9 +107,12 @@ rispondendo anche alle domande del pubblico.
 
 ### CBDC and Regulators
 
+- Swedish Central Bank Reveals First Study of Digital Currency [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/sweden-s-central-bank-reveals-first-study-of-digital-currency?srnd=cryptocurrencies)]
 - Japan's central bank kicks off experiments on issuing digital currency [[Reuters](https://www.reuters.com/article/us-japan-economy-cbdc-idUSKBN2BS0EG)]
 - BOJ Starts Central Bank Digital Currency Experiments [[CoinDesk](https://www.coindesk.com/boj-starts-central-bank-digital-currency-experiments)]
+- BOJ sees scope to set common rules on CBDCs with major central banks [[Reuters](https://www.reuters.com/article/cenbanks-digital-japan/boj-sees-scope-to-set-common-rules-on-cbdcs-with-major-central-banks-idUSL4N2M1265)]
 - ESMA sees high risk for investors in non-regulated crypto assets [[ESMA](https://www.esma.europa.eu/press-news/esma-news/esma-sees-high-risk-investors-in-non-regulated-crypto-assets)]
+- Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce [[Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce)]
 
 ### Altcoins
 
