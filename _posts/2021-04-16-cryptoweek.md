@@ -1,13 +1,13 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #9"
+title: "CryptoWeek #10"
 subtitle: "Il commento alle news della settimana" 
 author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
-youtube: 2h49jP_ix8s
-published: true
+youtube: siJwCvgIgnk
+published: false
 cryptoweek: true
 ---
 
@@ -20,12 +20,8 @@ commenta quanto di rilevante è accaduto nel corso della settimana
 in ambito bitcoin, crypto-asset e blockchain,
 rispondendo anche alle domande del pubblico.
 
-<a href="https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_">
-<img src="{{ site.baseurl }}/img/events/ISP_ON_AIR_LEADERBOARD_728X90.jpg" width="100%">
-</a>
-<div id="buzzsprout-player-8304476"></div>
-<script src="https://www.buzzsprout.com/1686991/8304476-cryptoweek-9-09-aprile-2021.js?container_id=buzzsprout-player-8304476&player=small" type="text/javascript" charset="utf-8"></script>
-
+<!--div id="buzzsprout-player-8173333"></div>
+<script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
 
 ### Opinions
 
@@ -64,7 +60,7 @@ rispondendo anche alle domande del pubblico.
 - CI Global Asset Management Launches North America’s First Bitcoin Mutual Fund [[Business Wire](https://www.businesswire.com/news/home/20210405005330/en/){:target="_blank"}]
 - CI Global Asset Management Launches Bitcoin Mutual Fund in Canada [[CoinDesk](https://www.coindesk.com/ci-global-asset-management-launches-bitcoin-mutual-fund-in-canada){:target="_blank"}]
 - CoinShares Partners With Canada’s 3iQ to Launch New Bitcoin ETF on TSX [[CoinDesk](https://www.coindesk.com/coinshares-partners-with-canadas-3iq-to-launch-new-bitcoin-etf-on-tsx){:target="_blank"}]
-- Record volumes for Bitcoin futures and options in March [[theblockcrypto](https://www.theblockcrypto.com/linked/100600/record-volumes-bitcoin-futures-options-march-2021){:target="_blank"}]
+- Record volumes for Bitcoin futures and options in March [[](https://www.theblockcrypto.com/linked/100600/record-volumes-bitcoin-futures-options-march-2021){:target="_blank"}]
 - State Street May Start Trading Crypto on Platform It's Helping Build [[CoinDesk](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021){:target="_blank"}]
 - State Street to provide tech for cryptocurrency trading platform [[Financial Times](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe){:target="_blank"}]
 
@@ -114,7 +110,7 @@ rispondendo anche alle domande del pubblico.
 - Fei Labs raises over $1.2 billion for its stablecoin project [[theblockcrypto](https://www.theblockcrypto.com/linked/100463/fei-labs-raises-over-1-2-billion-for-its-stablecoin-project){:target="_blank"}]
 - $1B Fei Stablecoin’s Rocky Start Is a Wake-Up Call for DeFi Investors [[CoinDesk](https://www.coindesk.com/1b-fei-stablecoins-rocky-start-is-a-wake-up-call-for-defi-investors){:target="_blank"}]
 - Tether to launch USDT stablecoin on Polkadot and Kusama [[theblockcrypto](https://www.theblockcrypto.com/post/100614/tether-usdt-stablecoin-polkadot-kusama){:target="_blank"}]
-- Coinbase Ventures backing DeFi in the Polkadot ecosystem [[cointelegraph](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem){:target="_blank"}]
+- Coinbase Ventures backing DeFi in the Polkadot ecosystem [[cointelegraph](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem){:target="_blank"}
 
 ### Signal MobileCoin
 

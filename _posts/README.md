@@ -26,13 +26,11 @@ permalink: /cryptoweekinternal/
 ## Dopo il CryptoWeek
 
 * Streamyard: estrarre podcast e caricarlo sulla piattaforma podcast
-* Streamyard: creare nuovo broadcast per la settimana successiva
+* Streamyard: creare nuovo broadcast per la settimana successiva "CryptoWeek #10 (16 aprile 2021)"
 * Streamyard: nuovo broadcast con foto thumb specific date
 * YouTube: marcare in nuovo prossimo livestream "contenuto sponsorizzato"
 * YouTube: aggiungere il video alla playlist "cryptoweek"
-* YouTube: aggiornare il titolo
 * Linkedin: creare evento collegato al live youtube
-* Website: aggiornare la data del nuovo cryptoweek in events.yml
 * Website: creare il post del cryptoweek della settimana successiva (published: false, cryptoweek: true, incrementare il #, metere il link YouTube corretto)
 * Website: inserire il link podcast del cyptoweek appena concluso
 
