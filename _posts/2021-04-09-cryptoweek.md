@@ -115,7 +115,7 @@ rispondendo anche alle domande del pubblico.
 - $1B Fei Stablecoin’s Rocky Start Is a Wake-Up Call for DeFi Investors [[CoinDesk](https://www.coindesk.com/1b-fei-stablecoins-rocky-start-is-a-wake-up-call-for-defi-investors){:target="_blank"}]
 - Tether Is Fully Backed, Assurance Opinion Shows [[The BTC Times](https://www.btctimes.com/news/tether-is-fully-backed-assurance-opinion-shows){:target="_blank"}]
 - Tether to launch USDT stablecoin on Polkadot and Kusama [[theblockcrypto](https://www.theblockcrypto.com/post/100614/tether-usdt-stablecoin-polkadot-kusama){:target="_blank"}]
-- Coinbase Ventures backing DeFi in the Polkadot ecosystem [[cointelegraph](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem){:target="_blank"}
+- Coinbase Ventures backing DeFi in the Polkadot ecosystem [[cointelegraph](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem){:target="_blank"}]
 
 ### Signal MobileCoin
 
