@@ -15,7 +15,7 @@ newsfeed: true
 
 Per approfondire in dettaglio Bitcoin e l'ecosistema crypto, nel contesto della finanza tradizionale, Alfonso Selva ha intervistato Ferdinando Ametrano nella 77ma puntata del suo podcast "[Finanza semplice](https://www.spreaker.com/user/alfonsoselva/ep-77-ferdinando-ametrano-bitcoin)".
 
-### L'intera intervista è disponibile in:
+### L'intera intervista è disponibile in diverse piattaforme
 
 - [Spotify](https://open.spotify.com/episode/28bZ3ylih24oeCG5LSPKPt?si=DtJr9TqnRBOHo-KAU9DY6A)
 - [Apple Podcast](https://podcasts.apple.com/it/podcast/finanza-semplice-di-alfonso-selva/id1502910277?i=1000509780296)

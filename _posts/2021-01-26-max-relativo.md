@@ -17,13 +17,13 @@ Lo ha chiesto [**M@x Relativo**](https://youtube.com/c/MaxRelativo) al direttore
 
 Si parla di Bitcoin, scarsità digitale e registro distribuito, al di la dei sottostanti tecnici: un approfondimento per chi si sta approcciando al mondo crypto per la prima volta
 
-#### Citazione: 
+#### Citazione
 
 _F.M.Ametrano_: "Non c’è modo di salvare gli investitori incoscienti da sé stessi: sapranno sempre trovare modi nuovi con cui farsi del male. Si può solo investire in informazione ed educazione sul tema. [...] Se davvero si vuole difendere il risparmiatore, bisogna consentirgli una semplice e sicura operatività in bitcoin."
 
 ---
 
-### Rivedi l'intervista qui: 
+### Rivedi l'intervista qui
 
 <div class='embed-container'>
     <iframe width="560" height="315" 

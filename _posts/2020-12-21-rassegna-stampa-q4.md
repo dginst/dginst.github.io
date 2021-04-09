@@ -25,7 +25,6 @@ Vi proponiamo di seguito due articoli che speriamo possano aiutarvi a fare chiar
 
 L'articolo pone l'accendo sul dibattito tra gli esperti, che sono divisi nel considerare bitcoin un asset alternativo per diversificare il rischio, oppure uno strumento speculativo. Tra gli altri, [Ferdinando M. Ametrano](https://ametrano.net/) presenta la vision DGI, basata sui risultati della ricerca interna.
 
-
 #### **Perché il bitcoin ha quotazioni record e crescerà ancora**
 
 **Ferdinando Ametrano** su **Agenda Digitale**, 3 dicembre.

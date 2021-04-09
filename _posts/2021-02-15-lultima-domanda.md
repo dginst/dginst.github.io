@@ -15,7 +15,7 @@ newsfeed: true
 
 Protagonista del podcast "**Bitcoin e Blockchain**" è [Paolo Mazzocchi](https://www.linkedin.com/in/paolomazzocchi/), Executive Director di Digital Gold Institute: intervistato da [Silvano Ciota](https://www.linkedin.com/in/silvanociota/) e [Conor Flynn](https://www.linkedin.com/in/conor-flynn-b19b06107/), ha presentato gli aspetti tecnici di Bitcoin, gli altcoin e altre applicazioni della tecnologia blockchain, con focus sugli attori coinvolti nell'ecosistema Bitcoin.
 
-### Ascolta l'intera intervista su:
+### Puoi ascoltare o rivedere l'intera intervista
 
 - [Spotify](https://open.spotify.com/episode/4bvteBBjQgyoZe8kr1D6uU)
 - [Apple Podcast](https://podcasts.apple.com/it/podcast/1-bitcoin-e-blockchain-con-paolo-mazzocchi/id1552628412?i=1000508092025&l=en)

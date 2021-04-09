@@ -34,7 +34,7 @@ In chiusura, un dibattito sui temi trattati a cui hanno partecipato:
 
 ---
 
-### Rivedi il webinar:
+### Rivedi il webinar
 
 <div class='embed-container'>
     <iframe width="560" height="315" 
