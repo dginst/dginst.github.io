@@ -39,7 +39,6 @@ rispondendo anche alle domande del pubblico.
 [Swedish Central Bank Reveals First Study of Digital Currency - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/sweden-s-central-bank-reveals-first-study-of-digital-currency?srnd=cryptocurrencies&utm_medium=email&_hsmi=120183355&_hsenc=p2ANqtz-_ZMwZqj1lj0ddvFcHw7T9yLbtGmCI8hgc6Wvf65rZuEIPZfBLY6xVimaceJOUD_GmZ-CpREe4fvlRgcTt629Tx-P-9mDv66PgiUifc8vsZbhhUJ5U&utm_content=120183355&utm_source=hs_email)
 [Bitcoin mining firm Hut 8 files to raise nearly $400 million in Canada](https://www.theblockcrypto.com/linked/101017/hut-8-bitcoin-mining-funding-filing?utm_medium=email&_hsmi=120183355&_hsenc=p2ANqtz--XhSh85sDbcDUpbqawJeTbqStqyZKV_ZF2SjtqU2tF6aO0XGKMN4gGEKyAfS8oMnmLgeIjMHKuXFPBnGLtBayXYhWo71fmaA-MeNsU2T1n1VrtVKU&utm_content=120183355&utm_source=hs_email)
 
-
 - Michael Saylor Keynote on Bitcoin & The US Dollar - MIT Bitcoin Expo 2021 [[YouTube](https://www.youtube.com/watch?v=-s-A_TK8gNk)]
 - Crypto Firms Got More Funding Last Quarter Than In All of 2020 [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/crypto-firms-got-more-funding-last-quarter-than-in-all-of-2020)]
 - Compound Hits $15 Billion In Total Lending Value as DeFi Boom Continues [[Decrypt](https://decrypt.co/63912/compound-hits-15-billion-in-total-lending-value-as-defi-boom-continues)]
@@ -74,7 +73,7 @@ rispondendo anche alle domande del pubblico.
 - Grayscale Bitcoin Trust (GBTC) Assailed by Investor as Discount Grows [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/grayscale-bitcoin-trust-assailed-by-investor-as-discount-grows)]
 - Grayscale says it's committed to launching bitcoin ETF [[YouTube](https://www.youtube.com/watch?v=HuyF_-L2Wpw)]
 - Grayscale’s Intentions for a Bitcoin ETF [[Medium](https://grayscaleinvest.medium.com/grayscales-intentions-for-a-bitcoin-etf-b11e4faf4c05)]
-- CME Group to Launch Micro Bitcoin Futures on May 3 [[](https://www.cmegroup.com/media-room/press-releases/2021/3/30/cme_group_to_launchmicrobitcoinfuturesonmay3.html)]
+- CME Group to Launch Micro Bitcoin Futures on May 3 [[cmegroup](https://www.cmegroup.com/media-room/press-releases/2021/3/30/cme_group_to_launchmicrobitcoinfuturesonmay3.html)]
 - Grayscale Says It's '100% Committed to Converting GBTC Into an ETF' [[CoinDesk](https://www.coindesk.com/grayscale-says-its-100-committed-to-converting-gbtc-into-an-etf)]
 - Asset management giant Fidelity files for a bitcoin ETF [[theblockcrypto](https://www.theblockcrypto.com/linked/99279/fidelity-bitcoin-etf-filing)]
 - CI Global Asset Management Launches North America’s First Bitcoin Mutual Fund; Carries Industry-Low Management Fee of 0.40% [[Business Wire](https://www.businesswire.com/news/home/20210405005330/en/)]
