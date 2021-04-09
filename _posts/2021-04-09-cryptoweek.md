@@ -81,13 +81,11 @@ rispondendo anche alle domande del pubblico.
 
 ### Tech
 
-- Bitcoin Optech [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/){:target="_blank"}]
+- Bitcoin Optech [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/04/07/){:target="_blank"}]
 
 ### Decentralized Identity
 
 - Toward scalable decentralized identifier systems [[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/toward-scalable-decentralized-identifier-systems/ba-p/560168){:target="_blank"}]
-- The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin [[github](https://github.com/decentralized-identity/ion){:target="_blank"}]
-- IPFS Powers the Distributed Web [[IPFS](https://ipfs.io/){:target="_blank"}]
 - ION – We Have Liftoff! [[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555){:target="_blank"}]
 - Tools and utilities to make working with the ION network and using ION DIDs easy peasy lemon squeezy [[github](https://github.com/decentralized-identity/ion-tools#ionjs){:target="_blank"}]
 - Digital Identity and the Blockchain: Universal Identity Management and the Concept of the “Self-Sovereign” Individual [[frontiersin](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00026/full){:target="_blank"}]
