@@ -60,7 +60,7 @@ rispondendo anche alle domande del pubblico.
 - CI Global Asset Management Launches North America’s First Bitcoin Mutual Fund [[Business Wire](https://www.businesswire.com/news/home/20210405005330/en/){:target="_blank"}]
 - CI Global Asset Management Launches Bitcoin Mutual Fund in Canada [[CoinDesk](https://www.coindesk.com/ci-global-asset-management-launches-bitcoin-mutual-fund-in-canada){:target="_blank"}]
 - CoinShares Partners With Canada’s 3iQ to Launch New Bitcoin ETF on TSX [[CoinDesk](https://www.coindesk.com/coinshares-partners-with-canadas-3iq-to-launch-new-bitcoin-etf-on-tsx){:target="_blank"}]
-- Record volumes for Bitcoin futures and options in March [[](https://www.theblockcrypto.com/linked/100600/record-volumes-bitcoin-futures-options-march-2021){:target="_blank"}]
+- Record volumes for Bitcoin futures and options in March [[theblockcrypto](https://www.theblockcrypto.com/linked/100600/record-volumes-bitcoin-futures-options-march-2021){:target="_blank"}]
 - State Street May Start Trading Crypto on Platform It's Helping Build [[CoinDesk](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021){:target="_blank"}]
 - State Street to provide tech for cryptocurrency trading platform [[Financial Times](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe){:target="_blank"}]
 
