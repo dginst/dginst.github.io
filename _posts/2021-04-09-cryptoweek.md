@@ -32,7 +32,6 @@ rispondendo anche alle domande del pubblico.
 ### Investments
 
 - Bloomberg Foresees Bitcoin Rallying to $400K This Year [[CoinDesk](https://www.coindesk.com/bloomberg-bitcoin-400k-prediction){:target="_blank"}]
-- Bitcoin Cryptocurrency Price Rise Leads $2 Billion Crypto Market Cap [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-05/crypto-market-cap-doubles-past-2-trillion-after-two-month-surge){:target="_blank"}]
 - Rising Bitcoin Adoption Tide [[Bloomberg Crypto Outlook](https://assets.bbhub.io/promo/sites/12/1060725_Crypto-Apr2021Outlook.pdf){:target="_blank"}]
 - Bitcoin Is Going Mainstream. What Investors Need to Know [[Barron's](https://www.barrons.com/articles/bitcoin-is-going-mainstream-what-investors-need-to-know-51617393392){:target="_blank"}]
 - A decline in bitcoin's volatility makes it more attractive to institutions and supports a $130,000 long-term price target, JPMorgan says [[Business Insider India](https://www.businessinsider.in/stock-market/news/]a-decline-in-bitcoins-volatility-makes-it-more-attractive-to-institutions-and-supports-a-130000-long-term-price-target-jpmorgan-says/articleshow/81857588.cms){:target="_blank"}]
@@ -46,27 +45,22 @@ rispondendo anche alle domande del pubblico.
 - Coinbase Announces First Quarter 2021 Estimated Results and Full Year 2021 Outlook [[Business Wire](https://www.businesswire.com/news/home/20210406006015/en/Coinbase-Announces-First-Quarter-2021-Estimated-Results-and-Full-Year-2021-Outlook){:target="_blank"}]
 - Coinbase reports an estimated $1.8 billion in total revenue for Q1 2021 [[theblockcrypto](https://www.theblockcrypto.com/post/100680/coinbase-q1-results-april-direct-listing){:target="_blank"}]
 - Coinbase Earned More in First Quarter Than in All of 2020 [[WSJ](https://www.wsj.com/articles/coinbase-earned-more-in-first-quarter-than-in-all-of-2020-11617745114){:target="_blank"}]
-- Coinbase To Begin Trading April 14 With Direct Listing on Nasdaq [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/coinbase-is-said-to-plan-its-direct-listing-in-two-weeks){:target="_blank"}]
 - Why Coinbase’s stellar earnings are not what they seem [[Financial Times](https://on.ft.com/3fPyR1d){:target="_blank"}]
 - Coinbase rival Kraken may go public via direct listing [[Cnbc](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html){:target="_blank"}]
 - Binance CEO Goes All-in on Tokens: ‘I Just Want to Keep Crypto’ [[Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto){:target="_blank"}]
-- Binance CEO Changpeng Zhao Says 'I Just Want to Keep Crypto' [[Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto){:target="_blank"}]
-- Former BitMEX CEO Arthur Hayes Surrenders to Face Charges [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/former-bitmex-ceo-arthur-hayes-surrenders-to-face-u-s-charges){:target="_blank"}]
 - ALL ABOARD! by Arthur Hayes [[Medium](https://cryptohayes.medium.com/all-aboard-4d50435190d6){:target="_blank"}]
 - Revenge Of The Winklevii [[forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/04/05/revenge-of-the-winklevii-facebook-winklevoss-bitcoin-nft-billionaire-revenge){:target="_blank"}]
 
 ### ETF and Futures
 
-- Grayscale Bitcoin Trust (GBTC) Assailed by Investor as Discount Grows [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/grayscale-bitcoin-trust-assailed-by-investor-as-discount-grows){:target="_blank"}]
 - Grayscale says it's committed to launching bitcoin ETF [[YouTube](https://www.youtube.com/watch?v=HuyF_-L2Wpw){:target="_blank"}]
 - Grayscale’s Intentions for a Bitcoin ETF [[Medium](https://grayscaleinvest.medium.com/grayscales-intentions-for-a-bitcoin-etf-b11e4faf4c05){:target="_blank"}]
 - CME Group to Launch Micro Bitcoin Futures on May 3 [[cmegroup](https://www.cmegroup.com/media-room/press-releases/2021/3/30/cme_group_to_launchmicrobitcoinfuturesonmay3.html){:target="_blank"}]
 - Grayscale Says It's '100% Committed to Converting GBTC Into an ETF' [[CoinDesk](https://www.coindesk.com/grayscale-says-its-100-committed-to-converting-gbtc-into-an-etf){:target="_blank"}]
 - Asset management giant Fidelity files for a bitcoin ETF [[theblockcrypto](https://www.theblockcrypto.com/linked/99279/fidelity-bitcoin-etf-filing){:target="_blank"}]
-- CI Global Asset Management Launches North America’s First Bitcoin Mutual Fund; Carries Industry-Low Management Fee of 0.40% [[Business Wire](https://www.businesswire.com/news/home/20210405005330/en/){:target="_blank"}]
+- CI Global Asset Management Launches North America’s First Bitcoin Mutual Fund [[Business Wire](https://www.businesswire.com/news/home/20210405005330/en/){:target="_blank"}]
 - CI Global Asset Management Launches Bitcoin Mutual Fund in Canada [[CoinDesk](https://www.coindesk.com/ci-global-asset-management-launches-bitcoin-mutual-fund-in-canada){:target="_blank"}]
 - CoinShares Partners With Canada’s 3iQ to Launch New Bitcoin ETF on TSX [[CoinDesk](https://www.coindesk.com/coinshares-partners-with-canadas-3iq-to-launch-new-bitcoin-etf-on-tsx){:target="_blank"}]
-- Morgan Stanley Approves Bitcoin Exposure for Handful of Mutual Funds [[CoinDesk](https://www.coindesk.com/morgan-stanley-approves-bitcoin-exposure-for-handful-of-mutual-funds){:target="_blank"}]
 - Record volumes for Bitcoin futures and options in March [[](https://www.theblockcrypto.com/linked/100600/record-volumes-bitcoin-futures-options-march-2021){:target="_blank"}]
 - State Street May Start Trading Crypto on Platform It's Helping Build [[CoinDesk](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021){:target="_blank"}]
 - State Street to provide tech for cryptocurrency trading platform [[Financial Times](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe){:target="_blank"}]
