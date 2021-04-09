@@ -20,6 +20,9 @@ commenta quanto di rilevante è accaduto nel corso della settimana
 in ambito bitcoin, crypto-asset e blockchain,
 rispondendo anche alle domande del pubblico.
 
+<a href="https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_">
+<img src="{{ site.baseurl }}/img/events/ISP_ON_AIR_LEADERBOARD_728X90.jpg" width="100%">
+</a>
 <!--div id="buzzsprout-player-8173333"></div>
 <script src="https://www.buzzsprout.com/1686991/8173333-cryptoweek-6-19-marzo-2021.js?container_id=buzzsprout-player-8173333&player=small" type="text/javascript" charset="utf-8"></script-->
 
