@@ -39,26 +39,23 @@ rispondendo anche alle domande del pubblico.
 - Swedish Central Bank Reveals First Study of Digital Currency [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-07/sweden-s-central-bank-reveals-first-study-of-digital-currency?srnd=cryptocurrencies)]
 - Bitcoin mining firm Hut 8 files to raise nearly $400 million in Canada [[theblockcrypto](https://www.theblockcrypto.com/linked/101017/hut-8-bitcoin-mining-funding-filing)]
 
-- Michael Saylor Keynote on Bitcoin & The US Dollar - MIT Bitcoin Expo 2021 [[YouTube](https://www.youtube.com/watch?v=-s-A_TK8gNk)]
-- Crypto Firms Got More Funding Last Quarter Than In All of 2020 [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/crypto-firms-got-more-funding-last-quarter-than-in-all-of-2020)]
-- Compound Hits $15 Billion In Total Lending Value as DeFi Boom Continues [[Decrypt](https://decrypt.co/63912/compound-hits-15-billion-in-total-lending-value-as-defi-boom-continues)]
-- Bitcoin Blockchain Operations in China Threaten Climate Goals [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/bitcoin-blockchain-operations-in-china-threaten-climate-goals)]
+
+
+### Opinions
+
 - The Blocksize War – Chapter 3 – Scaling I – Montreal [[BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-3-scaling-i-montreal/)]
-- Fidelity, Square, Coinbase Launch Bitcoin Trade Group [[WSJ](https://www.wsj.com/articles/fidelity-square-coinbase-launch-bitcoin-trade-group-11617710402)]
-- Former BitMEX CEO Arthur Hayes Surrenders to Face Charges [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/former-bitmex-ceo-arthur-hayes-surrenders-to-face-u-s-charges)]
-- ALL ABOARD! by Arthur Hayes [[Medium](https://cryptohayes.medium.com/all-aboard-4d50435190d6)]
-- Bitcoin Cryptocurrency Price Rise Leads $2 Billion Crypto Market Cap [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-05/crypto-market-cap-doubles-past-2-trillion-after-two-month-surge)]
-- Revenge Of The Winklevii [[forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/04/05/revenge-of-the-winklevii-facebook-winklevoss-bitcoin-nft-billionaire-revenge)]
-- ESMA sees high risk for investors in non-regulated crypto assets [[ESMA](https://www.esma.europa.eu/press-news/esma-news/esma-sees-high-risk-investors-in-non-regulated-crypto-assets)]
-- Everything is a Search for Yield. Bitcoin Tech Talk #234 [[Bitcoin Tech Talk](https://jimmysong.substack.com/p/everything-is-a-search-for-yield)]
+- Michael Saylor Keynote on Bitcoin & The US Dollar - MIT Bitcoin Expo 2021 [[YouTube](https://www.youtube.com/watch?v=-s-A_TK8gNk)]
 
 ### Investments
 
+- Bitcoin Cryptocurrency Price Rise Leads $2 Billion Crypto Market Cap [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-05/crypto-market-cap-doubles-past-2-trillion-after-two-month-surge)]
 - Rising Bitcoin Adoption Tide [[Bloomberg Crypto Outlook](https://assets.bbhub.io/promo/sites/12/1060725_Crypto-Apr2021Outlook.pdf)]
 - Bitcoin Is Going Mainstream. What Investors Need to Know [[Barron's](https://www.barrons.com/articles/bitcoin-is-going-mainstream-what-investors-need-to-know-51617393392)]
 - A decline in bitcoin's volatility makes it more attractive to institutions and supports a $130,000 long-term price target, JPMorgan says [[Business Insider India](https://www.businessinsider.in/stock-market/news/]a-decline-in-bitcoins-volatility-makes-it-more-attractive-to-institutions-and-supports-a-130000-long-term-price-target-jpmorgan-says/articleshow/81857588.cms)]
+- Everything is a Search for Yield. Bitcoin Tech Talk #234 [[Bitcoin Tech Talk](https://jimmysong.substack.com/p/everything-is-a-search-for-yield)]
 - South Korea’s Capital Controls Have Pushed Bitcoin’s Price to $66,600 [[Decrypt](https://decrypt.co/63948/south-koreas-capital-controls-have-pushed-bitcoins-price-to-66600)]
 - South Korean gov't makes $10.5M profit from 4-year-old Bitcoin crime haul [[cointelegraph](https://cointelegraph.com/news/south-korean-gov-t-makes-10-5m-profit-from-4-year-old-bitcoin-crime-haul)]
+- Fidelity, Square, Coinbase Launch Bitcoin Trade Group [[WSJ](https://www.wsj.com/articles/fidelity-square-coinbase-launch-bitcoin-trade-group-11617710402)]
 
 ### Exchanges
 
@@ -67,6 +64,9 @@ rispondendo anche alle domande del pubblico.
 - Coinbase To Begin Trading April 14 With Direct Listing on Nasdaq [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/coinbase-is-said-to-plan-its-direct-listing-in-two-weeks)]
 - Why Coinbase’s stellar earnings are not what they seem [[Financial Times](https://on.ft.com/3fPyR1d)]
 - Binance CEO Goes All-in on Tokens: ‘I Just Want to Keep Crypto’ [[Bloomberg](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto)]
+- Former BitMEX CEO Arthur Hayes Surrenders to Face Charges [[Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/former-bitmex-ceo-arthur-hayes-surrenders-to-face-u-s-charges)]
+- ALL ABOARD! by Arthur Hayes [[Medium](https://cryptohayes.medium.com/all-aboard-4d50435190d6)]
+- Revenge Of The Winklevii [[forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/04/05/revenge-of-the-winklevii-facebook-winklevoss-bitcoin-nft-billionaire-revenge)]
 
 ### ETF and Futures
 
@@ -110,10 +110,11 @@ rispondendo anche alle domande del pubblico.
 - PayPal launches crypto checkout service [[Reuters](https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N)]
 - Visa Becomes First Major Payments Network to Settle Transactions in USD Coin (USDC) [[Business Wire](https://www.businesswire.com/news/home/20210329005171/en/Visa-Becomes-First-Major-Payments-Network-to-Settle-Transactions-in-USD-Coin-USDC)]
 
-### CBDC
+### CBDC and Regulators
 
 - Japan's central bank kicks off experiments on issuing digital currency [[Reuters](https://www.reuters.com/article/us-japan-economy-cbdc-idUSKBN2BS0EG)]
 - BOJ Starts Central Bank Digital Currency Experiments [[CoinDesk](https://www.coindesk.com/boj-starts-central-bank-digital-currency-experiments)]
+- ESMA sees high risk for investors in non-regulated crypto assets [[ESMA](https://www.esma.europa.eu/press-news/esma-news/esma-sees-high-risk-investors-in-non-regulated-crypto-assets)]
 
 ### Altcoins
 
