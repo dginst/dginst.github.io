@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: 2h49jP_ix8s
-published: false
+published: true
 cryptoweek: true
 ---
 
@@ -75,7 +75,7 @@ rispondendo anche alle domande del pubblico.
 ### NTF
 
 - Sotheby’s Embarks on NFTs With Digital Creator Pak’s ‘The Fungible Collection’ [[Barron's](https://www.barrons.com/articles/sothebys-embarks-on-nfts-with-digital-creator-paks-the-fungible-collection-01617739344)]
-- Luxury fashion brands poised to join the NFT party | [[Vogue Business](https://www.voguebusiness.com/technology/luxury-fashion-brands-poised-to-join-the-nft-party)]
+- Luxury fashion brands poised to join the NFT party [[Vogue Business](https://www.voguebusiness.com/technology/luxury-fashion-brands-poised-to-join-the-nft-party)]
 
 ### Mining
 
