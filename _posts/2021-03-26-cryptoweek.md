@@ -9,23 +9,10 @@ image:
 youtube: cWLIYVkZECc
 published: true
 cryptoweek: true
+podcast:
+    id: buzzsprout-player-8217722
+    src: https://www.buzzsprout.com/1686991/8217722-cryptoweek-7-26-marzo-2021.js?container_id=buzzsprout-player-8217722&player=small
 ---
-
-Ogni venerdì alle 18:00 in live-streaming
-([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc),
-[Facebook](https://www.facebook.com/DigitalGoldInstitute) e successivamente
-[podcast](https://www.buzzsprout.com/1686991))
-il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
-commenta quanto di rilevante è accaduto nel corso della settimana
-in ambito bitcoin, crypto-asset e blockchain,
-rispondendo anche alle domande del pubblico.
-
-Questa puntata, in particolare, si segnala per ridicoli incidenti tecnici:
-si potrà sorridere di noi, con noi, speriamo apprezzando comunque il contenuto tecnico.
-
-<div id="buzzsprout-player-8217722"></div>
-<script src="https://www.buzzsprout.com/1686991/8217722-cryptoweek-7-26-marzo-2021.js?container_id=buzzsprout-player-8217722&player=small" type="text/javascript" charset="utf-8"></script>
-
 ### CBDC
 
 - PBoC official says 'completely anonymous CBDC is not an option' [[The Block](https://www.theblockcrypto.com/linked/98925/pboc-anonymous-cbdc-not-option){:target="_blank"}]

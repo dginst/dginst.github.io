@@ -9,20 +9,10 @@ image:
 youtube: AJZIAN-TNDQ
 published: true
 cryptoweek: true
+podcast:
+    id: buzzsprout-player-8129122
+    src: https://www.buzzsprout.com/1686991/8129122-cryptoweek-5-12-marzo-2021.js?container_id=buzzsprout-player-8129122&player=small
 ---
-
-Ogni venerdì alle 18:00 in live-streaming
-([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc),
-[Facebook](https://www.facebook.com/DigitalGoldInstitute) e successivamente
-[podcast](https://www.buzzsprout.com/1686991))
-il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
-commenta quanto di rilevante è accaduto nel corso della settimana
-in ambito bitcoin, crypto-asset e blockchain,
-rispondendo anche alle domande del pubblico.
-
-<div id="buzzsprout-player-8129122"></div>
-<script src="https://www.buzzsprout.com/1686991/8129122-cryptoweek-5-12-marzo-2021.js?container_id=buzzsprout-player-8129122&player=small" type="text/javascript" charset="utf-8"></script>
-
 ### JPMorgan
 
 - JPMorgan to Launch ‘Cryptocurrency Exposure Basket’ of Bitcoin Proxy Stocks [[coindesk](https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks){:target="_blank"}]

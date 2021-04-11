@@ -9,24 +9,13 @@ image:
 youtube: 2h49jP_ix8s
 published: true
 cryptoweek: true
+podcast:
+    id: buzzsprout-player-8304476
+    src: https://www.buzzsprout.com/1686991/8304476-cryptoweek-9-09-aprile-2021.js?container_id=buzzsprout-player-8304476&player=small
+banner:
+    link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
+    img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
-
-Ogni venerdì alle 18:00 in live-streaming
-([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc),
-[Facebook](https://www.facebook.com/DigitalGoldInstitute) e successivamente
-[podcast](https://www.buzzsprout.com/1686991))
-il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
-commenta quanto di rilevante è accaduto nel corso della settimana
-in ambito bitcoin, crypto-asset e blockchain,
-rispondendo anche alle domande del pubblico.
-
-<a href="https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_">
-<img src="{{ site.baseurl }}/img/events/ISP_ON_AIR_LEADERBOARD_728X90.jpg" width="100%">
-</a>
-<div id="buzzsprout-player-8304476"></div>
-<script src="https://www.buzzsprout.com/1686991/8304476-cryptoweek-9-09-aprile-2021.js?container_id=buzzsprout-player-8304476&player=small" type="text/javascript" charset="utf-8"></script>
-
-
 ### Opinions
 
 - The Blocksize War – Chapter 3 – Scaling I – Montreal [[BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-3-scaling-i-montreal/){:target="_blank"}]

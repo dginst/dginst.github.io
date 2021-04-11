@@ -9,19 +9,10 @@ image:
 youtube: RCz99O-Xszk
 published: true
 cryptoweek: true
+podcast:
+    id: buzzsprout-player-7966633
+    src: https://www.buzzsprout.com/1686991/7966633-cryptoweek-2-19-febbraio-2021.js?container_id=buzzsprout-player-7966633&player=small
 ---
-
-Ogni venerdì alle 18:00 in live-streaming
-([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc),
-[Facebook](https://www.facebook.com/DigitalGoldInstitute) e successivamente
-[podcast](https://www.buzzsprout.com/1686991))
-il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
-commenta quanto di rilevante è accaduto nel corso della settimana
-in ambito bitcoin, crypto-asset e blockchain,
-rispondendo anche alle domande del pubblico.
-
-<div id="buzzsprout-player-7966633"></div><script src="https://www.buzzsprout.com/1686991/7966633-cryptoweek-2-19-febbraio-2021.js?container_id=buzzsprout-player-7966633&player=small" type="text/javascript" charset="utf-8"></script>
-
 - [Bitcoin Market Value Tops $1T as Price Passes $53,697](https://www.coindesk.com/bitcoin-1-trillion-market-value)
 - [UK Trading Firm BCB Launches Bitcoin Treasury Service for Crypto-Curious CFOs](https://www.coindesk.com/uk-trading-firm-bcb-launches-bitcoin-treasury-service-for-crypto-curious-cfos)
 - [Deutsche Bank Quietly Plans to Offer Crypto Custody, Prime Brokerage](https://www.coindesk.com/deutsche-bank-crypto-custody-prime-brokerage)

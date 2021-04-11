@@ -9,19 +9,10 @@ image:
 youtube: 6SVoSmLxNhM
 published: true
 cryptoweek: true
+podcast:
+    id: buzzsprout-player-8083493
+    src: https://www.buzzsprout.com/1686991/8083493-cryptoweek-4-5-marzo-2021.js?container_id=buzzsprout-player-8083493&player=small
 ---
-
-([YouTube](https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc),
-[Facebook](https://www.facebook.com/DigitalGoldInstitute) e successivamente
-[podcast](https://www.buzzsprout.com/1686991))
-il nostro direttore scientifico [Ferdinando M. Ametrano](https://www.ametrano.net)
-commenta quanto di rilevante è accaduto nel corso della settimana
-in ambito bitcoin, crypto-asset e blockchain,
-rispondendo anche alle domande del pubblico.
-
-<div id='buzzsprout-player-8083493'></div><script src="https://www.buzzsprout.com/1686991/8083493-cryptoweek-4-5-marzo-2021.js?container_id=buzzsprout-player-8083493&player=small" type="text/javascript" charset="utf-8"></script>
-## Market
-
 ### Bitcoin
 
 - MicroStrategy buys another 205 bitcoins, for $10 million [[marketwatch](https://www.marketwatch.com/story/microstrategy-buys-another-205-bitcoins-for-10-million-2021-03-05)]
@@ -30,7 +21,7 @@ rispondendo anche alle domande del pubblico.
 
 - Cardano Becomes Multi-Asset Blockchain Following Mary Protocol Update [[coinspeaker](https://www.coinspeaker.com/cardano-multi-asset-blockchain-mary/)]
 
-## Ecosystem
+### Ecosystem
 
 - Binance Pledges New Controls After 99% ‘Flash Crash’ in Polkadot Futures [[coindesk](https://www.coindesk.com/binance-controls-flash-crash-polkadot)]
 - Does Crypto Need Circuit Breakers? Last Week’s Price Crash Ignites a Debate [[coindesk](https://www.coindesk.com/does-crypto-need-circuit-breakers-last-weeks-price-crash-ignites-a-debate)]
@@ -57,18 +48,18 @@ rispondendo anche alle domande del pubblico.
 - UK Investors Can Now Integrate Their Crypto Holdings With Their Bank Accounts [[coindesk](https://www.coindesk.com/uk-investors-can-now-integrate-their-crypto-holdings-with-their-bank-accounts)]
 - PayPal CEO Reveals Plans for New Crypto Unit [[decrypt](https://decrypt.co/60086/paypal-ceo-schulman-talks-new-crypto-unit)]
 
-## Technology
+### Technology
 
 - Bitcoin Optech Newsletter #138 [[Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/03/03/)]
 
-## Regulation
+### Regulation
 
 - India preparing to launch digital rupee [[modernconsensus](https://modernconsensus.com/regulation/india-preparing-to-launch-digital-rupee/)]
 - FATF Says It Is Open to Amending Crypto Travel Rule Guidance [[coindesk](https://www.coindesk.com/fatf-says-it-is-open-to-amending-crypto-travel-rule-guidance)]
 - Crypto Is Spared Scapegoat Treatment in US Hearing on Terror Financing [[coindesk](https://www.coindesk.com/crypto-is-spared-scapegoat-treatment-in-us-hearing-on-terror-financing)]
 - Banking on Bitcoin – The State of Bitcoin As Collateral [[coindesk](https://www.coindesk.com/research/reports/arcane-research-banking-on-bitcoin-the-state-of-bitcoin-as-collateral)]
 
-## DGI Activity
+### DGI Activity
 
 - [Events](https://dgi.io/events/)
 - 16-17 marzo 2021: [Bitcoin & Blockchain Training](https://dgi.io/workshop/)
