@@ -43,11 +43,12 @@ permalink: /events/
                     </p>
                 </div>
                 <div class="col-lg-7 col-md-6">
-                    <h4>{{ event.title }}
+                    <h4>{{ event.title }}</h4>
+                    <p>
                         {% if event.subtitle %}
-                        <br>{{ event.subtitle }}
+                        {{ event.subtitle }}
                         {% endif %}
-                    </h4>
+                    </p>
                     <hr class="primary" align="left">
                     <p class="text-muted">
                         {{ event.city }},
