@@ -5,8 +5,8 @@ title: "Presentazione del report trimestrale del Digital Gold Institute"
 subtitle: "Comunicato stampa" 
 author: "Staff"
 image:
-    main: 2021-04-14-2021Q1-report.jpg
     thumb: 2021-04-14-2021Q1-report-thumb.jpg
+youtube: pgAlv1ufZdk
 published: true
 newsfeed: true
 ---
