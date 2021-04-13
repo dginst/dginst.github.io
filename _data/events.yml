@@ -48,10 +48,12 @@
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
-  address: live streaming
-  info:
+  address: 
     text: live streaming
     url: https://www.youtube.com/watch?v=pgAlv1ufZdk
+  info:
+    text: agenda
+    url: https://dgi.io/docs/reports/2021Q1-agenda.pdf
   discount_code:
   discount_code_publish:
   image:
