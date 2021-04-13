@@ -10,6 +10,8 @@ permalink: /reports/
 
 I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre. Questi i report finora prodotti:
 
+- 2021-Q1:
+  [agenda]({{site.baseurl}}/docs/reports/2021Q1-agenda.pdf) e presentazione del report ([live streaming](https://youtu.be/pgAlv1ufZdk))
 - 2020-Q4:
   presentazione del report
   ([video](https://www.youtube.com/watch?v=FWTKGh96BHQ&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=4)
