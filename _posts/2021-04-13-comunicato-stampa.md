@@ -8,7 +8,7 @@ image:
     main: 2021-04-14-2021Q1-report.jpg
     thumb: 2021-04-14-2021Q1-report-thumb.jpg
 published: false
-newsfeed: false
+newsfeed: true
 ---
 
 ## Presentazione del report trimestrale del Digital Gold Institute
