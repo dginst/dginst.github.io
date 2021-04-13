@@ -24,7 +24,7 @@ l’ingresso dei principali player finanziari ed industriali statunitensi.
 Affronterà anche il fenomeno dei _token_ non fungibili (_non-fungible token_, NFT),
 della finanza decentralizzata (_decentralized finance_, DeFi)
 e degli aspetti regolamentari collegati allo sviluppo
-del contante digitale di banca centrale (central bank digital currency, CBDC).
+del contante digitale di banca centrale (_central bank digital currency_, CBDC).
 
 [Filippo Annunziata](http://faculty.unibocconi.it/filippoannunziata/),
 Professore associato di Diritto dei mercati e degli intermediari finanziari
