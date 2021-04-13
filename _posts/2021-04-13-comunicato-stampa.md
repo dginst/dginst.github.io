@@ -11,8 +11,6 @@ published: true
 newsfeed: true
 ---
 
-## Presentazione del report trimestrale del Digital Gold Institute
-
 Verrà presentato domani 14 aprile alle 17:30
 in diretta [YouTube](https://youtu.be/pgAlv1ufZdk)
 il report trimestrale sull’ecosistema Bitcoin, crypto-asset e blockchain
