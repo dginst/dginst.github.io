@@ -4,7 +4,7 @@ comments: false
 lang: it
 title: "I report trimestrali del Digital Gold Institute"
 subtitle: "Ecosistema Bitcoin, crypto-asset e blockchain"
-youtubeplaylist: PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL
+youtube: pgAlv1ufZdk
 permalink: /reports/
 ---
 
