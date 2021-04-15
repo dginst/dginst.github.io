@@ -5,8 +5,8 @@ title: "Presentazione del report trimestrale del Digital Gold Institute"
 subtitle: "Comunicato stampa" 
 author: "Staff"
 image:
-    main: 2021-04-14-2021Q1-report.jpg
     thumb: 2021-04-14-2021Q1-report-thumb.jpg
+youtube: pgAlv1ufZdk
 published: true
 newsfeed: true
 ---
@@ -43,4 +43,4 @@ anche per il nuovo record di prezzo segnato proprio nella giornata odierna.
 
 Il report trimestrale 2021Q1 sarà disponibile entro fine mese su [dgi.io/reports](https://dgi.io/reports/).
 
-[Comunicato stampa]({{site.baseurl}}/docs/20210413- comunicato-stampa-report-dgi.pdf)
+[Comunicato stampa]({{site.baseurl}}/docs/20210413-comunicato-stampa-report-dgi.pdf)

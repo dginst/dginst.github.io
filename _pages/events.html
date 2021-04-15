@@ -64,9 +64,14 @@ permalink: /events/
                         {% endif %}
                         <br>
                         {% if event.lang == "it" %}
-                        Presso: {{ event.address }}
+                        Presso:
                         {% else %}
-                        Location: {{ event.address }}
+                        Location:
+                        {% endif %}
+                        {% if event.address.url %}
+                        <a href="{{ event.address.url }}">{{ event.address.text }}</a>
+                        {% else %}
+                        {{ event.address }}
                         {% endif %}
                         <br>
                         {% if event.lang == "it" %}
