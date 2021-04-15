@@ -55,16 +55,6 @@ layout: page
 
                 <h3>{{ page.subtitle }}</h3>
 
-                <p>
-                    Ogni venerdì alle 18:00 in live-streaming (<a
-                        href='https://www.youtube.com/watch?v=6SVoSmLxNhM&list=PLTLa2tRY91LI9MN6-_ai0J6jTRcY8znDc'>YouTube</a>,
-                    <a href='https://www.facebook.com/DigitalGoldInstitute'>Facebook</a> e successivamente <a
-                        href='https://www.buzzsprout.com/1686991'>podcast</a>) il nostro direttore scientifico <a
-                        href='https://www.ametrano.net'>Ferdinando M. Ametrano</a> commenta quanto di rilevante è
-                    accaduto nel corso della settimana in ambito bitcoin, crypto-asset e blockchain, rispondendo anche
-                    alle domande del pubblico.
-                </p>
-
                 {% if page.banner %}
                 <a href="{{ page.banner.link }}">
                     <img src="{{ site.baseurl }}/img/events/{{ page.banner.img }}" width="100%">
@@ -75,7 +65,9 @@ layout: page
                 <div id="{{ page.podcast.id }}"></div>
                 <script src="{{ page.podcast.src }}" type="text/javascript" charset="utf-8"></script>
                 {% endif %}
-
+                <h4>
+                    Di seguito i link alla news commentate durante il CryptoWeek.
+                </h4>
                 <p>{{ content }}</p>
 
 
