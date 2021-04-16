@@ -88,5 +88,6 @@ banner:
 
 - [Presentazione del report trimestrale del Digital Gold Institute](https://dgi.io/2021/04/15/comunicato-stampa.html)
 - [Bitcoin: come funzionano, i valori, i rischi e l'esperimento di Rovereto - Le iene](https://www.iene.mediaset.it/video/bitcoin-come-funzionano-i-valori-esperimento-di-rovereto_1031237.shtml)
+- [Bitcoin: secondo Dgi è tutt'altro che una bolla - We Wealth](https://www.we-wealth.com/it/news/fintech/blockchain/bitcoin-secondo-dgi-e-tuttaltro-che-una-bolla/)
 - [Events](https://dgi.io/events/)
 - [News](https://dgi.io/news/)
