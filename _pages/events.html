@@ -147,11 +147,26 @@ permalink: /events/
 
                         <br>
                         {% if event.lang == "it" %}
-                        Presso: {{ event.address }}
+                        Presso:
                         {% else %}
-                        Location: {{ event.address }}
+                        Location:
                         {% endif %}
-
+                        {% if event.address.url %}
+                        <a href="{{ event.address.url }}">{{ event.address.text }}</a>
+                        {% else %}
+                        {{ event.address }}
+                        {% endif %}
+                        <br>
+                        {% if event.lang == "it" %}
+                        Informazioni:
+                        {% else %}
+                        Information:
+                        {% endif %}
+                        {% if event.info.url %}
+                        <a href="{{ event.info.url }}">{{ event.info.text }}</a>
+                        {% else %}
+                        {{ event.info.text}}
+                        {% endif %}
                     </p>
                     </li>
                     {% endif %}
