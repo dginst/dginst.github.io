@@ -42,7 +42,7 @@ banner:
 ### Coinbase Listing
 
 - [Coinbase, la «Borsa» dei bitcoin vola al debutto poi rallenta - Il Sole24ore](https://www.ilsole24ore.com/art/coinbase-quotazione-storica-nasdaq-mondo-criptovalute-sbarca-wall-street-AE185w)
-- [Coinbase listing set to capitalise on crypto bull run- Financial Times](https://www.ft.com/content/06d98c02-f5da-45e8-a0f5-20e3bfd64879)
+- [Coinbase listing set to capitalise on crypto bull run - Financial Times](https://www.ft.com/content/06d98c02-f5da-45e8-a0f5-20e3bfd64879)
 - [Tremonti: Ipo di Coinbase? «Hanno quotato il nulla, certificato dal nulla» - Il Sole24ore](https://24plus.ilsole24ore.com/art/tremonti-l-ipo-coinbase-hanno-quotato-nulla-certificato-nulla-AE3jo1?s=hpl)
 - [Bitcoin: Coinbase rival Kraken may go public via direct listing - Cnbc](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)
 - [Bitcoin back above $60,000 as Coinbase is set for public debut - CNN](https://edition.cnn.com/2021/04/12/investing/bitcoin-prices-coinbase/index.html)
