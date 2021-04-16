@@ -35,7 +35,6 @@ banner:
 - [Binance launches tokenized stock trading, starts with Tesla - The Block Crypto](https://www.theblockcrypto.com/post/101335/binance-launches-tokenized-stock-trading-tesla)
 - [Turkey Bans the Use of Cryptocurrencies for Payments - Cryptobriefing](https://cryptobriefing.com/turkey-bans-use-cryptocurrencies-payments/)
 
-
 ### Coinbase Listing
 
 - [Bitcoin: Coinbase rival Kraken may go public via direct listing - Cnbc](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)
