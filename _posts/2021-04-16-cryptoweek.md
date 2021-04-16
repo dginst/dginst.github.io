@@ -29,12 +29,12 @@ banner:
 - [BlackRock CEO Sings Bitcoin’s Praises as Future ‘Great Asset Class’ - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
 - [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
 - [Goldman Sachs Keeping Close Eye on Bitcoin: CEO - Decrypt](https://decrypt.co/66546/goldman-sachs-bitcoin-ceo-earnings)
-- [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others (Reuters)](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
+- [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others - Reuters](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
 - [ConsenSys Wins JPMorgan, UBS Backing Amid Crypto Demand Surge - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-13/ethereum-blockchain-developer-consensys-raises-65-million)
 - [Tether on Tron Blockchain Hits $24B, Surpassing Ethereum Amid Explosive Stablecoin Demand - CoinDesk](https://www.coindesk.com/tether-tron-ethereum-stablecoin-flippening)
 - [US Sanctions Crypto Addresses Linked to Russian Election Fraud Scheme - CoinDesk](https://www.coindesk.com/us-government-sanctions-crypto-addresses-linked-to-russian-election-fraud-scheme)
 - [$623M in Bitcoin From 2016 Bitfinex Hack Moved Under Cover of COIN Hype - CoinDesk](https://www.coindesk.com/623m-in-bitcoin-from-2016-bitfinex-hack-moved-under-cover-of-coin-hype)
-- [Trade Stock Tokens on Binance (Binance)](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
+- [Trade Stock Tokens on Binance - Binance](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
 - [Binance launches tokenized stock trading, starts with Tesla - The Block Crypto](https://www.theblockcrypto.com/post/101335/binance-launches-tokenized-stock-trading-tesla)
 - [Turkey Bans the Use of Cryptocurrencies for Payments - Cryptobriefing](https://cryptobriefing.com/turkey-bans-use-cryptocurrencies-payments/)
 - [Revolut adds 11 crypto to Its trading offerings - The Daily Hodl](https://dailyhodl.com/2021/04/11/banking-app-revolut-abruptly-adds-cardano-uniswap-and-9-other-crypto-assets-to-their-platform/)
@@ -58,7 +58,7 @@ banner:
 - [SEC Begins Review of WisdomTree Bitcoin ETF - CoinDesk](https://www.coindesk.com/sec-begins-review-of-wisdomtree-bitcoin-etf-as-total-number-of-applications-grows-to-8)
 - [German digital stock exchange will list physical Litecoin ETP - Business Insider](https://markets.businessinsider.com/currencies/news/german-digital-stock-exchange-will-list-physical-litecoin-etp-10008243)
 - [JPMorgan Says Bitcoin ETFs Could Shrink CME Futures Premium - CoinDesk](https://www.coindesk.com/jpmorgan-bitcoin-etfs-cme-futures-premium)
-- [Grayscale tops $50 billion: ‘Will soon pass world’s largest commodity ETF’ (CoinTelegraph)](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
+- [Grayscale tops $50 billion: ‘Will soon pass world’s largest commodity ETF’ - CoinTelegraph](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
 
 ### Ripple
 
