@@ -16,9 +16,11 @@ banner:
     link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
+
 ### All time High
 
 - [Bitcoin hits new all-time high above $63,000 ahead of Coinbase debut - Cnbc](https://www.cnbc.com/2021/04/13/bitcoin-hits-new-all-time-high-above-62000-ahead-of-coinbase-debut.html)
+- [Bitcoin Hits New High Ahead Of Coinbase Listing, But 74% Of Fund Managers Think It's Just A Bubble - Forbes](https://www.forbes.com/sites/jonathanponciano/2021/04/13/bitcoin-hits-new-high-ahead-of-coinbase-listing-but-74-of-fund-managers-think-its-just-a-bubble/?sh=598057256846)
 - [Ethereum Breaks $2,500 All-Time High - Cryptobriefing](https://cryptobriefing.com/ethereum-breaks-2500-all-time-high/)
 - [Dogecoin Price Doubles Overnight, Hits New All-Time High - Cryptobriefing](https://cryptobriefing.com/dogecoin-price-doubles-overnight-hits-new-all-time-high/)
 
@@ -27,13 +29,15 @@ banner:
 - [BlackRock CEO Sings Bitcoin’s Praises as Future ‘Great Asset Class’ - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
 - [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
 - [Goldman Sachs Keeping Close Eye on Bitcoin: CEO - Decrypt](https://decrypt.co/66546/goldman-sachs-bitcoin-ceo-earnings)
-- [ConsenSys closes $65 million funding round backed by JPMorgan, Mastercard and more - The Block Crypto](https://www.theblockcrypto.com/post/101463/consensys-closes-65-million-funding-round-backed-by-jpmorgan-mastercard-and-more)
+- [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others (Reuters)](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
 - [ConsenSys Wins JPMorgan, UBS Backing Amid Crypto Demand Surge - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-13/ethereum-blockchain-developer-consensys-raises-65-million)
 - [Tether on Tron Blockchain Hits $24B, Surpassing Ethereum Amid Explosive Stablecoin Demand - CoinDesk](https://www.coindesk.com/tether-tron-ethereum-stablecoin-flippening)
 - [US Sanctions Crypto Addresses Linked to Russian Election Fraud Scheme - CoinDesk](https://www.coindesk.com/us-government-sanctions-crypto-addresses-linked-to-russian-election-fraud-scheme)
 - [$623M in Bitcoin From 2016 Bitfinex Hack Moved Under Cover of COIN Hype - CoinDesk](https://www.coindesk.com/623m-in-bitcoin-from-2016-bitfinex-hack-moved-under-cover-of-coin-hype)
+- [Trade Stock Tokens on Binance (Binance)](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
 - [Binance launches tokenized stock trading, starts with Tesla - The Block Crypto](https://www.theblockcrypto.com/post/101335/binance-launches-tokenized-stock-trading-tesla)
 - [Turkey Bans the Use of Cryptocurrencies for Payments - Cryptobriefing](https://cryptobriefing.com/turkey-bans-use-cryptocurrencies-payments/)
+- [Revolut adds 11 crypto to Its trading offerings - The Daily Hodl](https://dailyhodl.com/2021/04/11/banking-app-revolut-abruptly-adds-cardano-uniswap-and-9-other-crypto-assets-to-their-platform/)
 
 ### Coinbase Listing
 
@@ -50,6 +54,8 @@ banner:
 - [Novogratz’s Galaxy Digital Joins Growing List of Bitcoin ETF Contenders - Decrypt](https://decrypt.co/66254/novogratz-galaxy-digital-bitcoin-etf)
 - [SEC Begins Review of WisdomTree Bitcoin ETF - CoinDesk](https://www.coindesk.com/sec-begins-review-of-wisdomtree-bitcoin-etf-as-total-number-of-applications-grows-to-8)
 - [German digital stock exchange will list physical Litecoin ETP - Business Insider](https://markets.businessinsider.com/currencies/news/german-digital-stock-exchange-will-list-physical-litecoin-etp-10008243)
+- [JPMorgan Says Bitcoin ETFs Could Shrink CME Futures Premium - CoinDesk](https://www.coindesk.com/jpmorgan-bitcoin-etfs-cme-futures-premium)
+- [Grayscale tops $50 billion: ‘Will soon pass world’s largest commodity ETF’ (CoinTelegraph)](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
 
 ### Ripple
 
@@ -73,6 +79,7 @@ banner:
 ### Tech
 
 - [Newsletters | Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
+- [Berlin Hard Fork Goes Live, Promises to Reduce Sky-High Ethereum Gas Costs - Decrypt](https://decrypt.co/66569/berlin-hard-fork-live-promises-reduce-sky-high-ethereum-fees)
 
 ### DGI
 
