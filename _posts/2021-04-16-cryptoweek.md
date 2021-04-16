@@ -29,12 +29,12 @@ banner:
 - [BlackRock CEO Sings Bitcoin’s Praises as Future ‘Great Asset Class’ - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
 - [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
 - [Goldman Sachs Keeping Close Eye on Bitcoin: CEO - Decrypt](https://decrypt.co/66546/goldman-sachs-bitcoin-ceo-earnings)
-- [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others (Reuters)](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
+- [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others - Reuters](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
 - [ConsenSys Wins JPMorgan, UBS Backing Amid Crypto Demand Surge - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-13/ethereum-blockchain-developer-consensys-raises-65-million)
 - [Tether on Tron Blockchain Hits $24B, Surpassing Ethereum Amid Explosive Stablecoin Demand - CoinDesk](https://www.coindesk.com/tether-tron-ethereum-stablecoin-flippening)
 - [US Sanctions Crypto Addresses Linked to Russian Election Fraud Scheme - CoinDesk](https://www.coindesk.com/us-government-sanctions-crypto-addresses-linked-to-russian-election-fraud-scheme)
 - [$623M in Bitcoin From 2016 Bitfinex Hack Moved Under Cover of COIN Hype - CoinDesk](https://www.coindesk.com/623m-in-bitcoin-from-2016-bitfinex-hack-moved-under-cover-of-coin-hype)
-- [Trade Stock Tokens on Binance (Binance)](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
+- [Trade Stock Tokens on Binance - Binance](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
 - [Binance launches tokenized stock trading, starts with Tesla - The Block Crypto](https://www.theblockcrypto.com/post/101335/binance-launches-tokenized-stock-trading-tesla)
 - [Turkey Bans the Use of Cryptocurrencies for Payments - Cryptobriefing](https://cryptobriefing.com/turkey-bans-use-cryptocurrencies-payments/)
 - [Revolut adds 11 crypto to Its trading offerings - The Daily Hodl](https://dailyhodl.com/2021/04/11/banking-app-revolut-abruptly-adds-cardano-uniswap-and-9-other-crypto-assets-to-their-platform/)
@@ -42,7 +42,7 @@ banner:
 ### Coinbase Listing
 
 - [Coinbase, la «Borsa» dei bitcoin vola al debutto poi rallenta - Il Sole24ore](https://www.ilsole24ore.com/art/coinbase-quotazione-storica-nasdaq-mondo-criptovalute-sbarca-wall-street-AE185w)
-- [Coinbase listing set to capitalise on crypto bull run- Financial Times](https://www.ft.com/content/06d98c02-f5da-45e8-a0f5-20e3bfd64879)
+- [Coinbase listing set to capitalise on crypto bull run - Financial Times](https://www.ft.com/content/06d98c02-f5da-45e8-a0f5-20e3bfd64879)
 - [Tremonti: Ipo di Coinbase? «Hanno quotato il nulla, certificato dal nulla» - Il Sole24ore](https://24plus.ilsole24ore.com/art/tremonti-l-ipo-coinbase-hanno-quotato-nulla-certificato-nulla-AE3jo1?s=hpl)
 - [Bitcoin: Coinbase rival Kraken may go public via direct listing - Cnbc](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)
 - [Bitcoin back above $60,000 as Coinbase is set for public debut - CNN](https://edition.cnn.com/2021/04/12/investing/bitcoin-prices-coinbase/index.html)
@@ -58,7 +58,7 @@ banner:
 - [SEC Begins Review of WisdomTree Bitcoin ETF - CoinDesk](https://www.coindesk.com/sec-begins-review-of-wisdomtree-bitcoin-etf-as-total-number-of-applications-grows-to-8)
 - [German digital stock exchange will list physical Litecoin ETP - Business Insider](https://markets.businessinsider.com/currencies/news/german-digital-stock-exchange-will-list-physical-litecoin-etp-10008243)
 - [JPMorgan Says Bitcoin ETFs Could Shrink CME Futures Premium - CoinDesk](https://www.coindesk.com/jpmorgan-bitcoin-etfs-cme-futures-premium)
-- [Grayscale tops $50 billion: ‘Will soon pass world’s largest commodity ETF’ (CoinTelegraph)](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
+- [Grayscale tops $50 billion: ‘Will soon pass world’s largest commodity ETF’ - CoinTelegraph](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
 
 ### Ripple
 
@@ -88,5 +88,6 @@ banner:
 
 - [Presentazione del report trimestrale del Digital Gold Institute](https://dgi.io/2021/04/15/comunicato-stampa.html)
 - [Bitcoin: come funzionano, i valori, i rischi e l'esperimento di Rovereto - Le iene](https://www.iene.mediaset.it/video/bitcoin-come-funzionano-i-valori-esperimento-di-rovereto_1031237.shtml)
+- [Bitcoin: secondo Dgi è tutt'altro che una bolla - We Wealth](https://www.we-wealth.com/it/news/fintech/blockchain/bitcoin-secondo-dgi-e-tuttaltro-che-una-bolla/)
 - [Events](https://dgi.io/events/)
 - [News](https://dgi.io/news/)
