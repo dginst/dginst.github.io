@@ -82,6 +82,7 @@ banner:
 
 
 Lucia
+
 - [Bitcoin Hits New High Ahead Of Coinbase Listing, But 74% Of Fund Managers Think It's Just A Bubble (Forbes)](https://www.forbes.com/sites/jonathanponciano/2021/04/13/bitcoin-hits-new-high-ahead-of-coinbase-listing-but-74-of-fund-managers-think-its-just-a-bubble/?sh=598057256846)
 - [JPMorgan Says Bitcoin ETFs Could Shrink CME Futures Premium (CoinDesk)](https://www.coindesk.com/jpmorgan-bitcoin-etfs-cme-futures-premium)
 - [Revolut adds 11 crypto to Its trading offerings (The Daily Hodl)](<https://dailyhodl.com/2021/04/11/banking-app-revolut-abruptly-adds-cardano-uniswap-and-9-other-crypto-assets-to-their-platform/>)
