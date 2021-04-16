@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: siJwCvgIgnk
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: 
@@ -23,21 +23,6 @@ banner:
 - [Bitcoin Hits New High Ahead Of Coinbase Listing, But 74% Of Fund Managers Think It's Just A Bubble - Forbes](https://www.forbes.com/sites/jonathanponciano/2021/04/13/bitcoin-hits-new-high-ahead-of-coinbase-listing-but-74-of-fund-managers-think-its-just-a-bubble/?sh=598057256846)
 - [Ethereum Breaks $2,500 All-Time High - Cryptobriefing](https://cryptobriefing.com/ethereum-breaks-2500-all-time-high/)
 - [Dogecoin Price Doubles Overnight, Hits New All-Time High - Cryptobriefing](https://cryptobriefing.com/dogecoin-price-doubles-overnight-hits-new-all-time-high/)
-
-### Ecosystem
-
-- [BlackRock CEO Sings Bitcoin’s Praises as Future ‘Great Asset Class’ - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
-- [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
-- [Goldman Sachs Keeping Close Eye on Bitcoin: CEO - Decrypt](https://decrypt.co/66546/goldman-sachs-bitcoin-ceo-earnings)
-- [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others - Reuters](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
-- [ConsenSys Wins JPMorgan, UBS Backing Amid Crypto Demand Surge - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-13/ethereum-blockchain-developer-consensys-raises-65-million)
-- [Tether on Tron Blockchain Hits $24B, Surpassing Ethereum Amid Explosive Stablecoin Demand - CoinDesk](https://www.coindesk.com/tether-tron-ethereum-stablecoin-flippening)
-- [US Sanctions Crypto Addresses Linked to Russian Election Fraud Scheme - CoinDesk](https://www.coindesk.com/us-government-sanctions-crypto-addresses-linked-to-russian-election-fraud-scheme)
-- [$623M in Bitcoin From 2016 Bitfinex Hack Moved Under Cover of COIN Hype - CoinDesk](https://www.coindesk.com/623m-in-bitcoin-from-2016-bitfinex-hack-moved-under-cover-of-coin-hype)
-- [Trade Stock Tokens on Binance - Binance](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
-- [Binance launches tokenized stock trading, starts with Tesla - The Block Crypto](https://www.theblockcrypto.com/post/101335/binance-launches-tokenized-stock-trading-tesla)
-- [Turkey Bans the Use of Cryptocurrencies for Payments - Cryptobriefing](https://cryptobriefing.com/turkey-bans-use-cryptocurrencies-payments/)
-- [Revolut adds 11 crypto to Its trading offerings - The Daily Hodl](https://dailyhodl.com/2021/04/11/banking-app-revolut-abruptly-adds-cardano-uniswap-and-9-other-crypto-assets-to-their-platform/)
 
 ### Coinbase Listing
 
@@ -60,12 +45,25 @@ banner:
 - [JPMorgan Says Bitcoin ETFs Could Shrink CME Futures Premium - CoinDesk](https://www.coindesk.com/jpmorgan-bitcoin-etfs-cme-futures-premium)
 - [Grayscale tops $50 billion: ‘Will soon pass world’s largest commodity ETF’ - CoinTelegraph](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
 
+### Ecosystem
+
+- [BlackRock CEO Sings Bitcoin’s Praises as Future ‘Great Asset Class’ - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
+- [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
+- [Goldman Sachs Keeping Close Eye on Bitcoin: CEO - Decrypt](https://decrypt.co/66546/goldman-sachs-bitcoin-ceo-earnings)
+- [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others - Reuters](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
+- [ConsenSys Wins JPMorgan, UBS Backing Amid Crypto Demand Surge - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-13/ethereum-blockchain-developer-consensys-raises-65-million)
+- [Tether on Tron Blockchain Hits $24B, Surpassing Ethereum Amid Explosive Stablecoin Demand - CoinDesk](https://www.coindesk.com/tether-tron-ethereum-stablecoin-flippening)
+- [US Sanctions Crypto Addresses Linked to Russian Election Fraud Scheme - CoinDesk](https://www.coindesk.com/us-government-sanctions-crypto-addresses-linked-to-russian-election-fraud-scheme)
+- [$623M in Bitcoin From 2016 Bitfinex Hack Moved Under Cover of COIN Hype - CoinDesk](https://www.coindesk.com/623m-in-bitcoin-from-2016-bitfinex-hack-moved-under-cover-of-coin-hype)
+- [Turkey Bans the Use of Cryptocurrencies for Payments - Cryptobriefing](https://cryptobriefing.com/turkey-bans-use-cryptocurrencies-payments/)
+- [Revolut adds 11 crypto to Its trading offerings - The Daily Hodl](https://dailyhodl.com/2021/04/11/banking-app-revolut-abruptly-adds-cardano-uniswap-and-9-other-crypto-assets-to-their-platform/)
+
 ### Ripple
 
 - [Ripple Moves to Dismiss SEC Lawsuit as XRP Price Hits Three-Year High - Decrypt](https://decrypt.co/66401/ripple-dismiss-sec-lawsuit-xrp-price)
 - [Ripple Stops SEC From Disclosing CEOs’ Financial Records to Public - Decrypt](https://decrypt.co/66090/ripple-stops-sec-from-disclosing-ceos-financial-records-to-public)
 
-### NTF
+### NFT
 
 - [NFT Investments raises £35m through London listing - The Block Crypto](https://www.theblockcrypto.com/linked/101458/nft-investments-raises-london-listing)
 - [NFTs Are the “Gateway Drug to Crypto,” Says CoinGecko - Cryptobriefing](https://cryptobriefing.com/nfts-are-gateway-drug-crypto-says-coingecko/)
@@ -74,20 +72,25 @@ banner:
 
 - [Bitcoin Crashes after Accident in Xinjiang, China Halts Mining Operation - Cryptobriefing](https://cryptobriefing.com/bitcoin-crashes-accident-xinjiang-china-halts-mining-operation/)
 
-### Blockchain
+### DeFi - CeFi
 
 - [CipherTrace Launches DeFi Compli, a Compliance Oracle Solution on Chainlink, to Enable DEXs and DeFi Protocols to Abide by OFAC Sanctions - Prweb](https://www.prweb.com/releases/ciphertrace_launches_defi_compli_a_compliance_oracle_solution_on_chainlink_to_enable_dexs_and_defi_protocols_to_abide_by_ofac_sanctions/prweb17854116.htm)
 - [CipherTrace's new tool lets DeFi protocols comply with OFAC sanctions - The Block Crypto](https://www.theblockcrypto.com/linked/101252/ciphertrace-software-defi-protocols-comply-ofac-sanctions)
+- [Trade Stock Tokens on Binance - Binance](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
+- [Binance launches tokenized stock trading, starts with Tesla - The Block Crypto](https://www.theblockcrypto.com/post/101335/binance-launches-tokenized-stock-trading-tesla)
 
 ### Tech
 
-- [Newsletters | Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
+- [Newsletters - Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
 - [Berlin Hard Fork Goes Live, Promises to Reduce Sky-High Ethereum Gas Costs - Decrypt](https://decrypt.co/66569/berlin-hard-fork-live-promises-reduce-sky-high-ethereum-fees)
 
-### DGI
+### DGI Report 2021Q1
 
 - [Presentazione del report trimestrale del Digital Gold Institute](https://dgi.io/2021/04/15/comunicato-stampa.html)
-- [Bitcoin: come funzionano, i valori, i rischi e l'esperimento di Rovereto - Le iene](https://www.iene.mediaset.it/video/bitcoin-come-funzionano-i-valori-esperimento-di-rovereto_1031237.shtml)
 - [Bitcoin: secondo Dgi è tutt'altro che una bolla - We Wealth](https://www.we-wealth.com/it/news/fintech/blockchain/bitcoin-secondo-dgi-e-tuttaltro-che-una-bolla/)
+
+### DGI Events
+
+- [Bitcoin: come funzionano, i valori, i rischi e l'esperimento di Rovereto - Le iene](https://www.iene.mediaset.it/video/bitcoin-come-funzionano-i-valori-esperimento-di-rovereto_1031237.shtml)
 - [Events](https://dgi.io/events/)
 - [News](https://dgi.io/news/)

@@ -57,7 +57,7 @@ banner:
 - [State Street May Start Trading Crypto on Platform It's Helping Build (CoinDesk)](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021){:target="_blank"}
 - [State Street to provide tech for cryptocurrency trading platform (Financial Times)](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe){:target="_blank"}
 
-### NTF
+### NFT
 
 - [Sotheby’s Embarks on NFTs With Digital Creator Pak’s ‘The Fungible Collection’ (Barron's)](https://www.barrons.com/articles/sothebys-embarks-on-nfts-with-digital-creator-paks-the-fungible-collection-01617739344){:target="_blank"}
 - [Luxury fashion brands poised to join the NFT party (Vogue Business)](https://www.voguebusiness.com/technology/luxury-fashion-brands-poised-to-join-the-nft-party){:target="_blank"}
