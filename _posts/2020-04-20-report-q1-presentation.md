@@ -32,7 +32,7 @@ dal nostro direttore [Ferdinando M. Ametrano](http://www.ametrano.net)
 ([slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf));
 [**Francesco Avella**](https://www.linkedin.com/in/francesco-avella-84b1a111/)
 managing partner di [Studio Avella](http://www.studioavella.it/),
-ha invece curato un approfondimento sugli adempimenti fiscali legati a bitcoin
+ha invece curato un approfondimento sugli adempimenti fiscali legati a Bitcoin
 nella dichiarazione dei redditi.
 
 Il report 2020-Q1 è disponibile [qui]({{site.baseurl}}/docs/reports/2020Q1.pdf), le precedenti edizioni sono consultabili nella pagina dedicata: [www.dgi.io/reports]({{site.baseurl}}/reports/).

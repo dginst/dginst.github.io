@@ -19,7 +19,7 @@ curato dal Digital Gold Institute (DGI).
 [Ferdinando M. Ametrano](https://ametrano.net/it/about/),
 Direttore Scientifico del DGI e docente di _Bitcoin and Blockchain Technology_ a Milano-Bicocca,
 commenterà il primo trimestre 2021 del mercato cripto,
-tra nuovi record del prezzo di bitcoin e
+tra nuovi record del prezzo di Bitcoin e
 l’ingresso dei principali player finanziari ed industriali statunitensi.
 Affronterà anche il fenomeno dei _token_ non fungibili (_non-fungible token_, NFT),
 della finanza decentralizzata (_decentralized finance_, DeFi)

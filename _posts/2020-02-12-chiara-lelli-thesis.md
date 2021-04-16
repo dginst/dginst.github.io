@@ -21,7 +21,7 @@ Durante la conferenza verrà premiata [**Chiara Lelli**](https://dgi.io/full-tea
 bando organizzato dal BEN in cui viene premiata la miglior tesi di laurea su blockchain e criptovalute.
 
  Il risultato raggiunto da Chiara Lelli, prima alumna del nostro centro di ricerca nel 2017,
- è conferma della lungimiranza della vision di Digital Gold Institute sull'ecosistema bitcoin e blockchain.
+ è conferma della lungimiranza della vision di Digital Gold Institute sull'ecosistema Bitcoin e blockchain.
  La tesi dal titolo "Schnorr signature: additivity and multisignature" è consultabile
  [qui](https://github.com/clelli/Schnorr/blob/master/tesi.pdf).
 

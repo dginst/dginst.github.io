@@ -30,7 +30,7 @@ Moderato da **Pierangelo Soldavini**, *Il Sole 24 Ore*, il webinar è stato cos�
 
 - Saluti introduttivi  
   **Fabrizio Spada**, *Ufficio del Parlamento europeo in Italia*
-- Le cripto-attività: bitcoin, blockchain e smart contracts  
+- Le cripto-attività: Bitcoin, blockchain e smart contracts  
   **Ferdinando M. Ametrano**, direttore scientifico del *Digital Gold Institute*
 - Digital Finance Package, posizione del Parlamento Europeo e degli enti regolatori  
   **Ugo Bassi**, *Commissione europea*  

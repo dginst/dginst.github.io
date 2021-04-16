@@ -23,12 +23,12 @@ Vi proponiamo di seguito due articoli che speriamo possano aiutarvi a fare chiar
 
 <https://www.focusrisparmio.com/news/bitcoin-lo-consiglieresti-al-tuo-cliente/>
 
-L'articolo pone l'accendo sul dibattito tra gli esperti, che sono divisi nel considerare bitcoin un asset alternativo per diversificare il rischio, oppure uno strumento speculativo. Tra gli altri, [Ferdinando M. Ametrano](https://ametrano.net/) presenta la vision DGI, basata sui risultati della ricerca interna.
+L'articolo pone l'accendo sul dibattito tra gli esperti, che sono divisi nel considerare Bitcoin un asset alternativo per diversificare il rischio, oppure uno strumento speculativo. Tra gli altri, [Ferdinando M. Ametrano](https://ametrano.net/) presenta la vision DGI, basata sui risultati della ricerca interna.
 
-#### **Perché il bitcoin ha quotazioni record e crescerà ancora**
+#### **Perché il Bitcoin ha quotazioni record e crescerà ancora**
 
 **Ferdinando M. Ametrano** su **Agenda Digitale**, 3 dicembre.
 
 <https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/perche-bitcoin-ha-quotazioni-record-e-crescera-ancora/>
 
-[Ferdinando M. Ametrano](https://ametrano.net/) presenta gli eventi principali per cui il trend di mercato è in crescita: "I bitcoin hanno valutazioni in forte crescita perché sono sempre più promossi e accettati dal _mainstream_ finanziario." Negli Usa esistono già mercati regolamentati di futures e opzioni, trust quotati, borse bitcoin che ottengono la licenza bancaria, banche commerciali che fanno custodia di asset digitali, PayPal che consente ai suoi utenti di comprare ed usare Bitcoin. L’Europa è ancora indietro, ma prova a recuperare. Il momento è ora.
+[Ferdinando M. Ametrano](https://ametrano.net/) presenta gli eventi principali per cui il trend di mercato è in crescita: "I Bitcoin hanno valutazioni in forte crescita perché sono sempre più promossi e accettati dal _mainstream_ finanziario." Negli Usa esistono già mercati regolamentati di futures e opzioni, trust quotati, borse Bitcoin che ottengono la licenza bancaria, banche commerciali che fanno custodia di asset digitali, PayPal che consente ai suoi utenti di comprare ed usare Bitcoin. L’Europa è ancora indietro, ma prova a recuperare. Il momento è ora.
