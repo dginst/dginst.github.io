@@ -1,3 +1,26 @@
+- title: "Presentazione Report 2021-Q2"
+  subtitle: "Il report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain."
+  lang: it
+  city: online
+  date: 2021-07-14
+  date2:
+  hours: 17:30-19:00
+  organizer: Digital Gold Institute
+  address: 
+    text: live streaming
+    url: https://www.youtube.com/
+  info:
+    text: i dettagli saranno co
+    url: 
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210714-2021Q2-report.jpg
+    size: 200
+    thumb: 20210714-2021Q2-report-thumb.jpg
+  eventfeed: true
+  published: true
+  
 - title: "Bitcoin & Blockchain"
   subtitle: Training su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract, crittografia; analisi e applicazioni per i protagonisti di industria e informazione.
   lang: it
