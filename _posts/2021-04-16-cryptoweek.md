@@ -16,6 +16,7 @@ banner:
     link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
+
 ### All time High
 
 - [Bitcoin hits new all-time high above $63,000 ahead of Coinbase debut - Cnbc](https://www.cnbc.com/2021/04/13/bitcoin-hits-new-all-time-high-above-62000-ahead-of-coinbase-debut.html)
@@ -78,3 +79,29 @@ banner:
 
 - [Presentazione del report trimestrale del Digital Gold Institute](https://dgi.io/2021/04/15/comunicato-stampa.html)
 - [Events](https://dgi.io/events/)
+
+
+Lucia
+- [Bitcoin Hits New High Ahead Of Coinbase Listing, But 74% Of Fund Managers Think It's Just A Bubble (Forbes)](https://www.forbes.com/sites/jonathanponciano/2021/04/13/bitcoin-hits-new-high-ahead-of-coinbase-listing-but-74-of-fund-managers-think-its-just-a-bubble/?sh=598057256846)
+- [JPMorgan Says Bitcoin ETFs Could Shrink CME Futures Premium (CoinDesk)](https://www.coindesk.com/jpmorgan-bitcoin-etfs-cme-futures-premium)
+- [Revolut adds 11 crypto to Its trading offerings (The Daily Hodl)](<https://dailyhodl.com/2021/04/11/banking-app-revolut-abruptly-adds-cardano-uniswap-and-9-other-crypto-assets-to-their-platform/>)
+- [Trade Stock Tokens on Binance (Binance)](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
+- [Brevan Howard’s Hedge Fund to Start Buying Cryptocurrencies (Bloomberg)](https://www.bloomberg.com/news/articles/2021-04-15/brevan-howard-s-main-hedge-fund-to-start-buying-cryptocurrencies)
+- [EU’s Investment Bank Poised to Deploy Blockchain for Bond Sale (Bloomberg)](https://www.bloomberg.com/news/articles/2021-04-13/eu-s-investment-bank-poised-to-deploy-blockchain-for-bond-sale)
+- [Ripple: ai massimi da tre anni, causa contro la Sec volge a favore (Wall Street Italia)](https://www.wallstreetitalia.com/ripple-sec/)
+- Berlin Hard Fork Is Now Live on Ethereum
+- [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others (Reuters)](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
+- [Berlin Hard Fork Goes Live, Promises to Reduce Sky-High Ethereum Gas Costs (Decrypt)](https://decrypt.co/66569/berlin-hard-fork-live-promises-reduce-sky-high-ethereum-fees)
+- [Insurance giant AXA Switzerland now allows customers to pay premiums in bitcoin (The Block Crypto)](https://www.theblockcrypto.com/linked/101751/insurance-giant-axa-switzerland-allows-bitcoin-btc-payments)
+- [Grayscale tops $50 billion: ‘Will soon pass world’s largest commodity ETF’ (CoinTelegraph)](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
+- [Rothschild Investment Buys $4.75M Initial Stake in Grayscale Ethereum Trust (CoinDesk)](https://www.coindesk.com/rothschild-investment-buys-4-75m-initial-stake-in-grayscale-ethereum-trust)
+
+
+
+Francesco
+- [Turkey Bans the Use of Cryptocurrencies for Payments (Cryptobriefing)](https://cryptobriefing.com/turkey-bans-use-cryptocurrencies-payments/)
+- [Ethereum Breaks $2,500 All-Time High (Cryptobriefing)](https://cryptobriefing.com/ethereum-breaks-2500-all-time-high/)
+- [BlackRock CEO “Fascinated” by Bitcoin, Watching Closely (Cryptobriefing)](https://cryptobriefing.com/blackrock-ceo-fascinated-bitcoin-watching-closely/)
+- [NFTs Are the “Gateway Drug to Crypto,” Says CoinGecko (Cryptobriefing)](https://cryptobriefing.com/nfts-are-gateway-drug-crypto-says-coingecko/)
+- [Dogecoin Price Doubles Overnight, Hits New All-Time High (Cryptobriefing)](https://cryptobriefing.com/dogecoin-price-doubles-overnight-hits-new-all-time-high/)
+- [Bitcoin Crashes after Accident in Xinjiang, China Halts Mining Operation (Cryptobriefing)](https://cryptobriefing.com/bitcoin-crashes-accident-xinjiang-china-halts-mining-operation/)
