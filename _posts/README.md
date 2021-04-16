@@ -7,6 +7,8 @@ permalink: /cryptoweekinternal/
 
 ## Prima di ogni CryptoWeek
 
+* YouTube: aggiungere il video alla playlist CryptoWeek,
+  così che sia il video linkato da https://dgi.io/cryptoweek
 * Streamyard: verificare contenuti banner
 * Facebook: pubblicizzare la pagina dgi.io/cryptoweek
 * Facebook: promuovere il live Fb
@@ -27,10 +29,11 @@ permalink: /cryptoweekinternal/
 ## Dopo il CryptoWeek
 
 * Streamyard: estrarre podcast e caricarlo sulla piattaforma podcast
-* Streamyard: creare nuovo broadcast per la settimana successiva "CryptoWeek #10 (16 aprile 2021)"
-* Streamyard: nuovo broadcast con foto thumb specific date
+* Streamyard: creare nuovo broadcast per la settimana successiva
+  CryptoWeek #12 (30 aprile 2021
+  con foto thumb specific date
 * YouTube: marcare in nuovo prossimo livestream "contenuto sponsorizzato"
-* YouTube: aggiungere il video alla playlist "cryptoweek"
+* YouTube: NON aggiungere il video alla playlist "cryptoweek"
 * Linkedin: creare evento collegato al live youtube
 * Website: creare il post del cryptoweek della settimana successiva (published: false, cryptoweek: true, incrementare il #, metere il link YouTube corretto)
 * Website: inserire il link podcast del cyptoweek appena concluso
