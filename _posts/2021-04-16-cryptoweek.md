@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: siJwCvgIgnk
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: 
@@ -17,7 +17,7 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-### All time High
+### All-Time High
 
 - [Bitcoin hits new all-time high above $63,000 ahead of Coinbase debut - Cnbc](https://www.cnbc.com/2021/04/13/bitcoin-hits-new-all-time-high-above-62000-ahead-of-coinbase-debut.html)
 - [Bitcoin Hits New High Ahead Of Coinbase Listing, But 74% Of Fund Managers Think It's Just A Bubble - Forbes](https://www.forbes.com/sites/jonathanponciano/2021/04/13/bitcoin-hits-new-high-ahead-of-coinbase-listing-but-74-of-fund-managers-think-its-just-a-bubble/?sh=598057256846)
@@ -48,8 +48,8 @@ banner:
 ### Ecosystem
 
 - [BlackRock CEO Sings Bitcoin’s Praises as Future ‘Great Asset Class’ - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
-- [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
 - [Goldman Sachs Keeping Close Eye on Bitcoin: CEO - Decrypt](https://decrypt.co/66546/goldman-sachs-bitcoin-ceo-earnings)
+- [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
 - [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others - Reuters](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
 - [ConsenSys Wins JPMorgan, UBS Backing Amid Crypto Demand Surge - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-13/ethereum-blockchain-developer-consensys-raises-65-million)
 - [Tether on Tron Blockchain Hits $24B, Surpassing Ethereum Amid Explosive Stablecoin Demand - CoinDesk](https://www.coindesk.com/tether-tron-ethereum-stablecoin-flippening)
@@ -66,7 +66,6 @@ banner:
 ### NFT
 
 - [NFT Investments raises £35m through London listing - The Block Crypto](https://www.theblockcrypto.com/linked/101458/nft-investments-raises-london-listing)
-- [NFTs Are the “Gateway Drug to Crypto,” Says CoinGecko - Cryptobriefing](https://cryptobriefing.com/nfts-are-gateway-drug-crypto-says-coingecko/)
 
 ### Mining
 
@@ -81,7 +80,7 @@ banner:
 
 ### Tech
 
-- [Newsletters - Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
+- [Newsletters - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/04/14/)
 - [Berlin Hard Fork Goes Live, Promises to Reduce Sky-High Ethereum Gas Costs - Decrypt](https://decrypt.co/66569/berlin-hard-fork-live-promises-reduce-sky-high-ethereum-fees)
 
 ### DGI Report 2021Q1
