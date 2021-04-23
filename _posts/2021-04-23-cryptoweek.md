@@ -16,6 +16,7 @@ banner:
     link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
+
 Lucia
 
 - [Coinbase CEO Sold $291.8M in Shares on Opening Day - Coindesk](https://www.coindesk.com/coinbase-ceo-sold-291-8m-in-shares-on-opening-day)
