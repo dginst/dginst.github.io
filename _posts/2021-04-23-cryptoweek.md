@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #10"
+title: "CryptoWeek #11"
 subtitle: "Il commento alle news della settimana" 
 author: "Staff"
 image:
@@ -26,9 +26,9 @@ banner:
 ### Alts
 
 - [Bitcoin Dominance Ratio Below 50% as Ether Hits Record High - CoinDesk](https://www.coindesk.com/bitcoin-dominance-below-50-percent)
-- [Dogecoin Price | DOGE Price Index and Live Chart – CoinDesk](https://www.coindesk.com/price/dogecoin)
-- [Dogecoin cryptocurrency slumps after hashtag-fueled surge to record high | Reuters](https://www.reuters.com/technology/dogeday-hashtags-help-meme-based-cryptocurrency-dogecoin-hit-new-high-2021-04-20/)
-- [Dogecoin, che succede? Ametrano: «È il LOL del mondo crypto»](https://smartmoney.startupitalia.eu/economy/67969-20210421-dogecoin-che-succede-ametrano-checksig-e-il-lol-del-mondo-crypto)
+- [Dogecoin Price, DOGE Price Index and Live Chart – CoinDesk](https://www.coindesk.com/price/dogecoin)
+- [Dogecoin cryptocurrency slumps after hashtag-fueled surge to record high - Reuters](https://www.reuters.com/technology/dogeday-hashtags-help-meme-based-cryptocurrency-dogecoin-hit-new-high-2021-04-20/)
+- [Dogecoin, che succede? Ametrano: «È il LOL del mondo crypto» - Smartmoney](https://smartmoney.startupitalia.eu/economy/67969-20210421-dogecoin-che-succede-ametrano-checksig-e-il-lol-del-mondo-crypto)
 - [Trust in Tether Returns After Coinbase Pro Lists USDT - Cryptobriefing](https://cryptobriefing.com/trust-tether-returns-coinbase-pro-lists-usdt/)
 - [Robert Miller on Twitter: "An Ethereum Uncle Bandit strikes again" - Twitter](https://twitter.com/bertcmiller/status/1385294417091760134)
 - [Unmasking the Ethereum Uncle Bandit, by Elan Halpern - Medium](https://medium.com/alchemy-api/unmasking-the-ethereum-uncle-bandit-a2b3eb694019)
@@ -59,7 +59,7 @@ banner:
 
 - [The SEC’s Cryptocurrency Confusion - WSJ](https://www.wsj.com/articles/the-secs-cryptocurrency-confusion-11618611723)
 - [U.S. House Passes Bill To Create First Crypto Task Force On Digital Assets - Forbes](https://www.forbes.com/sites/jasonbrett/2021/04/22/us-house-passes-bill-to-create-first-crypto-task-force-on-digital-assets/)
-- [202104 FATF Consultation on VA GDF Response FINAL](https://www.gdf.io/wp-content/uploads/2021/04/FATF-Consultation-on-VA-GDF-Response-FINAL.pdf)
+- [202104 FATF Consultation on VA GDF Response FINAL - GDF](https://www.gdf.io/wp-content/uploads/2021/04/FATF-Consultation-on-VA-GDF-Response-FINAL.pdf)
 
 ### CBDC
 
@@ -86,5 +86,10 @@ banner:
 ### Tech
 
 - [Bitcoin Optech Newsletter #145](https://bitcoinops.org/en/newsletters/2021/04/21/)
-- [There Are Now Two Taproot Activation Clients, Here’s Why | Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/there-are-now-two-taproot-activation-clients-heres-why)
+- [There Are Now Two Taproot Activation Clients, Here’s Why. Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/there-are-now-two-taproot-activation-clients-heres-why)
 - [Investment under a Bitcoin Standard. Bitcoin Tech Talk #236 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/investment-under-a-bitcoin-standard)
+
+### DGI Events
+
+- [Events](https://dgi.io/events/)
+- [News](https://dgi.io/news/)
