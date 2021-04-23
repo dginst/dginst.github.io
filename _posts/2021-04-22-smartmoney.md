@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-Questa **criptomoneta meme** era nata per scherzo: il suo valore è sì salito di oltre il 500% nell’ultimo mese, ma il confronto con bitcoin, la criptomoneta per eccellenza, è ancora impietoso.
+Questa criptomoneta meme era nata per scherzo: il suo valore è sì salito di oltre il 500% nell’ultimo mese, ma il confronto con bitcoin, la criptomoneta per eccellenza, è ancora impietoso.
 
 [Alessandro di Stefano](https://twitter.com/Distefanoale90) affronta le (enormi) differenze di Dogecoin rispetto a Bitcoin con [Ferdinando Ametrano](http://ametrano.net/) nell'articolo [Dogecoin, che succede? Ametrano (CheckSig): «È il LOL del mondo crypto»](https://smartmoney.startupitalia.eu/economy/67969-20210421-dogecoin-che-succede-ametrano-checksig-e-il-lol-del-mondo-crypto) pubblicato ieri su Smartmoney, rubrica del magazine [StartupItalia](https://startupitalia.eu/):
 
