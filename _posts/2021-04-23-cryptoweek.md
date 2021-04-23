@@ -23,7 +23,7 @@ banner:
 - [Bitcoin sinks below $50,000 as cryptos stumble over Biden tax plans - Reuters](https://www.reuters.com/business/bitcoin-sinks-below-50000-cryptos-stumble-over-biden-tax-plans-2021-04-23/)
 - [How Accidents in Chinese Coal Mines Are Affecting Bitcoin Mining - CoinDesk](https://www.coindesk.com/chinese-coal-mines-accidents-affecting-bitcoin-mining)
 
-### Alts
+### Altcoins
 
 - [Bitcoin Dominance Ratio Below 50% as Ether Hits Record High - CoinDesk](https://www.coindesk.com/bitcoin-dominance-below-50-percent)
 - [DOGE Price Index and Live Chart – CoinDesk](https://www.coindesk.com/price/dogecoin)
@@ -45,7 +45,7 @@ banner:
 ### Exchanges
 
 - [Coinbase CEO Sold $291.8M in Shares on Opening Day - Coindesk](https://www.coindesk.com/coinbase-ceo-sold-291-8m-in-shares-on-opening-day)
-- [Coinbase e Wall Street: è tutto oro digitale quel che luccica? - DGI](https://dgi.io/2021/04/21/rai-news.html)
+- [Coinbase e Wall Street: è tutto oro digitale quel che luccica? - RaiNews24](https://dgi.io/2021/04/21/rai-news.html)
 - [Deutsche Boerse to delist Coinbase from Xetra and Frankfurt trade - Nasdaq](https://www.nasdaq.com/articles/deutsche-boerse-to-delist-coinbase-from-xetra-and-frankfurt-trade-2021-04-21)
 - [Binance May Face Investigation by European Regulators for Offering Stock Tokens - CoinMarketCap](https://coinmarketcap.com/it/headlines/news/binance-may-face-investigation-european-regulators-offering-stock-tokens/)
 - [Binance's Tesla and Coinbase Stock Tokens Attract Regulatory Scrutiny - Decrypt](https://decrypt.co/68748/binances-tesla-and-coinbase-stock-tokens-attract-regulatory-scrutiny)
@@ -77,7 +77,7 @@ banner:
 - [Time Magazine now accepts bitcoin and other cryptocurrencies for subscriptions - The block crypto](https://www.theblockcrypto.com/linked/102166/time-magazine-bitcoin-digital-subscription-payments)
 - [Bitcoin vs Gold: The Great Debate with Michael Saylor and Frank Giustra - YouTube](https://www.youtube.com/watch?v=coHC_9ApBdg)
 
-### Environmental sustainability
+### Environmental Sustainability
 
 - [Ark Investment Makes Its Case for a Greener Bitcoin - Cryptobriefing](https://cryptobriefing.com/ark-investment-makes-its-case-greener-bitcoin/)
 - [Square Defends Bitcoin as ‘Green’ - Citi Disagrees - Decrypt](https://decrypt.co/68777/square-ark-defend-bitcoin-as-green-citi-disagrees)
