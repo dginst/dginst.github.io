@@ -63,7 +63,7 @@ banner:
 
 ### CBDC
 
-- [Bank of England statement on Central Bank Digital Currency - Bank if England](https://www.bankofengland.co.uk/news/2021/april/bank-of-england-statement-on-central-bank-digital-currency)
+- [Bank of England statement on Central Bank Digital Currency - Bank of England](https://www.bankofengland.co.uk/news/2021/april/bank-of-england-statement-on-central-bank-digital-currency)
 - [Bank of England and HM Treasury Launch Taskforce for UK CBDC - Coindesk](https://www.coindesk.com/bank-of-england-and-hm-treasury-launch-taskforce-for-uk-cbdc)
 
 ### Ecosystem
