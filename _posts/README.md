@@ -29,15 +29,15 @@ permalink: /cryptoweekinternal/
 
 * Streamyard: estrarre podcast e caricarlo sulla piattaforma podcast
 * Streamyard: creare nuovo broadcast per la settimana successiva
-  CryptoWeek #12 (30 aprile 2021)
+  CryptoWeek #13 (7 maggio 2021) Ferdinando M. Ametrano commenta le notizie della settimana in ambito bitcoin, crypto-asset e blockchain, rispondendo anche alle domande del pubblico. www.dgi.io/cryptoweek
   con foto thumb specific date
 * YouTube: marcare in nuovo prossimo livestream "contenuto sponsorizzato"
 * YouTube: marcare il nuovo prossimo livestream "non adatto ai bambini"
 * YouTube: NON aggiungere il video alla playlist "cryptoweek"
-* Linkedin: creare evento collegato al live youtube
-* Website: creare il post del cryptoweek della settimana successiva (published: false, cryptoweek: true, incrementare il #, metere il link YouTube corretto)
+* Website: creare il post del cryptoweek della settimana successiva (published: false, cryptoweek: true, incrementare il #, mettere il link YouTube corretto)
 * Website: inserire il link podcast del cyptoweek appena concluso
 * Linkedin: creare un evento per il cryptoweek della settimana successiva
+* Linkedin: creare evento collegato al live youtube
 
 ## Sabato mattina
 
