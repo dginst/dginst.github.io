@@ -29,7 +29,7 @@ permalink: /cryptoweekinternal/
 
 * Streamyard: estrarre podcast e caricarlo sulla piattaforma podcast
 * Streamyard: creare nuovo broadcast per la settimana successiva
-  CryptoWeek #12 (30 aprile 2021
+  CryptoWeek #12 (30 aprile 2021)
   con foto thumb specific date
 * YouTube: marcare in nuovo prossimo livestream "contenuto sponsorizzato"
 * YouTube: marcare il nuovo prossimo livestream "non adatto ai bambini"
