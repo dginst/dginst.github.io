@@ -28,7 +28,7 @@ banner:
 - [Bitcoin Dominance Ratio Below 50% as Ether Hits Record High - CoinDesk](https://www.coindesk.com/bitcoin-dominance-below-50-percent)
 - [DOGE Price Index and Live Chart – CoinDesk](https://www.coindesk.com/price/dogecoin)
 - [Dogecoin cryptocurrency slumps after hashtag-fueled surge to record high - Reuters](https://www.reuters.com/technology/dogeday-hashtags-help-meme-based-cryptocurrency-dogecoin-hit-new-high-2021-04-20/)
-- [Dogecoin, che succede? Ametrano: «È il LOL del mondo crypto»](https://smartmoney.startupitalia.eu/economy/67969-20210421-dogecoin-che-succede-ametrano-checksig-e-il-lol-del-mondo-crypto)
+- [Dogecoin, che succede? Ametrano: «È il LOL del mondo crypto» - Smartmoney](https://smartmoney.startupitalia.eu/economy/67969-20210421-dogecoin-che-succede-ametrano-checksig-e-il-lol-del-mondo-crypto)
 - [Trust in Tether Returns After Coinbase Pro Lists USDT - Cryptobriefing](https://cryptobriefing.com/trust-tether-returns-coinbase-pro-lists-usdt/)
 - [Robert Miller on Twitter: "An Ethereum Uncle Bandit strikes again" - Twitter](https://twitter.com/bertcmiller/status/1385294417091760134)
 - [Unmasking the Ethereum Uncle Bandit, by Elan Halpern - Medium](https://medium.com/alchemy-api/unmasking-the-ethereum-uncle-bandit-a2b3eb694019)
