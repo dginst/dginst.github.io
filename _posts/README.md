@@ -23,7 +23,6 @@ permalink: /cryptoweekinternal/
 * Streamyard: selezionare domande e comunicare il numero a Ferdinando
 * Facebook: commento DGI 'raccogliamo domande'
 * YouTube: commento DGI 'raccogliamo domande'
-* Linkedin: pubblicare screenshot
 * Twitter: pubblicare link YouTube
 
 ## Dopo il CryptoWeek
@@ -33,10 +32,12 @@ permalink: /cryptoweekinternal/
   CryptoWeek #12 (30 aprile 2021
   con foto thumb specific date
 * YouTube: marcare in nuovo prossimo livestream "contenuto sponsorizzato"
+* YouTube: marcare il nuovo prossimo livestream "non adatto ai bambini"
 * YouTube: NON aggiungere il video alla playlist "cryptoweek"
 * Linkedin: creare evento collegato al live youtube
 * Website: creare il post del cryptoweek della settimana successiva (published: false, cryptoweek: true, incrementare il #, metere il link YouTube corretto)
 * Website: inserire il link podcast del cyptoweek appena concluso
+* Linkedin: creare un evento per il cryptoweek della settimana successiva
 
 ## Sabato mattina
 
