@@ -81,13 +81,13 @@ banner:
 
 - [Ark Investment Makes Its Case for a Greener Bitcoin - Cryptobriefing](https://cryptobriefing.com/ark-investment-makes-its-case-greener-bitcoin/)
 - [Square Defends Bitcoin as ‘Green’ - Citi Disagrees - Decrypt](https://decrypt.co/68777/square-ark-defend-bitcoin-as-green-citi-disagrees)
-- [BCEI_White_Paper.pdf](https://assets.ctfassets.net/2d5q1td6cyxq/5mRjc9X5LTXFFihIlTt7QK/e7bcba47217b60423a01a357e036105e/BCEI_White_Paper.pdf)
+- [Bitcoin is Key to an Abundant, Clean Energy Future - BCEI White Paper](https://assets.ctfassets.net/2d5q1td6cyxq/5mRjc9X5LTXFFihIlTt7QK/e7bcba47217b60423a01a357e036105e/BCEI_White_Paper.pdf)
 
 ### Tech
 
 - [Bitcoin Optech Newsletter #145](https://bitcoinops.org/en/newsletters/2021/04/21/)
-- [There Are Now Two Taproot Activation Clients, Here’s Why - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides - Bitcoinmagazine](https://bitcoinmagazine.com/technical/there-are-now-two-taproot-activation-clients-heres-why)
-- [Investment under a Bitcoin Standard. Bitcoin Tech Talk #236 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/investment-under-a-bitcoin-standard)
+- [There Are Now Two Taproot Activation Clients, Here’s Why - Bitcoin Magazine](https://bitcoinmagazine.com/technical/there-are-now-two-taproot-activation-clients-heres-why)
+- [Investment under a Bitcoin Standard - Bitcoin Tech Talk #236](https://jimmysong.substack.com/p/investment-under-a-bitcoin-standard)
 
 ### DGI Events
 
