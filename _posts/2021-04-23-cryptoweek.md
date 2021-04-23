@@ -36,6 +36,19 @@ Lucia
 - [State Lawmaker Explains Wyoming’s Newly Passed DAO LLC Law - Coindesk](https://www.coindesk.com/wyoming-dao-llc-law-passed)
 - [Tiger Global Makes $25 Million Bet on Indian Crypto Exchange - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-22/tiger-global-makes-25-million-bet-on-indian-crypto-exchange)
 
+Francesco
+
+- [Turkish Crypto Exchange Thodex Charged With $2 Billion Fraud - Cryptobriefing](https://cryptobriefing.com/turkish-crypto-exchange-thodex-charged-2-billion-fraud/)
+- [Ark Investment Makes Its Case for a Greener Bitcoin - Cryptobriefing](https://cryptobriefing.com/ark-investment-makes-its-case-greener-bitcoin/)
+- [Trust in Tether Returns After Coinbase Pro Lists USDT - Cryptobriefing](https://cryptobriefing.com/trust-tether-returns-coinbase-pro-lists-usdt/)
+- [SEC Says Ripple Harassed It Over Court Documents - Cryptobriefing](https://cryptobriefing.com/sec-says-ripple-harassed-it-over-court-documents/)
+- [Seoul Seizes Tax Dodgers’ Crypto From Exchanges: Report - Coindesk](https://www.coindesk.com/south-korea-taxex-seize-crypto-exchanges)
+- [Canada’s 4th Ether ETF, From 3iQ and CoinShares, Begins Trading on the TSX - Coindesk](https://www.coindesk.com/canada-4th-ether-etf-3iq-coinshares-begins-trading-tsx)
+- [21Shares Launching Stellar and Cardano ETPs on SIX Exchange - Coindesk](https://www.coindesk.com/21shares-launching-stellar-and-cardano-etps-on-six-exchange)
+- [Morgan Stanley Bitcoin Fund Draws $29.4M in 2 Weeks, Filings Show - Coindesk](https://www.coindesk.com/morgan-stanley-bitcoin-fund-draws-29-4m-in-2-weeks-filings-show)
+- [Signature Bank Goes Head-to-Head With Silvergate in Bitcoin-Backed Lending - Coindesk](https://www.coindesk.com/signature-bank-goes-head-to-head-with-silvergate-in-bitcoin-backed-lending)
+
+
 ### All-Time High
 
 ### Coinbase Listing
