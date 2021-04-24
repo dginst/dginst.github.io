@@ -16,7 +16,7 @@
     main: 2021-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
-  eventfeed: false
+  eventfeed: true
   published: true
   
   - title: "Presentazione Report 2021-Q2"
