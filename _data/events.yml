@@ -1,4 +1,25 @@
-- title: "Presentazione Report 2021-Q2"
+- title: "CryptoWeek #12"
+  subtitle: Il commento alle news della settimana
+  lang: it
+  city: online
+  date: 2021-04-30
+  date2:
+  hours: 18:00-18:45
+  organizer: Digital Gold Institute
+  address: live streaming
+  info:
+    text: connessione e playlist completa
+    url: https://dgi.io/cryptoweek
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 2021-cryptoweek.jpg
+    size: 200
+    thumb: cryptoweek-thumb.jpg
+  eventfeed: true
+  published: true
+  
+  - title: "Presentazione Report 2021-Q2"
   subtitle: "Il report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain."
   lang: it
   city: online
