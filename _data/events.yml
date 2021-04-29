@@ -16,9 +16,30 @@
     main: 2021-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
-  
+
+- title: "Validazione temporale a lungo termine e Blockchain"
+  subtitle: "Un confronto tra Emanuele Cisbani e Ferdinando M. Ametrano sugli sviluppi tecnologici del settore"
+  lang: it
+  city: online
+  date: 2021-05-27
+  date2:
+  hours: 
+  organizer: INTESI GROUP
+  address: webinar
+  info:
+    text: Presto disponibili
+    url: 
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210527-webinar.jpg
+    size: 200
+    thumb: 20210527-webinar-thumb.png
+  eventfeed: true
+  published: true  
+
 - title: "Presentazione Report 2021-Q2"
   subtitle: "Il report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain."
   lang: it
