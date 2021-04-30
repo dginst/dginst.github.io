@@ -33,6 +33,8 @@ LUCIA
 - [Cryptocurrency Tax Data Requests: It’s Easier To Go Fishing In Canada - Forbes](https://www.forbes.com/sites/taxnotes/2021/04/29/cryptocurrency-tax-data-requests-its-easier-to-go-fishing-in-canada/?sh=3a63b70c2fd5)
 - [Coinbase Pairs With PayPal To Enable Easy Crypto Purchases - Bitcoinist](https://bitcoinist.com/coinbase-pairs-with-paypal-to-enable-easy-crypto-purchases/)
 - [Tether’s reserves are fully backed, according to latest assurance opinion - Cointelegraph](https://cointelegraph.com/news/tether-s-reserves-are-fully-backed-according-to-latest-assurance-opinion)
+-[Historic First San Francisco Bitcoin House, 20Mission, to Auction NFT Lease for 75 years Turnkey Co-Living Spaces in the Heart of Silicon Valley's Startup Community go for $1 per month, all utilities and property taxes included](https://financialpost.com/globe-newswire/historic-first-san-francisco-bitcoin-house-20mission-to-auction-nft-lease-for-75-years-turnkey-co-living-spaces-in-the-heart-of-silicon-valleys-startup-community-go-for-1-per-month-all-utilitie)
+- [Why bitcoin? Here’s why. - The Washington Post](https://www.washingtonpost.com/opinions/letters-to-the-editor/why-bitcoin-heres-why/2021/04/25/a5c2de22-a207-11eb-b314-2e993bd83e31_story.html)
 
 FRANCESCO
 
@@ -45,3 +47,6 @@ FRANCESCO
 - [Proposed Legislation in Germany Could Allow $425B to Flow Into Crypto: Report - Coindesk](https://www.coindesk.com/proposed-legislation-in-germany-could-allow-425b-to-flow-into-crypto-report)
 - [Commerzbank, Deutsche Börse Team Up for Tokenized Real Estate and Art Marketplace - Coindesk](https://www.coindesk.com/commerzbank-deutsche-borse-tokenized-real-estate-art-marketplace)
 - [Paxos Raises $300M, Joins Crypto Unicorn Club at $2.4B Valuation - Coindesk](https://www.coindesk.com/paxos-raises-300m-joins-crypto-unicorn-club-at-2-4b-valuation)
+
+### Regulation
+- [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Comunicato stampa](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
