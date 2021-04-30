@@ -21,7 +21,8 @@ banner:
 ### Market
 
 - [Behind Bitcoin’s Recent Slide: Imploding Bets and Forced Liquidations - WSJ](https://www.wsj.com/articles/behind-bitcoins-weekend-slide-imploding-bets-and-forced-liquidations-11619170201?mod=e2tw)
-- [Ethereum jumps to record high on report of EIB digital bond issuance - Reuters](https://www.reuters.com/technology/digital-currency-ether-hits-record-high-2021-04-27/)
+- [Ethereum jumps to record high on report of EIB digital bond issuance | Reuters](https://www.reuters.com/technology/digital-currency-ether-hits-record-high-2021-04-27/)
+- [Ethereum (ETH) price hits record high, stealing bitcoin's limelight](https://www.cnbc.com/2021/04/29/bitcoin-btc-ethereum-eth-cryptocurrency-price-hits-record-high.html)
 - [Nexon Purchases $100 Million Worth of Bitcoin - Twitter](https://twitter.com/DocumentingBTC/status/1387385096819326979/photo/1)
 - [JPMorgan to Let Clients Invest in Bitcoin Fund for First Time: Sources - CoinDesk](https://www.coindesk.com/jpmorgan-to-let-clients-invest-in-bitcoin-fund-for-first-time-sources)
 - [GrayScale Bitcoin Trust (GBTC) Premium Tanks to -19% As More Competition Weighs - Bitcoininst](https://bitcoinist.com/grayscale-bitcoin-trust-gbtc-premium-tanks-to-19-as-more-competition-weighs-in/)
@@ -29,15 +30,13 @@ banner:
 ### Altcoins
 
 - [Commerzbank, Deutsche Börse Team Up for Tokenized Real Estate and Art Marketplace - Coindesk](https://www.coindesk.com/commerzbank-deutsche-borse-tokenized-real-estate-art-marketplace)
-- [Introducing Binance NFT, A Groundbreaking NFT Marketplace Launching June 2021 - Binance Blog](https://www.binance.com/en/blog/421499824684901995/Introducing-Binance-NFT-A-Groundbreaking-NFT-Marketplace-Launching-June-2021)
-- [Ripple wants go public after settling SEC lawsuit, SBI CEO says](https://cointelegraph.com/news/ripple-wants-go-public-after-settling-sec-lawsuit-sbi-ceo-says)
-- [Ethereum (ETH) price hits record high, stealing bitcoin's limelight](https://www.cnbc.com/2021/04/29/bitcoin-btc-ethereum-eth-cryptocurrency-price-hits-record-high.html)
-- [How NFT Platform OpenSea Plans to Maintain Its Competitive Advantage - Ep.232 - Unchained Podcast](https://unchainedpodcast.com/how-nft-platform-opensea-plans-to-maintain-its-competitive-advantage-ep-232/)
 - [Deutsche Börse, Commerzbank Plotting Crypto Marketplaces - Decrypt](https://decrypt.co/69525/deutsche-boerse-commerzbank-crypto-marketplaces?utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz-_Ua3HDHXGXXFWEugMRckkjubg5P_9jTSLOZMoqQUboSrxZWQ3p2GcsoywWVnSWp69Rz318cVCKOeJGB4-ELLc3CpMj47Sdj72rinNetqFJ4JGBpEI&utm_content=124304070&utm_source=hs_email)
+- [Introducing Binance NFT, A Groundbreaking NFT Marketplace Launching June 2021 - Binance Blog](https://www.binance.com/en/blog/421499824684901995/Introducing-Binance-NFT-A-Groundbreaking-NFT-Marketplace-Launching-June-2021)
 - [DeFi Is Now a $100B Sector - Coindesk](https://www.coindesk.com/defi-100-billion-dolla)
 - [DeFi Exchange Uranium Finance Loses $50M in Exploit](https://www.coindesk.com/binance-smart-chain-defi-exchange-uranium-finance-exploit)
 - [Transparency - Tether](https://wallet.tether.to/transparency)
 - [World's Largest Stablecoin Tether Passes $50B Market Capitalization](https://www.coindesk.com/tether-passes-50b-market-cap?utm_medium=email&_hsmi=123639745&_hsenc=p2ANqtz-_tfwEoP4IRkhIwbhi-EpXhYJOtgD8uCsG8HVMdzwZjFAlzZlZ3pvX57YG5hO2N9MlDC4XchfSeZTohOS3gNTBAWoYZW27_KYyM-3p0vHFsXJ5i9Og&utm_content=123639745&utm_source=hs_email)
+- [Ripple wants go public after settling SEC lawsuit, SBI CEO says](https://cointelegraph.com/news/ripple-wants-go-public-after-settling-sec-lawsuit-sbi-ceo-says)
 
 ### ETF/ETP
 
