@@ -26,7 +26,7 @@ banner:
 - [JPMorgan to Let Clients Invest in Bitcoin Fund for First Time: Sources - CoinDesk](https://www.coindesk.com/jpmorgan-to-let-clients-invest-in-bitcoin-fund-for-first-time-sources)
 - [GrayScale Bitcoin Trust (GBTC) Premium Tanks to -19% As More Competition Weighs - Bitcoininst](https://bitcoinist.com/grayscale-bitcoin-trust-gbtc-premium-tanks-to-19-as-more-competition-weighs-in/)
 
-### Altcoins
+### NFTs, DeFi, and Altcoins
 
 - [Commerzbank, Deutsche Börse Team Up for Tokenized Real Estate and Art Marketplace - Coindesk](https://www.coindesk.com/commerzbank-deutsche-borse-tokenized-real-estate-art-marketplace)
 - [Deutsche Börse, Commerzbank Plotting Crypto Marketplaces - Decrypt](https://decrypt.co/69525/deutsche-boerse-commerzbank-crypto-marketplaces?utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz-_Ua3HDHXGXXFWEugMRckkjubg5P_9jTSLOZMoqQUboSrxZWQ3p2GcsoywWVnSWp69Rz318cVCKOeJGB4-ELLc3CpMj47Sdj72rinNetqFJ4JGBpEI&utm_content=124304070&utm_source=hs_email)
@@ -42,17 +42,16 @@ banner:
 
 - [WisdomTree expands digital assets range with Ethereum ETP launch - WisdomTree](https://www.wisdomtree.eu/en-gb/press-room/tabs/latest-news/wisdomtree-expands-digital-assets-range-with-ethereum-etp-launch)
 - [Swiss Stock Exchange SIX and Borse Xetra list physically backed Ether ETP  - Cointelegraph](https://cointelegraph.com/news/swiss-stock-exchange-six-and-boerse-xetra-list-physically-backed-ether-etp)
-- [Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change to List and Trade Shares of the VanEck Bitcoin Trust under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares - Sec](https://www.sec.gov/rules/sro/cboebzx/2021/34-91695.pdf)
 
 ### Exchanges
 
 - [BaFin cracks down on crypto exchange Binance’s ‘stock tokens’ - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
 - [Coinbase Acquires Analytics Firm Skew, Doubles Down on Institutions - Cryptobriefing](https://cryptobriefing.com/coinbase-acquires-analytics-firm-skew-doubles-down-institutions/)
-- [Coinbase to acquire leading institutional data analytics platform, skew - by Coinbase - Apr, 2021 - The Coinbase Blog](https://blog.coinbase.com/coinbase-to-acquire-leading-institutional-data-analytics-platform-skew-929e3882ef42)
-- [A new way to buy crypto on Coinbase using PayPal - by Coinbase - Apr, 2021 - The Coinbase Blog](https://blog.coinbase.com/a-new-way-to-buy-crypto-on-coinbase-using-paypal-e9162f735dcb)
+- [Coinbase to acquire leading institutional data analytics platform, skew - The Coinbase Blog](https://blog.coinbase.com/coinbase-to-acquire-leading-institutional-data-analytics-platform-skew-929e3882ef42)
+- [A new way to buy crypto on Coinbase using PayPal - The Coinbase Blog](https://blog.coinbase.com/a-new-way-to-buy-crypto-on-coinbase-using-paypal-e9162f735dcb)
 - [Coinbase Pairs With PayPal To Enable Easy Crypto Purchases - Bitcoinist](https://bitcoinist.com/coinbase-pairs-with-paypal-to-enable-easy-crypto-purchases/)
 - [Coinbase Offers New Bitcoin Buying Option With PayPal - Decrypt](https://decrypt.co/69369/coinbase-offers-new-bitcoin-buying-option-with-paypal)
-- [Tether (USDT) is launching on Coinbase Pro - by Coinbase - Apr, 2021 - The Coinbase Blog](https://blog.coinbase.com/tether-usdt-is-launching-on-coinbase-pro-3a1353060e41)
+- [Tether (USDT) is launching on Coinbase Pro - The Coinbase Blog](https://blog.coinbase.com/tether-usdt-is-launching-on-coinbase-pro-3a1353060e41)
 - [Coinbase started with buy rating at Rosenblatt, despite downside risk from a bitcoin pullback - Cnbc](https://www.cnbc.com/2021/04/21/coinbase-started-with-buy-rating-at-rosenblatt-despite-downside-risk-from-a-bitcoin-pullback.html)
 - [NYSE-Owner ICE Sold Coinbase Stake for $1.2 Billion - Coindesk](https://www.coindesk.com/nyse-owner-ice-sold-coinbase-stake-for-1-2-billion)
 - [Mastercard Revealed as Partner on Gemini Crypto Credit Card - CoinDesk](https://www.coindesk.com/mastercard-revealed-as-partner-on-gemini-crypto-credit-card?utm_medium=email&_hsmi=123868531&_hsenc=p2ANqtz-9YfoaLjPufEcYdJe_jBfmBo0TlQbRIOZ-oqimRhKkG6Eg7nPht8uaYV8GELkUYSp4jQlMzdkz62ciC8AJgxPGH5T2m1hRQPGibb2C-GpvlA054818&utm_content=123868531&utm_source=hs_email)
@@ -70,7 +69,7 @@ banner:
 - [Tesla Sold Bitcoin in Q1 for Proceeds of $272M - Nasdaq](https://www.nasdaq.com/articles/tesla-sold-bitcoin-in-q1-for-proceeds-of-%24272m-2021-04-26)
 - [Elon Musk’s Tesla Sold Bitcoin in Q1, Earnings Report Reveals - Decrypt](https://decrypt.co/69170/elon-musks-tesla-sold-bitcoin-q1-earnings-report-reveals)
 - [Fidelity Jumps Into Crypto Analytics With New Product - Cryptobriefing](https://cryptobriefing.com/fidelity-jumps-crypto-analytics-new-product/)
-- [Fidelity Investments® Introduces New Digital Assets Analytics Solution for Institutional Investors - Business Wire](https://www.businesswire.com/news/home/20210429005136/en/Fidelity-Investments%C2%AE-Introduces-New-Digital-Assets-Analytics-Solution-for-Institutional-Investors)
+- [Fidelity Investments Introduces New Digital Assets Analytics Solution for Institutional Investors - Business Wire](https://www.businesswire.com/news/home/20210429005136/en/Fidelity-Investments%C2%AE-Introduces-New-Digital-Assets-Analytics-Solution-for-Institutional-Investors)
 - [Fidelity announces digital asset analytics tool for institutional investors - the Block Crypto](https://www.theblockcrypto.com/linked/103308/fidelity-digital-asset-analytics-tool-institutional-investors)
 - [Bitcoin is making all Revolut’s dreams come true - Financial Times](https://www.ft.com/content/fce3785d-ad70-436f-b42e-c478f98941eb)
 - [Charles Schwab needs regulatory clarity before offering crypto trading service, says CEO - The Block Crypto](https://www.theblockcrypto.com/linked/102732/charles-schwab-crypto-regulatory-clarity-ceo-comments)
