@@ -111,5 +111,4 @@ banner:
 - [The Blocksize War – Chapter 6 – Lightning Network - BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-6-lightning-network/)
 - [Bitcoin boom fuels fight over money creation - Financial Times](https://www.ft.com/content/79105bbf-212d-4da8-9e9a-03c0aee142c4)
 - [Learning Better Investment Habits. Bitcoin Tech Talk #237 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/learning-better-investment-habits)
-- [Redirect Notice](https://www.ft.com/content/0448b44d-1d78-48f8-8ca8-6edae7976a5f&sa=D&source=editors&ust=1619173085245000&usg=AOvVaw0cGIRBhEhYI7QZeYD6QaKv)
 - [La corsa all’oro digitale del Bitcoin riguarda anche la nostra libertà - Il Foglio](https://www.linkedin.com/posts/ferdinandoametrano_bitcoin-activity-6793134385819381761-9fKf)
