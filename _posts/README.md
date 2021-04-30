@@ -37,6 +37,7 @@ permalink: /cryptoweekinternal/
 * YouTube: marcare il nuovo prossimo livestream "non adatto ai bambini"
 * YouTube: NON aggiungere il video alla playlist "cryptoweek"
 * Website: creare il post del cryptoweek della settimana successiva (published: false, cryptoweek: true, incrementare il #, mettere il link YouTube corretto)
+* Website: in events.yml mettere la data del prossimo cryptoweek
 * Linkedin: creare un evento per il cryptoweek della settimana successiva
 * Linkedin: creare evento collegato al live youtube
 
