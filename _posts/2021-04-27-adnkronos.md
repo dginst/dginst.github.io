@@ -14,7 +14,7 @@ newsfeed: true
 Dal dispositivo off line al semplice foglio di carta o il bunker italiano per le grosse somme; proteggere i propri investimenti in bitcoin è diventato sempre più urgente. I casi di frode continuano a verificarsi, eclatanti come il turco Thodex o piccoli ma numerosi come quelli che vedono coinvolta Coinbase.
 
 Approfondire la natura di Bitcoin è fondamentale per non incorre in frodi.
-Suggeriamo questo articolo di oggi su [Adnkronos](https://www.adnkronos.com/green-o-succhia-energia-da-che-parte-stanno-davvero-i-bitcoin_1TtAuCltAmEq527Zge153c?refresh_ce) per conoscere le diverse modalità per custodire i propri bitcoin ed i rischi associati a ciascuna di esse.
+Suggeriamo questo articolo di oggi su [Adnkronos](https://www.adnkronos.com/mettere-in-sicurezza-i-propri-bitcoin_3iEQo6E3KoIf6kx4Af3EQG) per conoscere le diverse modalità per custodire i propri bitcoin ed i rischi associati a ciascuna di esse.
 
 ----
 
