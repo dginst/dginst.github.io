@@ -117,4 +117,3 @@ banner:
 
 - [Events](https://dgi.io/events/)
 - [News](https://dgi.io/news/)
-
