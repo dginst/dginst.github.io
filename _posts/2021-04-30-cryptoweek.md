@@ -17,41 +17,111 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-LUCIA
 
-- [Kansas City Chiefs’ Sean Culkin Will Become First NFL Player To Convert Full Salary Into Bitcoin - Forbes](https://www.forbes.com/sites/nicholasreimann/2021/04/26/kansas-city-chiefs-sean-culkin-will-become-first-nfl-player-to-convert-full-salary-into-bitcoin/)
-- [JPMorgan Is Preparing to Offer a Bitcoin Fund to Wealthy Clients - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-26/jpmorgan-is-preparing-to-offer-a-bitcoin-fund-to-wealthy-clients)
-- [Tesla Sold Bitcoin in Q1 for Proceeds of $272M - Nasdaq](https://www.nasdaq.com/articles/tesla-sold-bitcoin-in-q1-for-proceeds-of-%24272m-2021-04-26)
-- [Investors ding Tesla after disappointing results—not even its bitcoin stake can save it - Fortune](https://fortune.com/2021/04/27/investors-ding-tesla-after-disappointing-results-not-even-its-bitcoin-stake-can-save-it/)
-- [We just learned a lot about Tesla’s Bitcoin bet - Fortune](https://fortune.com/2021/04/27/tesla-tsla-bitcoin-btc-bet-how-much-has-it-made-elon-musk-profits/)
-- [BSC Protocol Uranium Finance Hacked for $50 Million - Cryptpbriefing](https://cryptobriefing.com/bsc-protocol-uranium-finance-hacked-50-million/)
-- [Binance Chain DeFi Exchange Uranium Finance Loses $50M in Exploit - Coindesk](https://www.coindesk.com/binance-smart-chain-defi-exchange-uranium-finance-exploit)
-- [Korean Billionaire Kim Jung-Ju’s Gaming Giant Invests $100 Million In Bitcoin - Forbes](https://www.forbes.com/sites/jonathanburgos/2021/04/28/korean-billionaire-kim-jung-jus-gaming-giant-invests-100-million-in-bitcoin/?sh=460f48c76a2d)
-- [EIB issues its first ever digital bond on a public blockchain - EIB](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
-- [BaFin cracks down on crypto exchange Binance’s ‘stock tokens’ - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
-- [WisdomTree expands digital assets range with Ethereum ETP launch - WisdomTree](https://www.wisdomtree.eu/en-gb/press-room/tabs/latest-news/wisdomtree-expands-digital-assets-range-with-ethereum-etp-launch)
-- [Cryptocurrency Tax Data Requests: It’s Easier To Go Fishing In Canada - Forbes](https://www.forbes.com/sites/taxnotes/2021/04/29/cryptocurrency-tax-data-requests-its-easier-to-go-fishing-in-canada/?sh=3a63b70c2fd5)
-- [Coinbase Pairs With PayPal To Enable Easy Crypto Purchases - Bitcoinist](https://bitcoinist.com/coinbase-pairs-with-paypal-to-enable-easy-crypto-purchases/)
-- [Tether’s reserves are fully backed, according to latest assurance opinion - Cointelegraph](https://cointelegraph.com/news/tether-s-reserves-are-fully-backed-according-to-latest-assurance-opinion)
-- [Historic First San Francisco Bitcoin House, 20Mission, to Auction NFT Lease for 75 years Turnkey Co-Living Spaces in the Heart of Silicon Valley's Startup Community go for $1 per month, all utilities and property taxes included](https://financialpost.com/globe-newswire/historic-first-san-francisco-bitcoin-house-20mission-to-auction-nft-lease-for-75-years-turnkey-co-living-spaces-in-the-heart-of-silicon-valleys-startup-community-go-for-1-per-month-all-utilitie)
-- [Why bitcoin? Here’s why. - The Washington Post](https://www.washingtonpost.com/opinions/letters-to-the-editor/why-bitcoin-heres-why/2021/04/25/a5c2de22-a207-11eb-b314-2e993bd83e31_story.html)
-
-FRANCESCO
-
-- [Coinbase Acquires Analytics Firm Skew, Doubles Down on Institutions - Cryptobriefing](https://cryptobriefing.com/coinbase-acquires-analytics-firm-skew-doubles-down-institutions/)
-- [Demystifying Bitcoin’s Remarkably Accurate Price Prediction Model, Stock-To-Flow - Forbes](https://www.forbes.com/sites/stevenehrlich/2021/04/29/demystifying-bitcoins-remarkably-accurate-price-prediction-model-stock-to-flow/)
-- [Fidelity Jumps Into Crypto Analytics With New Product - Cryptobriefing](https://cryptobriefing.com/fidelity-jumps-crypto-analytics-new-product/)
-- [European Investment Bank to Issue Digital Bonds on Ethereum: Report - Cryptobriefing](https://cryptobriefing.com/european-investment-bank-issue-digital-bonds-ethereum-report/)
-- [NYSE-Owner ICE Sold Coinbase Stake for $1.2 Billion - Coindesk](https://www.coindesk.com/nyse-owner-ice-sold-coinbase-stake-for-1-2-billion)
-- [DeFi Is Now a $100B Sector - Coindesk](https://www.coindesk.com/defi-100-billion-dolla)
-- [Proposed Legislation in Germany Could Allow $425B to Flow Into Crypto: Report - Coindesk](https://www.coindesk.com/proposed-legislation-in-germany-could-allow-425b-to-flow-into-crypto-report)
-- [Commerzbank, Deutsche Börse Team Up for Tokenized Real Estate and Art Marketplace - Coindesk](https://www.coindesk.com/commerzbank-deutsche-borse-tokenized-real-estate-art-marketplace)
-- [Paxos Raises $300M, Joins Crypto Unicorn Club at $2.4B Valuation - Coindesk](https://www.coindesk.com/paxos-raises-300m-joins-crypto-unicorn-club-at-2-4b-valuation)
-
-
-
-- [Crypto custodian Finoa raises $22 million in Series A funding - The Block Crypto](https://www.theblockcrypto.com/linked/103236/crypto-custodian-finoa-raises-22-million-series-a-funding)
-- [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Banca d'Italia](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
-- [Nexon Purchases $100 Million Worth of Bitcoin - Twitter](https://twitter.com/DocumentingBTC/status/1387385096819326979/photo/1)
+### Market
 
 - [GrayScale Bitcoin Trust (GBTC) Premium Tanks to -19% As More Competition Weighs - Bitcoininst](https://bitcoinist.com/grayscale-bitcoin-trust-gbtc-premium-tanks-to-19-as-more-competition-weighs-in/)
+- [Behind Bitcoin’s Recent Slide: Imploding Bets and Forced Liquidations - WSJ](https://www.wsj.com/articles/behind-bitcoins-weekend-slide-imploding-bets-and-forced-liquidations-11619170201?mod=e2tw)
+- [Nexon Purchases $100 Million Worth of Bitcoin - Twitter](https://twitter.com/DocumentingBTC/status/1387385096819326979/photo/1)
+
+### Altcoins
+
+- [DeFi Is Now a $100B Sector - Coindesk](https://www.coindesk.com/defi-100-billion-dolla)
+- [Commerzbank, Deutsche Börse Team Up for Tokenized Real Estate and Art Marketplace - Coindesk](https://www.coindesk.com/commerzbank-deutsche-borse-tokenized-real-estate-art-marketplace)
+- [Ripple wants go public after settling SEC lawsuit, SBI CEO says](https://cointelegraph.com/news/ripple-wants-go-public-after-settling-sec-lawsuit-sbi-ceo-says)
+- [Ethereum (ETH) price hits record high, stealing bitcoin's limelight](https://www.cnbc.com/2021/04/29/bitcoin-btc-ethereum-eth-cryptocurrency-price-hits-record-high.html)
+- [How NFT Platform OpenSea Plans to Maintain Its Competitive Advantage - Ep.232 - Unchained Podcast](https://unchainedpodcast.com/how-nft-platform-opensea-plans-to-maintain-its-competitive-advantage-ep-232/)
+- [Deutsche Börse, Commerzbank Plotting Crypto Marketplaces - Decrypt](https://decrypt.co/69525/deutsche-boerse-commerzbank-crypto-marketplaces?utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz-_Ua3HDHXGXXFWEugMRckkjubg5P_9jTSLOZMoqQUboSrxZWQ3p2GcsoywWVnSWp69Rz318cVCKOeJGB4-ELLc3CpMj47Sdj72rinNetqFJ4JGBpEI&utm_content=124304070&utm_source=hs_email)
+
+### ETF/ETP
+
+- [WisdomTree expands digital assets range with Ethereum ETP launch - WisdomTree](https://www.wisdomtree.eu/en-gb/press-room/tabs/latest-news/wisdomtree-expands-digital-assets-range-with-ethereum-etp-launch)
+
+### Exchanges
+
+- [BaFin cracks down on crypto exchange Binance’s ‘stock tokens’ - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
+- [Coinbase Pairs With PayPal To Enable Easy Crypto Purchases - Bitcoinist](https://bitcoinist.com/coinbase-pairs-with-paypal-to-enable-easy-crypto-purchases/)
+- [Coinbase Acquires Analytics Firm Skew, Doubles Down on Institutions - Cryptobriefing](https://cryptobriefing.com/coinbase-acquires-analytics-firm-skew-doubles-down-institutions/)
+- [NYSE-Owner ICE Sold Coinbase Stake for $1.2 Billion - Coindesk](https://www.coindesk.com/nyse-owner-ice-sold-coinbase-stake-for-1-2-billion)
+- [Coinbase to acquire leading institutional data analytics platform, skew | by Coinbase | Apr, 2021 | The Coinbase Blog](https://blog.coinbase.com/coinbase-to-acquire-leading-institutional-data-analytics-platform-skew-929e3882ef42)
+- [A new way to buy crypto on Coinbase using PayPal | by Coinbase | Apr, 2021 | The Coinbase Blog](https://blog.coinbase.com/a-new-way-to-buy-crypto-on-coinbase-using-paypal-e9162f735dcb)
+- [Coinbase Offers New Bitcoin Buying Option With PayPal - Decrypt](https://decrypt.co/69369/coinbase-offers-new-bitcoin-buying-option-with-paypal?utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz--QB9v4YqW5ObMoydtvHijrhN0Q2jaAtR0ZjslP_Y9WP4xHDOTIy-mOrIVQ4thUj9ry4rv4Ptraqkhrkl914pJ-YKPBXTMCH8b8m8c8uPpwTngiXxo&utm_content=124304070&utm_source=hs_email)
+- [Coinbase started with buy rating at Rosenblatt, despite downside risk from a bitcoin pullback](https://www.cnbc.com/2021/04/21/coinbase-started-with-buy-rating-at-rosenblatt-despite-downside-risk-from-a-bitcoin-pullback.html)
+- [Tether (USDT) is launching on Coinbase Pro | by Coinbase | Apr, 2021 | The Coinbase Blog](https://blog.coinbase.com/tether-usdt-is-launching-on-coinbase-pro-3a1353060e41)
+
+### Regulation
+
+- [Proposed Legislation in Germany Could Allow $425B to Flow Into Crypto: Report - Coindesk](https://www.coindesk.com/proposed-legislation-in-germany-could-allow-425b-to-flow-into-crypto-report)
+- [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Banca d'Italia](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
+
+### CBDC
+
+### Ecosystem
+
+- [Tesla Sold Bitcoin in Q1 for Proceeds of $272M - Nasdaq](https://www.nasdaq.com/articles/tesla-sold-bitcoin-in-q1-for-proceeds-of-%24272m-2021-04-26)
+- [Fidelity Jumps Into Crypto Analytics With New Product - Cryptobriefing](https://cryptobriefing.com/fidelity-jumps-crypto-analytics-new-product/)
+- [Fidelity Investments® Introduces New Digital Assets Analytics Solution for Institutional Investors | Business Wire](https://www.businesswire.com/news/home/20210429005136/en/Fidelity-Investments%C2%AE-Introduces-New-Digital-Assets-Analytics-Solution-for-Institutional-Investors)
+- [Fidelity announces digital asset analytics tool for institutional investors](https://www.theblockcrypto.com/linked/103308/fidelity-digital-asset-analytics-tool-institutional-investors?utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz--TaILBDfdMkp8Yv2qytEc8JsD4Yxr4BQ2mRTFrLM3NfmYeAOqHisXQnuiyC6KJnyRI_n1oumdUqgUjGrycq9aR_nD2ixRlRxFX4JHMF6pTuS0gOPs&utm_content=124304070&utm_source=hs_email)
+- [Bitcoin is making all Revolut’s dreams come true | Financial Times](https://www.ft.com/content/fce3785d-ad70-436f-b42e-c478f98941eb)
+- [Charles Schwab needs regulatory clarity before offering crypto trading service, says CEO](https://www.theblockcrypto.com/linked/102732/charles-schwab-crypto-regulatory-clarity-ceo-comments?utm_medium=email&_hsmi=123419119&_hsenc=p2ANqtz--nsZhdw4lD8N6eiRmHc-z_-W8IJ1qNjM1ThVikavyMbuadUzkDU-jmEnM72ZXI06Xx2fg2vUsgHLRB6qqFpZC2Ab7A-mosNAxgcTSTkkGRpyi7OcU&utm_content=123419119&utm_source=hs_email)
+- [Paxos Raises $300M, Joins Crypto Unicorn Club at $2.4B Valuation - Coindesk](https://www.coindesk.com/paxos-raises-300m-joins-crypto-unicorn-club-at-2-4b-valuation)
+- [PayPal Crypto Partner Paxos Raises $300 Million At $2.4 Billion Valuation](https://www.forbes.com/sites/ninabambysheva/2021/04/29/paypal-crypto-partner-paxos-raises-300-million-at-24-billion-valuation/?sh=6572e207180f&utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz-9ed-piowWIUbILOrHCMHVbQcqib5wmaJRQ3yFWJnMkRdIQT1N3IweEBJ-a8EUFadDgSS9d4VtWH3OiPvzNymRYy4glQc5qJ00zJLqEKHsCfmcdIco&utm_content=124304070&utm_source=hs_email)
+- [Paxos Becomes Third Federally Regulated Crypto 'Bank' - CoinDesk](https://www.coindesk.com/paxos-becomes-third-federally-regulated-crypto-bank?utm_medium=email&_hsmi=123419119&_hsenc=p2ANqtz-8gxyT_610jx-ghXX06WOERTKK19s4hPWmccS-8l5gTDb5JmovIf3CGf00qNAwhRw423eBLRVMbI-QZfQ1goXILuBqsA9ptqdsgyuuHVW-QxFK8Zdo&utm_content=123419119&utm_source=hs_email)
+- [Cryptocurrency firm Paxos raises $300 mln at $2.4 bln valuation | Reuters](https://www.reuters.com/technology/cryptocurrency-firm-paxos-raises-300-mln-24-bln-valuation-2021-04-29/)
+- [Crypto custodian Finoa raises $22 million in Series A funding - The Block Crypto](https://www.theblockcrypto.com/linked/103236/crypto-custodian-finoa-raises-22-million-series-a-funding)
+
+### Blockchain
+
+- [EIB issues its first ever digital bond on a public blockchain - EIB](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
+- [European Investment Bank to Issue Digital Bonds on Ethereum: Report - Cryptobriefing](https://cryptobriefing.com/european-investment-bank-issue-digital-bonds-ethereum-report/)
+- [Socios.com and New Jersey Devils Join Forces](https://www.nhl.com/devils/news/socioscom-and-new-jersey-devils-join-forces/c-324153072)
+
+### Environmental sustainability
+
+### Tech
+
+### DGI
+
+### Opinion
+
+- [Why bitcoin? Here’s why. - The Washington Post](https://www.washingtonpost.com/opinions/letters-to-the-editor/why-bitcoin-heres-why/2021/04/25/a5c2de22-a207-11eb-b314-2e993bd83e31_story.html)
+- [Demystifying Bitcoin’s Remarkably Accurate Price Prediction Model, Stock-To-Flow - Forbes](https://www.forbes.com/sites/stevenehrlich/2021/04/29/demystifying-bitcoins-remarkably-accurate-price-prediction-model-stock-to-flow/)
+- [The Blocksize War – Chapter 5 – SegWit | BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-5-scaling-ii-segwit/)
+
+- [Swiss Stock Exchange SIX and Borse Xetra list physically backed Ether ETP](https://cointelegraph.com/news/swiss-stock-exchange-six-and-boerse-xetra-list-physically-backed-ether-etp?utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz-_5dtNo_6PLtl3rfor2seXG6kHT7mOh2jAuWjWSES85heaNOq7WXljIJsFroZHbC3_u3003BF_sswI_Oj2nW5UBH5WFR9_tDR6gVv9ETFnd1BY3jrg&utm_content=124304070&utm_source=hs_email)
+- [BaFin cracks down on crypto exchange Binance’s ‘stock tokens’ | Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
+- [DBS, J.P. Morgan and Temasek to establish platform to transform interbank value movements in a new digital era](https://www.jpmorgan.com/news/dbs-jpmorgan-and-temasek-to-establish-platform)
+- [Alleged $366M Bitcoin mixer busted after analysis of 10 years of blockchain data](https://cointelegraph.com/news/alleged-366m-bitcoin-mixer-busted-after-analysis-of-10-years-of-blockchain-data)
+- [DeFi Exchange Uranium Finance Loses $50M in Exploit](https://www.coindesk.com/binance-smart-chain-defi-exchange-uranium-finance-exploit)
+- [Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change to List and Trade Shares of the VanEck Bitcoin Trust under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares](https://www.sec.gov/rules/sro/cboebzx/2021/34-91695.pdf)
+- ['AWS for Blockchains' Alchemy Closes $80M Funding Round at $505M Valuation - CoinDesk](https://www.coindesk.com/aws-for-blockchains-alchemy-closes-80m-funding-round-at-505m-valuation)
+- [Government and industry push bitcoin regulation to fight ransomware](https://www.cnbc.com/2021/04/28/government-and-industry-push-bitcoin-regulation-to-fight-ransomware.html?utm_content=Main&utm_medium=Social&utm_source=Twitter#Echobox=1619650305)
+- [Can Canada’s crypto crackdown avoid ending in farce? - The Globe and Mail](https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-can-canadas-crypto-crackdown-avoid-ending-in-farce/?cmpid=rss&utm_source=dlvr.it&utm_medium=twitter)
+- [Bitcoin, Tesla, Ethereum: When to take profits on big investing winners | Fortune](https://fortune.com/2021/04/28/bitcoin-btc-tesla-tsla-ethereum-investments-taking-profits-sp-500/)
+- [The Blocksize War – Chapter 6 – Lightning Network | BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-6-lightning-network/)
+- [JPMorgan, DBS, and Temasek form new blockchain firm to improve cross-border payments](https://www.theblockcrypto.com/linked/103064/jpmorgan-dbs-temasek-blockchain-partior-payments?utm_medium=email&_hsmi=124115970&_hsenc=p2ANqtz-_X3fUThfwBSwbkaDzd3r0HZm953YV8Ctx3txtF6aezPRN1vSo93E_hWtMIWXg5FrOjQmImV1qFRpHSuAOQr_b53p2XIfj5wuCxiIhlCsG0J8lWFg4&utm_content=124115970&utm_source=hs_email)
+- [SEC loses a battle to win the war? Ripple dissociates from pumping XRP](https://cointelegraph.com/news/sec-loses-a-battle-to-win-the-war-ripple-dissociates-from-pumping-xrp)
+- [Ethereum jumps to record high on report of EIB digital bond issuance | Reuters](https://www.reuters.com/technology/digital-currency-ether-hits-record-high-2021-04-27/)
+- [EU Investment Arm Sells Two-Year Notes in Debut Blockchain Deal](https://news.bloomberglaw.com/banking-law/eu-investment-arm-offers-two-year-notes-in-debut-blockchain-deal)
+- [Bitcoin Optech Newsletter #146 | Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/04/28/)
+- [Mastercard Revealed as Partner on Gemini Crypto Credit Card - CoinDesk](https://www.coindesk.com/mastercard-revealed-as-partner-on-gemini-crypto-credit-card?utm_medium=email&_hsmi=123868531&_hsenc=p2ANqtz-9YfoaLjPufEcYdJe_jBfmBo0TlQbRIOZ-oqimRhKkG6Eg7nPht8uaYV8GELkUYSp4jQlMzdkz62ciC8AJgxPGH5T2m1hRQPGibb2C-GpvlA054818&utm_content=123868531&utm_source=hs_email)
+- [Binance, the World's Largest Crypto Exchange, to Launch NFT Marketplace | Barron's](https://www.barrons.com/articles/binance-crypto-exchange-nft-marketplace-51619557589?utm_medium=email&_hsmi=123868531&_hsenc=p2ANqtz--KsNsobSWsxU5E3hxJmJeMniOLiKG-aB_HKIexkXYS0ZTw7B2musG33zoZZ5qtkDPMyVnlLJhrxG9Er737RiE8tdYuNGT6H0LhGgZA-6Oxn6u96gs&utm_content=123868531&utm_source=hs_email)
+- [Introducing Binance NFT, A Groundbreaking NFT Marketplace Launching June 2021 | Binance Blog](https://www.binance.com/en/blog/421499824684901995/Introducing-Binance-NFT-A-Groundbreaking-NFT-Marketplace-Launching-June-2021)
+- [Gemini Partners with Mastercard to Launch New Crypto Rewards Credit Card this Summer](https://www.prnewswire.com/news-releases/gemini-partners-with-mastercard-to-launch-new-crypto-rewards-credit-card-this-summer-301277389.html)
+- [World's Largest Stablecoin Tether Passes $50B Market Capitalization](https://www.coindesk.com/tether-passes-50b-market-cap?utm_medium=email&_hsmi=123639745&_hsenc=p2ANqtz-_tfwEoP4IRkhIwbhi-EpXhYJOtgD8uCsG8HVMdzwZjFAlzZlZ3pvX57YG5hO2N9MlDC4XchfSeZTohOS3gNTBAWoYZW27_KYyM-3p0vHFsXJ5i9Og&utm_content=123639745&utm_source=hs_email)
+- [Elon Musk’s Tesla Sold Bitcoin in Q1, Earnings Report Reveals - Decrypt](https://decrypt.co/69170/elon-musks-tesla-sold-bitcoin-q1-earnings-report-reveals?utm_medium=email&_hsmi=123639745&_hsenc=p2ANqtz-_aw5Lw4xAkCXDu79BKnDP2IgGS-saXy-s8k50JQku9IiypTBdCYqhqVPS7HbhkqM27Y69PC7jsfwt9mOiS9nl9qpfe1Hsj5LCMN_88U9mfdjMXXZY&utm_content=123639745&utm_source=hs_email)
+- [PayPal CEO: Demand for Cryptocurrency Much Higher Than Expected - Decrypt](https://decrypt.co/69127/paypal-ceo-demand-for-cryptocurrency-much-higher-than-expected?utm_medium=email&_hsmi=123639745&_hsenc=p2ANqtz-9pCTVMEVu1LcVsBIxkBYJ-Pey9Fgq96Zd4bE0uZ6MOssY_M1rget9CKpN0ee4XCQsrKxRHB-8iUf7v2yZ2amyg7aDtHDL4r9uhs2ABxSwaIFbXrqM&utm_content=123639745&utm_source=hs_email)
+- [What Is Taproot and How Will It Benefit Bitcoin? | River Financial](https://river.com/learn/what-is-taproot/)
+- [Custodial Bitcoin Interest Service Reviews](https://blog.lopp.net/custodial-bitcoin-yield-generator-testing/)
+- [Learning Better Investment Habits. Bitcoin Tech Talk #237 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/learning-better-investment-habits)
+- [JPMorgan to Let Clients Invest in Bitcoin Fund for First Time: Sources - CoinDesk](https://www.coindesk.com/jpmorgan-to-let-clients-invest-in-bitcoin-fund-for-first-time-sources)
+- [Turkey's Central Bank Head Says Crypto Rules Coming, Denies Total Ban Ahead - CoinDesk](https://www.coindesk.com/turkeys-central-bank-head-says-crypto-regs-coming-denies-total-ban-ahead)
+- [Transparency | Tether](https://wallet.tether.to/transparency)
+- [OCC Conditionally Approves Chartering of Paxos National Trust | OCC](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-49.html)
+- [Bitcoin boom fuels fight over money creation | Financial Times](https://www.ft.com/content/79105bbf-212d-4da8-9e9a-03c0aee142c4)
+- [Robinhood names new COO to oversee its crypto operations](https://www.theblockcrypto.com/linked/102641/robinhood-names-new-coo-to-oversee-its-crypto-operations?utm_medium=email&_hsmi=123419119&_hsenc=p2ANqtz--yuk0UjdLDApyw4iDs_3mz6zb-yNlQ3QDJcC70sKwvltvMhkzMHdzm9vhcpWVb9AqAkusf3ei8qp9e56ieVmETHtTLz8-__LdkUqUK5phjUH-KEDk&utm_content=123419119&utm_source=hs_email)
+- [Schwab says needs regulatory clarity on crypto before any offerings | Reuters](https://www.reuters.com/business/schwab-says-needs-regulatory-clarity-crypto-before-any-offerings-2021-04-22/?taid=6081ca0cb90f1b0001d2eece&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
+- [BitGo Will Custody Crypto for US Marshals Service in $4.5M Deal - CoinDesk](https://www.coindesk.com/bitgo-will-custody-crypto-for-us-marshals-service-in-4-5m-deal)
+- [World’s Most Cashless Place Takes Next Step Toward Digital Money - Bloomberg](https://www.bloomberg.com/news/articles/2021-04-22/world-s-most-cashless-place-takes-next-step-toward-digital-money)
+
+- [Redirect Notice](https://www.google.com/url?q=https://www.ft.com/content/0448b44d-1d78-48f8-8ca8-6edae7976a5f&sa=D&source=editors&ust=1619173085245000&usg=AOvVaw0cGIRBhEhYI7QZeYD6QaKv)
