@@ -50,3 +50,7 @@ FRANCESCO
 
 ### Regulation
 - [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Comunicato stampa](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
+
+- [Crypto custodian Finoa raises $22 million in Series A funding - The Block Crypto](https://www.theblockcrypto.com/linked/103236/crypto-custodian-finoa-raises-22-million-series-a-funding)
+- [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Banca d'Italia](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
+- [Nexon Purchases $100 Million Worth of Bitcoin - Twitter](https://twitter.com/DocumentingBTC/status/1387385096819326979/photo/1)
