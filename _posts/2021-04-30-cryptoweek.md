@@ -21,8 +21,8 @@ banner:
 ### Market
 
 - [Behind Bitcoin’s Recent Slide: Imploding Bets and Forced Liquidations - WSJ](https://www.wsj.com/articles/behind-bitcoins-weekend-slide-imploding-bets-and-forced-liquidations-11619170201?mod=e2tw)
-- [Ethereum jumps to record high on report of EIB digital bond issuance | Reuters](https://www.reuters.com/technology/digital-currency-ether-hits-record-high-2021-04-27/)
-- [Ethereum (ETH) price hits record high, stealing bitcoin's limelight](https://www.cnbc.com/2021/04/29/bitcoin-btc-ethereum-eth-cryptocurrency-price-hits-record-high.html)
+- [Ethereum jumps to record high on report of EIB digital bond issuance - Reuters](https://www.reuters.com/technology/digital-currency-ether-hits-record-high-2021-04-27/)
+- [Ethereum (ETH) price hits record high, stealing bitcoin's limelight - Cnbc](https://www.cnbc.com/2021/04/29/bitcoin-btc-ethereum-eth-cryptocurrency-price-hits-record-high.html)
 - [Nexon Purchases $100 Million Worth of Bitcoin - Twitter](https://twitter.com/DocumentingBTC/status/1387385096819326979/photo/1)
 - [JPMorgan to Let Clients Invest in Bitcoin Fund for First Time: Sources - CoinDesk](https://www.coindesk.com/jpmorgan-to-let-clients-invest-in-bitcoin-fund-for-first-time-sources)
 - [GrayScale Bitcoin Trust (GBTC) Premium Tanks to -19% As More Competition Weighs - Bitcoininst](https://bitcoinist.com/grayscale-bitcoin-trust-gbtc-premium-tanks-to-19-as-more-competition-weighs-in/)
