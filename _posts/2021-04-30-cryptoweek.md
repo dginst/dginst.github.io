@@ -48,9 +48,10 @@ FRANCESCO
 - [Commerzbank, Deutsche Börse Team Up for Tokenized Real Estate and Art Marketplace - Coindesk](https://www.coindesk.com/commerzbank-deutsche-borse-tokenized-real-estate-art-marketplace)
 - [Paxos Raises $300M, Joins Crypto Unicorn Club at $2.4B Valuation - Coindesk](https://www.coindesk.com/paxos-raises-300m-joins-crypto-unicorn-club-at-2-4b-valuation)
 
-### Regulation
-- [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Comunicato stampa](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
+
 
 - [Crypto custodian Finoa raises $22 million in Series A funding - The Block Crypto](https://www.theblockcrypto.com/linked/103236/crypto-custodian-finoa-raises-22-million-series-a-funding)
 - [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Banca d'Italia](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
 - [Nexon Purchases $100 Million Worth of Bitcoin - Twitter](https://twitter.com/DocumentingBTC/status/1387385096819326979/photo/1)
+
+- [GrayScale Bitcoin Trust (GBTC) Premium Tanks to -19% As More Competition Weighs - Bitcoininst](https://bitcoinist.com/grayscale-bitcoin-trust-gbtc-premium-tanks-to-19-as-more-competition-weighs-in/)
