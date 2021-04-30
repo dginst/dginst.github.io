@@ -112,3 +112,9 @@ banner:
 - [Bitcoin boom fuels fight over money creation - Financial Times](https://www.ft.com/content/79105bbf-212d-4da8-9e9a-03c0aee142c4)
 - [Learning Better Investment Habits. Bitcoin Tech Talk #237 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/learning-better-investment-habits)
 - [La corsa all’oro digitale del Bitcoin riguarda anche la nostra libertà - Il Foglio](https://www.linkedin.com/posts/ferdinandoametrano_bitcoin-activity-6793134385819381761-9fKf)
+
+### DGI Events
+
+- [Events](https://dgi.io/events/)
+- [News](https://dgi.io/news/)
+
