@@ -32,6 +32,7 @@ banner:
 - [Commerzbank, Deutsche Börse Team Up for Tokenized Real Estate and Art Marketplace - Coindesk](https://www.coindesk.com/commerzbank-deutsche-borse-tokenized-real-estate-art-marketplace)
 - [Deutsche Börse, Commerzbank Plotting Crypto Marketplaces - Decrypt](https://decrypt.co/69525/deutsche-boerse-commerzbank-crypto-marketplaces?utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz-_Ua3HDHXGXXFWEugMRckkjubg5P_9jTSLOZMoqQUboSrxZWQ3p2GcsoywWVnSWp69Rz318cVCKOeJGB4-ELLc3CpMj47Sdj72rinNetqFJ4JGBpEI&utm_content=124304070&utm_source=hs_email)
 - [Introducing Binance NFT, A Groundbreaking NFT Marketplace Launching June 2021 - Binance Blog](https://www.binance.com/en/blog/421499824684901995/Introducing-Binance-NFT-A-Groundbreaking-NFT-Marketplace-Launching-June-2021)
+- [Binance, the World's Largest Crypto Exchange, to Launch NFT Marketplace - Barron's](https://www.barrons.com/articles/binance-crypto-exchange-nft-marketplace-51619557589?utm_medium=email&_hsmi=123868531&_hsenc=p2ANqtz--KsNsobSWsxU5E3hxJmJeMniOLiKG-aB_HKIexkXYS0ZTw7B2musG33zoZZ5qtkDPMyVnlLJhrxG9Er737RiE8tdYuNGT6H0LhGgZA-6Oxn6u96gs&utm_content=123868531&utm_source=hs_email)
 - [DeFi Is Now a $100B Sector - Coindesk](https://www.coindesk.com/defi-100-billion-dolla)
 - [DeFi Exchange Uranium Finance Loses $50M in Exploit](https://www.coindesk.com/binance-smart-chain-defi-exchange-uranium-finance-exploit)
 - [Transparency - Tether](https://wallet.tether.to/transparency)
@@ -47,28 +48,23 @@ banner:
 ### Exchanges
 
 - [BaFin cracks down on crypto exchange Binance’s ‘stock tokens’ - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
-- [Coinbase Pairs With PayPal To Enable Easy Crypto Purchases - Bitcoinist](https://bitcoinist.com/coinbase-pairs-with-paypal-to-enable-easy-crypto-purchases/)
 - [Coinbase Acquires Analytics Firm Skew, Doubles Down on Institutions - Cryptobriefing](https://cryptobriefing.com/coinbase-acquires-analytics-firm-skew-doubles-down-institutions/)
-- [NYSE-Owner ICE Sold Coinbase Stake for $1.2 Billion - Coindesk](https://www.coindesk.com/nyse-owner-ice-sold-coinbase-stake-for-1-2-billion)
 - [Coinbase to acquire leading institutional data analytics platform, skew - by Coinbase - Apr, 2021 - The Coinbase Blog](https://blog.coinbase.com/coinbase-to-acquire-leading-institutional-data-analytics-platform-skew-929e3882ef42)
 - [A new way to buy crypto on Coinbase using PayPal - by Coinbase - Apr, 2021 - The Coinbase Blog](https://blog.coinbase.com/a-new-way-to-buy-crypto-on-coinbase-using-paypal-e9162f735dcb)
+- [Coinbase Pairs With PayPal To Enable Easy Crypto Purchases - Bitcoinist](https://bitcoinist.com/coinbase-pairs-with-paypal-to-enable-easy-crypto-purchases/)
 - [Coinbase Offers New Bitcoin Buying Option With PayPal - Decrypt](https://decrypt.co/69369/coinbase-offers-new-bitcoin-buying-option-with-paypal?utm_medium=email&_hsmi=124304070&_hsenc=p2ANqtz--QB9v4YqW5ObMoydtvHijrhN0Q2jaAtR0ZjslP_Y9WP4xHDOTIy-mOrIVQ4thUj9ry4rv4Ptraqkhrkl914pJ-YKPBXTMCH8b8m8c8uPpwTngiXxo&utm_content=124304070&utm_source=hs_email)
-- [Coinbase started with buy rating at Rosenblatt, despite downside risk from a bitcoin pullback](https://www.cnbc.com/2021/04/21/coinbase-started-with-buy-rating-at-rosenblatt-despite-downside-risk-from-a-bitcoin-pullback.html)
 - [Tether (USDT) is launching on Coinbase Pro - by Coinbase - Apr, 2021 - The Coinbase Blog](https://blog.coinbase.com/tether-usdt-is-launching-on-coinbase-pro-3a1353060e41)
+- [Coinbase started with buy rating at Rosenblatt, despite downside risk from a bitcoin pullback](https://www.cnbc.com/2021/04/21/coinbase-started-with-buy-rating-at-rosenblatt-despite-downside-risk-from-a-bitcoin-pullback.html)
+- [NYSE-Owner ICE Sold Coinbase Stake for $1.2 Billion - Coindesk](https://www.coindesk.com/nyse-owner-ice-sold-coinbase-stake-for-1-2-billion)
 - [Mastercard Revealed as Partner on Gemini Crypto Credit Card - CoinDesk](https://www.coindesk.com/mastercard-revealed-as-partner-on-gemini-crypto-credit-card?utm_medium=email&_hsmi=123868531&_hsenc=p2ANqtz-9YfoaLjPufEcYdJe_jBfmBo0TlQbRIOZ-oqimRhKkG6Eg7nPht8uaYV8GELkUYSp4jQlMzdkz62ciC8AJgxPGH5T2m1hRQPGibb2C-GpvlA054818&utm_content=123868531&utm_source=hs_email)
 - [Gemini Partners with Mastercard to Launch New Crypto Rewards Credit Card this Summer](https://www.prnewswire.com/news-releases/gemini-partners-with-mastercard-to-launch-new-crypto-rewards-credit-card-this-summer-301277389.html)
 
 ### Regulation
 
-- [SEC loses a battle to win the war? Ripple dissociates from pumping XRP](https://cointelegraph.com/news/sec-loses-a-battle-to-win-the-war-ripple-dissociates-from-pumping-xrp)
-- [Can Canada’s crypto crackdown avoid ending in farce? - The Globe and Mail](https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-can-canadas-crypto-crackdown-avoid-ending-in-farce/?cmpid=rss&utm_source=dlvr.it&utm_medium=twitter)
 - [Government and industry push bitcoin regulation to fight ransomware](https://www.cnbc.com/2021/04/28/government-and-industry-push-bitcoin-regulation-to-fight-ransomware.html?utm_content=Main&utm_medium=Social&utm_source=Twitter#Echobox=1619650305)
 - [Turkey's Central Bank Head Says Crypto Rules Coming, Denies Total Ban Ahead - CoinDesk](https://www.coindesk.com/turkeys-central-bank-head-says-crypto-regs-coming-denies-total-ban-ahead)
-- [BaFin cracks down on crypto exchange Binance’s ‘stock tokens’ - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
 - [Proposed Legislation in Germany Could Allow $425B to Flow Into Crypto: Report - Coindesk](https://www.coindesk.com/proposed-legislation-in-germany-could-allow-425b-to-flow-into-crypto-report)
 - [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Banca d'Italia](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
-
-### CBDC
 
 ### Ecosystem
 
@@ -88,7 +84,6 @@ banner:
 - [Cryptocurrency firm Paxos raises $300 mln at $2.4 bln valuation - Reuters](https://www.reuters.com/technology/cryptocurrency-firm-paxos-raises-300-mln-24-bln-valuation-2021-04-29/)
 - [Crypto custodian Finoa raises $22 million in Series A funding - The Block Crypto](https://www.theblockcrypto.com/linked/103236/crypto-custodian-finoa-raises-22-million-series-a-funding)
 - [BitGo Will Custody Crypto for US Marshals Service in $4.5M Deal - CoinDesk](https://www.coindesk.com/bitgo-will-custody-crypto-for-us-marshals-service-in-4-5m-deal)
-- [Custodial Bitcoin Interest Service Reviews](https://blog.lopp.net/custodial-bitcoin-yield-generator-testing/)
 - [OCC Conditionally Approves Chartering of Paxos National Trust - OCC](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-49.html)
 - [DBS, J.P. Morgan and Temasek to establish platform to transform interbank value movements in a new digital era](https://www.jpmorgan.com/news/dbs-jpmorgan-and-temasek-to-establish-platform)
 - ['AWS for Blockchains' Alchemy Closes $80M Funding Round at $505M Valuation - CoinDesk](https://www.coindesk.com/aws-for-blockchains-alchemy-closes-80m-funding-round-at-505m-valuation)
@@ -97,8 +92,8 @@ banner:
 
 - [EIB issues its first ever digital bond on a public blockchain - EIB](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
 - [European Investment Bank to Issue Digital Bonds on Ethereum: Report - Cryptobriefing](https://cryptobriefing.com/european-investment-bank-issue-digital-bonds-ethereum-report/)
-- [Socios.com and New Jersey Devils Join Forces](https://www.nhl.com/devils/news/socioscom-and-new-jersey-devils-join-forces/c-324153072)
 - [JPMorgan, DBS, and Temasek form new blockchain firm to improve cross-border payments](https://www.theblockcrypto.com/linked/103064/jpmorgan-dbs-temasek-blockchain-partior-payments?utm_medium=email&_hsmi=124115970&_hsenc=p2ANqtz-_X3fUThfwBSwbkaDzd3r0HZm953YV8Ctx3txtF6aezPRN1vSo93E_hWtMIWXg5FrOjQmImV1qFRpHSuAOQr_b53p2XIfj5wuCxiIhlCsG0J8lWFg4&utm_content=124115970&utm_source=hs_email)
+- [Socios.com and New Jersey Devils Join Forces](https://www.nhl.com/devils/news/socioscom-and-new-jersey-devils-join-forces/c-324153072)
 
 ### Environmental sustainability
 
@@ -115,8 +110,6 @@ banner:
 - [Demystifying Bitcoin’s Remarkably Accurate Price Prediction Model, Stock-To-Flow - Forbes](https://www.forbes.com/sites/stevenehrlich/2021/04/29/demystifying-bitcoins-remarkably-accurate-price-prediction-model-stock-to-flow/)
 - [The Blocksize War – Chapter 6 – Lightning Network - BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-6-lightning-network/)
 - [Bitcoin boom fuels fight over money creation - Financial Times](https://www.ft.com/content/79105bbf-212d-4da8-9e9a-03c0aee142c4)
-- [Bitcoin, Tesla, Ethereum: When to take profits on big investing winners - Fortune](https://fortune.com/2021/04/28/bitcoin-btc-tesla-tsla-ethereum-investments-taking-profits-sp-500/)
-- [Binance, the World's Largest Crypto Exchange, to Launch NFT Marketplace - Barron's](https://www.barrons.com/articles/binance-crypto-exchange-nft-marketplace-51619557589?utm_medium=email&_hsmi=123868531&_hsenc=p2ANqtz--KsNsobSWsxU5E3hxJmJeMniOLiKG-aB_HKIexkXYS0ZTw7B2musG33zoZZ5qtkDPMyVnlLJhrxG9Er737RiE8tdYuNGT6H0LhGgZA-6Oxn6u96gs&utm_content=123868531&utm_source=hs_email)
 - [Learning Better Investment Habits. Bitcoin Tech Talk #237 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/learning-better-investment-habits)
-- [Redirect Notice](https://www.google.com/url?q=https://www.ft.com/content/0448b44d-1d78-48f8-8ca8-6edae7976a5f&sa=D&source=editors&ust=1619173085245000&usg=AOvVaw0cGIRBhEhYI7QZeYD6QaKv)
-- [La corsa all’oro digitale del #Bitcoin riguarda anche la nostra libertà - Il Foglio](https://www.linkedin.com/posts/ferdinandoametrano_bitcoin-activity-6793134385819381761-9fKf)
+- [Redirect Notice](https://www.ft.com/content/0448b44d-1d78-48f8-8ca8-6edae7976a5f&sa=D&source=editors&ust=1619173085245000&usg=AOvVaw0cGIRBhEhYI7QZeYD6QaKv)
+- [La corsa all’oro digitale del Bitcoin riguarda anche la nostra libertà - Il Foglio](https://www.linkedin.com/posts/ferdinandoametrano_bitcoin-activity-6793134385819381761-9fKf)
