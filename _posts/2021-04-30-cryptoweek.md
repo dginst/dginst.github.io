@@ -103,7 +103,6 @@ banner:
 
 ### Environmental sustainability
 
-
 - [The destructive green fantasy of the bitcoin fanatics](https://www.ft.com/content/0448b44d-1d78-48f8-8ca8-6edae7976a5f)
 
 ### Tech
