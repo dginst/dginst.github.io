@@ -26,8 +26,8 @@ banner:
 
 - [Digital Currency Group Announces Plan to Increase Purchase of Shares of Grayscale Bitcoin Trust - Business Wire](https://www.businesswire.com/news/home/20210503005293/en/Digital-Currency-Group-Announces-Plan-to-Increase-Purchase-of-Shares-of-Grayscale-Bitcoin-Trust-OTCQX-GBTC)
 - [CME Group's Micro Bitcoin Futures Open for Trading - CoinDesk](https://www.coindesk.com/cme-micro-bitcoin-futures)
-- [Micro Bitcoin futures](https://www.cmegroup.com/trading/micro-bitcoin-futures.html)
-- [Ethereum (ETH) price hits record high above $3,400](https://www.cnbc.com/2021/05/04/ethereum-eth-price-hits-record-high-above-3400.html)
+- [Micro Bitcoin futures - CME](https://www.cmegroup.com/trading/micro-bitcoin-futures.html)
+- [Ethereum (ETH) price hits record high above $3,400 - CNBC](https://www.cnbc.com/2021/05/04/ethereum-eth-price-hits-record-high-above-3400.html)
 - [What Is Dogecoin, How to Say It, and Why It’s No Longer a Joke - WSJ](https://www.wsj.com/articles/what-is-dogecoin-how-to-say-it-and-why-its-no-longer-a-joke-thanks-elon-11612820776?mod=markets_featst_pos2)
 - [The Future is Bitcoin Only. Bitcoin Tech Talk Issue #238](https://jimmysong.substack.com/p/the-future-is-bitcoin-only-bitcoin)
 
@@ -38,10 +38,10 @@ banner:
 
 ### CBDC
 
-- [Bank of England begins hiring for central bank digital currency team](https://www.theblockcrypto.com/linked/103424/bank-of-england-hiring-cbdc-team)
+- [Bank of England begins hiring for central bank digital currency team - The Block](https://www.theblockcrypto.com/linked/103424/bank-of-england-hiring-cbdc-team)
 - [Digital Dollar Project to launch five U.S. central bank digital currency pilots - Reuters](https://www.reuters.com/business/finance/digital-dollar-project-launch-five-us-central-bank-digital-currency-pilots-2021-05-03)
-- [PayPal has held exploratory talks about launching a stablecoin: sources](https://www.theblockcrypto.com/post/103617/paypal-has-held-exploratory-talks-about-launching-a-stablecoin-sources)
-- [Diem's chief economist breaks down its plan for a central bank-centric stablecoin network](https://www.theblockcrypto.com/post/103536/diems-economist-plan-stablecoin-cbdc)
+- [PayPal has held exploratory talks about launching a stablecoin - The Block](https://www.theblockcrypto.com/post/103617/paypal-has-held-exploratory-talks-about-launching-a-stablecoin-sources)
+- [Diem's chief economist breaks down its plan for a central bank-centric stablecoin network - The Block](https://www.theblockcrypto.com/post/103536/diems-economist-plan-stablecoin-cbdc)
 
 ### Miscellanea
 
@@ -53,7 +53,7 @@ banner:
 ### Opinions
 
 - [Bitcoin: too good to miss or a bubble ready to burst? - Financial Times](https://www.ft.com/content/be796d33-a5e7-4753-98a8-b586f1680d58)
-- [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
+- [How Much Energy Does Bitcoin Actually Consume? - Harvard Business Review](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
 - [Bitcoin's Success Is 'Disgusting': Berkshire's Charlie Munger - CoinDesk](https://www.coindesk.com/bitcoins-success-is-disgusting-berkshires-charlie-munger)
 
 ### Bitcoin and Crimes
