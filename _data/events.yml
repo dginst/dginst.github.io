@@ -90,12 +90,12 @@
   city: online
   date: 2021-05-27
   date2:
-  hours: 
+  hours: 11:00
   organizer: INTESI GROUP
   address: webinar
   info:
-    text: Presto disponibili
-    url: 
+    text: pagina di registrazione
+    url: https://www.intesigroup.com/it/webinar-validazione-temporale-blockchain/
   discount_code:
   discount_code_publish:
   image:
