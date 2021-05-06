@@ -62,6 +62,8 @@ banner:
 - [The 2021 Crypto Crime Report - Chainalysis](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf)
 - [An Analysis of Bitcoin’s Use in Illicit Finance - Crypto Council for Innovation](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf)
 
+### Guest: Francesco Avella
+
 ### DGI Events
 
 - [Events](https://dgi.io/events/)
