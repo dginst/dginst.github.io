@@ -24,7 +24,7 @@ banner:
 
 ### Market
 
-- [Digital Currency Group Announces Plan to Increase Purchase of Shares of Grayscale Bitcoin Trust (OTCQX: GBTC) | Business Wire](https://www.businesswire.com/news/home/20210503005293/en/Digital-Currency-Group-Announces-Plan-to-Increase-Purchase-of-Shares-of-Grayscale-Bitcoin-Trust-OTCQX-GBTC)
+- [Digital Currency Group Announces Plan to Increase Purchase of Shares of Grayscale Bitcoin Trust - Business Wire](https://www.businesswire.com/news/home/20210503005293/en/Digital-Currency-Group-Announces-Plan-to-Increase-Purchase-of-Shares-of-Grayscale-Bitcoin-Trust-OTCQX-GBTC)
 - [CME Group's Micro Bitcoin Futures Open for Trading - CoinDesk](https://www.coindesk.com/cme-micro-bitcoin-futures)
 - [Micro Bitcoin futures](https://www.cmegroup.com/trading/micro-bitcoin-futures.html)
 - [Ethereum (ETH) price hits record high above $3,400](https://www.cnbc.com/2021/05/04/ethereum-eth-price-hits-record-high-above-3400.html)
@@ -39,7 +39,7 @@ banner:
 ### CBDC
 
 - [Bank of England begins hiring for central bank digital currency team](https://www.theblockcrypto.com/linked/103424/bank-of-england-hiring-cbdc-team)
-- [Digital Dollar Project to launch five U.S. central bank digital currency pilots | Reuters](https://www.reuters.com/business/finance/digital-dollar-project-launch-five-us-central-bank-digital-currency-pilots-2021-05-03)
+- [Digital Dollar Project to launch five U.S. central bank digital currency pilots - Reuters](https://www.reuters.com/business/finance/digital-dollar-project-launch-five-us-central-bank-digital-currency-pilots-2021-05-03)
 - [PayPal has held exploratory talks about launching a stablecoin: sources](https://www.theblockcrypto.com/post/103617/paypal-has-held-exploratory-talks-about-launching-a-stablecoin-sources)
 - [Diem's chief economist breaks down its plan for a central bank-centric stablecoin network](https://www.theblockcrypto.com/post/103536/diems-economist-plan-stablecoin-cbdc)
 
@@ -52,15 +52,15 @@ banner:
 
 ### Opinions
 
-- [Bitcoin: too good to miss or a bubble ready to burst? | Financial Times](https://www.ft.com/content/be796d33-a5e7-4753-98a8-b586f1680d58)
+- [Bitcoin: too good to miss or a bubble ready to burst? - Financial Times](https://www.ft.com/content/be796d33-a5e7-4753-98a8-b586f1680d58)
 - [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
 - [Bitcoin's Success Is 'Disgusting': Berkshire's Charlie Munger - CoinDesk](https://www.coindesk.com/bitcoins-success-is-disgusting-berkshires-charlie-munger)
 
 ### Bitcoin and Crimes
 
 - [National risk assessment of money laundering and terrorist financing 2020 - GOV.UK](https://www.gov.uk/government/publications/national-risk-assessment-of-money-laundering-and-terrorist-financing-2020)
-- [Chainalysis-Crypto-Crime-2021.pdf](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf)
-- [Analysis_of_Bitcoin_in_Illicit_Finance.pdf](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf)
+- [The 2021 Crypto Crime Report - Chainalysis](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf)
+- [An Analysis of Bitcoin’s Use in Illicit Finance - Crypto Council for Innovation](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf)
 
 ### DGI Events
 
