@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #13"
+title: "CryptoWeek #13 con Francesco Avella"
 subtitle: "Il commento alle news della settimana" 
 author: "Staff"
 image:
