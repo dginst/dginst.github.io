@@ -56,13 +56,16 @@ banner:
 - [How Much Energy Does Bitcoin Actually Consume? - Harvard Business Review](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
 - [Bitcoin's Success Is 'Disgusting': Berkshire's Charlie Munger - CoinDesk](https://www.coindesk.com/bitcoins-success-is-disgusting-berkshires-charlie-munger)
 
-### Bitcoin and Crimes
+### Bitcoin and Crime
 
 - [National risk assessment of money laundering and terrorist financing 2020 - GOV.UK](https://www.gov.uk/government/publications/national-risk-assessment-of-money-laundering-and-terrorist-financing-2020)
 - [The 2021 Crypto Crime Report - Chainalysis](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf)
 - [An Analysis of Bitcoin’s Use in Illicit Finance - Crypto Council for Innovation](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf)
+- [Debunking delle più comuni critiche a Bitcoin - Pindol](https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/)
 
-### Guest: Francesco Avella
+### Instant-book de Il Sole 24 Ore
+
+- [Guest: Francesco Avella](https://www.linkedin.com/posts/ferdinandoametrano_cryptoweek-bitcoin-activity-6796311659150413824-kg-z)
 
 ### DGI Events
 
