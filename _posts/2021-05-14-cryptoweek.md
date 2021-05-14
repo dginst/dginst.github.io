@@ -96,7 +96,7 @@ banner:
 - [How Taproot will benefit hardware wallets - by SatoshiLabs - May, 2021 - Trezor Blog](https://blog.trezor.io/how-taproot-will-benefit-hardware-wallets-fa43c0b6123e)
 - [[bitcoin-dev] Full Disclosure: CVE-2021-31876 Defect in Bitcoin Core's bip125 logic](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018893.html)
 - [Bitcoin Multisig Guide - Get started with multisig](https://bitcoiner.guide/multisig/)
-- [Taproot Watch](taproot.watch)
+- [Taproot Watch](https://taproot.watch/)
 
 ### Instant-book de Il Sole 24 Ore
 
