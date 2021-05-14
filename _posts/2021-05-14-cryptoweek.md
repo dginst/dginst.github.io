@@ -47,10 +47,11 @@ banner:
 - [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1392974251011895300?s=20)
 - [Pete Rizzo on Twitter](https://twitter.com/pete_rizzo_/status/1392978055954587650?s=20)
 
-### Sustainability
+### Environmental Sustainability
 
 - [On Bitcoin's Energy Consumption: A quantitative Approach to a Subjective Question - Galaxy Digital](https://docsend.com/view/adwmdeeyfvqwecj2)
 - [Big Questions in Crypto: What is Cryptocurrency’s Environmental Impact? - Chainalysis Blog](https://blog.chainalysis.com/reports/cryptocurrency-environmental-impact-energy-consumption)
+- [Bitcoin è davvero l'industria più energivora (e inquinante) del pianeta? - We Wealth](https://www.we-wealth.com/news/fintech/blockchain/bitcoin-e-davvero-lindustria-piu-energivora-e-inquinante-del-pianeta)
 
 ### Alts
 
