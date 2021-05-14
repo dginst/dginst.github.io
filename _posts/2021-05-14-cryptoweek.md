@@ -68,11 +68,10 @@ banner:
 - [Do we need ‘public money’? - speech by Jon Cunliffe - Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
 - [Israel central bank boosting preparations for digital currency - Reuters](https://www.reuters.com/world/middle-east/israel-central-bank-boosting-preparations-digital-currency-2021-05-11/)
 
-
 ### Libra a.k.a Diem
 
 - [Facebook-Backed Diem Plans Dollar Stablecoin With Silvergate - CoinDesk](https://www.coindesk.com/facebook-backed-diem-partners-with-silvergate-bank-to-issue-us-dollar-stablecoin)
-[Facebook-backed crypto project Diem to launch U.S. stablecoin in major shift - Reuters](https://www.reuters.com/technology/facebook-backed-crypto-project-diem-launch-us-stablecoin-major-shift-2021-05-12/)
+- [Facebook-backed crypto project Diem to launch U.S. stablecoin in major shift - Reuters](https://www.reuters.com/technology/facebook-backed-crypto-project-diem-launch-us-stablecoin-major-shift-2021-05-12/)
 - [Silvergate to be the Exclusive Issuer of U.S. Dollar Backed Stablecoins by Diem - Silvergate](https://ir.silvergate.com/news/news-details/2021/Silvergate-to-be-the-Exclusive-Issuer-of-U.S.-Dollar-Backed-Stablecoins-by-Diem/default.aspx)
 
 ### Ecosystem
