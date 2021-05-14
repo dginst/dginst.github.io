@@ -17,32 +17,6 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-### Tesla
-
-- [Elon Musk: Tesla Has Stopped Accepting Bitcoin Due to Environmental Impact - Decrypt](https://decrypt.co/70691/elon-musk-tesla-has-stopped-accepting-bitcoin?utm_medium=email&_hsmi=126958361&_hsenc=p2ANqtz-_zcyCobucGZ16VzvMv6ye8NiU8KJBk6ca9pJ4EFHEa7HdjMsmvwTg5uuAEyVmZZyOrKs2_wrqNyyuoBuGnr7yaskgMi3IdJaEV4aC1oJLczR32k_U&utm_content=126958361&utm_source=hs_email)
-- [Tesla (TSLA) Bitcoin: Elon Musk Ignored Crypto Mining's Dirty Reality - Bloomberg](https://www.bloomberg.com/opinion/articles/2021-05-13/elon-musk-conveniently-ignored-bitcoin-s-inconvenient-truth)
-- [Bitcoin price drops 12% after Elon Musk tweets that Tesla will not accept it as payment - CNN](https://edition.cnn.com/2021/05/12/tech/elon-musk-tesla-bitcoin/index.html)
-- [Elon Musk on ‘SNL’ Says He Has Asperger’s, Jokes About Dogecoin - WSJ](https://www.wsj.com/articles/elon-musks-quips-about-his-aspergers-to-kick-off-snl-host-gig-11620534790?mod=e2tw)
-- [SpaceX accepts Dogecoin payment for DOGE-1 mission to the moon](https://www.cnbc.com/2021/05/09/spacex-accepts-dogecoin-payment-for-doge-1-mission-to-the-moon.html)
-- [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1392974251011895300?s=20)
-- [Pete Rizzo on Twitter](https://twitter.com/pete_rizzo_/status/1392978055954587650?s=20)
-
-### Alts
-
-- [How much a $1,000 investment in dogecoin at the start of 2021 is worth](https://www.cnbc.com/2021/05/05/how-much-a-1000-dollar-investment-in-dogecoin-is-worth.html)
-- [Dfinity's ICP Token Price Goes Live on Coinbase Pro - CoinDesk](https://www.coindesk.com/dfinity-icp-token-345-coinbase-listing?utm_medium=email&_hsmi=126389028&_hsenc=p2ANqtz-8SRMoL6HqsdYP1Z0CeJtE5hMwjPEnrs2cmowncrHEnCEDX_gpt9xNsjEhPZxmOb1aURvjcgOqtj0AR53n05fhRx8TUKGLLsSbAyWLG8np0U_OlYDA&utm_content=126389028&utm_source=hs_email)
-- [https://twitter.com/dfinity/status/1391514314482372614](https://twitter.com/dfinity/status/1391514314482372614)
-- [Dfinity has finally launched its decentralized 'internet computer'](https://www.theblockcrypto.com/linked/104146/dfinity-launches-internet-computer?utm_medium=email&_hsmi=126167465&_hsenc=p2ANqtz-8Y5W-gGmzxddbmr2XUXf6wH321TbPJP9HKHI0g1IiGZq5DIZmwFUN0vM6QKHMLhIOLzbN3aoqRtpijbdES8t72BTi6vRCmzEB8Ensb4SFKT-_RU98&utm_content=126167465&utm_source=hs_email)
-- [Resisting the Siren Song of Altcoins. Bitcoin Tech Talk #239 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/resisting-the-siren-song-of-altcoins)
-- [Bitcoin (BTC USD) Cryptocurrency Price: Bank of England Warns of Full Losses - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/boe-s-bailey-says-only-buy-crypto-if-ready-to-lose-your-money?utm_campaign=socialflow-organic&utm_medium=social&utm_source=twitter&cmpid=socialflow-twitter-business&utm_content=business)
-- [Buy crypto only if ready to lose it all, says Bank of England governor](https://www.theblockcrypto.com/linked/104086/bank-of-england-governor-bailey-crypto-comments?utm_medium=email&_hsmi=125662091&_hsenc=p2ANqtz--b0XvBqnHuG9jGB6pVgiIiyrwhwaSF4fNWLs25kNwyGWC-VLXNzeJkztGDfMjhTFY8JIlLEaaoNaVRbfcnlUs8uhMxh2UrM-gVBctS-Pl74KzE96Y&utm_content=125662091&utm_source=hs_email)
-
-### Tether
-
-[Tether (Finally) Releases Breakdown Of Its $42 Billion In Crypto Reserves](https://www.forbes.com/sites/nicholasgans/2021/05/13/tether-releases-breakdown-of-its-reserves/?sh=4ea151201109&utm_medium=email&_hsmi=127089053&_hsenc=p2ANqtz-9CmFRYK7oYPiraUFLXCg-3WnQR13NIUR3der9cgJhqEaT1yxGjeumctNU8depGZKcH1wBWwaD5v9kIMPuySFhfvFWBJp880fLWWs9UGgHIF1z4OL8&utm_content=127089053&utm_source=hs_email)
-[tether-march-31-2021-reserves-breakdown.pdf](https://tether.to/wp-content/uploads/2021/05/tether-march-31-2021-reserves-breakdown.pdf?__cf_chl_jschl_tk__=c92e4d3c130beebaef614db04eea6c6e354a8824-1621005993-0-AWALcLwKzD1kd74Byix5AfgyTLcU_Ha4z_E6PmMB4EtjUIJiF0MpXhMRGW7usbB2vCZBY-KEBKbhz5U4ssttnOjomcl9f52qK6EiCU4sBUo0HfWPGEFblC9AgsUVU4tM67W_qEycu20ZmjlmRUh2XNzSOirZbjLaKkBCppdqf-zyig4_Xiz9xDW6GHO-CSfH2GsCN6p8-h2JmXBu4ewAiD4rM5UjDzJ4fGglwgrAnU8n4AomKWwlv2n-ydAo0XDOVzySN9YNCRVKrmB2dmMUciPY4j9quNFfnr7H6YIh53Fs6veK9IBWkq51kjnr_rpg6R5EVhqZUAEOv3VQLHXNTOLMSY9HCdmzirlpWcO5J8qsXsTXvcEMP194x-wdRmCf0lvySDRVMO80TRHVY0s_yBRkCYTxtlQxBy2bIzj2hTbLHYa9t7T08nYh-4D5m8O5tDhKTH_DoBdgtyQePPlI8BQ8Lq2EUY2ipIBAyYHOV-aH)
-[https://twitter.com/elonmusk/status/1392974251011895300?s=09](https://twitter.com/elonmusk/status/1392974251011895300?s=09)
-
 ### Ransomware
 
 - [US fuel pipeline hackers 'didn't mean to create problems' - BBC News](https://www.bbc.com/news/business-57050690)
@@ -62,6 +36,38 @@ banner:
 - [U.S. Office of Foreign Assets Control is seeking blockchain analytics tools](https://www.theblockcrypto.com/linked/104087/u-s-office-of-foreign-assets-control-is-seeking-blockchain-analytics-tools?utm_medium=email&_hsmi=125662091&_hsenc=p2ANqtz-_gCrQxLrAjTjNb-JzcXrg8b_a-R02oYycahMG5ZSbOePWDHWUjQH2OBPVLAIQBc7gORvrKgQwwsE_evL6CUQnG6_HSeVLkh572YCyLTXC3YO2bbhI&utm_content=125662091&utm_source=hs_email)
 - [Cryptocurrency Exchanges Need Direct Regulation, SEC Chair Says | Barron's](https://www.barrons.com/articles/cryptocurrency-exchanges-regulation-sec-coinbase-51620335275)
 - [Court Authorizes Service of John Doe Summons Seeking Identities of U.S. Taxpayers Who Have Used Cryptocurrency | OPA | Department of Justice](https://www.justice.gov/opa/pr/court-authorizes-service-john-doe-summons-seeking-identities-us-taxpayers-who-have-used-1)
+
+### Tesla
+
+- [Elon Musk: Tesla Has Stopped Accepting Bitcoin Due to Environmental Impact - Decrypt](https://decrypt.co/70691/elon-musk-tesla-has-stopped-accepting-bitcoin?utm_medium=email&_hsmi=126958361&_hsenc=p2ANqtz-_zcyCobucGZ16VzvMv6ye8NiU8KJBk6ca9pJ4EFHEa7HdjMsmvwTg5uuAEyVmZZyOrKs2_wrqNyyuoBuGnr7yaskgMi3IdJaEV4aC1oJLczR32k_U&utm_content=126958361&utm_source=hs_email)
+- [Tesla (TSLA) Bitcoin: Elon Musk Ignored Crypto Mining's Dirty Reality - Bloomberg](https://www.bloomberg.com/opinion/articles/2021-05-13/elon-musk-conveniently-ignored-bitcoin-s-inconvenient-truth)
+- [Bitcoin price drops 12% after Elon Musk tweets that Tesla will not accept it as payment - CNN](https://edition.cnn.com/2021/05/12/tech/elon-musk-tesla-bitcoin/index.html)
+- [Elon Musk on ‘SNL’ Says He Has Asperger’s, Jokes About Dogecoin - WSJ](https://www.wsj.com/articles/elon-musks-quips-about-his-aspergers-to-kick-off-snl-host-gig-11620534790?mod=e2tw)
+- [SpaceX accepts Dogecoin payment for DOGE-1 mission to the moon](https://www.cnbc.com/2021/05/09/spacex-accepts-dogecoin-payment-for-doge-1-mission-to-the-moon.html)
+- [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1392974251011895300?s=20)
+- [Pete Rizzo on Twitter](https://twitter.com/pete_rizzo_/status/1392978055954587650?s=20)
+
+### Sustainability
+
+- [DocSend](https://docsend.com/view/adwmdeeyfvqwecj2)
+- [Chainalysis Blog | Big Questions in Crypto: What is Cryptocurrency’s Environmental Impact?](https://blog.chainalysis.com/reports/cryptocurrency-environmental-impact-energy-consumption)
+
+### Alts
+
+- [How much a $1,000 investment in dogecoin at the start of 2021 is worth](https://www.cnbc.com/2021/05/05/how-much-a-1000-dollar-investment-in-dogecoin-is-worth.html)
+- [Dfinity's ICP Token Price Goes Live on Coinbase Pro - CoinDesk](https://www.coindesk.com/dfinity-icp-token-345-coinbase-listing?utm_medium=email&_hsmi=126389028&_hsenc=p2ANqtz-8SRMoL6HqsdYP1Z0CeJtE5hMwjPEnrs2cmowncrHEnCEDX_gpt9xNsjEhPZxmOb1aURvjcgOqtj0AR53n05fhRx8TUKGLLsSbAyWLG8np0U_OlYDA&utm_content=126389028&utm_source=hs_email)
+- [https://twitter.com/dfinity/status/1391514314482372614](https://twitter.com/dfinity/status/1391514314482372614)
+- [Dfinity has finally launched its decentralized 'internet computer'](https://www.theblockcrypto.com/linked/104146/dfinity-launches-internet-computer?utm_medium=email&_hsmi=126167465&_hsenc=p2ANqtz-8Y5W-gGmzxddbmr2XUXf6wH321TbPJP9HKHI0g1IiGZq5DIZmwFUN0vM6QKHMLhIOLzbN3aoqRtpijbdES8t72BTi6vRCmzEB8Ensb4SFKT-_RU98&utm_content=126167465&utm_source=hs_email)
+- [Resisting the Siren Song of Altcoins. Bitcoin Tech Talk #239 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/resisting-the-siren-song-of-altcoins)
+- [Bitcoin (BTC USD) Cryptocurrency Price: Bank of England Warns of Full Losses - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/boe-s-bailey-says-only-buy-crypto-if-ready-to-lose-your-money?utm_campaign=socialflow-organic&utm_medium=social&utm_source=twitter&cmpid=socialflow-twitter-business&utm_content=business)
+- [Buy crypto only if ready to lose it all, says Bank of England governor](https://www.theblockcrypto.com/linked/104086/bank-of-england-governor-bailey-crypto-comments?utm_medium=email&_hsmi=125662091&_hsenc=p2ANqtz--b0XvBqnHuG9jGB6pVgiIiyrwhwaSF4fNWLs25kNwyGWC-VLXNzeJkztGDfMjhTFY8JIlLEaaoNaVRbfcnlUs8uhMxh2UrM-gVBctS-Pl74KzE96Y&utm_content=125662091&utm_source=hs_email)
+
+### CBDC
+
+- [Bank of England deputy governor says a CBDC is 'probable' if public money is to survive](https://www.theblockcrypto.com/linked/104830/bank-of-england-cbdc-public-money?utm_medium=email&_hsmi=127089053&_hsenc=p2ANqtz--3u2KQoQ9ppAd9P6w8l-1MLo_gJBOcinIW8UWQwKTFyTUDpSxW7NwD2x83gQWMsrZtn5WiJ8sd0ry98vK1FFyhFY1PL8XqDaq1MuMo1dS39CchECI&utm_content=127089053&utm_source=hs_email)
+- [Do we need ‘public money’? - speech by Jon Cunliffe | Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
+- [Israel central bank boosting preparations for digital currency | Reuters](https://www.reuters.com/world/middle-east/israel-central-bank-boosting-preparations-digital-currency-2021-05-11/)
+
 
 ### Libra a.k.a Diem
 
@@ -93,20 +99,8 @@ _hsenc=p2ANqtz-8C7TkQpDCPltK9xDwIH2ZPQ0QXy6eJpgZdOUmLpr8xuka5yHWcKBjjEUQ11xLZAeX
 - [Bitcoin Multisig Guide | Get started with multisig](https://bitcoiner.guide/multisig/)
 - [Taproot Watch](taproot.watch)
 
-### CBDC
-
-- [Israel central bank boosting preparations for digital currency | Reuters](https://www.reuters.com/world/middle-east/israel-central-bank-boosting-preparations-digital-currency-2021-05-11/)
-- [Do we need ‘public money’? - speech by Jon Cunliffe | Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
-- [Bank of England deputy governor says a CBDC is 'probable' if public money is to survive](https://www.theblockcrypto.com/linked/104830/bank-of-england-cbdc-public-money?utm_medium=email&_hsmi=127089053&_hsenc=p2ANqtz--3u2KQoQ9ppAd9P6w8l-1MLo_gJBOcinIW8UWQwKTFyTUDpSxW7NwD2x83gQWMsrZtn5WiJ8sd0ry98vK1FFyhFY1PL8XqDaq1MuMo1dS39CchECI&utm_content=127089053&utm_source=hs_email)
-
-
-### Sustainability
-
-[DocSend](https://docsend.com/view/adwmdeeyfvqwecj2)
-[Chainalysis Blog | Big Questions in Crypto: What is Cryptocurrency’s Environmental Impact?](https://blog.chainalysis.com/reports/cryptocurrency-environmental-impact-energy-consumption)
-
-
 ### Instant-book de Il Sole 24 Ore
+
 - [Instant-book de Il Sole 24 Ore](https://www.shopping24.ilsole24ore.com/sh4/collateral/products/libri-r.jsp?productId=prod2650197)
 
 ### Blockchain
@@ -125,14 +119,3 @@ _hsenc=p2ANqtz-8C7TkQpDCPltK9xDwIH2ZPQ0QXy6eJpgZdOUmLpr8xuka5yHWcKBjjEUQ11xLZAeX
 
 - [Events](https://dgi.io/events/)
 - [News](https://dgi.io/news/)
-
-## Francesco
-
--[Dogecoin Soars 31.7% as Elon Musk Hints at “Efficiency” Improvements](https://cryptobriefing.com/dogecoin-soars-31-7-elon-musk-hints-efficiency-improvements/)
--[Binance Faces Investigation from IRS and DoJ](https://cryptobriefing.com/binance-faces-investigation-from-irs-and-doj/)
--[Cardano Courts Tesla as ADA Hits an All-Time High](https://cryptobriefing.com/cardano-courts-tesla-ada-hits-all-time-high/)
--[Tether Reveals Assets Backing USDT](https://cryptobriefing.com/tether-shares-assets-backing-usdt/)
--[MoneyGram to Offer Bitcoin at 20,000 U.S. Kiosks](https://cryptobriefing.com/moneygram-offer-bitcoin-20000-us-kiosks/)
--[Coinbase Nets $771 Million Profit in Q1 2021](https://cryptobriefing.com/coinbase-nets-771-million-profit-in-q1-2021/)
--[Coinbase to Speed Up Process for Approving New Coins, Add DOGE: CEO](https://www.coindesk.com/coinbase-will-list-newly-minted-coins-in-the-future-add-doge-ceo)
--[Bank of England Official: It’s ‘Probable’ UK Will Launch a Digital Currency](https://www.coindesk.com/bank-of-england-official-its-probable-uk-will-launch-a-digital-currency)
