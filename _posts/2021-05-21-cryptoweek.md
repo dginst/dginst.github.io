@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #15"
+title: "CryptoWeek #15 con Emanuele Cisbani"
 subtitle: "Il commento alle news della settimana" 
 author: "Staff"
 image:

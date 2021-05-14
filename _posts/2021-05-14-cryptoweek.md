@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #14"
+title: "CryptoWeek #14 con Carlo Clerici"
 subtitle: "Il commento alle news della settimana" 
 author: "Staff"
 image:
