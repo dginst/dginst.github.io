@@ -33,6 +33,8 @@ permalink: /cryptoweekinternal/
 * Streamyard: creare nuovo broadcast per la settimana successiva
   CryptoWeek #16 (28 maggio 2021) Ferdinando M. Ametrano commenta le notizie della settimana in ambito bitcoin, crypto-asset e blockchain, rispondendo anche alle domande del pubblico. www.dgi.io/cryptoweek
   con foto thumb specific date
+* Streamyard: aggiornare il banner
+  I link alle notizie presentate sono nella pagina www.dgi.io/2021/05/14/cryptoweek.html
 * YouTube: marcare in nuovo prossimo livestream come "contenuto sponsorizzato" (tra le opzioni nascoste)
 * YouTube: marcare il nuovo prossimo livestream "non adatto ai bambini"
 * YouTube: NON aggiungere il video alla playlist "cryptoweek"
