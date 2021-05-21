@@ -28,12 +28,25 @@ banner:
 - [Wells Fargo to Offer Crypto Products to Wealthy Clients](https://cryptobriefing.com/wells-fargo-to-offer-crypto-products-to-wealthy-clients/)
 - [Long Bitcoin is World’s “Most Crowded Trade”: Bank of America Survey](https://cryptobriefing.com/long-bitcoin-the-most-crowded-trade-world/)
 
+### Lucia
+
+- [Ethereum co-founder Vitalik Buterin destroys 410 trillion Shiba Inu coins](https://www.nzherald.co.nz/business/ethereum-co-founder-vitalik-buterin-destroys-410-trillion-shiba-inu-coins/VCNH2FDFQYRVDD6U3Q6VFYZ2XQ/)
+- [Banking system consumes two times more energy than Bitcoin: research](https://cointelegraph.com/news/banking-system-consumes-two-times-more-energy-than-bitcoin-research)
+- [bEarn Fi Loses $11M in Latest Exploit of a Binance Smart Chain DeFi Protocol](https://www.coindesk.com/bearn-fi-loses-11m-in-latest-exploit-of-a-binance-smart-chain-defi-protocol)
+- [https://financialpost.com/pmn/business-pmn/bitcoin-posts-record-weekly-outflows-as-gains-stall-coinshares-data](https://financialpost.com/pmn/business-pmn/bitcoin-posts-record-weekly-outflows-as-gains-stall-coinshares-data)
+- [BofA Joins Paxos Blockchain Stock-Settlement Network](https://www.bloomberg.com/news/articles/2021-05-17/bank-of-america-joins-paxos-blockchain-stock-settlement-network)
+- [China bans financial, payment institutions from cryptocurrency business](https://www.reuters.com/technology/chinese-financial-payment-bodies-barred-cryptocurrency-business-2021-05-18/)
+- [Exclusive: India may set up new panel to study crypto regulations](https://economictimes.indiatimes.com/tech/technology/govt-may-set-up-new-panel-to-study-crypto-regulations/articleshow/82746324.cms)
+- [Crypto Custodian Copper Raises $50M in Series B Round](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/taurus/FMfcgzGkXSSTzbCWgDnfBPVlbMtHQjvf)
+- [FDIC, Fed, OCC plan “joint views” on regulating cryptocurrency](https://www.ledgerinsights.com/fdic-fed-occ-plan-joint-views-on-regulating-cryptocurrency/)
+- [Two More Binance Smart Chain Projects Report Incidents, Prices Plummet](https://cryptonews.com/news/two-more-binance-smart-chain-projects-report-incidents-price-10385.htm)
+- [Bitcoin Could Hit $500,000, the Founder and CEO of Ark Invest Says](https://www.barrons.com/articles/bitcoin-could-hit-500-000-according-to-ark-invests-catherine-wood-51605906264)
+
 ### Instant-book de Il Sole 24 Ore
 
 - [Instant-book de Il Sole 24 Ore](https://www.shopping24.ilsole24ore.com/sh4/collateral/products/libri-r.jsp?productId=prod2650197)
 
-
-### Guest 
+### Guest
 
 - [Guest: Emanuele Cisbani](https://www.linkedin.com/in/ACoAAADwWvQBbBgkh556ytSx6I-AZQgxvGqv0bM?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BfDS8YxqTQqib1IWzQrBwkw%3D%3D)
 
