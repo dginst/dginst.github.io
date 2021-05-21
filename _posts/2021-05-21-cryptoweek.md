@@ -102,7 +102,7 @@ banner:
 
 ### Guest
 
-- [Guest: Emanuele Cisbani](https://www.linkedin.com/in/ACoAAADwWvQBbBgkh556ytSx6I-AZQgxvGqv0bM?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BfDS8YxqTQqib1IWzQrBwkw%3D%3D)
+- [Guest: Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)
 
 ### DGI Events
 
