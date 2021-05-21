@@ -19,19 +19,19 @@ banner:
 
 ### Markets
 
-- [Bitcoin, other cryptocurrencies plunge after China announces ban | CBC News](https://www.cbc.ca/news/business/bitcoin-ethereum-plunging-1.6032593)
+- [Bitcoin, other cryptocurrencies plunge after China announces ban - CBC News](https://www.cbc.ca/news/business/bitcoin-ethereum-plunging-1.6032593)
 - [Bitcoin slides below $40,000 after China’s new crypto curbs - The Globe and Mail](https://www.theglobeandmail.com/investing/article-bitcoin-slides-below-40000-after-chinas-new-crypto-curbs/)
 - [Bitcoin rebound loses steam on rising regulatory concerns - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/us-business/article-bitcoin-rebound-loses-steam-on-rising-regulatory-concerns/?ref=premium)
-- [Bitcoin drops to 3-month low in wild trading after Musk tweets | Reuters](https://www.reuters.com/business/finance/bitcoin-hits-three-month-low-musk-drives-investors-exit-2021-05-17/)
-- [Bitcoin Won’t Stop Dropping. Blame Elon Musk. | Barron's](https://www.barrons.com/articles/bitcoin-wont-stop-dropping-blame-elon-musk-51621254115?refsec=cryptocurrencies)
-- [Bitcoin gyrates on fears of regulatory crackdown | Financial Times](https://www.ft.com/content/c4c29bb3-c8ee-454c-a2dd-eac9f644007f)
-- [Asset managers express caution on cryptocurrency after price swings | Financial Times](https://www.ft.com/content/cf378147-1c60-4d60-96fb-bacbfad840fe)
+- [Bitcoin drops to 3-month low in wild trading after Musk tweets - Reuters](https://www.reuters.com/business/finance/bitcoin-hits-three-month-low-musk-drives-investors-exit-2021-05-17/)
+- [Bitcoin Won’t Stop Dropping. Blame Elon Musk. - Barron's](https://www.barrons.com/articles/bitcoin-wont-stop-dropping-blame-elon-musk-51621254115?refsec=cryptocurrencies)
+- [Bitcoin gyrates on fears of regulatory crackdown - Financial Times](https://www.ft.com/content/c4c29bb3-c8ee-454c-a2dd-eac9f644007f)
+- [Asset managers express caution on cryptocurrency after price swings - Financial Times](https://www.ft.com/content/cf378147-1c60-4d60-96fb-bacbfad840fe)
 - [Chinese trade associations sound crypto investment warning](https://cointelegraph.com/news/chinese-trade-associations-sound-crypto-investment-warning?utm_medium=email&_hsmi=128091589&_hsenc=p2ANqtz-_tqUyefs-mlQP6W078VbMWAQQhQxDSmKOAcFA6V-hsTUTacBoEwZIYz3Io8QYh7M8tGhTgI_rVN_t8ps8TBmdcOSzz_Ihoovfmr_FleQbEF5Ta1RM&utm_content=128091589&utm_source=hs_email)
-- [Buyers beware as “altcoin” frenzy bruises bitcoin | Reuters](https://www.reuters.com/business/finance/buyers-beware-altcoin-frenzy-bruises-bitcoin-2021-05-18/)
+- [Buyers beware as “altcoin” frenzy bruises bitcoin - Reuters](https://www.reuters.com/business/finance/buyers-beware-altcoin-frenzy-bruises-bitcoin-2021-05-18/)
 - [Crypto Swings May Become a Threat, Norway’s Central Bank Warns - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-20/crypto-swings-may-become-a-threat-norway-s-central-bank-warns?utm_source=twitter&utm_medium=social&utm_content=business&utm_campaign=socialflow-organic&cmpid=socialflow-twitter-business)
 - [Leading Crypto Exchanges Down As Bitcoin And Ether Plummet](https://www.forbes.com/sites/roberthart/2021/05/19/leading-crypto-exchanges-down-as-bitcoin-and-ether-plummet/?sh=5901f4e054ee&utm_medium=email&_hsmi=128290715&_hsenc=p2ANqtz--2xFw08N2jfORS_3SFMUbTSFzj0IEa3nwxJLkohCey_1VTQ4-oCaTyHAurNRdGe2BEzL4VkYnqS8Icl3Ijo-M4DgwGIrWr4hamlnhq1kqskkv9BOU&utm_content=128290715&utm_source=hs_email)
 - [Google search volume for cryptocurrency topics breaks all-time high](https://www.theblockcrypto.com/linked/105590/googletrends-search-interest-for-cryptocurrency-at-all-time-high?utm_medium=email&_hsmi=128560341&_hsenc=p2ANqtz-9seFK3FsCrtHhcBliZqk4ifUQYyCJg7auMaR-QbynD-g51PVXzPFtco0Qc3TRqSIQZsyq2GmoGeUWDxseUIXXyin0mzfowv0sl8_iU9BBx1pB8rsc&utm_content=128560341&utm_source=hs_email)
-- [Strip Away The Noise, and Bitcoin's Fundamentals Remain Intact | CoinShares Research](https://coinshares.com/research/bitcoins-fundamentals-remain-intact)
+- [Strip Away The Noise, and Bitcoin's Fundamentals Remain Intact - CoinShares Research](https://coinshares.com/research/bitcoins-fundamentals-remain-intact)
 - [MicroStrategy Acquires Additional $10 Million in Bitcoin at Average Price of $43,663](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-additional-10m-in-bitcoin-at-average-price-of-43-663_05-18-2021)
 - [Ark Investment's Cathie Wood Says Bitcoin Will Go to $500,000 - CoinDesk](https://www.coindesk.com/ark-investments-cathie-wood-says-bitcoin-will-go-to-500000?utm_medium=email&_hsmi=128290715&_hsenc=p2ANqtz-8e_ggebyQt352QS4UssX4MdTElZmS2nnfnIci8Ohmj-zqduiCU-rUSD6afejJIX8C1IUhrSS49bzjICxJ8Ol8PCpSh9BBd7Y1er9B-i-psF5ZbZRo&utm_content=128290715&utm_source=hs_email)
 
@@ -62,9 +62,9 @@ banner:
 
 ### CBDC
 
-- [Do we need ‘public money’? - speech by Jon Cunliffe | Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
+- [Do we need ‘public money’? - speech by Jon Cunliffe - Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
 - [Federal Reserve Board - Federal Reserve Chair Jerome H. Powell outlines the Federal Reserve's response to technological advances driving rapid change in the global payments landscape](https://www.federalreserve.gov/newsevents/pressreleases/other20210520b.htm)
-- [Powell advances Fed work on possible ‘digital dollar’ | Financial Times](https://www.ft.com/content/ca4875dc-b7ed-463c-aa3f-941694d5f284)
+- [Powell advances Fed work on possible ‘digital dollar’ - Financial Times](https://www.ft.com/content/ca4875dc-b7ed-463c-aa3f-941694d5f284)
 - [The Fed will publish a discussion paper focused a potential digital dollar](https://www.theblockcrypto.com/linked/105583/federal-reserve-cbdc-discussion-paper?utm_medium=email&_hsmi=128560341&_hsenc=p2ANqtz-81sXl2_FFwxsopnEvQT-nNTVerIvKnTYH6rx0keCI7x49_kDjn63qaSKB18kx4xeSMRRUNwXiTC7_W1NIriy-PbRYfZa6D0TXIa0n0wfxrrWlAviI&utm_content=128560341&utm_source=hs_email)
 - [Dante Disparte: A Digital Dollar Would Be Bad for the US - CoinDesk](https://www.coindesk.com/a-central-bank-digital-currency-would-be-bad-for-the-us)
 
@@ -73,11 +73,11 @@ banner:
 - [Tether (Finally) Releases Breakdown Of Its $42 Billion In Crypto Reserves](https://www.forbes.com/sites/nicholasgans/2021/05/13/tether-releases-breakdown-of-its-reserves/?sh=4ea151201109&utm_medium=email&_hsmi=127089053&_hsenc=p2ANqtz-_RTQUM2YXadNS_4Cfzqjh2CeU1Pcs3LKRQZuG2OUcfbQeRlYMpLkerY8XEzzB-1UVVLkWTI9xjZLAz9Ii75IgKOPzD8JI95NFXNg7Qz0o6qOCPeOE&utm_content=127089053&utm_source=hs_email)
 - [tether-march-31-2021-reserves-breakdown.pdf](https://tether.to/wp-content/uploads/2021/05/tether-march-31-2021-reserves-breakdown.pdf?__cf_chl_jschl_tk__=90317ce92fc4690fd0a62bf14d3fdf3b5b9dfa01-1620943451-0-Af8D-vQL_exBNJQ0NKIitY777RZJnn2tFmDS66Ipftxholdb57D9OpeAaiZqfqWwSQSn1mIaJlt2hWp8G4JAuYD3EqtZIH9wwAPZwJ1muoAANhHncVhhZeV3S_76YZe2kUP5MDwWsoKmJCPaIDn37P9d--1CSUn5Suth2MJITMGUN16c_EPXQoM5LfXrW4Wm-GHhmVc8rojn-6lHlkWk3rvDhhyn-0V5uNhhBJlP4om2lVKWICt0F8NnBOpMrRMozAq_2y7AlHoCVnpK23ftzczzajKPyCQkYCtw0Uyi9cM-7mlVCN6fXMmpVr5hzIX0gOBnlN8-V-ZD8yEFQ0bZos6Dt3Ejm0bwfHL5qn_TEZ6vFeX0EVRYIoqNBwVtWxKhF-3_-76HoMfx1w3R7Gh1wpgeEpHgIo-PtOJUgvzXNUKSBQUgw0cyBUJmhIM6491sA0CD5SkJT7VN0zJcFrUeG_mSSWNtnhabgb-guIxwqcEs)
 - [Tether is launching on the Avalanche blockchain](https://www.theblockcrypto.com/linked/105010/tether-avalanche-blockchain-usdt-avax?utm_medium=email&_hsmi=127865279&_hsenc=p2ANqtz-9iJUqfoV9Ti_oFr7pei829XVAnEbzjYG4XVojNlYwxkgATg66cSBi_kO5N4j5dqmySkX9_NX_HvM-nclzf_9mGZVYqkKKxaZ-C5D4QuaxNw6W3IdY&utm_content=127865279&utm_source=hs_email)
-- [Tether Tokens (USDt) to Launch on Avalanche | Tether](https://tether.to/tether-tokens-usdt-to-launch-on-avalanche/?__cf_chl_jschl_tk__=a870dfe581172c5ac12b2a8a7b1ece0e0afaeb01-1621285312-0-AambpJasr9IrPV8p62DI8n2yaQx0nnLYPuakZpqV5IMv7XvphAYO21Vd16NQY0R7DiuZiVkEsjhKAbFdqqj_lIlEfrlGXTTPwjZGzGOvryTwUXaJwI8PgFG5eJMG7sO1wE3YeR7qUUYWWsAbuTrUPX053gQgTaDkZVe_YrDoGcANTWNDGtC_JodqoiSqH5vNHPkGvQj7fb16s327t6L416g4MbdavgchgHQHTa8ZYyUnOQHnID_6EuIv9Q4ZKH1XxxjU4BT2CXHc0P84AaWTSS8VyqvAwc9IEOWv04K0xrZEz6wgJOFY9LPevBpsTvhfOgnMW1n87MTPhI3QaLMZnOiEJ7TY22S_ELsIahRzSwSrVxwindQoksWk7BnI57oV8QVbAFLEFu8BhpIRFidQ7_kKzoPZ5__cFBmV46thMwq3yqKrS4_n7abmGtT-7PUp-CGY04tPU7mk-ZewoRjNgIc)
+- [Tether Tokens (USDt) to Launch on Avalanche - Tether](https://tether.to/tether-tokens-usdt-to-launch-on-avalanche/?__cf_chl_jschl_tk__=a870dfe581172c5ac12b2a8a7b1ece0e0afaeb01-1621285312-0-AambpJasr9IrPV8p62DI8n2yaQx0nnLYPuakZpqV5IMv7XvphAYO21Vd16NQY0R7DiuZiVkEsjhKAbFdqqj_lIlEfrlGXTTPwjZGzGOvryTwUXaJwI8PgFG5eJMG7sO1wE3YeR7qUUYWWsAbuTrUPX053gQgTaDkZVe_YrDoGcANTWNDGtC_JodqoiSqH5vNHPkGvQj7fb16s327t6L416g4MbdavgchgHQHTa8ZYyUnOQHnID_6EuIv9Q4ZKH1XxxjU4BT2CXHc0P84AaWTSS8VyqvAwc9IEOWv04K0xrZEz6wgJOFY9LPevBpsTvhfOgnMW1n87MTPhI3QaLMZnOiEJ7TY22S_ELsIahRzSwSrVxwindQoksWk7BnI57oV8QVbAFLEFu8BhpIRFidQ7_kKzoPZ5__cFBmV46thMwq3yqKrS4_n7abmGtT-7PUp-CGY04tPU7mk-ZewoRjNgIc)
 
 ### Ransomware
 
-- [Chainalysis Blog | Ransomware 2021: Critical Mid-year Update [REPORT PREVIEW]](https://blog.chainalysis.com/reports/ransomware-update-may-2021)
+- [Chainalysis Blog - Ransomware 2021: Critical Mid-year Update [REPORT PREVIEW]](https://blog.chainalysis.com/reports/ransomware-update-may-2021)
 - [Elliptic Follows the $7 Billion in Bitcoin stolen from Bitfinex in 2016](https://www.elliptic.co/blog/elliptic-analysis-bitcoin-bitfinex-theft)
 
 ### Tesla
@@ -89,13 +89,13 @@ banner:
 
 ### Alts
 
-- [Breaking Down The Fee Market (EIP-1559) | BitMEX Blog](https://blog.bitmex.com/breaking-down-the-fee-market-eip-1559/)
+- [Breaking Down The Fee Market (EIP-1559) - BitMEX Blog](https://blog.bitmex.com/breaking-down-the-fee-market-eip-1559/)
 
 ### Tech
 
 - [Taproot activation](https://taproot.watch/)
 - [Taproot activation - Miners](https://taproot.watch/miners)
-- [Bitcoin Optech Newsletter #149 | Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/19/)
+- [Bitcoin Optech Newsletter #149 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/19/)
 
 ### Ecosystem
 
