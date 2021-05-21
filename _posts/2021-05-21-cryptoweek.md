@@ -17,6 +17,8 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+### Markets
+
 - [Bitcoin, other cryptocurrencies plunge after China announces ban - CBC News](https://www.cbc.ca/news/business/bitcoin-ethereum-plunging-1.6032593)
 - [Bitcoin slides below $40,000 after China’s new crypto curbs - The Globe and Mail](https://www.theglobeandmail.com/investing/article-bitcoin-slides-below-40000-after-chinas-new-crypto-curbs/)
 - [Bitcoin rebound loses steam on rising regulatory concerns - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/us-business/article-bitcoin-rebound-loses-steam-on-rising-regulatory-concerns/?ref=premium)
@@ -39,9 +41,9 @@ banner:
 - [Coinbase (COIN) earnings Q1 2021 - Cnbc](https://www.cnbc.com/2021/05/13/coinbase-coin-earnings-q1-2021.html)
 - [Coinbase CFO on crypto investors, dogecoin and growing competition - Cnbc](https://www.cnbc.com/2021/05/13/coinbase-cfo-on-crypto-investors-dogecoin-and-growing-competition.html)
 - [Coinbase to Raise $1.25 Billion in Bond Sale Just 1 Month After Going Public - Decrypt](https://decrypt.co/71189/coinbase-raise-1-25-billion-bond-sale)
-- [Coinbase - Coinbase Announces Proposed Private Offering of $1.25 Billion of Convertible Senior Notes Due 2026 - Coinbase](https://investor.coinbase.com/news/news-details/2021/Coinbase-Announces-Proposed-Private-Offering-of-1.25-Billion-of-Convertible-Senior-Notes-Due-2026/default.aspx)
+- [Coinbase Announces Proposed Private Offering of $1.25 Billion of Convertible Senior Notes Due 2026 - Coinbase](https://investor.coinbase.com/news/news-details/2021/Coinbase-Announces-Proposed-Private-Offering-of-1.25-Billion-of-Convertible-Senior-Notes-Due-2026/default.aspx)
 - [Coinbase plans 'media arm' that reports to its marketing team: report - The Block Crypto](https://www.theblockcrypto.com/linked/105183/coinbase-crypto-media-arm-report)
-- [Coinbase in Talks to Buy Asset Manager Osprey Funds: Sources - CoinDesk](https://www.coindesk.com/coinbase-in-talks-to-buy-asset-manager-osprey-funds-sources)
+- [Coinbase in Talks to Buy Asset Manager Osprey Funds - CoinDesk](https://www.coindesk.com/coinbase-in-talks-to-buy-asset-manager-osprey-funds-sources)
 
 ### Custodians
 
@@ -54,7 +56,7 @@ banner:
 - [Written Testimony of Michael J. Hsu Before the Senate Committee on Banking, Housing and Urban Affairs - Financial Services](https://financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-hsum-20210519.pdf)
 - [Crypto Transfers Over $10,000 Should Be Reported to IRS, Treasury Says - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-20/treasury-calls-for-crypto-transfers-over-10-000-reported-to-irs)
 - [Dutch central bank reverses strict KYC rules for crypto withdrawals - The Block Crypto](https://www.theblockcrypto.com/linked/105530/dutch-central-bank-crypto-withdrawals)
-- [Request for Information and Comment on Digital Assets](https://www.fdic.gov/news/press-releases/2021/pr21046a.pdf)
+- [Request for Information and Comment on Digital Assets - FDIC](https://www.fdic.gov/news/press-releases/2021/pr21046a.pdf)
 
 ### CBDC
 
@@ -79,13 +81,9 @@ banner:
 ### Tesla
 
 - [Elon Musk Says Lightning Network ‘Needed’ to Scale Bitcoin for Now - Coindesk](https://www.coindesk.com/elon-musk-lightning-scale-bitcoin-energy-emissions)
-- [Bitcoin is More Credible than Elon. Bitcoin Tech Talk #240 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/bitcoin-is-more-credible-than-elon)
 - [Elon Musk Tweet - Twitter](https://twitter.com/elonmusk/status/1392974251011895300)
 - [Elon Musk Tweet - Twitter](https://twitter.com/elonmusk/status/1393738154889338884)
-
-### Alts
-
-- [Breaking Down The Fee Market (EIP-1559) - BitMEX Blog](https://blog.bitmex.com/breaking-down-the-fee-market-eip-1559/)
+- [Bitcoin is More Credible than Elon. Bitcoin Tech Talk #240 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/bitcoin-is-more-credible-than-elon)
 
 ### Tech
 
@@ -96,7 +94,6 @@ banner:
 ### Ecosystem
 
 - [The investment rationale for cryptocurrencies - Wells Fargo Investment Institute](https://www.wellsfargo.com/investment-institute/sr_investment_rationale_for_cryptocurrencies/)
-- [Banking on Bitcoin: BTC as Collateral - Coindesk](https://static.coindesk.com/wp-content/uploads/2021/02/TheStateofBitcoinasCollateral.pdf)
 
 ### Guest
 
