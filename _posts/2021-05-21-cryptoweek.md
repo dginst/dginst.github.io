@@ -71,7 +71,7 @@ banner:
 - [Tether (Finally) Releases Breakdown Of Its $42 Billion In Crypto Reserves - Forbes](https://www.forbes.com/sites/nicholasgans/2021/05/13/tether-releases-breakdown-of-its-reserves/)
 - [Tether march 31 2021 reserves breakdown - Tether](https://tether.to/wp-content/uploads/2021/05/tether-march-31-2021-reserves-breakdown.pdf)
 - [Tether is launching on the Avalanche blockchain - The Block Crypto](https://www.theblockcrypto.com/linked/105010/tether-avalanche-blockchain-usdt-avax)
-- [Tether Tokens (USDt) to Launch on Avalanche - Tether](https://tether.to/tether-tokens-usdt-to-launch-on-avalanche/?__cf_chl_jschl_tk__=a870dfe581172c5ac12b2a8a7b1ece0e0afaeb01-1621285312-0-AambpJasr9IrPV8p62DI8n2yaQx0nnLYPuakZpqV5IMv7XvphAYO21Vd16NQY0R7DiuZiVkEsjhKAbFdqqj_lIlEfrlGXTTPwjZGzGOvryTwUXaJwI8PgFG5eJMG7sO1wE3YeR7qUUYWWsAbuTrUPX053gQgTaDkZVe_YrDoGcANTWNDGtC_JodqoiSqH5vNHPkGvQj7fb16s327t6L416g4MbdavgchgHQHTa8ZYyUnOQHnID_6EuIv9Q4ZKH1XxxjU4BT2CXHc0P84AaWTSS8VyqvAwc9IEOWv04K0xrZEz6wgJOFY9LPevBpsTvhfOgnMW1n87MTPhI3QaLMZnOiEJ7TY22S_ELsIahRzSwSrVxwindQoksWk7BnI57oV8QVbAFLEFu8BhpIRFidQ7_kKzoPZ5__cFBmV46thMwq3yqKrS4_n7abmGtT-7PUp-CGY04tPU7mk-ZewoRjNgIc)
+- [Tether Tokens (USDt) to Launch on Avalanche - Tether](https://tether.to/tether-tokens-usdt-to-launch-on-avalanche)
 
 ### Ransomware
 
@@ -103,6 +103,7 @@ banner:
 ### Guest
 
 - [Guest: Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)
+- [Webinar sulla validazione temporale blockchain](https://www.intesigroup.com/it/webinar-validazione-temporale-blockchain/)
 
 ### DGI Events
 
