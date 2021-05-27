@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-Gli spunti di maggiore attualità sul mondo Bitcoin nella sintesi degli interventi pubblici di [Ferdinando M. Ametrano](http://ametrano.net/), direttore scientifico DGI.
+Gli spunti di maggiore attualità sul mondo Bitcoin nella sintesi degli interventi pubblici di [Ferdinando M. Ametrano](https://ametrano.net/), direttore scientifico DGI.
 
 L'articolo [**Ametrano: “Bitcoin a 400mila dollari entro fine anno, no monete ma oro”**](https://www.computermagazine.it/2021/03/29/ametrano-bitcoin-400mila-dollari-oro/) è a cura di _Roberto Mazzucchelli_ per __Computer Magazine__.
 

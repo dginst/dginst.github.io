@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-Gli spunti di maggiore attualità nell'intervista su Bitcoin di [Massimo Germinario](https://www.linkedin.com/in/ACoAAAVX2A0BzJK07kxlUxlziHx6IfM2zBiPFT0?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BlUQFtLhPQpSuoUN06B3CRA%3D%3D) a [Ferdinando M. Ametrano](http://ametrano.net/) per [Adnkronos](https://www.adnkronos.com/).
+Gli spunti di maggiore attualità nell'intervista su Bitcoin di [Massimo Germinario](https://www.linkedin.com/in/ACoAAAVX2A0BzJK07kxlUxlziHx6IfM2zBiPFT0?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BlUQFtLhPQpSuoUN06B3CRA%3D%3D) a [Ferdinando M. Ametrano](https://ametrano.net/) per [Adnkronos](https://www.adnkronos.com/).
 
 Leggi l'intervista completa: [**Ametrano, 'Bitcoin bene rifugio e non strumento pagamento: è il nuovo oro digitale'**](https://www.adnkronos.com/ametrano-bitcoin-bene-rifugio-e-non-strumento-pagamento-e-il-nuovo-oro-digitale_7JQNHUC0iUPOlzoFyO4zpb)
 

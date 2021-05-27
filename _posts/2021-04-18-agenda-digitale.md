@@ -13,7 +13,7 @@ newsfeed: true
 
 La quotazione di successo di Coinbase, la principale borsa Bitcoin, non potrà che abbattere le residue resistenze all’ETF e quest’ultimo marcare l’accessibilità globale dei mercati finanziari a Bitcoin.
 
-Nell'articolo ["Bitcoin sempre più mainstream, prossimo passo i primi ETF"](https://www.agendadigitale.eu/mercati-digitali/bitcoin-sempre-piu-mainstream-prossimo-passo-i-primi-etf/) pubblicatoil 16 aprile su **Agenda Digitale**, [Ferdinando Ametrano](http://ametrano.net/) svela la sua visione sull'andamento dell'industria bitcoin nei prossimi mesi.
+Nell'articolo ["Bitcoin sempre più mainstream, prossimo passo i primi ETF"](https://www.agendadigitale.eu/mercati-digitali/bitcoin-sempre-piu-mainstream-prossimo-passo-i-primi-etf/) pubblicatoil 16 aprile su **Agenda Digitale**, [Ferdinando Ametrano](https://ametrano.net/) svela la sua visione sull'andamento dell'industria bitcoin nei prossimi mesi.
 
 ---
 

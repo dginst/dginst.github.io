@@ -15,7 +15,7 @@ newsfeed: true
 
 I podcast Koinsquare sono i più ascoltati in Italia, e per questo Filippo Angeloni e Tiziano Tridico hanno scelto di fare informazione su Bitcoin, e sulle variabili che rendono Bitcoin il nuovo oro digitale.
 
-Nel 48mo episodio della serie [Bitcoin Italia, Crypto & Blockchain](https://www.listennotes.com/podcasts/bitcoin-italia-crypto-blockchain-koinsquare-UmoMEShy_Vp/) l'ospite [Ferdinando M. Ametrano](http://ametrano.net/), Direttore Scientifico DGI e docente di "Bitcoin and Blockchain Technology" all'Università Milano-Bicocca, spiega cosa è Bitcoin ed i possibili scenari futuri.
+Nel 48mo episodio della serie [Bitcoin Italia, Crypto & Blockchain](https://www.listennotes.com/podcasts/bitcoin-italia-crypto-blockchain-koinsquare-UmoMEShy_Vp/) l'ospite [Ferdinando M. Ametrano](https://ametrano.net/), Direttore Scientifico DGI e docente di "Bitcoin and Blockchain Technology" all'Università Milano-Bicocca, spiega cosa è Bitcoin ed i possibili scenari futuri.
 
 ---
 
