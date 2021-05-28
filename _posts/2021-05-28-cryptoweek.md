@@ -24,10 +24,10 @@ banner:
 - [Billionaire investor Bill Ackman says he wouldn't invest in bitcoin](https://www.theblockcrypto.com/post/106303/billionaire-investor-bill-ackman-bitcoin-speculative-crypto)
 - [Billionaire Carl Icahn Says He May Get Into Crypto in a ‘Big Way’ - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-26/carl-icahn-says-he-may-get-into-cryptocurrencies-in-a-big-way)
 - [Fidelity's bitcoin fund has raised more than $100 million from investors](https://www.theblockcrypto.com/linked/106208/fidelitys-bitcoin-fund-has-raised-more-than-100-million-from-investors)
-- [BlackRock says it is ‘studying’ crypto but cites volatility | Reuters](https://www.reuters.com/business/blackrock-directors-executive-pay-pass-annual-general-meeting-2021-05-26/)
-- [HSBC CEO says Bitcoin not for us | Reuters](https://www.reuters.com/technology/exclusive-hsbc-ceo-says-bitcoin-not-us-2021-05-24/)
-- [Goldman’s not giving up hope on Bitcoin | Financial Times](https://www.ft.com/content/9aee2f71-2d95-4be2-a2df-5dcab2a2a3ff)
-- [Goldman Sachs](https://www.goldmansachs.com/insights/pages/crypto-a-new-asset-class-f/report.pdf)
+- [BlackRock says it is ‘studying’ crypto but cites volatility - Reuters](https://www.reuters.com/business/blackrock-directors-executive-pay-pass-annual-general-meeting-2021-05-26/)
+- [HSBC CEO says Bitcoin not for us - Reuters](https://www.reuters.com/technology/exclusive-hsbc-ceo-says-bitcoin-not-us-2021-05-24/)
+- [Goldman’s not giving up hope on Bitcoin - Financial Times](https://www.ft.com/content/9aee2f71-2d95-4be2-a2df-5dcab2a2a3ff)
+- [Goldman Sachs report -  Crypto: A New Asset Class?](https://www.goldmansachs.com/insights/pages/crypto-a-new-asset-class-f/report.pdf)
 - [Galaxy Digital Expands Galaxy Fund Management with Acquisition of Vision Hill Group](https://www.newswire.ca/news-releases/galaxy-digital-expands-galaxy-fund-management-with-acquisition-of-vision-hill-group-813957745.html)
 - [PayPal Will Let Customers Withdraw Crypto, Exec Says - CoinDesk](https://www.coindesk.com/paypal-will-let-customers-withdraw-crypto-exec-says)
 - [PayPal exec says payments giant is working on crypto withdrawal capability](https://www.theblockcrypto.com/linked/106196/paypal-exec-says-payments-giant-is-working-on-crypto-withdrawal-capability)
@@ -38,9 +38,9 @@ banner:
 
 ### Ecosystem - Tesla
 
-- [Elon Musk on Twitter: "Spoke with North American Bitcoin miners. They committed to publish current &amp; planned renewable usage &amp; to ask miners WW to do so. Potentially promising." / Twitter](https://twitter.com/elonmusk/status/1396914548167233537)
-- [Elon Musk said he's speaking with bitcoin miners about renewable energy](https://www.theblockcrypto.com/linked/105906/elon-musk-bitcoin-miners-renewable-energy-michael-saylor-tesla)
-- [The Bitcoin rollercoaster will force Tesla to take earnings hits that investors will hate | Fortune](https://fortune.com/2021/05/26/tesla-investors-bitcoin-elon-musk-tweets-carbon-footprint-gains-losses)
+- [Elon Musk on Twitter: "Spoke with North American Bitcoin miners. They committed to publish current &amp; planned renewable usage &amp; to ask miners WW to do so. Potentially promising."](https://twitter.com/elonmusk/status/1396914548167233537)
+- [Elon Musk said he's speaking with bitcoin miners about renewable energy - The Block Crypto](https://www.theblockcrypto.com/linked/105906/elon-musk-bitcoin-miners-renewable-energy-michael-saylor-tesla)
+- [The Bitcoin rollercoaster will force Tesla to take earnings hits that investors will hate - Fortune](https://fortune.com/2021/05/26/tesla-investors-bitcoin-elon-musk-tweets-carbon-footprint-gains-losses)
 
 ### Ecosystem - Alts
 
@@ -56,7 +56,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #150 | Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/26/)
+- [Bitcoin Optech Newsletter #150 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/26/)
 - [Taproot activation - Miners](https://taproot.watch/miners)
 - [Taproot activation](https://taproot.watch/)
 
@@ -68,10 +68,10 @@ banner:
 - [Gensler says he wants to work with Congress to regulate crypto exchanges](https://www.theblockcrypto.com/linked/106215/gensler-congress-regulate-crypto-exchanges)
 - [Biden administration is reportedly reviewing ‘gaps’ in crypto regulation - Cointelegraph](https://cointelegraph.com/news/biden-administration-is-reportedly-reviewing-gaps-in-crypto-regulation)
 - [Iran Bans All Crypto Mining for the Summer: Report - CoinDesk](https://www.coindesk.com/iran-bans-all-crypto-mining-for-the-summer-report)
-- [China crackdown forces crypto mining operators to end operations | Business and Economy News | Al Jazeera](https://www.aljazeera.com/economy/2021/5/24/china-crackdown-forces-crypto-mining-operators-to-end-operations)
+- [China crackdown forces crypto mining operators to end operations - Al Jazeera](https://www.aljazeera.com/economy/2021/5/24/china-crackdown-forces-crypto-mining-operators-to-end-operations)
 - [FinCEN seeks presentations on zero-knowledge proofs, other privacy tech for September event](https://www.theblockcrypto.com/linked/106300/fincen-seeks-presentations-on-zero-knowledge-proofs-other-privacy-tech-for-september-event)
 - [OFAC wants to use blockchain analytics tools from Chainalysis](https://www.theblockcrypto.com/linked/106282/ofac-blockchain-analytics-tools-chainalysis)
-- [Elliptic](https://www.elliptic.co/hubfs/downloads/Elliptic_Sanctions-Compliance-In_Crypto.pdf)
+- [Elliptic report - Sanctions Compliance in Cryptocurrencies: Using Blockchain Analysis to Navigate the Minefield](https://www.elliptic.co/hubfs/downloads/Elliptic_Sanctions-Compliance-In_Crypto.pdf)
 
 ### DGI Events
 
