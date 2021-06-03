@@ -42,6 +42,7 @@ permalink: /cryptoweekinternal/
 * Website: in events.yml corregere la data del prossimo cryptoweek ed il suo link YouTube
 * Linkedin: creare un evento per il cryptoweek della settimana successiva
 * Linkedin: creare evento collegato al live youtube
+* Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in ContentCreator
 
 ## Sabato mattina
 
