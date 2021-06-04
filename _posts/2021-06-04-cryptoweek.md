@@ -17,7 +17,7 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-### Markets
+### Market
 
 - [Elon Musk on Twitter - Twitter](https://twitter.com/elonmusk/status/1400620080090730501)
 - [Musk breakup tweets bruise bitcoin - Reuters](https://www.reuters.com/technology/musk-tweet-dents-bitcoin-weekly-gain-prospect-2021-06-04/)
@@ -72,11 +72,11 @@ banner:
 - [Ban Cryptocurrency to Fight Ransomware - WSJ](https://www.wsj.com/articles/ban-cryptocurrency-to-fight-ransomware-11621962831)
 - [US regulators signal bigger role in cryptocurrencies market - Financial Times](https://www.ft.com/content/a2c13ce0-6e66-4751-aa65-6c668d303101)
 - [SEC files lawsuit against alleged promoters of crypto Ponzi scheme BitConnect - The Block Crypto](https://www.theblockcrypto.com/linked/106617/sec-bitconnect-promotion-lawsuit-crypto-ponzi)
-- [ECB warns of 'risks to stability' if central banks don’t offer digital currencies - The Block Crypto](https://www.theblockcrypto.com/linked/107037/ecb-warns-of-risks-to-stability-if-central-banks-dont-offer-digital-currencies)
-- [EU set to unveil plans for bloc-wide digital wallet - FT - Reuters](https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/)
 - [Israel-Gaza Conflict Spurs Bitcoin Donations to Hamas - WSJ](https://www.wsj.com/articles/israel-gaza-conflict-spurs-bitcoin-donations-to-hamas-11622633400?mod=e2tw)
 - [Central bank says leveraged crypto trading threatens banking system - Korea Herald](http://www.koreaherald.com/view.php?ud=20210527000912)
+- [EU set to unveil plans for bloc-wide digital wallet - FT - Reuters](https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/)
 - [ECB Report Highlights Risks of Not Launching CBDC - CoinDesk](https://www.coindesk.com/ecb-report-highlights-risks-of-not-launching-cbdc)
+- [ECB warns of 'risks to stability' if central banks don’t offer digital currencies - The Block Crypto](https://www.theblockcrypto.com/linked/107037/ecb-warns-of-risks-to-stability-if-central-banks-dont-offer-digital-currencies)
 - [Ex-Head of China's Digital Yuan Effort Says CBDCs Could Operate on Ethereum - CoinDesk](https://www.coindesk.com/ex-head-of-chinas-digital-yuan-effort-says-cbdcs-could-operate-on-ethereum)
 - [Stablecoins: bitcoin for squares has its own downsides - Financial Times](https://www.ft.com/content/223a7391-84af-444e-8fbf-c61e1e0cdac6)
 
