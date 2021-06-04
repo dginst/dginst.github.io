@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: 147c9sSywMs
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-8563383
@@ -17,44 +17,86 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-## Francesco
-- [Anchorage Launches ETH-Backed Loans for Institutions - Cryptobriefing](https://cryptobriefing.com/anchorage-launches-eth-backed-loans-for-institutions/)
-- [Norton’s Security Suite Will Let Users Mine Ethereum - Cryptobriefing](https://cryptobriefing.com/nortons-security-suite-will-let-users-mine-ethereum/)
-- [Coinbase Pro Will Begin Trading Dogecoin On Thursday - Cryptobriefing](https://cryptobriefing.com/coinbase-pro-will-begin-trading-dogecoin-on-thursday/)
-- [Coinbase Visa Debit Card Adds Apple Pay, Google Pay - Cryptobriefing](https://cryptobriefing.com/coinbase-visa-debit-card-adds-apple-pay-google-pay/)
-- [Alibaba, Google Among More Than 300 Companies Seeking Singapore Crypto Licenses - Coindesk](https://www.coindesk.com/alibaba-google-among-more-than-300-companies-seeking-singapore-crypto-licenses)
+
+### Market - Bitcoin
+
+- [Musk breakup tweets bruise bitcoin - Reuters](https://www.reuters.com/technology/musk-tweet-dents-bitcoin-weekly-gain-prospect-2021-06-04/)
+- [https://twitter.com/elonmusk/status/1400620080090730501](https://twitter.com/elonmusk/status/1400620080090730501)
 - [Bitcoin Drops After Musk Tweets of Breakup - Coindesk](https://www.coindesk.com/bitcoin-drops-after-musk-tweets-of-breakup)
-
-## Stelvio
-- [Iconic Funds debuts with bitcoin ETP on Deutsche Börse - ETF Strategy](https://www.etfstrategy.com/iconic-funds-debuts-directly-backed-bitcoin-etp-on-deutsche-borse-iconic-funds-physical-bitcoin-etp-xbti-gy-98547/)
-
-## Lucia
-- [US Regulators Must Work Together on Establishing ‘Regulatory Perimeter’ for Crypto, Says OCC Head - Coinspeaker](https://www.coinspeaker.com/us-regulatory-perimeter-crypto/)
-- [Binance Smart Chain Announces Flash Loan Hacks, Calls For Actions - Bitcoinist](https://bitcoinist.com/binance-smart-chain-announces-flash-loan-hacks-calls-for-actions/)
-- [BSC's Impossible Finance raises $7M for multi-chain DeFi incubator - Cointelegraph](https://cointelegraph.com/news/bsc-s-impossible-finance-raises-7m-for-multi-chain-defi-incubator)
-- [Valid Points: Why Staking on Eth 2.0 Is Becoming Lucrative for Exchanges - Coinbase](https://www.coindesk.com/staking-eth-2-0-lucrative-for-exchanges-web-3-hackathon)
-- [Ex-Head of China’s Digital Yuan Effort Says CBDCs Could Operate on Ethereum - Coindesk](https://www.coindesk.com/ex-head-of-chinas-digital-yuan-effort-says-cbdcs-could-operate-on-ethereum)
-- [RBI Says Banks Can’t Quote 2018 Circular to Restrict Crypto Transactions - Coindesk](https://www.coindesk.com/rbi-says-banks-cant-quote-2018-circular-to-restrict-crypto-transactions)
-- [Coinbase crypto partner Circle raises $440 million from Fidelity and others - Fortune](https://fortune.com/2021/05/28/crypto-startup-circle-fidelity-ftx-stablecoin-usdc-coinbase-funding-spac/)
-- [Institutional investors load up ETH, with its share of AUM hitting a new record - Cointelegraph](https://cointelegraph.com/news/institutional-investors-load-up-eth-with-its-share-of-aum-hitting-a-new-record)
-- [Coinbase debuts crypto rebate for online shopping via Apple Pay and Google Pay - Cointelegraph](https://cointelegraph.com/news/coinbase-debuts-crypto-rebate-for-online-shopping-via-apple-pay-and-google-pay)
-- [ECB Report Highlights Risks of Not Launching CBDC - Coindesk](https://www.coindesk.com/ecb-report-highlights-risks-of-not-launching-cbdc)
-- [SEC delays decision on WisdomTree's proposed bitcoin ETF - The Block Crypto](https://www.coindesk.com/ecb-report-highlights-risks-of-not-launching-cbdc)
+- [Bitcoin is tumbling at the end of its worst month in nearly 10 years - CNN](https://edition.cnn.com/2021/05/28/investing/bitcoin-prices/index.html)
 - [Guggenheim To Launch A New Fund, With Potential Bitcoin Exposure](https://www.forbes.com/sites/emilymason/2021/06/02/guggenheim-to-launch-a-new-fund-with-potential-bitcoin-exposure/?sh=6795d88c42fe)
-- [Top US Lawmaker Presses Big Companies on Ransomware Crypto Payments - Coindesk](https://www.coindesk.com/top-us-lawmaker-presses-big-companies-on-ransomware-crypto-payments)
+- [Investors see signs of recovery in Bitcoin's falling volatility - Fortune](https://fortune.com/2021/06/02/bitcoin-volatility-price-swings-crypto-recovery/)
+
+### Market - Altcoins
+
+- [DeFi Is Helping to Fuel the Crypto Market Boom—and Its Recent Volatility - WSJ](https://www.wsj.com/articles/defi-is-helping-to-fuel-the-crypto-market-boomand-its-recent-volatility-11622712602)
+- [Institutional investors load up ETH, with its share of AUM hitting a new record - Cointelegraph](https://cointelegraph.com/news/institutional-investors-load-up-eth-with-its-share-of-aum-hitting-a-new-record)
 - [Coinbase is giving away $1.2 million in dogecoin as it starts letting users trade the meme cryptocurrency - Business Insider](https://www.businessinsider.com/coinbase-dogecoin-sweepstakes-users-can-trade-meme-cryptocurrency-2021-6?r=US&IR=T)
-- [JPMorgan Job Posts Hint at Bank’s Broader Cryptocurrency Ambitions - Coindesk](https://www.coindesk.com/jpmorgan-job-posts-hint-at-banks-broader-cryptocurrency-ambitions)
+- [Coinbase Pro Will Begin Trading Dogecoin On Thursday - Cryptobriefing](https://cryptobriefing.com/coinbase-pro-will-begin-trading-dogecoin-on-thursday/)
+- [Dogecoin (DOGE) is launching on Coinbase Pro - by Coinbase - Jun, 2021 - The Coinbase Blog](https://blog.coinbase.com/dogecoin-doge-is-launching-on-coinbase-pro-1d73bf66dd9d)
+- [DogeCoin Price Is Soaring Thanks to Coinbase - Barron's](https://www.barrons.com/articles/dogecoin-price-coinbase-51622649010?mod=hp_LEAD_2)
+- [What is Cardano? ‘Green’ crypto hopes to surpass Facebook and Netflix after Musk tweet crashes bitcoin - The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html)
+- [https://twitter.com/BinanceChain/status/1398838655481913346](https://twitter.com/BinanceChain/status/1398838655481913346)
+- [PancakeBunny tanks 96% following $200M flash loan exploit](https://cointelegraph.com/news/pancakebunny-tanks-96-following-200m-flash-loan-exploit)
+- [Daily Active Binance Smart Chain Address - BscScan](https://bscscan.com/chart/active-address)
 
-### Markets
+### Market - ETF / ETP
 
-
-### Ecosystem
+- [SEC delays decision on WisdomTree's proposed bitcoin ETF - The Block Crypto](https://www.coindesk.com/ecb-report-highlights-risks-of-not-launching-cbdc)
+- [Bitcoin ETF applications gather dust as SEC’s Gensler frets over ‘gaps’ - Financial Times](https://www.ft.com/content/f9f2d454-36b6-43bf-9e5b-695cd65ca427)
+- [Crypto ETPs of Four Firms Begin Trading on Euronext Paris and Amsterdam - CoinDesk](https://www.coindesk.com/crypto-etps-of-four-firms-began-trading-on-euronext-paris-and-amsterdam-today)
+- [Iconic Funds debuts with bitcoin ETP on Deutsche Börse - ETF Strategy](https://www.etfstrategy.com/iconic-funds-debuts-directly-backed-bitcoin-etp-on-deutsche-borse-iconic-funds-physical-bitcoin-etp-xbti-gy-98547/)
 
 ### Tech
 
+- [Binance Smart Chain Announces Flash Loan Hacks, Calls For Actions - Bitcoinist](https://bitcoinist.com/binance-smart-chain-announces-flash-loan-hacks-calls-for-actions/)
+- [Taproot activation](https://taproot.watch/)
+- [Improvement on the current block building algorithm](https://gist.github.com/Xekyo/5cb413fe9f26dbce57abfd344ebbfaf2#file-candidate-set-based-block-building-md)
+- [Bitcoin Tech Talk](https://jimmysong.substack.com/)
+- [Newsletters - Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
+- [The Blocksize War – Chapter 11 – Scaling III – Milan - BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-11-scaling-iii-milan/)
+
+### Ecosystem
+
+- [Microsoft Word - Bloomberg Indices Outlook_Cryptos_June-2021](https://assets.bbhub.io/promo/sites/12/1169707_Crypto-June2021Outlook.pdf)
+- [Ark’s Cathie Wood Blames Crypto Crash on ‘ESG Movement’ - CoinDesk](https://www.coindesk.com/ark-cathie-wood-crash-esg-movement)
+- [Hedge Fund Billionaire Ray Dalio: ‘I Have Some Bitcoin’ - CoinDesk](https://www.coindesk.com/consensus-ray-dalio-i-have-some-bitcoin)
+- [Ray Dalio: Digital yuan will be more competitive than digital dollar](https://www.theblockcrypto.com/post/106712/digital-yuan-more-competitive-digital-dollar-bridgewaters-ray-dalio)
+- [Bitcoin 2021 Conference - Miami, June 4-5, 2021](https://b.tc/conference?utm_medium=email&_hsmi=131002365&
+- [Standard Chartered to launch institutional crypto brokerage and exchange](https://www.theblockcrypto.com/post/106944/standard-chartered-institutional-crypto-brokerage-exchange-europe?utm_medium=email&_hsmi=131243045&_hsenc=p2ANqtz-9FXOrCOCMKHYzxZx-V_RI2DXWfvA4b2aSJfd_DZqAwa4QovHZ1-sCBUnmjCqxRZip5sPIseanbkMA0OvEvcLzzQwqET6mGOIvDVdXKIpoydCf_Sew&utm_content=131243045&utm_source=hs_email)
+- [Standard Chartered and BC Group Partner to Establish Europe-Based Institutional Digital Asset Trading Venture – BC Group](https://bc.group/press-release/standard-chartered-and-bc-group-partner-to-establish-europe-based-institutional-digital-asset-trading-venture/)
+- [Standard Chartered and Northern Trust Partner to Launch Zodia, a Cryptocurrency Custodian for Institutional Investors - Business Wire](https://www.businesswire.com/news/home/20201208006211/en/Standard-Chartered-and-Northern-Trust-Partner-to-Launch-Zodia-a-Cryptocurrency-Custodian-for-Institutional-Investors)
+- [UK's Starling Bank Temporarily Blocks User Payments to Crypto Exchanges: Report - CoinDesk](https://www.coindesk.com/starling-blocks-crypto-exchanges)
+- [Alibaba, Google Among More Than 300 Companies Seeking Singapore Crypto Licenses - Coindesk](https://www.coindesk.com/alibaba-google-among-more-than-300-companies-seeking-singapore-crypto-licenses)
+- [Anchorage Launches ETH-Backed Loans for Institutions - Cryptobriefing](https://cryptobriefing.com/anchorage-launches-eth-backed-loans-for-institutions/)
+- [Anchorage to Offer Ethereum-Backed Loans Through BankProv - CoinDesk](https://www.coindesk.com/anchorage-to-offer-ethereum-backed-loans-through-bankprov?utm_medium=email&_hsmi=131476293&_hsenc=p2ANqtz-8XW22OxUXIEeUcIgSzmvipCaHNUcjdrxixys4eXSfVJPCa1OFf7nSlTDD-q9t75TXEmGQUSy6uoQmZTbU66OKdUhhktcUQRFMN2se6pR4NGiwKe_M&utm_content=131476293&utm_source=hs_email)
+- [JPMorgan Job Posts Hint at Bank’s Broader Cryptocurrency Ambitions - Coindesk](https://www.coindesk.com/jpmorgan-job-posts-hint-at-banks-broader-cryptocurrency-ambitions)
+- [Coinbase crypto partner Circle raises $440 million from Fidelity and others - Fortune](https://fortune.com/2021/05/28/crypto-startup-circle-fidelity-ftx-stablecoin-usdc-coinbase-funding-spac/)
+- [12 Largest Venture Rounds In Crypto History](https://www.forbes.com/sites/ninabambysheva/2021/05/28/440-million-circe-investment-is-the-largest-crypto-round-in-history/?utm_medium=email&_hsmi=130809105&_hsenc=p2ANqtz--feFyBWnthh2KwFMX-CYilHeSKsERiEQRnoB0NEZvhwswmbp5aLgNE5heEOVr1-_S8k73p3Acvs6bSyDSxvT4BtsAO4TihArkgPJdbW4ecfClsoIk&utm_content=130809105&utm_source=hs_email)
+- [https://twitter.com/Playboy/status/1400143797195923456](https://twitter.com/Playboy/status/1400143797195923456)
+
 ### Regulation
 
-### DGI Events
+- [Top US Lawmaker Presses Big Companies on Ransomware Crypto Payments - Coindesk](https://www.coindesk.com/top-us-lawmaker-presses-big-companies-on-ransomware-crypto-payments)
+- [US regulators signal bigger role in cryptocurrencies market - Financial Times](https://www.ft.com/content/a2c13ce0-6e66-4751-aa65-6c668d303101)
+- [SEC files lawsuit against alleged promoters of crypto Ponzi scheme BitConnect](https://www.theblockcrypto.com/linked/106617/sec-bitconnect-promotion-lawsuit-crypto-ponzi?utm_medium=email&_hsmi=130809105&_hsenc=p2ANqtz--Uz9FsqtRWFNEmVBi6cL-sJJ2jGZ_ahioBvQP99NZfK10tg-6x0M7XAgVWoeYj6Ln_iAeGmXGAPzIs2BrXRaro417zbhPREBaPVQl1MtIij_aWeaw&utm_content=130809105&utm_source=hs_email)
+- [Ban Cryptocurrency to Fight Ransomware - WSJ](https://www.wsj.com/articles/ban-cryptocurrency-to-fight-ransomware-11621962831)
+- [ECB warns of 'risks to stability' if central banks don’t offer digital currencies](https://www.theblockcrypto.com/linked/107037/ecb-warns-of-risks-to-stability-if-central-banks-dont-offer-digital-currencies?utm_medium=email&_hsmi=131476293&_hsenc=p2ANqtz-8zw65z_VI0phNghu2G1SDywRM_pe5CZEjD8aZmiUG2HyhjzpoqIzfGSOJnk28EHHCPdqVyOfcdDcxVklV50fBoU1ch8ZU60dMZgeRApWcaLaozwCs&utm_content=131476293&utm_source=hs_email)
+- [EU set to unveil plans for bloc-wide digital wallet - FT - Reuters](https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/?utm_medium=email&_hsmi=131476293&_hsenc=p2ANqtz-9O1aXeOJWzccxu02NB2pglOIpdL7oWofp-Tmy4bG6NickMdo121eWPQ7VeXnVJTV_6rh8GbkuFhlM1bkCa_ZL7rVWvSXDLS5iXOyax8jMCXQvxDTM&utm_content=131476293&utm_source=hs_email)
+- [Crypto firms fall short on anti-money laundering rules, UK watchdog says - Reuters](https://www.reuters.com/world/uk/uk-regulator-says-cryptoasset-firms-not-meeting-anti-money-laundering-rules-2021-06-03/?taid=60b8b50dca44bd000180c517&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
+- [Crypto Swings May Become a Threat, Norway’s Central Bank Warns - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-20/crypto-swings-may-become-a-threat-norway-s-central-bank-warns?utm_source=twitter&utm_medium=social&utm_content=business&utm_campaign=socialflow-organic&cmpid=socialflow-twitter-business)
+- [(BTC USD) Bitcoin May Yet See ‘Breakthrough,’ Norway Finance Minister Says - Bloomberg](https://www.bloomberg.com/news/articles/2021-06-02/bitcoin-may-yet-see-breakthrough-norway-finance-minister-says?utm_source=twitter&utm_medium=social&utm_content=business&utm_campaign=socialflow-organic&cmpid=socialflow-twitter-business)
+- [Israel-Gaza Conflict Spurs Bitcoin Donations to Hamas - WSJ](https://www.wsj.com/articles/israel-gaza-conflict-spurs-bitcoin-donations-to-hamas-11622633400?mod=e2tw)
+- [Stablecoins: bitcoin for squares has its own downsides - Financial Times](https://www.ft.com/content/223a7391-84af-444e-8fbf-c61e1e0cdac6)
+
+### Regulation - CBDC
+
+- [Central bank says leveraged crypto trading threatens banking system](http://www.koreaherald.com/view.php?ud=20210527000912)
+- [ECB Report Highlights Risks of Not Launching CBDC - Coindesk](https://www.coindesk.com/ecb-report-highlights-risks-of-not-launching-cbdc)
+- [Ex-Head of China’s Digital Yuan Effort Says CBDCs Could Operate on Ethereum - Coindesk](https://www.coindesk.com/ex-head-of-chinas-digital-yuan-effort-says-cbdcs-could-operate-on-ethereum)
+)
+
+### Digital Gold institute
 
 - [News](https://dgi.io/news/)
 - [Events](https://dgi.io/events/)
