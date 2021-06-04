@@ -17,14 +17,17 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-### Market
+### Market - Bitcoin
 
-- [Elon Musk on Twitter - Twitter](https://twitter.com/elonmusk/status/1400620080090730501)
+- [Elon Musk - Twitter](https://twitter.com/elonmusk/status/1400620080090730501)
 - [Musk breakup tweets bruise bitcoin - Reuters](https://www.reuters.com/technology/musk-tweet-dents-bitcoin-weekly-gain-prospect-2021-06-04/)
 - [Bitcoin Drops After Musk Tweets of Breakup - CoinDesk](https://www.coindesk.com/bitcoin-drops-after-musk-tweets-of-breakup)
 - [Bitcoin is tumbling at the end of its worst month in nearly 10 years - CNN](https://edition.cnn.com/2021/05/28/investing/bitcoin-prices/index.html)
 - [Guggenheim To Launch A New Fund, With Potential Bitcoin Exposure - Forbes](https://www.forbes.com/sites/emilymason/2021/06/02/guggenheim-to-launch-a-new-fund-with-potential-bitcoin-exposure/?sh=6795d88c42fe)
 - [Investors see signs of recovery in Bitcoin's falling volatility - Fortune](https://fortune.com/2021/06/02/bitcoin-volatility-price-swings-crypto-recovery/)
+
+### Market - Altcoins
+
 - [Institutional investors load up ETH, with its share of AUM hitting a new record - Cointelegraph](https://cointelegraph.com/news/institutional-investors-load-up-eth-with-its-share-of-aum-hitting-a-new-record)
 - [Coinbase Giving Away $1.2M in Dogecoin to Promote New Crypto Offering - Business Insider](https://www.businessinsider.com/coinbase-dogecoin-sweepstakes-users-can-trade-meme-cryptocurrency-2021-6?r=US&IR=T)
 - [Coinbase Pro Will Begin Trading Dogecoin On Thursday - Crypto Briefing](https://cryptobriefing.com/coinbase-pro-will-begin-trading-dogecoin-on-thursday/)
@@ -32,8 +35,11 @@ banner:
 - [DogeCoin Price Is Soaring Thanks to Coinbase - Barron's](https://www.barrons.com/articles/dogecoin-price-coinbase-51622649010?mod=hp_LEAD_2)
 - [What is Cardano? ‘Green’ crypto hopes to surpass Facebook and Netflix after Musk tweet crashes bitcoin - The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html)
 - [DeFi Is Helping to Fuel the Crypto Market Boom—and Its Recent Volatility - WSJ](https://www.wsj.com/articles/defi-is-helping-to-fuel-the-crypto-market-boomand-its-recent-volatility-11622712602)
-- [(6) Binance Smart Chain on Twitter - Twitter](https://twitter.com/BinanceChain/status/1398838655481913346)
+- [Binance Smart Chain - Twitter](https://twitter.com/BinanceChain/status/1398838655481913346)
 - [Binance Smart Chain Announces Flash Loan Hacks, Calls For Actions - Bitcoinist](https://bitcoinist.com/binance-smart-chain-announces-flash-loan-hacks-calls-for-actions/)
+
+### Market - ETF / ETP
+
 - [SEC delays decision on WisdomTree's proposed bitcoin ETF](https://www.theblockcrypto.com/linked/106961/sec-delays-decision-on-wisdomtrees-proposed-bitcoin-etf)
 - [Bitcoin ETF applications gather dust as SEC’s Gensler frets over ‘gaps’ - Financial Times](https://www.ft.com/content/f9f2d454-36b6-43bf-9e5b-695cd65ca427)
 - [Crypto ETPs of Four Firms Begin Trading on Euronext Paris and Amsterdam - CoinDesk](https://www.coindesk.com/crypto-etps-of-four-firms-began-trading-on-euronext-paris-and-amsterdam-today)
@@ -43,13 +49,13 @@ banner:
 
 - [Taproot activation](https://taproot.watch/)
 - [Improvement on the current block building algorithm](https://gist.github.com/Xekyo/5cb413fe9f26dbce57abfd344ebbfaf2#file-candidate-set-based-block-building-md)
-- [The Great Bitcoin Reset. Bitcoin Tech Talk #242 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/the-great-bitcoin-reset-bitcoin-tech)
-- [Bitcoin Optech Newsletter #151 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/02/)
-- [The Blocksize War – Chapter 11 – Scaling III – Milan - BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-11-scaling-iii-milan/)
+- [The Great Bitcoin Reset - Bitcoin Tech Talk #242](https://jimmysong.substack.com/p/the-great-bitcoin-reset-bitcoin-tech)
+- [Bitcoin Optech Newsletter #151](https://bitcoinops.org/en/newsletters/2021/06/02/)
+- [The Blocksize War, Chapter 11: Scaling III Milan - BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-11-scaling-iii-milan/)
 
 ### Ecosystem
 
-- [Microsoft Word - Bloomberg Indices Outlook_Cryptos_June-2021](https://assets.bbhub.io/promo/sites/12/1169707_Crypto-June2021Outlook.pdf)
+- [Bloomberg Crypto Outlook June 2021](https://assets.bbhub.io/promo/sites/12/1169707_Crypto-June2021Outlook.pdf)
 - [Ark’s Cathie Wood Blames Crypto Crash on ‘ESG Movement’ - CoinDesk](https://www.coindesk.com/ark-cathie-wood-crash-esg-movement)
 - [Hedge Fund Billionaire Ray Dalio: ‘I Have Some Bitcoin’ - CoinDesk](https://www.coindesk.com/consensus-ray-dalio-i-have-some-bitcoin)
 - [Ray Dalio: Digital yuan will be more competitive than digital dollar - The Block Crypto](https://www.theblockcrypto.com/post/106712/digital-yuan-more-competitive-digital-dollar-bridgewaters-ray-dalio)
