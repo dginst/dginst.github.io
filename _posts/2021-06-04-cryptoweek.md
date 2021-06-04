@@ -61,9 +61,9 @@ banner:
 - [Microsoft Word - Bloomberg Indices Outlook_Cryptos_June-2021](https://assets.bbhub.io/promo/sites/12/1169707_Crypto-June2021Outlook.pdf)
 - [Ark’s Cathie Wood Blames Crypto Crash on ‘ESG Movement’ - CoinDesk](https://www.coindesk.com/ark-cathie-wood-crash-esg-movement)
 - [Hedge Fund Billionaire Ray Dalio: ‘I Have Some Bitcoin’ - CoinDesk](https://www.coindesk.com/consensus-ray-dalio-i-have-some-bitcoin)
-- [Ray Dalio: Digital yuan will be more competitive than digital dollar](https://www.theblockcrypto.com/post/106712/digital-yuan-more-competitive-digital-dollar-bridgewaters-ray-dalio)
+- [Ray Dalio: Digital yuan will be more competitive than digital dollar - The Block Crypto](https://www.theblockcrypto.com/post/106712/digital-yuan-more-competitive-digital-dollar-bridgewaters-ray-dalio)
 - [Bitcoin 2021 Conference - Miami, June 4-5, 2021](https://b.tc/conference?utm_medium=email&_hsmi=131002365&
-- [Standard Chartered to launch institutional crypto brokerage and exchange](https://www.theblockcrypto.com/post/106944/standard-chartered-institutional-crypto-brokerage-exchange-europe?utm_medium=email&_hsmi=131243045&_hsenc=p2ANqtz-9FXOrCOCMKHYzxZx-V_RI2DXWfvA4b2aSJfd_DZqAwa4QovHZ1-sCBUnmjCqxRZip5sPIseanbkMA0OvEvcLzzQwqET6mGOIvDVdXKIpoydCf_Sew&utm_content=131243045&utm_source=hs_email)
+- [Standard Chartered to launch institutional crypto brokerage and exchange - The Block Crypto](https://www.theblockcrypto.com/post/106944/standard-chartered-institutional-crypto-brokerage-exchange-europe?utm_medium=email&_hsmi=131243045&_hsenc=p2ANqtz-9FXOrCOCMKHYzxZx-V_RI2DXWfvA4b2aSJfd_DZqAwa4QovHZ1-sCBUnmjCqxRZip5sPIseanbkMA0OvEvcLzzQwqET6mGOIvDVdXKIpoydCf_Sew&utm_content=131243045&utm_source=hs_email)
 - [Standard Chartered and BC Group Partner to Establish Europe-Based Institutional Digital Asset Trading Venture – BC Group](https://bc.group/press-release/standard-chartered-and-bc-group-partner-to-establish-europe-based-institutional-digital-asset-trading-venture/)
 - [Standard Chartered and Northern Trust Partner to Launch Zodia, a Cryptocurrency Custodian for Institutional Investors - Business Wire](https://www.businesswire.com/news/home/20201208006211/en/Standard-Chartered-and-Northern-Trust-Partner-to-Launch-Zodia-a-Cryptocurrency-Custodian-for-Institutional-Investors)
 - [UK's Starling Bank Temporarily Blocks User Payments to Crypto Exchanges: Report - CoinDesk](https://www.coindesk.com/starling-blocks-crypto-exchanges)
@@ -72,16 +72,16 @@ banner:
 - [Anchorage to Offer Ethereum-Backed Loans Through BankProv - CoinDesk](https://www.coindesk.com/anchorage-to-offer-ethereum-backed-loans-through-bankprov?utm_medium=email&_hsmi=131476293&_hsenc=p2ANqtz-8XW22OxUXIEeUcIgSzmvipCaHNUcjdrxixys4eXSfVJPCa1OFf7nSlTDD-q9t75TXEmGQUSy6uoQmZTbU66OKdUhhktcUQRFMN2se6pR4NGiwKe_M&utm_content=131476293&utm_source=hs_email)
 - [JPMorgan Job Posts Hint at Bank’s Broader Cryptocurrency Ambitions - Coindesk](https://www.coindesk.com/jpmorgan-job-posts-hint-at-banks-broader-cryptocurrency-ambitions)
 - [Coinbase crypto partner Circle raises $440 million from Fidelity and others - Fortune](https://fortune.com/2021/05/28/crypto-startup-circle-fidelity-ftx-stablecoin-usdc-coinbase-funding-spac/)
-- [12 Largest Venture Rounds In Crypto History](https://www.forbes.com/sites/ninabambysheva/2021/05/28/440-million-circe-investment-is-the-largest-crypto-round-in-history/?utm_medium=email&_hsmi=130809105&_hsenc=p2ANqtz--feFyBWnthh2KwFMX-CYilHeSKsERiEQRnoB0NEZvhwswmbp5aLgNE5heEOVr1-_S8k73p3Acvs6bSyDSxvT4BtsAO4TihArkgPJdbW4ecfClsoIk&utm_content=130809105&utm_source=hs_email)
+- [12 Largest Venture Rounds In Crypto History - Forbes](https://www.forbes.com/sites/ninabambysheva/2021/05/28/440-million-circe-investment-is-the-largest-crypto-round-in-history/?utm_medium=email&_hsmi=130809105&_hsenc=p2ANqtz--feFyBWnthh2KwFMX-CYilHeSKsERiEQRnoB0NEZvhwswmbp5aLgNE5heEOVr1-_S8k73p3Acvs6bSyDSxvT4BtsAO4TihArkgPJdbW4ecfClsoIk&utm_content=130809105&utm_source=hs_email)
 - [https://twitter.com/Playboy/status/1400143797195923456](https://twitter.com/Playboy/status/1400143797195923456)
 
 ### Regulation
 
 - [Top US Lawmaker Presses Big Companies on Ransomware Crypto Payments - Coindesk](https://www.coindesk.com/top-us-lawmaker-presses-big-companies-on-ransomware-crypto-payments)
 - [US regulators signal bigger role in cryptocurrencies market - Financial Times](https://www.ft.com/content/a2c13ce0-6e66-4751-aa65-6c668d303101)
-- [SEC files lawsuit against alleged promoters of crypto Ponzi scheme BitConnect](https://www.theblockcrypto.com/linked/106617/sec-bitconnect-promotion-lawsuit-crypto-ponzi?utm_medium=email&_hsmi=130809105&_hsenc=p2ANqtz--Uz9FsqtRWFNEmVBi6cL-sJJ2jGZ_ahioBvQP99NZfK10tg-6x0M7XAgVWoeYj6Ln_iAeGmXGAPzIs2BrXRaro417zbhPREBaPVQl1MtIij_aWeaw&utm_content=130809105&utm_source=hs_email)
+- [SEC files lawsuit against alleged promoters of crypto Ponzi scheme - BitConnect](https://www.theblockcrypto.com/linked/106617/sec-bitconnect-promotion-lawsuit-crypto-ponzi?utm_medium=email&_hsmi=130809105&_hsenc=p2ANqtz--Uz9FsqtRWFNEmVBi6cL-sJJ2jGZ_ahioBvQP99NZfK10tg-6x0M7XAgVWoeYj6Ln_iAeGmXGAPzIs2BrXRaro417zbhPREBaPVQl1MtIij_aWeaw&utm_content=130809105&utm_source=hs_email)
 - [Ban Cryptocurrency to Fight Ransomware - WSJ](https://www.wsj.com/articles/ban-cryptocurrency-to-fight-ransomware-11621962831)
-- [ECB warns of 'risks to stability' if central banks don’t offer digital currencies](https://www.theblockcrypto.com/linked/107037/ecb-warns-of-risks-to-stability-if-central-banks-dont-offer-digital-currencies?utm_medium=email&_hsmi=131476293&_hsenc=p2ANqtz-8zw65z_VI0phNghu2G1SDywRM_pe5CZEjD8aZmiUG2HyhjzpoqIzfGSOJnk28EHHCPdqVyOfcdDcxVklV50fBoU1ch8ZU60dMZgeRApWcaLaozwCs&utm_content=131476293&utm_source=hs_email)
+- [ECB warns of 'risks to stability' if central banks don’t offer digital currencies - The Block Crypto](https://www.theblockcrypto.com/linked/107037/ecb-warns-of-risks-to-stability-if-central-banks-dont-offer-digital-currencies?utm_medium=email&_hsmi=131476293&_hsenc=p2ANqtz-8zw65z_VI0phNghu2G1SDywRM_pe5CZEjD8aZmiUG2HyhjzpoqIzfGSOJnk28EHHCPdqVyOfcdDcxVklV50fBoU1ch8ZU60dMZgeRApWcaLaozwCs&utm_content=131476293&utm_source=hs_email)
 - [EU set to unveil plans for bloc-wide digital wallet - FT - Reuters](https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/?utm_medium=email&_hsmi=131476293&_hsenc=p2ANqtz-9O1aXeOJWzccxu02NB2pglOIpdL7oWofp-Tmy4bG6NickMdo121eWPQ7VeXnVJTV_6rh8GbkuFhlM1bkCa_ZL7rVWvSXDLS5iXOyax8jMCXQvxDTM&utm_content=131476293&utm_source=hs_email)
 - [Crypto firms fall short on anti-money laundering rules, UK watchdog says - Reuters](https://www.reuters.com/world/uk/uk-regulator-says-cryptoasset-firms-not-meeting-anti-money-laundering-rules-2021-06-03/?taid=60b8b50dca44bd000180c517&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
 - [Crypto Swings May Become a Threat, Norway’s Central Bank Warns - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-20/crypto-swings-may-become-a-threat-norway-s-central-bank-warns?utm_source=twitter&utm_medium=social&utm_content=business&utm_campaign=socialflow-organic&cmpid=socialflow-twitter-business)
@@ -91,7 +91,7 @@ banner:
 
 ### Regulation - CBDC
 
-- [Central bank says leveraged crypto trading threatens banking system](http://www.koreaherald.com/view.php?ud=20210527000912)
+- [Central bank says leveraged crypto trading threatens banking system - Korea Herald's](http://www.koreaherald.com/view.php?ud=20210527000912)
 - [ECB Report Highlights Risks of Not Launching CBDC - Coindesk](https://www.coindesk.com/ecb-report-highlights-risks-of-not-launching-cbdc)
 - [Ex-Head of China’s Digital Yuan Effort Says CBDCs Could Operate on Ethereum - Coindesk](https://www.coindesk.com/ex-head-of-chinas-digital-yuan-effort-says-cbdcs-could-operate-on-ethereum)
 )
