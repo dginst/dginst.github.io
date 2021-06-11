@@ -29,7 +29,7 @@ banner:
 - [Web traffic for cryptocurrency exchanges hit all-time high in May - The Block Crypto](https://www.theblockcrypto.com/linked/107613/web-traffic-crypto-exchanges-may-record-high)
 - [State Street sets up digital unit to capitalise on crypto craze - Financial Times](https://www.ft.com/content/52b1b8a9-2322-496c-ac16-a847c658d186)
 - [Cryptocurrency Comes to Retirement Plans as Coinbase Teams Up With 401(k) Provider - WSJ](https://www.wsj.com/articles/coinbase-teams-up-with-401-k-provider-to-offer-crypto-11623317402)
-- [Chainalysis Blog | Bitcoin Gains by Country: Who Benefited the Most from the 2020 Boom? - Chainalysis](https://blog.chainalysis.com/reports/bitcoin-gains-by-country-2020)
+- [Bitcoin Gains by Country: Who Benefited the Most from the 2020 Boom? - Chainalysis](https://blog.chainalysis.com/reports/bitcoin-gains-by-country-2020)
 
 ### Tech
 
