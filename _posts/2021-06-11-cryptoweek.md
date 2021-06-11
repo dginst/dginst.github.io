@@ -65,10 +65,10 @@ banner:
 ### Ecosystem - Ransomware and Colonial Pipeline
 
 - [DOJ Targets Crypto Crooks As Ransomware Investigations Elevated To Same Level As Terrorism - Zero Hedge](https://www.zerohedge.com/technology/doj-targets-crypto-crooks-ransomware-elevated-same-level-terrorism)
-- [Colonial Pipeline CEO tells Senate DarkSide hackers breached system using single ‘compromised’ password - as he defends decision to pay cybercriminals $4million ransom - Dailymail](https://www.dailymail.co.uk/news/article-9665459/Colonial-Pipeline-CEO-tells-Senate-hackers-breached-using-single-compromised-password.html)
 - [Let us take on bitcoin gangs, urge police - The Times](https://www.thetimes.co.uk/article/let-us-take-on-bitcoin-gangs-urge-police-02dgmvtfg)
+- [Colonial Pipeline CEO tells Senate DarkSide hackers breached system using single ‘compromised’ password - as he defends decision to pay cybercriminals $4million ransom - Dailymail](https://www.dailymail.co.uk/news/article-9665459/Colonial-Pipeline-CEO-tells-Senate-hackers-breached-using-single-compromised-password.html)
 - [US recovers millions in cryptocurrency paid to Colonial Pipeline ransomware hackers - CNN](https://edition.cnn.com/2021/06/07/politics/colonial-pipeline-ransomware-recovered/index.html)
-- [U.S. Retrieves Millions in Ransom Paid to Colonial Pipeline Hackers - WSJ](https://www.wsj.com/articles/u-s-retrieves-millions-paid-to-colonial-pipeline-hackers-11623094399)
+- [USRetrieves Millions in Ransom Paid to Colonial Pipeline Hackers - WSJ](https://www.wsj.com/articles/u-s-retrieves-millions-paid-to-colonial-pipeline-hackers-11623094399)
 - [US Recovers Bitcoin Paid to Colonial Pipeline Hackers - Decrypt](https://decrypt.co/72962/us-recovers-crypto-paid-colonial-pipeline-hackers-report)
 - [How Did the Feds Seize the Colonial Pipeline Ransomware Bitcoins? - Vice](https://www.vice.com/en/article/93y3w7/how-did-the-feds-seize-the-colonial-pipeline-ransomware-bitcoins)
 - [Adam Beck - Bitcoin was NOT hacked. Ransom hackers used a rented cloud server - Twitter](https://twitter.com/adam3us/status/1402182785205518337)
