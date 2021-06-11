@@ -99,6 +99,6 @@ banner:
 
 ### Digital Gold Institute
 
-- [Webinar Custodia Bitcoin - con Ferdinando Ametrano, organizzato da Riccardo Masutti](https://www.youtube.com/watch?v=ULvPMeXcJ5w&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=127)
+- [Custodia Bitcoin - webinar con Ferdinando Ametrano, organizzato da Riccardo Masutti](https://www.youtube.com/watch?v=ULvPMeXcJ5w&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=127)
 - [News from the Digital Gold Institute](https://dgi.io/news/)
 - [Events](https://dgi.io/events/)
