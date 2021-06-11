@@ -105,6 +105,27 @@
   eventfeed: true
   published: true
 
+- title: Bitcoin nella storia della moneta
+  subtitle: "Intervento a cura di Ferdinando M. Ametrano"
+  lang: it
+  city: online
+  date: 2021-06-17
+  date2:
+  hours: 20:45
+  organizer: Lions Club - San Daniele del Friuli
+  address: webinar
+  info:
+    text: pagina di registrazione
+    url: http://dgi.io/docs/20210617-lions-club.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210617-lions-club.jpg
+    size: 200
+    thumb: 20210617-lions-club-thumb.png
+  eventfeed: true
+  published: true 
+
 - title: "Validazione temporale a lungo termine e Blockchain"
   subtitle: "Un confronto tra Emanuele Cisbani e Ferdinando M. Ametrano sugli sviluppi tecnologici del settore"
   lang: it
