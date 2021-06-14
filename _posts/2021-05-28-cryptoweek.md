@@ -26,7 +26,7 @@ banner:
 - [Fidelity's bitcoin fund has raised more than $100 million from investors - The Block Crypto](https://www.theblockcrypto.com/linked/106208/fidelitys-bitcoin-fund-has-raised-more-than-100-million-from-investors)
 - [BlackRock says it is ‘studying’ crypto but cites volatility - Reuters](https://www.reuters.com/business/blackrock-directors-executive-pay-pass-annual-general-meeting-2021-05-26/)
 - [HSBC CEO says Bitcoin not for us - Reuters](https://www.reuters.com/technology/exclusive-hsbc-ceo-says-bitcoin-not-us-2021-05-24/)
-- [Goldman’s not giving up hope on Bitcoin - Financial Times](https://www.ft.com/content/9aee2f71-2d95-4be2-a2df-5dcab2a2a3ff)
+- [Goldman’s not giving up hope on Bitcoin - Financial Times](https://on.ft.com/35khYWg)
 - [Goldman Sachs report -  Crypto: A New Asset Class?](https://www.goldmansachs.com/insights/pages/crypto-a-new-asset-class-f/report.pdf)
 - [Galaxy Digital Expands Galaxy Fund Management with Acquisition of Vision Hill Group - Newswire](https://www.newswire.ca/news-releases/galaxy-digital-expands-galaxy-fund-management-with-acquisition-of-vision-hill-group-813957745.html)
 - [PayPal Will Let Customers Withdraw Crypto, Exec Says - CoinDesk](https://www.coindesk.com/paypal-will-let-customers-withdraw-crypto-exec-says)
