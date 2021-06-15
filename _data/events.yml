@@ -63,6 +63,27 @@
   eventfeed: true
   published: true
 
+- title: "La moneta è solo di Cesare? Cos'è la moneta? E il Bitcoin?"
+  subtitle: "Intervento a cura di Ferdinando Maria Ametrano"
+  lang: it
+  city: online
+  date: 2021-06-25
+  date2:
+  hours: 21:00
+  organizer: Centro Culturale Marcello Candia, Comune di Melzo
+  address: YouTube Streaming
+  info:
+    text: Informazioni
+    url: http://dgi.io/docs/20210625-cc-marcello-candia.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210625-cc-marcello-candia.jpg
+    size: 200
+    thumb: 
+  eventfeed: false
+  published: true  
+
 - title: "La custodia dei cripto-asset nel sistema finanziario"
   subtitle: "Business stories with “law”"
   lang: it
