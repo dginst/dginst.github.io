@@ -125,6 +125,26 @@
     thumb: 20210126-workshop-thumb.jpg
   eventfeed: true
   published: true
+  
+- title: "Bitcoin: stato attuale e sviluppi futuri"
+  subtitle: Webinar a cura di Ferdinando M. Ametrano e Fabrizio Villani
+  lang: it
+  city: online
+  date: 2021-06-23
+  hours: 17:00 - 18:00
+  organizer: Fintastico e CrowsCore
+  address: Zoom
+  info:
+    text: Incontro gratuito dedicato alla Finanza Alternativa.
+    url: https://www.attiviamoenergiepositive.it/laboratori/scenarifintech/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210623-scenari-fintech.jpg
+    size: 200
+    thumb: 
+  eventfeed: false
+  published: true
 
 - title: Bitcoin nella storia della moneta
   subtitle: "Intervento a cura di Ferdinando M. Ametrano"
