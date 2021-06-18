@@ -17,6 +17,9 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+
+### Lucia
+
 - [Taproot Locks In: Bitcoin Protocol Upgrade Will Activate In November - Nasdaq](https://www.nasdaq.com/articles/taproot-locks-in%3A-bitcoin-protocol-upgrade-will-activate-in-november-2021-06-12)
 - [Canadian Bitcoin ETF adds to its holdings despite steep market correction - Cointelegraph](https://cointelegraph.com/news/canadian-bitcoin-etf-adds-to-its-holdings-despite-steep-market-correction)
 - [Yearn’s Cronje Backs $10M Funding Round for DeFi’s Instadapp - Coindesk](https://www.coindesk.com/yearns-cronje-backs-10m-raise-for-defis-instadapp)
@@ -30,6 +33,16 @@ banner:
 - [Chinese Commercial Bank Enables Digital Yuan-Cash Conversion at Over 3,000 ATMs - Coindesk](coindesk.com/china-industrial-commerce-bank-digital-yuan-cash-convert)
 - [Grayscale is exploring 13 more investment products, including ones for Solana and Polygon - The Block Crypto](https://www.theblockcrypto.com/linked/108918/grayscale-exploring-13-new-products-solana-polygon)
 - [Surge In Crypto Use Triggers Wealth Warnings - Forbes](https://www.forbes.com/uk/advisor/personal-finance/2021/06/17/surge-in-crypto-use-triggers-wealth-warnings/)
+- [Bitcoin miners exit China, beat a path to the U.S. as crypto climate shifts - The Washington Post](https://www.washingtonpost.com/world/asia_pacific/bitcoin-mining-china-crypto-america/2021/06/17/0a39c3a8-c903-11eb-8708-64991f2acf28_story.html)
+- [World Bank declines to help El Salvador adopt bitcoin, citing environmental and transparency concerns -  The Washington Post](https://www.washingtonpost.com/world/2021/06/17/world-bank-bitcoin-el-salvador/)
+- [Bitcoin FAQ: A detailed guide to how cryptocurrency works - The Washington Post](https://www.washingtonpost.com/newssearch/?query=bitcoin&sort=Relevance&datefilter=All%20Since%202005)
+
+### Francesco
+- [Paraguay Official Plans to Legislate Bitcoin Next Month - Crypto Briefing](https://cryptobriefing.com/paraguay-official-plans-to-legislate-bitcoin-next-month/)
+- [Sichuan Orders Shutdown on 26 Bitcoin Mining Farms - Crypto Briefing](https://cryptobriefing.com/sichuan-orders-shutdown-on-26-bitcoin-mining-farms/)
+- [World Bank Denies El Salvador Help With Bitcoin Plans - Crypto Briefing](https://cryptobriefing.com/world-bank-denies-el-salvador-help-with-bitcoin-plans/)
+- [Spain’s BBVA Opening Bitcoin Trading Service to Private Banking Clients in Switzerland - Coindesk](https://www.coindesk.com/spains-bbva-opening-bitcoin-trading-service-to-private-banking-clients-in-switzerland)
+- [City in China’s Sichuan Province Orders Crypto Miners to Shut Down for Inspection: Reports - Coindesk](https://www.coindesk.com/sichuan-province-city-orders-crypto-miners-to-shut-down-for-inspection-reports)
 
 ### Markets
 
