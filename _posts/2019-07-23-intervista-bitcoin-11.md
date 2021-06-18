@@ -14,7 +14,7 @@ newsfeed: false
 Undicesima (ultima) puntata dell'intervista al nostro direttore
 [*Ferdinando M. Ametrano*](https://www.ametrano.net)
 sul tema Bitcoin,
-a cura di *Nicole Vismara* (manager di Deloitte Consulting).
+con *Nicole Vismara* (manager di Deloitte Consulting).
 In coda sono presenti i link alle puntate precedenti,
 di seguito la trascrizione di questa puntata.
 

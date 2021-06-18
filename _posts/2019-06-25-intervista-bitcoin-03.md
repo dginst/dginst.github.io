@@ -13,7 +13,7 @@ newsfeed: false
 
 Presentiamo la terza puntata dell'intervista al nostro direttore
 [*Ferdinando M. Ametrano*](https://www.ametrano.net)
-sul tema Bitcoin, a cura di *Nicole Vismara* (manager di Deloitte Consulting). Le successive puntate verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa puntata.
+sul tema Bitcoin, con *Nicole Vismara* (manager di Deloitte Consulting). Le successive puntate verranno pubblicate con cadenza regolare ogni martedì e giovedì, in coda sono presenti i link alle puntate precedenti. Di seguito la trascrizione di questa puntata.
 
 ### 3 - Regolazione
 

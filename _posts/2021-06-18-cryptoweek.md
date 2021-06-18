@@ -46,8 +46,8 @@ banner:
 
 ### Markets - Tether
 
-- [Tether ($USDT): An Accident Waiting To Happen - by Pantera - Coinmonks - Jun, 2021 - Medium](https://medium.com/coinmonks/tether-usdt-an-accident-waiting-to-happen-c4f4f8030f32)
-- [Tether is setting a New Standard for Transparency, that is Untethered from facts - by Bitfinex’ed - Jun, 2021 - Medium](https://bitfinexed.medium.com/tether-is-setting-a-new-standard-for-transparency-that-is-untethered-from-facts-deec42c473bb)
+- [Tether ($USDT): An Accident Waiting To Happen - by Pantera - Coinmonks - Medium](https://medium.com/coinmonks/tether-usdt-an-accident-waiting-to-happen-c4f4f8030f32)
+- [Tether is setting a New Standard for Transparency, that is Untethered from facts - by Bitfinex’ed - Medium](https://bitfinexed.medium.com/tether-is-setting-a-new-standard-for-transparency-that-is-untethered-from-facts-deec42c473bb)
 - [The Tether Scandal: The Biggest Threat To The Crypto-Ecosystem - Medium](https://cryptowhale.medium.com/the-tether-scandal-the-biggest-threat-to-the-crypto-ecosystem-23a169003205)
 
 ### Ecosystem - Ransomware and Colonial Pipeline
@@ -64,13 +64,13 @@ banner:
 ### Tech - Taproot
 
 - [Taproot activation](https://taproot.watch/)
-- [Bitcoin Optech Newsletter #153 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/16/)
+- [Bitcoin Optech Newsletter #153](https://bitcoinops.org/en/newsletters/2021/06/16/)
 - [Pieter Wuille on Taproot - Twitter](https://twitter.com/pwuille/status/1403725170993336322?s=20)
 - [Aaron van Wirdum on Taproot - Twitter](https://twitter.com/AaronvanW/status/1403701284495110145?s=20)
 - [Locked In: Bitcoin's Taproot Upgrade Gets Its 90% Mandate - CoinDesk](https://www.coindesk.com/locked-in-bitcoin-taproot-upgrade-gets-activation-mandate)
 - [Taproot Locks In - Bitcoin Magazine](https://bitcoinmagazine.com/technical/taproot-locks-in)
 - [Taproot Activates Massive Upgrade - Bitcoin Magazine](https://bitcoinmagazine.com/technical/taproot-activates-massive-upgrade)
-- [Why Altcoins aren't copying Taproot. Bitcoin Tech Talk #244 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/why-altcoins-arent-copying-taproot)
+- [Why Altcoins aren't copying Taproot - Bitcoin Tech Talk #244](https://jimmysong.substack.com/p/why-altcoins-arent-copying-taproot)
 
 ### Tech - Mining
 
@@ -79,7 +79,7 @@ banner:
 - [City in China’s Sichuan Province Orders Crypto Miners to Shut Down for Inspection: Reports - Coindesk](https://www.coindesk.com/sichuan-province-city-orders-crypto-miners-to-shut-down-for-inspection-reports)
 - [China's bitcoin miner exodus - CNBC](https://www.cnbc.com/2021/06/15/chinas-bitcoin-miner-exodus-.html)
 - [Some bitcoin miners in Xinjiang have been ordered to shut down - The Block Crypto](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
-- [Hash rate](https://www.blockchain.com/charts/hash-rate)
+- [Hash rate chart](https://www.blockchain.com/charts/hash-rate)
 
 ### Ecosystem - El Salvador, Paraguay, and Panama
 
@@ -117,10 +117,10 @@ banner:
 
 ### Regulation - CBDC
 
-- [Bank of England exec: CBDCs would be the safest type of money available - The Block Crypto](https://www.theblockcrypto.com/linked/108748/cbdcs-would-be-the-safest-type-of-money-available-says-bank-of-england-exec?utm_medium=email&_hsmi=134608138&_hsenc=p2ANqtz-8gdv5uOp-cln6Y664Q1qMFEDU4vRvA2-9DOeIhLd6f-kp--k5K1XLKluvpYRseH5nKtlNWW30H7tQK5WU2isfb5mG18FBd6MW37NMg7-dxJpgk5n8&utm_content=134608138&utm_source=hs_email)
+- [Bank of England exec: CBDCs would be the safest type of money available - The Block Crypto](https://www.theblockcrypto.com/linked/108748/cbdcs-would-be-the-safest-type-of-money-available-says-bank-of-england-exec)
+- [Central Bank Digital Currency: An update on the Bank of England’s work - Bank of England](https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference)
 - [BIS Launches Innovation Hub With Nordic Central Banks Focusing on CBDCs - CoinDesk](https://www.coindesk.com/bis-launches-innovation-hub-with-nordic-central-banks-focusing-on-cbdcs)
 - [Chinese Commercial Bank Enables Digital Yuan-Cash Conversion at Over 3,000 ATMs - Coindesk](coindesk.com/china-industrial-commerce-bank-digital-yuan-cash-convert)
-- [Central Bank Digital Currency: An update on the Bank of England’s work - Bank of England](https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference)
 - [The Risks Of Central Bank Digital Currencies - Diplomatic Courier](https://www.diplomaticourier.com/posts/the-risks-of-central-bank-digital-currencies)
 - [Digital dollar could push more people into bitcoin, fund manager says - CNBC](https://www.cnbc.com/2021/06/12/digital-dollar-could-push-more-people-into-bitcoin-fund-manager-says.html)
 
@@ -135,6 +135,6 @@ banner:
 
 ### Digital Gold Institute
 
-- [Bitcoin nella storia della moneta - webinar con Ferdinando Ametrano, organizzato dal Lions Club San Daniele del Friuli](https://www.youtube.com/watch?v=ULvPMeXcJ5w&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=127)
+- [Bitcoin nella storia della moneta - Lions Club San Daniele del Friuli](https://www.youtube.com/watch?v=7F2PL3h_t2o)
 - [News from the Digital Gold Institute](https://dgi.io/news/)
 - [Events](https://dgi.io/events/)
