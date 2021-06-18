@@ -22,7 +22,7 @@ banner:
 - [Paul Tudor Jones: I like Bitcoin - YouTube](https://www.youtube.com/watch?v=JBB5KbYewLk)
 - [Paul Tudor Jones: 'Go all in' on inflation trades if Fed ignores higher prices](https://www.cnbc.com/2021/06/14/paul-tudor-jones-says-bet-heavily-on-every-inflation-trade-if-fed-keeps-ignoring-higher-prices.html)
 - [Paul Tudor Jones Highlights Bitcoin - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/markets/paul-tudor-jones-highlights-bitcoin)
-- [Paul Tudor Jones wants to have 5% of his portfolio in bitcoin](https://www.theblockcrypto.com/linked/108337/paul-tudor-jones-bitcoin-5-percent-comments?utm_medium=email&_hsmi=133851693&
+- [Paul Tudor Jones wants to have 5% of his portfolio in bitcoin](https://www.theblockcrypto.com/linked/108337/paul-tudor-jones-bitcoin-5-percent-comments)
 - [Paul Tudor Jones Likes Bitcoin as Portfolio Diversifier - Blockworks](https://blockworks.co/paul-tudor-jones-likes-bitcoin-as-portfolio-diversifier/?oly_enc_id=6911D0507689B3P)
 
 ### Markets - Elon Musk
@@ -53,13 +53,13 @@ banner:
 ### Ecosystem - Ransomware and Colonial Pipeline
 
 - [The Colonial Pipeline hack, the Russians, & Bitcoin – here's what actually happened - The Dossier](https://dossier.substack.com/p/the-colonial-pipeline-hack-the-russians)
-- [Untraceable Bitcoin Is a Myth - WSJ](https://www.wsj.com/articles/untraceable-bitcoin-is-a-myth-11623860828?mod=searchresults_pos1&page=1)
+- [Untraceable Bitcoin Is a Myth - WSJ](https://www.wsj.com/articles/untraceable-bitcoin-is-a-myth-11623860828)
 
 ### Ecosystem - Exchanges
 
 - [Silvergate Bank cuts ties with Binance, affecting deposits and withdrawals](https://www.theblockcrypto.com/post/108064/silvergate-bank-binance-cut-ties-crypto)
 - [Bitcoin: Coinbase rival Kraken may go public via direct listing](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)
-- [Kraken Could IPO By End of 2022 - Blockworks](https://blockworks.co/kraken-could-ipo-by-end-of-2022/?oly_enc_id=6911D0507689B3P)
+- [Kraken Could IPO By End of 2022 - Blockworks](https://blockworks.co/kraken-could-ipo-by-end-of-2022)
 
 ### Tech - Taproot
 
@@ -67,10 +67,10 @@ banner:
 - [Bitcoin Optech Newsletter #153 | Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/16/)
 - [Pieter Wuille on Taproot - Twitter](https://twitter.com/pwuille/status/1403725170993336322?s=20)
 - [Aaron van Wirdum on Taproot - Twitter](https://twitter.com/AaronvanW/status/1403701284495110145?s=20)
+- [Locked In: Bitcoin's Taproot Upgrade Gets Its 90% Mandate - CoinDesk](https://www.coindesk.com/locked-in-bitcoin-taproot-upgrade-gets-activation-mandate)
 - [Taproot Locks In - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/taproot-locks-in)
 - [Taproot Activates Massive Upgrade - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/taproot-activates-massive-upgrade)
 - [Why Altcoins aren't copying Taproot. Bitcoin Tech Talk #244 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/why-altcoins-arent-copying-taproot)
-- [Locked In: Bitcoin's Taproot Upgrade Gets Its 90% Mandate - CoinDesk](https://www.coindesk.com/locked-in-bitcoin-taproot-upgrade-gets-activation-mandate)
 
 ### Tech - Mining
 
@@ -79,6 +79,7 @@ banner:
 - [City in China’s Sichuan Province Orders Crypto Miners to Shut Down for Inspection: Reports - Coindesk](https://www.coindesk.com/sichuan-province-city-orders-crypto-miners-to-shut-down-for-inspection-reports)
 - [China's bitcoin miner exodus](https://www.cnbc.com/2021/06/15/chinas-bitcoin-miner-exodus-.html)
 - [Some bitcoin miners in Xinjiang have been ordered to shut down](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
+- [Hash rate](https://www.blockchain.com/charts/hash-rate)
 
 ### Ecosystem - El Salvador, Paraguay, and Panama
 
