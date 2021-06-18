@@ -34,21 +34,21 @@ banner:
 
 ### Markets - Microstrategy
 
-- [MicroStrategy triples down on bitcoin | Financial Times](https://www.ft.com/content/c4d23ea3-0838-461b-90e4-c0e7d31e5c20)
+- [MicroStrategy triples down on bitcoin - Financial Times](https://www.ft.com/content/c4d23ea3-0838-461b-90e4-c0e7d31e5c20)
 - [MicroStrategy Launches “At the Market” Securities Offering for Flexibility to Sell Up to $1 Billion of its Class A Common Stock Over Time](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-launches-at-the-market-securities-offering-for-flexibility-to-sell-up-to-1b-of-its-class-a-common-stock-over-time_06-14-2021)
 - [MicroStrategy May Sell $1 Billion in Stock to Buy More Bitcoin - Decrypt](https://decrypt.co/73619/microstrategy-may-sell-1-billion-stock-buy-more-bitcoin)
 
 ### Markets - Altcoins
 
-- [Chiliz (CHZ) Keep Network (KEEP) and Shiba Inu (SHIB) are launching on Coinbase Pro | by Coinbase | Jun, 2021 | The Coinbase Blog](https://blog.coinbase.com/chiliz-chz-keep-network-keep-and-shiba-inu-shib-are-launching-on-coinbase-pro-fba50e9e8048)
-- [The Rise of Shiba Inu Coin Shows Crypto's New Dynamics | Barron's](https://www.barrons.com/articles/the-rise-of-shiba-inu-coin-shows-cryptos-new-dynamics-51623960066?mod=bol-social-tw)
+- [Chiliz (CHZ) Keep Network (KEEP) and Shiba Inu (SHIB) are launching on Coinbase Pro - by Coinbase - Jun, 2021 - The Coinbase Blog](https://blog.coinbase.com/chiliz-chz-keep-network-keep-and-shiba-inu-shib-are-launching-on-coinbase-pro-fba50e9e8048)
+- [The Rise of Shiba Inu Coin Shows Crypto's New Dynamics - Barron's](https://www.barrons.com/articles/the-rise-of-shiba-inu-coin-shows-cryptos-new-dynamics-51623960066?mod=bol-social-tw)
 - [Mark Cuban Calls for DeFi Regulation After Crypto Investment Goes to Zero - Decrypt](https://decrypt.co/73861/mark-cuban-titan-defi-crypto-regulation)
 
 ### Markets - Tether
 
-- [Tether ($USDT): An Accident Waiting To Happen | by Pantera | Coinmonks | Jun, 2021 | Medium](https://medium.com/coinmonks/tether-usdt-an-accident-waiting-to-happen-c4f4f8030f32)
-- [Tether is setting a New Standard for Transparency, that is Untethered from facts | by Bitfinex’ed | Jun, 2021 | Medium](https://bitfinexed.medium.com/tether-is-setting-a-new-standard-for-transparency-that-is-untethered-from-facts-deec42c473bb)
-- [The Tether Scandal: The Biggest Threat To The Crypto-Ecosystem | by Mr. Whale | Jun, 2021 | Medium](https://cryptowhale.medium.com/the-tether-scandal-the-biggest-threat-to-the-crypto-ecosystem-23a169003205)
+- [Tether ($USDT): An Accident Waiting To Happen - by Pantera - Coinmonks - Jun, 2021 - Medium](https://medium.com/coinmonks/tether-usdt-an-accident-waiting-to-happen-c4f4f8030f32)
+- [Tether is setting a New Standard for Transparency, that is Untethered from facts - by Bitfinex’ed - Jun, 2021 - Medium](https://bitfinexed.medium.com/tether-is-setting-a-new-standard-for-transparency-that-is-untethered-from-facts-deec42c473bb)
+- [The Tether Scandal: The Biggest Threat To The Crypto-Ecosystem - by Mr. Whale - Jun, 2021 - Medium](https://cryptowhale.medium.com/the-tether-scandal-the-biggest-threat-to-the-crypto-ecosystem-23a169003205)
 
 ### Ecosystem - Ransomware and Colonial Pipeline
 
@@ -64,7 +64,7 @@ banner:
 ### Tech - Taproot
 
 - [Taproot activation](https://taproot.watch/)
-- [Bitcoin Optech Newsletter #153 | Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/16/)
+- [Bitcoin Optech Newsletter #153 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/16/)
 - [Pieter Wuille on Taproot - Twitter](https://twitter.com/pwuille/status/1403725170993336322?s=20)
 - [Aaron van Wirdum on Taproot - Twitter](https://twitter.com/AaronvanW/status/1403701284495110145?s=20)
 - [Locked In: Bitcoin's Taproot Upgrade Gets Its 90% Mandate - CoinDesk](https://www.coindesk.com/locked-in-bitcoin-taproot-upgrade-gets-activation-mandate)
@@ -84,7 +84,7 @@ banner:
 ### Ecosystem - El Salvador, Paraguay, and Panama
 
 - [A Global First: Bitcoin as National Currency - WSJ](https://www.wsj.com/articles/a-global-first-bitcoin-as-national-currency-11623796143)
-- [World Bank rejects El Salvador request for help on bitcoin implementation | Reuters](https://www.reuters.com/business/el-salvador-keep-dollar-legal-tender-seeks-world-bank-help-with-bitcoin-2021-06-16)
+- [World Bank rejects El Salvador request for help on bitcoin implementation - Reuters](https://www.reuters.com/business/el-salvador-keep-dollar-legal-tender-seeks-world-bank-help-with-bitcoin-2021-06-16)
 - [World Bank Denies El Salvador's Request for Technical Assistance on Bitcoin - CoinDesk](https://www.coindesk.com/world-bank-denies-request-el-salvador-bitcoin)
 - [World Bank declines to help El Salvador adopt bitcoin, citing environmental and transparency concerns -  The Washington Post](https://www.washingtonpost.com/world/2021/06/17/world-bank-bitcoin-el-salvador/)
 - [World Bank Denies El Salvador Help With Bitcoin Plans - Crypto Briefing](https://cryptobriefing.com/world-bank-denies-el-salvador-help-with-bitcoin-plans/)
@@ -96,10 +96,10 @@ banner:
 
 - [Goldman Offers New Bitcoin Derivatives to Wall Street Investors](https://news.bloomberglaw.com/securities-law/goldman-offers-new-bitcoin-derivatives-to-wall-street-investors?utm_source=rss&utm_medium=SLNW&utm_campaign=00000179-42ec-d779-a37b-caffdf410003)
 - [Goldman Sachs Reportedly Exploring Ether Options - Blockworks](https://blockworks.co/goldman-sachs-reportedly-exploring-ether-options/?oly_enc_id=6911D0507689B3P)
-- [Bitcoin Is a Fail for Retail Investors, Goldman Sachs Team Warns | Barron's](https://www.barrons.com/articles/bitcoin-is-a-fail-for-retail-investors-goldman-sachs-team-warns-51623781467?mod=bol-social-tw)
+- [Bitcoin Is a Fail for Retail Investors, Goldman Sachs Team Warns - Barron's](https://www.barrons.com/articles/bitcoin-is-a-fail-for-retail-investors-goldman-sachs-team-warns-51623781467?mod=bol-social-tw)
 - [Bitcoin: Goldman Sachs ramps up trading in partnership with Mike Novogratz’ Galaxy Digital](https://www.cnbc.com/2021/06/18/bitcoin-goldman-sachs-ramps-up-trading-in-partnership-with-mike-novogratz-galaxy-digital.html)
 - [BBVA launches its first commercial solution for the trading and custody of bitcoin in Switzerland](https://www.bbva.com/en/bbva-launches-its-first-commercial-solution-for-the-trading-and-custody-of-bitcoin-in-switzerland/)
-- [Spain's BBVA opens Bitcoin trading service to clients in Switzerland | Reuters](https://www.reuters.com/business/spains-bbva-opens-bitcoin-trading-service-clients-switzerland-2021-06-18/)
+- [Spain's BBVA opens Bitcoin trading service to clients in Switzerland - Reuters](https://www.reuters.com/business/spains-bbva-opens-bitcoin-trading-service-clients-switzerland-2021-06-18/)
 - [Spain’s BBVA Opening Bitcoin Trading Service to Private Banking Clients in Switzerland - Coindesk](https://www.coindesk.com/spains-bbva-opening-bitcoin-trading-service-to-private-banking-clients-in-switzerland)
 - [Ethereum is outperforming bitcoin. Morgan Stanley thinks it knows why](https://www.cnbc.com/2021/06/17/ethereum-is-outperforming-bitcoin-morgan-stanley-thinks-it-knows-why.html)
 - [NYDIG, FS Investments file for new Morgan Stanley-focused bitcoin fund](https://www.theblockcrypto.com/linked/108514/nydig-fs-investments-file-for-new-morgan-stanley-focused-bitcoin-fund)
@@ -109,10 +109,10 @@ banner:
 - [Most UK Financial Advisers Would Steer Clear of Crypto and Meme Stocks: Poll - CoinDesk](https://www.coindesk.com/opinium-survey-ifa-crypto-investments?utm_source=Sailthru&utm_medium=email&utm_campaign=NODE%20JUNE%2017%202021&utm_content=B&utm_term=The%20Node)
 - [Hedge funds expect to hold 7% of assets in crypto within five years - Financial Times](https://www.ft.com/content/4f8044bf-8f0f-46b4-9fb7-6d0eba723017)
 - [Hedge Funds See 7.2% of Assets in Crypto by 2026: Report - CoinDesk](https://www.coindesk.com/hedge-fund-crypto-asset-allocation-survey)
-- [Index publisher MSCI looking at launch of crypto indexes | Reuters](https://www.reuters.com/business/index-publisher-msci-looking-launch-crypto-indexes-2021-06-17)
+- [Index publisher MSCI looking at launch of crypto indexes - Reuters](https://www.reuters.com/business/index-publisher-msci-looking-launch-crypto-indexes-2021-06-17)
 - [Crypto asset manager Bitwise raises $70 million from Kravis, Druckenmiller, Bridgewater CEO McCormick and more - CNBC](https://www.cnbc.com/2021/06/15/crypto-asset-manager-bitwise-raises-70-million-from-kravis-druckenmiller-others.html)
 - [Bitwise raises $70 million from new Wall Street investors](https://www.theblockcrypto.com/post/108421/bitwise-raises-70-million-from-new-wall-street-investors-including-henry-kravis-and-dan-loeb)
-- [Bitwise Asset Management Inc. Completes $70 Million Series B, Valuing the Company at More Than $500 Million | Business Wire](https://www.businesswire.com/news/home/20210615005680/en/Bitwise-Asset-Management-Inc.-Completes-70-Million-Series-B-Valuing-the-Company-at-More-Than-500-Million)
+- [Bitwise Asset Management Inc. Completes $70 Million Series B, Valuing the Company at More Than $500 Million - Business Wire](https://www.businesswire.com/news/home/20210615005680/en/Bitwise-Asset-Management-Inc.-Completes-70-Million-Series-B-Valuing-the-Company-at-More-Than-500-Million)
 - [BitDAO Raises $230M for Decentralized Crypto Investment Fund - CoinDesk](https://www.coindesk.com/bitdao-fundraising-decentralized-crypto-investment-fund)
 
 ### Regulation - CBDC
@@ -120,7 +120,7 @@ banner:
 - [Bank of England exec: CBDCs would be the safest type of money available](https://www.theblockcrypto.com/linked/108748/cbdcs-would-be-the-safest-type-of-money-available-says-bank-of-england-exec?utm_medium=email&_hsmi=134608138&_hsenc=p2ANqtz-8gdv5uOp-cln6Y664Q1qMFEDU4vRvA2-9DOeIhLd6f-kp--k5K1XLKluvpYRseH5nKtlNWW30H7tQK5WU2isfb5mG18FBd6MW37NMg7-dxJpgk5n8&utm_content=134608138&utm_source=hs_email)
 - [BIS Launches Innovation Hub With Nordic Central Banks Focusing on CBDCs - CoinDesk](https://www.coindesk.com/bis-launches-innovation-hub-with-nordic-central-banks-focusing-on-cbdcs)
 - [Chinese Commercial Bank Enables Digital Yuan-Cash Conversion at Over 3,000 ATMs - Coindesk](coindesk.com/china-industrial-commerce-bank-digital-yuan-cash-convert)
-- [Central Bank Digital Currency: An update on the Bank of England’s work - speech by Tom Mutton | Bank of England](https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference)
+- [Central Bank Digital Currency: An update on the Bank of England’s work - speech by Tom Mutton - Bank of England](https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference)
 - [The Risks Of Central Bank Digital Currencies](https://www.diplomaticourier.com/posts/the-risks-of-central-bank-digital-currencies)
 - [Digital dollar could push more people into bitcoin, fund manager says](https://www.cnbc.com/2021/06/12/digital-dollar-could-push-more-people-into-bitcoin-fund-manager-says.html)
 
@@ -129,9 +129,9 @@ banner:
 - [UK Regulator Finds 2.3M Adults Now Hold Crypto - CoinDesk](https://www.coindesk.com/uk-regulator-crypto-survey?utm_medium=email&_hsmi=134608138&_hsenc=p2ANqtz-9d8McjA-scnvr-dpWtm_rillkCuMcpEuUN86L1f0VpR5g73zmlkxcxfGS1PZ9DzoG011nxKN_GIypozpBn4ZDuJLjzsT5uj06u2O6q_iaeJCaouzc&utm_content=134608138&utm_source=hs_email)
 - [SEC Delays Approval of VanEck Bitcoin ETF, Again - Blockworks](https://blockworks.co/sec-delays-approval-of-vaneck-bitcoin-etf-again/?oly_enc_id=6911D0507689B3P)
 - [SEC delays decision on Kryptoin's proposed bitcoin ETF](https://www.theblockcrypto.com/linked/108398/sec-delays-decision-on-kryptoins-proposed-bitcoin-etf-making-it-the-latest-of-multiple-extensions)
-- [CFTC/SEC Investor Alert: Funds Trading in Bitcoin Futures | CFTC](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/fraudadv_funds_trading_in_bitcoin_futures.html)
+- [CFTC/SEC Investor Alert: Funds Trading in Bitcoin Futures - CFTC](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/fraudadv_funds_trading_in_bitcoin_futures.html)
 - [Danske Bank's position on cryptocurrencies](https://danskebank.com/news-and-insights/news-archive/news/2021/18062021)
-- [Unregulated spread of cryptocurrencies a concern, says Italian regulator | Reuters](https://www.reuters.com/business/unregulated-spread-cryptocurrencies-concern-says-italian-regulator-2021-06-14/)
+- [Unregulated spread of cryptocurrencies a concern, says Italian regulator - Reuters](https://www.reuters.com/business/unregulated-spread-cryptocurrencies-concern-says-italian-regulator-2021-06-14/)
 
 ### Digital Gold Institute
 
