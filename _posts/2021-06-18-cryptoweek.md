@@ -132,6 +132,8 @@ banner:
 - [CFTC/SEC Investor Alert: Funds Trading in Bitcoin Futures - CFTC](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/fraudadv_funds_trading_in_bitcoin_futures.html)
 - [Danske Bank's position on cryptocurrencies - Danske Bank](https://danskebank.com/news-and-insights/news-archive/news/2021/18062021)
 - [Unregulated spread of cryptocurrencies a concern, says Italian regulator - Reuters](https://www.reuters.com/business/unregulated-spread-cryptocurrencies-concern-says-italian-regulator-2021-06-14/)
+- [Incontro annuale con il mercato finanziario: Discorso del Presidente Paolo Savona - Consob](https://www.consob.it/documents/46180/46181/dsc2021.pdf/75e65199-14e5-448d-a4a1-d792e5d8c505)
+- [Incontro annuale con il mercato finanziario: Discorso del Presidente Paolo Savona - YouTube](https://www.youtube.com/watch?v=quog0hRclSg)
 
 ### Digital Gold Institute
 
