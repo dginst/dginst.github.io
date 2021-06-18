@@ -27,6 +27,9 @@ banner:
 - [DeFi exchange dYdX closes $65 million raise led by Paradigm - The Block Crypto](https://www.theblockcrypto.com/post/105881/defi-exchange-dydx-65-million-raise-paradigm)
 - [SEC Delays Ruling on Bitcoin ETF in Blow to Crypto Traders - Bloomberg](https://www.bloomberg.com/news/articles/2021-06-16/sec-seeks-more-comment-on-vaneck-bitcoin-etf-delaying-decision?utm_source=google&utm_medium=bd&cmpId=google)
 - [Polychain, Pantera Back $14M Raise for DeFi Derivatives Platform SynFutures - Coindesk](https://www.coindesk.com/polychain-pantera-back-14m-defi-derivatives-platform-synfutures-round)
+- [Chinese Commercial Bank Enables Digital Yuan-Cash Conversion at Over 3,000 ATMs - Coindesk](coindesk.com/china-industrial-commerce-bank-digital-yuan-cash-convert)
+- [Grayscale is exploring 13 more investment products, including ones for Solana and Polygon - The Block Crypto](https://www.theblockcrypto.com/linked/108918/grayscale-exploring-13-new-products-solana-polygon)
+- [Surge In Crypto Use Triggers Wealth Warnings - Forbes](https://www.forbes.com/uk/advisor/personal-finance/2021/06/17/surge-in-crypto-use-triggers-wealth-warnings/)
 
 ### Markets
 
