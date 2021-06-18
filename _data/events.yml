@@ -71,10 +71,10 @@
   date2:
   hours: 21:00
   organizer: Centro Culturale Marcello Candia, Comune di Melzo
-  address: YouTube Streaming
+  address:  Streaming
   info:
-    text: Informazioni
-    url: http://dgi.io/docs/20210625-cc-marcello-candia.pdf
+    text: Youtube streaming
+    url: https://youtu.be/Pz1h77h3G4M
   discount_code:
   discount_code_publish:
   image:
