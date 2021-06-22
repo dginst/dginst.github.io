@@ -138,7 +138,7 @@
   organizer: Digital Gold Institute
   address: webinar
   info:
-    text: programma e registrazione
+    text: La registrazione è chiusa, consulta le prossime date. 
     url: https://dgi.io/workshop
   discount_code:
   discount_code_publish:
@@ -146,7 +146,7 @@
     main: 20210622-workshop.jpg
     size: 200
     thumb: 20210126-workshop-thumb.jpg
-  eventfeed: true
+  eventfeed: false
   published: true
   
 - title: "Bitcoin: stato attuale e sviluppi futuri"
