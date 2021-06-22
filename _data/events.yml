@@ -19,6 +19,27 @@
   eventfeed: false
   published: true
 
+- title: "Bitcoin & Blockchain"
+  subtitle: Training su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract, crittografia; analisi e applicazioni per i protagonisti di industria e informazione.
+  lang: it
+  city: online
+  date: 2021-09-14
+  date2: 2021-09-15
+  hours: 09:00-18:00
+  organizer: Digital Gold Institute
+  address: webinar
+  info:
+    text: programma e registrazione
+    url: https://dgi.io/workshop
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210914-workshop.jpg
+    size: 200
+    thumb: 20210126-workshop-thumb.jpg
+  eventfeed: true
+  published: true
+  
 - title: "3nd Crypto Asset Lab Conference"
   subtitle: 
   lang: en
