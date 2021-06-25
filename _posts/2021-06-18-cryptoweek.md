@@ -23,13 +23,13 @@ banner:
 - [Paul Tudor Jones: 'Go all in' on inflation trades if Fed ignores higher prices - CNBC](https://www.cnbc.com/2021/06/14/paul-tudor-jones-says-bet-heavily-on-every-inflation-trade-if-fed-keeps-ignoring-higher-prices.html)
 - [Paul Tudor Jones Highlights Bitcoin - Bitcoin Magazine](https://bitcoinmagazine.com/markets/paul-tudor-jones-highlights-bitcoin)
 - [Paul Tudor Jones wants to have 5% of his portfolio in bitcoin - The Block Crypto](https://www.theblockcrypto.com/linked/108337/paul-tudor-jones-bitcoin-5-percent-comments)
-- [Paul Tudor Jones Likes Bitcoin as Portfolio Diversifier - Blockworks](https://blockworks.co/paul-tudor-jones-likes-bitcoin-as-portfolio-diversifier/?oly_enc_id=6911D0507689B3P)
+- [Paul Tudor Jones Likes Bitcoin as Portfolio Diversifier - Blockworks](https://blockworks.co/paul-tudor-jones-likes-bitcoin-as-portfolio-diversifier/)
 
 ### Markets - Elon Musk
 
 - [Bitcoin (BTC) soars after Musk says Tesla could accept the crypto again - CNBC](https://www.cnbc.com/2021/06/14/bitcoin-btc-soars-after-musk-says-tesla-could-accept-the-crypto-again.html)
 - [Elon Musk: Tesla To Resume Bitcoin Payments - Bitcoin Magazine](https://bitcoinmagazine.com/business/elon-musk-tesla-to-resume-bitcoin-payments)
-- [Elon Musk Flip-Flops on Bitcoin, Yet Again - Blockworks](https://blockworks.co/elon-musk-flip-flops-on-bitcoin-yet-again/?oly_enc_id=6911D0507689B3P)
+- [Elon Musk Flip-Flops on Bitcoin, Yet Again - Blockworks](https://blockworks.co/elon-musk-flip-flops-on-bitcoin-yet-again/)
 - [Twitter CEO Jack Dorsey Reveals Surprise Bitcoin Plan After Elon Musk Sparked Crypto Price Chaos With Ethereum And Dogecoin Support - Forbes](https://www.forbes.com/sites/billybambrough/2021/06/12/twitter-ceo-jack-dorsey-reveals-surprise-bitcoin-plan-after-elon-musk-sparked-crypto-price-chaos-with-ethereum-and-dogecoin-support)
 
 ### Markets - Microstrategy
@@ -41,7 +41,7 @@ banner:
 ### Markets - Altcoins
 
 - [Chiliz (CHZ) Keep Network (KEEP) and Shiba Inu (SHIB) are launching on Coinbase Pro - The Coinbase Blog](https://blog.coinbase.com/chiliz-chz-keep-network-keep-and-shiba-inu-shib-are-launching-on-coinbase-pro-fba50e9e8048)
-- [The Rise of Shiba Inu Coin Shows Crypto's New Dynamics - Barron's](https://www.barrons.com/articles/the-rise-of-shiba-inu-coin-shows-cryptos-new-dynamics-51623960066?mod=bol-social-tw)
+- [The Rise of Shiba Inu Coin Shows Crypto's New Dynamics - Barron's](https://www.barrons.com/articles/the-rise-of-shiba-inu-coin-shows-cryptos-new-dynamics-51623960066)
 - [Mark Cuban Calls for DeFi Regulation After Crypto Investment Goes to Zero - Decrypt](https://decrypt.co/73861/mark-cuban-titan-defi-crypto-regulation)
 
 ### Markets - Tether
@@ -65,8 +65,8 @@ banner:
 
 - [Taproot activation](https://taproot.watch/)
 - [Bitcoin Optech Newsletter #153](https://bitcoinops.org/en/newsletters/2021/06/16/)
-- [Pieter Wuille on Taproot - Twitter](https://twitter.com/pwuille/status/1403725170993336322?s=20)
-- [Aaron van Wirdum on Taproot - Twitter](https://twitter.com/AaronvanW/status/1403701284495110145?s=20)
+- [Pieter Wuille on Taproot - Twitter](https://twitter.com/pwuille/status/1403725170993336322)
+- [Aaron van Wirdum on Taproot - Twitter](https://twitter.com/AaronvanW/status/1403701284495110145)
 - [Locked In: Bitcoin's Taproot Upgrade Gets Its 90% Mandate - CoinDesk](https://www.coindesk.com/locked-in-bitcoin-taproot-upgrade-gets-activation-mandate)
 - [Taproot Locks In - Bitcoin Magazine](https://bitcoinmagazine.com/technical/taproot-locks-in)
 - [Taproot Activates Massive Upgrade - Bitcoin Magazine](https://bitcoinmagazine.com/technical/taproot-activates-massive-upgrade)
@@ -94,9 +94,9 @@ banner:
 
 ### Ecosystem - Banks
 
-- [Goldman Offers New Bitcoin Derivatives to Wall Street Investors - Bloomber Glaw](https://news.bloomberglaw.com/securities-law/goldman-offers-new-bitcoin-derivatives-to-wall-street-investors?utm_source=rss&utm_medium=SLNW&utm_campaign=00000179-42ec-d779-a37b-caffdf410003)
-- [Goldman Sachs Reportedly Exploring Ether Options - Blockworks](https://blockworks.co/goldman-sachs-reportedly-exploring-ether-options/?oly_enc_id=6911D0507689B3P)
-- [Bitcoin Is a Fail for Retail Investors, Goldman Sachs Team Warns - Barron's](https://www.barrons.com/articles/bitcoin-is-a-fail-for-retail-investors-goldman-sachs-team-warns-51623781467?mod=bol-social-tw)
+- [Goldman Offers New Bitcoin Derivatives to Wall Street Investors - Bloomber Glaw](https://news.bloomberglaw.com/securities-law/goldman-offers-new-bitcoin-derivatives-to-wall-street-investors)
+- [Goldman Sachs Reportedly Exploring Ether Options - Blockworks](https://blockworks.co/goldman-sachs-reportedly-exploring-ether-options/)
+- [Bitcoin Is a Fail for Retail Investors, Goldman Sachs Team Warns - Barron's](https://www.barrons.com/articles/bitcoin-is-a-fail-for-retail-investors-goldman-sachs-team-warns-51623781467)
 - [Bitcoin: Goldman Sachs ramps up trading in partnership with Mike Novogratz’ Galaxy Digital - CNBC](https://www.cnbc.com/2021/06/18/bitcoin-goldman-sachs-ramps-up-trading-in-partnership-with-mike-novogratz-galaxy-digital.html)
 - [BBVA launches its first commercial solution for the trading and custody of bitcoin in Switzerland - BBVA](https://www.bbva.com/en/bbva-launches-its-first-commercial-solution-for-the-trading-and-custody-of-bitcoin-in-switzerland/)
 - [Spain's BBVA opens Bitcoin trading service to clients in Switzerland - Reuters](https://www.reuters.com/business/spains-bbva-opens-bitcoin-trading-service-clients-switzerland-2021-06-18/)
@@ -106,7 +106,7 @@ banner:
 - [Morgan Stanley Set to Expand Bitcoin Fund Options - Decrypt](https://decrypt.co/73733/morgan-stanley-set-expand-bitcoin-fund-options)
 - [State Street makes crypto custody push - Funds Europe](https://www.funds-europe.com/news/state-street-makes-crypto-custody-push)
 - [State Street stands up new crypto unit as it eyes potential custody, DeFi products - The Block Crypto](https://www.theblockcrypto.com/post/108214/state-street-stands-up-new-crypto-unit-as-it-eyes-potential-custody-defi-products)
-- [Most UK Financial Advisers Would Steer Clear of Crypto and Meme Stocks: Poll - CoinDesk](https://www.coindesk.com/opinium-survey-ifa-crypto-investments?utm_source=Sailthru&utm_medium=email&utm_campaign=NODE%20JUNE%2017%202021&utm_content=B&utm_term=The%20Node)
+- [Most UK Financial Advisers Would Steer Clear of Crypto and Meme Stocks: Poll - CoinDesk](https://www.coindesk.com/opinium-survey-ifa-crypto-investments)
 - [Hedge funds expect to hold 7% of assets in crypto within five years - Financial Times](https://www.ft.com/content/4f8044bf-8f0f-46b4-9fb7-6d0eba723017)
 - [Hedge Funds See 7.2% of Assets in Crypto by 2026: Report - CoinDesk](https://www.coindesk.com/hedge-fund-crypto-asset-allocation-survey)
 - [Index publisher MSCI looking at launch of crypto indexes - Reuters](https://www.reuters.com/business/index-publisher-msci-looking-launch-crypto-indexes-2021-06-17)
@@ -126,8 +126,8 @@ banner:
 
 ### Regulation
 
-- [UK Regulator Finds 2.3M Adults Now Hold Crypto - CoinDesk](https://www.coindesk.com/uk-regulator-crypto-survey?utm_medium=email&_hsmi=134608138&_hsenc=p2ANqtz-9d8McjA-scnvr-dpWtm_rillkCuMcpEuUN86L1f0VpR5g73zmlkxcxfGS1PZ9DzoG011nxKN_GIypozpBn4ZDuJLjzsT5uj06u2O6q_iaeJCaouzc&utm_content=134608138&utm_source=hs_email)
-- [SEC Delays Approval of VanEck Bitcoin ETF, Again - Blockworks](https://blockworks.co/sec-delays-approval-of-vaneck-bitcoin-etf-again/?oly_enc_id=6911D0507689B3P)
+- [UK Regulator Finds 2.3M Adults Now Hold Crypto - CoinDesk](https://www.coindesk.com/uk-regulator-crypto-survey)
+- [SEC Delays Approval of VanEck Bitcoin ETF, Again - Blockworks](https://blockworks.co/sec-delays-approval-of-vaneck-bitcoin-etf-again/)
 - [SEC delays decision on Kryptoin's proposed bitcoin ETF - The Block Crypto](https://www.theblockcrypto.com/linked/108398/sec-delays-decision-on-kryptoins-proposed-bitcoin-etf-making-it-the-latest-of-multiple-extensions)
 - [CFTC/SEC Investor Alert: Funds Trading in Bitcoin Futures - CFTC](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/fraudadv_funds_trading_in_bitcoin_futures.html)
 - [Danske Bank's position on cryptocurrencies - Danske Bank](https://danskebank.com/news-and-insights/news-archive/news/2021/18062021)
