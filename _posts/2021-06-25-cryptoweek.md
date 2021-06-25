@@ -64,7 +64,7 @@ banner:
 - [Ark Invest Buys Grayscale, Coinbase During Bitcoin Price Drop - Blockworks](https://blockworks.co/ark-invest-buys-grayscale-coinbase-during-bitcoin-price-drop)
 - [Survey: 1 in 6 Hedge Funds Plan to Invest More Than 10% in Crypto - Blockworks](https://blockworks.co/survey-1-in-6-hedge-funds-plan-to-invest-in-crypto-in-5-years)
 - [Crypto is 'rat poison', a third of mainstream investment firms tell JPM - Reuters](https://www.reuters.com/business/finance/crypto-is-rat-poison-third-mainstream-investment-firms-tell-jpm-2021-06-23/)
-- [Crypto is the most dangerous investment, Bank of Russia governor says](https://cointelegraph.com/news/crypto-is-the-most-dangerous-investment-bank-of-russia-governor-says)
+- [Crypto is the most dangerous investment, Bank of Russia governor says - cointelegraph](https://cointelegraph.com/news/crypto-is-the-most-dangerous-investment-bank-of-russia-governor-says)
 - [Citigroup launches a digital asset unit within its wealth management division](https://www.theblockcrypto.com/post/109526/citigroup-digital-asset-unit)
 - [Galaxy Digital Will Provide Liquidity for Goldman Sachs’ Bitcoin Futures Trades - CoinDesk](https://www.coindesk.com/galaxy-digital-will-provide-liquidity-for-goldman-sachs-bitcoin-futures-trades)
 - [PayPal, Visa Join $300M Round for Blockchain Capital - Blockworks](https://blockworks.co/paypal-visa-join-300m-round-for-blockchain-capital)
