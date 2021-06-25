@@ -28,7 +28,7 @@ banner:
 - [China steps up crackdown on bitcoin mining industry - Financial Times](https://www.ft.com/content/7526f514-9f36-4dbb-94ee-beb061f5cc52)
 - [China’s cryptocurrency crackdown intensifies as Sichuan province orders a stop to mining operations - South China Morning Post](https://www.scmp.com/tech/policy/article/3137988/chinas-cryptocurrency-crackdown-intensifies-sichuan-province-orders)
 - [Videos about miner packing up and leaving - Twitter](https://twitter.com/bigmagicdao/status/1406280613225660419)
-- [BIT Mining Successfully Delivers Mining Machines to Kazakhstan - Jun 21, 2021](https://ir.btc.com/2021-06-21-BIT-Mining-Successfully-Delivers-Mining-Machines-to-Kazakhstan)
+- [BIT Mining Successfully Delivers Mining Machines to Kazakhstan](https://ir.btc.com/2021-06-21-BIT-Mining-Successfully-Delivers-Mining-Machines-to-Kazakhstan)
 - [Cambridge Bitcoin Electricity Consumption Index (CBECI)](https://cbeci.org/mining_map)
 - [Chinese bitcoin mining pools see further hash rate plunge](https://www.theblockcrypto.com/post/109030/chinese-bitcoin-mining-pools-hash-rate-plunge-sichuan-shutdown)
 - [China’s bitcoin crackdown: Mining equipment, and carbon emissions, moving from the mainland to US - South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3138342/chinas-bitcoin-crackdown-mining-equipment-and-carbon-emissions)
@@ -68,22 +68,22 @@ banner:
 - [Citigroup launches a digital asset unit within its wealth management division](https://www.theblockcrypto.com/post/109526/citigroup-digital-asset-unit)
 - [Galaxy Digital Will Provide Liquidity for Goldman Sachs’ Bitcoin Futures Trades - CoinDesk](https://www.coindesk.com/galaxy-digital-will-provide-liquidity-for-goldman-sachs-bitcoin-futures-trades)
 - [PayPal, Visa Join $300M Round for Blockchain Capital - Blockworks](https://blockworks.co/paypal-visa-join-300m-round-for-blockchain-capital)
-- [Sotheby's: cryptocurrency will be accepted as payment for an exceptional 101.38-carat pear-shaped D Flawless diamond - Twitter](https://twitter.com/Sothebys/status/1406990890732867584)
+- [Sotheby's: cryptocurrency will be accepted as payment for an exceptional diamond - Twitter](https://twitter.com/Sothebys/status/1406990890732867584)
 - [Fireblocks CEO Denies Negligence In $75 Million Ether Loss](https://www.forbes.com/sites/emilymason/2021/06/23/fireblocks-ceo-denies-negligence-in-75-million-ether-loss/)
 
 ### Markets - Inflation
 
 - [Powell: Inflation is High, But It Won’t Last - Blockworks](https://blockworks.co/powell-inflation-is-high-but-it-wont-last)
-- [Inflation is Here. Bitcoin Tech Talk #245 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/inflation-is-here-bitcoin-tech-talk)
+- [Inflation is Here - Bitcoin Tech Talk #245](https://jimmysong.substack.com/p/inflation-is-here-bitcoin-tech-talk)
 - [Bitcoin & Inflation: Maturing Into A Real Asset - CoinShares Research](https://coinshares.com/research/bitcoin-and-inflation-maturing-into-a-real-asset)
 
 ### Regulation - CBDC
 
 - [On the Potential Issuance of a Digital Shekel - Bank of Israel](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Pages/11-5-21.aspx)
 - [Banque de France conducts a new Central Bank Digital Currency experiment - Banque de France](https://www.banque-france.fr/en/communique-de-presse/banque-de-france-conducts-new-central-bank-digital-currency-experiment)
-- [France's central bank finishes settlement experiment with SEBA Bank](https://www.theblockcrypto.com/linked/109149/bank-of-france-cbdc-experiment-swiss-seba-bank)
+- [France's central bank finishes settlement experiment with SEBA Bank - theblockcrypto](https://www.theblockcrypto.com/linked/109149/bank-of-france-cbdc-experiment-swiss-seba-bank)
 - [Nigeria could launch pilot digital currency by year-end - Reuters](https://www.reuters.com/world/africa/nigeria-could-launch-pilot-digital-currency-by-year-end-central-bank-2021-06-18)
-- [CBDCs: an opportunity for the monetary system](https://www.bis.org/publ/arpdf/ar2021e3.htm)
+- [CBDCs: an opportunity for the monetary system - BIS](https://www.bis.org/publ/arpdf/ar2021e3.htm)
 
 ### Tech
 
@@ -93,4 +93,4 @@ banner:
 
 - [Events](https://dgi.io/events/)
 - [Crypto Asset Lab – CAL Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
-- [News from the Digital Gold Institute](https://dgi.io/news/)
+- [News from DGI](https://dgi.io/news/)

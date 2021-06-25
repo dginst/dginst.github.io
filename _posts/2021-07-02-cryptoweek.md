@@ -39,4 +39,4 @@ banner:
 
 - [Events](https://dgi.io/events/)
 - [Crypto Asset Lab – CAL Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
-- [News from the Digital Gold Institute](https://dgi.io/news/)
+- [News from DGI](https://dgi.io/news/)
