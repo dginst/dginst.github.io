@@ -10,8 +10,8 @@ youtube: Al1HgjwgsQo
 published: true
 cryptoweek: true
 podcast:
-    id: buzzsprout-player-8685705
-    src: 
+    id: buzzsprout-player-8763363
+    src: https://www.buzzsprout.com/1686991/8763363-cryptoweek-20-25-giugno-2021.js?container_id=buzzsprout-player-8763363&player=small
 banner:
     link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
