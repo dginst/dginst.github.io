@@ -13,7 +13,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
 - 2021-Q1:
   report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q1.pdf) o
   [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q1-doppiapagina.pdf)) e
-  sua presentazione 
+  sua presentazione
   ([video](https://www.youtube.com/watch?v=pgAlv1ufZdk&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=5), 
   [slide]({{site.baseurl}}/docs/reports/2021Q1-presentation.pdf)).
   Ospite: Filippo Annunziata
