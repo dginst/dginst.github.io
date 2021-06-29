@@ -1,5 +1,5 @@
 - title: "CryptoWeek"
-  subtitle: Il commento alle news della settimana
+  subtitle: "Il commento alle news della settimana."
   lang: it
   city: online
   date: 2021-07-02
@@ -22,7 +22,7 @@
   published: true
 
 - title: "Bitcoin & Blockchain"
-  subtitle: Training su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract, crittografia; analisi e applicazioni per i protagonisti di industria e informazione.
+  subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
   lang: it
   city: online
   date: 2021-09-14
@@ -72,7 +72,7 @@
   date: 2021-11-04
   date2: 2021-11-05
   hours: 
-  organizer: Crypto Asset Lab with Digital Gold Institute, European Commission, and University of Milano-Bicocca)
+  organizer: Crypto Asset Lab with Digital Gold Institute, European Commission, and University of Milano-Bicocca
   address: Milan and in web streaming
   info:
     text: conference web-page
