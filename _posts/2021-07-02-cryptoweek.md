@@ -34,6 +34,9 @@ Swiss National Bank Has No Plans for a Digital Currency: Report - Coindesk](http
 - [$6 Billion NCR Opens Bitcoin Purchases To 650 Banks And Credit Unions - Forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/06/30/6-billion-ncr-opens-bitcoin-purchases-to-650-banks-and-credit-unions/?sh=19c13cb93f82)
 - [Point72 Seeks Crypto Head While Soros Starts Bitcoin Trading - Bloomberg](https://www.bloomberg.com/news/articles/2021-06-30/point72-seeks-head-of-crypto-after-saying-space-can-t-be-ignored)
 - [NFT of the World Wide Web’s original source code just sold for $5.43 million - CNBC](https://www.cnbc.com/video/2021/06/30/nft-of-the-world-wide-webs-original-source-code-just-sold-for-5point43-million.html)
+- [MAS aware of regulatory actions against Binance - The Straits Times](https://www.straitstimes.com/business/banking/mas-aware-of-regulatory-actions-against-binance)
+- [Stablecoins could trigger credit market contagion, warns Fitch - FT](https://www.ft.com/content/b734b2e8-db37-46fe-93b1-d47a59f74068)
+- [Dutch Football Team AZ Alkmaar to hold Bitcoin and pay players in BTC - Cointelegraph](https://cointelegraph.com/news/dutch-football-team-az-alkmaar-to-hold-bitcoin-and-pay-players-in-btc)
 
 ### Markets
 
