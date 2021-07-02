@@ -23,18 +23,18 @@ banner:
 - [China’s bitcoin mining crackdown wreaks havoc, but what does it mean for the future of the cryptocurrency? - South China Morning Post](https://www.scmp.com/economy/article/3138966/chinas-bitcoin-mining-crackdown-wreaks-havoc-what-does-it-mean-future)
 - [BTCChina, the country’s first bitcoin exchange, gives up on the cryptocurrency amid Beijing’s tightening crackdown - South China Morning Post](https://www.scmp.com/tech/policy/article/3138618/btcchina-countrys-first-bitcoin-exchange-gives-cryptocurrency-amid)
 - [Cryptocurrency exchange Huobi halts derivatives trading in China as Beijing turns up heat - South China Morning Post](https://www.scmp.com/tech/policy/article/3139197/cryptocurrency-exchange-huobi-halts-derivatives-trading-china-beijing)
-- [Crypto exchange Huobi bans Chinese residents from trading derivatives](https://www.theblockcrypto.com/linked/109829/crypto-exchange-huobi-bans-chinese-residents-from-trading-derivatives)
+- [Crypto exchange Huobi bans Chinese residents from trading derivatives - The Block Crypto](https://www.theblockcrypto.com/linked/109829/crypto-exchange-huobi-bans-chinese-residents-from-trading-derivatives)
 - [Hydropower plants go on sale in China amid mining crackdown and bitcoin slump - South China Morning Post](https://www.scmp.com/tech/policy/article/3139053/hydropower-plants-go-sale-china-amid-mining-crackdown-and-bitcoin-slump)
-- [China's Crackdown On Bitcoin Mining Is Good News For North American Crypto Miners](https://www.forbes.com/sites/greatspeculations/2021/06/28/chinas-crackdown-on-bitcoin-mining-is-good-news-for-north-american-crypto-miners/?sh=7335fe255d03)
+- [China's Crackdown On Bitcoin Mining Is Good News For North American Crypto Miners - Forbes](https://www.forbes.com/sites/greatspeculations/2021/06/28/chinas-crackdown-on-bitcoin-mining-is-good-news-for-north-american-crypto-miners/?sh=7335fe255d03)
 - [Mining bitcoin could be about to get a whole lot easier after China’s crypto crackdown - CNBC](https://www.cnbc.com/2021/06/24/mining-bitcoin-could-get-easier-after-china-crypto-crackdown.html)
 - [Nic Carter: Unpacking Bitcoin's Great Hashpower Migration - CoinDesk](https://www.coindesk.com/bitcoin-unpacking-hashrate-nic-cart-migration)
-- [Bitcoin Mining Council Survey Confirms Sustainable Power Mix](https://www.hope.com/content/dam/hope-assets/collateral/Mining-Council-Press-Release-Q2_07-01-2021.pdf)
+- [Bitcoin Mining Council Survey Confirms Sustainable Power Mix - Hope](https://www.hope.com/content/dam/hope-assets/collateral/Mining-Council-Press-Release-Q2_07-01-2021.pdf)
 
 ### Markets
 
 - [Bitcoin Slumps Toward Another ‘Crypto Winter’ - WSJ](https://www.wsj.com/articles/bitcoin-slumps-toward-another-crypto-winter-11624699802)
 - [Saving for Retirement? Now You Can Bet on Bitcoin. - WSJ](https://www.wsj.com/articles/saving-for-retirement-now-you-can-bet-on-bitcoin-11624613435)
-- [TP ICAP to launch crypto trading platform with Fidelity and others](https://www.theblockcrypto.com/post/109952/tp-icap-crypto-trading-platform-fidelity-standard-chartered-flow-traders)
+- [TP ICAP to launch crypto trading platform with Fidelity and others - The Block Crypto](https://www.theblockcrypto.com/post/109952/tp-icap-crypto-trading-platform-fidelity-standard-chartered-flow-traders)
 - [TP Icap to launch cryptocurrency trading site - The Times](https://www.thetimes.co.uk/article/tp-icap-to-launch-cryptocurrency-trading-site-ss25f000r)
 - [George Soros’ Hedge Fund Given Permission to Trade Bitcoin - Blockworks](https://blockworks.co/george-soros-hedge-fund-given-permission-to-trade-bitcoin/?oly_enc_id=6911D0507689B3P)
 - [Soros Fund Management Is Said to Be Trading Bitcoin: Report - CoinDesk](https://www.coindesk.com/soros-fund-management-is-said-to-be-trading-bitcoin-report)
@@ -46,7 +46,7 @@ banner:
 - [Mexico’s Finance Minister Confirms Cryptos Are Banned From Financial System - Nasdaq](https://www.nasdaq.com/articles/mexicos-finance-minister-confirms-cryptos-are-banned-from-financial-system-2021-06-28)
 - [What protections do consumers have in crypto trading? - Financial Times](https://www.ft.com/content/f0f5e12d-729a-4c74-89cb-2ad96b5828e2)
 - [Premarket stocks: Regulators are keeping a close watch on crypto - CNN](https://edition.cnn.com/2021/06/28/investing/premarket-stocks-trading/index.html)
-- [Stakeholders celebrate as FATF postpones finalizing its crypto guidance](https://www.theblockcrypto.com/post/109687/fatf-defers-finalizing-its-crypto-guidance-until-october-industry-players-celebrate-short-term-win)
+- [Stakeholders celebrate as FATF postpones finalizing its crypto guidance - The Block Crypto](https://www.theblockcrypto.com/post/109687/fatf-defers-finalizing-its-crypto-guidance-until-october-industry-players-celebrate-short-term-win)
 - [Coinbase Receives Crypto Custody License From German Regulator BaFin - CoinDesk](https://www.coindesk.com/coinbase-receives-crypto-custody-license-from-german-regulator-bafin)
 - [Coinbase secures first crypto licence in Germany - The Coinbase Blog](https://blog.coinbase.com/coinbase-secures-first-crypto-licence-in-germany-8a5207fbc03b)
 
@@ -69,7 +69,7 @@ banner:
 
 ### Markets - Exchange and ETF
 
-- [Deutsche Börse Group acquires majority stake in Crypto Finance AG, extending its offering for digital assets](https://www.deutsche-boerse.com/dbg-en/media/press-releases/Deutsche-B-rse-Group-acquires-majority-stake-in-Crypto-Finance-AG-extending-its-offering-for-digital-assets-2699048)
+- [Deutsche Börse Group acquires majority stake in Crypto Finance AG, extending its offering for digital assets - Deutsche boerse](https://www.deutsche-boerse.com/dbg-en/media/press-releases/Deutsche-B-rse-Group-acquires-majority-stake-in-Crypto-Finance-AG-extending-its-offering-for-digital-assets-2699048)
 - [Cathie Wood's ARK Invest, 21Shares Team Up to Enter Bitcoin ETF Race - CoinDesk](https://www.coindesk.com/cathie-woods-ark-invest-enters-bitcoin-etf-race)
 - [Ark & 21Shares File for Bitcoin ETF - Blockworks](https://blockworks.co/ark-files-for-bitcoin-etf/?oly_enc_id=6911D0507689B3P)
 
@@ -87,7 +87,7 @@ banner:
 - [TAPROOT, the next bitcoin evolution - by FX Thoorens - Medium](https://fxthoorens.medium.com/taproot-the-next-bitcoin-evolution-f0a35e6a6d65)
 - [Taproot and RSK. Taproot is the the second of set of… - by Sergio Demian Lerner - Research & Innovation - Jun, 2021 - Medium](https://medium.com/iovlabs-innovation-stories/taproot-and-rsk-6fc8a3f8ccaf)
 - [Bitcoin Optech Newsletter #155 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/30/)
-- [EIP 1559: Ethereum Upgrade Explained - CoinDesk](https://www.coindesk.com/research/reports/eip-1559-ethereum-upgrade-explained?utm_source=Sailthru&utm_medium=email&utm_campaign=NODE%20JUNE%2030%202021&utm_content=A&utm_term=The%20Node)
+- [EIP 1559: Ethereum Upgrade Explained - CoinDesk](https://www.coindesk.com/research/reports/eip-1559-ethereum-upgrade-explained)
 
 ### Digital Gold Institute
 
