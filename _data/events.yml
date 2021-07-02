@@ -42,8 +42,8 @@
   eventfeed: true
   published: true
   
-- title: "Report Digital Gold Institute 2021-Q2"
-  subtitle: "Presentazione del report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain."
+- title: "Report trimestrale del Digital Gold Institute"
+  subtitle: "Presentazione del report 2021-Q2 sull'ecosistema Bitcoin, crypto-asset e blockchain."
   lang: it
   city: online
   date: 2021-07-14
@@ -73,7 +73,8 @@
   date2: 2021-11-05
   hours: 
   organizer: Crypto Asset Lab with Digital Gold Institute, European Commission, and University of Milano-Bicocca
-  address: Milan and in web streaming
+  address: 
+    text: in person (Milan) and live streaming
   info:
     text: conference web-page
     url: https://cryptoassetlab.diseade.unimib.it/calconf/
