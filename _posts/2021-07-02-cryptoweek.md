@@ -33,13 +33,13 @@ banner:
 ### Markets
 
 - [Bitcoin Slumps Toward Another ‘Crypto Winter’ - WSJ](https://www.wsj.com/articles/bitcoin-slumps-toward-another-crypto-winter-11624699802)
-- [Saving for Retirement? Now You Can Bet on Bitcoin. - WSJ](https://www.wsj.com/articles/saving-for-retirement-now-you-can-bet-on-bitcoin-11624613435)
+- [Saving for Retirement? Now You Can Bet on Bitcoin - WSJ](https://www.wsj.com/articles/saving-for-retirement-now-you-can-bet-on-bitcoin-11624613435)
 - [TP ICAP to launch crypto trading platform with Fidelity and others - The Block Crypto](https://www.theblockcrypto.com/post/109952/tp-icap-crypto-trading-platform-fidelity-standard-chartered-flow-traders)
 - [TP Icap to launch cryptocurrency trading site - The Times](https://www.thetimes.co.uk/article/tp-icap-to-launch-cryptocurrency-trading-site-ss25f000r)
 - [George Soros’ Hedge Fund Given Permission to Trade Bitcoin - Blockworks](https://blockworks.co/george-soros-hedge-fund-given-permission-to-trade-bitcoin/?oly_enc_id=6911D0507689B3P)
 - [Soros Fund Management Is Said to Be Trading Bitcoin: Report - CoinDesk](https://www.coindesk.com/soros-fund-management-is-said-to-be-trading-bitcoin-report)
 - [Morgan Stanley Buys Over 28,000 Shares of Grayscale Bitcoin Trust - Nasdaq](https://www.nasdaq.com/articles/morgan-stanley-buys-over-28000-shares-of-grayscale-bitcoin-trust-2021-06-28)
-- [Ricardo B Salinas](https://twitter.com/RicardoBSalinas/status/1409048815722696708)
+- [Ricardo B Salinas: first bank in Mexico to accept Bitcoin](https://twitter.com/RicardoBSalinas/status/1409048815722696708)
 
 ### Regulation
 
@@ -53,10 +53,10 @@ banner:
 ### Ecosystem - Coinbase
 
 - [Coinbase CEO: We plan to list every crypto asset where legally viable](https://www.theblockcrypto.com/post/109889/coinbase-ceo-we-plan-to-list-every-crypto-asset-where-legally-viable)
+- [Brian Armstrong](https://twitter.com/brian_armstrong/status/1409555338836078592)
 - [Embracing decentralization at Coinbase - The Coinbase Blog](https://blog.coinbase.com/embracing-decentralization-at-coinbase-7fa0e5d1084b)
 - [Coinbase Debuts Savings Product With 4% APY on USDC Deposits - CoinDesk](https://www.coindesk.com/coinbase-debuts-savings-product-with-4-apy-on-usdc-deposits)
 - [Coinbase Debuts Savings Product With 4% APY on USDC Deposits - Nasdaq](https://www.nasdaq.com/articles/coinbase-debuts-savings-product-with-4-apy-on-usdc-deposits-2021-06-29)
-- [Brian Armstrong](https://twitter.com/brian_armstrong/status/1409555338836078592)
 
 ### Ecosystem - Binance
 
@@ -78,19 +78,23 @@ banner:
 - [Singapore’s Central Bank, IMF Launch Global Challenge for CBDC Solutions - CoinDesk](https://www.coindesk.com/mas-imf-global-cbdc-challenge)
 - [Tanzania cbank says it is working on president's cryptocurrency push - Reuters](https://www.reuters.com/technology/tanzania-cbank-says-it-is-working-presidents-cryptocurrency-push-2021-06-25/)
 - [Fed Vice Chair: 'We Should Be Saying Yes' to Stablecoins - CoinDesk](https://www.coindesk.com/fed-vice-chair-we-should-be-saying-yes-to-stablecoins)
-- [Bank of Russia Picks Banks to Pilot Digital Ruble - CoinDesk](https://www.coindesk.com/bank-of-russia-picks-banks-to-pilot-digital-ruble-report)
-- [Swiss National Bank Has No Plans for a Digital Currency: Report - Coindesk](https://www.coindesk.com/swiss-national-bank-has-no-plans-for-a-digital-currency-report)
 - [Stablecoins could trigger credit market contagion, warns Fitch - FT](https://www.ft.com/content/b734b2e8-db37-46fe-93b1-d47a59f74068)
+- [Swiss National Bank Has No Plans for a Digital Currency: Report - Coindesk](https://www.coindesk.com/swiss-national-bank-has-no-plans-for-a-digital-currency-report)
+- [Bank of Russia Picks Banks to Pilot Digital Ruble - CoinDesk](https://www.coindesk.com/bank-of-russia-picks-banks-to-pilot-digital-ruble-report)
 
 ### Tech
 
-- [TAPROOT, the next bitcoin evolution - by FX Thoorens - Medium](https://fxthoorens.medium.com/taproot-the-next-bitcoin-evolution-f0a35e6a6d65)
-- [Taproot and RSK. Taproot is the the second of set of… - by Sergio Demian Lerner - Research & Innovation - Jun, 2021 - Medium](https://medium.com/iovlabs-innovation-stories/taproot-and-rsk-6fc8a3f8ccaf)
-- [Bitcoin Optech Newsletter #155 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/30/)
+- [TAPROOT, the next bitcoin evolution - by FX Thoorens](https://fxthoorens.medium.com/taproot-the-next-bitcoin-evolution-f0a35e6a6d65)
+- [Taproot and RSK - by Sergio Demian Lerner](https://medium.com/iovlabs-innovation-stories/taproot-and-rsk-6fc8a3f8ccaf)
+- [Newsletter #155 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/30/)
 - [EIP 1559: Ethereum Upgrade Explained - CoinDesk](https://www.coindesk.com/research/reports/eip-1559-ethereum-upgrade-explained)
 
 ### Digital Gold Institute
 
+- [Date a Cesare quel che è di Cesare. La moneta è solo di Cesare? Cos'è la moneta? e il Bitcoin?](https://dgi.io/2021/06/28/cc-marcello-candia.html)
+- [Bitcoin: stato attuale e sviluppi futuri](https://dgi.io/2021/06/23/fintastico.html)
+- [La custodia dei cripto-asset nel sistema finanziario](https://dgi.io/2021/06/24/ac.html)
+- [Bitcoin investing, payments, and digital vaults](https://dgi.io/2021/06/25/linklater.html)
+- [News from DGI](https://dgi.io/news/)
 - [Events](https://dgi.io/events/)
 - [Crypto Asset Lab – CAL Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
-- [News from DGI](https://dgi.io/news/)
