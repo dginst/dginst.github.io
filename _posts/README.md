@@ -21,26 +21,26 @@ permalink: /cryptoweekinternal/
 ## Prima del CryptoWeek se possibile, altrimenti dopo
 
 * Streamyard: creare nuovo broadcast per la settimana successiva **SOLO YOUTUBE** (Nando)
-  - titolo: CryptoWeek #23 (15 luglio 2021)
-  - descrizione: Ferdinando M. Ametrano commenta le notizie della settimana in ambito bitcoin, crypto-asset e blockchain, rispondendo anche alle domande del pubblico. www.dgi.io/cryptoweek
-  - foto: thumb con specific date
-  - banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/07/15/cryptoweek.html
+  * titolo: CryptoWeek #24 (23 luglio 2021)
+  * descrizione: Ferdinando M. Ametrano commenta le notizie della settimana in ambito bitcoin, crypto-asset e blockchain, rispondendo anche alle domande del pubblico. www.dgi.io/cryptoweek
+  * foto: thumb con specific date
+  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/07/23/cryptoweek.html
 * YouTube: aggiornare nuovo video (Nando)
-  - marcare, tra le opzioni nascoste, il nuovo prossimo livestream come "contenuto sponsorizzato"
-  - lasciare il nuovo prossimo livestream come "non adatto ai bambini"
-  - NON aggiungere il video alla playlist "CryptoWeek"
+  * marcare, tra le opzioni nascoste, il nuovo prossimo livestream come "contenuto sponsorizzato"
+  * lasciare il nuovo prossimo livestream come "non adatto ai bambini"
+  * NON aggiungere il video alla playlist "CryptoWeek"
 * Website: creare il post del CryptoWeek della settimana successiva (Nando)
-  - incrementare il #
-  - corregere il link YouTube
-  - published: false
-  - cryptoweek: true
-  - svuotare le news ma non cancellare le categorie
+  * incrementare il #
+  * corregere il link YouTube
+  * published: false
+  * cryptoweek: true
+  * svuotare le news ma non cancellare le categorie
 
 ## Immediatamente prima del CryptoWeek se possibile, altrimenti dopo
 
 * Website: in events.yml corregere il prossimo CryptoWeek (Nando)
-  - data
-  - link YouTube
+  * data
+  * link YouTube
 
 ## Durante il CryptoWeek
 

@@ -77,8 +77,8 @@ banner:
 ### Ecosystem - Research
 
 - [Digital Assets: ESG – Why Not GSE? - Arca](https://f.hubspotusercontent00.net/hubfs/4536350/ESG/Arca_Digital%20Assets_ESG-Why%20Not%20GSE.pdf)
-- [Bloomberg Outlook Cryptos July-2021](https://assets.bbhub.io/promo/sites/12/1207552_Crypto-July2021Outlook.pdf)
-- [Socio-economic conditions for satisfying human needs at low energy use](https://reader.elsevier.com/reader/sd/pii/S0959378021000662)
+- [Bloomberg Crypto Outlook July 2021](https://assets.bbhub.io/promo/sites/12/1207552_Crypto-July2021Outlook.pdf)
+- [Socio-economic conditions for satisfying human needs at low energy use - Elsevier](https://reader.elsevier.com/reader/sd/pii/S0959378021000662)
 
 ### Markets
 
