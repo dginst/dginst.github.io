@@ -17,7 +17,7 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
  
-- [Digital Assets: ESG – Why Not GSE?](https://f.hubspotusercontent00.net/hubfs/4536350/ESG/Arca_Digital%20Assets_ESG-Why%20Not%20GSE.pdf)
+- [Digital Assets: ESG – Why Not GSE? - Arca](https://f.hubspotusercontent00.net/hubfs/4536350/ESG/Arca_Digital%20Assets_ESG-Why%20Not%20GSE.pdf)
 - [Santander to block payments by UK banking customers to Binance - Financial Times](ft.com/content/a699c495-0c18-40af-8d2d-73571daa77a1)
 - [Sen. Warren warns of cryptocurrency risks, presses SEC on oversight authority - Reuters](https://www.reuters.com/technology/sen-warren-warns-cryptocurrency-risks-presses-sec-oversight-authority-2021-07-08/)
 - [EU to Propose New Anti-Money Laundering Body to Crack Down on Crypto: Report - Decrypt](https://decrypt.co/75542/eu-propose-new-anti-money-laundering-body-crack-down-crypto-report)
