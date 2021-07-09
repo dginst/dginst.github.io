@@ -34,7 +34,6 @@ banner:
 
 - [Bitcoin Mining Difficulty Records Largest Drop in History, Price Jumps - CoinDesk](https://www.coindesk.com/bitcoin-mining-difficulty-largest-drop-in-history)
 - [Bitcoin mining difficulty drops after hashrate collapse in China - CNBC](https://www.cnbc.com/2021/07/03/bitcoin-mining-difficulty-drops-after-hashrate-collapse-in-china-.html)
-- [Largest Difficulty Adjustment In Bitcoin History - Bitcoin Magazine](https://bitcoinmagazine.com/markets/largest-difficulty-adjustment-in-bitcoin-history)
 - [MicroStrategy and Galaxy 'Bitcoin Mining Council' Claims Mining is One of Most Sustainable Industries - Blockworks](https://blockworks.co/microstrategy-and-galaxy-bitcoin-mining-council-claims-mining-is-one-of-most-sustainable-industries/)
 
 ### Ecosystem - China
@@ -55,35 +54,34 @@ banner:
 - [FinCEN Welcomes First-Ever Chief Digital Currency Advisor and First Director of Strategic Communications - FinCEN.gov](https://www.fincen.gov/news/news-releases/fincen-welcomes-first-ever-chief-digital-currency-advisor-and-first-director)
 - [FinCEN Appoints First Chief Advisor for Crypto - Decrypt](https://decrypt.co/75328/fincen-appoints-first-chief-advisor-crypto)
 
+### Ecosystem - Crime
+
+- [Bitcoin Fraud Concerns Draw Scrutiny From Regulators - WSJ](https://www.wsj.com/articles/bitcoin-draws-more-scrutiny-from-regulators-worried-about-fraud-11625576400)
+- [How REvil Ransomware Took Out Thousands of Business at Once - Wired](https://www.wired.com/story/revil-ransomware-supply-chain-technique/)
+- [Ransomware Group REvil Strikes Again, Demands $70M in Bitcoin From 200 US Firms - Coindesk](https://www.coindesk.com/ransomware-revil-bitcoin-kaseya-200-us-firms)
+- [Bitcoin.org Reportedly Hit With DDoS Attack, Ransom Demand - Decrypt](https://decrypt.co/75276/bitcoin-org-reportedly-hit-ddos-attack-ransom-demand)
+- [Israeli Seizure Order Shows Hamas Holds USDT, TRX, DOGE - CoinDesk](https://www.coindesk.com/israeli-seizure-order-shows-hamas-holds-usdt-trx-doge)
+
 ### Regulation - CBDC
 
 - [The Banque de France conducts a successful experiment on the use of central bank digital money](https://www.banque-france.fr/en/communique-de-presse/banque-de-france-conducts-successful-experiment-use-central-bank-digital-money-consortium-actors)
 - [Bank of France Carries Out Fifth CBDC Experiment With BNP Paribas, Euroclear - Coindesk](https://www.coindesk.com/bank-of-france-fifth-cbdc-experiment-bnp-paribas-euroclear)
 - [Reserve Bank of New Zealand to Consult on Potential CBDC - CoinDesk](https://www.coindesk.com/reserve-bank-of-new-zealand-to-consult-on-potential-cbdc)
 
-### Ecosystem - Crime
-
-- [Bitcoin Fraud Concerns Draw Scrutiny From Regulators - WSJ](https://www.wsj.com/articles/bitcoin-draws-more-scrutiny-from-regulators-worried-about-fraud-11625576400)
-- [Israeli Seizure Order Shows Hamas Holds USDT, TRX, DOGE - CoinDesk](https://www.coindesk.com/israeli-seizure-order-shows-hamas-holds-usdt-trx-doge)
-- [How REvil Ransomware Took Out Thousands of Business at Once - Wired](https://www.wired.com/story/revil-ransomware-supply-chain-technique/)
-- [Ransomware Group REvil Strikes Again, Demands $70M in Bitcoin From 200 US Firms - Coindesk](https://www.coindesk.com/ransomware-revil-bitcoin-kaseya-200-us-firms)
-- [Bitcoin.org Reportedly Hit With DDoS Attack, Ransom Demand - Decrypt](https://decrypt.co/75276/bitcoin-org-reportedly-hit-ddos-attack-ransom-demand)
-
 ### Ecosystem - VISA
 
 - [Visa: More Than $1 Billion Spent Using Crypto-Linked Cards in 2021 - Decrypt](https://decrypt.co/75403/visa-more-than-1-billion-spent-using-crypto-linked-cards-in-2021)
-- [Visa's Crypto Ambitions Are Beginning to Pay Off - Business Insider](https://www.businessinsider.com/visa-crypto-ambitions-paying-off-2021-7)
 - [Visa says crypto-linked card usage tops $1 billion in first half of 2021 - CNBC](https://www.cnbc.com/2021/07/07/visa-says-crypto-linked-card-usage-tops-1-billion-in-first-half-of-2021.html)
+- [Visa's Crypto Ambitions Are Beginning to Pay Off - Business Insider](https://www.businessinsider.com/visa-crypto-ambitions-paying-off-2021-7)
 
 ### Ecosystem - Research
 
 - [Digital Assets: ESG – Why Not GSE? - Arca](https://f.hubspotusercontent00.net/hubfs/4536350/ESG/Arca_Digital%20Assets_ESG-Why%20Not%20GSE.pdf)
 - [Bloomberg Outlook Cryptos July-2021](https://assets.bbhub.io/promo/sites/12/1207552_Crypto-July2021Outlook.pdf)
-- [Bank of America Launches Cryptocurrency Research Effort - Blockworks](https://blockworks.co/bank-of-america-launches-cryptocurrency-research-effort/)
+- [Socio-economic conditions for satisfying human needs at low energy use](https://reader.elsevier.com/reader/sd/pii/S0959378021000662)
 
 ### Markets
 
-- [Are GBTC Unwinds Bullish or Bearish for Bitcoin? - Coindesk](https://www.coindesk.com/podcasts/the-breakdown-with-nlw/are-gbtc-unwinds-bullish-or-bearish-for-bitcoin)
 - [Kraken Casts Doubt on Bearish Call Over GBTC ‘Unlocks’ - CoinDesk](https://www.coindesk.com/kraken-casts-more-doubt-on-jpmorgan-call-over-grayscale-bitcoin-trust-unlocks)
 - [Bitcoin Bulls Under Pressure After Cryptocurrency Selloff - WSJ](https://www.wsj.com/articles/bitcoin-bulls-under-pressure-after-cryptocurrencys-selloff-11625238740)
 - [In gold-crazy India, millennials are turning to cryptocurrency amid Covid-19 - South China Morning Post](https://www.scmp.com/week-asia/economics/article/3139619/gold-crazy-india-millennials-are-turning-cryptocurrency-amid)
