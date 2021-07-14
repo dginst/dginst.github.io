@@ -11,30 +11,23 @@ published: true
 newsfeed: true
 ---
 
-Verrà presentato oggi 14 luglio alle 17:30 in diretta [YouTube](https://youtu.be/RP3Pd0aKous)
-il report trimestrale sull’ecosistema Bitcoin, crypto-asset e blockchain
- curato dal Digital Gold Institute.
+Si è svolta ieri la presentazione della decima edizione del report trimestrale su ecosistema Bitcoin, crypto-asset e blockchain curato da DGI.
 
-[Ferdinando M. Ametrano](https://ametrano.net/it/about/),
-direttore scientifico di DGI e amministratore delegato di [CheckSig](www.checksig.io),
-commenterà il secondo trimestre 2021 del mercato cripto,
-tra nuovi record di prezzo e successivi tracolli, Elon Musk,
-la quotazione di Coinbase, il corso legale per Bitcoin in El Salvador,
-la stretta cinese contro il mining, la sostenibilità dei consumi energetici,
-i ransomware e le attività criminali, senza tralasciare gli aspetti regolamentari
-collegati allo sviluppo del contante digitale di banca centrale (central bank digital currency, CBDC),
-ed i recenti pronunciamenti di Consob e Banca d'Italia.
+La registrazione dell’evento e le slide presentate sono disponibili sul sito dell’Istituto ([https://dgi.io/reports]({{site.baseurl}}/reports)), dove entro fine mese sarà disponibile il report 2021-Q2 completo.
 
-[Andrea Cattaneo](https://it.linkedin.com/in/andrea-cattaneo-9b75b829), General Manager Italy e Head of Italy,
-Switzerland & Iberia di BNP Paribas Securities Services, porterà un contributo
-di approfondimento sui digital-asset nel mondo finanziario europeo.
+“Il secondo trimestre del 2021 - ha dichiarato [Ferdinando M. Ametrano](https://ametrano.net/it/about/),  direttore scientifico di DGI e amministratore delegato di CheckSig - ha visto Bitcoin segnare il nuovo record assoluto di prezzo e poi ritracciare significativamente, ma in misura limitata rispetto ai drawdown visti in passato. Abbiamo avuto la quotazione di Coinbase, ad una valorizzazione paragonabile a quella dei principali istituti bancari mondiali, Bitcoin ha ottenuto corso legale in El Salvador, tutte le banche di investimento americane offrono accesso all’investimento in Bitcoin. Anche la messa al bando del mining e delle criptovalute in Cina è stata assorbita dal mercato e dall’ecosistema con relativa facilità. In questo quadro di forte crescita e significativa maturazione, tutti i regolatori stanno tentando di mettere a fuoco il fenomeno, in un clima preoccupato per utilizzi criminali e sostenibilità ambientale. In realtà le preoccupazioni sono spesso sproporzionate e, come auspicato anche dal Presidente di Consob Paolo Savona, su questi temi è essenziale formazione ed educazione: il Digital Gold Institute è lieto di poter contribuire, forte anche del sostegno economico ed industriale della nostra capogruppo, [CheckSig](www.checksig.io)”.
 
-Al termine del live-streaming pubblico su YouTube, previsto per le 18:30,
-l'evento proseguirà con un dibattito riservato che vede la partecipazione di circa cento
-tra i protagonisti italiani del mondo finanziario, imprenditoriale, giornalistico,
-politico ed istituzionale.
-La partecipazione numerosa e qualificata mostra il grande interesse verso il tema Bitcoin.
+### Intervento di Cattaneo
 
-Il rapporto trimestrale 2021-Q2 sarà disponibile entro fine mese su [dgi.io/reports](https://dgi.io/reports/).
+[Andrea Cattaneo](https://it.linkedin.com/in/andrea-cattaneo-9b75b829)
 
-[Comunicato stampa]({{site.baseurl}}/docs/20210714-comunicato-stampa-report-dgi.pdf).
+Al termine dell’evento pubblico è seguito un dibattito riservato, tra circa cento esponenti del mondo politico, finanziario, industriale, accademico, consulenziale e giornalistico. Gli interventi hanno toccato diversi temi:
+
+- tbc
+- tbc
+
+Il report DGI è trimestrale: l’appuntamento per l’edizione del terzo trimestre 2021 è il prossimo ottobre. Nel frattempo, gli aggiornamenti settimanali sono su CryptoWeek (www.dgi.io/cryptoweek).
+
+Il report DGI è trimestrale: l’edizione del secondo trimestre 2021 sarà presentata in anteprima il prossimo luglio. Nel frattempo, gli aggiornamenti settimanali sono su [CryptoWeek]({{site.baseurl}}/cryptoweek).
+
+[Comunicato stampa]({{site.baseurl}}/docs/20210715-comunicato-stampa-report-dgi.pdf).
