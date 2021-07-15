@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: zckl-8vm1d8
-published: true
+published: false
 cryptoweek: true
 podcast:
     id: buzzsprout-player-8685705
@@ -17,40 +17,12 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
  
-### Miscellanea
+### Ecosystem - Quarterly reports
 
-- [Sotheby’s Sells Rare Diamond for $12.3M in Crypto - CoinDesk](https://www.coindesk.com/sothebys-sells-rare-diamond-for-12-3m-in-crypto)
-- [ShapeShift is Decentralizing. ShapeShift is decentralizing to build… - by Erik Voorhees](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
-- ['Black Swan' author Nassim Taleb says bitcoin is worth zero - CNBC](https://www.cnbc.com/2021/07/13/black-swan-author-nassim-taleb-says-bitcoin-is-worth-zero.html)
-
-### Markets
-
-- [BlackRock CEO says crypto isn't part of clients' long-term strategies](https://www.theblockcrypto.com/linked/111270/blackrock-ceo-says-crypto-isnt-part-of-clients-long-term-strategies)
-- [BlackRock CEO Larry Fink Seeing ‘Very Little’ Demand for Crypto Lately - CoinDesk](https://www.coindesk.com/blackrock-ceo-larry-fink-says-theres-very-little-demand-for-crypto)
-- [Fidelity's Digital Assets Division Reportedly Plans to Boost Staff - Blockworks](https://blockworks.co/fidelitys-digital-assets-division-reportedly-plans-to-boost-staff)
-
-### Ecosystem - Square and Jack Dorsey
-
-- [Square Stock Is Get Dragged Down by Bitcoin Weakness. It Might Be Time to Buy. - Barron's](https://www.barrons.com/articles/bitcoin-square-stock-51625847907)
-- [Jack Dorsey's Square decides to build a bitcoin hardware wallet](https://www.theblockcrypto.com/post/110916/jack-dorsey-square-bitcoin-hardware-wallet)
-- [Jack Dorsey Confirms Square Will Make Bitcoin Hardware Wallet - Blockworks](https://blockworks.co/jack-dorsey-confirms-square-will-make-bitcoin-hardware-wallet/)
-- [Jack Dorsey on Twitter: "We’re doing it #Bitcoin"](https://twitter.com/jack/status/1413261505156599809)
-
-### Ecosystem - Binance
-
-- [La Consob contro Binance in Italia](https://cryptonomist.ch/2021/07/15/consob-contro-binance-in-italia/)
-- [Binance Dropped By European Payment Processor Clear Junction - Decrypt](https://decrypt.co/75770/binance-dropped-european-payment-processor-clear-junction)
-- [Santander to block payments by UK banking customers to Binance - Financial Times](https://www.ft.com/content/a699c495-0c18-40af-8d2d-73571daa77a1)
-
-### Ecosystem - ETF
-
-- [SEC Further Delays WisdomTree Bitcoin ETF Decision - CoinDesk](https://www.coindesk.com/sec-further-delays-wisdomtree-bitcoin-etf-decision)
-
-### Regulation
-
-- [Crypto not yet a financial stability risk, says Bank of England](https://www.cnbc.com/2021/07/14/crypto-not-yet-a-financial-stability-risk-says-bank-of-england.html)
-- [JPMorgan Says Bitcoin Will 'Pose Risks' to El Salvadorian Economy - Blockworks](https://blockworks.co/is-bitcoin-or-the-u-s-dollar-a-bigger-risk-to-el-salvadors-economy)
-- [FBI, Sen. Warren Issue Crypto Security Warning - Blockworks](https://blockworks.co/fbi-sen-warren-issue-crypto-security-warning)
+- [A New Crypto Bear Market Begins: CoinDesk Quarterly Review 2021 Q2](https://static.coindesk.com/wp-content/uploads/2021/07/A-New-Crypto-Bear-Market-Begins-CoinDesk-Quarterly-Review-2021-Q2.pdf)
+- [2021-Q2 DGI Report: press release](https://dgi.io/2021/07/15/comunicato-stampa.html)
+- [2021-Q2 DGI Report: video](https://www.youtube.com/watch?v=RP3Pd0aKous)
+- [2021-Q2 DGI Report: slides](https://dgi.io/docs/reports/2021Q2-presentation.pdf)
 
 ### Ecosystem - Digital Euro
 
@@ -74,12 +46,41 @@ banner:
 - [Jerome Powell: CBDC Report Coming in Early September - CoinDesk](https://www.coindesk.com/jerome-powell-cbdc-report-coming-in-early-september)
 - [Powell says a Fed digital currency could undercut need for cryptocurrencies - Reuters](https://www.reuters.com/article/us-usa-fed-powell-crypto-currency-idUSKBN2EK24F)
 
-### Ecosystem - Quarterly reports
+### Regulation
 
-- [A New Crypto Bear Market Begins: CoinDesk Quarterly Review 2021 Q2](https://static.coindesk.com/wp-content/uploads/2021/07/A-New-Crypto-Bear-Market-Begins-CoinDesk-Quarterly-Review-2021-Q2.pdf)
-- [2021-Q2 DGI Report: press release](https://dgi.io/2021/07/15/comunicato-stampa.html)
-- [2021-Q2 DGI Report: video](https://www.youtube.com/watch?v=RP3Pd0aKous)
-- [2021-Q2 DGI Report: slides](https://dgi.io/docs/reports/2021Q2-presentation.pdf)
+- [Crypto not yet a financial stability risk, says Bank of England](https://www.cnbc.com/2021/07/14/crypto-not-yet-a-financial-stability-risk-says-bank-of-england.html)
+- [JPMorgan Says Bitcoin Will 'Pose Risks' to El Salvadorian Economy - Blockworks](https://blockworks.co/is-bitcoin-or-the-u-s-dollar-a-bigger-risk-to-el-salvadors-economy)
+- [FBI, Sen. Warren Issue Crypto Security Warning - Blockworks](https://blockworks.co/fbi-sen-warren-issue-crypto-security-warning)
+
+### Ecosystem - ETF
+
+- [SEC Further Delays WisdomTree Bitcoin ETF Decision - CoinDesk](https://www.coindesk.com/sec-further-delays-wisdomtree-bitcoin-etf-decision)
+
+### Ecosystem - Binance
+
+- [La Consob contro Binance in Italia](https://cryptonomist.ch/2021/07/15/consob-contro-binance-in-italia/)
+- [Binance Dropped By European Payment Processor Clear Junction - Decrypt](https://decrypt.co/75770/binance-dropped-european-payment-processor-clear-junction)
+- [Santander to block payments by UK banking customers to Binance - Financial Times](https://www.ft.com/content/a699c495-0c18-40af-8d2d-73571daa77a1)
+
+
+### Markets
+
+- [BlackRock CEO says crypto isn't part of clients' long-term strategies](https://www.theblockcrypto.com/linked/111270/blackrock-ceo-says-crypto-isnt-part-of-clients-long-term-strategies)
+- [BlackRock CEO Larry Fink Seeing ‘Very Little’ Demand for Crypto Lately - CoinDesk](https://www.coindesk.com/blackrock-ceo-larry-fink-says-theres-very-little-demand-for-crypto)
+- [Fidelity's Digital Assets Division Reportedly Plans to Boost Staff - Blockworks](https://blockworks.co/fidelitys-digital-assets-division-reportedly-plans-to-boost-staff)
+
+### Ecosystem - Square and Jack Dorsey
+
+- [Square Stock Is Get Dragged Down by Bitcoin Weakness. It Might Be Time to Buy. - Barron's](https://www.barrons.com/articles/bitcoin-square-stock-51625847907)
+- [Jack Dorsey's Square decides to build a bitcoin hardware wallet](https://www.theblockcrypto.com/post/110916/jack-dorsey-square-bitcoin-hardware-wallet)
+- [Jack Dorsey Confirms Square Will Make Bitcoin Hardware Wallet - Blockworks](https://blockworks.co/jack-dorsey-confirms-square-will-make-bitcoin-hardware-wallet/)
+- [Jack Dorsey on Twitter: "We’re doing it #Bitcoin"](https://twitter.com/jack/status/1413261505156599809)
+
+### Miscellanea
+
+- [ShapeShift is Decentralizing. ShapeShift is decentralizing to build… - by Erik Voorhees](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
+- [Sotheby’s Sells Rare Diamond for $12.3M in Crypto - CoinDesk](https://www.coindesk.com/sothebys-sells-rare-diamond-for-12-3m-in-crypto)
+- ['Black Swan' author Nassim Taleb says bitcoin is worth zero - CNBC](https://www.cnbc.com/2021/07/13/black-swan-author-nassim-taleb-says-bitcoin-is-worth-zero.html)
 
 ### Tech
 
