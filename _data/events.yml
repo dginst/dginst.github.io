@@ -84,7 +84,7 @@
   image:
     main: 20211104-cal2021.jpg
     size: 200
-    thumb: 
+    thumb: 20211104-cal2021-thumb.jpg
   eventfeed: true
   published: true
 
