@@ -43,4 +43,4 @@ anche per il nuovo record di prezzo segnato proprio nella giornata odierna.
 
 Il report trimestrale 2021Q1 sarà disponibile entro fine mese su [dgi.io/reports](https://dgi.io/reports/).
 
-[Comunicato stampa]({{site.baseurl}}/docs/20210413-comunicato-stampa-report-dgi.pdf)
+[Comunicato stampa in pdf]({{site.baseurl}}/docs/20210413-comunicato-stampa-report-dgi.pdf)

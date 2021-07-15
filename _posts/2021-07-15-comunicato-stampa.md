@@ -22,4 +22,4 @@ Al termine dell’evento pubblico è seguito un dibattito riservato tra esponent
 
 Il report DGI è trimestrale: l’appuntamento per l’edizione del terzo trimestre 2021 è il prossimo ottobre. Nel frattempo, gli aggiornamenti settimanali su Bitcoin e dintorni sono ogni venerdì su [CryptoWeek]({{site.baseurl}}/cryptoweek).
 
-[Comunicato stampa]({{site.baseurl}}/docs/20210715-comunicato-stampa-report-dgi.pdf) in pdf.
+[Comunicato stampa in pdf]({{site.baseurl}}/docs/20210715-comunicato-stampa-report-dgi.pdf) in pdf.

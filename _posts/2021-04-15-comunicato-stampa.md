@@ -21,4 +21,4 @@ Al termine dell’evento pubblico è seguito un dibattito riservato, tra oltre c
 
 Il report DGI è trimestrale: l’edizione del secondo trimestre 2021 sarà presentata in anteprima il prossimo luglio. Nel frattempo, gli aggiornamenti settimanali sono su [CryptoWeek]({{site.baseurl}}/cryptoweek).
 
-[Comunicato stampa]({{site.baseurl}}/docs/20210415-comunicato-stampa-report-dgi.pdf)
+[Comunicato stampa in pdf]({{site.baseurl}}/docs/20210415-comunicato-stampa-report-dgi.pdf)
