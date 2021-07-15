@@ -181,7 +181,7 @@
   lang: it
   city: online
   date: 2021-06-23
-  hours: 17:00 - 18:00
+  hours: 17:00-18:00
   organizer: Fintastico e CrowsCore
   address: Zoom
   info:
@@ -288,7 +288,7 @@
   city: online
   date: 2021-04-12
   date2:
-  hours: 21:00
+  hours: 21:00-22:00
   organizer: Lodi Liberale
   address: webinar
   info:
@@ -330,7 +330,7 @@
   city: online
   date: 2021-03-25
   date2: 
-  hours: 14:30 - 16:30
+  hours: 14:30-16:30
   organizer: ibicocca
   address: live streaming
   info:
