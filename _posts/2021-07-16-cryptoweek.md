@@ -20,6 +20,8 @@ banner:
 
 ### Ecosystem - Binance
 
+- [La Consob contro Binance in Italia](https://cryptonomist.ch/2021/07/15/consob-contro-binance-in-italia/)
+
 ### Ecosystem - Mining
 
 ### Ecosystem - China
@@ -40,7 +42,7 @@ banner:
 
 ### Digital Gold Institute
 
+- [2021-Q2 Report Presentation](https://dgi.io/2021/07/15/comunicato-stampa.html)
 - [News from DGI](https://dgi.io/news/)
 - [Events](https://dgi.io/events/)
-- [2021-Q2 Report Presentation](https://dgi.io/reports/)
 - [Crypto Asset Lab – CAL Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)

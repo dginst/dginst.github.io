@@ -21,50 +21,6 @@
   eventfeed: true
   published: true
   
-- title: "Bitcoin & Blockchain"
-  subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
-  lang: it
-  city: online
-  date: 2021-09-28
-  date2: 2021-09-29
-  hours: 09:00-18:00
-  organizer: Digital Gold Institute
-  address: webinar
-  info:
-    text: programma e registrazione
-    url: https://dgi.io/workshop
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20210928-workshop.jpg
-    size: 200
-    thumb: 20210126-workshop-thumb.jpg
-  eventfeed: true
-  published: true
-  
-- title: "Report trimestrale del Digital Gold Institute"
-  subtitle: "Presentazione del report 2021-Q3 sull'ecosistema Bitcoin, crypto-asset e blockchain."
-  lang: it
-  city: online
-  date: 2021-10-06
-  date2:
-  hours: 17:30-19:00
-  organizer: Digital Gold Institute
-  address: 
-    text: live streaming
-    url: 
-  info:
-    text: informazioni disponibili prossimamente
-    url: http://dgi.io/reports
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20211006-2021Q2-report.jpg
-    size: 200
-    thumb: 20211006-2021Q2-report-thumb.jpg
-  eventfeed: true
-  published: true
-
 - title: "3rd Crypto Asset Lab Conference"
   subtitle: 
   lang: en
@@ -84,10 +40,55 @@
   image:
     main: 20211104-cal2021.jpg
     size: 200
-    thumb: 20211104-cal2021-thumb.jpg
+    thumb: 
   eventfeed: true
   published: true
 
+- title: "Report trimestrale del Digital Gold Institute"
+  subtitle: "Presentazione del report 2021-Q3 sull'ecosistema Bitcoin, crypto-asset e blockchain."
+  lang: it
+  city: online
+  date: 2021-10-06
+  date2:
+  hours: 17:30-19:00
+  organizer: Digital Gold Institute
+  address: 
+    text: live streaming
+    url: 
+  info:
+    text: disponibili prossimamente
+    url: http://dgi.io/reports
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20211006-2021Q2-report.jpg
+    size: 200
+    thumb: 20211006-2021Q2-report-thumb.jpg
+  eventfeed: true
+  published: true
+
+- title: "Workshop Bitcoin & Blockchain"
+  subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
+  lang: it
+  city: online
+  date: 2021-09-28
+  date2: 2021-09-29
+  hours: 09:00-18:00
+  organizer: Digital Gold Institute
+  address:
+    text: webinar
+  info:
+    text: programma e registrazione
+    url: https://dgi.io/workshop
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20210928-workshop.jpg
+    size: 200
+    thumb: 20210126-workshop-thumb.jpg
+  eventfeed: true
+  published: true
+  
 - title: "Report trimestrale del Digital Gold Institute"
   subtitle: "Presentazione del report 2021-Q2 sull'ecosistema Bitcoin, crypto-asset e blockchain."
   lang: it
@@ -408,7 +409,7 @@
   eventfeed: false
   published: true
 
-- title: "Bitcoin & Blockchain"
+- title: "Workshop Bitcoin & Blockchain"
   subtitle: Training
   lang: it
   city: Milano
