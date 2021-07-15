@@ -18,7 +18,7 @@
     main: 2021-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
-  eventfeed: false
+  eventfeed: true
   published: true
   
 - title: "Bitcoin & Blockchain"
@@ -62,8 +62,8 @@
     main: 20211006-2021Q2-report.jpg
     size: 200
     thumb: 20211006-2021Q2-report-thumb.jpg
-  eventfeed: false
-  published: false
+  eventfeed: true
+  published: true
 
 - title: "3rd Crypto Asset Lab Conference"
   subtitle: 
@@ -74,7 +74,7 @@
   hours: 
   organizer: Crypto Asset Lab with Digital Gold Institute, European Commission, and University of Milano-Bicocca
   address: 
-    text: in person (Milan) and live streaming
+    text: "in person (Milan) and live streaming"
     url: 
   info:
     text: conference web-page
@@ -85,7 +85,7 @@
     main: 20211104-cal2021.jpg
     size: 200
     thumb: 
-  eventfeed: false
+  eventfeed: true
   published: true
 
 - title: "Report trimestrale del Digital Gold Institute"
