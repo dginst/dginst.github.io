@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: zckl-8vm1d8
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-8685705
@@ -27,7 +27,7 @@ banner:
 
 - [BlackRock CEO says crypto isn't part of clients' long-term strategies](https://www.theblockcrypto.com/linked/111270/blackrock-ceo-says-crypto-isnt-part-of-clients-long-term-strategies)
 - [BlackRock CEO Larry Fink Seeing ‘Very Little’ Demand for Crypto Lately - CoinDesk](https://www.coindesk.com/blackrock-ceo-larry-fink-says-theres-very-little-demand-for-crypto)
-- [Fidelity's Digital Assets Division Reportedly Plans to Boost Staff - Blockworks](https://blockworks.co/fidelitys-digital-assets-division-reportedly-plans-to-boost-staff/?oly_enc_id=6911D0507689B3P)
+- [Fidelity's Digital Assets Division Reportedly Plans to Boost Staff - Blockworks](https://blockworks.co/fidelitys-digital-assets-division-reportedly-plans-to-boost-staff)
 
 ### Ecosystem - Square and Jack Dorsey
 
@@ -49,12 +49,12 @@ banner:
 ### Regulation
 
 - [Crypto not yet a financial stability risk, says Bank of England](https://www.cnbc.com/2021/07/14/crypto-not-yet-a-financial-stability-risk-says-bank-of-england.html)
-- [JPMorgan Says Bitcoin Will 'Pose Risks' to El Salvadorian Economy - Blockworks](https://blockworks.co/is-bitcoin-or-the-u-s-dollar-a-bigger-risk-to-el-salvadors-economy/?oly_enc_id=6911D0507689B3P)
-- [FBI, Sen. Warren Issue Crypto Security Warning - Blockworks](https://blockworks.co/fbi-sen-warren-issue-crypto-security-warning/?oly_enc_id=6911D0507689B3P)
+- [JPMorgan Says Bitcoin Will 'Pose Risks' to El Salvadorian Economy - Blockworks](https://blockworks.co/is-bitcoin-or-the-u-s-dollar-a-bigger-risk-to-el-salvadors-economy)
+- [FBI, Sen. Warren Issue Crypto Security Warning - Blockworks](https://blockworks.co/fbi-sen-warren-issue-crypto-security-warning)
 
 ### Ecosystem - Digital Euro
 
-- [European Central Bank Launches 24-Month Investigation into Digital Euro - Blockworks](https://blockworks.co/european-central-bank-launches-24-month-investigation-into-digital-euro/?oly_enc_id=6911D0507689B3P)
+- [European Central Bank Launches 24-Month Investigation into Digital Euro - Blockworks](https://blockworks.co/european-central-bank-launches-24-month-investigation-into-digital-euro)
 - [Eurosystem launches digital euro project - ECB](https://www.ecb.europa.eu/press/pr/date/2021/html/ecb.pr210714~d99198ea23.en.html)
 - [Preparing for the euro’s digital future - ECB](https://www.ecb.europa.eu/press/blog/date/2021/html/ecb.blog210714~6bfc156386.en.html)
 - [Report on a digital euro - ECB](https://www.ecb.europa.eu/paym/digital_euro/report/html/index.en.html)
@@ -70,14 +70,16 @@ banner:
 - [The World Bank, IMF and BIS push for central bank cryptocurrencies to improve cross-border payments - Markets Insider](https://markets.businessinsider.com/currencies/news/cbdcs-crypto-payments-world-bank-imf-and-bis-report-2021-7)
 - [Cryptocurrencies require EU-wide regulation, says France - Financial Times](https://www.ft.com/content/bffe222c-13b3-4f79-a232-d0b2c41aeeb9)
 - [Four key questions central banks must answer about digital currencies - Financial Times](https://www.ft.com/content/fc01fc43-c1b7-4551-8b5b-fb82561fd06b)
-- [Powell: A CBDC Would Make Cryptocurrencies Obsolete - Blockworks](https://blockworks.co/powell-a-cbdc-would-make-cryptocurrencies-obsolete/?oly_enc_id=6911D0507689B3P)
+- [Powell: A CBDC Would Make Cryptocurrencies Obsolete - Blockworks](https://blockworks.co/powell-a-cbdc-would-make-cryptocurrencies-obsolete)
 - [Jerome Powell: CBDC Report Coming in Early September - CoinDesk](https://www.coindesk.com/jerome-powell-cbdc-report-coming-in-early-september)
 - [Powell says a Fed digital currency could undercut need for cryptocurrencies - Reuters](https://www.reuters.com/article/us-usa-fed-powell-crypto-currency-idUSKBN2EK24F)
 
 ### Ecosystem - Quarterly reports
 
 - [A New Crypto Bear Market Begins: CoinDesk Quarterly Review 2021 Q2](https://static.coindesk.com/wp-content/uploads/2021/07/A-New-Crypto-Bear-Market-Begins-CoinDesk-Quarterly-Review-2021-Q2.pdf)
-- [2021-Q2 Report Presentation](https://dgi.io/2021/07/15/comunicato-stampa.html)
+- [2021-Q2 DGI Report: press release](https://dgi.io/2021/07/15/comunicato-stampa.html)
+- [2021-Q2 DGI Report: video](https://www.youtube.com/watch?v=RP3Pd0aKous)
+- [2021-Q2 DGI Report: slides](https://dgi.io/docs/reports/2021Q2-presentation.pdf)
 
 ### Tech
 
