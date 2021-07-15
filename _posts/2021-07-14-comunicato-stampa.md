@@ -37,4 +37,4 @@ La partecipazione numerosa e qualificata mostra il grande interesse verso il tem
 
 Il rapporto trimestrale 2021-Q2 sarà disponibile entro fine mese su [dgi.io/reports](https://dgi.io/reports/).
 
-[Comunicato stampa]({{site.baseurl}}/docs/20210714-comunicato-stampa-report-dgi.pdf).
+[Comunicato stampa]({{site.baseurl}}/docs/20210714-comunicato-stampa-report-dgi.pdf) in pdf.

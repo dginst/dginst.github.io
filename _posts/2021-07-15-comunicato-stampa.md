@@ -20,8 +20,6 @@ La registrazione dell’evento e le slide presentate sono disponibili alla sezio
 
 Al termine dell’evento pubblico è seguito un dibattito riservato tra esponenti del mondo politico, finanziario, industriale, accademico, consulenziale e giornalistico. Gli interventi hanno toccato diversi temi, tra cui il percorso di evoluzione della normativa italiana, lo sviluppo dell’ecosistema italiano di player professionali e l’opportunità di creare un “sistema paese” che possa rendere l’Italia protagonista nel settore al pari di quanto si sta osservando nel mercato UK, elvetico e tedesco.
 
-Il report DGI è trimestrale: l’appuntamento per l’edizione del terzo trimestre 2021 è il prossimo ottobre. Nel frattempo, gli aggiornamenti settimanali sono su CryptoWeek (www.dgi.io/cryptoweek).
-
 Il report DGI è trimestrale: l’appuntamento per l’edizione del terzo trimestre 2021 è il prossimo ottobre. Nel frattempo, gli aggiornamenti settimanali su Bitcoin e dintorni sono ogni venerdì su [CryptoWeek]({{site.baseurl}}/cryptoweek).
 
-[Comunicato stampa]({{site.baseurl}}/docs/20210715-comunicato-stampa-report-dgi.pdf).
+[Comunicato stampa]({{site.baseurl}}/docs/20210715-comunicato-stampa-report-dgi.pdf) in pdf.
