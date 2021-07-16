@@ -40,7 +40,6 @@ banner:
 - [BIS, IMF, World Bank Say Central Banks Must Consider Cross-Border Implications of CBDCs - CoinDesk](https://www.coindesk.com/bis-says-central-banks-must-consider-cross-border-implications-of-cbdcs)
 - [BIS, IMF call for global co-operation on central bank digital currencies - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/article-bis-imf-call-for-global-co-operation-on-central-bank-digital/)
 - [The World Bank, IMF and BIS push for central bank cryptocurrencies to improve cross-border payments - Markets Insider](https://markets.businessinsider.com/currencies/news/cbdcs-crypto-payments-world-bank-imf-and-bis-report-2021-7)
-- [Cryptocurrencies require EU-wide regulation, says France - Financial Times](https://www.ft.com/content/bffe222c-13b3-4f79-a232-d0b2c41aeeb9)
 - [Four key questions central banks must answer about digital currencies - Financial Times](https://www.ft.com/content/fc01fc43-c1b7-4551-8b5b-fb82561fd06b)
 - [Powell: A CBDC Would Make Cryptocurrencies Obsolete - Blockworks](https://blockworks.co/powell-a-cbdc-would-make-cryptocurrencies-obsolete)
 - [Jerome Powell: CBDC Report Coming in Early September - CoinDesk](https://www.coindesk.com/jerome-powell-cbdc-report-coming-in-early-september)
@@ -48,6 +47,7 @@ banner:
 
 ### Regulation
 
+- [Cryptocurrencies require EU-wide regulation, says France - Financial Times](https://www.ft.com/content/bffe222c-13b3-4f79-a232-d0b2c41aeeb9)
 - [Crypto not yet a financial stability risk, says Bank of England](https://www.cnbc.com/2021/07/14/crypto-not-yet-a-financial-stability-risk-says-bank-of-england.html)
 - [JPMorgan Says Bitcoin Will 'Pose Risks' to El Salvadorian Economy - Blockworks](https://blockworks.co/is-bitcoin-or-the-u-s-dollar-a-bigger-risk-to-el-salvadors-economy)
 - [FBI, Sen. Warren Issue Crypto Security Warning - Blockworks](https://blockworks.co/fbi-sen-warren-issue-crypto-security-warning)
