@@ -62,7 +62,6 @@ banner:
 - [Binance Dropped By European Payment Processor Clear Junction - Decrypt](https://decrypt.co/75770/binance-dropped-european-payment-processor-clear-junction)
 - [Santander to block payments by UK banking customers to Binance - Financial Times](https://www.ft.com/content/a699c495-0c18-40af-8d2d-73571daa77a1)
 
-
 ### Markets
 
 - [BlackRock CEO says crypto isn't part of clients' long-term strategies](https://www.theblockcrypto.com/linked/111270/blackrock-ceo-says-crypto-isnt-part-of-clients-long-term-strategies)
