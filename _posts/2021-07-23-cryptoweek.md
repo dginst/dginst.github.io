@@ -65,7 +65,7 @@ banner:
 - [EU to tighten rules on cryptoasset transfers - Reuters](https://www.reuters.com/technology/eu-tighten-rules-cryptoasset-transfers-2021-07-20/)
 - [EU Wants To Tighten Rules Around Crypto Exchanges - Decrypt](https://decrypt.co/76432/eu-wants-ban-anonymous-crypto-wallets-2024)
 - [EU officials unveil draft legislation for applying FATF's 'travel rule' to crypto transactions - The Block Crypto](https://www.theblockcrypto.com/linked/112008/eu-officials-unveil-draft-legislation-for-applying-fatfs-travel-rule-to-crypto-transactions)
-- [Chainalysis Blog - Not All Blockchain Analysis Providers Are the Same and Other Insights from FATF’s Second 12-Month Review](https://blog.chainalysis.com/reports/fatf-12-month-virtual-asset-review-2021)
+- [Not All Blockchain Analysis Providers Are the Same and Other Insights from FATF’s Second 12-Month Review - Chainalysis](https://blog.chainalysis.com/reports/fatf-12-month-virtual-asset-review-2021)
 
 ### Regulation - CBDC and Stablecoins
 
@@ -73,7 +73,7 @@ banner:
 - [Yellen urges quick U.S. adoption of stablecoin rules - Reuters](https://www.reuters.com/technology/yellen-says-us-must-move-quickly-establish-stablecoin-rule-framework-2021-07-19)
 - [Stablecoins Risky Like ‘Wildcat’ Bank Practices of 19th Century, Gorton and Zhang Write - Nasdaq](https://www.nasdaq.com/articles/stablecoins-risky-like-wildcat-bank-practices-of-19th-century-gorton-and-zhang-write-2021)
 - [Circle reveals majority of USDC reserves are in cash and cash equivalents - The Block Crypto](https://www.theblockcrypto.com/linked/112001/circle-reveals-majority-of-usdc-reserves-are-in-cash-and-cash-equivalents)
-- [El Salvador May Issue Its Own Stablecoin: Report - CoinDesk](https://www.coindesk.com/el-salvador-may-issue-its-own-stablecoin-report)
+- [El Salvador May Issue Its Own Stablecoin - CoinDesk](https://www.coindesk.com/el-salvador-may-issue-its-own-stablecoin-report)
 
 ### Ecosystem - Asset Managers and Investment Banks
 
@@ -88,7 +88,7 @@ banner:
 - [JPMorgan to give all wealth clients access to crypto funds - Reuters](https://www.reuters.com/business/finance/jpmorgan-give-all-wealth-clients-access-crypto-funds-business-insider-2021-07-22)
 - [JPMorgan Reportedly to Allow Clients to Access Crypto Funds - Blockworks](https://blockworks.co/jpmorgan-reportedly-to-allow-clients-to-access-crypto-funds/)
 - [JPMorgan greenlights wealth management advisors for crypto fund orders - The Block Crypto](https://www.theblockcrypto.com/linked/112226/jp-morgan-greenlights-wealth-management-advisors-to-take-crypto-fund-orders)
-- [JPMorgan is on a blockchain hiring spree The Block Crypto](https://www.theblockcrypto.com/post/111833/jpmorgan-is-on-a-blockchain-hiring-spree)
+- [JPMorgan is on a blockchain hiring spree - The Block Crypto](https://www.theblockcrypto.com/post/111833/jpmorgan-is-on-a-blockchain-hiring-spree)
 
 ### Miscellanea
 
