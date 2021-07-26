@@ -19,18 +19,18 @@ banner:
 
 ### Opinion - Bitcoin vs Ethereum
 
-- [Bitcoin vs Ethereum: Why Ethereum will never unseat Bitcoin as the King Crypto | by Scott Debevic | Coinmonks | Jul, 2021 | Medium](https://medium.com/coinmonks/why-ethereum-will-never-unseat-bitcoin-as-the-king-crypto-44da362afe31)
-- [Ethereum is a Rube-Goldberg Machine. Bitcoin Tech Talk #250 - by Jimmy Song - Bitcoin Tech Talk](https://jimmysong.substack.com/p/ethereum-is-a-rube-goldberg-machine)
+- [Why Ethereum will never unseat Bitcoin as the King Crypto - Scott Debevic, Coinmonks](https://medium.com/coinmonks/why-ethereum-will-never-unseat-bitcoin-as-the-king-crypto-44da362afe31)
+- [Ethereum is a Rube-Goldberg Machine - Jimmy Song, Bitcoin Tech Talk #250](https://jimmysong.substack.com/p/ethereum-is-a-rube-goldberg-machine)
 
 ### Ecosystem - The B Word Conference
 
-- [Elon Musk, Jack Dorsey Bitcoin Event Was an Unbearable Tragedy - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/industry-events/the-unbearable-tragedy-of-the-b-word)
+- [The Unbearable Tragedy of The B Word - Bitcoin Magazine](https://bitcoinmagazine.com/industry-events/the-unbearable-tragedy-of-the-b-word)
 
 ### Ecosystem - Amazon
 
-- [Digital Currency and Blockchain Product Lead - Job ID: 1644513 | Amazon.jobs](https://www.amazon.jobs/en/jobs/1644513/digital-currency-and-blockchain-product-lead)
-- [Amazon ‘definitely’ lining up Bitcoin payments and token, confirms insider - CityAM : CityAM](https://www.cityam.com/amazon-definitely-lining-up-bitcoin-payments-and-token-confirms-insider/)
-- [Amazon’s Cryptocurrency Plan Could Be a Game Changer | Barron's](https://www.barrons.com/articles/things-to-know-today-51627294089)
+- [Digital Currency and Blockchain Product Lead Job Post - Amazon](https://www.amazon.jobs/en/jobs/1644513/digital-currency-and-blockchain-product-lead)
+- [Amazon ‘definitely’ lining up Bitcoin payments and token, confirms insider - CityAM](https://www.cityam.com/amazon-definitely-lining-up-bitcoin-payments-and-token-confirms-insider/)
+- [Amazon’s Cryptocurrency Plan Could Be a Game Changer - Barron's](https://www.barrons.com/articles/things-to-know-today-51627294089)
 - [Amazon Is Looking to Hire a Digital Currency Lead - CoinDesk](https://www.coindesk.com/amazon-is-looking-to-hire-a-digital-currency-lead)
 
 ### Markets
@@ -39,12 +39,12 @@ banner:
 
 ### Ecosystem - Square and Jack Dorsey
 
-- [JPMorgan Asks Jack Dorsey About Bitcoin Integration on Twitter During 2Q Earnings Call: July 22 2021 - YouTube](https://www.youtube.com/watch?v=yEFB6x5UOoI)
+- [JPMorgan Asks Jack Dorsey About Bitcoin Integration on Twitter During 2Q Earnings Call - YouTube](https://www.youtube.com/watch?v=yEFB6x5UOoI)
 - [Jack Dorsey: Bitcoin Will Be Big Part of Twitter’s Future - Blockworks](https://blockworks.co/jack-dorsey-bitcoin-will-be-big-part-of-twitters-future/)
 
 ### Regulation
 
-- [UK Treasury moves toward implementing FATF's crypto 'travel rule'](https://www.theblockcrypto.com/linked/112329/uk-treasury-moves-toward-implementing-fatfs-crypto-travel-rule-with-public-consultation)
+- [UK Treasury moves toward implementing FATF's crypto 'travel rule' - theblockcrypto](https://www.theblockcrypto.com/linked/112329/uk-treasury-moves-toward-implementing-fatfs-crypto-travel-rule-with-public-consultation)
 - [Chainalysis Exec Heads to PayPal to Lead Crypto Regulatory Efforts - CoinDesk](https://www.coindesk.com/chainalysis-exec-heads-to-paypal-to-lead-crypto-policy-efforts)
 
 ### Regulation - Teher
@@ -53,12 +53,12 @@ banner:
 
 ### Regulation - Binance
 
-- [Binance US Aims to Copy Coinbase ‘Playbook’ and Go Public: Binance CEO CZ - Decrypt](https://decrypt.co/76756/binance-us-coinbase-playbook-go-public-ipo-ceo-cz)
+- [Binance US Aims to Copy Coinbase ‘Playbook’ and Go Public - Decrypt](https://decrypt.co/76756/binance-us-coinbase-playbook-go-public-ipo-ceo-cz)
 
 ### Regulation - BlockFi
 
-- [BlockFi: "An update on regulatory conversations" / Twitter](https://twitter.com/BlockFi/status/1418300548726599680)
-- [Licenses & Disclosure | BlockFi](https://blockfi.com/disclosures-and-complaints/)
+- [BlockFi: "An update on regulatory conversations" - Twitter](https://twitter.com/BlockFi/status/1418300548726599680)
+- [Licenses & Disclosure - BlockFi](https://blockfi.com/disclosures-and-complaints/)
 
 ### Regulation - CBDC and Stablecoins
 
