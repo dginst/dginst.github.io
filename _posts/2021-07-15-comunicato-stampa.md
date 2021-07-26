@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "Conclusa la decima edizione del report trimestrale del Digital Gold Institute"
+title: "Presentata la decima edizione del report trimestrale del Digital Gold Institute"
 subtitle: "Comunicato stampa" 
 author: "Staff"
 image:

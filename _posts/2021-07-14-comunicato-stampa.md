@@ -13,7 +13,7 @@ newsfeed: true
 
 Verrà presentato oggi 14 luglio alle 17:30 in diretta [YouTube](https://youtu.be/RP3Pd0aKous)
 il report trimestrale sull’ecosistema Bitcoin, crypto-asset e blockchain
- curato dal Digital Gold Institute.
+curato dal Digital Gold Institute.
 
 [Ferdinando M. Ametrano](https://ametrano.net/it/about/),
 direttore scientifico di DGI e amministratore delegato di [CheckSig](www.checksig.io),
