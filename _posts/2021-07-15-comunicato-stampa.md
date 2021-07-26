@@ -1,11 +1,11 @@
 ---
 layout: post
 comments: false
-title: "Presentazione del report trimestrale del Digital Gold Institute"
+title: "Conclusa la decima edizione del report trimestrale del Digital Gold Institute"
 subtitle: "Comunicato stampa" 
 author: "Staff"
 image:
-    thumb: 2021-07-14-2021Q2-report-thumb.jpg
+    thumb: 2021-07-14-2021Q2-report-bw-thumb.jpg
 youtube: RP3Pd0aKous
 published: true
 newsfeed: true
