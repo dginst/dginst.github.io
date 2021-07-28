@@ -53,6 +53,8 @@ banner:
 
 - [UK Treasury moves toward implementing FATF's crypto 'travel rule' - theblockcrypto](https://www.theblockcrypto.com/linked/112329/uk-treasury-moves-toward-implementing-fatfs-crypto-travel-rule-with-public-consultation)
 - [Chainalysis Exec Heads to PayPal to Lead Crypto Regulatory Efforts - CoinDesk](https://www.coindesk.com/chainalysis-exec-heads-to-paypal-to-lead-crypto-policy-efforts)
+- [Regulators are Coming for Crypto, Here’s How Firms are Reacting - Blockworks](https://blockworks.co/regulators-are-coming-for-crypto-heres-how-firms-are-reacting/)
+- [UCL Centre for Blockchain Research Associate: Crypto Miners ‘Need More Scrutiny’ - Blockworks](https://blockworks.co/ucl-center-for-blockchain-research-associate-crypto-miners-need-more-scrutiny/)
 
 ### Regulation - Tether
 
@@ -64,6 +66,7 @@ banner:
 
 - [Binance US Aims to Copy Coinbase ‘Playbook’ and Go Public - Decrypt](https://decrypt.co/76756/binance-us-coinbase-playbook-go-public-ipo-ceo-cz)
 - [Binance Margin to Delist AUD, EUR & GBP Pairs | Binance Support](https://www.binance.com/en/support/announcement/0bb891ff23a1463b95851f76a1ad329f)
+- [Binance CEO says willing to step down amid crypto crackdown](https://www.cnbc.com/2021/07/27/binance-ceo-says-willing-to-step-down-amid-crypto-crackdown.html)
 
 ### Regulation - BlockFi
 
