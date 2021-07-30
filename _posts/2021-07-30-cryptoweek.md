@@ -24,9 +24,9 @@ banner:
 ### Ecosystem - Amazon
 
 - [Digital Currency and Blockchain Product Lead Job Post - Amazon](https://www.amazon.jobs/en/jobs/1644513/digital-currency-and-blockchain-product-lead)
+- [Amazon Is Looking to Hire a Digital Currency Lead - CoinDesk](https://www.coindesk.com/amazon-is-looking-to-hire-a-digital-currency-lead)
 - [Amazon ‘definitely’ lining up Bitcoin payments and token, confirms insider - CityAM](https://www.cityam.com/amazon-definitely-lining-up-bitcoin-payments-and-token-confirms-insider/)
 - [Amazon’s Cryptocurrency Plan Could Be a Game Changer - Barron's](https://www.barrons.com/articles/things-to-know-today-51627294089)
-- [Amazon Is Looking to Hire a Digital Currency Lead - CoinDesk](https://www.coindesk.com/amazon-is-looking-to-hire-a-digital-currency-lead)
 - [Amazon: No, We Have No Plans to Accept Bitcoin Payments - CoinDesk](https://www.coindesk.com/amazon-no-we-have-no-plans-to-accept-bitcoin-payments)
 
 ### Markets
@@ -35,7 +35,7 @@ banner:
 - [Bitcoin Jumps to a Six-Week High - WSJ](https://www.wsj.com/articles/bitcoin-jumps-20-to-a-six-week-high-11627287544)
 - [Bitcoin Is Soaring on Bets Amazon Will Go Crypto. This Rally Could Last. - Barron's](https://www.barrons.com/articles/bitcoin-price-amazon-rally-cryptocurrency-51627321069)
 - [Pantera Capital: Invest in Crypto With a Multi-Year Outlook - Blockworks](https://blockworks.co/pantera-capital-invest-in-crypto-with-a-multi-year-outlook/)
-- [Germany to Allow Institutional Funds to Hold up to 20% in Crypto - Bloomberg](https://www.bloomberg.com/news/articles/2021-07-30/germany-to-allow-institutional-funds-to-hold-up-to-20-in-crypto?srnd=cryptocurrencies)
+- [German Institutional Funds Allowed up to 20% in Crypto Holdings - beincrypto](https://beincrypto.com/german-institutional-funds-allowed-up-to-20-in-crypto-holdings/)
 
 ### Regulation - US
 
@@ -44,6 +44,7 @@ banner:
 - [Sen. Elizabeth Warren pushes for tighter crypto rules in new letter to Yellen](https://www.theblockcrypto.com/linked/112654/sen-elizabeth-warren-pushes-for-tighter-crypto-rules-in-new-letter-to-yellen)
 - [FSOC Crypto Letter 07.26.2021.pdf](https://www.warren.senate.gov/imo/media/doc/FSOC%20Crypto%20Letter%2007.26.2021.pdf)
 - [Senate Banking Committee presses crypto experts on systemic risk at hearing](https://www.cnbc.com/2021/07/27/senate-banking-committee-presses-crypto-experts-on-systemic-risk-at-hearing.html)
+- [Ferdinando M. Ametrano on shadowy super-coders - LinkedIn](https://www.linkedin.com/posts/ferdinandoametrano_as-a-coder-ive-always-dreamed-of-being-activity-6826454429634478080-6uG1/)
 
 ### Regulation
 
