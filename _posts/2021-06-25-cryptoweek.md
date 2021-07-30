@@ -81,7 +81,7 @@ banner:
 
 - [On the Potential Issuance of a Digital Shekel - Bank of Israel](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Pages/11-5-21.aspx)
 - [Banque de France conducts a new Central Bank Digital Currency experiment - Banque de France](https://www.banque-france.fr/en/communique-de-presse/banque-de-france-conducts-new-central-bank-digital-currency-experiment)
-- [France's central bank finishes settlement experiment with SEBA Bank - theblockcrypto](https://www.theblockcrypto.com/linked/109149/bank-of-france-cbdc-experiment-swiss-seba-bank)
+- [France's central bank finishes settlement experiment with SEBA Bank - The Block Crypto](https://www.theblockcrypto.com/linked/109149/bank-of-france-cbdc-experiment-swiss-seba-bank)
 - [Nigeria could launch pilot digital currency by year-end - Reuters](https://www.reuters.com/world/africa/nigeria-could-launch-pilot-digital-currency-by-year-end-central-bank-2021-06-18)
 - [CBDCs: an opportunity for the monetary system - BIS](https://www.bis.org/publ/arpdf/ar2021e3.htm)
 
