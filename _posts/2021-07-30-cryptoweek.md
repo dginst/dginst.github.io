@@ -33,7 +33,7 @@ banner:
 
 - [Institutional investors are bullish on bitcoin again, based on this key data point](https://www.cnbc.com/2021/07/28/institutional-investors-are-bullish-on-bitcoin-again-based-on-this-key-data-point.html)
 - [Bitcoin Jumps to a Six-Week High - WSJ](https://www.wsj.com/articles/bitcoin-jumps-20-to-a-six-week-high-11627287544)
-- [Bitcoin Is Soaring on Bets Amazon Will Go Crypto. This Rally Could Last. | Barron's](https://www.barrons.com/articles/bitcoin-price-amazon-rally-cryptocurrency-51627321069)
+- [Bitcoin Is Soaring on Bets Amazon Will Go Crypto. This Rally Could Last. - Barron's](https://www.barrons.com/articles/bitcoin-price-amazon-rally-cryptocurrency-51627321069)
 - [Pantera Capital: Invest in Crypto With a Multi-Year Outlook - Blockworks](https://blockworks.co/pantera-capital-invest-in-crypto-with-a-multi-year-outlook/)
 - [Germany to Allow Institutional Funds to Hold up to 20% in Crypto - Bloomberg](https://www.bloomberg.com/news/articles/2021-07-30/germany-to-allow-institutional-funds-to-hold-up-to-20-in-crypto?srnd=cryptocurrencies)
 
@@ -55,10 +55,10 @@ banner:
 ### Regulation - Binance
 
 - [Binance US Aims to Copy Coinbase ‘Playbook’ and Go Public - Decrypt](https://decrypt.co/76756/binance-us-coinbase-playbook-go-public-ipo-ceo-cz)
-- [Binance Margin to Delist AUD, EUR & GBP Pairs | Binance Support](https://www.binance.com/en/support/announcement/0bb891ff23a1463b95851f76a1ad329f)
+- [Binance Margin to Delist AUD, EUR & GBP Pairs - Binance Support](https://www.binance.com/en/support/announcement/0bb891ff23a1463b95851f76a1ad329f)
 - [Binance CEO says willing to step down amid crypto crackdown](https://www.cnbc.com/2021/07/27/binance-ceo-says-willing-to-step-down-amid-crypto-crackdown.html)
-- [SC Takes Enforcement Actions on Binance for Illegally Operating in Malaysia - Media Releases | Securities Commission Malaysia](https://www.sc.com.my/resources/media/media-release/sc-takes-enforcement-actions-on-binance-for-illegally-operating-in-malaysia)
-- [Unavailability of Futures and Derivatives Products in Germany, Italy, and the Netherlands | Binance Support](https://www.binance.com/en/support/announcement/f72d0fff2bd24b488213fa30284dd4cd)
+- [SC Takes Enforcement Actions on Binance for Illegally Operating in Malaysia - Media Releases - Securities Commission Malaysia](https://www.sc.com.my/resources/media/media-release/sc-takes-enforcement-actions-on-binance-for-illegally-operating-in-malaysia)
+- [Unavailability of Futures and Derivatives Products in Germany, Italy, and the Netherlands - Binance Support](https://www.binance.com/en/support/announcement/f72d0fff2bd24b488213fa30284dd4cd)
 
 ### Regulation - BlockFi
 
@@ -74,15 +74,15 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #159 | Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/28/)
-- [What is Ethereum 2.0?. Ethereum’s future plans for… | by Alex Beckett | Coinmonks | Jul, 2021 | Medium](https://medium.com/coinmonks/what-is-ethereum-2-0-962d6828b45a)
+- [Bitcoin Optech Newsletter #159 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/28/)
+- [What is Ethereum 2.0?. Ethereum’s future plans for… - by Alex Beckett - Coinmonks - Jul, 2021 - Medium](https://medium.com/coinmonks/what-is-ethereum-2-0-962d6828b45a)
 - [Vitalik Buterin : Things that matter outside of defi - YouTube](https://www.youtube.com/watch?v=oLsb7clrXMQ&t=52s)
-- [Amy ter Haar: Why everyone in crypto is talking about the London Hard Fork | Financial Post](https://financialpost.com/fp-finance/cryptocurrency/amy-ter-haar-why-everyone-in-crypto-is-talking-about-the-london-hard-fork)
-- [What is EIP-1559? How Will It Change Ethereum? | ConsenSys](https://consensys.net/blog/quorum/what-is-eip-1559-how-will-it-change-ethereum/)
+- [Amy ter Haar: Why everyone in crypto is talking about the London Hard Fork - Financial Post](https://financialpost.com/fp-finance/cryptocurrency/amy-ter-haar-why-everyone-in-crypto-is-talking-about-the-london-hard-fork)
+- [What is EIP-1559? How Will It Change Ethereum? - ConsenSys](https://consensys.net/blog/quorum/what-is-eip-1559-how-will-it-change-ethereum/)
 
 ### Opinion - Bitcoin vs Ethereum
 
-- [Ethereum price rises on software upgrade, Bitcoin slides | Fox Business](https://www.foxbusiness.com/markets/bitcoin-price-7-30)
+- [Ethereum price rises on software upgrade, Bitcoin slides - Fox Business](https://www.foxbusiness.com/markets/bitcoin-price-7-30)
 - [Why Ethereum will never unseat Bitcoin as the King Crypto - Scott Debevic, Coinmonks](https://medium.com/coinmonks/why-ethereum-will-never-unseat-bitcoin-as-the-king-crypto-44da362afe31)
 - [Ethereum is a Rube-Goldberg Machine - Jimmy Song, Bitcoin Tech Talk #250](https://jimmysong.substack.com/p/ethereum-is-a-rube-goldberg-machine)
 
