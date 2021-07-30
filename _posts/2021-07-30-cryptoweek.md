@@ -37,21 +37,17 @@ banner:
 - [Pantera Capital: Invest in Crypto With a Multi-Year Outlook - Blockworks](https://blockworks.co/pantera-capital-invest-in-crypto-with-a-multi-year-outlook/)
 - [German Institutional Funds Allowed up to 20% in Crypto Holdings - beincrypto](https://beincrypto.com/german-institutional-funds-allowed-up-to-20-in-crypto-holdings/)
 
-### Regulation - US
+### Regulation
 
 - [Framework to Regulate Crypto, Stablecoins Introduced in US Congress - CoinDesk](https://www.coindesk.com/congressman-introduces-new-legislation-to-regulate-digital-assets)
 - [Elizabeth Warren presses Janet Yellen to address crypto market threats](https://www.cnbc.com/2021/07/27/elizabeth-warren-presses-yellen-financial-regulator-to-manage-crypto.html)
 - [Sen. Elizabeth Warren pushes for tighter crypto rules in new letter to Yellen](https://www.theblockcrypto.com/linked/112654/sen-elizabeth-warren-pushes-for-tighter-crypto-rules-in-new-letter-to-yellen)
 - [FSOC Crypto Letter 07.26.2021.pdf](https://www.warren.senate.gov/imo/media/doc/FSOC%20Crypto%20Letter%2007.26.2021.pdf)
-- [Senate Banking Committee presses crypto experts on systemic risk at hearing](https://www.cnbc.com/2021/07/27/senate-banking-committee-presses-crypto-experts-on-systemic-risk-at-hearing.html)
 - [Ferdinando M. Ametrano on shadowy super-coders - LinkedIn](https://www.linkedin.com/posts/ferdinandoametrano_as-a-coder-ive-always-dreamed-of-being-activity-6826454429634478080-6uG1/)
-
-### Regulation
-
-- [UK Treasury moves toward implementing FATF's crypto 'travel rule' - theblockcrypto](https://www.theblockcrypto.com/linked/112329/uk-treasury-moves-toward-implementing-fatfs-crypto-travel-rule-with-public-consultation)
-- [Chainalysis Exec Heads to PayPal to Lead Crypto Regulatory Efforts - CoinDesk](https://www.coindesk.com/chainalysis-exec-heads-to-paypal-to-lead-crypto-policy-efforts)
-- [Regulators are Coming for Crypto, Here’s How Firms are Reacting - Blockworks](https://blockworks.co/regulators-are-coming-for-crypto-heres-how-firms-are-reacting/)
+- [Senate Banking Committee presses crypto experts on systemic risk at hearing](https://www.cnbc.com/2021/07/27/senate-banking-committee-presses-crypto-experts-on-systemic-risk-at-hearing.html)
 - [UCL Centre for Blockchain Research Associate: Crypto Miners ‘Need More Scrutiny’ - Blockworks](https://blockworks.co/ucl-center-for-blockchain-research-associate-crypto-miners-need-more-scrutiny/)
+- [UK Treasury moves toward implementing FATF's crypto 'travel rule' - theblockcrypto](https://www.theblockcrypto.com/linked/112329/uk-treasury-moves-toward-implementing-fatfs-crypto-travel-rule-with-public-consultation)
+- [Regulators are Coming for Crypto, Here’s How Firms are Reacting - Blockworks](https://blockworks.co/regulators-are-coming-for-crypto-heres-how-firms-are-reacting/)
 
 ### Regulation - Binance
 
@@ -69,7 +65,6 @@ banner:
 
 ### Regulation - Tether
 
-- [Tether Executives Said to Face Criminal Probe Into Bank Fraud - Bloomberg](https://www.bloomberg.com/news/articles/2021-07-26/tether-executives-said-to-face-criminal-probe-into-bank-fraud)
 - [US officials investigating Tether executives for bank fraud: report](https://www.theblockcrypto.com/linked/112452/us-officials-investigating-tether-executives-for-bank-fraud-report)
 - [Tether Remains Stable Amid Reports of DOJ Probe - Blockworks](https://blockworks.co/tether-remains-stable-amid-reports-of-doj-probe/)
 
@@ -83,7 +78,6 @@ banner:
 
 ### Opinion - Bitcoin vs Ethereum
 
-- [Ethereum price rises on software upgrade, Bitcoin slides - Fox Business](https://www.foxbusiness.com/markets/bitcoin-price-7-30)
 - [Why Ethereum will never unseat Bitcoin as the King Crypto - Scott Debevic, Coinmonks](https://medium.com/coinmonks/why-ethereum-will-never-unseat-bitcoin-as-the-king-crypto-44da362afe31)
 - [Ethereum is a Rube-Goldberg Machine - Jimmy Song, Bitcoin Tech Talk #250](https://jimmysong.substack.com/p/ethereum-is-a-rube-goldberg-machine)
 
