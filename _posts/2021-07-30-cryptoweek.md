@@ -53,9 +53,9 @@ banner:
 
 - [Binance US Aims to Copy Coinbase ‘Playbook’ and Go Public - Decrypt](https://decrypt.co/76756/binance-us-coinbase-playbook-go-public-ipo-ceo-cz)
 - [Binance Margin to Delist AUD, EUR & GBP Pairs - Binance Support](https://www.binance.com/en/support/announcement/0bb891ff23a1463b95851f76a1ad329f)
-- [Binance CEO says willing to step down amid crypto crackdown](https://www.cnbc.com/2021/07/27/binance-ceo-says-willing-to-step-down-amid-crypto-crackdown.html)
 - [SC Takes Enforcement Actions on Binance for Illegally Operating in Malaysia - Media Releases - Securities Commission Malaysia](https://www.sc.com.my/resources/media/media-release/sc-takes-enforcement-actions-on-binance-for-illegally-operating-in-malaysia)
 - [Unavailability of Futures and Derivatives Products in Germany, Italy, and the Netherlands - Binance Support](https://www.binance.com/en/support/announcement/f72d0fff2bd24b488213fa30284dd4cd)
+- [Binance CEO says willing to step down amid crypto crackdown](https://www.cnbc.com/2021/07/27/binance-ceo-says-willing-to-step-down-amid-crypto-crackdown.html)
 
 ### Regulation - BlockFi
 
@@ -71,6 +71,7 @@ banner:
 ### Tech
 
 - [Bitcoin Optech Newsletter #159 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/28/)
+- [Chaincode Seminars](https://chaincode.gitbook.io/seminars/)
 - [What is Ethereum 2.0?. Ethereum’s future plans for… - by Alex Beckett - Coinmonks - Jul, 2021 - Medium](https://medium.com/coinmonks/what-is-ethereum-2-0-962d6828b45a)
 - [Vitalik Buterin : Things that matter outside of defi - YouTube](https://www.youtube.com/watch?v=oLsb7clrXMQ&t=52s)
 - [Amy ter Haar: Why everyone in crypto is talking about the London Hard Fork - Financial Post](https://financialpost.com/fp-finance/cryptocurrency/amy-ter-haar-why-everyone-in-crypto-is-talking-about-the-london-hard-fork)
