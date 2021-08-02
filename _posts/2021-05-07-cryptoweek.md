@@ -34,7 +34,7 @@ banner:
 ### Tech
 
 - [Bitcoin Optech Newsletter #147](https://bitcoinops.org/en/newsletters/2021/05/05/)
-- [Taproot activation](https://taproot.watch/)
+- [Taproot Activation - Taproot Watch](https://taproot.watch/)
 
 ### CBDC
 

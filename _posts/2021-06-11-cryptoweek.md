@@ -37,7 +37,7 @@ banner:
 - [Bitcoin Optech Newsletter #152 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/09/)
 - [BIP32: Modified test vectors for hardened derivation with leading zeros by silencer-Tsai · Pull Request #1030 · bitcoin/bips](https://github.com/bitcoin/bips/pull/1030/files)
 - [Additional BIP32 test vector for hardened derivation with leading zeros by kristapsk · Pull Request #22095 · bitcoin/bitcoin](https://github.com/bitcoin/bitcoin/pull/22095/files)
-- [Taproot activation](https://taproot.watch/)
+- [Taproot Activation - Taproot Watch](https://taproot.watch/)
 - [Bitcoin Mempool Explorer](https://mempool.space/)
 - [Johoe’s Bitcoin Mempool Size Statistics](https://jochen-hoenicke.de/queue/#BTC,4d,weight)
 - [Empty Blocks, Full Mempool](https://blog.lopp.net/empty-bitcoin-blocks-full-mempool/)
