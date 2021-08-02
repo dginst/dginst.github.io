@@ -30,7 +30,7 @@ banner:
 - [Buyers beware as “altcoin” frenzy bruises bitcoin - Reuters](https://www.reuters.com/business/finance/buyers-beware-altcoin-frenzy-bruises-bitcoin-2021-05-18/)
 - [Crypto Swings May Become a Threat, Norway’s Central Bank Warns - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-20/crypto-swings-may-become-a-threat-norway-s-central-bank-warns)
 - [Leading Crypto Exchanges Down As Bitcoin And Ether Plummet - Forbes](https://www.forbes.com/sites/roberthart/2021/05/19/leading-crypto-exchanges-down-as-bitcoin-and-ether-plummet/)
-- [Google search volume for cryptocurrency topics breaks all-time high - TheBlockCrypto](https://www.theblockcrypto.com/linked/105590/googletrends-search-interest-for-cryptocurrency-at-all-time-high)
+- [Google search volume for cryptocurrency topics breaks all-time high - The Block Crypto](https://www.theblockcrypto.com/linked/105590/googletrends-search-interest-for-cryptocurrency-at-all-time-high)
 - [Strip Away The Noise, and Bitcoin's Fundamentals Remain Intact - CoinShares Research](https://coinshares.com/research/bitcoins-fundamentals-remain-intact)
 - [MicroStrategy Acquires Additional $10 Million in Bitcoin at Average Price of $43,663 - Microstrategy](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-additional-10m-in-bitcoin-at-average-price-of-43-663_05-18-2021)
 - [Ark Investment's Cathie Wood Says Bitcoin Will Go to $500,000 - CoinDesk](https://www.coindesk.com/ark-investments-cathie-wood-says-bitcoin-will-go-to-500000)
@@ -87,8 +87,8 @@ banner:
 
 ### Tech
 
-- [Taproot activation](https://taproot.watch/)
-- [Taproot activation - Miners](https://taproot.watch/miners)
+- [Taproot Activation - Taproot Watch](https://taproot.watch/)
+- [Taproot Miners - Taproot Watch](https://taproot.watch/miners)
 - [Bitcoin Optech Newsletter #149 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/19/)
 
 ### Ecosystem

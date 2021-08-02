@@ -63,7 +63,7 @@ banner:
 
 ### Tech - Taproot
 
-- [Taproot activation](https://taproot.watch/)
+- [Taproot Activation - Taproot Watch](https://taproot.watch/)
 - [Bitcoin Optech Newsletter #153](https://bitcoinops.org/en/newsletters/2021/06/16/)
 - [Pieter Wuille on Taproot - Twitter](https://twitter.com/pwuille/status/1403725170993336322)
 - [Aaron van Wirdum on Taproot - Twitter](https://twitter.com/AaronvanW/status/1403701284495110145)
