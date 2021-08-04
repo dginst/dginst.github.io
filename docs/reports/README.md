@@ -13,7 +13,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
 - **2021-Q2**:
   report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q2_compressed.pdf) o
   [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q2-doppiapagina_compressed.pdf)) e
-  sua presentazionepresentazione del report
+  sua presentazione
   ([video](https://youtu.be/RP3Pd0aKous)
   e
   [slide]({{site.baseurl}}/docs/reports/2021Q2-presentation.pdf)).
