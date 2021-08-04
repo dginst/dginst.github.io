@@ -11,8 +11,8 @@ permalink: /reports/
 I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre. Questi i report finora prodotti:
 
 - **2021-Q2**:
-  report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q2.pdf) o
-  [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q2-doppiapagina.pdf)) e
+  report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q2_compressed.pdf) o
+  [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q2-doppiapagina_compressed.pdf)) e
   sua presentazionepresentazione del report
   ([video](https://youtu.be/RP3Pd0aKous)
   e
