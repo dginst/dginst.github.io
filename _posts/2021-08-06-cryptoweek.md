@@ -17,6 +17,18 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+- [JPMorgan Launches In-House Bitcoin Fund for Wealthy Clients - CoinDesk](https://www.coindesk.com/jpmorgan-launches-in-house-bitcoin-fund-for-wealthy-clients)
+- [Story from News FTX Strikes 7-Year Deal With ‘League of Legends’ Riot Games - Coindesk](https://www.coindesk.com/ftx-strikes-7-year-deal-with-league-of-legends-riot-games)
+- [DACH Funds May Inject USD 657B In Digital Assets Within 3 Years - CryptoNews](https://cryptonews.com/news/dach-funds-may-inject-usd-657b-in-digital-assets-within-3-ye-11313.htm)
+- [SEC Chairman Gensler Agrees With Predecessor: ‘Every ICO Is a Security’ - Coindesk](coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security)
+- [Arca to launch of the Arca Digital Yield Fund - Coindesk](https://www.coindesk.com/arca-launches-actively-managed-digital-yield-fund)
+- [Rothschild-Founded RIT Capital Leads $8.8M Funding Round for Aspen Digital - Coindesk](https://www.coindesk.com/rothschild-founded-rit-capital-leads-8-8m-funding-round-into-aspen-digital)
+- [IMF warns against using crypto as national currency ahead of El Salvador launch - Coindesk](https://www.ft.com/content/c36c45d2-1100-4756-a752-07a217b2bde0)
+- [South Korean regulator to reportedly shut down 11 crypto exchanges - Cointelegraph](https://cointelegraph.com/news/south-korean-regulator-to-reportedly-shut-down-11-crypto-exchanges)
+- [Is the crypto market still too Wild West for the traditional buy-side? - The Trade News](https://www.thetradenews.com/is-the-crypto-market-still-too-wild-west-for-the-traditional-buy-side/)
+- [Fed’s Brainard Says US Can’t Not Have a CBDC in a World in Which Others Have Them - Coindesk](https://www.coindesk.com/feds-brainard-says-us-cant-not-have-a-cbdc-in-a-world-in-which-others-have-them)
+- [Germany to Allow Institutional Funds to Hold up to 20% in Crypto - Bloomberg](https://www.bloomberg.com/news/articles/2021-07-30/germany-to-allow-institutional-funds-to-hold-up-to-20-in-crypto)
+
 ### Regulation
 
 - [Kentucky Orders BlockFi to Stop Signing Up New Interest Accounts](news.yahoo.com/blockfi-receives-fifth-cease-desist-230653567.html)
