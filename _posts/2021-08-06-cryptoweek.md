@@ -28,6 +28,10 @@ banner:
 - [Is the crypto market still too Wild West for the traditional buy-side? - The Trade News](https://www.thetradenews.com/is-the-crypto-market-still-too-wild-west-for-the-traditional-buy-side/)
 - [Fed’s Brainard Says US Can’t Not Have a CBDC in a World in Which Others Have Them - Coindesk](https://www.coindesk.com/feds-brainard-says-us-cant-not-have-a-cbdc-in-a-world-in-which-others-have-them)
 - [Germany to Allow Institutional Funds to Hold up to 20% in Crypto - Bloomberg](https://www.bloomberg.com/news/articles/2021-07-30/germany-to-allow-institutional-funds-to-hold-up-to-20-in-crypto)
+- [Ethereum network burns $395K ETH per hour after London upgrade - Cointelegraph](https://cointelegraph.com/news/ethereum-network-burns-395k-eth-per-hour-after-london-upgrade)
+- [French Fund Manager to Launch First Eu-Regulated Bitcoin Equities ETF - Bitcoin Magazine](https://bitcoinmagazine.com/markets/melanion-capital-launch-bitcoin-tracker-etf)
+- [NFTs Are Going Mainstream as Trading Volume Reaches New Record Level - Nasdaq](https://www.nasdaq.com/articles/nfts-are-going-mainstream-as-trading-volume-reaches-new-record-level-2021-08-03)
+- [Porsche to auction exclusive design sketch as a non-fungible token - Porsche.com](https://www.porsche.com/international/aboutporsche/pressreleases/pag/?lang=none&pool=international-de&id=653015)
 
 ### Regulation
 
