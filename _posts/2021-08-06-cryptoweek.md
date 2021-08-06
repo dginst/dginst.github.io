@@ -29,7 +29,7 @@ banner:
 
 ### Opinion
 
-- [Why Bitcoin Will Eventually Be Dethroned - by Pantera - Coinmonks](http://www.medium.com/coinmonks/why-bitcoin-will-eventually-be-dethroned-9b27bdf10d97)
+- [Why Bitcoin Will Eventually Be Dethroned - by Pantera](http://www.medium.com/coinmonks/why-bitcoin-will-eventually-be-dethroned-9b27bdf10d97)
 - [5 Reasons Why Bitcoin Will Eventually Be Dethroned - by Mr. Whale](http://cryptowhale.medium.com/5-reasons-why-bitcoin-will-eventually-be-dethroned-17e42238f563)
 
 ### Regulation - US
@@ -37,23 +37,23 @@ banner:
 - [New Crypto Bill in US Is the Most Comprehensive Yet - CoinDesk](http://www.coindesk.com/new-crypto-bill-in-us-congress-is-the-most-comprehensive-yet)
 - [Updated US Infrastructure Bill Narrows Crypto Reporting Rule - CoinDesk](http://www.coindesk.com/updated-infrastructure-bill)
 - [Infrastructure Deal Puts Cryptocurrencies in Washington’s Cross Hairs - The New York Times](http://www.nytimes.com/2021/07/30/us/politics/infrastructure-deal-cryptocurrency.html)
-- [How language in the infrastructure bill could roil the crypto markets](http://www.cnbc.com/2021/08/02/how-language-in-the-infrastructure-bill-could-roil-the-crypto-markets.html)
+- [How language in the infrastructure bill could roil the crypto markets - CNBC](http://www.cnbc.com/2021/08/02/how-language-in-the-infrastructure-bill-could-roil-the-crypto-markets.html)
 - [U.S. Crypto Traders Evade Offshore Exchange Bans - WSJ](www.wsj.com/articles/u-s-crypto-traders-evade-offshore-exchange-bans-11627637401)
 - [New Infrastructure Bill Looks to Raise $30B Through Crypto Taxes - CoinDesk](www.coindesk.com/new-infrastructure-bill-looks-to-raise-30b-through-crypto-taxes)
-- [Bitcoin Infrastructure Bill Politics - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](http://bitcoinmagazine.com/culture/bitcoin-infrastructure-bill-politics)
+- [Bitcoin Infrastructure Bill Politics - Bitcoin Magazine](http://bitcoinmagazine.com/culture/bitcoin-infrastructure-bill-politics)
 - [Cryptocurrency Compromise Emerges for Infrastructure Bill - WSJ](https://www.wsj.com/articles/cryptocurrency-compromise-emerges-for-infrastructure-bill-11628185806)
-- [Congress, Don't Rush Regulating Crypto - Angela Walch - CoinDesk](https://www.coindesk.com/congress-dont-rush-regulating-crypto)
+- [Congress, Don't Rush Regulating Crypto - by Angela Walch](https://www.coindesk.com/congress-dont-rush-regulating-crypto)
 
 ### Regulation - SEC's Gensler
 
-- [SEC.gov - Remarks Before the Aspen Security Forum](https://www.sec.gov/news/public-statement/gensler-aspen-security-forum-2021-08-03)
+- [Remarks Before the Aspen Security Forum - SEC.gov](https://www.sec.gov/news/public-statement/gensler-aspen-security-forum-2021-08-03)
 - [Crypto ‘Wild West’ Needs Stronger Investor Protection, SEC Chief Says - WSJ](https://www.wsj.com/articles/sec-will-police-cryptocurrencies-to-maximum-possible-extent-chair-gary-gensler-says-11628007567)
-- [Gensler sets SEC sights on DeFi, crypto lending and more in expansive speech on regulation](https://www.theblockcrypto.com/post/113416/gensler-speech-crypto-defi-lending-sec)
+- [Gensler sets SEC sights on DeFi, crypto lending and more in expansive speech on regulation - The Block Crypto](https://www.theblockcrypto.com/post/113416/gensler-speech-crypto-defi-lending-sec)
 - [SEC Chairman Gensler Agrees With Predecessor: ‘Every ICO Is a Security’ - Coindesk](coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security)
 - [SEC Chief Gary Gensler Braces for Clash With Crypto Traders - WSJ](https://www.wsj.com/articles/sec-chief-gary-gensler-braces-for-clash-with-crypto-traders-11628164980)
 - [SEC chair Gary Gensler on his vision for cryptocurrency regulation](https://www.cnbc.com/video/2021/08/04/sec-chair-gary-gensler-on-his-vision-for-cryptocurrency-regulation.html)
 - [SEC's Gensler Agrees With Predecessor: 'Every ICO Is a Security' - CoinDesk](https://www.coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security%20)
-- [https://twitter.com/GaryGensler/status/1422607603708870663](https://twitter.com/GaryGensler/status/1422607603708870663)
+- [Gary Gensler - Twitter](https://twitter.com/GaryGensler/status/1422607603708870663)
 
 ### Regulation - CDBC
 
@@ -66,12 +66,12 @@ banner:
 
 ### Ecosystem - BlockFi
 
-- [Kentucky Orders BlockFi to Stop Signing Up New Interest Accounts](https://news.yahoo.com/blockfi-receives-fifth-cease-desist-230653567.html)
+- [Kentucky Orders BlockFi to Stop Signing Up New Interest Accounts - Yahoo! News](https://news.yahoo.com/blockfi-receives-fifth-cease-desist-230653567.html)
 - [BlockFi - Twitter](https://twitter.com/BlockFi/status/1421205785506242561)
 
 ### Ecosystem - Binance
 
-- [Binance Scam? — Is Binance still secure? - by Lukas Wiesflecker - Coinmonks - Jul, 2021 - Medium](https://medium.com/coinmonks/binance-scam-is-binance-still-secure-1f12942f57ca)
+- [Binance Scam? Is Binance still secure? - by Lukas Wiesflecker](https://medium.com/coinmonks/binance-scam-is-binance-still-secure-1f12942f57ca)
 - [Binance Bitcoin Flow Stable Amidst Regulatory Challenges, Possible Executive Shakeup - Blockworks](https://blockworks.co/binance-bitcoin-flow-stable-amidst-regulatory-challenges-possible-executive-shakeup)
 - [Restricting of Derivatives Products Offerings in Hong Kong - Binance Support](https://www.binance.com/en/support/announcement/25a2571392a24367a7d927bd37ab2b86)
 
@@ -86,34 +86,35 @@ banner:
 ### Ecosystem - Matrixport
 
 - [Matrixport Raises $100M and Hits Unicorn Status with $1B Valuation - Blockworks](https://blockworks.co/matrixport-raises-100m-and-hits-unicorn-status-with-1b-valuation/)
-- [Asia’s Leading Crypto Financial Services Platform Matrixport Valued at Over $1 Billion — Matrixport](https://matrixport.medium.com/asias-leading-crypto-financial-services-platform-matrixport-valued-at-over-1-billion-two-eca9065b4382)
-- [Matrixport closes $100 million fundraise at ~$1 billion pre-money valuation](https://www.theblockcrypto.com/linked/113201/matrixport-100-million-series-c-1-billion-valuation)
+- [Asia’s Leading Crypto Financial Services Platform Valued at Over $1 Billion — Matrixport](https://matrixport.medium.com/asias-leading-crypto-financial-services-platform-matrixport-valued-at-over-1-billion-two-eca9065b4382)
+- [Matrixport closes $100 million fundraise at ~$1 billion pre-money valuation - The Block Crypto](https://www.theblockcrypto.com/linked/113201/matrixport-100-million-series-c-1-billion-valuation)
 
 ### Reports
 
 - [State of the Market July 29 / Aug. 4 - CoinMetrics](https://f.hubspotusercontent00.net/hubfs/5264302/State%20of%20the%20Market%20-%20July%2029%20-%20Aug.%204%2c%202021.pdf)
-- [July 2021 Market Recap & Outlook](https://kraken.docsend.com/view/pdn5gfvqjd2c3in8)
+- [July 2021 Market Recap & Outlook - Kraken](https://kraken.docsend.com/view/pdn5gfvqjd2c3in8)
 - [Outlook Cryptos August 2021 - Bloomberg](https://assets.bbhub.io/promo/sites/12/1267019_Crypto-August2021Outlook.pdf)
 - [Cryptocurrency and China - Chainalysis](https://go.chainalysis.com/rs/503-FAP-074/images/China%20report%20final.pdf)
+- [Report trimestrale 2021Q2 - DGI](https://dgi.io/docs/reports/2021Q2_compressed.pdf)
 
 ### BSV Attacked
 
 - [What Is Going On With Craig Wright's Bitcoin SV? - CoinDesk](https://www.coindesk.com/what-is-going-on-with-bitcoin-sv)
 - [BSV Suffers 51% Attack: Report - CoinDesk](https://www.coindesk.com/bsv-suffers-51-attack-report)
-- [Statement on August 2021 block re-organisation attack on the Bitcoin SV network - Bitcoin Association](https://bitcoinassociation.net/statement-on-august-2021-block-re-organisation-attack-on-the-bitcoin-sv-network/)
-- [1GB block - Twitter](https://twitter.com/shadders333/status/1423500449034825728)
+- [Statement on August 2021 block re-organisation attack on the BSV network - Bitcoin Association](https://bitcoinassociation.net/statement-on-august-2021-block-re-organisation-attack-on-the-bitcoin-sv-network/)
+- [1GB BSV Block - Twitter](https://twitter.com/shadders333/status/1423500449034825728)
 
 ### Tech
 
 - [Why You Should Run a Full Node - by Jimmy Song, Bitcoin Tech Talk #251](https://jimmysong.substack.com/p/why-you-should-run-a-full-node-bitcoin)
-- [On the security model of software wallets - Ledger](https://donjon.ledger.com/software-wallets/)
 - [Lightning: Bitcoin’s High Speed Transmission Protocol -  CoinShares](https://coinshares.com/research/lightning-explained-bitcoin-high-speed-transmission-protocol)
 - [The Lightning Network Is Bigger Than You Think -  Kevin Rooke](https://www.kevinrooke.blog/the-lightning-network-is-bigger-than-you-think/)
+- [On the security model of software wallets - Ledger](https://donjon.ledger.com/software-wallets/)
 - [Newsletter #160 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/08/04/)
 
 ### Digital Gold Institute
 
-- [Report trimestrale DGI](https://dgi.io/reports/)
+- [Report trimestrale 2021Q2: pdf, video e slides](https://dgi.io/reports/)
 - [News from DGI](https://dgi.io/news/)
-- [Events](https://dgi.io/events/)
-- [Crypto Asset Lab – CAL2021 Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
+- [DGI Events](https://dgi.io/events/)
+- [CAL2021 Conference - Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/calconf/)
