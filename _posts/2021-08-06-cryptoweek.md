@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: nHdA2FFvoa8
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-8685705
