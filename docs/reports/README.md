@@ -14,7 +14,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q2_compressed.pdf) o
   [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q2-doppiapagina_compressed.pdf)) e
   sua presentazione
-  ([video](https://youtu.be/RP3Pd0aKous)
+  ([video](https://www.youtube.com/watch?v=RP3Pd0aKous&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=6)
   e
   [slide]({{site.baseurl}}/docs/reports/2021Q2-presentation.pdf)).
   Ospite: Andrea Cattaneo
@@ -23,7 +23,8 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q1.pdf) o
   [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q1-doppiapagina.pdf)) e
   sua presentazione
-  ([video](https://www.youtube.com/watch?v=pgAlv1ufZdk&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=5), 
+  ([video](https://www.youtube.com/watch?v=pgAlv1ufZdk&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=5)
+  e
   [slide]({{site.baseurl}}/docs/reports/2021Q1-presentation.pdf)).
   Ospite: Filippo Annunziata
   su [MiCAR]({{site.baseurl}}/docs/reports/2021Q1-proposal-for-regulation-on-markets-in-crypto-assets.pdf).
