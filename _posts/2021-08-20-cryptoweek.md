@@ -34,7 +34,6 @@ banner:
 
 ### Ecosystem - Coinbase
 
-
 ### Ecosystem - Miscellanea
 
 ### Ecosystem - ETF

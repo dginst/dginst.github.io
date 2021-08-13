@@ -36,12 +36,12 @@ banner:
 - [DeFi Exchange Uranium Finance Loses $50M in Exploit - Coindesk](https://www.coindesk.com/binance-smart-chain-defi-exchange-uranium-finance-exploit)
 - [Transparency - Tether](https://wallet.tether.to/transparency)
 - [World's Largest Stablecoin Tether Passes $50B Market Capitalization - Coindesk](https://www.coindesk.com/tether-passes-50b-market-cap?utm_medium=email&_hsmi=123639745&_hsenc=p2ANqtz-_tfwEoP4IRkhIwbhi-EpXhYJOtgD8uCsG8HVMdzwZjFAlzZlZ3pvX57YG5hO2N9MlDC4XchfSeZTohOS3gNTBAWoYZW27_KYyM-3p0vHFsXJ5i9Og&utm_content=123639745&utm_source=hs_email)
-- [Ripple wants go public after settling SEC lawsuit, SBI CEO says - Cointelegraph](https://cointelegraph.com/news/ripple-wants-go-public-after-settling-sec-lawsuit-sbi-ceo-says)
+- [Ripple wants go public after settling SEC lawsuit, SBI CEO says- Cointelegraph](https://cointelegraph.com/news/ripple-wants-go-public-after-settling-sec-lawsuit-sbi-ceo-says)
 
 ### ETF/ETP
 
 - [WisdomTree expands digital assets range with Ethereum ETP launch - WisdomTree](https://www.wisdomtree.eu/en-gb/press-room/tabs/latest-news/wisdomtree-expands-digital-assets-range-with-ethereum-etp-launch)
-- [Swiss Stock Exchange SIX and Borse Xetra list physically backed Ether ETP  - Cointelegraph](https://cointelegraph.com/news/swiss-stock-exchange-six-and-boerse-xetra-list-physically-backed-ether-etp)
+- [Swiss Stock Exchange SIX and Borse Xetra list physically backed Ether ETP - Cointelegraph](https://cointelegraph.com/news/swiss-stock-exchange-six-and-boerse-xetra-list-physically-backed-ether-etp)
 
 ### Exchanges
 

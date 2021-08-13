@@ -26,7 +26,7 @@ banner:
 - [Bitcoin Won’t Stop Dropping. Blame Elon Musk. - Barron's](https://www.barrons.com/articles/bitcoin-wont-stop-dropping-blame-elon-musk-51621254115?refsec=cryptocurrencies)
 - [Bitcoin gyrates on fears of regulatory crackdown - Financial Times](https://www.ft.com/content/c4c29bb3-c8ee-454c-a2dd-eac9f644007f)
 - [Asset managers express caution on cryptocurrency after price swings - Financial Times](https://www.ft.com/content/cf378147-1c60-4d60-96fb-bacbfad840fe)
-- [Chinese trade associations sound crypto investment warning - Cointelegraph](https://cointelegraph.com/news/chinese-trade-associations-sound-crypto-investment-warning)
+- [Chinese trade associations sound crypto investment warning- Cointelegraph](https://cointelegraph.com/news/chinese-trade-associations-sound-crypto-investment-warning)
 - [Buyers beware as “altcoin” frenzy bruises bitcoin - Reuters](https://www.reuters.com/business/finance/buyers-beware-altcoin-frenzy-bruises-bitcoin-2021-05-18/)
 - [Crypto Swings May Become a Threat, Norway’s Central Bank Warns - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-20/crypto-swings-may-become-a-threat-norway-s-central-bank-warns)
 - [Leading Crypto Exchanges Down As Bitcoin And Ether Plummet - Forbes](https://www.forbes.com/sites/roberthart/2021/05/19/leading-crypto-exchanges-down-as-bitcoin-and-ether-plummet/)

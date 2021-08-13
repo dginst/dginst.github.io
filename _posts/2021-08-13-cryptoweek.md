@@ -21,11 +21,11 @@ banner:
 
 - [Crypto platform Poly Network rewards hacker with $500,000 'bug bounty' - Reuters](https://www.reuters.com/technology/crypto-platform-poly-network-rewards-hacker-with-500000-bug-bounty-2021-08-13)
 - [Poly Network - Twitter](https://twitter.com/PolyNetwork2/status/1425870262067548163)
-- [Poly Network hacker returns nearly all funds, refuses $500K white hat bounty - cointelegraph](https://cointelegraph.com/news/poly-network-hacker-returns-nearly-all-funds-refuses-500k-white-hat-bounty)
+- [Poly Network hacker returns nearly all funds, refuses $500K white hat bounty- Cointelegraph](https://cointelegraph.com/news/poly-network-hacker-returns-nearly-all-funds-refuses-500k-white-hat-bounty)
 - [Hacker Returns Nearly All $600 Million Stolen In Ethereum, Other Tokens After Major Crypto Heist - Forbes](https://www.forbes.com/sites/jonathanponciano/2021/08/12/hacker-finally-returns-nearly-all-600-million-stolen-in-ethereum-other-tokens-after-major-crypto-heist)
 - [Poly Network Attacker Returning Funds After Pulling Off Biggest DeFi Theft Ever - Chainalysis](https://blog.chainalysis.com/reports/poly-network-hack-august-2021)
 - [What a $600m heist tells us about the future of crypto - Financial Times](https://www.ft.com/content/9c22f0d2-df65-40ee-b593-5545ebd32a06)
-- [DAO Maker Statement — Thursday, 12th of August - by B. M. - DAO Maker - Aug, 2021 - Medium](https://medium.com/daomaker/dao-maker-statement-thursday-12th-of-august-2c3bb0d1bb69)
+- [DAO Maker Statement - Medium](https://medium.com/daomaker/dao-maker-statement-thursday-12th-of-august-2c3bb0d1bb69)
 - [Maxi furto di criptovalute: i bitcoin sono sicuri? - WeWealth](https://www.we-wealth.com/news/fintech/blockchain/maxi-furto-criptovalute-i-bitcoin-sono-sicuri)
 
 ### Ecosystem - Coinbase
@@ -35,15 +35,15 @@ banner:
 
 ### Ecosystem - Miscellanea
 
-- [Neuberger Berman expands fund strategy to include bitcoin, ether exposure](https://www.theblockcrypto.com/linked/114229/400-billion-investment-manager-neuberger-berman-expands-fund-strategy-to-include-bitcoin-ether-exposure)
-- [German Funds' Crypto Investments Will Pose Liquidity Risks](https://www.fitchratings.com/research/fund-asset-managers/german-funds-crypto-investments-will-pose-liquidity-risks-11-08-2021)
-- [Our Journey to Become a National Digital Currency Bank](https://www.circle.com/blog/our-journey-to-become-a-national-digital-currency-bank)
+- [Neuberger Berman expands fund strategy to include bitcoin, ether exposure - The Block Crypto](https://www.theblockcrypto.com/linked/114229/400-billion-investment-manager-neuberger-berman-expands-fund-strategy-to-include-bitcoin-ether-exposure)
+- [German Funds' Crypto Investments Will Pose Liquidity Risks - Fitch Ratings](https://www.fitchratings.com/research/fund-asset-managers/german-funds-crypto-investments-will-pose-liquidity-risks-11-08-2021)
+- [Our Journey to Become a National Digital Currency Bank -  Circle](https://www.circle.com/blog/our-journey-to-become-a-national-digital-currency-bank)
 - [Beijing Signals Yearslong Tech Crackdown as Investors Reevaluate China Bets - CoinDesk](https://www.coindesk.com/beijing-signals-yearslong-tech-crackdown-as-investors-reevaluate-china-bets)
 
 ### Ecosystem - ETF
 
 - [VanEck Files for Futures Bitcoin ETF After SEC Hints at Path to Approval - Decrypt](https://decrypt.co/78240/vaneck-futures-bitcoin-etf-sec)
-- [Approval incoming? Valkyrie becomes fourth firm to apply for BTC futures ETF - cointelegraph](https://cointelegraph.com/news/approval-incoming-valkyrie-becomes-fourth-firm-to-apply-for-btc-futures-etf)
+- [Approval incoming? Valkyrie becomes fourth firm to apply for BTC futures ETF- Cointelegraph](https://cointelegraph.com/news/approval-incoming-valkyrie-becomes-fourth-firm-to-apply-for-btc-futures-etf)
 - [Valkyrie - SEC](https://www.sec.gov/Archives/edgar/data/0001841175/000138713121001118/valkyrie-s1_012221.htm)
 
 ### Regulation - US Infrastructure Bill
@@ -52,7 +52,7 @@ banner:
 - [Cryptocurrency debate slows infrastructure bill - The Washington Post](https://www.washingtonpost.com/business/2021/08/07/cryptocurrency-infrastructure-bill-lobby-bitcoin/)
 - [Lone Senator Rejects Crypto Compromise in Infrastructure Bill - CoinDesk](https://www.coindesk.com/senate-compromise-infrastructure-bill)
 - [Senate Fails to Amend Crypto Tax Provision in Infrastructure Bill - Blockworks](https://blockworks.co/senate-fails-to-amend-crypto-tax-provision-in-infrastructure-bill/)
-- [It's official: Cryptocurrency is infrastructure - CNNPolitics](https://edition.cnn.com/2021/08/09/politics/cryptocurrency-infrastructure-deal-lummis-toomey/index.html)
+- [It's official: Cryptocurrency is infrastructure - CNN Politics](https://edition.cnn.com/2021/08/09/politics/cryptocurrency-infrastructure-deal-lummis-toomey/index.html)
 - [Bitcoin's Political Moment Has Arrived - Bitcoin Tech Talk #252, by Jimmy Song](https://jimmysong.substack.com/p/bitcoins-political-moment-has-arrived)
 - [A Bipartisan Cryptocurrency Crackup - WSJ](https://www.wsj.com/articles/a-bipartisan-cryptocurrency-crackup-senate-infrastructure-bill-11628626924)
 
@@ -75,7 +75,7 @@ banner:
 
 - [BitMEX confirms it has reached settlements with CFTC and FinCEN - BitMEX Blog](https://blog.bitmex.com/bitmex-confirms-it-has-reached-settlements-with-cftc-and-fincen/)
 - [Crypto is changing, and BitMEX is changing with it - BitMEX Blog](https://blog.bitmex.com/crypto-is-changing-and-bitmex-is-changing-with-it/)
-- [Federal Court Orders BitMEX to Pay $100 Million for Illegally Operating a Cryptocurrency Trading Platform and AML Violations - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
+- [BitMEX to Pay $100 Million for Illegally Operating a Cryptocurrency Trading Platform and AML Violations - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
 - [BitMex joins AC Milan as first-ever sleeve partner - AC Milan](https://www.acmilan.com/en/news/articles/sponsor/2021-08-10/bitmex-joins-ac-milan-as-first-ever-sleeve-partner)
 
 ### Ecosystem - Fan Token
@@ -88,7 +88,7 @@ banner:
 
 - [Fixing The Privacy Gap In Proof Of Liability Protocols - BitMEX Blog](https://blog.bitmex.com/addressing-the-privacy-gap-in-proof-of-liability-protocols/)
 - [Proof of Reserves & Liabilities: BitMEX Demonstration - BitMEX Blog](https://blog.bitmex.com/proof-of-reserves-liabilities-bitmex-demonstration/)
-- [Proof-of-reserves - CheckSig](https://checksig.io/por)
+- [Proof of Reserves - CheckSig](https://checksig.io/por/)
 
 - ### Ecosystem - Tether
 

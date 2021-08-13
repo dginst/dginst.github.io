@@ -28,7 +28,7 @@ banner:
 
 ### Market - Altcoins
 
-- [Institutional investors load up ETH, with its share of AUM hitting a new record - Cointelegraph](https://cointelegraph.com/news/institutional-investors-load-up-eth-with-its-share-of-aum-hitting-a-new-record)
+- [Institutional investors load up ETH, with its share of AUM hitting a new record- Cointelegraph](https://cointelegraph.com/news/institutional-investors-load-up-eth-with-its-share-of-aum-hitting-a-new-record)
 - [Coinbase Giving Away $1.2M in Dogecoin to Promote New Crypto Offering - Business Insider](https://www.businessinsider.com/coinbase-dogecoin-sweepstakes-users-can-trade-meme-cryptocurrency-2021-6?r=US&IR=T)
 - [Coinbase Pro Will Begin Trading Dogecoin On Thursday - Crypto Briefing](https://cryptobriefing.com/coinbase-pro-will-begin-trading-dogecoin-on-thursday/)
 - [Dogecoin (DOGE) is launching on Coinbase Pro - by Coinbase - Jun, 2021 - The Coinbase Blog](https://blog.coinbase.com/dogecoin-doge-is-launching-on-coinbase-pro-1d73bf66dd9d)
