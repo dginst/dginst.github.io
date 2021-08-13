@@ -89,7 +89,7 @@ banner:
 - [Asia’s Leading Crypto Financial Services Platform Valued at Over $1 Billion — Matrixport](https://matrixport.medium.com/asias-leading-crypto-financial-services-platform-matrixport-valued-at-over-1-billion-two-eca9065b4382)
 - [Matrixport closes $100 million fundraise at ~$1 billion pre-money valuation - The Block Crypto](https://www.theblockcrypto.com/linked/113201/matrixport-100-million-series-c-1-billion-valuation)
 
-### Reports
+### Ecosystem - Reports
 
 - [State of the Market July 29 / Aug. 4 - CoinMetrics](https://f.hubspotusercontent00.net/hubfs/5264302/State%20of%20the%20Market%20-%20July%2029%20-%20Aug.%204%2c%202021.pdf)
 - [July 2021 Market Recap & Outlook - Kraken](https://kraken.docsend.com/view/pdn5gfvqjd2c3in8)
@@ -97,7 +97,7 @@ banner:
 - [Cryptocurrency and China - Chainalysis](https://go.chainalysis.com/rs/503-FAP-074/images/China%20report%20final.pdf)
 - [Report trimestrale 2021Q2 - DGI](https://dgi.io/docs/reports/2021Q2_compressed.pdf)
 
-### BSV Attacked
+### Ecosystem - BSV Attacked
 
 - [What Is Going On With Craig Wright's Bitcoin SV? - CoinDesk](https://www.coindesk.com/what-is-going-on-with-bitcoin-sv)
 - [BSV Suffers 51% Attack: Report - CoinDesk](https://www.coindesk.com/bsv-suffers-51-attack-report)
