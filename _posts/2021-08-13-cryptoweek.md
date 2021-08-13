@@ -30,7 +30,7 @@ banner:
 
 ### Ecosystem - Coinbase
 
-- [Coinbase-Q221-Shareholder-Letter.pdf](https://s27.q4cdn.com/397450999/files/doc_financials/2021/q2/Coinbase-Q221-Shareholder-Letter.pdf)
+- [Coinbase 2021Q2 Shareholder Letter - Coinbase](https://s27.q4cdn.com/397450999/files/doc_financials/2021/q2/Coinbase-Q221-Shareholder-Letter.pdf)
 - [Coinbase gets boost from wild cryptocurrency trading swings - Financial Times](https://www.ft.com/content/b4daff21-6ce6-4854-a499-dc3394859708)
 
 ### Ecosystem - Miscellanea
@@ -43,7 +43,7 @@ banner:
 ### Ecosystem - ETF
 
 - [VanEck Files for Futures Bitcoin ETF After SEC Hints at Path to Approval - Decrypt](https://decrypt.co/78240/vaneck-futures-bitcoin-etf-sec)
-- [Approval incoming? Valkyrie becomes fourth firm to apply for BTC futures ETF](https://cointelegraph.com/news/approval-incoming-valkyrie-becomes-fourth-firm-to-apply-for-btc-futures-etf)
+- [Approval incoming? Valkyrie becomes fourth firm to apply for BTC futures ETF - cointelegraph](https://cointelegraph.com/news/approval-incoming-valkyrie-becomes-fourth-firm-to-apply-for-btc-futures-etf)
 - [Valkyrie - SEC](https://www.sec.gov/Archives/edgar/data/0001841175/000138713121001118/valkyrie-s1_012221.htm)
 
 ### Regulation - US Infrastructure Bill
@@ -53,12 +53,12 @@ banner:
 - [Lone Senator Rejects Crypto Compromise in Infrastructure Bill - CoinDesk](https://www.coindesk.com/senate-compromise-infrastructure-bill)
 - [Senate Fails to Amend Crypto Tax Provision in Infrastructure Bill - Blockworks](https://blockworks.co/senate-fails-to-amend-crypto-tax-provision-in-infrastructure-bill/)
 - [It's official: Cryptocurrency is infrastructure - CNNPolitics](https://edition.cnn.com/2021/08/09/politics/cryptocurrency-infrastructure-deal-lummis-toomey/index.html)
-- [Bitcoin's Political Moment Has Arrived. Bitcoin Tech Talk #252 - by Jimmy Song - Bitcoin Tech Talk](https://jimmysong.substack.com/p/bitcoins-political-moment-has-arrived)
+- [Bitcoin's Political Moment Has Arrived - Bitcoin Tech Talk #252, by Jimmy Song](https://jimmysong.substack.com/p/bitcoins-political-moment-has-arrived)
 - [A Bipartisan Cryptocurrency Crackup - WSJ](https://www.wsj.com/articles/a-bipartisan-cryptocurrency-crackup-senate-infrastructure-bill-11628626924)
 
 ### Regulation - SEC's Gensler
 
-- [Gensler asks Sen. Warren for more SEC authority to regulate crypto exchanges](https://www.theblockcrypto.com/linked/114222/gensler-asks-sen-warren-for-more-sec-authority-to-regulate-crypto-exchanges)
+- [Gensler asks Sen. Warren for more SEC authority to regulate crypto exchanges - The Block Crypto](https://www.theblockcrypto.com/linked/114222/gensler-asks-sen-warren-for-more-sec-authority-to-regulate-crypto-exchanges)
 - [Gensler's Response to Warren - Warren Senate](https://www.warren.senate.gov/imo/media/doc/gensler_response_to_warren_-_cryptocurrency_exchanges.pdf)
 
 ### Ecosystem - Binance
@@ -74,8 +74,8 @@ banner:
 ### Regulation - Bitmex
 
 - [BitMEX confirms it has reached settlements with CFTC and FinCEN - BitMEX Blog](https://blog.bitmex.com/bitmex-confirms-it-has-reached-settlements-with-cftc-and-fincen/)
-- [Federal Court Orders BitMEX to Pay $100 Million for Illegally Operating a Cryptocurrency Trading Platform and AML Violations - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
 - [Crypto is changing, and BitMEX is changing with it - BitMEX Blog](https://blog.bitmex.com/crypto-is-changing-and-bitmex-is-changing-with-it/)
+- [Federal Court Orders BitMEX to Pay $100 Million for Illegally Operating a Cryptocurrency Trading Platform and AML Violations - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
 - [BitMex joins AC Milan as first-ever sleeve partner - AC Milan](https://www.acmilan.com/en/news/articles/sponsor/2021-08-10/bitmex-joins-ac-milan-as-first-ever-sleeve-partner)
 
 ### Ecosystem - Fan Token
@@ -93,7 +93,7 @@ banner:
 - ### Ecosystem - Tether
 
 - [Tether Reveals More Details About Its Reserves - CoinDesk](https://www.coindesk.com/tether-reserves-details-attestation-commercial-paper)
-- [Latest Assurance Opinion Once Again Confirms Tether’s Reserves Fully Backed; Tether Continues to Lead The Industry on Transparency. - Tether](https://tether.to/latest-assurance-opinion-confirms-tether-fully-backed/)
+- [Latest Assurance Opinion Once Again Confirms Tether’s Reserves Fully Backed - Tether](https://tether.to/latest-assurance-opinion-confirms-tether-fully-backed/)
 - [Crypto’s Tether Sheds Light, but Not Enough, on Its $63 Billion Reserves - WSJ](https://www.wsj.com/articles/tether-sheds-light-but-not-enough-on-its-63-billion-reserves-11628777820)
 - [Tether Is Backed by Nearly 50% Commercial Paper Says New Report - Decrypt](https://decrypt.co/78041/tether-is-backed-nearly-50-commercial-paper-says-new-report)
 
