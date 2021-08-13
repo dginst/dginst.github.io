@@ -17,15 +17,27 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+
+### Ecosystem - Argentina
+
+- [Argentina Open to Adopting Bitcoin, Says President Alberto Fernandez - Decrypt](https://decrypt.co/78424/argentina-open-adopting-bitcoin-president-alberto-fernandez)
+
+### Ecosystem - NFT
+
+- [I Joined a Penguin NFT Club. Here's What Happened. - The New York Times](https://www.nytimes.com/2021/08/12/technology/penguin-nft-club.html)
+
+### Regulation - US Infrastructure Bill
+
+- [The Way the Senate Melted Down Over Crypto Is Very Revealing - The New York Times](https://www.nytimes.com/2021/08/12/opinion/senate-cryptocurrency.html)
+
 ### Ecosystem - Poly Network Hack (and DAO Maker)
 
 ### Ecosystem - Coinbase
 
+
 ### Ecosystem - Miscellanea
 
 ### Ecosystem - ETF
-
-### Regulation - US Infrastructure Bill
 
 ### Regulation - SEC's Gensler
 
