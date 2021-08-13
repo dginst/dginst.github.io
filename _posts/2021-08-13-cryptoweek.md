@@ -22,7 +22,7 @@ banner:
 - [Crypto platform Poly Network rewards hacker with $500,000 'bug bounty' - Reuters](https://www.reuters.com/technology/crypto-platform-poly-network-rewards-hacker-with-500000-bug-bounty-2021-08-13)
 - [Poly Network - Twitter](https://twitter.com/PolyNetwork2/status/1425870262067548163)
 - [Poly Network hacker returns nearly all funds, refuses $500K white hat bounty- Cointelegraph](https://cointelegraph.com/news/poly-network-hacker-returns-nearly-all-funds-refuses-500k-white-hat-bounty)
-- [Hacker Returns Nearly All $600 Million Stolen In Ethereum, Other Tokens After Major Crypto Heist - Forbes](https://www.forbes.com/sites/jonathanponciano/2021/08/12/hacker-finally-returns-nearly-all-600-million-stolen-in-ethereum-other-tokens-after-major-crypto-heist)
+- [Hacker Returns Nearly All $600 Million Stolen In Ethereum, Other Tokens - Forbes](https://www.forbes.com/sites/jonathanponciano/2021/08/12/hacker-finally-returns-nearly-all-600-million-stolen-in-ethereum-other-tokens-after-major-crypto-heist)
 - [Poly Network Attacker Returning Funds After Pulling Off Biggest DeFi Theft Ever - Chainalysis](https://blog.chainalysis.com/reports/poly-network-hack-august-2021)
 - [What a $600m heist tells us about the future of crypto - Financial Times](https://www.ft.com/content/9c22f0d2-df65-40ee-b593-5545ebd32a06)
 - [DAO Maker Statement - Medium](https://medium.com/daomaker/dao-maker-statement-thursday-12th-of-august-2c3bb0d1bb69)
@@ -48,7 +48,7 @@ banner:
 
 ### Regulation - US Infrastructure Bill
 
-- [Cryptocurrency brawl bogs down infrastructure bill, as Yellen and White House fight changes - The Washington Post](https://www.washingtonpost.com/politics/2021/08/06/crypto-bitcoin-infrastructure-senate/)
+- [Cryptocurrency brawl bogs down infrastructure bill - The Washington Post](https://www.washingtonpost.com/politics/2021/08/06/crypto-bitcoin-infrastructure-senate/)
 - [Cryptocurrency debate slows infrastructure bill - The Washington Post](https://www.washingtonpost.com/business/2021/08/07/cryptocurrency-infrastructure-bill-lobby-bitcoin/)
 - [Lone Senator Rejects Crypto Compromise in Infrastructure Bill - CoinDesk](https://www.coindesk.com/senate-compromise-infrastructure-bill)
 - [Senate Fails to Amend Crypto Tax Provision in Infrastructure Bill - Blockworks](https://blockworks.co/senate-fails-to-amend-crypto-tax-provision-in-infrastructure-bill/)
@@ -58,7 +58,7 @@ banner:
 
 ### Regulation - SEC's Gensler
 
-- [Gensler asks Sen. Warren for more SEC authority to regulate crypto exchanges - The Block Crypto](https://www.theblockcrypto.com/linked/114222/gensler-asks-sen-warren-for-more-sec-authority-to-regulate-crypto-exchanges)
+- [Gensler asks for more SEC authority to regulate crypto exchanges - The Block Crypto](https://www.theblockcrypto.com/linked/114222/gensler-asks-sen-warren-for-more-sec-authority-to-regulate-crypto-exchanges)
 - [Gensler's Response to Warren - Warren Senate](https://www.warren.senate.gov/imo/media/doc/gensler_response_to_warren_-_cryptocurrency_exchanges.pdf)
 
 ### Ecosystem - Binance
@@ -73,9 +73,9 @@ banner:
 
 ### Regulation - Bitmex
 
+- [BitMEX to Pay $100 Million - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
 - [BitMEX confirms it has reached settlements with CFTC and FinCEN - BitMEX Blog](https://blog.bitmex.com/bitmex-confirms-it-has-reached-settlements-with-cftc-and-fincen/)
 - [Crypto is changing, and BitMEX is changing with it - BitMEX Blog](https://blog.bitmex.com/crypto-is-changing-and-bitmex-is-changing-with-it/)
-- [BitMEX to Pay $100 Million for Illegally Operating a Cryptocurrency Trading Platform and AML Violations - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
 - [BitMex joins AC Milan as first-ever sleeve partner - AC Milan](https://www.acmilan.com/en/news/articles/sponsor/2021-08-10/bitmex-joins-ac-milan-as-first-ever-sleeve-partner)
 
 ### Ecosystem - Fan Token
