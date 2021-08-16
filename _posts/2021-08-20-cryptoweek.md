@@ -18,6 +18,11 @@ banner:
 ---
 
 
+### Ecosystem - Wallmart
+
+- [Digital Currency and Cryptocurrency Product Lead - Walmart Careers](https://careers.walmart.com/us/jobs/WD704706-usa-senior-director-ii-corporate-development-and-integration)
+- [Walmart is looking for a crypto product lead](https://www.theblockcrypto.com/linked/114627/walmart-is-looking-for-a-crypto-product-lead)
+
 ### Ecosystem - Argentina
 
 - [Argentina Open to Adopting Bitcoin, Says President Alberto Fernandez - Decrypt](https://decrypt.co/78424/argentina-open-adopting-bitcoin-president-alberto-fernandez)
@@ -30,7 +35,9 @@ banner:
 
 - [The Way the Senate Melted Down Over Crypto Is Very Revealing - The New York Times](https://www.nytimes.com/2021/08/12/opinion/senate-cryptocurrency.html)
 
-### Ecosystem - Poly Network Hack (and DAO Maker)
+### Ecosystem - Poly Network Hack / DeFi
+
+- [What Investors Have to Say About DeFi’s Largest Hack to Date - Blockworks](https://blockworks.co/what-investors-have-to-say-about-defis-largest-hack-to-date/)
 
 ### Ecosystem - Coinbase
 
@@ -42,13 +49,17 @@ banner:
 
 ### Ecosystem - Binance
 
+- [London court orders Binance to trace cryptocurrency hackers, freeze their accounts - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/article-london-court-orders-binance-to-trace-cryptocurrency-hackers-freeze/)
+
 ### Regulation - Poloniex
 
 ### Regulation - Bitmex
 
 ### Ecosystem - Fan Token
 
-### Ecosystem - Proof-of-Reserves
+### Regulation - CBDC
+
+- [Bank of Korea to Pilot CBDC on Samsung Galaxy Phones - Decrypt](https://decrypt.co/78581/bank-of-korea-to-pilot-cbdc-on-samsung-galaxy-phones)
 
 - ### Ecosystem - Tether
 
