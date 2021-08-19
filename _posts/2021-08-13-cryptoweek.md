@@ -90,7 +90,7 @@ banner:
 - [Proof of Reserves & Liabilities: BitMEX Demonstration - BitMEX Blog](https://blog.bitmex.com/proof-of-reserves-liabilities-bitmex-demonstration/)
 - [Proof of Reserves - CheckSig](https://checksig.io/por/)
 
-- ### Ecosystem - Tether
+### Ecosystem - Tether
 
 - [Tether Reveals More Details About Its Reserves - CoinDesk](https://www.coindesk.com/tether-reserves-details-attestation-commercial-paper)
 - [Latest Assurance Opinion Once Again Confirms Tether’s Reserves Fully Backed - Tether](https://tether.to/latest-assurance-opinion-confirms-tether-fully-backed/)
