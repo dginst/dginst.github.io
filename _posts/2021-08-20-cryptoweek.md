@@ -17,6 +17,7 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+
 ### Ecosystem - Environmental Sustainability
 
 - [If Bitcoin hits $500,000, mining it will spew more CO2 than Mexico or Brazil - Fortune](https://fortune.com/2021/08/16/bitcoin-500k-carbon-footprint-co2-mexico-brazil/)
@@ -56,14 +57,20 @@ banner:
 - [Binance Appoints Former US Treasury Enforcer to Anti-Money Laundering Role - CoinDesk](https://www.coindesk.com/binance-appoints-former-us-treasury-enforcer-to-anti-money-laundering-role)
 - [Binance to Seek 'Regular' Meetings with Regulators, Says CEO - Bloomberg](https://www.bloomberg.com/news/videos/2021-08-17/binance-to-seek-regular-meetings-with-regulators-says-ceo-video)
 - [DNB warns against Binance - De Nederlandsche Bank](https://www.dnb.nl/en/actueel/dnb/news-2021/dnb-warns-against-binance/)
+- [BinanceUS wants to raise $100 million but investors are wary due to regulatory concerns - The Block Crypto](https://www.theblockcrypto.com/linked/115131/binanceus-wants-to-raise-100-million-but-investors-are-wary-due-to-regulatory-concerns)
 - [Restricting of Derivatives Products Offerings in Australia - Binance Support](https://www.binance.com/en/support/announcement/a671a8fcc5e04eabab485f82566a0db5)
-- [London court orders Binance to trace cryptocurrency hackers, freeze their accounts - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/article-london-court-orders-binance-to-trace-cryptocurrency-hackers-freeze/)
+- [Updates to Binance Services - Binance Support](https://www.binance.com/en/support/announcement/51bf294e26324211a4731ca998e110ca)
+
+### Ecosystem - Coinbase
+
+- [Brian Armstrong - Twitter](https://twitter.com/brian_armstrong/status/1428489591665856512)
+- [Coinbase to Add Over $500M in Crypto to Current Holdings - CoinDesk](https://www.coindesk.com/coinbase-to-add-over-500m-in-crypto-to-current-holdings)
 
 ### Ecosystem - Japan
 
+- [Coinbase to launch exchange in Japan with financial giant Mitsubishi UFJ - The Block Crypto](https://www.theblockcrypto.com/linked/114994/coinbase-japan-mufg-crypto-exchange)
 - [Japanese crypto exchange Liquid says it has been hacked - The Block Crypto](https://www.theblockcrypto.com/post/114993/crypto-exchange-liquid-hack)
 - [Japan's Liquid Global Exchange Hacked; $90M in Crypto Siphoned Off - CoinDesk](https://www.coindesk.com/liquid-hack-japan-bitcoin-ether-tron-xrp)
-- [Coinbase to launch exchange in Japan with financial giant Mitsubishi UFJ - The Block Crypto](https://www.theblockcrypto.com/linked/114994/coinbase-japan-mufg-crypto-exchange)
 
 ### Ecosystem - NFT and Ethereum
 
@@ -72,11 +79,15 @@ banner:
 - [Ethereum Fees Highest Since May as NFT Craze Continues - Cryptonews](https://cryptonews.com/news/ethereum-fees-highest-since-may-as-nft-craze-continues-11477.htm)
 - [Ethereum 2.0 Staking Tops $21 Billion With 'Merge' on the Horizon - Decrypt](https://decrypt.co/78690/ethereum-2-staking-tops-21-billion-merge-horizon)
 
-### Ecosystem - Poly Network Hack / DeFi
+### Ecosystem - Poly Network Hack
 
-- [What Investors Have to Say About DeFi’s Largest Hack to Date - Blockworks](https://blockworks.co/what-investors-have-to-say-about-defis-largest-hack-to-date/)
 - [Poly Network Hack Not Over as Attacker Prolongs Return of Funds - CoinDesk](https://www.coindesk.com/poly-network-hack-attacker-prolongs-return)
 - [Poly Network Offers Chief Security Officer Role to Hacker That Stole $600M - Blockworks](https://blockworks.co/poly-network-offers-chief-security-officer-role-to-hacker-that-stole-600m/)
+
+### Ecosystem - Decentralized Finance
+
+- [What Investors Have to Say About DeFi’s Largest Hack to Date - Blockworks](https://blockworks.co/what-investors-have-to-say-about-defis-largest-hack-to-date/)
+- [Galaxy Digital Launches DeFi Index Tracker Fund - CoinDesk](https://www.coindesk.com/galaxy-digital-launches-defi-index-tracker-fund)
 
 ### Regulation
 
@@ -86,10 +97,12 @@ banner:
 - [The crypto ‘wild west’ needs a good sheriff - Financial Times](https://www.ft.com/content/2b9cadc9-5c72-4c38-bfda-59a8a2153b41)
 - [Deputy Superintendent for Virtual Currency (NYDFS) - LinkedIn](https://www.linkedin.com/jobs/view/deputy-superintendent-for-virtual-currency-at-new-york-state-center-for-recruitment-public-service-2630943109/)
 - [Former SEC Chairman Jay Clayton Joins Crypto Platform Fireblocks - Blockworks](https://blockworks.co/former-sec-chairman-jay-clayton-joins-crypto-platform-fireblocks/)
+- [One River Digital Asset Management welcomes Jay Clayton to Advisory Council](https://www.prnewswire.com/news-releases/one-river-digital-asset-management-welcomes-jay-clayton-kevin-hassett-and-jon-orszag-to-newly-formed-academic-and-regulatory-advisory-council-301257503.html)
 
 ### Regulation - CBDC
 
 - [Bank of Korea to Pilot CBDC on Samsung Galaxy Phones - Decrypt](https://decrypt.co/78581/bank-of-korea-to-pilot-cbdc-on-samsung-galaxy-phones)
+- [Singapore’s Central Bank Is Building A Bitcoin Inspired Currency Using JP Morgan Technology](https://www.forbes.com/sites/emilymason/2021/08/19/singapores-central-bank-is-building-a-bitcoin-inspired-currency-using-jp-morgan-technology/)
 
 ### Tech - Bitcoin
 
