@@ -20,7 +20,7 @@ banner:
 ### Ecosystem - Environmental Sustainability
 
 - [If Bitcoin hits $500,000, mining it will spew more CO2 than Mexico or Brazil - Fortune](https://fortune.com/2021/08/16/bitcoin-500k-carbon-footprint-co2-mexico-brazil/)
-- [Bitcoin And Gold Energy Debate - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/culture/bitcoin-and-gold-energy-debate)
+- [Bitcoin And Gold Energy Debate - Bitcoin Magazine](https://bitcoinmagazine.com/culture/bitcoin-and-gold-energy-debate)
 
 ### Markets
 
