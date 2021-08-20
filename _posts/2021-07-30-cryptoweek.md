@@ -45,7 +45,7 @@ banner:
 - [Ferdinando M. Ametrano on _shadowy super-coders_ - LinkedIn](https://www.linkedin.com/posts/ferdinandoametrano_as-a-coder-ive-always-dreamed-of-being-activity-6826454429634478080-6uG1/)
 - [Senate Banking Committee presses crypto experts on systemic risk at hearing - CNBC](https://www.cnbc.com/2021/07/27/senate-banking-committee-presses-crypto-experts-on-systemic-risk-at-hearing.html)
 - [UCL Centre for Blockchain Research Associate: Crypto Miners ‘Need More Scrutiny’ - Blockworks](https://blockworks.co/ucl-center-for-blockchain-research-associate-crypto-miners-need-more-scrutiny/)
-- [UK Treasury moves toward implementing FATF's crypto 'travel rule' - The Block Crypto](https://www.theblockcrypto.com/linked/112329/uk-treasury-moves-toward-implementing-fatfs-crypto-travel-rule-with-public-consultation)
+- [UK Treasury moves toward implementing FATF's crypto 'travel rule' - The Block](https://www.theblockcrypto.com/linked/112329/uk-treasury-moves-toward-implementing-fatfs-crypto-travel-rule-with-public-consultation)
 - [Regulators are Coming for Crypto, Here’s How Firms are Reacting - Blockworks](https://blockworks.co/regulators-are-coming-for-crypto-heres-how-firms-are-reacting/)
 
 ### Regulation - Binance
@@ -64,7 +64,7 @@ banner:
 
 ### Regulation - Tether
 
-- [US officials investigating Tether executives for bank fraud - The Block Crypto](https://www.theblockcrypto.com/linked/112452/us-officials-investigating-tether-executives-for-bank-fraud-report)
+- [US officials investigating Tether executives for bank fraud - The Block](https://www.theblockcrypto.com/linked/112452/us-officials-investigating-tether-executives-for-bank-fraud-report)
 - [Tether Remains Stable Amid Reports of DOJ Probe - Blockworks](https://blockworks.co/tether-remains-stable-amid-reports-of-doj-probe/)
 
 ### Tech

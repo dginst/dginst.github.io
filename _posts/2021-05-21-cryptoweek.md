@@ -30,7 +30,7 @@ banner:
 - [Buyers beware as “altcoin” frenzy bruises bitcoin - Reuters](https://www.reuters.com/business/finance/buyers-beware-altcoin-frenzy-bruises-bitcoin-2021-05-18/)
 - [Crypto Swings May Become a Threat, Norway’s Central Bank Warns - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-20/crypto-swings-may-become-a-threat-norway-s-central-bank-warns)
 - [Leading Crypto Exchanges Down As Bitcoin And Ether Plummet - Forbes](https://www.forbes.com/sites/roberthart/2021/05/19/leading-crypto-exchanges-down-as-bitcoin-and-ether-plummet/)
-- [Google search volume for cryptocurrency topics breaks all-time high - The Block Crypto](https://www.theblockcrypto.com/linked/105590/googletrends-search-interest-for-cryptocurrency-at-all-time-high)
+- [Google search volume for cryptocurrency topics breaks all-time high - The Block](https://www.theblockcrypto.com/linked/105590/googletrends-search-interest-for-cryptocurrency-at-all-time-high)
 - [Strip Away The Noise, and Bitcoin's Fundamentals Remain Intact - CoinShares Research](https://coinshares.com/research/bitcoins-fundamentals-remain-intact)
 - [MicroStrategy Acquires Additional $10 Million in Bitcoin at Average Price of $43,663 - Microstrategy](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-additional-10m-in-bitcoin-at-average-price-of-43-663_05-18-2021)
 - [Ark Investment's Cathie Wood Says Bitcoin Will Go to $500,000 - CoinDesk](https://www.coindesk.com/ark-investments-cathie-wood-says-bitcoin-will-go-to-500000)
@@ -42,7 +42,7 @@ banner:
 - [Coinbase CFO on crypto investors, dogecoin and growing competition - Cnbc](https://www.cnbc.com/2021/05/13/coinbase-cfo-on-crypto-investors-dogecoin-and-growing-competition.html)
 - [Coinbase to Raise $1.25 Billion in Bond Sale Just 1 Month After Going Public - Decrypt](https://decrypt.co/71189/coinbase-raise-1-25-billion-bond-sale)
 - [Coinbase Announces Proposed Private Offering of $1.25 Billion of Convertible Senior Notes Due 2026 - Coinbase](https://investor.coinbase.com/news/news-details/2021/Coinbase-Announces-Proposed-Private-Offering-of-1.25-Billion-of-Convertible-Senior-Notes-Due-2026/default.aspx)
-- [Coinbase plans 'media arm' that reports to its marketing team: report - The Block Crypto](https://www.theblockcrypto.com/linked/105183/coinbase-crypto-media-arm-report)
+- [Coinbase plans 'media arm' that reports to its marketing team: report - The Block](https://www.theblockcrypto.com/linked/105183/coinbase-crypto-media-arm-report)
 - [Coinbase in Talks to Buy Asset Manager Osprey Funds - CoinDesk](https://www.coindesk.com/coinbase-in-talks-to-buy-asset-manager-osprey-funds-sources)
 
 ### Custodians
@@ -55,7 +55,7 @@ banner:
 - [OCC Signals It May Be Less Crypto-Friendly Than Brian Brooks Regime - Decrypt](https://decrypt.co/71318/occ-less-crypto-friendly-brian-brooks-regime)
 - [Written Testimony of Michael J. Hsu Before the Senate Committee on Banking, Housing and Urban Affairs - Financial Services](https://financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-hsum-20210519.pdf)
 - [Crypto Transfers Over $10,000 Should Be Reported to IRS, Treasury Says - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-20/treasury-calls-for-crypto-transfers-over-10-000-reported-to-irs)
-- [Dutch central bank reverses strict KYC rules for crypto withdrawals - The Block Crypto](https://www.theblockcrypto.com/linked/105530/dutch-central-bank-crypto-withdrawals)
+- [Dutch central bank reverses strict KYC rules for crypto withdrawals - The Block](https://www.theblockcrypto.com/linked/105530/dutch-central-bank-crypto-withdrawals)
 - [Request for Information and Comment on Digital Assets - FDIC](https://www.fdic.gov/news/press-releases/2021/pr21046a.pdf)
 
 ### CBDC
@@ -63,14 +63,14 @@ banner:
 - [Do we need ‘public money’? - speech by Jon Cunliffe - Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
 - [Federal Reserve Chair Jerome H. Powell outlines the Federal Reserve's response to technological advances driving rapid change in the global payments landscape - Federal Reserve Board](https://www.federalreserve.gov/newsevents/pressreleases/other20210520b.htm)
 - [Powell advances Fed work on possible ‘digital dollar’ - Financial Times](https://www.ft.com/content/ca4875dc-b7ed-463c-aa3f-941694d5f284)
-- [The Fed will publish a discussion paper focused a potential digital dollar - The Block Crypto](https://www.theblockcrypto.com/linked/105583/federal-reserve-cbdc-discussion-paper)
+- [The Fed will publish a discussion paper focused a potential digital dollar - The Block](https://www.theblockcrypto.com/linked/105583/federal-reserve-cbdc-discussion-paper)
 - [Dante Disparte: A Digital Dollar Would Be Bad for the US - CoinDesk](https://www.coindesk.com/a-central-bank-digital-currency-would-be-bad-for-the-us)
 
 ### Tether
 
 - [Tether (Finally) Releases Breakdown Of Its $42 Billion In Crypto Reserves - Forbes](https://www.forbes.com/sites/nicholasgans/2021/05/13/tether-releases-breakdown-of-its-reserves/)
 - [Tether march 31 2021 reserves breakdown - Tether](https://tether.to/wp-content/uploads/2021/05/tether-march-31-2021-reserves-breakdown.pdf)
-- [Tether is launching on the Avalanche blockchain - The Block Crypto](https://www.theblockcrypto.com/linked/105010/tether-avalanche-blockchain-usdt-avax)
+- [Tether is launching on the Avalanche blockchain - The Block](https://www.theblockcrypto.com/linked/105010/tether-avalanche-blockchain-usdt-avax)
 - [Tether Tokens (USDt) to Launch on Avalanche - Tether](https://tether.to/tether-tokens-usdt-to-launch-on-avalanche)
 
 ### Ransomware

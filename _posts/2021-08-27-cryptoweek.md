@@ -48,6 +48,8 @@ banner:
 
 ### Tech - Bitcoin
 
+- [Newsletter #163 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/08/25/)
+
 ### Digital Gold Institute
 
 - [News from DGI](https://dgi.io/news/)

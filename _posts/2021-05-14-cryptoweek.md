@@ -33,7 +33,7 @@ banner:
 - [German and US regulators tighten focus on booming crypto market - Financial Times](https://www.ft.com/content/98f6caf9-f8f9-47de-9cf9-4c2f1aa981aa?shareType=nongift)
 - [Binance Faces Probe by U.S. Money-Laundering and Tax Sleuths - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-13/binance-probed-by-u-s-as-money-laundering-tax-sleuths-bore-in)
 - [SEC Chair Suggests Congress Regulate Crypto Exchanges - CoinDesk](https://www.coindesk.com/sec-chair-gary-gensler-recommends-congress-regulate-crypto-exchanges)
-- [U.S. Office of Foreign Assets Control is seeking blockchain analytics tools - The Block Crypto](https://www.theblockcrypto.com/linked/104087/u-s-office-of-foreign-assets-control-is-seeking-blockchain-analytics-tools)
+- [U.S. Office of Foreign Assets Control is seeking blockchain analytics tools - The Block](https://www.theblockcrypto.com/linked/104087/u-s-office-of-foreign-assets-control-is-seeking-blockchain-analytics-tools)
 - [Cryptocurrency Exchanges Need Direct Regulation, SEC Chair Says - Barron's](https://www.barrons.com/articles/cryptocurrency-exchanges-regulation-sec-coinbase-51620335275)
 - [Court Authorizes Service of John Doe Summons Seeking Identities of U.S. Taxpayers Who Have Used Cryptocurrency - OPA - Department of Justice](https://www.justice.gov/opa/pr/court-authorizes-service-john-doe-summons-seeking-identities-us-taxpayers-who-have-used-1)
 
@@ -58,14 +58,14 @@ banner:
 - [How much a $1,000 investment in dogecoin at the start of 2021 is worth - CNBC](https://www.cnbc.com/2021/05/05/how-much-a-1000-dollar-investment-in-dogecoin-is-worth.html)
 - [Dfinity's ICP Token Price Goes Live on Coinbase Pro - CoinDesk](https://www.coindesk.com/dfinity-icp-token-345-coinbase-listing)
 - [Dfinity Foundation - Twitter](https://twitter.com/dfinity/status/1391514314482372614)
-- [Dfinity has finally launched its decentralized 'internet computer' - The Block Crypto](https://www.theblockcrypto.com/linked/104146/dfinity-launches-internet-computer)
+- [Dfinity has finally launched its decentralized 'internet computer' - The Block](https://www.theblockcrypto.com/linked/104146/dfinity-launches-internet-computer)
 - [Resisting the Siren Song of Altcoins. Bitcoin Tech Talk #239 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/resisting-the-siren-song-of-altcoins)
 - [Bitcoin (BTC USD) Cryptocurrency Price: Bank of England Warns of Full Losses - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/boe-s-bailey-says-only-buy-crypto-if-ready-to-lose-your-money)
-- [Buy crypto only if ready to lose it all, says Bank of England governor - The Block Crypto](https://www.theblockcrypto.com/linked/104086/bank-of-england-governor-bailey-crypto-comments)
+- [Buy crypto only if ready to lose it all, says Bank of England governor - The Block](https://www.theblockcrypto.com/linked/104086/bank-of-england-governor-bailey-crypto-comments)
 
 ### CBDC
 
-- [Bank of England deputy governor says a CBDC is 'probable' if public money is to survive - The Block Crypto](https://www.theblockcrypto.com/linked/104830/bank-of-england-cbdc-public-money)
+- [Bank of England deputy governor says a CBDC is 'probable' if public money is to survive - The Block](https://www.theblockcrypto.com/linked/104830/bank-of-england-cbdc-public-money)
 - [Do we need ‘public money’? - speech by Jon Cunliffe - Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
 - [Israel central bank boosting preparations for digital currency - Reuters](https://www.reuters.com/world/middle-east/israel-central-bank-boosting-preparations-digital-currency-2021-05-11/)
 
@@ -78,15 +78,15 @@ banner:
 ### Ecosystem
 
 - [Citi weighs launching crypto services after surge in client interest - Financial Times](https://www.ft.com/content/d90ed3bf-2c8d-46c9-98b7-67859f6598e5)
-- [Citi bank is considering launching crypto trading and custody services - The Block Crypto](https://www.theblockcrypto.com/linked/104179/citi-bank-considering-crypto-trading-custody-services)
+- [Citi bank is considering launching crypto trading and custody services - The Block](https://www.theblockcrypto.com/linked/104179/citi-bank-considering-crypto-trading-custody-services)
 - [Goldman Sachs internal memo unveils new cryptocurrency trading team - CNBC](https://www.cnbc.com/2021/05/07/goldman-sachs-unveils-new-cryptocurrency-trading-team-in-employee-memo.html)
 - [Goldman Offers New Bitcoin Derivatives to Wall Street Investors - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/goldman-offers-new-bitcoin-derivatives-to-wall-street-investors)
 - [Goldman Offers New Bitcoin Derivatives to Wall Street Investors - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/goldman-offers-new-bitcoin-derivatives-to-wall-street-investors)
 - [Emerald Banking and Finance Fund Takes Heat for Big Crypto Bet - Bloomberg](https://www.bloomberg.com/opinion/articles/2021-05-06/emerald-banking-and-finance-fund-takes-heat-for-big-crypto-bet)
-- [Swiss banking giant UBS is exploring crypto offering for clients: report - The Block Crypto](https://www.theblockcrypto.com/linked/104297/swiss-banking-giant-ubs-exploring-crypto-report)
+- [Swiss banking giant UBS is exploring crypto offering for clients: report - The Block](https://www.theblockcrypto.com/linked/104297/swiss-banking-giant-ubs-exploring-crypto-report)
 - [UBS explores offering crypto investments to rich clients - BNN Bloomberg](https://www.bnnbloomberg.ca/ubs-exploring-ways-to-offer-crypto-investments-to-rich-clients-1.1601595)
 - [PayPal Is a Darling of Wall Street. What's Behind All the Love. - Barron's](https://www.barrons.com/articles/paypal-is-a-darling-of-wall-street-whats-behind-all-the-love-51620324216?mod=bol-social-tw)
-- [Square reports $3.51 billion in bitcoin revenue via its Cash app for first quarter of 2021 - The Block Crypto](https://www.theblockcrypto.com/post/104136/square-reports-3-51-billion-in-bitcoin-revenue-via-its-cash-app-for-first-quarter-of-2021)
+- [Square reports $3.51 billion in bitcoin revenue via its Cash app for first quarter of 2021 - The Block](https://www.theblockcrypto.com/post/104136/square-reports-3-51-billion-in-bitcoin-revenue-via-its-cash-app-for-first-quarter-of-2021)
 - [MoneyGram to Allow Bitcoin Buying and Selling Across Retail Network - CoinDesk](https://www.coindesk.com/moneygram-to-allow-bitcoin-buying-and-selling-across-retail-network)
 
 ### Tech

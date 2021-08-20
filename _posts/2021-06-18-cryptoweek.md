@@ -22,7 +22,7 @@ banner:
 - [Paul Tudor Jones: I like Bitcoin - YouTube](https://www.youtube.com/watch?v=JBB5KbYewLk)
 - [Paul Tudor Jones: 'Go all in' on inflation trades if Fed ignores higher prices - CNBC](https://www.cnbc.com/2021/06/14/paul-tudor-jones-says-bet-heavily-on-every-inflation-trade-if-fed-keeps-ignoring-higher-prices.html)
 - [Paul Tudor Jones Highlights Bitcoin - Bitcoin Magazine](https://bitcoinmagazine.com/markets/paul-tudor-jones-highlights-bitcoin)
-- [Paul Tudor Jones wants to have 5% of his portfolio in bitcoin - The Block Crypto](https://www.theblockcrypto.com/linked/108337/paul-tudor-jones-bitcoin-5-percent-comments)
+- [Paul Tudor Jones wants to have 5% of his portfolio in bitcoin - The Block](https://www.theblockcrypto.com/linked/108337/paul-tudor-jones-bitcoin-5-percent-comments)
 - [Paul Tudor Jones Likes Bitcoin as Portfolio Diversifier - Blockworks](https://blockworks.co/paul-tudor-jones-likes-bitcoin-as-portfolio-diversifier/)
 
 ### Markets - Elon Musk
@@ -57,7 +57,7 @@ banner:
 
 ### Ecosystem - Exchanges
 
-- [Silvergate Bank cuts ties with Binance, affecting deposits and withdrawals - The Block Crypto](https://www.theblockcrypto.com/post/108064/silvergate-bank-binance-cut-ties-crypto)
+- [Silvergate Bank cuts ties with Binance, affecting deposits and withdrawals - The Block](https://www.theblockcrypto.com/post/108064/silvergate-bank-binance-cut-ties-crypto)
 - [Bitcoin: Coinbase rival Kraken may go public via direct listing - CNBC](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html)
 - [Kraken Could IPO By End of 2022 - Blockworks](https://blockworks.co/kraken-could-ipo-by-end-of-2022)
 
@@ -78,7 +78,7 @@ banner:
 - [Sichuan Orders Shutdown on 26 Bitcoin Mining Farms - Crypto Briefing](https://cryptobriefing.com/sichuan-orders-shutdown-on-26-bitcoin-mining-farms/)
 - [City in China’s Sichuan Province Orders Crypto Miners to Shut Down for Inspection: Reports - Coindesk](https://www.coindesk.com/sichuan-province-city-orders-crypto-miners-to-shut-down-for-inspection-reports)
 - [China's bitcoin miner exodus - CNBC](https://www.cnbc.com/2021/06/15/chinas-bitcoin-miner-exodus-.html)
-- [Some bitcoin miners in Xinjiang have been ordered to shut down - The Block Crypto](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
+- [Some bitcoin miners in Xinjiang have been ordered to shut down - The Block](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
 - [Hash rate chart](https://www.blockchain.com/charts/hash-rate)
 
 ### Ecosystem - El Salvador, Paraguay, and Panama
@@ -102,22 +102,22 @@ banner:
 - [Spain's BBVA opens Bitcoin trading service to clients in Switzerland - Reuters](https://www.reuters.com/business/spains-bbva-opens-bitcoin-trading-service-clients-switzerland-2021-06-18/)
 - [Spain’s BBVA Opening Bitcoin Trading Service to Private Banking Clients in Switzerland - Coindesk](https://www.coindesk.com/spains-bbva-opening-bitcoin-trading-service-to-private-banking-clients-in-switzerland)
 - [Ethereum is outperforming bitcoin. Morgan Stanley thinks it knows why - CNBC](https://www.cnbc.com/2021/06/17/ethereum-is-outperforming-bitcoin-morgan-stanley-thinks-it-knows-why.html)
-- [NYDIG, FS Investments file for new Morgan Stanley-focused bitcoin fund - The Block Crypto](https://www.theblockcrypto.com/linked/108514/nydig-fs-investments-file-for-new-morgan-stanley-focused-bitcoin-fund)
+- [NYDIG, FS Investments file for new Morgan Stanley-focused bitcoin fund - The Block](https://www.theblockcrypto.com/linked/108514/nydig-fs-investments-file-for-new-morgan-stanley-focused-bitcoin-fund)
 - [Morgan Stanley Set to Expand Bitcoin Fund Options - Decrypt](https://decrypt.co/73733/morgan-stanley-set-expand-bitcoin-fund-options)
 - [State Street makes crypto custody push - Funds Europe](https://www.funds-europe.com/news/state-street-makes-crypto-custody-push)
-- [State Street stands up new crypto unit as it eyes potential custody, DeFi products - The Block Crypto](https://www.theblockcrypto.com/post/108214/state-street-stands-up-new-crypto-unit-as-it-eyes-potential-custody-defi-products)
+- [State Street stands up new crypto unit as it eyes potential custody, DeFi products - The Block](https://www.theblockcrypto.com/post/108214/state-street-stands-up-new-crypto-unit-as-it-eyes-potential-custody-defi-products)
 - [Most UK Financial Advisers Would Steer Clear of Crypto and Meme Stocks: Poll - CoinDesk](https://www.coindesk.com/opinium-survey-ifa-crypto-investments)
 - [Hedge funds expect to hold 7% of assets in crypto within five years - Financial Times](https://www.ft.com/content/4f8044bf-8f0f-46b4-9fb7-6d0eba723017)
 - [Hedge Funds See 7.2% of Assets in Crypto by 2026: Report - CoinDesk](https://www.coindesk.com/hedge-fund-crypto-asset-allocation-survey)
 - [Index publisher MSCI looking at launch of crypto indexes - Reuters](https://www.reuters.com/business/index-publisher-msci-looking-launch-crypto-indexes-2021-06-17)
 - [Crypto asset manager Bitwise raises $70 million from Kravis, Druckenmiller, Bridgewater CEO McCormick and more - CNBC](https://www.cnbc.com/2021/06/15/crypto-asset-manager-bitwise-raises-70-million-from-kravis-druckenmiller-others.html)
-- [Bitwise raises $70 million from new Wall Street investors - The Block Crypto](https://www.theblockcrypto.com/post/108421/bitwise-raises-70-million-from-new-wall-street-investors-including-henry-kravis-and-dan-loeb)
+- [Bitwise raises $70 million from new Wall Street investors - The Block](https://www.theblockcrypto.com/post/108421/bitwise-raises-70-million-from-new-wall-street-investors-including-henry-kravis-and-dan-loeb)
 - [Bitwise Asset Management Inc. Completes $70 Million Series B, Valuing the Company at More Than $500 Million - Business Wire](https://www.businesswire.com/news/home/20210615005680/en/Bitwise-Asset-Management-Inc.-Completes-70-Million-Series-B-Valuing-the-Company-at-More-Than-500-Million)
 - [BitDAO Raises $230M for Decentralized Crypto Investment Fund - CoinDesk](https://www.coindesk.com/bitdao-fundraising-decentralized-crypto-investment-fund)
 
 ### Regulation - CBDC
 
-- [Bank of England exec: CBDCs would be the safest type of money available - The Block Crypto](https://www.theblockcrypto.com/linked/108748/cbdcs-would-be-the-safest-type-of-money-available-says-bank-of-england-exec)
+- [Bank of England exec: CBDCs would be the safest type of money available - The Block](https://www.theblockcrypto.com/linked/108748/cbdcs-would-be-the-safest-type-of-money-available-says-bank-of-england-exec)
 - [Central Bank Digital Currency: An update on the Bank of England’s work - Bank of England](https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference)
 - [BIS Launches Innovation Hub With Nordic Central Banks Focusing on CBDCs - CoinDesk](https://www.coindesk.com/bis-launches-innovation-hub-with-nordic-central-banks-focusing-on-cbdcs)
 - [Chinese Commercial Bank Enables Digital Yuan-Cash Conversion at Over 3,000 ATMs - Coindesk](coindesk.com/china-industrial-commerce-bank-digital-yuan-cash-convert)
@@ -128,7 +128,7 @@ banner:
 
 - [UK Regulator Finds 2.3M Adults Now Hold Crypto - CoinDesk](https://www.coindesk.com/uk-regulator-crypto-survey)
 - [SEC Delays Approval of VanEck Bitcoin ETF, Again - Blockworks](https://blockworks.co/sec-delays-approval-of-vaneck-bitcoin-etf-again/)
-- [SEC delays decision on Kryptoin's proposed bitcoin ETF - The Block Crypto](https://www.theblockcrypto.com/linked/108398/sec-delays-decision-on-kryptoins-proposed-bitcoin-etf-making-it-the-latest-of-multiple-extensions)
+- [SEC delays decision on Kryptoin's proposed bitcoin ETF - The Block](https://www.theblockcrypto.com/linked/108398/sec-delays-decision-on-kryptoins-proposed-bitcoin-etf-making-it-the-latest-of-multiple-extensions)
 - [CFTC/SEC Investor Alert: Funds Trading in Bitcoin Futures - CFTC](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/fraudadv_funds_trading_in_bitcoin_futures.html)
 - [Danske Bank's position on cryptocurrencies - Danske Bank](https://danskebank.com/news-and-insights/news-archive/news/2021/18062021)
 - [Unregulated spread of cryptocurrencies a concern, says Italian regulator - Reuters](https://www.reuters.com/business/unregulated-spread-cryptocurrencies-concern-says-italian-regulator-2021-06-14/)

@@ -25,7 +25,7 @@ banner:
 - [Binance ‘temporarily suspends’ payments from EU’s Sepa network - Financial Times](https://www.ft.com/content/bf99e9e3-d104-4a92-81a1-8bd70b884b3f)
 - [Binance crackdown: regulators tussle with ‘wild west’ of crypto - Financial Times](https://www.ft.com/content/a10c297f-c8dd-48b1-9744-09d4ff2e89ca)
 - [Santander to block payments by UK banking customers to Binance - Financial Times](https://ft.com/content/a699c495-0c18-40af-8d2d-73571daa77a1)
-- [Santander UK is the latest bank to block payments to Binance - The Block Crypto](https://www.theblockcrypto.com/post/110818/santander-uk-block-payments-binance-crypto)
+- [Santander UK is the latest bank to block payments to Binance - The Block](https://www.theblockcrypto.com/post/110818/santander-uk-block-payments-binance-crypto)
 - [Barclays stops UK clients from sending funds to Binance - Financial Times](https://www.ft.com/content/abc04cc0-ea53-4ecb-8c1e-49c85014fa3f)
 - [Binance CEO Calls For ‘Clear Regulations’ Amid Growing Pressure - Decrypt](https://decrypt.co/75377/binance-ceo-calls-for-clear-regulation-amid-growing-pressure)
 - [A Letter from Our CEO: Reflecting on Progress and the Road Ahead - Binance Blog](https://www.binance.com/en/blog/421499824684902301/A-Letter-from-Our-CEO-Reflecting-on-Progress-and-the-Road-Ahead)
@@ -46,7 +46,7 @@ banner:
 
 - [Washington is Divided on Crypto, Hearing Reveals - Blockworks](https://blockworks.co/washington-is-divided-on-crypto-hearing-reveals/)
 - [Fed's Powell met with Coinbase CEO on May 11 - Reuters](https://www.reuters.com/business/feds-powell-met-with-coinbase-ceo-may-11-meeting-logs-2021-07-02/)
-- [Crypto lobbyists put DeFi proposals to FATF in open letter - The Block Crypto](https://www.theblockcrypto.com/post/110506/crypto-lobbyists-put-defi-proposals-to-fatf-in-open-letter)
+- [Crypto lobbyists put DeFi proposals to FATF in open letter - The Block](https://www.theblockcrypto.com/post/110506/crypto-lobbyists-put-defi-proposals-to-fatf-in-open-letter)
 - [EU to Propose New Anti-Money Laundering Body to Crack Down on Crypto: Report - Decrypt](https://decrypt.co/75542/eu-propose-new-anti-money-laundering-body-crack-down-crypto-report)
 - [EU to propose new body to tackle dirty money, documents say - Reuters](https://www.reuters.com/business/eu-propose-new-anti-money-laundering-authority-documents-say-2021-07-07/)
 - [EU to create anti-money laundering agency - EU Observer](https://euobserver.com/democracy/152386)

@@ -21,13 +21,13 @@ banner:
 ### Markets
 
 - [Bitcoin (BTC) price slides as US seizes most of Colonial ransom - cnbc](https://www.cnbc.com/2021/06/08/bitcoin-btc-price-slides-as-us-seizes-most-of-colonial-ransom.html)
-- [Some bitcoin miners in Xinjiang have been ordered to shut down - The Block Crypto](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
+- [Some bitcoin miners in Xinjiang have been ordered to shut down - The Block](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
 - [Sichuan takes lenient stance on bitcoin mining amid national crackdown to deal with rainy season’s excess hydropower - South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3136357/sichuan-takes-lenient-stance-bitcoin-mining-amid-national)
 - [China Reconsiders Its Central Role in Bitcoin Mining - WSJ](https://www.wsj.com/articles/china-reconsiders-its-central-role-in-bitcoin-mining-11622865618)
-- [Baidu and Weibo are censoring keywords of Huobi, OKEx and Binance - The Block Crypto](https://www.theblockcrypto.com/linked/107726/baidu-weibo-censor-huobi-okex-binance)
+- [Baidu and Weibo are censoring keywords of Huobi, OKEx and Binance - The Block](https://www.theblockcrypto.com/linked/107726/baidu-weibo-censor-huobi-okex-binance)
 - [MicroStrategy Announces Proposed Private Offering of $400 Million of Senior Secured Notes - Microstrategy](https://www.microstrategy.com/en/investor-relations/press/microstrategy-announces-proposed-private-offering-of-400m-of-senior-secured-notes_06-07-2021)
 - [MicroStrategy’s Rough Life as a Bitcoin Tracker - WSJ](https://www.wsj.com/articles/microstrategys-rough-life-as-a-bitcoin-tracker-11623234600)
-- [Web traffic for cryptocurrency exchanges hit all-time high in May - The Block Crypto](https://www.theblockcrypto.com/linked/107613/web-traffic-crypto-exchanges-may-record-high)
+- [Web traffic for cryptocurrency exchanges hit all-time high in May - The Block](https://www.theblockcrypto.com/linked/107613/web-traffic-crypto-exchanges-may-record-high)
 - [State Street sets up digital unit to capitalise on crypto craze - Financial Times](https://www.ft.com/content/52b1b8a9-2322-496c-ac16-a847c658d186)
 - [Cryptocurrency Comes to Retirement Plans as Coinbase Teams Up With 401(k) Provider - WSJ](https://www.wsj.com/articles/coinbase-teams-up-with-401-k-provider-to-offer-crypto-11623317402)
 - [Bitcoin Gains by Country: Who Benefited the Most from the 2020 Boom? - Chainalysis](https://blog.chainalysis.com/reports/bitcoin-gains-by-country-2020)
@@ -87,7 +87,7 @@ banner:
 
 ### Regulation
 
-- [CFTC commissioner criticizes DeFi, decries lack of intermediaries - The Block Crypto](https://www.theblockcrypto.com/linked/107769/cftc-commissioner-criticizes-defi-decries-lack-of-intermediaries)
+- [CFTC commissioner criticizes DeFi, decries lack of intermediaries - The Block](https://www.theblockcrypto.com/linked/107769/cftc-commissioner-criticizes-defi-decries-lack-of-intermediaries)
 - [BIS Consultative document: Prudential treatment of cryptoasset exposures - BIS](https://www.bis.org/bcbs/publ/d519.htm)
 
 ### Regulation - CBDC

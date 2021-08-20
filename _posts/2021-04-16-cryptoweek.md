@@ -36,7 +36,7 @@ banner:
 
 - [First North American bitcoin ETF soars past $1 billion under management as interest in crypto booms - Business Insider](https://markets.businessinsider.com/currencies/news/first-north-american-bitcoin-etf-1-billion-under-management-purpose-btcc-2021-4-1030302337)
 - [Horizons ETFs Launches Long and Short Bitcoin Futures ETFs - Newswire](https://www.newswire.ca/news-releases/horizons-etfs-launches-long-and-short-bitcoin-futures-etfs-886484990.html)
-- [VanEck launches new ETF on Nasdaq to invest in crypto companies - The Block Crypto](https://www.theblockcrypto.com/linked/101603/vaneck-digital-transformation-etf-nasdaq-crypto-companies)
+- [VanEck launches new ETF on Nasdaq to invest in crypto companies - The Block](https://www.theblockcrypto.com/linked/101603/vaneck-digital-transformation-etf-nasdaq-crypto-companies)
 - [WisdomTree Lists Bitcoin ETP on Deutsche Boerse as ETF Application Awaits SEC Review - CoinDesk](https://www.coindesk.com/wisdomtree-list-bitcoin-etp-on-deutsche-boerse-as-etf-application-awaits-sec-review)
 - [Galaxy Digital Files for US Bitcoin ETF - CoinDesk](https://www.coindesk.com/galaxy-digital-files-for-us-bitcoin-etf)
 - [Novogratz’s Galaxy Digital Joins Growing List of Bitcoin ETF Contenders - Decrypt](https://decrypt.co/66254/novogratz-galaxy-digital-bitcoin-etf)
@@ -65,7 +65,7 @@ banner:
 
 ### NFT
 
-- [NFT Investments raises £35m through London listing - The Block Crypto](https://www.theblockcrypto.com/linked/101458/nft-investments-raises-london-listing)
+- [NFT Investments raises £35m through London listing - The Block](https://www.theblockcrypto.com/linked/101458/nft-investments-raises-london-listing)
 
 ### Mining
 
@@ -74,9 +74,9 @@ banner:
 ### DeFi - CeFi
 
 - [CipherTrace Launches DeFi Compli, a Compliance Oracle Solution on Chainlink, to Enable DEXs and DeFi Protocols to Abide by OFAC Sanctions - Prweb](https://www.prweb.com/releases/ciphertrace_launches_defi_compli_a_compliance_oracle_solution_on_chainlink_to_enable_dexs_and_defi_protocols_to_abide_by_ofac_sanctions/prweb17854116.htm)
-- [CipherTrace's new tool lets DeFi protocols comply with OFAC sanctions - The Block Crypto](https://www.theblockcrypto.com/linked/101252/ciphertrace-software-defi-protocols-comply-ofac-sanctions)
+- [CipherTrace's new tool lets DeFi protocols comply with OFAC sanctions - The Block](https://www.theblockcrypto.com/linked/101252/ciphertrace-software-defi-protocols-comply-ofac-sanctions)
 - [Trade Stock Tokens on Binance - Binance](https://www.binance.com/en/blog/421499824684901927/Trade-Stock-Tokens-on-Binance)
-- [Binance launches tokenized stock trading, starts with Tesla - The Block Crypto](https://www.theblockcrypto.com/post/101335/binance-launches-tokenized-stock-trading-tesla)
+- [Binance launches tokenized stock trading, starts with Tesla - The Block](https://www.theblockcrypto.com/post/101335/binance-launches-tokenized-stock-trading-tesla)
 
 ### Tech
 

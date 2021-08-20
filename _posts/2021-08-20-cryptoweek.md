@@ -30,7 +30,7 @@ banner:
 
 ### Alt-coins
 
-- [Avalanche launches $180 million DeFi incentive scheme - The Block Crypto](https://www.theblockcrypto.com/post/114782/avalanche-launches-180-million-defi-incentive-scheme-aave-curve)
+- [Avalanche launches $180 million DeFi incentive scheme - The Block](https://www.theblockcrypto.com/post/114782/avalanche-launches-180-million-defi-incentive-scheme-aave-curve)
 - [Altcoins are DINOs (Decentralized in Name Only) - Bitcoin Tech Talk #253, by Jimmy Song](https://jimmysong.substack.com/p/altcoins-are-dinos-decentralized)
 
 ### Ecosystem - Argentina and El Salvador
@@ -40,7 +40,7 @@ banner:
 
 ### Ecosystem - Walmart
 
-- [Walmart is looking for a crypto product lead - The Block Crypto](https://www.theblockcrypto.com/linked/114627/walmart-is-looking-for-a-crypto-product-lead)
+- [Walmart is looking for a crypto product lead - The Block](https://www.theblockcrypto.com/linked/114627/walmart-is-looking-for-a-crypto-product-lead)
 - [Digital Currency and Cryptocurrency Product Lead (Walmart) - LinkedIn](https://www.linkedin.com/jobs/view/2680351507/)
 
 ### Ecosystem - Bitpanda
@@ -57,7 +57,7 @@ banner:
 - [Binance Appoints Former US Treasury Enforcer to Anti-Money Laundering Role - CoinDesk](https://www.coindesk.com/binance-appoints-former-us-treasury-enforcer-to-anti-money-laundering-role)
 - [Binance to Seek 'Regular' Meetings with Regulators, Says CEO - Bloomberg](https://www.bloomberg.com/news/videos/2021-08-17/binance-to-seek-regular-meetings-with-regulators-says-ceo-video)
 - [DNB warns against Binance - De Nederlandsche Bank](https://www.dnb.nl/en/actueel/dnb/news-2021/dnb-warns-against-binance/)
-- [BinanceUS wants to raise $100 million but investors are wary due to regulatory concerns - The Block Crypto](https://www.theblockcrypto.com/linked/115131/binanceus-wants-to-raise-100-million-but-investors-are-wary-due-to-regulatory-concerns)
+- [BinanceUS wants to raise $100 million but investors are wary due to regulatory concerns - The Block](https://www.theblockcrypto.com/linked/115131/binanceus-wants-to-raise-100-million-but-investors-are-wary-due-to-regulatory-concerns)
 - [Restricting of Derivatives Products Offerings in Australia - Binance Support](https://www.binance.com/en/support/announcement/a671a8fcc5e04eabab485f82566a0db5)
 - [Updates to Binance Services - Binance Support](https://www.binance.com/en/support/announcement/51bf294e26324211a4731ca998e110ca)
 
@@ -68,8 +68,8 @@ banner:
 
 ### Ecosystem - Japan
 
-- [Coinbase to launch exchange in Japan with financial giant Mitsubishi UFJ - The Block Crypto](https://www.theblockcrypto.com/linked/114994/coinbase-japan-mufg-crypto-exchange)
-- [Japanese crypto exchange Liquid says it has been hacked - The Block Crypto](https://www.theblockcrypto.com/post/114993/crypto-exchange-liquid-hack)
+- [Coinbase to launch exchange in Japan with financial giant Mitsubishi UFJ - The Block](https://www.theblockcrypto.com/linked/114994/coinbase-japan-mufg-crypto-exchange)
+- [Japanese crypto exchange Liquid says it has been hacked - The Block](https://www.theblockcrypto.com/post/114993/crypto-exchange-liquid-hack)
 - [Japan's Liquid Global Exchange Hacked; $90M in Crypto Siphoned Off - CoinDesk](https://www.coindesk.com/liquid-hack-japan-bitcoin-ether-tron-xrp)
 
 ### Ecosystem - NFT and Ethereum
@@ -92,7 +92,7 @@ banner:
 ### Regulation
 
 - [DeFi Not Immune to SEC Oversight, Gensler Says - CoinDesk](https://www.coindesk.com/defi-not-immune-to-sec-oversight-gensler-says-report)
-- [DeFi projects could come under SEC's oversight, says chairman Gensler - The Block Crypto](https://www.theblockcrypto.com/linked/115016/defi-projects-regulation-sec-chairman-gensler)
+- [DeFi projects could come under SEC's oversight, says chairman Gensler - The Block](https://www.theblockcrypto.com/linked/115016/defi-projects-regulation-sec-chairman-gensler)
 - [Crypto’s ‘DeFi’ Projects Aren’t Immune to Regulation, SEC’s Gensler Says - WSJ](https://www.wsj.com/articles/cryptos-defi-projects-arent-immune-to-regulation-secs-gensler-says-11629365401)
 - [The crypto ‘wild west’ needs a good sheriff - Financial Times](https://www.ft.com/content/2b9cadc9-5c72-4c38-bfda-59a8a2153b41)
 - [Deputy Superintendent for Virtual Currency (NYDFS) - LinkedIn](https://www.linkedin.com/jobs/view/deputy-superintendent-for-virtual-currency-at-new-york-state-center-for-recruitment-public-service-2630943109/)

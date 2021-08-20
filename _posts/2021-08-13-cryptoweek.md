@@ -35,7 +35,7 @@ banner:
 
 ### Ecosystem - Miscellanea
 
-- [Neuberger Berman expands fund strategy to include bitcoin, ether exposure - The Block Crypto](https://www.theblockcrypto.com/linked/114229/400-billion-investment-manager-neuberger-berman-expands-fund-strategy-to-include-bitcoin-ether-exposure)
+- [Neuberger Berman expands fund strategy to include bitcoin, ether exposure - The Block](https://www.theblockcrypto.com/linked/114229/400-billion-investment-manager-neuberger-berman-expands-fund-strategy-to-include-bitcoin-ether-exposure)
 - [German Funds' Crypto Investments Will Pose Liquidity Risks - Fitch Ratings](https://www.fitchratings.com/research/fund-asset-managers/german-funds-crypto-investments-will-pose-liquidity-risks-11-08-2021)
 - [Our Journey to Become a National Digital Currency Bank -  Circle](https://www.circle.com/blog/our-journey-to-become-a-national-digital-currency-bank)
 - [Beijing Signals Yearslong Tech Crackdown as Investors Reevaluate China Bets - CoinDesk](https://www.coindesk.com/beijing-signals-yearslong-tech-crackdown-as-investors-reevaluate-china-bets)
@@ -58,7 +58,7 @@ banner:
 
 ### Regulation - SEC's Gensler
 
-- [Gensler asks for more SEC authority to regulate crypto exchanges - The Block Crypto](https://www.theblockcrypto.com/linked/114222/gensler-asks-sen-warren-for-more-sec-authority-to-regulate-crypto-exchanges)
+- [Gensler asks for more SEC authority to regulate crypto exchanges - The Block](https://www.theblockcrypto.com/linked/114222/gensler-asks-sen-warren-for-more-sec-authority-to-regulate-crypto-exchanges)
 - [Gensler's Response to Warren - Warren Senate](https://www.warren.senate.gov/imo/media/doc/gensler_response_to_warren_-_cryptocurrency_exchanges.pdf)
 
 ### Ecosystem - Binance
