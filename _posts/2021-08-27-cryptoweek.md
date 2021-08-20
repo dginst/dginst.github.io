@@ -17,6 +17,7 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+- [Market Intel - Chainalysis](https://markets.chainalysis.com/reports/2021-08-20)
 
 ### Ecosystem - Environmental Sustainability
 
