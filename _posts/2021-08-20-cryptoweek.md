@@ -40,7 +40,7 @@ banner:
 ### Ecosystem - Walmart
 
 - [Walmart is looking for a crypto product lead - The Block Crypto](https://www.theblockcrypto.com/linked/114627/walmart-is-looking-for-a-crypto-product-lead)
-- [DIGITAL CURRENCY AND CRYPTOCURRENCY PRODUCT LEAD - Walmart - LinkedIn](https://www.linkedin.com/jobs/view/2680351507/)
+- [Digital Currency and Cryptocurrency Product Lead (Walmart) - LinkedIn](https://www.linkedin.com/jobs/view/2680351507/)
 
 ### Ecosystem - Bitpanda
 
@@ -55,7 +55,7 @@ banner:
 - [Binance Hires Former US Federal Law Enforcement Investigator - Newswire](https://www.newswire.ca/news-releases/binance-hires-former-us-federal-law-enforcement-investigator-greg-monahan-as-global-money-laundering-reporting-officer-837315495.html)
 - [Binance Appoints Former US Treasury Enforcer to Anti-Money Laundering Role - CoinDesk](https://www.coindesk.com/binance-appoints-former-us-treasury-enforcer-to-anti-money-laundering-role)
 - [Binance to Seek 'Regular' Meetings with Regulators, Says CEO - Bloomberg](https://www.bloomberg.com/news/videos/2021-08-17/binance-to-seek-regular-meetings-with-regulators-says-ceo-video)
-- [DNB warns against Binance - DNB](https://www.dnb.nl/en/actueel/dnb/news-2021/dnb-warns-against-binance/)
+- [DNB warns against Binance - De Nederlandsche Bank](https://www.dnb.nl/en/actueel/dnb/news-2021/dnb-warns-against-binance/)
 - [Restricting of Derivatives Products Offerings in Australia - Binance Support](https://www.binance.com/en/support/announcement/a671a8fcc5e04eabab485f82566a0db5)
 - [London court orders Binance to trace cryptocurrency hackers, freeze their accounts - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/article-london-court-orders-binance-to-trace-cryptocurrency-hackers-freeze/)
 
