@@ -52,8 +52,8 @@ banner:
 ### Ecosystem - Binance
 
 - [Binance.US Taps CFO Joshua Sroge as Interim CEO - Blockworks](https://blockworks.co/binance-us-taps-cfo-joshua-sroge-as-interim-ceo/)
-- [Binance Hires Former US Treasury Criminal Investigator - Blockworks](https://blockworks.co/binance-hires-former-us-treasury-criminal-investigator/)
 - [Binance Hires Former US Federal Law Enforcement Investigator - Newswire](https://www.newswire.ca/news-releases/binance-hires-former-us-federal-law-enforcement-investigator-greg-monahan-as-global-money-laundering-reporting-officer-837315495.html)
+- [Binance Hires Former US Treasury Criminal Investigator - Blockworks](https://blockworks.co/binance-hires-former-us-treasury-criminal-investigator/)
 - [Binance Appoints Former US Treasury Enforcer to Anti-Money Laundering Role - CoinDesk](https://www.coindesk.com/binance-appoints-former-us-treasury-enforcer-to-anti-money-laundering-role)
 - [Binance to Seek 'Regular' Meetings with Regulators, Says CEO - Bloomberg](https://www.bloomberg.com/news/videos/2021-08-17/binance-to-seek-regular-meetings-with-regulators-says-ceo-video)
 - [DNB warns against Binance - De Nederlandsche Bank](https://www.dnb.nl/en/actueel/dnb/news-2021/dnb-warns-against-binance/)
