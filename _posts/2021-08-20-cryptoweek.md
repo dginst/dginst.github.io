@@ -20,6 +20,7 @@ banner:
 ### Ecosystem - Environmental Sustainability
 
 - [If Bitcoin hits $500,000, mining it will spew more CO2 than Mexico or Brazil - Fortune](https://fortune.com/2021/08/16/bitcoin-500k-carbon-footprint-co2-mexico-brazil/)
+- [Bitcoin And Gold Energy Debate - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/culture/bitcoin-and-gold-energy-debate)
 
 ### Markets
 
@@ -61,11 +62,13 @@ banner:
 ### Ecosystem - Japan
 
 - [Japanese crypto exchange Liquid says it has been hacked - The Block Crypto](https://www.theblockcrypto.com/post/114993/crypto-exchange-liquid-hack)
+- [Japan's Liquid Global Exchange Hacked; $90M in Crypto Siphoned Off - CoinDesk](https://www.coindesk.com/liquid-hack-japan-bitcoin-ether-tron-xrp)
 - [Coinbase to launch exchange in Japan with financial giant Mitsubishi UFJ - The Block Crypto](https://www.theblockcrypto.com/linked/114994/coinbase-japan-mufg-crypto-exchange)
 
 ### Ecosystem - NFT and Ethereum
 
 - [CryptoPunks, the NFT boom, and EIP-1559 - The Coinbase Blog](https://blog.coinbase.com/around-the-block-15-cryptopunks-the-nft-boom-and-eip-1559-cb3aeb78fa81)
+- [Paris Hilton Schools Jimmy on NFTs - YouTube](https://www.youtube.com/watch?v=oiN1_6pb_eE&t=191s)
 - [Ethereum Fees Highest Since May as NFT Craze Continues - Cryptonews](https://cryptonews.com/news/ethereum-fees-highest-since-may-as-nft-craze-continues-11477.htm)
 - [Ethereum 2.0 Staking Tops $21 Billion With 'Merge' on the Horizon - Decrypt](https://decrypt.co/78690/ethereum-2-staking-tops-21-billion-merge-horizon)
 
@@ -78,9 +81,11 @@ banner:
 ### Regulation
 
 - [DeFi Not Immune to SEC Oversight, Gensler Says - CoinDesk](https://www.coindesk.com/defi-not-immune-to-sec-oversight-gensler-says-report)
+- [DeFi projects could come under SEC's oversight, says chairman Gensler - The Block Crypto](https://www.theblockcrypto.com/linked/115016/defi-projects-regulation-sec-chairman-gensler)
 - [Crypto’s ‘DeFi’ Projects Aren’t Immune to Regulation, SEC’s Gensler Says - WSJ](https://www.wsj.com/articles/cryptos-defi-projects-arent-immune-to-regulation-secs-gensler-says-11629365401)
 - [The crypto ‘wild west’ needs a good sheriff - Financial Times](https://www.ft.com/content/2b9cadc9-5c72-4c38-bfda-59a8a2153b41)
 - [Deputy Superintendent for Virtual Currency (NYDFS) - LinkedIn](https://www.linkedin.com/jobs/view/deputy-superintendent-for-virtual-currency-at-new-york-state-center-for-recruitment-public-service-2630943109/)
+- [Former SEC Chairman Jay Clayton Joins Crypto Platform Fireblocks - Blockworks](https://blockworks.co/former-sec-chairman-jay-clayton-joins-crypto-platform-fireblocks/)
 
 ### Regulation - CBDC
 
