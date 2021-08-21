@@ -17,13 +17,24 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [Market Intel - Chainalysis](https://markets.chainalysis.com/reports/2021-08-20)
+[BlackRock Has Almost $400M Invested in Bitcoin Mining Stocks: Report - CoinDesk](https://www.coindesk.com/blackrock-has-almost-400m-invested-in-bitcoin-mining-stocks-report)
 
-### Ecosystem - Environmental Sustainability
+### Funds and ETFs
+
+[Galaxy Adds to Stack of Bitcoin Futures ETF Filings - Blockworks](https://blockworks.co/galaxy-adds-to-stack-of-bitcoin-futures-etf-filings/)
+[Mike Novogratz’s Galaxy Digital Files for a Bitcoin Futures ETF - Decrypt](https://decrypt.co/78744/mike-novogratzs-galaxy-digital-files-bitcoin-futures-etf)
+- [VanEck, ProShares Seek to Withdraw Requests to Launch Ethereum ETFs - Blockworks](https://blockworks.co/vaneck-proshares-seek-to-withdraw-requests-to-launch-ethereum-etfs/)
+[Wells Fargo, JPMorgan partner with NYDIG to launch bitcoin funds](https://www.theblockcrypto.com/linked/115087/wells-fargo-jpmorgan-partner-with-nydig-to-launch-bitcoin-funds)
+[Wells Fargo Launches Passive Bitcoin Fund for Rich Clients - CoinDesk](https://www.coindesk.com/wells-fargo-nydig-passive-bitcoin-fund%20)
 
 ### Markets
 
+- [Market Intel - Chainalysis](https://markets.chainalysis.com/reports/2021-08-20)
+
 ### Alt-coins
+
+- [Cardano hits all time high, becomes third-largest crypto | Fortune](https://fortune.com/2021/08/20/cardano-ath-price-biggest-cryptos/)### Ecosystem - Environmental Sustainability
+- [Cardano Price Hits All-Time High, Overtakes Binance Coin as Third-Most Valuable Crypto - CoinDesk](https://www.coindesk.com/cardano-all-time-high-market-capitalization-overtakes-bnb)
 
 ### Ecosystem - Argentina and El Salvador
 
