@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: cxkX-bZDUbc
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-8685705
@@ -16,6 +16,8 @@ banner:
     link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
+
+- [ChivoWallet - Twitter](https://twitter.com/eltapudosv/status/1429870227899174912/photo/1)
 
 ### US Infrastructure Bill
 
@@ -30,20 +32,21 @@ banner:
 - [Coin Metrics' State of the Network: Issue 117 - Coin Metrics' State of the Network](https://coinmetrics.substack.com/p/coin-metrics-state-of-the-network-ce9)
 - [Will Clemente on BTC moved onto exchanges - Twitter](https://twitter.com/WClementeIII/status/1429967396782157824)
 
-### PayPal
+### Ecosystem - PayPal
 
 - [PayPal to allow UK users to buy, sell and hold crypto](https://www.theblockcrypto.com/post/115284/paypal-launches-crypto-trading-service-uk)
 - [PayPal launches crypto buying and selling in the UK - Reuters](https://www.reuters.com/technology/paypal-launches-crypto-buying-selling-uk-2021-08-22/?taid=612304a5eb3353000173a34e)
 - [PayPal Brings Crypto Service to UK Customers - CoinDesk](https://www.coindesk.com/paypal-to-bring-crypto-service-to-uk-customers)
+- [PayPal to allow UK users to buy and sell cryptocurrencies - The Guardian](https://www.theguardian.com/technology/2021/aug/23/paypal-uk-buy-sell-cryptocurrencies-bitcoin-ethereum-litecoin)
 
-### Deloitte
+### Ecosystem - Deloitte
 
 - [Deloitte Survey: Crypto Will Rival or Replace Fiat Within 10 Years - Decrypt](https://decrypt.co/79136/deloitte-survey-crypto-will-rival-or-replace-fiat-within-10-years)
 - [Deloitte's 2021 Global Blockchain Survey - Deloitte Insights](https://www2.deloitte.com/us/en/insights/topics/understanding-blockchain-potential/global-blockchain-survey.html)
 - [Blockchain survey](https://www2.deloitte.com/content/dam/insights/articles/US144337_Blockchain-survey/DI_Blockchain-survey.pdf)
 - [Majority of Executives Think Digital Assets Will Soon Be Alternative to Fiat - CoinDesk](https://www.coindesk.com/deloitte-global-digital-assets-survey)
 
-### MicroStrategy
+### Ecosystem - MicroStrategy
 
 - [Michael Saylor - Twitter](https://twitter.com/michael_saylor/status/1430145340976648202)
 - [MicroStrategy Acquires 3,907 Additional Bitcoins](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-3907-additional-bitcoins-with-proceeds-from-atm-facility-sales)
@@ -51,30 +54,30 @@ banner:
 - [MicroStrategy HODLs More Bitcoins Than Any Other Public Company - Blockworks](https://blockworks.co/microstrategy-hodls-more-bitcoins-than-any-other-public-company/)
 - [Saylor’s MicroStrategy Buys Another $177M of Bitcoin - CoinDesk](https://www.coindesk.com/saylors-microstrategy-buys-another-177m-of-bitcoin)
 
-### Blockstream
+### Ecosystem - Blockstream
 
 - [Blockstream Secures $210M Series B Financing](https://blockstream.com/2021/08/24/en-blockstream-secures-210m-series-b-financing/)
+- [Satoshi Nakamoto Source Adam Back Raising $210 Million For Blockstream- Forbes](https://www.forbes.com/sites/ninabambysheva/2021/08/24/blockstream-raises-210-million-series-b-round-to-fund-the-companys-expansion-into-asic-development-hits-unicorn-status/)
 - [Bitcoin Infrastructure Firm Blockstream Reaches Unicorn Status With $3.2B Valuation - Blockworks](https://blockworks.co/bitcoin-infrastructure-firm-blockstream-reaches-unicorn-status-with-3-2b-valuation/)
 - [Blockstream Raises $210M, Acquires ASIC Maker Spondoolies - CoinDesk](https://www.coindesk.com/blockstream-series-b-funding-round-spondoolies-acquisition-unicorn)
 - [Blockstream secures $266 million CAD at $4 billion valuation to monetize the Liquid Network - BetaKit](https://betakit.com/blockstream-secures-266-million-cad-at-4-billion-valuation-to-monetize-the-liquid-network/)
-- [Incentivizing Renewable Energy Use with Blockstream Energy](https://blockstream.com/2021/08/17/en-incentivizing-renewable-energy-use-with-blockstream-energy/)
 
-### Mining
+### Ecosystem - Mining
 
 - [Cryptocurrency Companies Are Leaving China in ‘Great Mining Migration’ - WSJ](https://www.wsj.com/articles/cryptocurrency-companies-are-leaving-china-in-great-mining-migration-11629624602)
 - [Chinese province to cut off Bitcoin miners from hydropower stations](https://cointelegraph.com/news/chinese-province-to-cut-off-bitcoin-miners-from-hydropower-stations)
 - [BlackRock Has Almost $400M Invested in Bitcoin Mining Stocks: Report - CoinDesk](https://www.coindesk.com/blackrock-has-almost-400m-invested-in-bitcoin-mining-stocks-report)
 - [Hash Rate - Blockchain.com](https://www.blockchain.com/charts/hash-rate)
 
-### Alt-coins
+### Markets - Alt-coins
 
 - [Ethereum’s Most Popular Software Client Issues Hotfix to High Severity Bug - CoinDesk](https://www.coindesk.com/ethereums-most-popular-software-client-issues-hotfix-to-high-severity-bug)
 - [Kraken Commits $250,000 to Advancing Ethereum’s Blockchain Upgrade Efforts - Kraken Blog](https://blog.kraken.com/post/10686/kraken-commits-250000-to-advancing-ethereums-blockchain-upgrade-efforts/)
 - [Cardano Price Hits All-Time High, Overtakes Binance Coin as Third-Most Valuable Crypto - CoinDesk](https://www.coindesk.com/cardano-all-time-high-market-capitalization-overtakes-bnb)
 - [Cardano hits all time high, becomes third-largest crypto - Fortune](https://fortune.com/2021/08/20/cardano-ath-price-biggest-cryptos/)### Ecosystem - Environmental Sustainability
 - [Cardano Alonzo Hard Fork: What You Need to Know - CoinDesk](https://www.coindesk.com/cardano-alonzo-hard-fork-what-you-need-to-know)
-- [Solana: Record Growth of the Ethereum Competitor. Invest Now? - by Maximilian Perkmann - Coinmonks - Aug, 2021 - Medium](https://medium.com/coinmonks/solana-record-growth-of-the-ethereum-competitor-invest-now-71b442b4271)
-- [How Will Cardano Change DeFi Forever? - by Bitpush News - Aug, 2021 - Medium](https://bitpushnews.medium.com/how-will-cardano-change-defi-forever-d25f846864c)
+- [Solana: Record Growth of the Ethereum Competitor. Invest Now? - Maximilian Perkmann](https://medium.com/coinmonks/solana-record-growth-of-the-ethereum-competitor-invest-now-71b442b4271)
+- [How Will Cardano Change DeFi Forever? - Bitpush News](https://bitpushnews.medium.com/how-will-cardano-change-defi-forever-d25f846864c)
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
@@ -162,8 +165,10 @@ banner:
 
 ### Tech - Bitcoin
 
+- [Bitcoin Tech Talk #254 - Jimmy Song](https://jimmysong.substack.com/p/reality-is-turning-into-simulacra)
+- [Defining and Discussing “Bitcoin Security” - Shinobi](https://medium.com/block-digest-mempool/defining-and-discussing-bitcoin-security-38f35cc80c18)
 - [Newsletter #163 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/08/25/)
-- [Defining and Discussing “Bitcoin Security” - by Shinobi [SHI256] - Block Digest Mempool - Aug, 2021 - Medium](https://medium.com/block-digest-mempool/defining-and-discussing-bitcoin-security-38f35cc80c18)
+- [Learning Bitcoin and Lightning Network - Chaincode](https://learning.chaincode.com/)
 
 ### Digital Gold Institute
 
