@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: cxkX-bZDUbc
-published: true
+published: false
 cryptoweek: true
 podcast:
     id: buzzsprout-player-8685705
@@ -16,8 +16,6 @@ banner:
     link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
-
-- [ChivoWallet - Twitter](https://twitter.com/eltapudosv/status/1429870227899174912/photo/1)
 
 ### US Infrastructure Bill
 
@@ -92,6 +90,7 @@ banner:
 - [Remittance costs key to take-up of Salvadoran bitcoin plan - Reuters](https://www.reuters.com/business/finance/remittance-costs-key-take-up-salvadoran-bitcoin-plan-development-bank-2021-08-24/?taid=6125880cced6e00001766f69)
 - [Bitcoin to become legal tender in El Salvador on Sept 7 - Reuters](https://www.reuters.com/technology/bitcoin-become-legal-tender-el-salvador-sept-7-2021-06-25/)
 - [El Salvador’s President Insists Bitcoin Use Will Not Be Mandatory - Decrypt](https://decrypt.co/79209/el-salvadors-president-insists-bitcoin-use-will-not-be-mandatory)
+- [ChivoWallet - Twitter](https://twitter.com/eltapudosv/status/1429870227899174912/photo/1)
 
 ### Ecosystem - Investment Banks and Asset Managers
 
