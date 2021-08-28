@@ -21,7 +21,7 @@ banner:
 
 - [Market Intel - Chainalysis](https://markets.chainalysis.com/reports/2021-08-26)
 - [The Week On-chain (Week 34, 2021) - Glassnode](https://insights.glassnode.com/the-week-on-chain-week-34-2021/)
-- [State of the Network: Issue 117](https://coinmetrics.substack.com/p/coin-metrics-state-of-the-network-ce9)
+- [State of the Network: Issue 117 - Coin Metrics](https://coinmetrics.substack.com/p/coin-metrics-state-of-the-network-ce9)
 
 ### Ecosystem - Mining
 
@@ -87,7 +87,7 @@ banner:
 - [Citigroup Gearing Up to Trade CME Bitcoin Futures: Sources - Coindesk](https://www.coindesk.com/citigroup-is-gearing-up-to-trade-cme-bitcoin-futures-sources)
 - [Citi Considering Trading Bitcoin Futures - Blockworks](https://blockworks.co/citi-considering-trading-bitcoin-futures/)
 
-### Funds and ETFs
+### Markets - Funds and ETFs
 
 - [Mike Novogratz’s Galaxy Digital Files for a Bitcoin Futures ETF - Decrypt](https://decrypt.co/78744/mike-novogratzs-galaxy-digital-files-bitcoin-futures-etf)
 - [Galaxy Adds to Stack of Bitcoin Futures ETF Filings - Blockworks](https://blockworks.co/galaxy-adds-to-stack-of-bitcoin-futures-etf-filings/)
@@ -127,6 +127,7 @@ banner:
 ### Ecosystem - Poly Network Hack
 
 - [Poly Network Hacker Releases Private Key for Remaining Looted $141M - CoinDesk](https://www.coindesk.com/poly-network-hacker-releases-private-key-for-remaining-looted-141m)
+- [Asset Recovery Complete - Poly Network](https://medium.com/poly-network/poly-network-asset-recovery-complete-a7ba33c2f2e4)
 
 ### US Infrastructure Bill
 
@@ -142,9 +143,9 @@ banner:
 - [Visa just bought a CryptoPunk NFT for $150,000 - Fortune](https://fortune.com/2021/08/23/visa-cryptopunk-nft-larva-labs-blockchain-ethereum/)
 - [Visa Enters Metaverse With First NFT Purchase - Forbes](https://www.forbes.com/sites/ninabambysheva/2021/08/23/visa-enters-metaverse-with-first-nft-purchase/?sh=7fdb6abc68b3)
 - [CryptoPunk NFTs Break Sales Record as Visa Sparks Buying Frenzy - Nasdaq](https://www.nasdaq.com/articles/cryptopunk-nfts-break-sales-record-as-visa-sparks-buying-frenzy-2021-08-23)
+- [Scammers and Hackers See New Frontier in NFT Art - WSJ](https://www.wsj.com/articles/scammers-see-new-frontier-in-nft-art-11629896400)
 - [Facebook Considering NFT Support in Novi Digital Wallet - CoinDesk](https://www.coindesk.com/facebook-is-considering-nft-support-in-novi-digital-wallet)
 - [Facebook's Novi Digital Wallet Could Support NFTs in Future, Exec Says - Blockworks](https://blockworks.co/facebooks-novi-digital-wallet-could-support-nfts-in-future-exec-says/)
-- [Scammers and Hackers See New Frontier in NFT Art - WSJ](https://www.wsj.com/articles/scammers-see-new-frontier-in-nft-art-11629896400)
 
 ### Regulation - CBDC
 
