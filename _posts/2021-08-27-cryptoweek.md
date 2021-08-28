@@ -27,20 +27,20 @@ banner:
 
 - [Hash Rate - Blockchain.com](https://www.blockchain.com/charts/hash-rate)
 - [Cryptocurrency Companies Are Leaving China in ‘Great Mining Migration’ - WSJ](https://www.wsj.com/articles/cryptocurrency-companies-are-leaving-china-in-great-mining-migration-11629624602)
-- [Chinese province to cut off Bitcoin miners from hydropower stations](https://cointelegraph.com/news/chinese-province-to-cut-off-bitcoin-miners-from-hydropower-stations)
+- [Chinese province to cut off Bitcoin miners from hydropower stations - Cointelegraph](https://cointelegraph.com/news/chinese-province-to-cut-off-bitcoin-miners-from-hydropower-stations)
 - [BlackRock Has Almost $400M Invested in Bitcoin Mining Stocks: Report - CoinDesk](https://www.coindesk.com/blackrock-has-almost-400m-invested-in-bitcoin-mining-stocks-report)
 
 ### Ecosystem - Blockstream
 
-- [Blockstream Secures $210M Series B Financing](https://blockstream.com/2021/08/24/en-blockstream-secures-210m-series-b-financing/)
+- [Blockstream Secures $210M Series B Financing - Blockstream](https://blockstream.com/2021/08/24/en-blockstream-secures-210m-series-b-financing/)
 - [Blockstream Raises $210M, Acquires ASIC Maker Spondoolies - CoinDesk](https://www.coindesk.com/blockstream-series-b-funding-round-spondoolies-acquisition-unicorn)
-- [Satoshi Nakamoto Source Adam Back Raising $210 Million For Blockstream- Forbes](https://www.forbes.com/sites/ninabambysheva/2021/08/24/blockstream-raises-210-million-series-b-round-to-fund-the-companys-expansion-into-asic-development-hits-unicorn-status/)
+- [Satoshi Nakamoto Source Adam Back Raising $210 Million For Blockstream - Forbes](https://www.forbes.com/sites/ninabambysheva/2021/08/24/blockstream-raises-210-million-series-b-round-to-fund-the-companys-expansion-into-asic-development-hits-unicorn-status/)
 - [Bitcoin Infrastructure Firm Blockstream Reaches Unicorn Status With $3.2B Valuation - Blockworks](https://blockworks.co/bitcoin-infrastructure-firm-blockstream-reaches-unicorn-status-with-3-2b-valuation/)
 - [Paul Sztorc on Blockstream - Twitter](https://twitter.com/Truthcoin/status/1430289075169333248)
 
 ### Ecosystem - PayPal
 
-- [PayPal to allow UK users to buy, sell and hold crypto](https://www.theblockcrypto.com/post/115284/paypal-launches-crypto-trading-service-uk)
+- [PayPal to allow UK users to buy, sell and hold crypto - The Block](https://www.theblockcrypto.com/post/115284/paypal-launches-crypto-trading-service-uk)
 - [PayPal Brings Crypto Service to UK Customers - CoinDesk](https://www.coindesk.com/paypal-to-bring-crypto-service-to-uk-customers)
 - [PayPal launches crypto buying and selling in the UK - Reuters](https://www.reuters.com/technology/paypal-launches-crypto-buying-selling-uk-2021-08-22)
 - [PayPal to allow UK users to buy and sell cryptocurrencies - The Guardian](https://www.theguardian.com/technology/2021/aug/23/paypal-uk-buy-sell-cryptocurrencies-bitcoin-ethereum-litecoin)
@@ -61,7 +61,7 @@ banner:
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
-- [Chainalysis releases DeFi Adoption Index with U.S. leading the way](https://www.theblockcrypto.com/linked/115469/chainalysis-releases-defi-adoption-index-with-u-s-leading-the-way)
+- [Chainalysis releases DeFi Adoption Index with U.S. leading the way - The Block](https://www.theblockcrypto.com/linked/115469/chainalysis-releases-defi-adoption-index-with-u-s-leading-the-way)
 - [The 2021 Global Crypto Adoption Index - Chainalysis](https://blog.chainalysis.com/reports/2021-global-crypto-adoption-index)
 - [DeFi Exchange SushiSwap Builds on Avalanche as Part of $180M Incentive Program - CoinDesk](https://www.coindesk.com/defi-amm-sushiswap-builds-on-avalanche-as-part-of-180m-incentive-program)
 - [Avalanche to Add Sushi to Mining Incentive Program - Blockworks](https://blockworks.co/avalanche-to-add-sushi-to-mining-incentive-program/)
@@ -78,7 +78,7 @@ banner:
 - [Deloitte Survey: Crypto Will Rival or Replace Fiat Within 10 Years - Decrypt](https://decrypt.co/79136/deloitte-survey-crypto-will-rival-or-replace-fiat-within-10-years)
 - [Majority of Executives Think Digital Assets Will Soon Be Alternative to Fiat - CoinDesk](https://www.coindesk.com/deloitte-global-digital-assets-survey)
 - [Deloitte's 2021 Global Blockchain Survey - Deloitte Insights](https://www2.deloitte.com/us/en/insights/topics/understanding-blockchain-potential/global-blockchain-survey.html)
-- [Blockchain survey](https://www2.deloitte.com/content/dam/insights/articles/US144337_Blockchain-survey/DI_Blockchain-survey.pdf)
+- [Blockchain survey - Deloitte Insights](https://www2.deloitte.com/content/dam/insights/articles/US144337_Blockchain-survey/DI_Blockchain-survey.pdf)
 
 ### Ecosystem - Investment Banks and Asset Managers
 
@@ -95,33 +95,31 @@ banner:
 - [AdvisorShares Files for Bitcoin Futures ETF - CoinDesk](https://www.coindesk.com/advisorshares-files-for-bitcoin-futures-etf)
 - [Wells Fargo, JPMorgan partner with NYDIG to launch bitcoin funds - The Block Crypto](https://www.theblockcrypto.com/linked/115087/wells-fargo-jpmorgan-partner-with-nydig-to-launch-bitcoin-funds)
 - [Wells Fargo Launches Passive Bitcoin Fund for Rich Clients - CoinDesk](https://www.coindesk.com/wells-fargo-nydig-passive-bitcoin-fund)
-- [23 and counting: VanEck and ProShares file for ETH futures ETFs](https://cointelegraph.com/news/23-and-counting-vaneck-and-proshares-file-for-eth-futures-etfs)
+- [23 and counting: VanEck and ProShares file for ETH futures ETFs - Cointelegraph](https://cointelegraph.com/news/23-and-counting-vaneck-and-proshares-file-for-eth-futures-etfs)
 - [VanEck, ProShares Seek to Withdraw Requests to Launch Ethereum ETFs - Blockworks](https://blockworks.co/vaneck-proshares-seek-to-withdraw-requests-to-launch-ethereum-etfs/)
-- [Two issuers withdraw SEC submissions for an ETH ETF](https://www.theblockcrypto.com/linked/115226/two-issuers-withdraw-sec-submissions-for-an-eth-etf)
+- [Two issuers withdraw SEC submissions for an ETH ETF - The Block](https://www.theblockcrypto.com/linked/115226/two-issuers-withdraw-sec-submissions-for-an-eth-etf)
 
 ### Ecosystem - Exchages
 
 - [Crypto exchanges are booming, for now - Financial Times](https://www.ft.com/content/d09adf75-9ee9-4c47-9595-69c02113febe)
-- [US Kraken exchange targets European license in 2021, says CEO](https://cointelegraph.com/news/us-kraken-exchange-targets-european-license-in-2021-says-ceo)
-- [Coinbase slammed for terrible customer service after hackers drain user accounts](https://www.cnbc.com/2021/08/24/coinbase-slammed-for-terrible-customer-service-after-hackers-drain-user-accounts.html)
-- [Bitstamp founder sues the crypto exchange in boardroom battle](https://www.theblockcrypto.com/post/115326/nejc-kodric-sues-bitstamp-crypto-exchange-founded-share-sale-squabble)
+- [US Kraken exchange targets European license in 2021, says CEO - Cointelegraph](https://cointelegraph.com/news/us-kraken-exchange-targets-european-license-in-2021-says-ceo)
+- [Coinbase slammed for terrible customer service after hackers drain user accounts - CNBC](https://www.cnbc.com/2021/08/24/coinbase-slammed-for-terrible-customer-service-after-hackers-drain-user-accounts.html)
+- [Bitstamp founder sues the crypto exchange in boardroom battle - The Block](https://www.theblockcrypto.com/post/115326/nejc-kodric-sues-bitstamp-crypto-exchange-founded-share-sale-squabble)
 - [HitBTC breach results in 40 million stolen DVPN coins - Cryptopolitan](https://www.cryptopolitan.com/40-mil-dvpn-coins-stolen-in-hitbtc-breach/)
 
 ### Ecosystem - Binance
 
-- [Binance enforces mandatory KYC on all users amid regulatory pressure](https://www.theblockcrypto.com/linked/115166/binance-mandatory-kyc-regulatory-pressure)
+- [Binance enforces mandatory KYC on all users amid regulatory pressure - The Block](https://www.theblockcrypto.com/linked/115166/binance-mandatory-kyc-regulatory-pressure)
 - [Binance - Twitter](https://twitter.com/binance/status/1429848224215355394)
 
 ### Ecosystem - Stablecoins
 
 - [Tether Starts Printing Again After 2-Month Pause - CoinDesk](https://www.coindesk.com/tether-starts-printing-again-after-2-months)
-- [Tether Assurance Consolidated Reserves Report](https://tether.to/wp-content/uploads/2021/08/tether_assuranceconsolidated_reserves_report_2021-06-30.pdf)
+- [Tether Assurance Consolidated Reserves Report - Tether](https://tether.to/wp-content/uploads/2021/08/tether_assuranceconsolidated_reserves_report_2021-06-30.pdf)
 - [Coinbase, Circle to Move USDC Reserves Out of High-Risk Investments - Blockworks](https://blockworks.co/coinbase-circle-to-move-usdc-reserves-out-of-high-risk-investments/)
-- [Evolving USDC Reserves to 100% Cash and Short Duration US Treasuries](https://www.circle.com/blog/evolving-usdc-reserves-to-100-cash-and-short-duration-us-treasuries)
+- [Evolving USDC Reserves to 100% Cash and Short Duration US Treasuries - Circle](https://www.circle.com/blog/evolving-usdc-reserves-to-100-cash-and-short-duration-us-treasuries)
 - [Coinbase Says USDC Reserves to Be Held in Cash, Short-Term Treasurys From September - CoinDesk](https://www.coindesk.com/coinbase-coo-emily-choi-circle-usdc-reserves-cash-short-term-treasurys)
-- [USDC Reserves Composition](https://www.centre.io/blog/usdc-reserves-composition)
 - [Emilie Choi on USDC - Twitter](https://twitter.com/emiliemc/status/1429664322725158914)
-- [Circle Management Assertion Report - May Update_Final](https://www.centre.io/hubfs/pdfs/attestation/Grant-Thorton_circle_usdc_reserves_07162021.pdf)
 - [Paxos Rebrands Token as 'Pax Dollar' Amid Stablecoin Wars - Decrypt](https://decrypt.co/79257/paxos-stablecoin-pax-dollar)
 
 ### Ecosystem - Poly Network Hack
@@ -132,13 +130,13 @@ banner:
 ### US Infrastructure Bill
 
 - [Bitcoin Fans Are Suddenly a Political Force - WSJ](https://www.wsj.com/articles/bitcoin-fans-are-suddenly-a-political-force-11629115380)
-- [Infrastructure bill set for a vote by Sept. 27 with no changes to crypto tax provisions](https://cointelegraph.com/news/infrastructure-bill-set-for-a-vote-by-sept-27-with-no-changes-to-crypto-tax-provisions)
+- [Infrastructure bill set for a vote by Sept. 27 with no changes to crypto tax provisions - Cointelegraph](https://cointelegraph.com/news/infrastructure-bill-set-for-a-vote-by-sept-27-with-no-changes-to-crypto-tax-provisions)
 - [Cryptocurrency advocates see infrastructure bill as 'political awakening' - CNNPolitics](https://amp.cnn.com/cnn/2021/08/22/politics/crypto-political-awakening-infrastructure-package/index.html)
 
 ### Ecosystem - NFT
 
 - [Visa on NFT - Twitter](https://twitter.com/VisaNews/status/1429745230023208969)
-- [Visa buys a CryptoPunk as it takes first steps into 'NFT commerce'](https://www.theblockcrypto.com/post/115333/visa-buys-cryptopunk-first-steps-nft-commerce)
+- [Visa buys a CryptoPunk as it takes first steps into 'NFT commerce' - The Block](https://www.theblockcrypto.com/post/115333/visa-buys-cryptopunk-first-steps-nft-commerce)
 - [Visa Steps Into the Metaverse With First NFT Purchase - Blockworks](https://blockworks.co/visa-steps-into-the-metaverse-with-first-nft-purchase/)
 - [Visa just bought a CryptoPunk NFT for $150,000 - Fortune](https://fortune.com/2021/08/23/visa-cryptopunk-nft-larva-labs-blockchain-ethereum/)
 - [Visa Enters Metaverse With First NFT Purchase - Forbes](https://www.forbes.com/sites/ninabambysheva/2021/08/23/visa-enters-metaverse-with-first-nft-purchase/?sh=7fdb6abc68b3)
