@@ -19,6 +19,7 @@ banner:
 
 - [One in Ten People in the US Invest in Crypto: Survey - Decrypt](https://decrypt.co/79363/one-in-ten-people-in-the-us-invest-in-crypto-survey)
 - [Momentive Poll: Invest in You - CNBC](https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-august-2021/)
+- [Jack Dorsey: ‘TBD’ Will Be Open Platform for Decentralized Bitcoin Exchanges - Blockworks](https://blockworks.co/jack-dorsey-tbd-will-be-open-platform-for-decentralized-bitcoin-exchanges/)
 
 ### Tech - Ethereum
 
@@ -37,13 +38,16 @@ banner:
 
 ### Markets - Alt-coins
 
+- [Cardano’s Ada Is the Latest Cryptocurrency to Surge. Here’s What You Need to Know. - WSJ](https://www.wsj.com/articles/cardanos-ada-is-the-latest-cryptocurrency-to-surge-heres-what-you-need-to-know-11630143002)
+
 ### Ecosystem - Decentralized Finance (DeFi)
 
 ### Ecosystem - El Salvador and Cuba
 
-- [CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data](https://www.coindesk.com/policy/2021/08/27/cuba-regulates-the-use-of-virtual-assets-for-commercial-transactions/)
-- [Cuba to recognize -- and regulate -- cryptocurrencies](https://news.yahoo.com/cuba-recognize-regulate-cryptocurrencies-010725510.html?guccounter=1)
-- [El Salvador Gets Ready for a Risky Bitcoin Experiment - WSJ](https://www.wsj.com/articles/el-salvador-gets-ready-for-a-risky-bitcoin-experiment-11629966845?mod=e2tw)
+- [Cuba regulates the use of virtual assets for commercial transactions - CoinDesk](https://www.coindesk.com/policy/2021/08/27/cuba-regulates-the-use-of-virtual-assets-for-commercial-transactions/)
+- [Cuba to recognize -- and regulate -- cryptocurrencies - Yahoo](https://news.yahoo.com/cuba-recognize-regulate-cryptocurrencies-010725510.html)
+- [Cuba will recognize and regulate cryptocurrency - Fortune](https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/)
+- [El Salvador Gets Ready for a Risky Bitcoin Experiment - WSJ](https://www.wsj.com/articles/el-salvador-gets-ready-for-a-risky-bitcoin-experiment-11629966845)
 
 ### Ecosystem - Deloitte
 
@@ -57,8 +61,8 @@ banner:
 
 ### Ecosystem - Binance
 
-- [UK’s FCA says it is ‘not capable’ of supervising crypto exchange Binance | Financial Times](https://www.ft.com/content/17620a3b-b82d-4b85-aa85-4cf2793b7a02)
-- [Consumer warning on Binance Markets Limited and the Binance Group | FCA](https://www.fca.org.uk/news/news-stories/consumer-warning-binance-markets-limited-and-binance-group)
+- [UK’s FCA says it is ‘not capable’ of supervising crypto exchange Binance - Financial Times](https://www.ft.com/content/17620a3b-b82d-4b85-aa85-4cf2793b7a02)
+- [Consumer warning on Binance Markets Limited and the Binance Group - FCA](https://www.fca.org.uk/news/news-stories/consumer-warning-binance-markets-limited-and-binance-group)
 - [First Supervisory Notice 2021: Binance Markets Limited](https://www.fca.org.uk/publication/supervisory-notices/first-supervisory-notice-binance-markets-limited.pdf)
 - [FCA notice says Binance is 'not capable' of being supervised: report](https://www.theblockcrypto.com/linked/115624/fca-notice-says-binance-is-not-capable-of-being-supervised-report)
 
@@ -70,8 +74,9 @@ banner:
 
 ### Ecosystem - NFT
 
-- [CryptoPunk 7523 | Natively Digital: CryptoPunk 7523 | Sotheby's](https://www.sothebys.com/en/buy/auction/2021/natively-digital-cryptopunk-7523/cryptopunk-7523)
-- [NFTs mark a new chapter for digital commerce | Visa](https://usa.visa.com/visa-everywhere/blog/bdp/2021/08/18/nfts-mark-a-1629328216374.html)
+- [CryptoPunk 7523 - Natively Digital: CryptoPunk 7523 - Sotheby's](https://www.sothebys.com/en/buy/auction/2021/natively-digital-cryptopunk-7523/cryptopunk-7523)
+- [NFTs mark a new chapter for digital commerce - Visa](https://usa.visa.com/visa-everywhere/blog/bdp/2021/08/18/nfts-mark-a-1629328216374.html)
+- [NFT Craze Rages On as August Sales Near $900M - Blockworks](https://blockworks.co/nft-craze-rages-on-as-august-sales-near-900m/)
 
 ### Regulation - CBDC
 
