@@ -99,7 +99,7 @@ banner:
 - [VanEck, ProShares Seek to Withdraw Requests to Launch Ethereum ETFs - Blockworks](https://blockworks.co/vaneck-proshares-seek-to-withdraw-requests-to-launch-ethereum-etfs/)
 - [Two issuers withdraw SEC submissions for an ETH ETF - The Block](https://www.theblockcrypto.com/linked/115226/two-issuers-withdraw-sec-submissions-for-an-eth-etf)
 
-### Ecosystem - Exchages
+### Ecosystem - Exchanges
 
 - [Crypto exchanges are booming, for now - Financial Times](https://www.ft.com/content/d09adf75-9ee9-4c47-9595-69c02113febe)
 - [US Kraken exchange targets European license in 2021, says CEO - Cointelegraph](https://cointelegraph.com/news/us-kraken-exchange-targets-european-license-in-2021-says-ceo)
