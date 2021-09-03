@@ -17,17 +17,21 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [Bitcoin, Financial Freedom In Afghanistan - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/culture/bitcoin-financial-freedom-in-afghanistan)
-
 ### Markets
 
+- [Crypto Outlook Sept 2021 - Bloomberg](https://assets.bbhub.io/promo/sites/12/1338231_Crypto-September2021Outlook.pdf?tactic=506643&link=button-header)
+- [Fidelity Predicting $100 Million per Bitcoin by 2035 - Investing.com India](https://in.investing.com/news/fidelity-predicting-100-million-per-bitcoin-by-2035-2863299)
 - [State of the Network: Issue 118 - Coin Metrics](https://coinmetrics.substack.com/p/coin-metrics-state-of-the-network-b1e)
+- [State of the Market - Aug 26 - Sept 1, 2021.pdf](https://f.hubspotusercontent00.net/hubfs/5264302/State%20of%20the%20Market%20-%20Aug%2026%20-%20Sept%201%2c%202021.pdf)
 - [On-Chain Analysis - Coinmonks, by Heinrich Bredenkamp](https://medium.com/coinmonks/on-chain-analysis-9ec46454af3d)
 - [Billionaire John Paulson Calls Crypto ‘A Limited Supply of Nothing’ - Blockworks](https://blockworks.co/billionaire-john-paulson-calls-crypto-a-limited-supply-of-nothing/)
 - [Preaching to the Nocoiners. Bitcoin Tech Talk #255 - by Jimmy Song - Bitcoin Tech Talk](https://jimmysong.substack.com/p/preaching-to-the-nocoiners-bitcoin)
 - [One in Ten People in the US Invest in Crypto: Survey - Decrypt](https://decrypt.co/79363/one-in-ten-people-in-the-us-invest-in-crypto-survey)
 - [Momentive Poll: Invest in You - CNBC](https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-august-2021/)
 - [Franklin Templeton eyes bitcoin ether trades with planned hires](https://www.coindesk.com/business/2021/09/01/mutual-fund-giant-franklin-templeton-eyes-bitcoin-ether-trades-with-planned-hires)
+- [Franklin Templeton Seeking to Hire Crypto Trader, Researcher - Blockworks](https://blockworks.co/franklin-templeton-seeking-to-hire-crypto-trader-researcher/)
+- [japans-sbi-holdings-to-launch-crypto-fund-report - CoinDesk](https://www.coindesk.com/business/2021/09/02/japans-sbi-holdings-to-launch-crypto-fund-report/)
+- [Paul Tudor Jones’ Tudor Group Reportedly Working on Digital Disruption Fund - Blockworks](https://blockworks.co/paul-tudor-jones-tudor-group-reportedly-working-on-digital-disruption-fund/)
 - [Why Bitcoin’s Price Got Stuck at $50,000 - WSJ](https://www.wsj.com/articles/why-bitcoins-price-got-stuck-at-50-000-11630575001)
 
 ### Tech - Ethereum
@@ -47,6 +51,7 @@ banner:
 ### Markets - Alt-coins
 
 - [Cardano’s Ada Is the Latest Cryptocurrency to Surge. Here’s What You Need to Know. - WSJ](https://www.wsj.com/articles/cardanos-ada-is-the-latest-cryptocurrency-to-surge-heres-what-you-need-to-know-11630143002)
+- [Cardano joins crypto’s creative destruction loop - Reuters](https://www.reuters.com/breakingviews/cardano-joins-cryptos-creative-destruction-loop-2021-09-02/)
 - [solana-boosted-by-move-into-nfts-enters-list-of-top-10-cryptocurrencies-by-market-cap - CoinDesk](https://www.coindesk.com/markets/2021/08/29/solana-boosted-by-move-into-nfts-enters-list-of-top-10-cryptocurrencies-by-market-cap/)
 - [Solana and Polkadot Ride High as Altcoin Season Heats Up: Markets Wrap](https://blockworks.co/solana-and-polkadot-ride-high-as-altcoin-season-heats-up-markets-wrap/)
 
@@ -72,6 +77,7 @@ banner:
 - [OpenSea’s team of 37 staff is currently handling 98% of combined NFT volumes - cointelegraph](https://cointelegraph.com/news/opensea-s-team-of-37-staff-are-currently-handling-98-of-combined-nft-volumes/amp)
 - [dolce-gabbana-to-feature-nft-of-rare-tiara-in-first-drop - Coindesk](https://www.coindesk.com/business/2021/08/27/dolce-gabbana-to-feature-nft-of-rare-tiara-in-first-drop/)
 - [Crypto exchange OKEx launches challenger NFT marketplace](https://www.theblockcrypto.com/post/116428/crypto-exchange-okex-launches-nft-marketplace)
+- [Banksy fan buys 'fake' NFT for over $335K after alleged website hack - CNN Style](https://edition.cnn.com/style/article/banksy-nft-fake-hack/index.html)
 
 ### Ecosystem - Jack Dorseys's TBD
 
@@ -80,6 +86,8 @@ banner:
 - [squares-jack-dorsey-plans-to-build-decentralized-bitcoin-exchange - CoinDesk](https://www.coindesk.com/business/2021/08/27/squares-jack-dorsey-plans-to-build-decentralized-bitcoin-exchange/)
 - [Twitter appears to be adding the ability to tip using Bitcoin](https://www.theblockcrypto.com/post/116320/twitter-appears-to-be-adding-the-ability-to-tip-using-bitcoin)
 - [twitter-could-be-adding-bitcoin-as-payment-option-for-tip-jar-reporta](https://www.coindesk.com/business/2021/09/01/twitter-could-be-adding-bitcoin-as-payment-option-for-tip-jar-report/)
+- [Twitter will soon let users send and receive Bitcoin in its 'Tip Jar' platform - 9to5Mac](https://9to5mac.com/2021/09/01/twitter-will-soon-let-users-send-and-receive-bitcoin-in-its-tip-jar-platform/)
+- [Twitter may be adding Bitcoin and Ethereum addresses to profiles](https://www.theblockcrypto.com/linked/116499/twitter-seems-to-be-testing-the-ability-to-display-bitcoin-and-ethereum-addresses-on-profiles)
 
 ### Ecosystem - El Salvador and Cuba
 
@@ -90,11 +98,15 @@ banner:
 - [El Salvador Gets Ready for a Risky Bitcoin Experiment - WSJ](https://www.wsj.com/articles/el-salvador-gets-ready-for-a-risky-bitcoin-experiment-11629966845)
 - [IMF Repeats El Salvador Bitcoin Warning as Country Launches $150M Adoption Fund - Decrypt](https://decrypt.co/79925/imf-repeats-el-salvador-bitcoin-warning-country-launches-150m-adoption-fund)
 - [El Salvador's Democratic Assembly Approves $150 Million Bitcoin Trust - Bitcoin Magazine](https://bitcoinmagazine.com/.amp/business/el-salvadors-democratic-assembly-approves-150-million-bitcoin-trust)
+- [Majority of Salvadorans do not want bitcoin, poll shows - Reuters](https://www.reuters.com/technology/majority-salvadorans-do-not-want-bitcoin-poll-shows-2021-09-02/?taid=61314bc1e24115000151489f)
+- [Legislative Assembly of El Salvador approves $150M Bitcoin Trust](https://cointelegraph.com/news/legislative-assembly-of-el-salvador-approves-150m-bitcoin-trust)
 
 ### Regulation
 
 - [Treasury Wants Crypto Reporting Rules in $3.5 Trillion Reconciliation Bill: Report - Decrypt](https://decrypt.co/79823/treasury-wants-crypto-reporting-rules-trillion-reconciliation-bill-report)
 - [Crypto Firms Want Fed Payment Systems Access—and Banks Are Resisting - WSJ](https://www.wsj.com/articles/crypto-firms-want-fed-payment-systems-accessand-banks-are-resisting-11630143002#refreshed?mod=e2tw)
+- [Regulators Investigate Crypto-Exchange Developer Uniswap Labs - WSJ](https://www.wsj.com/articles/regulators-investigate-crypto-exchange-developer-uniswap-labs-11630666800)
+- [Vast Becomes First Chartered US Bank to Offer Bitcoin Buying And Custody - Bitcoin Magazine](https://bitcoinmagazine.com/business/vast-becomes-first-chartered-us-bank-to-offer-bitcoin-buying-and-custody)
 
 ### Regulation - Gensler
 
@@ -125,6 +137,10 @@ banner:
 - [Central Bank Digital Currencies to Be Tested in BIS Experiment - Bloomberg](https://www.bloomberg.com/news/articles/2021-09-02/central-bank-digital-currencies-to-be-tested-in-bis-experiment)
 - [Nigeria Naira (NGN USD) News and Quote: Bank Picks Partner For Digital Currency - Bloomberg](https://www.bloomberg.com/news/articles/2021-08-30/nigeria-central-bank-selects-fintech-to-launch-digital-currency)
 - [Nigerian Central Bank Reveals CBDC Guidelines – Fintech Bitcoin News](https://news.bitcoin.com/nigerian-central-bank-reveals-cbdc-guidelines-announces-plan-to-launch-e-naira-wallet/)
+
+### Miscellanea
+
+- [Bitcoin, Financial Freedom In Afghanistan - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/culture/bitcoin-financial-freedom-in-afghanistan)
 
 ### Tech - Bitcoin
 
