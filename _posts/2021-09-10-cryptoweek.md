@@ -50,7 +50,7 @@ banner:
 - [Ukraine Legalized Bitcoin - Bitcoin Magazine](https://bitcoinmagazine.com/markets/ukraine-legalized-bitcoin)
 - [Ukraine legalizes bitcoin and cryptocurrencies - CNBC](https://www.cnbc.com/2021/09/08/ukraine-legalizes-bitcoin-and-cryptocurrencies.html)
 
-### Regulation - Coinbase
+### Regulation - Coinbase and SEC
 
 - [Coinbase CEO says SEC has threatened to sue over crypto lending program - The Washington Post](https://www.washingtonpost.com/business/2021/09/08/coinbase-sec-wells-notice/)
 - [Coinbase Says SEC Is Investigating Its Crypto Lending Program - WSJ](https://www.wsj.com/articles/coinbase-says-sec-plans-enforcement-action-over-crypto-lending-program-11631110478)
@@ -95,7 +95,7 @@ banner:
 - [Loot Holders Get $51K AGLD Airdrop Because NFTs - CoinDesk](https://www.coindesk.com/tech/2021/09/03/loot-holders-get-51k-agld-airdrop-because-nfts/)
 - [OpenSea bug destroys $100,000 worth of NFTs, including historical ENS name](https://www.theblockcrypto.com/post/116924/opensea-bug-destroys-100000-worth-of-nfts-including-historical-ens-name)
 
-### Ecosystem - Blockstream
+### Ecosystem - Blockstream and Macquarie
 
 - [Blockstream and Macquarie to Form Carbon Neutral Bitcoin Mining Partnership - Blockstream](https://blockstream.com/2021/09/08/en-blockstream-and-macquarie-to-form-green-bitcoin-mining-partnership/)
 - [Blockstream Partners With Macquarie To Explore Renewable Bitcoin Mining Solutions - Nasdaq](https://www.nasdaq.com/articles/blockstream-partners-with-macquarie-to-explore-renewable-bitcoin-mining-solutions-2021-09)
