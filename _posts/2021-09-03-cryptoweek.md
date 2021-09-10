@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #30"
+title: "CryptoWeek #30 con Ludmilla Radchenko"
 subtitle: "Il commento alle news della settimana" 
 author: "Staff"
 image:

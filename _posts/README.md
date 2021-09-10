@@ -31,10 +31,10 @@ permalink: /cryptoweekinternal/
 * Website: inserire il link podcast del cyptoweek appena concluso nella pagina web del cryptoweek
 * Website: rivedere le news (Nando)
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook e YouTube (Nando)
-  * titolo: CryptoWeek #32 (17 settembre 2021)
+  * titolo: CryptoWeek #33 (24 settembre 2021)
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
   * foto: thumb con specific date
-  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/09/17/cryptoweek.html
+  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/09/24/cryptoweek.html
 * LinkedIn: aggiungere speaker e descrizione
 * YouTube: aggiornare nuovo video (Nando)
   * marcare, tra le opzioni nascoste, il nuovo prossimo livestream come "contenuto sponsorizzato"
@@ -49,6 +49,7 @@ permalink: /cryptoweekinternal/
 * Website: in events.yml corregere il prossimo CryptoWeek (Nando)
   * data
   * link YouTube
+* Questo documento: aggiornare sopra in streamyard # e le due date
 * Linkedin: creare un evento per il CryptoWeek della settimana successiva
 * Linkedin: creare evento collegato al live youtube
 * Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in ContentCreator
