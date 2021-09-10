@@ -67,7 +67,7 @@ banner:
 
 ### Ecosystem - Mastercard and CipherTrace
 
-- [mastercard-acquires-crypto-tracing-firm-ciphertrace - CoinDesk](https://www.coindesk.com/business/2021/09/09/mastercard-acquires-crypto-tracing-firm-ciphertrace/)
+- [Mastercard Acquires Crypto Tracing Firm Ciphertrace - CoinDesk](https://www.coindesk.com/business/2021/09/09/mastercard-acquires-crypto-tracing-firm-ciphertrace/)
 - [Mastercard to Acquire Crypto Intelligence Company CipherTrace - Blockworks](https://blockworks.co/mastercard-to-acquire-crypto-intelligence-company-ciphertrace/)
 
 ### Ecosystem - Binance
@@ -98,10 +98,10 @@ banner:
 ### Ecosystem - Blockstream and Macquarie
 
 - [Blockstream and Macquarie to Form Carbon Neutral Bitcoin Mining Partnership - Blockstream](https://blockstream.com/2021/09/08/en-blockstream-and-macquarie-to-form-green-bitcoin-mining-partnership/)
-- [Blockstream Partners With Macquarie To Explore Renewable Bitcoin Mining Solutions - Nasdaq](https://www.nasdaq.com/articles/blockstream-partners-with-macquarie-to-explore-renewable-bitcoin-mining-solutions-2021-09)
+- [Blockstream Partners With Macquarie to Explore Renewable Bitcoin Mining Solutions - Nasdaq](https://www.nasdaq.com/articles/blockstream-partners-with-macquarie-to-explore-renewable-bitcoin-mining-solutions-2021-09)
 - [Blockstream to partner with Australia's Macquarie for green bitcoin mining - Reuters](https://www.reuters.com/technology/blockstream-partner-with-australias-macquarie-green-bitcoin-mining-2021-09-09/)
 - [Blockstream Macquarie Explore Carbon Neutral Initiatives - Bitcoin Magazine](https://bitcoinmagazine.com/business/blockstream-partners-macquarie-renewable-bitcoin-mining)
-- [australias-macquarie-group-and-blockstream-to-pilot-renewable-bitcoin-mining-facility - CoinDesk](https://www.coindesk.com/business/2021/09/06/australias-macquarie-group-and-blockstream-to-pilot-renewable-bitcoin-mining-facility/)
+- [Australias Macquarie Group and Blockstream to Pilot Renewable Bitcoin Mining Facility - CoinDesk](https://www.coindesk.com/business/2021/09/06/australias-macquarie-group-and-blockstream-to-pilot-renewable-bitcoin-mining-facility/)
 
 ### Opinion - Nassim Taleb
 
