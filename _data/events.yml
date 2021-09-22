@@ -40,8 +40,31 @@
   image:
     main: 20211104-cal2021.jpg
     size: 350
-    thumb: 
+    thumb: 20211104-cal2021-thumb.jpg
   eventfeed: true
+  published: true
+
+- title: "Criptovalute e moneta digitale"
+  subtitle: "Rischio o opportunità?"
+  lang: it
+  city: online
+  date: 2021-10-08
+  date2:
+  hours: 10:30-11:30
+  organizer: Digital Gold Institute
+  address: 
+    text: diretta facebook su @fedcons
+    url: https://www.facebook.com/Fedcons/
+  info:
+    text: scopri il programma
+    url: http://dgi.io/docs/20211008-federconsumatori.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20211008-federconsumatori.jpg
+    size: 200
+    thumb: 20211008-federconsumatori-thumb.jpg
+  eventfeed: false
   published: true
 
 - title: "Report trimestrale del Digital Gold Institute"
