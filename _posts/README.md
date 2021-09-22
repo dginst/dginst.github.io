@@ -30,12 +30,13 @@ permalink: /cryptoweekinternal/
 * Streamyard: estrarre podcast e caricarlo sulla piattaforma podcast
 * Website: inserire il link podcast del cyptoweek appena concluso nella pagina web del cryptoweek
 * Website: rivedere le news (Nando)
-* Streamyard: creare nuovo broadcast per la settimana successiva su Facebook e YouTube (Nando)
-  * titolo: CryptoWeek #33 (24 settembre 2021)
+* Streamyard: creare nuovo broadcast per la settimana successiva su Facebook, YouTube e Linkedin(Nando)
+  * titolo: CryptoWeek #34 (1 ottobre 2021)
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
-  * foto: thumb con specific date
-  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/09/24/cryptoweek.html
-* LinkedIn: aggiungere speaker e descrizione
+  * foto: thumb con specific date da recuperare nella cartella "post" del repository
+  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/10/01/cryptoweek
+* LinkedIn: aggiungere speaker e descrizione all'evento dedicato ()
+* Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio (https://business.facebook.com/creatorstudio/home, quindi Content library)
 * YouTube: aggiornare nuovo video (Nando)
   * marcare, tra le opzioni nascoste, il nuovo prossimo livestream come "contenuto sponsorizzato"
   * lasciare il nuovo prossimo livestream come "non adatto ai bambini"
@@ -45,14 +46,12 @@ permalink: /cryptoweekinternal/
   * corregere il link YouTube
   * published: false
   * cryptoweek: true
+  * svuotale contenuti podcast
   * svuotare le news ma non cancellare le categorie
 * Website: in events.yml corregere il prossimo CryptoWeek (Nando)
   * data
   * link YouTube
 * Questo documento: aggiornare sopra in streamyard # e le due date
-* Linkedin: creare un evento per il CryptoWeek della settimana successiva
-* Linkedin: creare evento collegato al live youtube
-* Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in ContentCreator
 
 ## Sabato mattina
 
