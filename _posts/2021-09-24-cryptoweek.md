@@ -30,6 +30,9 @@ banner:
 - [SEC’s Gensler likens stablecoins to 'poker chips’ amid call for tougher crypto regulation - The Washington Post](https://www.washingtonpost.com/business/2021/09/21/sec-gensler-crypto-stablecoins/)
 - [SEC’s Gensler Calls Stablecoins ‘Poker Chips’ at the Wild West Crypto Casino - CoinDesk](https://www.coindesk.com/policy/2021/09/21/secs-gensler-calls-stablecoins-poker-chips-at-the-wild-west-crypto-casino/)
 - [$80 Billion Brazilian Investment Bank Launches Bitcoin and Crypto Trading App - Nasdaq](https://www.nasdaq.com/articles/%2480-billion-brazilian-investment-bank-launches-bitcoin-and-crypto-trading-app-2021-09-21)
+- [Central Banks Look To Two-Tier Retail CBDC Model Amid Disruption Fears - Crypto News](https://cryptonews.com/news/central-banks-look-to-two-tier-retail-cbdc-model-amid-disruption-fears.htm)
+- [Bitcoin.org Website Inaccessible After Being Hacked by Apparent Giveaway Scam - CoinDesk](https://www.coindesk.com/tech/2021/09/23/bitcoinorg-appears-hacked-by-giveaway-scam/)
+- [One River Digital raises $41M from Goldman Sachs and Coinbase - Cointelegraph](https://cointelegraph.com/news/one-river-digital-raises-41m-from-goldman-sachs-and-coinbase)
 
 ### Markets
 
