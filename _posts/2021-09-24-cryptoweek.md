@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: UAF2DAuUfpk
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-
@@ -17,65 +17,71 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [Why Washington Worries About Stablecoins - The New York Times](https://www.nytimes.com/2021/09/17/business/economy/federal-reserve-virtual-currency-stablecoin.html)
-- [Stablecoin Feature in New York Times Signals Regulation Is Coming - CoinDesk](https://www.coindesk.com/business/2021/09/19/us-regulators-looking-to-get-a-handle-on-stablecoins-ny-times-says/)
-- [Binance Names Europol Veteran to Join Audit and Investigations Team - CoinDesk](https://www.coindesk.com/business/2021/09/18/binance-names-europol-veteran-to-join-audit-and-investigations-team/)
-- [‘We Just Bought The Dip’: El Salvador President Boasts Of Doubling Down On Bitcoin As Price Drops - Forbes](https://www.forbes.com/sites/jemimamcevoy/2021/09/20/we-just-bought-the-dip-el-salvador-president-boasts-of-doubling-down-on-bitcoin-as-price-drops/)
-- [@nayibbukele: Twitter Status 1439815012642611203](https://twitter.com/nayibbukele/status/1439815012642611203)
-- [European Football NFT Platform Sorare Raises $680M Series B - CoinDesk](https://www.coindesk.com/business/2021/09/21/european-football-nft-platform-sorare-raises-680m-series-b/)
-- [European Football NFT Platform Sorare Raises $680M Series B - Nasdaq](https://www.nasdaq.com/articles/european-football-nft-platform-sorare-raises-%24680m-series-b-2021-09-21)
+
+- ### Markets
+
+- [Crypto on-chain digest - Kraken](https://kraken.docsend.com/view/i2mrwq46kg45v7p3)
+- [Kraken’s App Adds Support for Apple, Google Pay — CoinDesk](https://www.coindesk.com/business/2021/09/22/krakens-app-adds-support-for-apple-google-pay/)
+- [Bitcoin Price Slides as China Jitters Hit Crypto Markets - WSJ](https://www.wsj.com/articles/bitcoin-price-slides-as-china-jitters-hit-crypto-markets-11632162568)
+- [China Declares Cryptocurrency Transactions Illegal; Bitcoin Price Falls - WSJ](https://www.wsj.com/articles/china-declares-bitcoin-and-other-cryptocurrency-transactions-illegal-11632479288)
+- [China Makes Preparations for Evergrande’s Demise - WSJ](https://www.wsj.com/articles/china-makes-preparations-for-evergrandes-demise-11632391852)
+- [Does bitcoin act like digital gold? Embarrassingly, it moves in close correlation with risky stocks - South China Morning Post](https://www.scmp.com/business/banking-finance/article/3149543/does-bitcoin-act-digital-gold-embarrassingly-it-moves)
 - [Institutional investors increase their crypto holdings for 5th straight week - Cointelegraph](https://cointelegraph.com/news/institutional-investors-increase-their-crypto-holdings-for-5th-straight-week)
-- [Coinbase drops plans for crypto lending product after SEC tussle - The Block Crypto](https://www.theblockcrypto.com/linked/118091/coinbase-drops-plans-for-crypto-lending-product-after-sec-tussle)
-- [Coinbase Drops Crypto Lending Program Plans After SEC Balks - Bloomberg](https://www.bloomberg.com/news/articles/2021-09-20/coinbase-global-drops-plan-to-launch-crypto-lending-program)
-- [SEC’s Gensler likens stablecoins to 'poker chips’ amid call for tougher crypto regulation - The Washington Post](https://www.washingtonpost.com/business/2021/09/21/sec-gensler-crypto-stablecoins/)
-- [SEC’s Gensler Calls Stablecoins ‘Poker Chips’ at the Wild West Crypto Casino - CoinDesk](https://www.coindesk.com/policy/2021/09/21/secs-gensler-calls-stablecoins-poker-chips-at-the-wild-west-crypto-casino/)
-- [$80 Billion Brazilian Investment Bank Launches Bitcoin and Crypto Trading App - Nasdaq](https://www.nasdaq.com/articles/%2480-billion-brazilian-investment-bank-launches-bitcoin-and-crypto-trading-app-2021-09-21)
-- [Central Banks Look To Two-Tier Retail CBDC Model Amid Disruption Fears - Crypto News](https://cryptonews.com/news/central-banks-look-to-two-tier-retail-cbdc-model-amid-disruption-fears.htm)
-- [Bitcoin.org Website Inaccessible After Being Hacked by Apparent Giveaway Scam - CoinDesk](https://www.coindesk.com/tech/2021/09/23/bitcoinorg-appears-hacked-by-giveaway-scam/)
 - [One River Digital raises $41M from Goldman Sachs and Coinbase - Cointelegraph](https://cointelegraph.com/news/one-river-digital-raises-41m-from-goldman-sachs-and-coinbase)
+- [Wall Street trading groups step up incursion into crypto markets - Financial Times](https://www.ft.com/content/8e955e9a-6e03-41b9-8da2-2e761d565f71)
 
-### Markets
+### Regulation
 
-
-
-### Ecosystem - Mastercard
-
-
-
-### Ecosystem - Coinbase
+- [Finance industry warns against ‘unnecessarily restrictive’ crypto capital rules - Financial Times](https://www.ft.com/content/05675352-3451-4b92-9ef9-b3e769bf30e3)
+- [SEC's Gary Gensler criticizes stablecoins amid call for tougher crypto regulation - The Washington Post](https://www.washingtonpost.com/business/2021/09/21/sec-gensler-crypto-stablecoins/)
+- [SEC’s Gensler Calls Stablecoins ‘Poker Chips’ at the Wild West Crypto Casino - CoinDesk](https://www.coindesk.com/policy/2021/09/21/secs-gensler-calls-stablecoins-poker-chips-at-the-wild-west-crypto-casino/)
+- [Stablecoin Feature in New York Times Signals Regulation Is Coming - CoinDesk](https://www.coindesk.com/business/2021/09/19/us-regulators-looking-to-get-a-handle-on-stablecoins-ny-times-says/)
 
 
-### Ecosystem - Walmart
+### Ecosystem
 
+- [Galaxy’s Novogratz: Our Industry Did a Terrible Job Educating Washington - Blockworks](https://blockworks.co/galaxys-novogratz-our-industry-did-a-terrible-job-educating-washington/)
+- [Coinbase CEO: 50% of the People He Spoke to in DC Think Crypto is a Risk - Blockworks](https://blockworks.co/coinbase-ceo-50-of-the-people-he-spoke-to-in-dc-think-crypto-is-a-risk/)
+- [Coinbase drops plans for crypto lending product after SEC tussle - The Block Crypto](https://www.theblockcrypto.com/linked/118091/coinbase-drops-plans-for-crypto-lending-product-after-sec-tussle)
+- [Coinbase Cancels Plans to Launch Lending Program - Blockworks](https://blockworks.co/coinbase-cancels-plans-to-launch-lending-program/)
+- [Update as of 5pm ET, Friday, September 17th: we are not launching the USDC APY program announced below - by Coinbase - The Coinbase Blog](https://blog.coinbase.com/sign-up-to-earn-4-apy-on-usd-coin-with-coinbase-cdad79e5f5eb)
+
+### Ecosystem - Forensic and Chainalysis
+
+- [U.S. to Target Crypto Ransomware Payments With Sanctions - WSJ](https://www.wsj.com/articles/u-s-to-target-crypto-ransomware-payments-with-sanctions-11631885336?mod=hp_lead_pos2)
+- [Forensics investigators track hacked cryptocurrency funds using software - The Washington Post](https://www.washingtonpost.com/technology/2021/09/22/stolen-crypto/)
+- [Leaked Slides Show How Chainalysis Flags Crypto Suspects for Cops — CoinDesk](https://www.coindesk.com/business/2021/09/21/leaked-slides-show-how-chainalysis-flags-crypto-suspects-for-cops/)
+
+### Ecosystem - Twitter
+
+- [Bringing Tips to everyone](https://blog.twitter.com/en_us/topics/product/2021/bringing-tips-to-everyone)
+- [Twitter accelerates again with Bitcoin tips, NFTs, recorded Spaces, creator fund and more - TechCrunch](https://techcrunch.com/2021/09/23/twitter-accelerates-again-with-bitcoin-tips-nfts-recorded-spaces-creator-fund-and-more/?guccounter=1)
 
 ### Ecosystem - El Salvador
 
+- [‘We Just Bought The Dip’: El Salvador President Boasts Of Doubling Down On Bitcoin As Price Drops - Forbes](https://www.forbes.com/sites/jemimamcevoy/2021/09/20/we-just-bought-the-dip-el-salvador-president-boasts-of-doubling-down-on-bitcoin-as-price-drops/)
+- [@nayibbukele: Twitter Status 1439815012642611203](https://twitter.com/nayibbukele/status/1439815012642611203)
 
-### Regulation - CBDC
+### Ecosystem - Alt-coins
 
-
-
-### Regulation - Switzerland
-
-### Regulation - ESMA
-
-### Regulation - North America
-
+- [Ethereum Futures More Popular Among Major Investors Than Bitcoin: JP Morgan - Decrypt](https://decrypt.co/81751/ethereum-futures-more-popular-bitcoin-jp-morgan)
+- [(3) Elon Musk on Twitter: "@BillyM2k Super important for Doge fees to drop to make things like buying movie tix viable" / Twitter](https://twitter.com/elonmusk/status/1440780474662543370)
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
-
-### Ecosystem - NFTs
-
+- [SushiSwap’s token launchpad, MISO, hacked for $3M](https://cointelegraph.com/news/sushi-s-token-launchpad-miso-hacked-for-3m)
+- [pNetwork - Twitter](https://twitter.com/pNetworkDeFi/status/1439690593211490324)
 
 ### Ecosystem - Binance
 
+- [Changes to Binance offerings in Australia - Binance Support](https://www.binance.com/en/support/announcement/0d7c52e9f7c04ae784480eb17fd13157)
+- [Binance Names Europol Veteran to Join Audit and Investigations Team - CoinDesk](https://www.coindesk.com/business/2021/09/18/binance-names-europol-veteran-to-join-audit-and-investigations-team/)
 
 ### Tech - Bitcoin
 
-
-### Tech - Ethereum and Alt-coins
-
+- [Bitcoin.org site appears to be hacked and is promoting bitcoin giveaways](https://www.theblockcrypto.com/linked/118371/bitcoin-org-website-hacked-promoting-btc-giveaway)
+- [Bitcoin.org Website Inaccessible After Being Hacked by Apparent Giveaway Scam - CoinDesk](https://www.coindesk.com/tech/2021/09/23/bitcoinorg-appears-hacked-by-giveaway-scam/)
+- [Bitcoin Optech Newsletter #167 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/22/)
 
 ### Digital Gold Institute
 
