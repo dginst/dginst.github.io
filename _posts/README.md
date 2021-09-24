@@ -35,7 +35,7 @@ permalink: /cryptoweekinternal/
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
   * foto: thumb con specific date da recuperare nella cartella "post" del repository
   * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/10/01/cryptoweek
-* LinkedIn: aggiungere speaker e descrizione all'evento dedicato ()
+* LinkedIn: aggiungere speaker e descrizione all'evento dedicato
 * Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio (https://business.facebook.com/creatorstudio, quindi Content Library)
 * YouTube: aggiornare nuovo video (Nando)
   * marcare, tra le opzioni nascoste, il nuovo prossimo livestream come "contenuto sponsorizzato"
