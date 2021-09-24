@@ -18,7 +18,7 @@ banner:
 ---
 
 
-- ### Markets
+### Markets
 
 - [Crypto on-chain digest - Kraken](https://kraken.docsend.com/view/i2mrwq46kg45v7p3)
 - [Kraken’s App Adds Support for Apple, Google Pay - CoinDesk](https://www.coindesk.com/business/2021/09/22/krakens-app-adds-support-for-apple-google-pay/)
