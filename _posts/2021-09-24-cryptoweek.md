@@ -49,7 +49,7 @@ banner:
 
 - [U.S. to Target Crypto Ransomware Payments With Sanctions - WSJ](https://www.wsj.com/articles/u-s-to-target-crypto-ransomware-payments-with-sanctions-11631885336?mod=hp_lead_pos2)
 - [Forensics investigators track hacked cryptocurrency funds using software - The Washington Post](https://www.washingtonpost.com/technology/2021/09/22/stolen-crypto/)
-- [Leaked Slides Show How Chainalysis Flags Crypto Suspects for Cops — CoinDesk](https://www.coindesk.com/business/2021/09/21/leaked-slides-show-how-chainalysis-flags-crypto-suspects-for-cops/)
+- [Leaked Slides Show How Chainalysis Flags Crypto Suspects for Cops - CoinDesk](https://www.coindesk.com/business/2021/09/21/leaked-slides-show-how-chainalysis-flags-crypto-suspects-for-cops/)
 
 ### Ecosystem - Twitter
 
@@ -59,17 +59,17 @@ banner:
 ### Ecosystem - El Salvador
 
 - [‘We Just Bought The Dip’: El Salvador President Boasts Of Doubling Down On Bitcoin As Price Drops - Forbes](https://www.forbes.com/sites/jemimamcevoy/2021/09/20/we-just-bought-the-dip-el-salvador-president-boasts-of-doubling-down-on-bitcoin-as-price-drops/)
-- [@nayibbukele: Twitter Status 1439815012642611203](https://twitter.com/nayibbukele/status/1439815012642611203)
+- ["We just bought the dip" - Nayibbukele on Twitter](https://twitter.com/nayibbukele/status/1439815012642611203)
 
 ### Ecosystem - Alt-coins
 
 - [Ethereum Futures More Popular Among Major Investors Than Bitcoin: JP Morgan - Decrypt](https://decrypt.co/81751/ethereum-futures-more-popular-bitcoin-jp-morgan)
-- ["@BillyM2k Super important for Doge fees to drop to make things like buying movie tix viable" - Elon Musk on Twitter](https://twitter.com/elonmusk/status/1440780474662543370)
+- ["Super important for Doge fees to drop to make things like buying movie tix viable" - Elon Musk on Twitter](https://twitter.com/elonmusk/status/1440780474662543370)
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
 - [SushiSwap’s token launchpad, MISO, hacked for $3M - Cointelegraph](https://cointelegraph.com/news/sushi-s-token-launchpad-miso-hacked-for-3m)
-- [pNetwork - Twitter](https://twitter.com/pNetworkDeFi/status/1439690593211490324)
+- [pNetwork hacked for 277 BTC - pNetwork on Twitter](https://twitter.com/pNetworkDeFi/status/1439690593211490324)
 
 ### Ecosystem - Binance
 
