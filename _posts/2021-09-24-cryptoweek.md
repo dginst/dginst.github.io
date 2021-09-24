@@ -21,7 +21,7 @@ banner:
 - ### Markets
 
 - [Crypto on-chain digest - Kraken](https://kraken.docsend.com/view/i2mrwq46kg45v7p3)
-- [Kraken’s App Adds Support for Apple, Google Pay — CoinDesk](https://www.coindesk.com/business/2021/09/22/krakens-app-adds-support-for-apple-google-pay/)
+- [Kraken’s App Adds Support for Apple, Google Pay - CoinDesk](https://www.coindesk.com/business/2021/09/22/krakens-app-adds-support-for-apple-google-pay/)
 - [Bitcoin Price Slides as China Jitters Hit Crypto Markets - WSJ](https://www.wsj.com/articles/bitcoin-price-slides-as-china-jitters-hit-crypto-markets-11632162568)
 - [China Declares Cryptocurrency Transactions Illegal; Bitcoin Price Falls - WSJ](https://www.wsj.com/articles/china-declares-bitcoin-and-other-cryptocurrency-transactions-illegal-11632479288)
 - [China Makes Preparations for Evergrande’s Demise - WSJ](https://www.wsj.com/articles/china-makes-preparations-for-evergrandes-demise-11632391852)
@@ -37,14 +37,13 @@ banner:
 - [SEC’s Gensler Calls Stablecoins ‘Poker Chips’ at the Wild West Crypto Casino - CoinDesk](https://www.coindesk.com/policy/2021/09/21/secs-gensler-calls-stablecoins-poker-chips-at-the-wild-west-crypto-casino/)
 - [Stablecoin Feature in New York Times Signals Regulation Is Coming - CoinDesk](https://www.coindesk.com/business/2021/09/19/us-regulators-looking-to-get-a-handle-on-stablecoins-ny-times-says/)
 
-
 ### Ecosystem
 
 - [Galaxy’s Novogratz: Our Industry Did a Terrible Job Educating Washington - Blockworks](https://blockworks.co/galaxys-novogratz-our-industry-did-a-terrible-job-educating-washington/)
 - [Coinbase CEO: 50% of the People He Spoke to in DC Think Crypto is a Risk - Blockworks](https://blockworks.co/coinbase-ceo-50-of-the-people-he-spoke-to-in-dc-think-crypto-is-a-risk/)
 - [Coinbase drops plans for crypto lending product after SEC tussle - The Block Crypto](https://www.theblockcrypto.com/linked/118091/coinbase-drops-plans-for-crypto-lending-product-after-sec-tussle)
 - [Coinbase Cancels Plans to Launch Lending Program - Blockworks](https://blockworks.co/coinbase-cancels-plans-to-launch-lending-program/)
-- [Update as of 5pm ET, Friday, September 17th: we are not launching the USDC APY program announced below - by Coinbase - The Coinbase Blog](https://blog.coinbase.com/sign-up-to-earn-4-apy-on-usd-coin-with-coinbase-cdad79e5f5eb)
+- [We are not launching the USDC APY program announced below -The Coinbase Blog](https://blog.coinbase.com/sign-up-to-earn-4-apy-on-usd-coin-with-coinbase-cdad79e5f5eb)
 
 ### Ecosystem - Forensic and Chainalysis
 
@@ -54,7 +53,7 @@ banner:
 
 ### Ecosystem - Twitter
 
-- [Bringing Tips to everyone](https://blog.twitter.com/en_us/topics/product/2021/bringing-tips-to-everyone)
+- [Bringing Tips to everyone - Twitter](https://blog.twitter.com/en_us/topics/product/2021/bringing-tips-to-everyone)
 - [Twitter accelerates again with Bitcoin tips, NFTs, recorded Spaces, creator fund and more - TechCrunch](https://techcrunch.com/2021/09/23/twitter-accelerates-again-with-bitcoin-tips-nfts-recorded-spaces-creator-fund-and-more/?guccounter=1)
 
 ### Ecosystem - El Salvador
@@ -65,11 +64,11 @@ banner:
 ### Ecosystem - Alt-coins
 
 - [Ethereum Futures More Popular Among Major Investors Than Bitcoin: JP Morgan - Decrypt](https://decrypt.co/81751/ethereum-futures-more-popular-bitcoin-jp-morgan)
-- [(3) Elon Musk on Twitter: "@BillyM2k Super important for Doge fees to drop to make things like buying movie tix viable" / Twitter](https://twitter.com/elonmusk/status/1440780474662543370)
+- ["@BillyM2k Super important for Doge fees to drop to make things like buying movie tix viable" - Elon Musk on Twitter](https://twitter.com/elonmusk/status/1440780474662543370)
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
-- [SushiSwap’s token launchpad, MISO, hacked for $3M](https://cointelegraph.com/news/sushi-s-token-launchpad-miso-hacked-for-3m)
+- [SushiSwap’s token launchpad, MISO, hacked for $3M - Cointelegraph](https://cointelegraph.com/news/sushi-s-token-launchpad-miso-hacked-for-3m)
 - [pNetwork - Twitter](https://twitter.com/pNetworkDeFi/status/1439690593211490324)
 
 ### Ecosystem - Binance
@@ -79,7 +78,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin.org site appears to be hacked and is promoting bitcoin giveaways](https://www.theblockcrypto.com/linked/118371/bitcoin-org-website-hacked-promoting-btc-giveaway)
+- [Bitcoin.org site appears to be hacked and is promoting bitcoin giveaways - The Block Crypto](https://www.theblockcrypto.com/linked/118371/bitcoin-org-website-hacked-promoting-btc-giveaway)
 - [Bitcoin.org Website Inaccessible After Being Hacked by Apparent Giveaway Scam - CoinDesk](https://www.coindesk.com/tech/2021/09/23/bitcoinorg-appears-hacked-by-giveaway-scam/)
 - [Bitcoin Optech Newsletter #167 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/22/)
 
