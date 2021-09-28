@@ -17,6 +17,15 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+- [Major crypto exchanges stop letting Chinese users sign up after Beijing’s renewed crackdown - CNBC](https://www.cnbc.com/2021/09/27/cryptocurrency-exchanges-stop-chinese-users-signing-up-after-crackdown.html)
+- [Twitter expands Tips globally with Bitcoin support, looks to bring recording, replaying options to Spaces - Financial Express](https://www.financialexpress.com/industry/technology/twitter-expands-tips-globally-with-bitcoin-support-looks-to-bring-recording-replaying-options-to-spaces/2337209/)
+- [Cardano’s Commercial Arm to Invest $100M in DeFi, NFTs and Blockchain Education - CoinDesk](https://www.coindesk.com/business/2021/09/27/cardanos-commercial-arm-to-invest-100m-in-defi-nfts-and-blockchain-education/)
+- [Bitfinex paid a colossal $23M fee to send $100K of USDT - Cointelegraph](https://cointelegraph.com/news/bitfinex-paid-a-colossal-23m-fee-to-send-100k-of-usdt)
+- [Crypto Exchange Pays $24 Million in Transaction Fees for $100,000 - Bloomberg](https://www.bloomberg.com/news/articles/2021-09-27/crypto-exchange-pays-24-million-in-fees-for-100-000-in-error)
+- [Cryptocurrencies see sixth straight week of inflows, led by bitcoin -CoinShares data - Reuters](https://www.reuters.com/article/fintech-crypto-flows/cryptocurrencies-see-6th-straight-week-of-inflows-led-by-bitcoin-coinshares-data-idUSL1N2QT1FH)
+- [Crypto Exchange Giants Cut Back on China Users as Ban Widens - Bloomberg](https://www.bloomberg.com/news/articles/2021-09-25/crypto-exchange-stops-taking-china-users-as-beijing-widens-ban)
+- [Cryptocurrency exchanges start cutting off Chinese users - Financial Times](https://www.ft.com/content/9c42c660-7e80-47c2-8b3b-3398c6a22eaf)
+- [Taurus collaborates with the Ethereum Foundation to review Ethereum 2.0 security: report - Taurus](https://blog.taurushq.com/ethereum-security-review/)
 
 ### Markets
 
