@@ -26,6 +26,9 @@ banner:
 - [Crypto Exchange Giants Cut Back on China Users as Ban Widens - Bloomberg](https://www.bloomberg.com/news/articles/2021-09-25/crypto-exchange-stops-taking-china-users-as-beijing-widens-ban)
 - [Cryptocurrency exchanges start cutting off Chinese users - Financial Times](https://www.ft.com/content/9c42c660-7e80-47c2-8b3b-3398c6a22eaf)
 - [Taurus collaborates with the Ethereum Foundation to review Ethereum 2.0 security: report - Taurus](https://blog.taurushq.com/ethereum-security-review/)
+- [DeFi Whales Turned Central, Northern & Western Europe into the World’s Biggest Cryptocurrency Economy — Chainalysis](https://blog.chainalysis.com/reports/central-northern-western-europe-cryptocurrency-geography-report-2021-preview)
+- [Europe becomes largest crypto economy with over $1T in transactions — Chainalysis - Cointelegraph](https://cointelegraph.com/news/europe-becomes-largest-crypto-economy-with-over-1t-in-transactions-chainalysis)
+- [Revolut to Launch Crypto Token: Sources - CoinDesk](https://www.coindesk.com/business/2021/09/27/revolut-to-launch-crypto-token-sources/)
 
 ### Markets
 
