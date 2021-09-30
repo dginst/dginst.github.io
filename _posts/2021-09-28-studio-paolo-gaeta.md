@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: false
-title: "La custodia sicura di Bitcoin: aspetti tecnologici, funzionali e regolamentari"
-subtitle: L'articolo di Ferdinando Ametrano per Network Digital 360.
+title: "Cryptomonete il nuovo oro?"
+subtitle: Intervista a Ferdinando Ametrano.
 author: "Staff"
 image:
     main: 2021-09-28-studio-paolo-gaeta.png
