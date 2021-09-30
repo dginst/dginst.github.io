@@ -20,6 +20,30 @@
     thumb: cryptoweek-thumb.jpg
   eventfeed: true
   published: true
+
+- title: "Workshop Bitcoin & Blockchain"
+  subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
+  lang: it
+  city: online
+  date: 2021-12-14
+  date2: 2021-12-15
+  hours: 09:00-18:00
+  organizer: Digital Gold Institute
+  address: 
+    text: "Via Giovanni Battista Pirelli 11, 20124 Milano" 
+  info:
+    text: programma e registrazione
+    url: https://dgi.io/workshop
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20211214-workshop.jpg
+    size: 200
+    thumb: 20211214-workshop-thumb.jpg
+  eventfeed: true
+  published: true
+
+
   
 - title: "3rd Crypto Asset Lab Conference"
   subtitle: 
