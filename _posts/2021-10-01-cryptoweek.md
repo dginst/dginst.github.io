@@ -29,6 +29,9 @@ banner:
 - [DeFi Whales Turned Central, Northern & Western Europe into the World’s Biggest Cryptocurrency Economy — Chainalysis](https://blog.chainalysis.com/reports/central-northern-western-europe-cryptocurrency-geography-report-2021-preview)
 - [Europe becomes largest crypto economy with over $1T in transactions — Chainalysis - Cointelegraph](https://cointelegraph.com/news/europe-becomes-largest-crypto-economy-with-over-1t-in-transactions-chainalysis)
 - [Revolut to Launch Crypto Token: Sources - CoinDesk](https://www.coindesk.com/business/2021/09/27/revolut-to-launch-crypto-token-sources/)
+- [DeFi Money Market Compound Overpays Millions in COMP Rewards in Possible Exploit; Founder Says $80M at Risk - CoinDesk](https://www.coindesk.com/tech/2021/09/30/defi-money-market-compound-overpays-15m-in-comp-rewards-in-possible-exploit/)
+- [Ripple Starts $250 Million Fund to Woo Would-Be NFT Creators - Bloomberg](https://www.bloomberg.com/news/articles/2021-09-29/ripple-starts-250-million-fund-to-woo-would-be-nft-creators)
+- [Morgan Stanley Europe Opportunity Fund Reports Doubling Bitcoin Holdings - Blockworks](https://blockworks.co/morgan-stanley-europe-opportunity-fund-reports-doubling-bitcoin-holdings/)
 
 ### Markets
 
