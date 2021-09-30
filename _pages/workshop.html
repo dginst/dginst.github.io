@@ -251,22 +251,24 @@ permalink: /workshop/
         <br>
         <div class='embed-container'>
             <div id="eventbrite-widget-container-182638616017"></div>
-            <button id="eventbrite-widget-modal-trigger-182638616017" type="button">Buy Tickets</button>
-    
+
             <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-    
+
             <script type="text/javascript">
-            var exampleCallback = function() {
-                console.log('Order complete!');
-            };
-    
-            window.EBWidgets.createWidget({
-                widgetType: 'checkout',
-                eventId: '182638616017',
-                modal: true,
-                modalTriggerElementId: 'eventbrite-widget-modal-trigger-182638616017',
-                onOrderComplete: exampleCallback
-            });
+                var exampleCallback = function() {
+                    console.log('Order complete!');
+                };
+
+                window.EBWidgets.createWidget({
+                    // Required
+                    widgetType: 'checkout',
+                    eventId: '182638616017',
+                    iframeContainerId: 'eventbrite-widget-container-182638616017',
+
+                    // Optional
+                    iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+                    onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+                });
             </script>
         </div>
         <hr class="primary">
