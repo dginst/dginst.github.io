@@ -17,20 +17,15 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-### Ecosystem - Kraken
-
-- [Kraken Reveals Security Vulnerabilities in Bitcoin ATMs - CoinDesk](https://www.coindesk.com/tech/2021/09/30/kraken-reveals-security-vulnerabilities-in-bitcoin-atms/)
-- [CFTC Imposes A $1.25 Million Penalty against Kraken for Offering Illegal Off-Exchange Digital Asset Trading and Failing to Register as Required - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8433-21)
-- [New requirements for U.S. and Starter tier clients to qualify for margin trading - Kraken Blog](https://blog.kraken.com/post/9514/new-requirements-for-u-s-and-starter-tier-clients-to-qualify-for-margin-trading/)
-
 ### Markets - China
 
 - [China’s Latest Crypto Ban Is Its Most Severe, Insiders Say - CoinDesk](https://www.coindesk.com/policy/2021/09/24/chinas-latest-crypto-ban-is-its-most-severe-insiders-say/)
 - [Major crypto exchanges stop letting Chinese users sign up after Beijing’s renewed crackdown - CNBC](https://www.cnbc.com/2021/09/27/cryptocurrency-exchanges-stop-chinese-users-signing-up-after-crackdown.html)
 - [Cryptocurrency exchanges start cutting off Chinese users - Financial Times](https://www.ft.com/content/9c42c660-7e80-47c2-8b3b-3398c6a22eaf)
-- [Bitcoin exchanges Binance and Huobi stop taking mainland Chinese users as Beijing steps up crackdown on cryptocurrencies - South China Morning Post](https://www.scmp.com/business/companies/article/3150149/bitcoin-exchanges-binance-and-huobi-stop-taking-mainland-chinese)
+- [Bitcoin exchanges Binance and Huobi stop taking mainland Chinese users - South China Morning Post](https://www.scmp.com/business/companies/article/3150149/bitcoin-exchanges-binance-and-huobi-stop-taking-mainland-chinese)
 - [Huobi to Gradually Expel Its China Users in Wake of Ban; Token Slides to 8-Month Low - CoinDesk](https://www.coindesk.com/markets/2021/09/26/huobi-to-gradually-expel-its-china-users-in-wake-of-ban-token-slides-to-8-month-low/)
 - [Crypto exchange Huobi to cease all mainland China user accounts - The Block Crypto](https://www.theblockcrypto.com/post/118711/crypto-exchange-huobi-cease-all-mainland-china-user-accounts)
+- [Huobi Global to Gradually Retire Existing Mainland China Users-Huobi Global-Official Huobi Website](https://www.huobi.com/support/en-us/detail/54886961978434)
 - [$50M in BTC Liquidated Following China Regulatory News - Blockworks](https://blockworks.co/crypto-markets-tumble-on-pboc-news/)
 - [This is why China finally killed its bitcoin boom - Wired](https://www.wired.co.uk/article/china-ban-bitcoin-cryptocurrencies)
 - [Many Exchanges in China Continue to Operate OTC Desks Despite ‘Ban’ - Blockworks](https://blockworks.co/many-exchanges-in-china-continue-to-operate-otc-desks-despite-ban/)
@@ -48,7 +43,7 @@ banner:
 
 ### Markets - ETF
 
-- [SEC chief Gary Gensler reiterates support for bitcoin futures ETFs as the regulator continues to mull approval for crypto funds - Markets Insider](https://markets.businessinsider.com/news/currencies/gary-gensler-sec-review-of-bitcoin-futures-etf-applications-2021-9)
+- [SEC chief Gary Gensler reiterates support for bitcoin futures ETFs - Markets Insider](https://markets.businessinsider.com/news/currencies/gary-gensler-sec-review-of-bitcoin-futures-etf-applications-2021-9)
 - [Gensler Reiterates Support for Futures-Based Bitcoin ETFs - CoinDesk](https://www.coindesk.com/policy/2021/09/29/gensler-reiterates-support-for-futures-based-bitcoin-etfs/)
 - [A Futures-based Bitcoin ETF Could Be Suboptimal. Here's Why - Blockworks](https://blockworks.co/a-futures-based-bitcoin-etf-could-be-suboptimal-heres-why/)
 
@@ -74,7 +69,7 @@ banner:
 
 ### Ecosystem - El Salvador
 
-- ["First steps... 🌋#Bitcoin" - Nayib Bukele on Twitter](https://twitter.com/nayibbukele/status/1442949756993490945)
+- ["Mining with volcano energy" - Nayib Bukele on Twitter](https://twitter.com/nayibbukele/status/1442949756993490945)
 - ["2.1 million Salvadorans are ACTIVELY USING @chivowallet (not downloads)" - Nayib Bukele on Twitter](https://twitter.com/nayibbukele/status/1441846960332361730)
 - [Almost a Third of Salvadorans Are Using the Bitcoin Wallet, Bukele Says - CoinDesk](https://www.coindesk.com/policy/2021/09/27/almost-a-third-of-salvadorans-are-using-the-bitcoin-wallet-bukele-says/)
 
