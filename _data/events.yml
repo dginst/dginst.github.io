@@ -39,14 +39,14 @@
   image:
     main: 20211214-workshop.jpg
     size: 200
-    thumb: 20211214-workshop-thumb.jpg
+    thumb: 20201020-workshop-thumb.jpg
   eventfeed: true
   published: true
 
 
   
 - title: "3rd Crypto Asset Lab Conference"
-  subtitle: 
+  subtitle: "La conferenza si concentra su tutti gli aspetti di Bitcoin e criptovalute, con un interesse speciale per investimenti, banche, finanza, servizi finanziari, teoria monetaria e regolazione."
   lang: en
   city: online
   date: 2021-11-04
