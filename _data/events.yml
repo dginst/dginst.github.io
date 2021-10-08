@@ -43,8 +43,6 @@
   eventfeed: true
   published: true
 
-
-  
 - title: "3rd Crypto Asset Lab Conference"
   subtitle: "La conferenza si concentra su tutti gli aspetti di Bitcoin e criptovalute, con un interesse speciale per investimenti, banche, finanza, servizi finanziari, teoria monetaria e regolazione."
   lang: en
@@ -66,6 +64,29 @@
     size: 350
     thumb: 20211104-cal2021-thumb.jpg
   eventfeed: true
+  published: true
+
+- title: "Bitcoin: moneta del futuro?"
+  subtitle: "Andrea Lombardi intervista Ferdinando M. Ametrano"
+  lang: it
+  city: online
+  date: 2021-10-13
+  date2:
+  hours: 18:00-19:00
+  organizer: Andrea Lombardi - C'è di peggio
+  address: 
+    text: diretta twitch
+    url: https://www.twitch.tv/cedipeggio
+  info:
+    text: Informazioni sul progetto
+    url: https://www.cedipeggio.it/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20211013-cedipeggio.jpg
+    size: 200
+    thumb: 
+  eventfeed: false
   published: true
 
 - title: "Criptovalute e moneta digitale"
