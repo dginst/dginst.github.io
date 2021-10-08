@@ -13,7 +13,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
 - **2021Q3**:
   Presentazione del report a cura di Ferdinando M. Ametrano ([video](https://youtu.be/1qQBQfy5UaY)
   e [slide]({{site.baseurl}}/docs/reports/2021Q3-presentation.pdf)).
-  Presentazione della terza conferenza del Crypto Asset Lab a cura di Paola Agnese Bongini ([slide]({{site.baseurl}}/docs/reports/2021Q3-CAL-PB.pdf)) e Mario Bellia ([slide]({{site.baseurl}}/docs/reports/2021Q3-JRC-MB.pdf)).
+  Presentazione della terza conferenza del Crypto Asset Lab a cura di Paola Agnese Bongini ([slide]({{site.baseurl}}/docs/reports/2021Q3-CAL-PB.pdf)) e Marco Petracco ([slide]({{site.baseurl}}/docs/reports/2021Q3-JRC-MB.pdf)).
 - **2021Q2**:
   report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q2_compressed.pdf) o
   [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q2-doppiapagina_compressed.pdf)) e
