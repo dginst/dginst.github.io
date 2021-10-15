@@ -40,7 +40,6 @@ banner:
 
 - [Bitcoin tops $60,000, nears record high, on growing U.S. ETF hopes - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-bitcoin-tops-60000-nears-record-high-on-growing-us-etf-hopes/)
 - [Cathie Wood’s ARK Will Give Its Name to a New ETF for Bitcoin Futures - Barron's](https://www.barrons.com/articles/cathie-woods-ark-new-etf-bitcoin-futures-51634210967)
-- [Bitcoin Futures ETFs Are Poised for Milestone With Debut in U.S. - Bloomberg](https://www.bloomberg.com/news/articles/2021-10-15/bitcoin-futures-etf-said-not-to-face-sec-opposition-at-deadline?sref=PFCuwcPr)
 - [Bitcoin Futures ETFs Are Poised for Milestone With Debut in U.S. - Bloomberg](https://www.bloomberg.com/news/articles/2021-10-15/bitcoin-futures-etf-said-not-to-face-sec-opposition-at-deadline)
 - [Bitwise Tries Once More for Spot Bitcoin ETP - Blockworks](https://blockworks.co/bitwise-tries-once-more-for-spot-bitcoin-etp/)
 
@@ -61,6 +60,12 @@ banner:
 - [Global Financial Stability Report, October 2021 - IMF](https://www.imf.org/en/Publications/GFSR/Issues/2021/10/12/global-financial-stability-report-october-2021)
 - [IMF Warns Stablecoins Could Pose 'Contagion Risk' to Global Financial System - Decrypt](https://decrypt.co/83276/imf-warns-stablecoins-could-pose-contagion-risk-global-financial-system)
 
+### Regulation - CBDC
+
+- [Fed: Technology Alone Cannot Disrupt Dollar Dominance - Blockworks](https://blockworks.co/fed-technology-alone-cannot-disrupt-dollar-dominance/)
+- [Nigerian central bank to launch digital currency within days - governor - Reuters](https://www.reuters.com/technology/nigerian-central-bank-launch-digital-currency-within-days-governor-2021-10-07/?taid=615f14da90c5510001ba671e)
+- [Your Money and Your Life - by Edward Snowden - Continuing Ed — with Edward Snowden](https://edwardsnowden.substack.com/p/cbdcs)
+[Why CBDCs make little sense, and will likely fail - Michele Mandelli](https://www.linkedin.com/pulse/why-cbdcs-make-little-sense-likely-fail-michele-mandelli/?trackingId=NGROA4bfQX216tGYFy3CXw%3D%3D)
 ### Ecosystem - El Salvador
 
 - [Unpopular opinion : El Salvador President Mr Nayab Bukele should not be praised by Crypto community : CryptoCurrency - Reddit](https://www.reddit.com/r/CryptoCurrency/comments/q3udz3/unpopular_opinion_el_salvador_president_mr_nayab/hfv3zee/?context=3)
@@ -77,12 +82,6 @@ banner:
 - [We Can Use as Much Energy as We Want, Forever — CoinDesk](https://www.coindesk.com/learn/2021/10/01/we-can-use-as-much-energy-as-we-want-forever/)
 - ["This Machine Greens" - Bitcoin Documentary - Online Premiere - YouTube](https://www.youtube.com/watch?v=b-7dMVcVWgc)
 - [Latest data shows the US now leads with 35% of Bitcoin’s hash rate - The Block Crypto](https://www.theblockcrypto.com/post/120372/us-lead-bitcoin-hash-rate-cambridge)
-
-### Regulation - CBDC
-
-- [Fed: Technology Alone Cannot Disrupt Dollar Dominance - Blockworks](https://blockworks.co/fed-technology-alone-cannot-disrupt-dollar-dominance/)
-- [Nigerian central bank to launch digital currency within days - governor - Reuters](https://www.reuters.com/technology/nigerian-central-bank-launch-digital-currency-within-days-governor-2021-10-07/?taid=615f14da90c5510001ba671e)
-- [Your Money and Your Life - by Edward Snowden - Continuing Ed — with Edward Snowden](https://edwardsnowden.substack.com/p/cbdcs)
 
 ### Ecosystem - Tether
 
