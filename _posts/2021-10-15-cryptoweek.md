@@ -19,7 +19,7 @@ banner:
 
 ### Markets
 
-- [JPMorgan Chase CEO Jamie Dimon says bitcoin is 'worthless'](https://www.cnbc.com/2021/10/11/jpmorgan-chase-ceo-jamie-dimon-says-bitcoin-is-worthless.html#Echobox=1633978330)
+- [JPMorgan Chase CEO Jamie Dimon says bitcoin is 'worthless' - CNBC](https://www.cnbc.com/2021/10/11/jpmorgan-chase-ceo-jamie-dimon-says-bitcoin-is-worthless.html#Echobox=1633978330)
 - [Morgan Stanley CEO says cryptocurrencies ‘aren’t going away' - The Block Crypto](https://www.theblockcrypto.com/linked/120678/morgan-stanley-ceo-says-cryptocurrencies-arent-going-away)
 - [Morgan Stanley CEO: Bitcoin Is Not Going Away - Nasdaq](https://www.nasdaq.com/articles/morgan-stanley-ceo%3A-bitcoin-is-not-going-away-2021-10-14)
 - [BlackRock CEO Sees 'Huge Opportunities' in Digital Currency - Blockworks](https://blockworks.co/blackrock-ceo-sees-huge-opportunities-in-digital-currency/)
