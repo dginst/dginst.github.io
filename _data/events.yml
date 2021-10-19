@@ -25,8 +25,8 @@
   subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
   lang: it
   city: online
-  date: 2021-12-14
-  date2: 2021-12-15
+  date: 2021-12-15
+  date2: 2021-12-16
   hours: 09:00-18:00
   organizer: Digital Gold Institute
   address: 
@@ -37,7 +37,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20211214-workshop.jpg
+    main: 20211215-workshop.jpg
     size: 200
     thumb: 20201020-workshop-thumb.jpg
   eventfeed: true
