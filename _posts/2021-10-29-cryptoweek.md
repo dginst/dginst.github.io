@@ -6,7 +6,7 @@ subtitle: "Il commento alle news crypto della settimana"
 author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
-youtube: 
+youtube: TLpSKioYqaM
 published: false
 cryptoweek: true
 podcast:
@@ -21,28 +21,21 @@ banner:
 
 ### Markets
 
-
 ### Ecosystem - Mt. Gox
-
 
 ### Markets - Balance sheeets
 
-
 ### Ecosystem - Venture Capital
-
 
 ### Ecosystem - Pimco
 
-
 ### Markets - Ethereum
-
 
 ### Ecosystem - Tether
 
 ### Ecosystem - Facebook
 
 ### Regulation
-
 
 ### Tech - Bitcoin
 
