@@ -20,15 +20,15 @@ banner:
 
 ### Markets - ETF
 
-- [Bitcoin tops $66,000, sets record as crypto goes mainstream](https://apnews.com/article/technology-business-bitcoin-exchange-traded-funds-6ddf8f3dfe0cd927ae988f5ddefe5fec)
+- [Bitcoin tops $66,000, sets record as crypto goes mainstream - AP News](https://apnews.com/article/technology-business-bitcoin-exchange-traded-funds-6ddf8f3dfe0cd927ae988f5ddefe5fec)
 - [U.S. futures-based bitcoin ETF rises in first day of trading, bitcoin nears record - Reuters](https://www.reuters.com/technology/bitcoin-nears-record-high-ahead-futures-etf-listing-2021-10-19/)
 - [First Bitcoin Futures ETF Rises in Trading Debut - WSJ](https://www.wsj.com/articles/first-bitcoin-futures-etf-rises-in-trading-debut-11634656217)
 - [First bitcoin futures ETF rises more than 4% in trading debut on the NYSE - CNBC](https://www.cnbc.com/2021/10/19/first-bitcoin-futures-etf-rises-2percent-in-trading-debut.html)
 - [Bitcoin jumps to new high above $66,000 after landmark U.S. ETF launch - CNBC](https://www.cnbc.com/2021/10/20/bitcoin-jumps-to-new-record-high-above-65000-after-landmark-us-etf-launch.html)
 - [Proshares Bitcoin Strategy ETF (BITO) Nearing Limit on Allowed Contracts - Bloomberg](https://www.bloomberg.com/news/articles/2021-10-21/bitcoin-etf-is-already-in-danger-of-breaching-a-limit-on-futures)
 - [CME Sees Record Open Interest in Bitcoin Futures Ahead of ETF Debut - CoinDesk](https://www.coindesk.com/markets/2021/10/18/cme-sees-record-open-interest-in-bitcoin-futures-ahead-of-etf-debut/)
-- [CME Takes Over as Largest Bitcoin Futures Exchange as BITO Pushes Limits](https://www.coindesk.com/markets/2021/10/22/cme-becomes-largest-bitcoin-futures-exchange-as-bito-nears-position-limits/)
-- [Cboe Acquires ErisX in Return to Crypto Derivatives Market](https://www.coindesk.com/business/2021/10/20/cboe-reenters-crypto-derivatives-market-with-erisx-acquisition/)
+- [CME Takes Over as Largest Bitcoin Futures Exchange as BITO Pushes Limits - CoinDesk](https://www.coindesk.com/markets/2021/10/22/cme-becomes-largest-bitcoin-futures-exchange-as-bito-nears-position-limits/)
+- [Cboe Acquires ErisX in Return to Crypto Derivatives Market - CoinDesk](https://www.coindesk.com/business/2021/10/20/cboe-reenters-crypto-derivatives-market-with-erisx-acquisition/)
 - [Cboe Agrees to Acquire ErisX, Entering Digital Asset Space with Spot, Derivatives and Clearing Platform - CBOE](https://ir.cboe.com/news-and-events/2021/10-20-2021/cboe-agrees-acquire-erisx-entering-digital-asset-space-spot-derivatives-and-clearing-platform)
 - [Second Bitcoin-Linked ETF In The US To Begin Trading On Friday - Nasdaq](https://www.nasdaq.com/articles/second-bitcoin-linked-etf-in-the-us-to-begin-trading-on-friday-2021-10-20)
 - [Investors look to exploit lucrative trade after US bitcoin ETF launch - Financial Times](https://www.ft.com/content/eda57010-e677-4603-94ef-f582396d1d7a)
@@ -39,9 +39,9 @@ banner:
 
 ### Markets
 
-- [Bitcoin’s Inflation Narrative More Compelling Than ETF Fever, JPM Says](https://www.coindesk.com/markets/2021/10/21/bitcoins-inflation-narrative-more-compelling-than-etf-fever-jpm-says/)
+- [Bitcoin’s Inflation Narrative More Compelling Than ETF Fever, JPM Says - CoinDesk](https://www.coindesk.com/markets/2021/10/21/bitcoins-inflation-narrative-more-compelling-than-etf-fever-jpm-says/)
 - [JPMorgan Says Bitcoin’s Record Run Is Being Driven by Inflation - Bloomberg](https://www.bloomberg.com/news/articles/2021-10-20/jpmorgan-says-bitcoin-s-record-run-is-being-driven-by-inflation)
-- [Paul Tudor Jones says crypto is his preferred inflation hedge over gold right now](https://www.cnbc.com/2021/10/20/paul-tudor-jones-says-crypto-is-his-preferred-inflation-hedge-over-gold-right-now.html)
+- [Paul Tudor Jones says crypto is his preferred inflation hedge over gold right now - CNBC](https://www.cnbc.com/2021/10/20/paul-tudor-jones-says-crypto-is-his-preferred-inflation-hedge-over-gold-right-now.html)
 - [Bitcoin Is Preferred Inflation Hedge Over Gold: Paul Tudor Jones - Decrypt](https://decrypt.co/83913/bitcoin-is-preferred-inflation-hedge-over-gold-paul-tudor-jones)
 
 ### Ecosystem - Mt. Gox
@@ -51,7 +51,7 @@ banner:
 
 ### Markets - Balance sheeets
 
-- [Chainalysis Adds Bitcoin to Balance Sheet](https://www.coindesk.com/business/2021/10/19/chainalysis-adds-bitcoin-to-balance-sheet/)
+- [Chainalysis Adds Bitcoin to Balance Sheet - CoinDesk](https://www.coindesk.com/business/2021/10/19/chainalysis-adds-bitcoin-to-balance-sheet/)
 
 ### Ecosystem - Venture Capital
 
@@ -59,14 +59,14 @@ banner:
 - [FTX raises $420 million in funding round with backing from 69 investors including Tiger Global, Ribbit Capital - The Block Crypto](https://www.theblockcrypto.com/post/121428/ftx-420-million-round-69-investors-tiger-ribbit)
 - [Crypto Exchange FTX Hits $25 Billion Valuation in Latest Funding Round - Decrypt](https://decrypt.co/84001/crypto-exchange-ftx-hits-25-billion-valuation-latest-funding-round)
 - [Sam Bankman-Fried’s FTX Raises Precisely $420.69M - Blockworks](https://blockworks.co/sam-bankman-frieds-ftx-raises-precisely-420-69m/)
-- [UK crypto firm Copper set to raise up to $500 million](https://www.theblockcrypto.com/post/121517/uk-crypto-firm-copper-raise-500-million)
-- [Société Générale Shopping for Crypto Custodian: Sources](https://www.coindesk.com/business/2021/10/18/societe-generale-shopping-for-a-crypto-custodian-sources/)
+- [UK crypto firm Copper set to raise up to $500 million - The Block Crypto](https://www.theblockcrypto.com/post/121517/uk-crypto-firm-copper-raise-500-million)
+- [Société Générale Shopping for Crypto Custodian: Sources - CoinDesk](https://www.coindesk.com/business/2021/10/18/societe-generale-shopping-for-a-crypto-custodian-sources/)
 
 ### Ecosystem - Pimco
 
-- [Fixed-income titan Pimco is starting to embrace cryptocurrencies, CIO says](https://www.cnbc.com/2021/10/20/pimco-cio-daniel-ivascyn-says-his-firm-is-putting-capital-to-work-in-cryptocurrencies.html)
+- [Fixed-income titan Pimco is starting to embrace cryptocurrencies, CIO says - CNBC](https://www.cnbc.com/2021/10/20/pimco-cio-daniel-ivascyn-says-his-firm-is-putting-capital-to-work-in-cryptocurrencies.html)
 - [Pimco Embracing Digital Assets as Crypto Market Cap Crosses $2.7 Trillion - Blockworks](https://blockworks.co/pimco-embracing-digital-assets-as-crypto-market-cap-crosses-2-7-trillion/)
-- [Investing giant Pimco is considering trading cryptocurrencies](https://www.theblockcrypto.com/linked/121524/investing-giant-pimco-is-considering-trading-cryptocurrencies)
+- [Investing giant Pimco is considering trading cryptocurrencies - The Block Crypto](https://www.theblockcrypto.com/linked/121524/investing-giant-pimco-is-considering-trading-cryptocurrencies)
 
 ### Markets - Ethereum
 
@@ -74,8 +74,8 @@ banner:
 
 ### Ecosystem - Tether
 
-- [CFTC fines Tether and Bitfinex $42.5 million over USDT backing](https://www.theblockcrypto.com/linked/120820/cftc-fines-tether-and-bitfinex-42-5-million-over-usdt-backing)
-- [CFTC Fines Tether and Bitfinex $42.5M for ‘Untrue or Misleading’ Claims](https://www.coindesk.com/policy/2021/10/15/cftc-fines-tether-and-bitfinex-425m-for-untrue-or-misleading-claims/)
+- [CFTC fines Tether and Bitfinex $42.5 million over USDT backing - The Block Crypto](https://www.theblockcrypto.com/linked/120820/cftc-fines-tether-and-bitfinex-42-5-million-over-usdt-backing)
+- [CFTC Fines Tether and Bitfinex $42.5M for ‘Untrue or Misleading’ Claims - CoinDesk](https://www.coindesk.com/policy/2021/10/15/cftc-fines-tether-and-bitfinex-425m-for-untrue-or-misleading-claims/)
 - [CFTC Orders Tether and Bitfinex to Pay Fines Totaling $42.5 Million - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8450-21)
 
 ### Ecosystem - Facebook
@@ -89,15 +89,15 @@ banner:
 ### Regulation
 
 - [G7 finance leaders lay out guidelines for central bank digital currencies - The Economic Times](https://economictimes.indiatimes.com/tech/tech-bytes/g7-finance-leaders-lay-out-guidelines-for-central-bank-digital-currencies/articleshow/87012431.cms)
-- [FATF Will Finally Publish Crypto Anti-Money Laundering Guidance Next Week](https://www.coindesk.com/policy/2021/10/21/fatf-to-publish-crypto-aml-guidance-next-week/)
-- [FATF has finalized its crypto guidance and plans release next week](https://www.theblockcrypto.com/linked/121654/fatf-has-finalized-its-crypto-guidance-and-plans-release-next-week)
+- [FATF Will Finally Publish Crypto Anti-Money Laundering Guidance Next Week - CoinDesk](https://www.coindesk.com/policy/2021/10/21/fatf-to-publish-crypto-aml-guidance-next-week/)
+- [FATF has finalized its crypto guidance and plans release next week - The Block Crypto](https://www.theblockcrypto.com/linked/121654/fatf-has-finalized-its-crypto-guidance-and-plans-release-next-week)
 
 ### Tech - Bitcoin
 
 - [Newsletters - Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
 - [Mark Cuban is a Rent-Seeker. Bitcoin Tech Talk #262 - by Jimmy Song - Bitcoin Tech Talk](https://jimmysong.substack.com/p/mark-cuban-is-a-rent-seeker)
-- [[bitcoin-dev] On the regularity of soft forks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-October/019535.html)
-- [Cryptology ePrint Archive: Report 2021/1375 - How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures](https://eprint.iacr.org/2021/1375)
+- [[bitcoin-dev] On the regularity of soft forks - Linux Foundation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-October/019535.html)
+- How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures - Report 2021/1375, Cryptology ePrint Archive](https://eprint.iacr.org/2021/1375)
 - [DIDs Built On Bitcoin Fix The Web - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/dids-built-on-bitcoin-fix-the-web)
 
 ### Digital Gold Institute
