@@ -96,8 +96,8 @@ banner:
 
 - [Newsletters - Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
 - [Mark Cuban is a Rent-Seeker. Bitcoin Tech Talk #262 - by Jimmy Song - Bitcoin Tech Talk](https://jimmysong.substack.com/p/mark-cuban-is-a-rent-seeker)
-- [[bitcoin-dev] On the regularity of soft forks - Linux Foundation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-October/019535.html)
-- How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures - Report 2021/1375, Cryptology ePrint Archive](https://eprint.iacr.org/2021/1375)
+- [On the regularity of soft forks - Linux Foundation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-October/019535.html)
+- [How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures - Report 2021/1375, Cryptology ePrint Archive](https:/eprint.iacr.org/2021/1375)
 - [DIDs Built On Bitcoin Fix The Web - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/dids-built-on-bitcoin-fix-the-web)
 
 ### Digital Gold Institute
