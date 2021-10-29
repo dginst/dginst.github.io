@@ -19,19 +19,19 @@ banner:
 
 ### Markets
 
-- [El Salvador announces purchase of 420 bitcoin, worth nearly $25 million](https://www.theblockcrypto.com/linked/122360/el-salvador-announces-purchase-of-420-bitcoin-worth-nearly-25-million)
+- [El Salvador announces purchase of 420 bitcoin, worth nearly $25 million - The Block Crypto](https://www.theblockcrypto.com/linked/122360/el-salvador-announces-purchase-of-420-bitcoin-worth-nearly-25-million)
 - [El Salvador ‘Buys the Dip,’ Acquires 420 Additional Bitcoin - CoinDesk](https://www.coindesk.com/business/2021/10/28/el-salvador-buys-the-dip-acquires-420-additional-bitcoin/)
-- [MicroStrategy Adds Almost 9,000 Bitcoins to Its Holdings in Third Quarter](https://www.coindesk.com/business/2021/10/28/microstrategy-added-almost-9000-bitcoins-to-its-holdings-in-third-quarter/)
-- [Rand Paul questioning if crypto could become world reserve currency - TheHill](https://thehill.com/homenews/senate/578303-rand-paul-questioning-if-cryptocurrency-could-become-world-reserve-currency)
-- [Those who do their homework end up investing in bitcoin: Scaramucci](https://www.cnbc.com/2021/10/25/those-who-do-their-homework-end-up-investing-in-bitcoin-scaramucci.html)
-- [Coinbase hits number 1 spot on Apple’s US App Store](https://www.theblockcrypto.com/linked/122445/coinbase-hits-number-1-spot-apple-us-app-store)
+- [MicroStrategy Adds Almost 9,000 Bitcoins to Its Holdings in Third Quarter - CoinDesk](https://www.coindesk.com/business/2021/10/28/microstrategy-added-almost-9000-bitcoins-to-its-holdings-in-third-quarter/)
+- [Rand Paul questioning if crypto could become world reserve currency - The Hill](https://thehill.com/homenews/senate/578303-rand-paul-questioning-if-cryptocurrency-could-become-world-reserve-currency)
+- [Those who do their homework end up investing in bitcoin: Scaramucci - CNBC](https://www.cnbc.com/2021/10/25/those-who-do-their-homework-end-up-investing-in-bitcoin-scaramucci.html)
+- [Coinbase hits number 1 spot on Apple’s US App Store - The Block Crypto](https://www.theblockcrypto.com/linked/122445/coinbase-hits-number-1-spot-apple-us-app-store)
 - [Bitcoin as a real asset - Financial Times](https://www.ft.com/content/3a0275b2-1e3e-442e-ad84-43b2697a4b19)
 
 ### Markets - Altcoins
 
 - [Shiba Inu Coin Price Jumps, Could Overtake Meme Cryptocurrency Dogecoin - WSJ](https://www.wsj.com/articles/shiba-inu-coin-price-jumps-could-overtake-meme-cryptocurrency-dogecoin-11635350665)
 - [Dogecoin watch out! ‘Shiba inu’ token muscles into cryptocurrency top 10 - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-dogecoin-watch-out-shiba-inu-token-muscles-into-cryptocurrency-top-10/)
-- [SHIB overtakes DOGE as rival memecoin surpasses market capitalization](https://www.theblockcrypto.com/linked/122323/shib-overtakes-doge-as-rival-memecoin-surpasses-market-capitalization)
+- [SHIB overtakes DOGE as rival memecoin surpasses market capitalization - The Block Crypto](https://www.theblockcrypto.com/linked/122323/shib-overtakes-doge-as-rival-memecoin-surpasses-market-capitalization)
 - [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1452334458066149377)
 - [Squid Game cryptocurrency rockets in first few days of trading - BBC News](https://www.bbc.com/news/business-59059097)
 
@@ -44,26 +44,26 @@ banner:
 
 ### Ecosystem - NFT
 
-- [Facebook’s Metaverse Will Support NFTs](https://www.coindesk.com/business/2021/10/28/facebooks-metaverse-will-support-nfts/)
+- [Facebook’s Metaverse Will Support NFTs - CoinDesk](https://www.coindesk.com/business/2021/10/28/facebooks-metaverse-will-support-nfts/)
 - [Facebook Goes All In on Metaverse With New Company Name Meta, NFT Push - Decrypt](https://decrypt.co/84721/facebook-metaverse-new-company-name-meta-nft)
 - [Adobe offers users the ability to verify NFT marketplace creations through metadata - Cointelegraph](https://cointelegraph.com/news/adobe-offers-users-the-ability-to-verify-nft-marketplace-creations-through-metadata)
-- [Adobe unleashes Content Attribution Features in Photoshop and Beyond at MAX 2021|Adobe](https://blog.adobe.com/en/publish/2021/10/26/adobe-unleashes-content-attribution-features-photoshop-beyond-max-2021.html#gs.exe6hz)
-- [Larva Labs on Twitter](https://twitter.com/larvalabs/status/1453903818308083720)
+- [Adobe unleashes Content Attribution Features in Photoshop and Beyond at MAX 2021 - Adobe](https://blog.adobe.com/en/publish/2021/10/26/adobe-unleashes-content-attribution-features-photoshop-beyond-max-2021.html#gs.exe6hz)
+- [Larva Labs - Twitter](https://twitter.com/larvalabs/status/1453903818308083720)
 - [flashloan and NFT - Twitter](https://twitter.com/bertcmiller/status/1453876703273627656)
 
 ### Ecosystem - DeFi
 
 - [Goldman Sachs: DeFi Has Its Advantages Over Traditional Finance - Blockworks](https://blockworks.co/goldman-sachs-defi-has-its-advantages-over-traditional-finance/)
-- [Cream Finance Exploited in Flash Loan Attack Netting Over $100M](https://www.coindesk.com/business/2021/10/27/cream-finance-exploited-in-flash-loan-attack-worth-over-100m/)
+- [Cream Finance Exploited in Flash Loan Attack Netting Over $100M - CoinDesk](https://www.coindesk.com/business/2021/10/27/cream-finance-exploited-in-flash-loan-attack-worth-over-100m/)
 
 ### Regulation - FATF/GAFI
 
 - [U.S. regulators barely corralling feverish bitcoin mania - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-us-regulators-barely-corralling-feverish-bitcoin-mania/)
 - [FATF Crypto Guidance Is Out: Here's What Has Changed - Decrypt](https://decrypt.co/84716/fatf-crypto-guidance-what-has-changed)
-- [FATF Crypto Guidance Looks to Bring Industry in Line With Banks](https://www.coindesk.com/policy/2021/10/28/fatf-crypto-guidance-looks-to-bring-industry-in-line-with-banks/)
+- [FATF Crypto Guidance Looks to Bring Industry in Line With Banks - CoinDesk](https://www.coindesk.com/policy/2021/10/28/fatf-crypto-guidance-looks-to-bring-industry-in-line-with-banks/)
 - [Us Regulators Are Developing Guidelines for Banks to Hold Crypto Assets, Report Says - Indipendent](https://www.independent.co.uk/life-style/gadgets-and-tech/us-regulators-banks-crypto-assets-b1946199.html)
 - [US regulators exploring how banks could hold crypto assets - Reuters](https://www.reuters.com/business/finance/us-regulators-exploring-how-banks-could-hold-crypto-assets-fdic-chairman-2021-10-26/)
-- [FDIC chair says the agency is focused on developing 'clear guidance' for banks' crypto activities, stablecoins](https://www.theblockcrypto.com/linked/122073/fdic-chair-says-the-agency-is-focused-on-developing-clear-guidance-for-banks-crypto-activities-stablecoins)
+- [FDIC chair says the agency is focused on developing 'clear guidance' for banks' crypto activities, stablecoins - The Block Crypto](https://www.theblockcrypto.com/linked/122073/fdic-chair-says-the-agency-is-focused-on-developing-clear-guidance-for-banks-crypto-activities-stablecoins)
 - [Caitlin Long - Twitter](https://twitter.com/CaitlinLong_/status/1452656017251217411)
 
 ### Tech - Bitcoin
