@@ -17,57 +17,63 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+### Markets
 
-- [Reddit says it wants to build the biggest creator economy on the internet using its own NFT platform - Business Insider](https://markets.businessinsider.com/news/currencies/reddit-nft-marketplace-build-biggest-creator-economy-crypto-platform-job-2021-10)
-- [Saudi Central Bank Mulls Blockchain for Finance, Rejects Phasing Out Cash: Report - CoinDesk](https://www.coindesk.com/markets/2021/10/25/saudi-central-bank-mulls-blockchain-for-finance-rejects-phasing-out-cash-report/)
-- [Ant Group, Tencent Change NFT References to ‘Digital Collectibles’: Report - CoinDesl](https://www.coindesk.com/policy/2021/10/25/ant-group-tencent-change-nft-references-to-digital-collectibles-report/)
-- [SEC Gets Path to Rein In Stablecoins as US Weighs New Rules- Bloomberg](https://www.bloomberg.com/news/articles/2021-10-25/sec-gets-path-to-rein-in-stablecoins-as-u-s-weighs-new-rules)
-- [Mastercard to Allow Crypto Purchases Across Its Network - Nasdaq](https://www.nasdaq.com/articles/mastercard-to-allow-crypto-purchases-across-its-network-2021-10-26)
-- [Mastercard says any bank or merchant on its vast network can soon offer crypto services - CNBC](https://www.cnbc.com/2021/10/25/mastercard-says-any-bank-or-merchant-on-its-vast-network-can-soon-offer-crypto-services.html)
-- [Time to roll out your crypto strategy - Fortune](https://fortune.com/2021/10/26/time-to-roll-out-your-crypto-strategy/)
-- [US regulators exploring how banks could hold crypto assets - Reuters](https://www.reuters.com/business/finance/us-regulators-exploring-how-banks-could-hold-crypto-assets-fdic-chairman-2021-10-26/)
-- [Us Regulators Are Developing Guidelines for Banks to Hold Crypto Assets, Report Says - Indipendent](https://www.independent.co.uk/life-style/gadgets-and-tech/us-regulators-banks-crypto-assets-b1946199.html)
-- [Adobe offers users the ability to verify NFT marketplace creations through metadata - Cointelegraph](https://cointelegraph.com/news/adobe-offers-users-the-ability-to-verify-nft-marketplace-creations-through-metadata)
-- [Adobe unleashes Content Attribution features in Photoshop and beyond at MAX 2021](https://blog.adobe.com/en/publish/2021/10/26/adobe-unleashes-content-attribution-features-photoshop-beyond-max-2021.
-html#gs.ewy8cb)
-- [Unicorn Status for CoinList After $100M Raise at $1.5B Valuation - BlockWorks](https://blockworks.co/unicorn-status-for-coinlist-after-100m-raise-at-1-5b-valuation/)
-- [China to Release National Blockchain Standard Next Year, Says Official: Report - CoinDesk](https://www.coindesk.com/policy/2021/10/28/china-to-release-national-blockchain-standard-next-year-says-official-report/)
-- [DeFi Protocol Cream Finance Loses $130 Million in Latest Crypto Hack - Bloomberg](https://www.bloomberg.com/news/articles/2021-10-27/defi-protocol-cream-finance-loses-130-million-in-latest-hack)
-- [Wharton to Accept Crypto as Tuition Payment for Blockchain Class - Bloomberg](https://www.bloomberg.com/news/articles/2021-10-28/wharton-to-accept-crypto-as-tuition-payment-for-blockchain-class)
-- [Wharton Launches Economics of Blockchain and Digital Assets Executive Education Online Certificate Program, Becoming First Ivy League School to Accept Enrollment Payment in Crypto via Coinbase - Wharton University of Pennsylvania](https://news.wharton.upenn.edu/press-releases/2021/10/wharton-launches-economics-of-blockchain-and-digital-assets-executive-education-online-certificate-program/)
-- [Kraken Intelligence: 'Shocktober' was a HODLers Paradise - Blockworks](https://blockworks.co/kraken-intelligence-shocktober-was-a-hodlers-paradise/)
-- [SHOCKTOBER - Kraken](https://blog.kraken.com/post/11714/s-h-o-c-k-t-o-b-e-r/)
-- [Bitcoin Shocktober Continues To Outperform Altcoins En Masse - Business Insider](https://markets.businessinsider.com/news/stocks/bitcoin-shocktober-continues-to-outperform-altcoins-en-masse-10616414)
--[El Salvador ‘Buys the Dip,’ Acquires 420 Additional Bitcoin - CoinDesk](https://www.coindesk.com/business/2021/10/28/el-salvador-buys-the-dip-acquires-420-additional-bitcoin/)
-- [Bitcoin Back Over $60K as El Salvador Buys 420 BTC - CoinDesk](https://www.coindesk.com/markets/2021/10/28/bitcoin-back-over-60k-as-el-salvador-buys-420-btc/)
-- [Someone bought $3,400 worth of SHIB last August. It’s now worth $1.55 billion - Cointelegraph](https://cointelegraph.com/news/someone-bought-3-400-worth-of-shib-last-august-it-s-now-worth-1-55-billion)
-- [An $8K Shiba Inu Investment Turned Into $5.7 Billion. But Can They Cash Out? - Vice](https://www.vice.com/en/article/7kbpb9/an-dollar8k-shiba-inu-investment-turned-into-dollar57-billion-but-can-they-cash-out)
+- [El Salvador announces purchase of 420 bitcoin, worth nearly $25 million](https://www.theblockcrypto.com/linked/122360/el-salvador-announces-purchase-of-420-bitcoin-worth-nearly-25-million)
+- [El Salvador ‘Buys the Dip,’ Acquires 420 Additional Bitcoin - CoinDesk](https://www.coindesk.com/business/2021/10/28/el-salvador-buys-the-dip-acquires-420-additional-bitcoin/)
+- [MicroStrategy Adds Almost 9,000 Bitcoins to Its Holdings in Third Quarter](https://www.coindesk.com/business/2021/10/28/microstrategy-added-almost-9000-bitcoins-to-its-holdings-in-third-quarter/)
+- [Rand Paul questioning if crypto could become world reserve currency - TheHill](https://thehill.com/homenews/senate/578303-rand-paul-questioning-if-cryptocurrency-could-become-world-reserve-currency)
+- [Those who do their homework end up investing in bitcoin: Scaramucci](https://www.cnbc.com/2021/10/25/those-who-do-their-homework-end-up-investing-in-bitcoin-scaramucci.html)
+- [Coinbase hits number 1 spot on Apple’s US App Store](https://www.theblockcrypto.com/linked/122445/coinbase-hits-number-1-spot-apple-us-app-store)
+- [Bitcoin as a real asset - Financial Times](https://www.ft.com/content/3a0275b2-1e3e-442e-ad84-43b2697a4b19)
+
+### Markets - Altcoins
+
+- [Shiba Inu Coin Price Jumps, Could Overtake Meme Cryptocurrency Dogecoin - WSJ](https://www.wsj.com/articles/shiba-inu-coin-price-jumps-could-overtake-meme-cryptocurrency-dogecoin-11635350665)
+- [Dogecoin watch out! ‘Shiba inu’ token muscles into cryptocurrency top 10 - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-dogecoin-watch-out-shiba-inu-token-muscles-into-cryptocurrency-top-10/)
+- [SHIB overtakes DOGE as rival memecoin surpasses market capitalization](https://www.theblockcrypto.com/linked/122323/shib-overtakes-doge-as-rival-memecoin-surpasses-market-capitalization)
+- [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1452334458066149377)
+- [Squid Game cryptocurrency rockets in first few days of trading - BBC News](https://www.bbc.com/news/business-59059097)
 
 ### Markets - ETF
 
-### Markets
+- [VanEck Ready to Launch Delayed Bitcoin Futures ETF - Blockworks](https://blockworks.co/vaneck-ready-to-launch-delayed-bitcoin-futures-etf/)
+- [Grayscale's LaValle sees potential for the SEC to approve its spot bitcoin ETF by July 2022 - MarketWatch](https://www.marketwatch.com/story/grayscales-lavalle-expects-the-sec-to-approve-its-spot-bitcoin-etf-by-july-2022-11635371105)
+- [CME's quarterly profit jumps, bitcoin futures surge - Reuters](https://www.reuters.com/business/finance/exchange-operator-cmes-quarterly-profit-jumps-125-2021-10-27/)
+- [Bitcoin ETF’s Success Could Come at Fundholders’ Expense - WSJ](https://www.wsj.com/articles/bitcoin-etfs-success-could-come-at-fundholders)
 
-### Ecosystem - Mt. Gox
+### Ecosystem - NFT
 
-### Markets - Balance sheeets
+- [Facebook’s Metaverse Will Support NFTs](https://www.coindesk.com/business/2021/10/28/facebooks-metaverse-will-support-nfts/)
+- [Facebook Goes All In on Metaverse With New Company Name Meta, NFT Push - Decrypt](https://decrypt.co/84721/facebook-metaverse-new-company-name-meta-nft)
+- [Adobe offers users the ability to verify NFT marketplace creations through metadata - Cointelegraph](https://cointelegraph.com/news/adobe-offers-users-the-ability-to-verify-nft-marketplace-creations-through-metadata)
+- [Adobe unleashes Content Attribution Features in Photoshop and Beyond at MAX 2021|Adobe](https://blog.adobe.com/en/publish/2021/10/26/adobe-unleashes-content-attribution-features-photoshop-beyond-max-2021.html#gs.exe6hz)
+- [Larva Labs on Twitter](https://twitter.com/larvalabs/status/1453903818308083720)
+- [flashloan and NFT - Twitter](https://twitter.com/bertcmiller/status/1453876703273627656)
 
-### Ecosystem - Venture Capital
+### Ecosystem - DeFi
 
-### Ecosystem - Pimco
+- [Goldman Sachs: DeFi Has Its Advantages Over Traditional Finance - Blockworks](https://blockworks.co/goldman-sachs-defi-has-its-advantages-over-traditional-finance/)
+- [Cream Finance Exploited in Flash Loan Attack Netting Over $100M](https://www.coindesk.com/business/2021/10/27/cream-finance-exploited-in-flash-loan-attack-worth-over-100m/)
 
-### Markets - Ethereum
+### Regulation - FATF/GAFI
 
-### Ecosystem - Tether
-
-### Ecosystem - Facebook
-
-### Regulation
+- [U.S. regulators barely corralling feverish bitcoin mania - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-us-regulators-barely-corralling-feverish-bitcoin-mania/)
+- [FATF Crypto Guidance Is Out: Here's What Has Changed - Decrypt](https://decrypt.co/84716/fatf-crypto-guidance-what-has-changed)
+- [FATF Crypto Guidance Looks to Bring Industry in Line With Banks](https://www.coindesk.com/policy/2021/10/28/fatf-crypto-guidance-looks-to-bring-industry-in-line-with-banks/)
+- [Us Regulators Are Developing Guidelines for Banks to Hold Crypto Assets, Report Says - Indipendent](https://www.independent.co.uk/life-style/gadgets-and-tech/us-regulators-banks-crypto-assets-b1946199.html)
+- [US regulators exploring how banks could hold crypto assets - Reuters](https://www.reuters.com/business/finance/us-regulators-exploring-how-banks-could-hold-crypto-assets-fdic-chairman-2021-10-26/)
+- [FDIC chair says the agency is focused on developing 'clear guidance' for banks' crypto activities, stablecoins](https://www.theblockcrypto.com/linked/122073/fdic-chair-says-the-agency-is-focused-on-developing-clear-guidance-for-banks-crypto-activities-stablecoins)
+- [Caitlin Long - Twitter](https://twitter.com/CaitlinLong_/status/1452656017251217411)
 
 ### Tech - Bitcoin
 
+- [Bitcoin Optech Newsletter #172](https://bitcoinops.org/en/newsletters/2021/10/27/)
+
 ### Digital Gold Institute
 
+- ["Bitcoin è l’equivalente digitale dell’oro. Non scomparirà" - L'HuffPost](https://www.huffingtonpost.it/entry/ametrano-bitcoin-e-lequivalente-digitale-delloro-non-scomparira_it_6177dcbce4b03072d6fbb0ce)
 - [Il report trimestrale del Digital Gold Institute](https://dgi.io/reports/)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
-- [CAL2021 Conference - Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/calconf/)
+- [CAL2021 Conference - Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/cal2021/)
