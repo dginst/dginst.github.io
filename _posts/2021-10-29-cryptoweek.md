@@ -72,7 +72,7 @@ banner:
 
 ### Digital Gold Institute
 
-- ["Bitcoin è l’equivalente digitale dell’oro. Non scomparirà" - L'HuffPost](https://www.huffingtonpost.it/entry/ametrano-bitcoin-e-lequivalente-digitale-delloro-non-scomparira_it_6177dcbce4b03072d6fbb0ce)
+- ["Bitcoin è l’equivalente digitale dell’oro. Non scomparirà" - Huffington Post](https://www.huffingtonpost.it/entry/ametrano-bitcoin-e-lequivalente-digitale-delloro-non-scomparira_it_6177dcbce4b03072d6fbb0ce)
 - [Il report trimestrale del Digital Gold Institute](https://dgi.io/reports/)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
