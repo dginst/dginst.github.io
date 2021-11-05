@@ -2,9 +2,9 @@
   subtitle: "Il commento alle news crypto della settimana a cura di Ferdinando M. Ametrano."
   lang: it
   city: online
-  date: 2021-11-05
+  date: 2021-11-06
   date2:
-  hours: 18:00-18:45
+  hours: 10:00-10:45
   organizer: Digital Gold Institute
   address:
     text: live streaming
@@ -15,7 +15,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 2021-cryptoweek.jpg
+    main: 2021-11-06-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
   eventfeed: true
