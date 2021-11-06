@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #40"
+title: "CryptoWeek #40 con Andrea Berruto"
 subtitle: "Il commento alle news crypto della settimana" 
 author: "Staff"
 image:
