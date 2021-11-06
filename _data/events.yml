@@ -8,14 +8,14 @@
   organizer: Digital Gold Institute
   address:
     text: live streaming
-    url: https://youtu.be/6U-DoH2vNo8
+    url: https://youtu.be/ApD9fs33eaI
   info:
     text: CryptoWeek
     url: https://dgi.io/cryptoweek
   discount_code:
   discount_code_publish:
   image:
-    main: 2021-11-06-cryptoweek.jpg
+    main: 2021-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
   eventfeed: true
