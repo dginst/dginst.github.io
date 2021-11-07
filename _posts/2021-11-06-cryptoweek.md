@@ -19,7 +19,7 @@ banner:
 
 ### Markets
 
-- [October 2021 On-Chain Digest- Kraken](https://kraken.docsend.com/view/z7pn3uzfxhkn9j72)
+- [October 2021 On-Chain Digest - Kraken](https://kraken.docsend.com/view/z7pn3uzfxhkn9j72)
 - [Bitcoin Exchange Flows - CryptoQuant](https://cryptoquant.com/overview/btc-exchange-flows)
 - [Bitcoin (BTC) - ViewBase](https://www.viewbase.com/coin/bitcoin)
 - [Outlook Cryptos Nov 2021 - Bloomberg](https://assets.bbhub.io/promo/sites/12/1465773_Crypto-November2021Outlook.pdf?link=button-header)
@@ -109,7 +109,7 @@ banner:
 ### Digital Gold Institute
 
 - [CAL2021 Conference - Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/cal2021/)
-- [Bitcoin: Come custodirlo in sicurezza - Alfonso Selva Spotify](https://open.spotify.com/episode/19AXUxhCGklTN5C7zVFna6)
-- [Bitcoin: Come custodirlo in sicurezza - Alfonso Selva YouTube](https://www.youtube.com/watch?v=098b3rJFvCc)
+- [Bitcoin: come custodirlo in sicurezza - Alfonso Selva Spotify](https://open.spotify.com/episode/19AXUxhCGklTN5C7zVFna6)
+- [Bitcoin: come custodirlo in sicurezza - Alfonso Selva YouTube](https://www.youtube.com/watch?v=098b3rJFvCc)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
