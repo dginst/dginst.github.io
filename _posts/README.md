@@ -36,7 +36,7 @@ permalink: /cryptoweekinternal/
   * foto: thumb con specific date da recuperare nella cartella "post" del repository
   * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/11/19/cryptoweek
 * LinkedIn: aggiungere speaker e descrizione all'evento dedicato
-* Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio (https://business.facebook.com/creatorstudio, quindi Content Library)
+* Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio (andare su https://business.facebook.com/creatorstudio, dal menù selezionare "Content Library", poi selezionare "Playlists"; quindi dal menu ad hamburger della playlist "CryptoWeek" selezionare "Edit Playlist" per visualizzare tutti i video contenuti nella playlist. A questo punto fare "Add Videos" e selezionare il video del nuovo live.)
 * YouTube: aggiornare nuovo video
   * marcare, tra le opzioni nascoste, il nuovo prossimo livestream come "contenuto sponsorizzato"
   * lasciare il nuovo prossimo livestream come "non adatto ai bambini"
