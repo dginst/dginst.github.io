@@ -2,9 +2,9 @@
   subtitle: "Il commento alle news crypto della settimana a cura di Ferdinando M. Ametrano."
   lang: it
   city: online
-  date: 2021-11-06
+  date: 2021-11-12
   date2:
-  hours: 10:00-10:45
+  hours: 18:00-18:45
   organizer: Digital Gold Institute
   address:
     text: live streaming
@@ -18,6 +18,29 @@
     main: 2021-cryptoweek.jpg
     size: 200
     thumb: cryptoweek-thumb.jpg
+  eventfeed: true
+  published: true
+  
+- title: "Report trimestrale del Digital Gold Institute"
+  subtitle: "La presentazione del report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain a cura di Ferdinando M. Ametrano."
+  lang: it
+  city: online
+  date: 2022-01-12
+  date2:
+  hours: 17:30-19:00
+  organizer: Digital Gold Institute
+  address: 
+    text: live streaming
+    url: http://dgi.io/reports
+  info:
+    text: presto disponibili
+    url: 
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220112-2021Q4-report.jpg
+    size: 200
+    thumb: 20220112-2021Q4-report-thumb.jpg
   eventfeed: true
   published: true
 
