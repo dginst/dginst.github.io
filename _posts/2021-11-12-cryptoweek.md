@@ -30,6 +30,8 @@ banner:
 - [Coinbase shares to open lower after 75% drop in net income in Q3 - Cointelegraph](https://cointelegraph.com/news/coinbase-shares-to-open-lower-after-75-drop-in-net-income-in-q3)
 - [Coinbase Shares Tumble as Q3 Revenues Fall Well Short of Estimates - CoinDesk](https://www.coindesk.com/business/2021/11/09/coinbase-shares-tumble-as-q3-revenues-fall-well-short-of-estimates/)
 - [Crypto Lender Nexo Acquires Stake in US Broker-Dealer Texture Capital - Decrypt](https://decrypt.co/85626/crypto-lender-nexo-acquires-stake-us-broker-dealer-texture-capital)
+- [Twitter Launches Cryptocurrency Team to Explore Bitcoin, Blockchain Uses - WSJ](https://www.wsj.com/articles/twitter-adds-cryptocurrency-team-to-explore-bitcoin-and-blockchain-uses-11636581330)
+- [Twitter sets up crypto team to explore decentralised apps - Financial Times](https://www.ft.com/content/ca4aca6e-b05f-4466-bf10-1d984c2650c4)
 
 ### Markets
 
