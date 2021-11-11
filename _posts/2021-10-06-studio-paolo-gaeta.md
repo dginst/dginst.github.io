@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "La gestione e conservazione della Criptovaluta"
-subtitle: Intervista a Michele Mandelli.
+subtitle: Intervista a Michele Mandelli
 author: "Staff"
 image:
     main: 2021-10-06-studio-paolo-gaeta.png
