@@ -8,7 +8,7 @@ image:
     main: 2021-10-08-federconsumatori.jpg
     thumb: 2021-10-08-federconsumatori-thumb.jpg
 published: true
-newsfeed: true
+newsfeed: false
 ---
 
 Si è svolto oggi in live streaming il webinar [**Criptovalute e moneta digitale. Rischio o opportunità?**](https://fb.watch/9bHa28OQSn/) promosso da [Federconsumatori](https://www.federconsumatori.it/) e [FEduF](https://www.feduf.it/), nel quale è intervenuto il direttore scientifico DGI [Ferdinando M. Ametrano](https://ametrano.net/).

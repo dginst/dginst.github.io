@@ -8,7 +8,7 @@ image:
     main: 2021-10-19-intesi-group.jpg
     thumb: 2021-10-19-intesi-group-thumb.jpg
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Come per Tesla e Microstrategy, arrivano anche in Italia le prime operazioni industriali e di tesoreria in ambito crypto-asset. Intesi Group, leader italiano per le soluzioni di **firma digitale** e **Qualified Trust Service Provider**, diventa azionista di **CheckSig**, principale società italiana per la custodia di asset digitali, ed investe parte della propria liquidità in Bitcoin custoditi presso CheckSig.
