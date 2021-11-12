@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: ApD9fs33eaI
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-
@@ -17,34 +17,32 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [Bapu Film]()
-- [Investors warned that crypto ‘yield’ products are not bonds - Financial Times](https://www.ft.com/content/cfc4eece-df0f-479f-ad51-56300dfa3149)
+- [Bapu Media Production](http://www.bapufilm.com/)
 
 ### Markets
 
-- [Bitcoin Touched $68,600 For its New ATH: Cardano Soars 12% (Market Watch)](https://cryptopotato.com/bitcoin-touched-68600-for-its-new-ath-cardano-soars-12-market-watch/)
 - [JPMorgan Doubles Down On Its Massive Bitcoin Price Prediction—But Adds A Serious Warning](https://www.forbes.com/sites/billybambrough/2021/11/04/jpmorgan-doubles-down-on-its-massive-bitcoin-price-prediction-but-adds-a-serious-warning/)
+- [Bitcoin Touched $68,600 For its New ATH: Cardano Soars 12% (Market Watch)](https://cryptopotato.com/bitcoin-touched-68600-for-its-new-ath-cardano-soars-12-market-watch/)
 - [Ether All-time High as Total Market Cap Nears $3 Trillion - Blockworks](https://blockworks.co/ether-all-time-high-as-total-market-cap-nears-3-trillion/)
-- [The ‘Solana Summer’ Never Ends - Blockworks](https://blockworks.co/the-solana-summer-never-ends/)
-- [Apple’s Tim Cook Says He Owns Cryptocurrency, Calls It ‘Reasonable’ - Forbes](https://www.forbes.com/sites/nicholasreimann/2021/11/09/apples-tim-cook-says-he-owns-cryptocurrency-calls-it-reasonable/?sh=587e15896044)
 - [Tim Cook says he owns cryptocurrency and he’s been ‘interested in it for a while’ - CNBC](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html)
+- [Apple’s Tim Cook Says He Owns Cryptocurrency, Calls It ‘Reasonable’ - Forbes](https://www.forbes.com/sites/nicholasreimann/2021/11/09/apples-tim-cook-says-he-owns-cryptocurrency-calls-it-reasonable)
 - [Tim Cook Owns Crypto, but Apple Won’t Invest Its Cash Into It - WSJ](https://www.wsj.com/articles/tim-cook-says-apple-is-looking-into-cryptocurrency-11636475111)
 - [Apple CEO Tim Cook Reveals He Owns Crypto but Has No Plans to Buy It for the Company - Coindesk](https://www.coindesk.com/business/2021/11/09/apple-ceo-tim-cook-reveals-he-owns-crypto-but-has-no-plans-to-buy-it-for-the-company/)
 - [Once dominated by retail investors, crypto sector is now attracting major institutional money - The Globe and Mail](https://www.theglobeandmail.com/business/article-once-dominated-by-retail-investors-crypto-sector-is-now-attracting)
-- [Grayscale's Total Assets Under Management Hits $60B - Blockworks](https://blockworks.co/grayscales-total-assets-under-management-hits-60b/)
 - ['A proxy for holding Bitcoin': Crypto firms set to go public as market hits US$3 trillion - Financial Post](https://financialpost.com/fp-finance/cryptocurrency/a-proxy-for-holding-bitcoin-crypto-firms-set-to-go-public-as-market-hits-us3-trillion-milestone)
 
 ### Markets - Coinbase
 
 - [Coinbase Reports Q3 Net Revenue Dropped 39% to $1.234B - Blockworks](https://blockworks.co/coinbase-reports-q3-net-revenue-dropped-39-to-1-234b/)
 - [Coinbase Shares Tumble as Q3 Revenues Fall Well Short of Estimates - CoinDesk](https://www.coindesk.com/business/2021/11/09/coinbase-shares-tumble-as-q3-revenues-fall-well-short-of-estimates/)
-- [Cryptocurrency Exchanges in 2021: A Competitive Analysis](https://go.chainalysis.com/2021-crypto-exchange-landscape-report.html)
+- [Cryptocurrency Exchanges in 2021: A Competitive Analysis - Chainalysis](https://go.chainalysis.com/rs/503-FAP-074/images/Crypto%20exchange%20competitive%20landscape%20report.pdf)
 
 ### Markets - ETF
 
-- [Bitcoin ETF: Everything You Need to Know - Leah Wald & Eric Balchunas - YouTube](https://www.youtube.com/watch?v=058mp9LdErE)
-- [Bitwise Withdraws Application for Bitcoin Futures ETF - Blockworks](https://blockworks.co/bitwise-withdraws-application-for-bitcoin-futures-etf/)
 - [ProShares Bitcoin futures fund in top 2% of all ETFs for volume](https://cointelegraph.com/news/proshares-bitcoin-futures-fund-in-top-2-of-all-etfs-for-volume)
+- [Bitwise Withdraws Application for Bitcoin Futures ETF - Blockworks](https://blockworks.co/bitwise-withdraws-application-for-bitcoin-futures-etf/)
+- [Grayscale's Total Assets Under Management Hits $60B - Blockworks](https://blockworks.co/grayscales-total-assets-under-management-hits-60b/)
+- [Crypto Firm Grayscale Hits $60 Billion AUM, Overtaking Top Gold ETF - Decrypt](https://decrypt.co/85798/crypto-firm-grayscale-hits-60-billion-overtaking-top-gold-etf)
 
 ### Markets - Inflation
 
@@ -65,10 +63,14 @@ banner:
 - [NFT Marketplace OpenSea Hits $10B in Total Volume - Decrypt](https://decrypt.co/85507/nft-marketplace-opensea-hits-10b-total-volume)
 - [Microsoft’s Blockchain Director: Major Brands Embracing NFTs Will Drive Mainstream Adoption - Blockworks](https://blockworks.co/microsofts-blockchain-director-major-brands-embracing-nfts-will-drive-mainstream-adoption/)
 
-### Regulation
+#### Ecosystem - Defi
 
-- [Nigeria’s central bank reportedly freezes crypto traders’ accounts](https://cointelegraph.com/news/nigeria-s-central-bank-reportedly-freezes-crypto-traders-accounts)
+- [Investors warned that crypto ‘yield’ products are not bonds - Financial Times](https://www.ft.com/content/cfc4eece-df0f-479f-ad51-56300dfa3149)
+
+## Regulation
+
 - [SEC Stops Wyoming-Based DAO From Registering 2 Digital Tokens](https://www.coindesk.com/policy/2021/11/11/sec-stops-wyoming-based-dao-from-registering-2-digital-tokens/)
+- [Nigeria’s central bank reportedly freezes crypto traders’ accounts](https://cointelegraph.com/news/nigeria-s-central-bank-reportedly-freezes-crypto-traders-accounts)
 - [Will India Create Regulatory Clarity For Bitcoin? - Nasdaq](https://www.nasdaq.com/articles/will-india-create-regulatory-clarity-for-bitcoin)
 - [European Commission Urges Members to Agree on Crypto Regulations - CoinDesk](https://www.coindesk.com/policy/2021/11/11/european-commission-urges-member-states-to-agree-on-crypto-regulations/)
 
@@ -78,18 +80,20 @@ banner:
 
 ### Ecosystem - Mining
 
+- [Russian Deputy Proposes Bill To Legalize Bitcoin Mining, Forms Working Group - Nasdaq](https://www.nasdaq.com/articles/russian-deputy-proposes-bill-to-legalize-bitcoin-mining-forms-working-group)
 - [Bitmain to launch new Bitcoin miner with a touted hash power of 150 TH/s](https://www.theblockcrypto.com/linked/123505/bitmain-new-bitcoin-miner-150-terahash)
 
 ### Tech - Bitcoin
 
 - [Cypherpunks Write Code - YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
 - [Bitcoin Optech Newsletter #174 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/10/)
+- [Why You Should Care About 'Taproot', The Next Major Bitcoin Upgrade | ZeroHedge](https://www.zerohedge.com/crypto/why-you-should-care-about-taproot-next-major-bitcoin-upgrade)
 - [Taproot Primer - Kraken](https://kraken.docsend.com/view/9e9y7may8526z934)
 
 ### Regulation - FATF/GAFI
 
 - [FATF wants governments to hold the people behind DeFi protocols accountable](https://www.theblockcrypto.com/news+/123842/fatf-wants-governments-to-hold-the-people-behind-defi-protocols-accountable)
-- [FATF Proposal - Andrea Berruto]()
+- [FATF Proposal - Andrea Berruto]({{site.baseurl}}/docs/20211112-FATF-Guidance-for-VASPS))
 
 ### Digital Gold Institute
 
