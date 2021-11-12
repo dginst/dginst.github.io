@@ -32,6 +32,9 @@ banner:
 - [Crypto Lender Nexo Acquires Stake in US Broker-Dealer Texture Capital - Decrypt](https://decrypt.co/85626/crypto-lender-nexo-acquires-stake-us-broker-dealer-texture-capital)
 - [Twitter Launches Cryptocurrency Team to Explore Bitcoin, Blockchain Uses - WSJ](https://www.wsj.com/articles/twitter-adds-cryptocurrency-team-to-explore-bitcoin-and-blockchain-uses-11636581330)
 - [Twitter sets up crypto team to explore decentralised apps - Financial Times](https://www.ft.com/content/ca4aca6e-b05f-4466-bf10-1d984c2650c4)
+- [Indonesia’s Religious Leaders Declare Crypto Illegal for Muslims: Report - CoinDesk](https://www.coindesk.com/policy/2021/11/11/indonesias-religious-leaders-declare-crypto-illegal-for-muslims-report/)
+- [European Commission Urges Members to Agree on Crypto Regulations - CoinDesk](https://www.coindesk.com/policy/2021/11/11/european-commission-urges-member-states-to-agree-on-crypto-regulations/)
+- [Discord drops Ethereum and NFT integration plans after backlash - Cointelegraph](https://cointelegraph.com/news/discord-drops-ethereum-and-nft-integration-plans-after-backlash)
 
 ### Markets
 
