@@ -93,6 +93,7 @@ banner:
 ### Regulation - FATF/GAFI
 
 - [FATF wants governments to hold the people behind DeFi protocols accountable](https://www.theblockcrypto.com/news+/123842/fatf-wants-governments-to-hold-the-people-behind-defi-protocols-accountable)
+- [FATF Guidance](https://www.fatf-gafi.org/media/fatf/documents/recommendations/Updated-Guidance-VA-VASP.pdf)
 - [FATF Proposal - Andrea Berruto]({{site.baseurl}}/docs/20211112-FATF-Guidance-for-VASPS))
 
 ### Digital Gold Institute
