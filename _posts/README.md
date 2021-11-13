@@ -28,13 +28,13 @@ permalink: /cryptoweekinternal/
 ## Dopo il CryptoWeek
 
 * Streamyard: estrarre podcast e caricarlo sulla piattaforma podcast
-* Website: inserire il link podcast del cryptoweek appena concluso nella pagina web del cryptoweek
+* Website: inserire il link podcast del cryptoweek appena concluso nella pagina web del cryptoweek (ma cosa vuol dire?!?!?!?)
 * Website: rivedere le news (Nando)
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (DGI e CS), YouTube (DGI), LinkedIn (CS), Twitter (DGI e CS)
-  * titolo: CryptoWeek #41 (19 novembre 2021)
+  * titolo: CryptoWeek #42 (26 novembre 2021)
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
   * foto: thumb con specific date da recuperare nella cartella "post" del repository
-  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/11/19/cryptoweek
+  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/11/26/cryptoweek
 * LinkedIn: aggiungere speaker e descrizione all'evento dedicato
 * Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio (andare su https://business.facebook.com/creatorstudio, dal menù selezionare "Content Library", poi selezionare "Playlists"; quindi dal menu ad hamburger della playlist "CryptoWeek" selezionare "Edit Playlist" per visualizzare tutti i video contenuti nella playlist. A questo punto fare "Add Videos" e selezionare il video del nuovo live e per confermare cliccare su "Add Video".)
 * YouTube: aggiornare nuovo video
@@ -47,7 +47,7 @@ permalink: /cryptoweekinternal/
   * published: false
   * cryptoweek: true
   * svuotare contenuti podcast [che vuol dire?!?]
-  * svuotare le news ma non cancellare le categorie
+  * svuotare i link alle news ma non cancellare le categorie
 * Website: in events.yml corregere il prossimo CryptoWeek
   * data
   * link YouTube
