@@ -154,7 +154,7 @@ permalink: /events/
                         {% if event.address.url %}
                         <a href="{{ event.address.url }}">{{ event.address.text }}</a>
                         {% else %}
-                        {{ event.address }}
+                        {{ event.address.text }}
                         {% endif %}
                         <br>
                         {% if event.lang == "it" %}
