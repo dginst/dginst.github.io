@@ -63,11 +63,11 @@ banner:
 - [NFT Marketplace OpenSea Hits $10B in Total Volume - Decrypt](https://decrypt.co/85507/nft-marketplace-opensea-hits-10b-total-volume)
 - [Microsoft’s Blockchain Director: Major Brands Embracing NFTs Will Drive Mainstream Adoption - Blockworks](https://blockworks.co/microsofts-blockchain-director-major-brands-embracing-nfts-will-drive-mainstream-adoption/)
 
-#### Ecosystem - Defi
+### Ecosystem - Defi
 
 - [Investors warned that crypto ‘yield’ products are not bonds - Financial Times](https://www.ft.com/content/cfc4eece-df0f-479f-ad51-56300dfa3149)
 
-## Regulation
+### Regulation
 
 - [SEC Stops Wyoming-Based DAO From Registering 2 Digital Tokens - CoinDesk](https://www.coindesk.com/policy/2021/11/11/sec-stops-wyoming-based-dao-from-registering-2-digital-tokens/)
 - [Nigeria’s central bank reportedly freezes crypto traders’ accounts - CointelegrapH](https://cointelegraph.com/news/nigeria-s-central-bank-reportedly-freezes-crypto-traders-accounts)
