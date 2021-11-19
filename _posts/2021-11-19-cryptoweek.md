@@ -21,8 +21,8 @@ banner:
 
 ### Tech - Taproot
 
-- [Taproot, Bitcoin’s Long-Anticipated Upgrade, Has Activated](https://www.coindesk.com/tech/2021/11/13/taproot-bitcoins-long-anticipated-upgrade-activates-this-weekend/)
-- [Bitcoin Optech Newsletter #175 | Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/17/)
+- [Taproot, Bitcoin’s Long-Anticipated Upgrade, Has Activated - CoinDesk](https://www.coindesk.com/tech/2021/11/13/taproot-bitcoins-long-anticipated-upgrade-activates-this-weekend/)
+- [Bitcoin Optech Newsletter #175 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/17/)
 - [Bitcoin Node Taproot Support](http://azure.erisian.com.au/~aj/taproot/taproot.html)
 - [Bitcoin Taproot Explainer - Bitcoin Magazine](https://bitcoinmagazine.com/technical/bitcoin-taproot-explainer)
 
@@ -39,7 +39,7 @@ banner:
 
 ### Ecosystem - VC and funding
 
-- [KKR Plans to Lead Investment in Crypto Firm Anchorage — The Information](https://www.theinformation.com/articles/kkr-plans-to-lead-investment-in-crypto-firm-anchorage)
+- [KKR Plans to Lead Investment in Crypto Firm Anchorage - The Information](https://www.theinformation.com/articles/kkr-plans-to-lead-investment-in-crypto-firm-anchorage)
 - [Digital Currency Group Raises New $600 Million Credit Facility - Business Wire](https://www.businesswire.com/news/home/20211118005545/en/Digital-Currency-Group-Raises-New-600-Million-Credit-Facility)
 - [Gemini Raises $400M to Bring Valuation Over $7B - Blockworks](https://blockworks.co/gemini-aims-to-raise-400m-to-bring-valuation-over-7b/)
 - [Gemini Raises $400 Million To Build A Metaverse Outside Facebook’s Walled Garden - Forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/11/18/gemini-raises-400-million-to-protect-the-metaverse-from-meta-facebook)
@@ -48,21 +48,21 @@ banner:
 
 - [Google searches for NFTs spike to record highs - Cointelegraph](https://cointelegraph.com/news/google-searches-for-nfts-spike-to-record-highs)
 - [How NFL Virtual Commemorative Tickets Work - Ticketmaster Blog](https://blog.ticketmaster.com/nfl-virtual-commemorative-tickets/)
-- [Galaxy Digital and TIME Partner Combining the Power of Media and the Metaverse](https://www.newswire.ca/news-releases/galaxy-digital-and-time-partner-combining-the-power-of-media-and-the-metaverse-to-educate-readers-and-trailblaze-towards-a-more-immersive-virtual-future-885100749.html)
-- [TIME Magazine to Hold ETH on Balance Sheet as Part of Galaxy Digital Metaverse Deal](https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/)
+- [Galaxy Digital and TIME Partner Combining the Power of Media and the Metaverse - Newswire](https://www.newswire.ca/news-releases/galaxy-digital-and-time-partner-combining-the-power-of-media-and-the-metaverse-to-educate-readers-and-trailblaze-towards-a-more-immersive-virtual-future-885100749.html)
+- [TIME Magazine to Hold ETH on Balance Sheet as Part of Galaxy Digital Metaverse Deal - CoinDesk](https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/)
 - [NFT Marketplace OpenSea Offered $10 Billion Valuation — The Information](https://www.theinformation.com/articles/nft-marketplace-opensea-offered-10-billion-valuation)
 
 ### Ecosystem - Ethereum
 
-- [Sotheby’s to Allow Live Bidding in Ether for Works by Banksy](https://www.coindesk.com/business/2021/11/11/sothebys-to-allow-live-bidding-in-ether/)
+- [Sotheby’s to Allow Live Bidding in Ether for Works by Banksy - CoinDesk](https://www.coindesk.com/business/2021/11/11/sothebys-to-allow-live-bidding-in-ether/)
 - [Sotheby’s to Hold Live Bids for Banksy’s Artworks in Ether Cryptocurrency - Barron's](https://www.barrons.com/articles/sothebys-to-hold-live-bids-for-banksys-artworks-in-ether-cryptocurrency-01636660302)
 - [Ethereum Layer 2 developer StarkWare raises $50 million, now valued at $2 billion - The Block Crypto](https://www.theblockcrypto.com/post/124479/ethereum-layer-2-developer-starkware-raises-50-million-now-valued-at-2-billion)
-- [ConsenSys Plots Massive Expansion Following $200M Fundraising](https://www.coindesk.com/business/2021/11/17/consensys-plots-massive-expansion-following-200m-raise/)
+- [ConsenSys Plots Massive Expansion Following $200M Fundraising - CoinDesk](https://www.coindesk.com/business/2021/11/17/consensys-plots-massive-expansion-following-200m-raise/)
 - [DeFi - FRNT Financial: 24 Hours In Crypto](https://mailchi.mp/ef1033e7839b/frnt-financial-24-hours-in-crypto-november-18-2021)
 
 ### Ecosystem - Binance
 
-- [Binance US to Close Pre-IPO Funding in 1-2 Months, Founder CZ Says](https://www.coindesk.com/business/2021/11/19/binance-us-to-close-pre-ipo-funding-in-1-2-months-founder-cz-says/)
+- [Binance US to Close Pre-IPO Funding in 1-2 Months, Founder CZ Says - CoinDesk](https://www.coindesk.com/business/2021/11/19/binance-us-to-close-pre-ipo-funding-in-1-2-months-founder-cz-says/)
 - [$76 Billion a Day: How Binance Became the World’s Biggest Crypto Exchange - WSJ](https://www.wsj.com/articles/binance-became-the-biggest-cryptocurrency-exchange-without-licenses-or-headquarters-thats-coming-to-an-end-11636640029)
 
 ### Regulation
@@ -70,11 +70,11 @@ banner:
 - [Fidelity International: It’s a Problem that Regulators Around the World Look at Crypto Differently - Blockworks](https://blockworks.co/fidelity-international-its-a-problem-that-regulators-around-the-world-look-at-crypto-differently/)
 - [Crypto exchanges’ multiple roles raise conflict worries - Financial Times](https://www.ft.com/content/8b8e6d72-b1d2-435c-88c1-4611e3a98da5)
 - [Crypto trading puts pressure on bourses to open all hours - Financial Times](https://www.ft.com/content/7b7ff0cb-b695-485d-b6be-ef0c8c0edde0)
-- [USDC issuer Circle supports proposal to regulate stablecoin issuers as banks](https://cointelegraph.com/news/usdc-issuer-circle-supports-proposal-to-regulate-stablecoin-issuers-as-banks)
-- [Crypto Could Destabilize Nations, Undermine Dollar’s Reserve Currency Status, Hillary Clinton Says](https://www.coindesk.com/markets/2021/11/19/crypto-could-destabilize-nations-undermine-dollars-reserve-currency-status-hillary-clinton-says/)
-- [ECB Sounds Alarm Over Linkages Between Stablecoins and Conventional Financial Markets](https://www.coindesk.com/policy/2021/11/17/ecb-sounds-alarm-over-linkages-between-stablecoins-and-conventional-financial-markets)
+- [USDC issuer Circle supports proposal to regulate stablecoin issuers as banks - Cointelegraph](https://cointelegraph.com/news/usdc-issuer-circle-supports-proposal-to-regulate-stablecoin-issuers-as-banks)
+- [Crypto Could Destabilize Nations, Undermine Dollar’s Reserve Currency Status, Hillary Clinton Says - CoinDesk](https://www.coindesk.com/markets/2021/11/19/crypto-could-destabilize-nations-undermine-dollars-reserve-currency-status-hillary-clinton-says/)
+- [ECB Sounds Alarm Over Linkages Between Stablecoins and Conventional Financial Markets - CoinDesk](https://www.coindesk.com/policy/2021/11/17/ecb-sounds-alarm-over-linkages-between-stablecoins-and-conventional-financial-markets)
 - [ECB warns of ‘exuberance’ in housing, junk bonds and crypto assets - Financial Times](https://www.ft.com/content/f540be9b-24a9-4f0e-a3bb-ce0846388b43)
-- [Financial Stability Review, November 2021](https://www.ecb.europa.eu/pub/pdf/fsr/ecb.fsr202111~8b0aebc817.en.pdf)
+- [Financial Stability Review, November 2021 - ECB](https://www.ecb.europa.eu/pub/pdf/fsr/ecb.fsr202111~8b0aebc817.en.pdf)
 
 ### Regulation - CBDC
 
@@ -85,8 +85,8 @@ banner:
 ### Regulation - US Department of Justice
 
 - [The US Justice Department is selling $56 million worth of crypto seized in massive bitcoin investment fraud case - Markets Insider](https://markets.businessinsider.com/news/currencies/justice-department-selling-crypto-seized-in-bitconnect-bitcoin-fraud-case-2021-11)
-- [U.S. selling seized cryptocurrency in BitConnect fraud case](https://www.cnbc.com/2021/11/16/us-selling-seized-cryptocurrency-in-bitconnect-fraud-case.html)
-- [$56 Million in Seized Cryptocurrency Being Sold as First Step to Compensate Victims of BitConnect Fraud Scheme - Department of Justice](https://www.justice.gov/opa/pr/56-million-seized-cryptocurrency-being-sold-first-step-compensate-victims-bitconnect-fraud)
+- [U.S. selling seized cryptocurrency in BitConnect fraud case - CNBC](https://www.cnbc.com/2021/11/16/us-selling-seized-cryptocurrency-in-bitconnect-fraud-case.html)
+- [$56 Million in Seized Cryptocurrency Being Sold as First Step to Compensate Victims of BitConnect Fraud Scheme - The US Department of Justice](https://www.justice.gov/opa/pr/56-million-seized-cryptocurrency-being-sold-first-step-compensate-victims-bitconnect-fraud)
 
 ### Regulation - Infrastructure Bill
 
@@ -107,9 +107,9 @@ banner:
 ### Ecosystem - Mining
 
 - [Bitcoin falls as China takes aim once again at 'extremely harmful' crypto mining - CNN](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html)
-- [China’s NDRC to Consider Punitive Electricity Prices for Crypto Mines - Coindesk](https://www.coindesk.com/policy/2021/11/16/chinas-ndrc-to-consider-punitive-electricity-prices-for-crypto-mines/)
+- [China’s NDRC to Consider Punitive Electricity Prices for Crypto Mines - CoinDesk](https://www.coindesk.com/policy/2021/11/16/chinas-ndrc-to-consider-punitive-electricity-prices-for-crypto-mines/)
 - [More crackdowns aimed at currency mining underway - China Daily](https://global.chinadaily.com.cn/a/202111/17/WS61945092a310cdd39bc75c07.html)
-- [BIT Mining’s Q4 Revenue to Fall Due to Its Mining Pool Exiting China](https://www.coindesk.com/business/2021/11/18/bit-minings-q4-revenue-to-fall-due-to-its-mining-pool-exiting-china/)
+- [BIT Mining’s Q4 Revenue to Fall Due to Its Mining Pool Exiting China - CoinDesk](https://www.coindesk.com/business/2021/11/18/bit-minings-q4-revenue-to-fall-due-to-its-mining-pool-exiting-china/)
 - [Environmentalists sound alarm at US politicians’ embrace of cryptocurrency - The Guardian](https://www.theguardian.com/technology/2021/nov/18/cryptocurrency-bitcoin-environmentalist-alarm-us-politicians)
 - [Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators - Euronews](https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators)
 - [Crypto boom strains Kazakhstan's coal-powered energy grid - Reuters](https://www.reuters.com/business/energy/crypto-boom-strains-kazakhstans-coal-powered-energy-grid-2021-11-10/)
