@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: hvOa0gzDof4
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-
@@ -19,107 +19,114 @@ banner:
 
 - [Bapu Media Production](http://www.bapufilm.com/)
 
-- [BTC Price Flat After Taproot, Lightning Network Continues to Grow: Markets Wrap - Blockworks](https://blockworks.co/btc-price-flat-after-taproot-lightning-network-continues-to-grow-markets-wrap/)
-- [A major upgrade to bitcoin just activated — here’s what investors should know - CNBC](https://www.cnbc.com/2021/11/12/what-investors-should-know-about-the-bitcoin-taproot-upgrade.html)
-- [3 Reasons to Buy the Bitcoin Crash - Nasdaq](https://www.nasdaq.com/articles/3-reasons-to-buy-the-bitcoin-crash)
-- [Indian Central Bank Governor Says Blockchain Technology Can Thrive Without Cryptocurrencies - CoiDesk](https://www.coindesk.com/policy/2021/11/17/indias-central-bank-governor-says-blockchain-technology-can-thrive-without-cryptocurrencies/)
-- [Crypto map: PM’s meet calls for ‘progressive’ steps, caution over hype - The Indian Express](https://indianexpress.com/article/india/narendra-modi-meet-cryptocurrency-money-laundering-terror-financing-risks-7621499/)
-- [India to Ban Crypto as Payment Method but Regulate as Asset: Report - CoinDesk](https://www.coindesk.com/policy/2021/11/17/india-to-ban-crypto-as-payment-method-but-regulate-as-asset-report/)
-- [Indian Central Bank May Pilot Test CBDC in 2022: Report - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indian-central-bank-may-pilot-test-cbdc-in-2022-report/)
-- [India’s Modi Asks Democracies to Cooperate on Crypto - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indias-modi-calls-on-democracies-to-cooperate-on-crypto/)
-- [President Biden Signs Infrastructure Bill Containing Crypto Broker Reporting Requirement Into Law - CoinDesk](https://www.coindesk.com/policy/2021/11/15/president-biden-signs-infrastructure-bill-containing-crypto-broker-reporting-requirement-into-law/)
-- [Two Things Crypto Investors Should Know About the Infrastructure Bill President Biden Signed This Week - Time](https://time.com/nextadvisor/investing/cryptocurrency/infrastructure-bill-crypto-taxes/)
-- [US lawmakers introduce bill to ‘fix’ crypto reporting requirement from infrastructure law - Cointelegraph](https://cointelegraph.com/news/us-lawmakers-introduce-bill-to-fix-crypto-reporting-requirement-from-infrastructure-law)
-- [L.A.’s Staples Center, home to the Lakers and Clippers, to be renamed Crypto.com Arena - The Washinton Post](https://www.washingtonpost.com/sports/2021/11/17/staples-center-renamed-crypto-arena/)
-- [Crypto companies, on defense in Washington, scramble to assemble a lobbying machine - The Washington Post](https://www.washingtonpost.com/business/2021/11/16/crypto-lobby-struggles/)
-- [Designing a digital euro for the retail payments landscape of tomorrow - ECB](https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211118~b36013b7c5.en.html)
-- [Executive Board member Fabio Panetta on the importance of keeping cash available alongside a possible digital euro - ECB on Twitter](https://twitter.com/ecb/status/1461390523856470023)
-- [China’s NDRC to Consider Punitive Electricity Prices for Crypto Mines - Coindesk](https://www.coindesk.com/policy/2021/11/16/chinas-ndrc-to-consider-punitive-electricity-prices-for-crypto-mines/)
-- [More crackdowns aimed at currency mining underway - China Daily](https://global.chinadaily.com.cn/a/202111/17/WS61945092a310cdd39bc75c07.html)
-- [Israel reportedly adopts new AML rules for crypto - Cointelegraph](https://cointelegraph.com/news/israel-reportedly-adopts-new-aml-rules-for-crypto)
-- [Google searches for NFTs spike to record highs - Cointelegraph](https://cointelegraph.com/news/google-searches-for-nfts-spike-to-record-highs)
-- [Ethereum Layer 2 developer StarkWare raises $50 million, now valued at $2 billion - The Block Crypto](https://www.theblockcrypto.com/post/124479/ethereum-layer-2-developer-starkware-raises-50-million-now-valued-at-2-billion)
-- [Gemini Raises $400 Million To Build A Metaverse Outside Facebook’s Walled Garden - Forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/11/18/gemini-raises-400-million-to-protect-the-metaverse-from-meta-facebook/?sh=41b4e3205f57)
-- [ZEBEDEE, Viker Partner To Bring Bitcoin Rewards To Mobile Games - Nasdaq](https://www.nasdaq.com/articles/zebedee-viker-partner-to-bring-bitcoin-rewards-to-mobile-games)
-- [A group of crypto enthusiasts lost out on the auction to buy a rare copy of the U.S. Constitution - The Washington Post](https://www.washingtonpost.com/technology/2021/11/18/crypto-dao-constitution-auction/)
 
-- [Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators - Euronews](https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators)
 - [SIX Launches its SIX Digital Exchange by Successfully Issuing the World’s First Digital Bond in a Fully Regulated Environment](https://www.six-group.com/en/newsroom/media-releases/2021/20211118-six-sdx-digital-bond.html)
-- [KKR Plans to Lead Investment in Crypto Firm Anchorage — The Information](https://www.theinformation.com/articles/kkr-plans-to-lead-investment-in-crypto-firm-anchorage)
-- [How NFL Virtual Commemorative Tickets Work - Ticketmaster Blog](https://blog.ticketmaster.com/nfl-virtual-commemorative-tickets/)
-- [Digital Currency Group Raises New $600 Million Credit Facility - Business Wire](https://www.businesswire.com/news/home/20211118005545/en/Digital-Currency-Group-Raises-New-600-Million-Credit-Facility)
-- [BIT Mining’s Q4 Revenue to Fall Due to Its Mining Pool Exiting China](https://www.coindesk.com/business/2021/11/18/bit-minings-q4-revenue-to-fall-due-to-its-mining-pool-exiting-china/)
-- [EXCLUSIVE India may create obstacles to crypto trading and holding -sources - Reuters](https://www.reuters.com/markets/us/exclusive-india-may-create-obstacles-crypto-trading-holding-sources-2021-11-18/?taid=6196a187f8fc350001fa4a7c)
 - [Crypto in the classroom: Lucy Kellaway on the kids’ new craze - Financial Times](https://www.ft.com/content/6ff0f503-f20b-45d5-b2d3-7f93da184e8c)
-- [Crypto fever: the pressure grows on wealth managers - Financial Times](https://www.ft.com/content/461ef12c-1db7-47a5-9210-aa0e7594adb5)
-- [CoinShares Weekly Digital Asset Fund Flows Report](https://coinshares.com/research/digital-asset-fund-flows)
-- [CommBank CEO sees "bigger risks in not participating" in crypto - Fortune](https://fortune.com/2021/11/18/commonwealth-bank-australia-ceo-matt-comyn-crypto-market-risk-investment/)
-- [Crypto Could Destabilize Nations, Undermine Dollar’s Reserve Currency Status, Hillary Clinton Says](https://www.coindesk.com/markets/2021/11/19/crypto-could-destabilize-nations-undermine-dollars-reserve-currency-status-hillary-clinton-says/)
-- [India to Ban Crypto as Payment Method but Regulate as Asset: Report](https://www.coindesk.com/policy/2021/11/17/india-to-ban-crypto-as-payment-method-but-regulate-as-asset-report/)
-- [The US Justice Department is selling $56 million worth of crypto seized in massive bitcoin investment fraud case - Markets Insider](https://markets.businessinsider.com/news/currencies/justice-department-selling-crypto-seized-in-bitconnect-bitcoin-fraud-case-2021-11)
-- [Binance US to Close Pre-IPO Funding in 1-2 Months, Founder CZ Says](https://www.coindesk.com/business/2021/11/19/binance-us-to-close-pre-ipo-funding-in-1-2-months-founder-cz-says/)
-- [Gemini Raises $400M to Bring Valuation Over $7B - Blockworks](https://blockworks.co/gemini-aims-to-raise-400m-to-bring-valuation-over-7b/)
-- [TIME Magazine to Hold ETH on Balance Sheet as Part of Galaxy Digital Metaverse Deal](https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/)
-- [U.S. selling seized cryptocurrency in BitConnect fraud case](https://www.cnbc.com/2021/11/16/us-selling-seized-cryptocurrency-in-bitconnect-fraud-case.html)
 - [FRNT Financial: 24 Hours In Crypto - November 18, 2021](https://mailchi.mp/ef1033e7839b/frnt-financial-24-hours-in-crypto-november-18-2021?e=ce087d5484)
-- [Gemini Raises $400 Million To Build A Metaverse Outside Facebook’s Walled Garden](https://www.forbes.com/sites/michaeldelcastillo/2021/11/18/gemini-raises-400-million-to-protect-the-metaverse-from-meta-facebook/?sh=1634863b5f57)
-- [Galaxy Digital and TIME Partner Combining the Power of Media and the Metaverse](https://www.newswire.ca/news-releases/galaxy-digital-and-time-partner-combining-the-power-of-media-and-the-metaverse-to-educate-readers-and-trailblaze-towards-a-more-immersive-virtual-future-885100749.html)
-- [Environmentalists sound alarm at US politicians’ embrace of cryptocurrency - The Guardian](https://www.theguardian.com/technology/2021/nov/18/cryptocurrency-bitcoin-environmentalist-alarm-us-politicians)
-- [Bitcoin Price Briefly Drops Below $60,000 as Strong Dollar Weighs on Crypto - WSJ](https://www.wsj.com/articles/bitcoin-price-briefly-drops-below-60-000-as-strong-dollar-weighs-on-crypto-11637064729)
-- [NFT Marketplace OpenSea Offered $10 Billion Valuation — The Information](https://www.theinformation.com/articles/nft-marketplace-opensea-offered-10-billion-valuation)
-- [ConsenSys Plots Massive Expansion Following $200M Fundraising](https://www.coindesk.com/business/2021/11/17/consensys-plots-massive-expansion-following-200m-raise/)
-- [www.coindesk.com](https://www.coindesk.com/policy/2021/11/17/ecb-sounds-alarm-over-linkages-between-stablecoins-and-conventional-financial-markets/%20/)
-- [$56 Million in Seized Cryptocurrency Being Sold as First Step to Compensate Victims of BitConnect Fraud Scheme - Department of Justice](https://www.justice.gov/opa/pr/56-million-seized-cryptocurrency-being-sold-first-step-compensate-victims-bitconnect-fraud)
-- [Financial Stability Review, November 2021](https://www.ecb.europa.eu/pub/pdf/fsr/ecb.fsr202111~8b0aebc817.en.pdf)
-- [ECB warns of ‘exuberance’ in housing, junk bonds and crypto assets - Financial Times](https://www.ft.com/content/f540be9b-24a9-4f0e-a3bb-ce0846388b43)
-- [India could bar transactions in crypto, permit holding as assets - paper - Reuters](https://www.reuters.com/world/india/india-could-bar-transactions-crypto-permit-holding-assets-paper-2021-11-17/?taid=6194bb357ccf120001e30628)
 - [VanEck Bitcoin Futures ETF Ends First Day With $9.6M Under Management as BTC Dips 5% - Decrypt](https://decrypt.co/86239/vaneck-bitcoin-futures-etf-first-day-9-6m-under-management-btc-dips?ut)
-- [Bitcoin falls as China takes aim once again at 'extremely harmful' crypto mining - CNN](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html)
 - [Newsletters - Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
-- [Fidelity International: It’s a Problem that Regulators Around the World Look at Crypto Differently - Blockworks](https://blockworks.co/fidelity-international-its-a-problem-that-regulators-around-the-world-look-at-crypto-differently/)
-- [President Biden Signs Infrastructure Bill Containing Crypto Broker Reporting Requirement Into Law](https://www.coindesk.com/policy/2021/11/15/president-biden-signs-infrastructure-bill-containing-crypto-broker-reporting-requirement-into-law/)
-- [Crypto exchanges’ multiple roles raise conflict worries - Financial Times](https://www.ft.com/content/8b8e6d72-b1d2-435c-88c1-4611e3a98da5)
 - [The Immaculate Conception: Bitcoin vs Fiat Standard - Dr. Saifedean Ammous - The JBP Podcast S4: E58 - YouTube](https://www.youtube.com/watch?v=FXvQcuIb5rU&t=379s)
-- [Central Bank Digital Currencies Will Be Implemented Within Five Years - Blockworks](https://blockworks.co/central-bank-digital-currencies-will-be-implemented-within-5-years/)
+- [On Christians Investing in Bitcoin - by Jimmy Song - Oct, 2021 - Medium](https://jimmysong.medium.com/on-christians-investing-in-bitcoin-6688c58434b6)
+
+- [21-11-11-BITF-Washington-FINAL-.pdf](https://bitfarms.com/app/uploads/2021/11/21-11-11-BITF-Washington-FINAL-.pdf)
+
+### Tech - Taproot
+
+- [Taproot, Bitcoin’s Long-Anticipated Upgrade, Has Activated](https://www.coindesk.com/tech/2021/11/13/taproot-bitcoins-long-anticipated-upgrade-activates-this-weekend/)
 - [Bitcoin's long-anticipated Taproot upgrade is activated](https://www.theblockcrypto.com/linked/124276/bitcoin-taproot-activated)
 - [Bitcoin Node Taproot Support](http://azure.erisian.com.au/~aj/taproot/taproot.html)
 - [Bitcoin Taproot Explainer - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/bitcoin-taproot-explainer)
 - [achow101/rust-vanitygen](https://github.com/achow101/rust-vanitygen)
-- [Crypto trading puts pressure on bourses to open all hours - Financial Times](https://www.ft.com/content/7b7ff0cb-b695-485d-b6be-ef0c8c0edde0)
-- [Taproot, Bitcoin’s Long-Anticipated Upgrade, Has Activated](https://www.coindesk.com/tech/2021/11/13/taproot-bitcoins-long-anticipated-upgrade-activates-this-weekend/)
-- [On Christians Investing in Bitcoin - by Jimmy Song - Oct, 2021 - Medium](https://jimmysong.medium.com/on-christians-investing-in-bitcoin-6688c58434b6)
-- [USDC issuer Circle supports proposal to regulate stablecoin issuers as banks](https://cointelegraph.com/news/usdc-issuer-circle-supports-proposal-to-regulate-stablecoin-issuers-as-banks)
-- [Sotheby’s to Allow Live Bidding in Ether for Works by Banksy](https://www.coindesk.com/business/2021/11/11/sothebys-to-allow-live-bidding-in-ether/)
-- [Sotheby’s to Hold Live Bids for Banksy’s Artworks in Ether Cryptocurrency - Barron's](https://www.barrons.com/articles/sothebys-to-hold-live-bids-for-banksys-artworks-in-ether-cryptocurrency-01636660302)
-- [Crypto boom strains Kazakhstan's coal-powered energy grid - Reuters](https://www.reuters.com/business/energy/crypto-boom-strains-kazakhstans-coal-powered-energy-grid-2021-11-10/)
-- [21-11-11-BITF-Washington-FINAL-.pdf](https://bitfarms.com/app/uploads/2021/11/21-11-11-BITF-Washington-FINAL-.pdf)
-- [How Crypto Wallets Fit Into Investors’ Pockets - WSJ](https://www.wsj.com/articles/how-crypto-wallets-fit-into-investors-pockets-11636713001?mod=hp_lista_pos4)
-- [Long-Term Bitcoin Holders Are Taking Profits. It May Be a Bullish Signal. - Barron's](https://www.barrons.com/articles/bitcoin-price-selling-buying-outlook-51636655281)
-- [$76 Billion a Day: How Binance Became the World’s Biggest Crypto Exchange - WSJ](https://www.wsj.com/articles/binance-became-the-biggest-cryptocurrency-exchange-without-licenses-or-headquarters-thats-coming-to-an-end-11636640029)
 
 ### Markets
 
-### Markets - Coinbase
+- [BTC Price Flat After Taproot, Lightning Network Continues to Grow: Markets Wrap - Blockworks](https://blockworks.co/btc-price-flat-after-taproot-lightning-network-continues-to-grow-markets-wrap/)
+- [A major upgrade to bitcoin just activated — here’s what investors should know - CNBC](https://www.cnbc.com/2021/11/12/what-investors-should-know-about-the-bitcoin-taproot-upgrade.html)
+- [Bitcoin Price Briefly Drops Below $60,000 as Strong Dollar Weighs on Crypto - WSJ](https://www.wsj.com/articles/bitcoin-price-briefly-drops-below-60-000-as-strong-dollar-weighs-on-crypto-11637064729)
+- [Long-Term Bitcoin Holders Are Taking Profits. It May Be a Bullish Signal. - Barron's](https://www.barrons.com/articles/bitcoin-price-selling-buying-outlook-51636655281)
+- [3 Reasons to Buy the Bitcoin Crash - Nasdaq](https://www.nasdaq.com/articles/3-reasons-to-buy-the-bitcoin-crash)
+- [CoinShares Weekly Digital Asset Fund Flows Report](https://coinshares.com/research/digital-asset-fund-flows)
+- [Crypto fever: the pressure grows on wealth managers - Financial Times](https://www.ft.com/content/461ef12c-1db7-47a5-9210-aa0e7594adb5)
+- [How Crypto Wallets Fit Into Investors’ Pockets - WSJ](https://www.wsj.com/articles/how-crypto-wallets-fit-into-investors-pockets-11636713001?mod=hp_lista_pos4)
+- [CommBank CEO sees "bigger risks in not participating" in crypto - Fortune](https://fortune.com/2021/11/18/commonwealth-bank-australia-ceo-matt-comyn-crypto-market-risk-investment/)
 
-### Markets - ETF
+### Ecosystem - VC and funding
 
-### Markets - Inflation
+- [KKR Plans to Lead Investment in Crypto Firm Anchorage — The Information](https://www.theinformation.com/articles/kkr-plans-to-lead-investment-in-crypto-firm-anchorage)
+- [Digital Currency Group Raises New $600 Million Credit Facility - Business Wire](https://www.businesswire.com/news/home/20211118005545/en/Digital-Currency-Group-Raises-New-600-Million-Credit-Facility)
+- [Gemini Raises $400M to Bring Valuation Over $7B - Blockworks](https://blockworks.co/gemini-aims-to-raise-400m-to-bring-valuation-over-7b/)
+- [Gemini Raises $400 Million To Build A Metaverse Outside Facebook’s Walled Garden - Forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/11/18/gemini-raises-400-million-to-protect-the-metaverse-from-meta-facebook/?sh=41b4e3205f57)
 
-### Ecosystem - Twitter
+### Ecosystem - NFT and Metaverse
 
-### Ecosystem - NFT
+- [Google searches for NFTs spike to record highs - Cointelegraph](https://cointelegraph.com/news/google-searches-for-nfts-spike-to-record-highs)
+- [How NFL Virtual Commemorative Tickets Work - Ticketmaster Blog](https://blog.ticketmaster.com/nfl-virtual-commemorative-tickets/)
+- [Galaxy Digital and TIME Partner Combining the Power of Media and the Metaverse](https://www.newswire.ca/news-releases/galaxy-digital-and-time-partner-combining-the-power-of-media-and-the-metaverse-to-educate-readers-and-trailblaze-towards-a-more-immersive-virtual-future-885100749.html)
+- [TIME Magazine to Hold ETH on Balance Sheet as Part of Galaxy Digital Metaverse Deal](https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/)
+- [NFT Marketplace OpenSea Offered $10 Billion Valuation — The Information](https://www.theinformation.com/articles/nft-marketplace-opensea-offered-10-billion-valuation)
 
-#### Ecosystem - Defi
+### Ecosystem - Ethereum
 
-## Regulation
+- [Sotheby’s to Allow Live Bidding in Ether for Works by Banksy](https://www.coindesk.com/business/2021/11/11/sothebys-to-allow-live-bidding-in-ether/)
+- [Sotheby’s to Hold Live Bids for Banksy’s Artworks in Ether Cryptocurrency - Barron's](https://www.barrons.com/articles/sothebys-to-hold-live-bids-for-banksys-artworks-in-ether-cryptocurrency-01636660302)
+- [Ethereum Layer 2 developer StarkWare raises $50 million, now valued at $2 billion - The Block Crypto](https://www.theblockcrypto.com/post/124479/ethereum-layer-2-developer-starkware-raises-50-million-now-valued-at-2-billion)
+- [ConsenSys Plots Massive Expansion Following $200M Fundraising](https://www.coindesk.com/business/2021/11/17/consensys-plots-massive-expansion-following-200m-raise/)
+
+### Ecosystem - Binance
+
+- [Binance US to Close Pre-IPO Funding in 1-2 Months, Founder CZ Says](https://www.coindesk.com/business/2021/11/19/binance-us-to-close-pre-ipo-funding-in-1-2-months-founder-cz-says/)
+- [$76 Billion a Day: How Binance Became the World’s Biggest Crypto Exchange - WSJ](https://www.wsj.com/articles/binance-became-the-biggest-cryptocurrency-exchange-without-licenses-or-headquarters-thats-coming-to-an-end-11636640029)
+
+### Regulation
+
+- [Fidelity International: It’s a Problem that Regulators Around the World Look at Crypto Differently - Blockworks](https://blockworks.co/fidelity-international-its-a-problem-that-regulators-around-the-world-look-at-crypto-differently/)
+- [Crypto exchanges’ multiple roles raise conflict worries - Financial Times](https://www.ft.com/content/8b8e6d72-b1d2-435c-88c1-4611e3a98da5)
+- [Crypto trading puts pressure on bourses to open all hours - Financial Times](https://www.ft.com/content/7b7ff0cb-b695-485d-b6be-ef0c8c0edde0)
+- [USDC issuer Circle supports proposal to regulate stablecoin issuers as banks](https://cointelegraph.com/news/usdc-issuer-circle-supports-proposal-to-regulate-stablecoin-issuers-as-banks)
+- [Crypto Could Destabilize Nations, Undermine Dollar’s Reserve Currency Status, Hillary Clinton Says](https://www.coindesk.com/markets/2021/11/19/crypto-could-destabilize-nations-undermine-dollars-reserve-currency-status-hillary-clinton-says/)
+- [www.coindesk.com](https://www.coindesk.com/policy/2021/11/17/ecb-sounds-alarm-over-linkages-between-stablecoins-and-conventional-financial-markets/%20/)
+- [ECB warns of ‘exuberance’ in housing, junk bonds and crypto assets - Financial Times](https://www.ft.com/content/f540be9b-24a9-4f0e-a3bb-ce0846388b43)
+- [Financial Stability Review, November 2021](https://www.ecb.europa.eu/pub/pdf/fsr/ecb.fsr202111~8b0aebc817.en.pdf)
 
 ### Regulation - CBDC
 
+- [Designing a digital euro for the retail payments landscape of tomorrow - ECB](https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211118~b36013b7c5.en.html)
+- [Executive Board member Fabio Panetta on the importance of keeping cash available alongside a possible digital euro - ECB on Twitter](https://twitter.com/ecb/status/1461390523856470023)
+- [Central Bank Digital Currencies Will Be Implemented Within Five Years - Blockworks](https://blockworks.co/central-bank-digital-currencies-will-be-implemented-within-5-years/)
+
+### Regulation - US Department of Justice
+
+- [The US Justice Department is selling $56 million worth of crypto seized in massive bitcoin investment fraud case - Markets Insider](https://markets.businessinsider.com/news/currencies/justice-department-selling-crypto-seized-in-bitconnect-bitcoin-fraud-case-2021-11)
+- [U.S. selling seized cryptocurrency in BitConnect fraud case](https://www.cnbc.com/2021/11/16/us-selling-seized-cryptocurrency-in-bitconnect-fraud-case.html)
+- [$56 Million in Seized Cryptocurrency Being Sold as First Step to Compensate Victims of BitConnect Fraud Scheme - Department of Justice](https://www.justice.gov/opa/pr/56-million-seized-cryptocurrency-being-sold-first-step-compensate-victims-bitconnect-fraud)
+
+### Regulation - Infrastructure Bill
+
+- [President Biden Signs Infrastructure Bill Containing Crypto Broker Reporting Requirement Into Law - CoinDesk](https://www.coindesk.com/policy/2021/11/15/president-biden-signs-infrastructure-bill-containing-crypto-broker-reporting-requirement-into-law/)
+- [US lawmakers introduce bill to ‘fix’ crypto reporting requirement from infrastructure law - Cointelegraph](https://cointelegraph.com/news/us-lawmakers-introduce-bill-to-fix-crypto-reporting-requirement-from-infrastructure-law)
+- [Two Things Crypto Investors Should Know About the Infrastructure Bill President Biden Signed This Week - Time](https://time.com/nextadvisor/investing/cryptocurrency/infrastructure-bill-crypto-taxes/)
+
+#### Regulation - India
+
+- [India could bar transactions in crypto, permit holding as assets - paper - Reuters](https://www.reuters.com/world/india/india-could-bar-transactions-crypto-permit-holding-assets-paper-2021-11-17)
+- [India may create obstacles to crypto trading and holding - Reuters](https://www.reuters.com/markets/us/exclusive-india-may-create-obstacles-crypto-trading-holding-sources-2021-11-18/)
+- [India to Ban Crypto as Payment Method but Regulate as Asset - CoinDesk](https://www.coindesk.com/policy/2021/11/17/india-to-ban-crypto-as-payment-method-but-regulate-as-asset-report/)
+- [Crypto map: PM’s meet calls for ‘progressive’ steps, caution over hype - The Indian Express](https://indianexpress.com/article/india/narendra-modi-meet-cryptocurrency-money-laundering-terror-financing-risks-7621499/)
+- [Indian Central Bank Governor Says Blockchain Technology Can Thrive Without Cryptocurrencies - CoinDesk](https://www.coindesk.com/policy/2021/11/17/indias-central-bank-governor-says-blockchain-technology-can-thrive-without-cryptocurrencies/)
+- [Indian Central Bank May Pilot Test CBDC in 2022: Report - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indian-central-bank-may-pilot-test-cbdc-in-2022-report/)
+- [India’s Modi Asks Democracies to Cooperate on Crypto - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indias-modi-calls-on-democracies-to-cooperate-on-crypto/)
+
 ### Ecosystem - Mining
 
-### Tech - Bitcoin
+- [Bitcoin falls as China takes aim once again at 'extremely harmful' crypto mining - CNN](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html)
+- [China’s NDRC to Consider Punitive Electricity Prices for Crypto Mines - Coindesk](https://www.coindesk.com/policy/2021/11/16/chinas-ndrc-to-consider-punitive-electricity-prices-for-crypto-mines/)
+- [More crackdowns aimed at currency mining underway - China Daily](https://global.chinadaily.com.cn/a/202111/17/WS61945092a310cdd39bc75c07.html)
+- [BIT Mining’s Q4 Revenue to Fall Due to Its Mining Pool Exiting China](https://www.coindesk.com/business/2021/11/18/bit-minings-q4-revenue-to-fall-due-to-its-mining-pool-exiting-china/)
+- [Environmentalists sound alarm at US politicians’ embrace of cryptocurrency - The Guardian](https://www.theguardian.com/technology/2021/nov/18/cryptocurrency-bitcoin-environmentalist-alarm-us-politicians)
+- [Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators - Euronews](https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators)
+- [Crypto boom strains Kazakhstan's coal-powered energy grid - Reuters](https://www.reuters.com/business/energy/crypto-boom-strains-kazakhstans-coal-powered-energy-grid-2021-11-10/)
 
-### Regulation - FATF/GAFI
+### Tech - Bitcoin
 
 ### Digital Gold Institute
 
