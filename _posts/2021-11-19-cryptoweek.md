@@ -19,33 +19,20 @@ banner:
 
 - [Bapu Media Production](http://www.bapufilm.com/)
 
-
-- [SIX Launches its SIX Digital Exchange by Successfully Issuing the World’s First Digital Bond in a Fully Regulated Environment](https://www.six-group.com/en/newsroom/media-releases/2021/20211118-six-sdx-digital-bond.html)
-- [Crypto in the classroom: Lucy Kellaway on the kids’ new craze - Financial Times](https://www.ft.com/content/6ff0f503-f20b-45d5-b2d3-7f93da184e8c)
-- [FRNT Financial: 24 Hours In Crypto - November 18, 2021](https://mailchi.mp/ef1033e7839b/frnt-financial-24-hours-in-crypto-november-18-2021?e=ce087d5484)
-- [VanEck Bitcoin Futures ETF Ends First Day With $9.6M Under Management as BTC Dips 5% - Decrypt](https://decrypt.co/86239/vaneck-bitcoin-futures-etf-first-day-9-6m-under-management-btc-dips?ut)
-- [Newsletters - Bitcoin Optech](https://bitcoinops.org/en/newsletters/)
-- [The Immaculate Conception: Bitcoin vs Fiat Standard - Dr. Saifedean Ammous - The JBP Podcast S4: E58 - YouTube](https://www.youtube.com/watch?v=FXvQcuIb5rU&t=379s)
-- [On Christians Investing in Bitcoin - by Jimmy Song - Oct, 2021 - Medium](https://jimmysong.medium.com/on-christians-investing-in-bitcoin-6688c58434b6)
-
-- [21-11-11-BITF-Washington-FINAL-.pdf](https://bitfarms.com/app/uploads/2021/11/21-11-11-BITF-Washington-FINAL-.pdf)
-
 ### Tech - Taproot
 
 - [Taproot, Bitcoin’s Long-Anticipated Upgrade, Has Activated](https://www.coindesk.com/tech/2021/11/13/taproot-bitcoins-long-anticipated-upgrade-activates-this-weekend/)
-- [Bitcoin's long-anticipated Taproot upgrade is activated](https://www.theblockcrypto.com/linked/124276/bitcoin-taproot-activated)
+- [Bitcoin Optech Newsletter #175 | Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/17/)
 - [Bitcoin Node Taproot Support](http://azure.erisian.com.au/~aj/taproot/taproot.html)
-- [Bitcoin Taproot Explainer - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/bitcoin-taproot-explainer)
-- [achow101/rust-vanitygen](https://github.com/achow101/rust-vanitygen)
+- [Bitcoin Taproot Explainer - Bitcoin Magazine](https://bitcoinmagazine.com/technical/bitcoin-taproot-explainer)
 
 ### Markets
 
 - [BTC Price Flat After Taproot, Lightning Network Continues to Grow: Markets Wrap - Blockworks](https://blockworks.co/btc-price-flat-after-taproot-lightning-network-continues-to-grow-markets-wrap/)
 - [A major upgrade to bitcoin just activated — here’s what investors should know - CNBC](https://www.cnbc.com/2021/11/12/what-investors-should-know-about-the-bitcoin-taproot-upgrade.html)
 - [Bitcoin Price Briefly Drops Below $60,000 as Strong Dollar Weighs on Crypto - WSJ](https://www.wsj.com/articles/bitcoin-price-briefly-drops-below-60-000-as-strong-dollar-weighs-on-crypto-11637064729)
-- [Long-Term Bitcoin Holders Are Taking Profits. It May Be a Bullish Signal. - Barron's](https://www.barrons.com/articles/bitcoin-price-selling-buying-outlook-51636655281)
 - [3 Reasons to Buy the Bitcoin Crash - Nasdaq](https://www.nasdaq.com/articles/3-reasons-to-buy-the-bitcoin-crash)
-- [CoinShares Weekly Digital Asset Fund Flows Report](https://coinshares.com/research/digital-asset-fund-flows)
+- [Digital Asset Fund Flows Weekly - CoinShares](https://medium.com/coinshares/volume-55-digital-asset-fund-flows-weekly-b2bc048ef816)
 - [Crypto fever: the pressure grows on wealth managers - Financial Times](https://www.ft.com/content/461ef12c-1db7-47a5-9210-aa0e7594adb5)
 - [How Crypto Wallets Fit Into Investors’ Pockets - WSJ](https://www.wsj.com/articles/how-crypto-wallets-fit-into-investors-pockets-11636713001?mod=hp_lista_pos4)
 - [CommBank CEO sees "bigger risks in not participating" in crypto - Fortune](https://fortune.com/2021/11/18/commonwealth-bank-australia-ceo-matt-comyn-crypto-market-risk-investment/)
@@ -55,7 +42,7 @@ banner:
 - [KKR Plans to Lead Investment in Crypto Firm Anchorage — The Information](https://www.theinformation.com/articles/kkr-plans-to-lead-investment-in-crypto-firm-anchorage)
 - [Digital Currency Group Raises New $600 Million Credit Facility - Business Wire](https://www.businesswire.com/news/home/20211118005545/en/Digital-Currency-Group-Raises-New-600-Million-Credit-Facility)
 - [Gemini Raises $400M to Bring Valuation Over $7B - Blockworks](https://blockworks.co/gemini-aims-to-raise-400m-to-bring-valuation-over-7b/)
-- [Gemini Raises $400 Million To Build A Metaverse Outside Facebook’s Walled Garden - Forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/11/18/gemini-raises-400-million-to-protect-the-metaverse-from-meta-facebook/?sh=41b4e3205f57)
+- [Gemini Raises $400 Million To Build A Metaverse Outside Facebook’s Walled Garden - Forbes](https://www.forbes.com/sites/michaeldelcastillo/2021/11/18/gemini-raises-400-million-to-protect-the-metaverse-from-meta-facebook)
 
 ### Ecosystem - NFT and Metaverse
 
@@ -71,6 +58,7 @@ banner:
 - [Sotheby’s to Hold Live Bids for Banksy’s Artworks in Ether Cryptocurrency - Barron's](https://www.barrons.com/articles/sothebys-to-hold-live-bids-for-banksys-artworks-in-ether-cryptocurrency-01636660302)
 - [Ethereum Layer 2 developer StarkWare raises $50 million, now valued at $2 billion - The Block Crypto](https://www.theblockcrypto.com/post/124479/ethereum-layer-2-developer-starkware-raises-50-million-now-valued-at-2-billion)
 - [ConsenSys Plots Massive Expansion Following $200M Fundraising](https://www.coindesk.com/business/2021/11/17/consensys-plots-massive-expansion-following-200m-raise/)
+- [DeFi - FRNT Financial: 24 Hours In Crypto](https://mailchi.mp/ef1033e7839b/frnt-financial-24-hours-in-crypto-november-18-2021)
 
 ### Ecosystem - Binance
 
@@ -84,7 +72,7 @@ banner:
 - [Crypto trading puts pressure on bourses to open all hours - Financial Times](https://www.ft.com/content/7b7ff0cb-b695-485d-b6be-ef0c8c0edde0)
 - [USDC issuer Circle supports proposal to regulate stablecoin issuers as banks](https://cointelegraph.com/news/usdc-issuer-circle-supports-proposal-to-regulate-stablecoin-issuers-as-banks)
 - [Crypto Could Destabilize Nations, Undermine Dollar’s Reserve Currency Status, Hillary Clinton Says](https://www.coindesk.com/markets/2021/11/19/crypto-could-destabilize-nations-undermine-dollars-reserve-currency-status-hillary-clinton-says/)
-- [www.coindesk.com](https://www.coindesk.com/policy/2021/11/17/ecb-sounds-alarm-over-linkages-between-stablecoins-and-conventional-financial-markets/%20/)
+- [ECB Sounds Alarm Over Linkages Between Stablecoins and Conventional Financial Markets](https://www.coindesk.com/policy/2021/11/17/ecb-sounds-alarm-over-linkages-between-stablecoins-and-conventional-financial-markets)
 - [ECB warns of ‘exuberance’ in housing, junk bonds and crypto assets - Financial Times](https://www.ft.com/content/f540be9b-24a9-4f0e-a3bb-ce0846388b43)
 - [Financial Stability Review, November 2021](https://www.ecb.europa.eu/pub/pdf/fsr/ecb.fsr202111~8b0aebc817.en.pdf)
 
@@ -125,8 +113,11 @@ banner:
 - [Environmentalists sound alarm at US politicians’ embrace of cryptocurrency - The Guardian](https://www.theguardian.com/technology/2021/nov/18/cryptocurrency-bitcoin-environmentalist-alarm-us-politicians)
 - [Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators - Euronews](https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators)
 - [Crypto boom strains Kazakhstan's coal-powered energy grid - Reuters](https://www.reuters.com/business/energy/crypto-boom-strains-kazakhstans-coal-powered-energy-grid-2021-11-10/)
+- [Bitfarms Acquires 24 Megawatts of Hydro Power in the U.S. - Bitfarms](https://bitfarms.com/app/uploads/2021/11/21-11-11-BITF-Washington-FINAL-.pdf)
 
-### Tech - Bitcoin
+### Opinion
+
+- [The Immaculate Conception: Bitcoin vs Fiat Standard, with Saifedean Ammous - YouTube](https://www.youtube.com/watch?v=FXvQcuIb5rU)
 
 ### Digital Gold Institute
 
