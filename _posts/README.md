@@ -31,7 +31,7 @@ permalink: /cryptoweekinternal/
 * Website: inserire il link podcast del cryptoweek appena concluso nella pagina web del cryptoweek (ma cosa vuol dire?!?!?!?)
 * Website: rivedere le news (Nando)
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (DGI e CS), YouTube (DGI), LinkedIn (CS), Twitter (DGI e CS)
-  * titolo: CryptoWeek #42 (26 novembre 2021)
+  * titolo: CryptoWeek #43 (3 dicembre 2021)
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
   * foto: thumb con specific date da recuperare nella cartella "post" del repository
   * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/11/26/cryptoweek
@@ -46,7 +46,8 @@ permalink: /cryptoweekinternal/
   * corregere il link YouTube
   * published: false
   * cryptoweek: true
-  * svuotare contenuti podcast [che vuol dire?!?]
+  * podcast.id: eliminare il numero
+  * podcast.src: eliminare il link
   * svuotare i link alle news ma non cancellare le categorie
 * Website: in events.yml corregere il prossimo CryptoWeek
   * data
