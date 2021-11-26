@@ -21,7 +21,7 @@ banner:
 
 - [Bitcoin trades at over 3% discount in India - The Block Crypto](https://www.theblockcrypto.com/post/125333/bitcoin-trades-at-discount-in-india-after-crypto-bill-listing)
 - [Indian Government Submits Bill to Ban Most Cryptocurrencies, Dashing Hopes for Friendlier Measure - CoinDesk](https://www.coindesk.com/business/2021/11/23/indian-govt-submits-bill-that-would-ban-most-cryptocurrencies-dashing-hopes-for-friendlier-measure/)
-- [DocSend](https://kraken.docsend.com/view/cmgczyig2bkvwx2s)
+- [November 2021 Crypto On-Chain Digest - Kraken](https://kraken.docsend.com/view/cmgczyig2bkvwx2s)
 - [Nearly One-Third of Hedge Fund Managers Plan to Invest in Crypto: Ernst & Young - Decrypt](https://decrypt.co/86494/hedge-fund-invest-crypto-bitcoin-ernst-young)
 - [Asset managers blame SEC rules for decision to pull bitcoin ETFs - Financial Times](https://www.ft.com/content/6c0a843b-0491-4b31-9ce0-60ad88cbc5f7)
 - [Blockdata - When might the Bitcoin network process volumes like Mastercard & Visa?](https://www.blockdata.tech/blog/general/bitcoin-volume-mastercard-visa)
