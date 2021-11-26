@@ -65,8 +65,8 @@ banner:
 - [Cryptocurrency ‘no passing fad’: minister warns against Australia being left behind - The Guardian](https://www.theguardian.com/technology/2021/nov/22/cryptocurrency-no-passing-fad-minister-warns-against-australia-being-left-behind)
 - [Council of the European Union moves forward on two crypto proposals - The Block Crypto](https://www.theblockcrypto.com/linked/125459/council-of-the-european-union-moves-forward-on-two-crypto-proposals)
 - [US banking regulators plan to publish crypto guidance throughout 2022 - The Block Crypto](https://www.theblockcrypto.com/linked/125175/us-banking-regulators-say-they-will-publish-crypto-guidance-over-the-course-of-2022)
-- [Joint Statement on Crypto-Asset Policy Sprint Initiative and Next Steps - OCC](https://www.occ.gov/news-issuances/news-releases/2021/nr-ia-2021-120a.pdf)
-- [OCC Clarifies Bank Authority to Engage in Certain Cryptocurrency Activities and Authority of OCC to Charter National Trust Banks - OCC](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-121.html)
+- [Joint Statement on Crypto-Asset Policy Sprint Initiative and Next Steps - Office of the Comptroller of the Currency](https://www.occ.gov/news-issuances/news-releases/2021/nr-ia-2021-120a.pdf)
+- [OCC Clarifies Bank Authority to Engage in Certain Cryptocurrency Activities and Authority of OCC to Charter National Trust Banks - Office of the Comptroller of the Currency](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-121.html)
 
 ### Regulation - Stablecoin
 
