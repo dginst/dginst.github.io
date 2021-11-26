@@ -36,7 +36,7 @@ banner:
 - [El Salvador government strikes deal with Bitfinex, Blockstream to issue $1 billion bitcoin bond - The Block Crypto](https://www.theblockcrypto.com/linked/124955/el-salvador-government-strikes-deal-with-bitfinex-blockstream-to-issue-1-billion-bitcoin-bond)
 - [El Salvador plans to create an entire city based on Bitcoin - Yahoo](https://finance.yahoo.com/news/el-salvador-bitcoin-city-190829261.html)
 - [El Salvador plans 'Bitcoin City', raise $1 billion via 'Bitcoin Bond' - CNBC](https://www.cnbc.com/2021/11/22/el-salvador-plans-bitcoin-city-raise-1-billion-via-bitcoin-bond.html)
-- [Blockstream](https://blog.blockstream.com/el-salvador-to-issue-1b-in-tokenized-bonds-on-the-liquid-network/)
+- [El Salvador to Issue $1B in Tokenized Bonds on the Liquid Network - Blockstream](https://blog.blockstream.com/el-salvador-to-issue-1b-in-tokenized-bonds-on-the-liquid-network/)
 - [Be Careful With Volcano Bonds - Bloomberg](https://www.bloomberg.com/opinion/articles/2021-11-22/be-careful-with-volcano-bonds)
 - [El Salvador plans ‘bitcoin city’ powered by volcano - Financial Times](https://www.ft.com/content/67515f23-ccdc-4dbc-a184-70848e183ac3)
 - [Analysis: Amid Bukele's bitcoin hype, not all Salvadorans 'Feel the Bit' - Reuters](https://www.reuters.com/markets/us/amid-bukeles-bitcoin-hype-not-all-salvadorans-feel-bit-2021-11-25/)
