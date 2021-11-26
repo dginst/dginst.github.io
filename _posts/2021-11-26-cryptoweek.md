@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: whIz3FTNkSc
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-
@@ -19,8 +19,8 @@ banner:
 
 ### Markets
 
-- [Bitcoin trades at over 3% discount in India](https://www.theblockcrypto.com/post/125333/bitcoin-trades-at-discount-in-india-after-crypto-bill-listing)
-- [Indian Government Submits Bill to Ban Most Cryptocurrencies, Dashing Hopes for Friendlier Measure](https://www.coindesk.com/business/2021/11/23/indian-govt-submits-bill-that-would-ban-most-cryptocurrencies-dashing-hopes-for-friendlier-measure/)
+- [Bitcoin trades at over 3% discount in India - The Block Crypto](https://www.theblockcrypto.com/post/125333/bitcoin-trades-at-discount-in-india-after-crypto-bill-listing)
+- [Indian Government Submits Bill to Ban Most Cryptocurrencies, Dashing Hopes for Friendlier Measure - CoinDesk](https://www.coindesk.com/business/2021/11/23/indian-govt-submits-bill-that-would-ban-most-cryptocurrencies-dashing-hopes-for-friendlier-measure/)
 - [DocSend](https://kraken.docsend.com/view/cmgczyig2bkvwx2s)
 - [Nearly One-Third of Hedge Fund Managers Plan to Invest in Crypto: Ernst & Young - Decrypt](https://decrypt.co/86494/hedge-fund-invest-crypto-bitcoin-ernst-young)
 - [Asset managers blame SEC rules for decision to pull bitcoin ETFs - Financial Times](https://www.ft.com/content/6c0a843b-0491-4b31-9ce0-60ad88cbc5f7)
@@ -33,20 +33,20 @@ banner:
 - [El Salvador to Build Cryptocurrency-Fueled 'Bitcoin City' - Time](https://time.com/6122250/bitcoin-city-el-salvador/)
 - [El Salvador Bitcoin city planned at base of Conchagua volcano - BBC](https://www.bbc.com/news/world-latin-america-59368483)
 - [El Salvador Plans ‘Bitcoin City’ Funded by Bitcoin Bonds and Powered by a Volcano - Blockworks](https://blockworks.co/el-salvador-plans-bitcoin-city-funded-by-bitcoin-bonds-and-powered-by-a-volcano/)
-- [El Salvador government strikes deal with Bitfinex, Blockstream to issue $1 billion bitcoin bond](https://www.theblockcrypto.com/linked/124955/el-salvador-government-strikes-deal-with-bitfinex-blockstream-to-issue-1-billion-bitcoin-bond)
+- [El Salvador government strikes deal with Bitfinex, Blockstream to issue $1 billion bitcoin bond - The Block Crypto](https://www.theblockcrypto.com/linked/124955/el-salvador-government-strikes-deal-with-bitfinex-blockstream-to-issue-1-billion-bitcoin-bond)
 - [El Salvador plans to create an entire city based on Bitcoin](https://finance.yahoo.com/news/el-salvador-bitcoin-city-190829261.html)
 - [El Salvador plans 'Bitcoin City', raise $1 billion via 'Bitcoin Bond'](https://www.cnbc.com/2021/11/22/el-salvador-plans-bitcoin-city-raise-1-billion-via-bitcoin-bond.html)
 - [Blockstream](https://blog.blockstream.com/el-salvador-to-issue-1b-in-tokenized-bonds-on-the-liquid-network/)
 - [Be Careful With Volcano Bonds - Bloomberg](https://www.bloomberg.com/opinion/articles/2021-11-22/be-careful-with-volcano-bonds)
 - [El Salvador plans ‘bitcoin city’ powered by volcano - Financial Times](https://www.ft.com/content/67515f23-ccdc-4dbc-a184-70848e183ac3)
 - [Analysis: Amid Bukele's bitcoin hype, not all Salvadorans 'Feel the Bit' - Reuters](https://www.reuters.com/markets/us/amid-bukeles-bitcoin-hype-not-all-salvadorans-feel-bit-2021-11-25/)
-- [El Salvador: Staff Concluding Statement of the 2021 Article IV Mission](https://www.imf.org/en/News/Articles/2021/11/22/mcs-el-salvador-staff-concluding-statement-of-the-2021-article-iv-mission)
+- [El Salvador: Staff Concluding Statement of the 2021 Article IV Mission - IMF](https://www.imf.org/en/News/Articles/2021/11/22/mcs-el-salvador-staff-concluding-statement-of-the-2021-article-iv-mission)
 
 ### Ecosystem - Binance
 
 - [Binance Increases Presence in Ireland Amid Questions Over Headquarters - Decrypt](https://decrypt.co/86669/binance-increases-presence-ireland-amid-questions-over-headquarters)
 - [Binance in talks with sovereign wealth funds as it seeks investments - Financial Times](https://www.ft.com/content/006b727a-cc20-403e-ad53-6a23571e6c1c)
-- [Binance Seeks Investments From Sovereign Wealth Funds](https://www.coindesk.com/business/2021/11/23/binance-seeks-investments-from-sovereign-wealth-funds/)
+- [Binance Seeks Investments From Sovereign Wealth Funds - CoinDesk](https://www.coindesk.com/business/2021/11/23/binance-seeks-investments-from-sovereign-wealth-funds/)
 
 ### Ecosystem - DeFi
 
@@ -63,14 +63,14 @@ banner:
 ### Regulation
 
 - [Cryptocurrency ‘no passing fad’: minister warns against Australia being left behind - The Guardian](https://www.theguardian.com/technology/2021/nov/22/cryptocurrency-no-passing-fad-minister-warns-against-australia-being-left-behind)
-- [Council of the European Union moves forward on two crypto proposals](https://www.theblockcrypto.com/linked/125459/council-of-the-european-union-moves-forward-on-two-crypto-proposals)
-- [US banking regulators plan to publish crypto guidance throughout 2022](https://www.theblockcrypto.com/linked/125175/us-banking-regulators-say-they-will-publish-crypto-guidance-over-the-course-of-2022)
-- [Joint Statement on Crypto-Asset Policy Sprint Initiative and Next Steps](https://www.occ.gov/news-issuances/news-releases/2021/nr-ia-2021-120a.pdf)
+- [Council of the European Union moves forward on two crypto proposals - The Block Crypto](https://www.theblockcrypto.com/linked/125459/council-of-the-european-union-moves-forward-on-two-crypto-proposals)
+- [US banking regulators plan to publish crypto guidance throughout 2022 - The Block Crypto](https://www.theblockcrypto.com/linked/125175/us-banking-regulators-say-they-will-publish-crypto-guidance-over-the-course-of-2022)
+- [Joint Statement on Crypto-Asset Policy Sprint Initiative and Next Steps - OCC](https://www.occ.gov/news-issuances/news-releases/2021/nr-ia-2021-120a.pdf)
 - [OCC Clarifies Bank Authority to Engage in Certain Cryptocurrency Activities and Authority of OCC to Charter National Trust Banks - OCC](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-121.html)
 
 ### Regulation - Stablecoin
 
-- [Hillary Clinton wants crypto regulation to protect the dollar's reserve status](https://www.theblockcrypto.com/linked/125508/hillary-clinton-regulation)
+- [Hillary Clinton wants crypto regulation to protect the dollar's reserve status - The Block Crypto](https://www.theblockcrypto.com/linked/125508/hillary-clinton-regulation)
 - [US Senate Banking Panel Head Seeks More Information About Stablecoins From Issuers, Exchanges - CoinDesk](https://www.coindesk.com/business/2021/11/23/senate-banking-panel-head-seeks-added-information-about-stablecoins-from-issuers-exchanges/)
 - [Brown Presses Stablecoin Companies on Risks - United States Senate](https://www.banking.senate.gov/newsroom/majority/brown-presses-stablecoin-companies-on-risks)
 - [Sen. Sherrod Brown letter to Circle - United States Senate](https://www.banking.senate.gov/imo/media/doc/letter_to_circle.pdf)
