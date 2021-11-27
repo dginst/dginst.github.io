@@ -27,16 +27,27 @@ permalink: /cryptoweekinternal/
 
 ## Dopo il CryptoWeek
 
-* Streamyard: estrarre podcast e caricarlo sulla piattaforma podcast
-* Website: inserire il link podcast del cryptoweek appena concluso nella pagina web del cryptoweek (ma cosa vuol dire?!?!?!?)
 * Website: rivedere le news (Nando)
+* Podcast
+  * estrarre il file audio dal live su Streamyard utilizzando la funzione "download recording"
+  * Creare un nuovo episodio podcast sulla piattaforma Buzzsprout (credenziali condivise da Paolo) specificando titolo e descrizione
+  * caricare il file audio all'episodio appena creato
+  * inserire la brand mention nell'episodio podcast appena creato
+  * selezionare la funzione "Embed this ONE episode dell'episodio podcast appena creato; quindi copiare il numero id ed il link del campo src
+  * Inserire i dati copiati rispettivamente nei campi podcast.id e podcast.src del file .md della cryptoweek appena conclusasi.
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (DGI e CS), YouTube (DGI), LinkedIn (CS), Twitter (DGI e CS)
-  * titolo: CryptoWeek #43 (3 dicembre 2021)
+  * titolo: CryptoWeek #44 (10 dicembre 2021)
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
   * foto: thumb con specific date da recuperare nella cartella "post" del repository
-  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/11/26/cryptoweek
+  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/12/10/cryptoweek
 * LinkedIn: aggiungere speaker e descrizione all'evento dedicato
-* Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio (andare su https://business.facebook.com/creatorstudio, dal menù selezionare "Content Library", poi selezionare "Playlists"; quindi dal menu ad hamburger della playlist "CryptoWeek" selezionare "Edit Playlist" per visualizzare tutti i video contenuti nella playlist. A questo punto fare "Add Videos" e selezionare il video del nuovo live e per confermare cliccare su "Add Video".)
+* Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio:
+  * https://business.facebook.com/creatorstudio
+  * selezionare "Content Library" dal menù principale
+  * selezionare "Playlists" dal sotto menu per visualizzare tutte le platlist
+  * Nella playlist "CryptoWeek" selezionare "Edit Playlist" dal menù ad hamburger
+  * Cliccare "Add Videos"
+  * Fleggare il video del nuovo live e per confermare cliccare su "Add Video".)
 * YouTube: aggiornare nuovo video
   * marcare, tra le opzioni nascoste, il nuovo prossimo livestream come "contenuto sponsorizzato"
   * lasciare il nuovo prossimo livestream come "non adatto ai bambini"
