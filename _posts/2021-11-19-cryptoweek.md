@@ -94,7 +94,7 @@ banner:
 - [US lawmakers introduce bill to ‘fix’ crypto reporting requirement from infrastructure law - Cointelegraph](https://cointelegraph.com/news/us-lawmakers-introduce-bill-to-fix-crypto-reporting-requirement-from-infrastructure-law)
 - [Two Things Crypto Investors Should Know About the Infrastructure Bill President Biden Signed This Week - Time](https://time.com/nextadvisor/investing/cryptocurrency/infrastructure-bill-crypto-taxes/)
 
-#### Regulation - India
+### Regulation - India
 
 - [India could bar transactions in crypto, permit holding as assets - paper - Reuters](https://www.reuters.com/world/india/india-could-bar-transactions-crypto-permit-holding-assets-paper-2021-11-17)
 - [India may create obstacles to crypto trading and holding - Reuters](https://www.reuters.com/markets/us/exclusive-india-may-create-obstacles-crypto-trading-holding-sources-2021-11-18/)
