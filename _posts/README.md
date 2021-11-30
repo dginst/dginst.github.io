@@ -32,7 +32,7 @@ permalink: /cryptoweekinternal/
   * estrarre il file audio dal live su Streamyard utilizzando la funzione "download recording"
   * Creare un nuovo episodio podcast sulla piattaforma Buzzsprout (credenziali condivise da Paolo) specificando titolo e descrizione
   * caricare il file audio all'episodio appena creato
-  * inserire la brand mention nell'episodio podcast appena creato
+  * inserire la brand mention nell'episodio podcast appena creato (selezionare CheckSig)
   * selezionare la funzione "Embed this ONE episode dell'episodio podcast appena creato; quindi copiare il numero id ed il link del campo src
   * Inserire i dati copiati rispettivamente nei campi podcast.id e podcast.src del file .md della cryptoweek appena conclusasi.
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (DGI e CS), YouTube (DGI), LinkedIn (CS), Twitter (DGI e CS)
