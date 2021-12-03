@@ -24,14 +24,14 @@ banner:
 - [Twitter CEO Jack Dorsey Steps Down: ‘It’s Finally Time for Me to Leave’ - RollingStone](https://www.rollingstone.com/culture/culture-news/jack-dorsey-resigns-twitter-ceo-1264054/)
 - [Square Changes Name to Block, Reflecting CEO Jack Dorsey's Bitcoin Endeavors - Decrypt](https://decrypt.co/87390/square-changes-name-block-ceo-jack-dorsey-bitcoin-endeavors)
 - [Jack Dorsey’s Square to Change its Name to Block - Blockworks](https://blockworks.co/jack-dorseys-square-to-change-its-name-to-block/)
-- [Jack Dorsey-Led Square Changes Name To Block, Doubling Down On Crypto Focus](https://www.forbes.com/sites/dereksaul/2021/12/01/jack-dorsey-led-square-changes-name-to-block-doubling-down-on-crypto-focus/?sh=7811135b35a5)
-- [Jack Dorsey's Twitter departure means more time for bitcoin passion](https://www.cnbc.com/2021/11/29/jack-dorseys-twitter-departure-means-more-time-for-bitcoin-passion.html)
+- [Jack Dorsey-Led Square Changes Name To Block, Doubling Down On Crypto Focus - Forbes](https://www.forbes.com/sites/dereksaul/2021/12/01/jack-dorsey-led-square-changes-name-to-block-doubling-down-on-crypto-focus/?sh=7811135b35a5)
+- [Jack Dorsey's Twitter departure means more time for bitcoin passion - CNBC](https://www.cnbc.com/2021/11/29/jack-dorseys-twitter-departure-means-more-time-for-bitcoin-passion.html)
 
 ### Markets - ETF
 
-- [SEC Rejects WisdomTree’s Spot Bitcoin ETF Application](https://www.coindesk.com/policy/2021/12/02/sec-rejects-wisdomtrees-spot-bitcoin-etf-application/)
-- [Why The SEC’s Stance On Bitcoin ETFs May Need To Change](https://www.forbes.com/sites/haileylennon/2021/12/01/why-the-secs-stance-on-bitcoin-etfs-may-need-to-change/?sh=fa6e8ba2a970)
-- [Grayscale tells SEC 'no basis' to approve Bitcoin futures ETFs and not spot ETFs](https://cointelegraph.com/news/grayscale-tells-sec-no-basis-to-approve-bitcoin-futures-etfs-and-not-spot-etfs)
+- [SEC Rejects WisdomTree’s Spot Bitcoin ETF Application - CoinDesk](https://www.coindesk.com/policy/2021/12/02/sec-rejects-wisdomtrees-spot-bitcoin-etf-application/)
+- [Why The SEC’s Stance On Bitcoin ETFs May Need To Change - Forbes](https://www.forbes.com/sites/haileylennon/2021/12/01/why-the-secs-stance-on-bitcoin-etfs-may-need-to-change/?sh=fa6e8ba2a970)
+- [Grayscale tells SEC 'no basis' to approve Bitcoin futures ETFs and not spot ETFs - Cointelegraph](https://cointelegraph.com/news/grayscale-tells-sec-no-basis-to-approve-bitcoin-futures-etfs-and-not-spot-etfs)
 - [$32bn Grayscale Bitcoin Trust feels the heat from cheaper ETFs - Financial Times](https://www.ft.com/content/9fc7b034-7659-439f-a991-169662815883)
 - [Fidelity set to launch physical spot bitcoin ETF - Financial Times](https://www.ft.com/content/f2a6d440-804e-4e32-93f1-a9ee2bbf0715)
 - [Fidelity Launches Spot Bitcoin ETF in Canada - Decrypt](https://decrypt.co/87317/fidelity-launches-spot-bitcoin-etf-canada)
@@ -42,15 +42,15 @@ banner:
 ### Regulation
 
 - [Crypto.com Acquires US CFTC-regulated Exchanges - Blockworks](https://blockworks.co/crypto-com-acquires-us-cftc-regulated-exchanges/)
-- [It’s Time for South Korea to Embrace Bitcoin, Says KRX Chairman - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/business/its-time-for-south-korea-to-embrace-bitcoin-says-krx-chairman)
-- [Goldman Sachs, Other Wall Street Banks Exploring Bitcoin-Backed Loans: Sources](https://www.coindesk.com/business/2021/12/02/goldman-sachs-other-wall-street-banks-exploring-bitcoin-backed-loans-sources/)
-- [Goldman Sachs Sees Crypto Options Markets as ‘Next Big Step’ for Institutional Adoption](https://www.coindesk.com/markets/2021/12/02/goldman-sachs-sees-crypto-options-markets-as-next-big-step-for-institutional-adoption/)
-- [India to regulate, not ban, crypto: Cabinet documents](https://cointelegraph.com/news/cabinet-note-suggests-india-will-regulate-rather-than-ban-crypto)
-- [Paraguayan Senate to Debate Taking Bitcoin Mining ‘Out of the Grey Area’](https://cryptonews.com/news/paraguayan-senate-to-debate-taking-bitcoin-mining-out-of-the-grey-area.htm)
+- [It’s Time for South Korea to Embrace Bitcoin, Says KRX Chairman - Bitcoin Magazine](https://bitcoinmagazine.com/business/its-time-for-south-korea-to-embrace-bitcoin-says-krx-chairman)
+- [Goldman Sachs, Other Wall Street Banks Exploring Bitcoin-Backed Loans: Sources - CoinDesk](https://www.coindesk.com/business/2021/12/02/goldman-sachs-other-wall-street-banks-exploring-bitcoin-backed-loans-sources/)
+- [Goldman Sachs Sees Crypto Options Markets as ‘Next Big Step’ for Institutional Adoption - CoinDesk](https://www.coindesk.com/markets/2021/12/02/goldman-sachs-sees-crypto-options-markets-as-next-big-step-for-institutional-adoption/)
+- [India to regulate, not ban, crypto: Cabinet documents - Cointelegraph](https://cointelegraph.com/news/cabinet-note-suggests-india-will-regulate-rather-than-ban-crypto)
+- [Paraguayan Senate to Debate Taking Bitcoin Mining ‘Out of the Grey Area’ - Crypto News](https://cryptonews.com/news/paraguayan-senate-to-debate-taking-bitcoin-mining-out-of-the-grey-area.htm)
 - [SEC Chairman Gary Gensler: Bitcoin Competes With The U.S. Banking System - Nasdaq](https://www.nasdaq.com/articles/sec-chairman-gary-gensler%3A-bitcoin-competes-with-the-u.s.-banking-system)
-- [SEC.gov - SEC Charges Ripple and Two Executives with Conducting $1.3 Billion Unregistered Securities Offering](https://www.sec.gov/news/press-release/2020-338)
+- [SEC Charges Ripple and Two Executives with Conducting $1.3 Billion Unregistered Securities Offering - SEC.gov](https://www.sec.gov/news/press-release/2020-338)
 - [Gensler Says Centralized Regulation is Path for Crypto - Blockworks](https://blockworks.co/gensler-says-centralized-regulation-is-path-for-crypto/)
-- [Yellen says some non-custodial entities won't be subject to FATF standards](https://www.theblockcrypto.com/linked/125828/yellen-says-some-non-custodial-entities-wont-be-subject-to-fatf-standards)
+- [Yellen says some non-custodial entities won't be subject to FATF standards - The Block Crypto](https://www.theblockcrypto.com/linked/125828/yellen-says-some-non-custodial-entities-wont-be-subject-to-fatf-standards)
 - [Yellen says mind not made up on U.S. central bank digital currency - Reuters](https://www.reuters.com/markets/us/yellen-says-mind-not-made-up-us-central-bank-digital-currency-2021-12-02/)
 
 ### Ecosystem - Stablecoin
@@ -60,7 +60,7 @@ banner:
 ### Ecosystem - DeFi
 
 - [DeFi Protocol Omicron’s Token Jumps 10-Fold After Namesake COVID Variant Emerges - CoinDesk](https://www.coindesk.com/markets/2021/11/29/defi-protocol-omicrons-token-jumps-10-fold-after-namesake-covid-variant-emerges/)
-- [Hackers Steal $115 Million From Users of Bitcoin DeFi-focused BadgerDAO - Blockworks](https://blockworks.co/hackers-drain-115-million-from-bitcoin-defi-focused-badgerdao/) 
+- [Hackers Steal $115 Million From Users of Bitcoin DeFi-focused BadgerDAO - Blockworks](https://blockworks.co/hackers-drain-115-million-from-bitcoin-defi-focused-badgerdao/)
 - [Bitcoin DeFi Project BadgerDAO Hacked for $120M - Decrypt](https://decrypt.co/87415/bitcoin-defi-project-badgerdao-hacked-120m)
 - [Badger DAO Protocol Suffers $120M Exploit - CoinDesk](https://www.coindesk.com/business/2021/12/02/badger-dao-protocol-suffers-10m-exploit/)
 
@@ -74,7 +74,7 @@ banner:
 ### Tech
 
 - [Ethereum’s New 1MB Blocksize Limit - BitMEX Blog](https://blog.bitmex.com/ethereums-new-1mb-blocksize-limit/)
-- [Review of The Fiat Standard. Bitcoin Tech Talk #268](https://jimmysong.substack.com/p/review-of-the-fiat-standard-bitcoin)
+- [Review of The Fiat Standard. Bitcoin Tech Talk #268 - Jimmy Song](https://jimmysong.substack.com/p/review-of-the-fiat-standard-bitcoin)
 - [Kraken](https://kraken.docsend.com/view/t7unwf54xzb9kfz6)
 
 ### Digital Gold Institute
