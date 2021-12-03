@@ -55,7 +55,7 @@ banner:
 
 ### Ecosystem - Stablecoin
 
-- [Jeremy Allaire on Twitter: "USDC crosses 50% of USDT" - Twitter](https://twitter.com/jerallaire/status/1463137254340190218)
+- [USDC crosses 50% of USDT - Jeremy Allaire on Twitter](https://twitter.com/jerallaire/status/1463137254340190218)
 
 ### Ecosystem - DeFi
 
