@@ -37,7 +37,7 @@ banner:
 - [Fidelity Launches Spot Bitcoin ETF in Canada - Decrypt](https://decrypt.co/87317/fidelity-launches-spot-bitcoin-etf-canada)
 - [Invesco Launches ‘Physical’ Bitcoin ETP In Europe - Nasdaq](https://www.nasdaq.com/articles/invesco-launches-physical-bitcoin-etp-in-europe)
 - [Trillion-Dollar Investment Firm Invesco Launches European Spot Bitcoin ETP - Decrypt](https://decrypt.co/87161/trillion-dollar-investment-firm-invesco-launches-european-spot-bitcoin-etp)
-- [VanEck Files to Launch Digital Asset Mining ETF](https://www.coindesk.com/business/2021/12/02/vaneck-files-to-launch-digital-asset-mining-etf/)
+- [VanEck Files to Launch Digital Asset Mining ETF - CoinDesk](https://www.coindesk.com/business/2021/12/02/vaneck-files-to-launch-digital-asset-mining-etf/)
 
 ### Regulation
 
