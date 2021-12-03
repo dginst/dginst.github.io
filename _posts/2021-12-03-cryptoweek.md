@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: r43S6HyWjiI
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-
@@ -17,49 +17,65 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [DeFi Protocol Omicron’s Token Jumps 10-Fold After Namesake COVID Variant Emerges - CoinDesk](https://www.coindesk.com/markets/2021/11/29/defi-protocol-omicrons-token-jumps-10-fold-after-namesake-covid-variant-emerges/)
-- [El Salvador celebrates Black Friday, buys 100 BTC for 20% off - Cointelegraph](https://cointelegraph.com/news/el-salvador-celebrates-black-friday-buys-100-btc-for-20-off)
-- [Celsius CFO Arrested on Charges Tied to Former Job at Moshe Hogeg’s Firm - CoinDesk](https://www.coindesk.com/business/2021/11/26/celsius-cfo-arrested-on-charges-tied-to-former-job-at-moshe-hogegs-firm/)
+
+### Ecosystem - Jack Dorsey
+
 - [Jack Dorsey is stepping down as CEO of Twitter - CNN](https://edition.cnn.com/2021/11/29/tech/jack-dorsey-twitter/index.html)
 - [Twitter CEO Jack Dorsey Steps Down: ‘It’s Finally Time for Me to Leave’ - RollingStone](https://www.rollingstone.com/culture/culture-news/jack-dorsey-resigns-twitter-ceo-1264054/)
-- [Jack Dorsey Rejects the Cult of the Founder on His Way Out - Bloomberg](https://www.bloomberg.com/news/newsletters/2021-11-30/jack-dorsey-rejects-the-cult-of-the-founder-on-his-way-out)
-- [https://www.cnbc.com/2021/11/29/twitter-ceo-jack-dorsey-is-expected-to-step-down-sources-say.html)
-- [BIS Innovation Hub partners with Fed to support analysis of digital assets - Cointelegraph](https://cointelegraph.com/news/bis-innovation-hub-partners-with-fed-to-support-analysis-of-digital-assets)
-- [MicroStrategy compra Bitcoin per altri 414,4 milioni di dollari, portando le riserve totali a 3,5 miliardi - Cointelegraph](https://it.cointelegraph.com/news/microstrategy-purchases-414-4-million-worth-of-bitcoin-with-total-btc-balance-eclipsing-3-5-billion)
-- [Citigroup Alum Matt Zhang Launches $1.5 Billion Crypto-Investing Venture - Bloomberg](https://www.bloomberg.com/news/articles/2021-11-29/citigroup-alum-matt-zhang-launches-1-5-billion-crypto-venture#:~:text=Former%20Citigroup%20Inc.%20executive%20Matt,%2Dto%2Dearn%E2%80%9D%20strategy.)
-- [Galaxy Digital Announces Pricing of $500 Million Exchangeable Senior Notes OfferingGalaxy Digital Announces Pricing of $500 Million Exchangeable Senior Notes Offering - Bloomberg](https://www.bloomberg.com/press-releases/2021-11-29/galaxy-digital-announces-pricing-of-500-million-exchangeable-senior-notes-offering)
-- [Galaxy Digital to Sell $500M of Notes in Private Placement - CoinDesk](https://www.coindesk.com/business/2021/11/29/galaxy-digital-to-sell-500m-of-notes-in-private-placement/)
-- [Borderless Capital Launches $500M Algorand-focused Fund - Blockworks](https://blockworks.co/borderless-capital-launches-500m-algorand-focused-fund/)
-- [Borderless Capital Announces the Launch of $500M Algo Fund II - Algorand Foundation](https://algorand.foundation/news/borderless-capital-500m-algo-fund)
-- [The metaverse is a massive opportunity for crypto that calls for new platforms and tokens, Bank of America strategist says - Business Insider](https://markets.businessinsider.com/news/currencies/metaverse-crypto-cryptocurrencies-blockchain-technology-decentraland-bank-of-america-2021-11)
-- [Wear-to-earn NFTs target the billion-dollar fashion industry - Cointelegraph](https://cointelegraph.com/news/wear-to-earn-nfts-target-the-billion-dollar-fashion-industry)
-- [Adidas enters the Metaverse with NFT partnerships - Cointelegraph](https://cointelegraph.com/news/adidas-enters-the-metaverse-with-nft-partnerships)
-- [INTO THE METAVERSE - Adidas](https://www.adidas.it/metaverse)
-- [Invesco enters crypto ETP space with bitcoin launch - ETF Stream](https://www.etfstream.com/news/invesco-enters-crypto-etp-space-with-bitcoin-launch/)
+- [Square Changes Name to Block, Reflecting CEO Jack Dorsey's Bitcoin Endeavors - Decrypt](https://decrypt.co/87390/square-changes-name-block-ceo-jack-dorsey-bitcoin-endeavors)
+- [Jack Dorsey’s Square to Change its Name to Block - Blockworks](https://blockworks.co/jack-dorseys-square-to-change-its-name-to-block/)
+- [Jack Dorsey-Led Square Changes Name To Block, Doubling Down On Crypto Focus](https://www.forbes.com/sites/dereksaul/2021/12/01/jack-dorsey-led-square-changes-name-to-block-doubling-down-on-crypto-focus/?sh=7811135b35a5)
+- [Jack Dorsey's Twitter departure means more time for bitcoin passion](https://www.cnbc.com/2021/11/29/jack-dorseys-twitter-departure-means-more-time-for-bitcoin-passion.html)
+
+### Markets - ETF
+
+- [SEC Rejects WisdomTree’s Spot Bitcoin ETF Application](https://www.coindesk.com/policy/2021/12/02/sec-rejects-wisdomtrees-spot-bitcoin-etf-application/)
+- [Why The SEC’s Stance On Bitcoin ETFs May Need To Change](https://www.forbes.com/sites/haileylennon/2021/12/01/why-the-secs-stance-on-bitcoin-etfs-may-need-to-change/?sh=fa6e8ba2a970)
+- [Grayscale tells SEC 'no basis' to approve Bitcoin futures ETFs and not spot ETFs](https://cointelegraph.com/news/grayscale-tells-sec-no-basis-to-approve-bitcoin-futures-etfs-and-not-spot-etfs)
+- [$32bn Grayscale Bitcoin Trust feels the heat from cheaper ETFs - Financial Times](https://www.ft.com/content/9fc7b034-7659-439f-a991-169662815883)
+- [Fidelity set to launch physical spot bitcoin ETF - Financial Times](https://www.ft.com/content/f2a6d440-804e-4e32-93f1-a9ee2bbf0715)
+- [Fidelity Launches Spot Bitcoin ETF in Canada - Decrypt](https://decrypt.co/87317/fidelity-launches-spot-bitcoin-etf-canada)
 - [Invesco Launches ‘Physical’ Bitcoin ETP In Europe - Nasdaq](https://www.nasdaq.com/articles/invesco-launches-physical-bitcoin-etp-in-europe)
-- [Badger DAO Protocol Suffers $120M Exploit - CoinDesk](https://www.coindesk.com/business/2021/12/02/badger-dao-protocol-suffers-10m-exploit/)
-- [Three Arrows Leads $4.3M Round for Solana-Based Metaverse Project Solice - CoinDesk](https://www.coindesk.com/business/2021/12/02/three-arrows-leads-43m-round-for-solana-based-metaverse-project-solice/)
-- [Solice raises $4.36M for Solana-based cross-platform VR metaverse - Cointelegraph](https://cointelegraph.com/press-releases/solice-raises-436m-for-solana-based-cross-platform-vr-metaverse)
-- [SEBA Bank launches a unique cross asset platform providing next-generation AMCs - Seba Bank on Twitter](https://twitter.com/WeAreSEBA/status/1466318257066061825?s=20)
-- [SEBA Bank Launches Cross Asset Platform for Actively Managed Certificates (AMCs) on Crypto and Blend Portfolios through GenTwo Digital’s Securitization Infrastructure - SEBA Bank](https://www.seba.swiss/media-and-investors/seba-bank-launches-cross-asset-platform-for-actively-managed-certificates-amcs-on-crypto-and-blend-portfolios-through-gentwo-digitals-securitization-infrastructure)
-- [SEBAversity - SEBA Bank](https://www.sebaversity.swiss/)
+- [Trillion-Dollar Investment Firm Invesco Launches European Spot Bitcoin ETP - Decrypt](https://decrypt.co/87161/trillion-dollar-investment-firm-invesco-launches-european-spot-bitcoin-etp)
+- [VanEck Files to Launch Digital Asset Mining ETF](https://www.coindesk.com/business/2021/12/02/vaneck-files-to-launch-digital-asset-mining-etf/)
 
+### Regulation
 
-### Markets
+- [Crypto.com Acquires US CFTC-regulated Exchanges - Blockworks](https://blockworks.co/crypto-com-acquires-us-cftc-regulated-exchanges/)
+- [It’s Time for South Korea to Embrace Bitcoin, Says KRX Chairman - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/business/its-time-for-south-korea-to-embrace-bitcoin-says-krx-chairman)
+- [Goldman Sachs, Other Wall Street Banks Exploring Bitcoin-Backed Loans: Sources](https://www.coindesk.com/business/2021/12/02/goldman-sachs-other-wall-street-banks-exploring-bitcoin-backed-loans-sources/)
+- [Goldman Sachs Sees Crypto Options Markets as ‘Next Big Step’ for Institutional Adoption](https://www.coindesk.com/markets/2021/12/02/goldman-sachs-sees-crypto-options-markets-as-next-big-step-for-institutional-adoption/)
+- [India to regulate, not ban, crypto: Cabinet documents](https://cointelegraph.com/news/cabinet-note-suggests-india-will-regulate-rather-than-ban-crypto)
+- [Paraguayan Senate to Debate Taking Bitcoin Mining ‘Out of the Grey Area’](https://cryptonews.com/news/paraguayan-senate-to-debate-taking-bitcoin-mining-out-of-the-grey-area.htm)
+- [SEC Chairman Gary Gensler: Bitcoin Competes With The U.S. Banking System - Nasdaq](https://www.nasdaq.com/articles/sec-chairman-gary-gensler%3A-bitcoin-competes-with-the-u.s.-banking-system)
+- [SEC.gov - SEC Charges Ripple and Two Executives with Conducting $1.3 Billion Unregistered Securities Offering](https://www.sec.gov/news/press-release/2020-338)
+- [Gensler Says Centralized Regulation is Path for Crypto - Blockworks](https://blockworks.co/gensler-says-centralized-regulation-is-path-for-crypto/)
+- [Yellen says some non-custodial entities won't be subject to FATF standards](https://www.theblockcrypto.com/linked/125828/yellen-says-some-non-custodial-entities-wont-be-subject-to-fatf-standards)
+- [Yellen says mind not made up on U.S. central bank digital currency - Reuters](https://www.reuters.com/markets/us/yellen-says-mind-not-made-up-us-central-bank-digital-currency-2021-12-02/)
 
-### Ecosystem - El Salvador
+### Ecosystem - Stablecoin
 
-### Ecosystem - Binance
+- [Jeremy Allaire on Twitter: "USDC crosses 50% of USDT" - Twitter](https://twitter.com/jerallaire/status/1463137254340190218)
 
 ### Ecosystem - DeFi
 
-### Ecosystem - Ethereum
+- [DeFi Protocol Omicron’s Token Jumps 10-Fold After Namesake COVID Variant Emerges - CoinDesk](https://www.coindesk.com/markets/2021/11/29/defi-protocol-omicrons-token-jumps-10-fold-after-namesake-covid-variant-emerges/)
+- [Hackers Steal $115 Million From Users of Bitcoin DeFi-focused BadgerDAO - Blockworks](https://blockworks.co/hackers-drain-115-million-from-bitcoin-defi-focused-badgerdao/) 
+- [Bitcoin DeFi Project BadgerDAO Hacked for $120M - Decrypt](https://decrypt.co/87415/bitcoin-defi-project-badgerdao-hacked-120m)
+- [Badger DAO Protocol Suffers $120M Exploit - CoinDesk](https://www.coindesk.com/business/2021/12/02/badger-dao-protocol-suffers-10m-exploit/)
 
-### Regulation - Stablecoin
+### Ecosystem - NFT
 
-### Tech - Bitcoin
+- [Adidas Originals on Twitter: "Today we leap Into The Metaverse" - Twitter](https://twitter.com/adidasoriginals/status/1466443459951271939)
+- [Adidas Enters Metaverse With Bored Ape Yacht Club Ethereum NFT - Decrypt](https://decrypt.co/87467/adidas-metaverse-bored-ape-yacht-club-ethereum-nft)
+- [Adidas is Betting Big on the Metaverse; Here’s How - Blockworks](https://blockworks.co/adidas-is-betting-big-on-the-metaverse-heres-how/)
+- [The Incarcerated Silk Road Founder’s NFT Collection and the DAO Trying to Save Him - Blockworks](https://blockworks.co/the-incarcerated-silk-road-founders-nft-collection-and-the-dao-trying-to-save-him/)
 
-### Miscellanea
+### Tech
+
+- [Ethereum’s New 1MB Blocksize Limit - BitMEX Blog](https://blog.bitmex.com/ethereums-new-1mb-blocksize-limit/)
+- [Review of The Fiat Standard. Bitcoin Tech Talk #268](https://jimmysong.substack.com/p/review-of-the-fiat-standard-bitcoin)
+- [Kraken](https://kraken.docsend.com/view/t7unwf54xzb9kfz6)
 
 ### Digital Gold Institute
 
