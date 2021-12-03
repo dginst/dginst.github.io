@@ -55,7 +55,7 @@ banner:
 
 ### Ecosystem - Stablecoin
 
-- [USDC crosses 50% of USDT - Jeremy Allaire on Twitter](https://twitter.com/jerallaire/status/1463137254340190218)
+- [Jeremy Allaire: "USDC crosses 50% of USDT" - Twitter](https://twitter.com/jerallaire/status/1463137254340190218)
 
 ### Ecosystem - DeFi
 
@@ -66,7 +66,7 @@ banner:
 
 ### Ecosystem - NFT
 
-- [Adidas Originals on Twitter: "Today we leap Into The Metaverse" - Twitter](https://twitter.com/adidasoriginals/status/1466443459951271939)
+- [Adidas Originals: "Today we leap Into The Metaverse" - Twitter](https://twitter.com/adidasoriginals/status/1466443459951271939)
 - [Adidas Enters Metaverse With Bored Ape Yacht Club Ethereum NFT - Decrypt](https://decrypt.co/87467/adidas-metaverse-bored-ape-yacht-club-ethereum-nft)
 - [Adidas is Betting Big on the Metaverse; Here’s How - Blockworks](https://blockworks.co/adidas-is-betting-big-on-the-metaverse-heres-how/)
 - [The Incarcerated Silk Road Founder’s NFT Collection and the DAO Trying to Save Him - Blockworks](https://blockworks.co/the-incarcerated-silk-road-founders-nft-collection-and-the-dao-trying-to-save-him/)
