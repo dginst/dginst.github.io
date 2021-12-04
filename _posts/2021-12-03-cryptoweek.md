@@ -39,12 +39,15 @@ banner:
 - [Trillion-Dollar Investment Firm Invesco Launches European Spot Bitcoin ETP - Decrypt](https://decrypt.co/87161/trillion-dollar-investment-firm-invesco-launches-european-spot-bitcoin-etp)
 - [VanEck Files to Launch Digital Asset Mining ETF - CoinDesk](https://www.coindesk.com/business/2021/12/02/vaneck-files-to-launch-digital-asset-mining-etf/)
 
-### Regulation
+### Ecosystem - TradFi (Traditional Finance)
 
 - [Crypto.com Acquires US CFTC-regulated Exchanges - Blockworks](https://blockworks.co/crypto-com-acquires-us-cftc-regulated-exchanges/)
 - [It’s Time for South Korea to Embrace Bitcoin, Says KRX Chairman - Bitcoin Magazine](https://bitcoinmagazine.com/business/its-time-for-south-korea-to-embrace-bitcoin-says-krx-chairman)
 - [Goldman Sachs, Other Wall Street Banks Exploring Bitcoin-Backed Loans: Sources - CoinDesk](https://www.coindesk.com/business/2021/12/02/goldman-sachs-other-wall-street-banks-exploring-bitcoin-backed-loans-sources/)
 - [Goldman Sachs Sees Crypto Options Markets as ‘Next Big Step’ for Institutional Adoption - CoinDesk](https://www.coindesk.com/markets/2021/12/02/goldman-sachs-sees-crypto-options-markets-as-next-big-step-for-institutional-adoption/)
+
+### Regulation
+
 - [India to regulate, not ban, crypto: Cabinet documents - Cointelegraph](https://cointelegraph.com/news/cabinet-note-suggests-india-will-regulate-rather-than-ban-crypto)
 - [Paraguayan Senate to Debate Taking Bitcoin Mining ‘Out of the Grey Area’ - Crypto News](https://cryptonews.com/news/paraguayan-senate-to-debate-taking-bitcoin-mining-out-of-the-grey-area.htm)
 - [SEC Chairman Gary Gensler: Bitcoin Competes With The U.S. Banking System - Nasdaq](https://www.nasdaq.com/articles/sec-chairman-gary-gensler%3A-bitcoin-competes-with-the-u.s.-banking-system)
@@ -57,7 +60,7 @@ banner:
 
 - [Jeremy Allaire: "USDC crosses 50% of USDT" - Twitter](https://twitter.com/jerallaire/status/1463137254340190218)
 
-### Ecosystem - DeFi
+### Ecosystem - DeFi (Decentralized Finance)
 
 - [DeFi Protocol Omicron’s Token Jumps 10-Fold After Namesake COVID Variant Emerges - CoinDesk](https://www.coindesk.com/markets/2021/11/29/defi-protocol-omicrons-token-jumps-10-fold-after-namesake-covid-variant-emerges/)
 - [Hackers Steal $115 Million From Users of Bitcoin DeFi-focused BadgerDAO - Blockworks](https://blockworks.co/hackers-drain-115-million-from-bitcoin-defi-focused-badgerdao/)
@@ -75,7 +78,7 @@ banner:
 
 - [Ethereum’s New 1MB Blocksize Limit - BitMEX Blog](https://blog.bitmex.com/ethereums-new-1mb-blocksize-limit/)
 - [Review of The Fiat Standard. Bitcoin Tech Talk #268 - Jimmy Song](https://jimmysong.substack.com/p/review-of-the-fiat-standard-bitcoin)
-- [Kraken](https://kraken.docsend.com/view/t7unwf54xzb9kfz6)
+- [Bitcoin Full Node Guide - Kraken](https://kraken.docsend.com/view/t7unwf54xzb9kfz6)
 
 ### Digital Gold Institute
 
