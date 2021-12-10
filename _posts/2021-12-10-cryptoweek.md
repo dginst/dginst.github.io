@@ -42,6 +42,14 @@ TECH
 - [French and Swiss Launch Cross-Border Digital Currency Trial - Bloomberg](https://www.bloomberg.com/news/articles/2021-06-10/french-and-swiss-launch-cross-border-digital-currency-trial)
 - [Stablecoins to face new restrictions in Japan - Nikkei Asia](https://asia.nikkei.com/Spotlight/Cryptocurrencies/Stablecoins-to-face-new-restrictions-in-Japan)
 - [Japanese regulators seek limits on domestic stablecoin issuance: report - The Block Crypto](https://www.theblockcrypto.com/linked/126476/japanese-regulators-seek-limits-on-domestic-stablecoin-issuance-report)
+- [Pepsi Announces First-Ever Brand NFT with "Pepsi Mic Drop" Collection - Pepsico](https://www.pepsico.com/news/press-release/pepsi-announces-first-ever-brand-nft-with-pepsi-mic-drop-collection12092021)
+- [Crypto Regulation Should Be Global, Not National: IMF Directors - Crypto News](https://cryptonews.com/news/crypto-regulation-should-global-not-national-imf-deputy-directors.htm)
+- [Global Crypto Regulation Should be Comprehensive, Consistent, and Coordinated - IMF Blog](https://blogs.imf.org/2021/12/09/global-crypto-regulation-should-be-comprehensive-consistent-and-coordinated/)
+- [Polygon acquires ZK-rollups startup Mir Protocol for $400 million - The Block Crypto](https://www.theblockcrypto.com/post/126991/polygon-acquires-mir-protocol-400-million-zk-rollups)
+- [Bitcoin Hashrate Approaches Full Recovery From China Crackdown - CoinDesk](https://www.coindesk.com/tech/2021/12/09/bitcoin-hashrate-approaches-full-recovery-from-china-crackdown/)
+- [Bitcoin mining is now easier and more profitable as algorithm adjusts after China crackdown - CNBC](https://www.cnbc.com/2021/07/03/bitcoin-mining-difficulty-drops-after-hashrate-collapse-in-china-.html)
+- [Bitcoin Network Computing Power Nears Pre-China-Crackdown Record - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-09/bitcoin-network-computing-power-nears-pre-china-crackdown-record)
+- [Bitcoin mining nears record pace as industry shrugs off China clampdown - Financial Times](https://www.ft.com/content/d2adbe2f-e1e1-41bf-9034-5b01fa95f6c5)
 
 ### Ecosystem - Jack Dorsey
 
