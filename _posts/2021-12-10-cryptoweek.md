@@ -20,23 +20,23 @@ banner:
 ### Markets
 
 - [Bitcoin Price Tumbles After Wall Street Selloff - WSJ](https://www.wsj.com/articles/bitcoin-price-tumbles-after-wall-street-selloff-11638621435)
-- [MicroStrategy Says It Bought 1,434 Bitcoins Since Nov. 29](https://www.coindesk.com/business/2021/12/09/microstrategy-says-it-bought-1434-bitcoins-since-nov-29/)
-- [You should have crypto in your portfolio, no matter your age](https://www.cnbc.com/2021/12/09/you-should-have-crypto-in-your-portfolio-no-matter-your-age.html)
+- [MicroStrategy Says It Bought 1,434 Bitcoins Since Nov. 29 - CoinDesl](https://www.coindesk.com/business/2021/12/09/microstrategy-says-it-bought-1434-bitcoins-since-nov-29/)
+- [You should have crypto in your portfolio, no matter your age - CNBC](https://www.cnbc.com/2021/12/09/you-should-have-crypto-in-your-portfolio-no-matter-your-age.html)
 - [November 2021 Market Recap & Outlook - Kraken](https://kraken.docsend.com/view/xyuigccsxc73qnky)
 - [Crypto Outlook Dec 2021 - Bloomberg](https://assets.bbhub.io/professional/sites/10/1489771_Crypto-Dev2021Outlook.pdf)
 
 ### Ecosystem - NFT
 
-- [Chainalysis NFT Market Report.pdf](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis%20NFT%20Market%20Report.pdf)
+- [Chainalysis NFT Market Report](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis%20NFT%20Market%20Report.pdf)
 - [Non-fungible token - Explore - Google Trends](https://trends.google.com/trends/explore?q=%2Fg%2F11g0g4sbp3)
-- [A rare CryptoPunk has sold at a record $10.2 million](https://www.theblockcrypto.com/linked/127049/a-rare-cryptopunk-has-sold-at-a-record-10-2-million)
-- [Introducing Ubisoft Quartz, The First Platform for Playable](https://www.globenewswire.com/news-release/2021/12/07/2347700/0/en/Introducing-Ubisoft-Quartz-The-First-Platform-for-Playable-and-Energy-Efficient-NFTs-In-AAA-Games.html)
+- [A rare CryptoPunk has sold at a record $10.2 million - The Block Crypto](https://www.theblockcrypto.com/linked/127049/a-rare-cryptopunk-has-sold-at-a-record-10-2-million)
+- [Introducing Ubisoft Quartz, The First Platform for Playable - Globe News Wire](https://www.globenewswire.com/news-release/2021/12/07/2347700/0/en/Introducing-Ubisoft-Quartz-The-First-Platform-for-Playable-and-Energy-Efficient-NFTs-In-AAA-Games.html)
 
 ### Ecosystem - DeFi
 
-- [Crypto Lender Celsius Admits Losses in $120M BadgerDAO Hack](https://www.coindesk.com/markets/2021/12/03/crypto-lender-celsius-admits-losses-in-120m-badgerdao-hack/)
-- [Solana library bug could have seen attackers stealing $27 million an hour](https://www.theblockcrypto.com/post/126318/solana-library-bug-could-have-seen-attackers-stealing-27-million-an-hour)
-- [SushiSwap's CTO resigns amid infighting](https://www.theblockcrypto.com/linked/126879/sushiswaps-cto-resigns-amid-infighting)
+- [Crypto Lender Celsius Admits Losses in $120M BadgerDAO Hack - CoinDesk](https://www.coindesk.com/markets/2021/12/03/crypto-lender-celsius-admits-losses-in-120m-badgerdao-hack/)
+- [Solana library bug could have seen attackers stealing $27 million an hour - The Block Crypto(https://www.theblockcrypto.com/post/126318/solana-library-bug-could-have-seen-attackers-stealing-27-million-an-hour)
+- [SushiSwap's CTO resigns amid infighting - The Block Crypto](https://www.theblockcrypto.com/linked/126879/sushiswaps-cto-resigns-amid-infighting)
 
 ### Tech - Ethereum
 
@@ -46,19 +46,19 @@ banner:
 
 ### Ecosystem - Hashrate
 
-- [Bitcoin Network Computing Power Nears Pre-China-Crackdown Record](https://www.bloombergquint.com/onweb/bitcoin-network-computing-power-nears-pre-china-crackdown-record)
+- [Bitcoin Network Computing Power Nears Pre-China-Crackdown Record - Bloomberg Quint](https://www.bloombergquint.com/onweb/bitcoin-network-computing-power-nears-pre-china-crackdown-record)
 - [Bitcoin Hashrate Approaches Full Recovery From China Crackdown - CoinDesk](https://www.coindesk.com/tech/2021/12/09/bitcoin-hashrate-approaches-full-recovery-from-china-crackdown/)
 - [Bitcoin Hashrate - Blockchain.com](https://www.blockchain.com/charts/hash-rate)
 
 ### Regulation - Congressional Hearing on Cryptocurrency
 
 - [Waters Announces Cryptocurrency CEOs to Testify at Full Committee Hearing - U.S. House Committee on Financial Services](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=408856)
-- [LIVE BLOG: House Meets on Crypto Regulation](https://www.coindesk.com/policy/2021/12/08/live-blog-house-meets-on-crypto-regulation/)
+- [LIVE BLOG: House Meets on Crypto Regulation - CoinDesk](https://www.coindesk.com/policy/2021/12/08/live-blog-house-meets-on-crypto-regulation/)
 - [Crypto Executives Defend Industry as Congress Considers Oversight - WSJ](https://www.wsj.com/articles/crypto-ceos-to-testify-before-lawmakers-weighing-greater-regulation-11638959403)
-- [Crypto CEOs to Congress: We want regulation, our way - POLITICO](https://www.politico.com/news/2021/12/08/cryptocurrency-ceos-congress-regulation-523950)
-- [With Congressional Hearing on Cryptocurrency, United States Aims to Address Regulation](https://foreignpolicy.com/2021/12/07/cryptocurrency-regulation-congress-hearing-stablecoin-digital-currency/)
+- [Crypto CEOs to Congress: We want regulation, our way - Politico](https://www.politico.com/news/2021/12/08/cryptocurrency-ceos-congress-regulation-523950)
+- [With Congressional Hearing on Cryptocurrency, United States Aims to Address Regulation - Foreign Policy](https://foreignpolicy.com/2021/12/07/cryptocurrency-regulation-congress-hearing-stablecoin-digital-currency/)
 - [Global Crypto Regulation Should be Comprehensive, Consistent, and Coordinated - IMF Blog](https://blogs.imf.org/2021/12/09/global-crypto-regulation-should-be-comprehensive-consistent-and-coordinated/)
-- [Leading crypto trade association doubled membership, quadrupled funding in 2021](https://www.theblockcrypto.com/post/126871/leading-crypto-trade-association-doubled-membership-quadrupled-funding-in-2021)
+- [Leading crypto trade association doubled membership, quadrupled funding in 2021 - The Block Crypto](https://www.theblockcrypto.com/post/126871/leading-crypto-trade-association-doubled-membership-quadrupled-funding-in-2021)
 - [FTX US is now a member of @ISDA - Twitter](https://twitter.com/SBF_FTX/status/1468973375716356099)
 
 ### Regulation - CBDC
