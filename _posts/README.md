@@ -36,10 +36,10 @@ permalink: /cryptoweekinternal/
   * selezionare la funzione "Embed this ONE episode dell'episodio podcast appena creato; quindi copiare il numero id ed il link del campo src
   * Inserire i dati copiati rispettivamente nei campi podcast.id e podcast.src del file .md della cryptoweek appena conclusasi.
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (DGI e CS), YouTube (DGI), LinkedIn (CS), Twitter (DGI e CS)
-  * titolo: CryptoWeek #45 (17 dicembre 2021)
+  * titolo: CryptoWeek #46 (24 dicembre 2021)
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
   * foto: thumb con specific date da recuperare nella cartella "post" del repository
-  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/12/17/cryptoweek
+  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2021/12/24/cryptoweek
 * LinkedIn: aggiungere speaker e descrizione all'evento dedicato
 * Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio:
   * https://business.facebook.com/creatorstudio
