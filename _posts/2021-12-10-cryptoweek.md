@@ -35,7 +35,7 @@ banner:
 ### Ecosystem - DeFi
 
 - [Crypto Lender Celsius Admits Losses in $120M BadgerDAO Hack - CoinDesk](https://www.coindesk.com/markets/2021/12/03/crypto-lender-celsius-admits-losses-in-120m-badgerdao-hack/)
-- [Solana library bug could have seen attackers stealing $27 million an hour - The Block Crypto(https://www.theblockcrypto.com/post/126318/solana-library-bug-could-have-seen-attackers-stealing-27-million-an-hour)
+- [Solana library bug could have seen attackers stealing $27 million an hour - The Block Crypto](https://www.theblockcrypto.com/post/126318/solana-library-bug-could-have-seen-attackers-stealing-27-million-an-hour)
 - [SushiSwap's CTO resigns amid infighting - The Block Crypto](https://www.theblockcrypto.com/linked/126879/sushiswaps-cto-resigns-amid-infighting)
 
 ### Tech - Ethereum
