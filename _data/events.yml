@@ -1,3 +1,25 @@
+- title: "Workshop Bitcoin & Blockchain"
+  subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
+  lang: it
+  city: online
+  date: 2022-03-15
+  date2: 2022-03-16
+  hours: 09:30-17:00
+  organizer: Digital Gold Institute
+  address: 
+    text: "Via Giovanni Battista Pirelli 11, 20124 Milano" 
+  info:
+    text: programma e registrazione
+    url: https://dgi.io/workshop
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220315-workshop.jpg
+    size: 200
+    thumb: 20201020-workshop-thumb.jpg
+  eventfeed: true
+  published: true
+
 - title: "CryptoWeek"
   subtitle: "Il commento alle news crypto della settimana a cura di Ferdinando M. Ametrano."
   lang: it
