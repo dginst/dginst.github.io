@@ -1,25 +1,3 @@
-- title: "Workshop Bitcoin & Blockchain"
-  subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
-  lang: it
-  city: online
-  date: 2022-03-15
-  date2: 2022-03-16
-  hours: 09:30-17:00
-  organizer: Digital Gold Institute
-  address: 
-    text: "Via Giovanni Battista Pirelli 11, 20124 Milano" 
-  info:
-    text: programma e registrazione
-    url: https://dgi.io/workshop
-  discount_code:
-  discount_code_publish:
-  image:
-    main: 20220315-workshop.jpg
-    size: 200
-    thumb: 20201020-workshop-thumb.jpg
-  eventfeed: true
-  published: true
-
 - title: "CryptoWeek"
   subtitle: "Il commento alle news crypto della settimana a cura di Ferdinando M. Ametrano."
   lang: it
@@ -42,7 +20,29 @@
     thumb: cryptoweek-thumb.jpg
   eventfeed: true
   published: true
-  
+
+- title: "Workshop Bitcoin & Blockchain"
+  subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
+  lang: it
+  city: online
+  date: 2022-03-15
+  date2: 2022-03-16
+  hours: 09:30-17:00
+  organizer: Digital Gold Institute
+  address: 
+    text: "Via Giovanni Battista Pirelli 11, 20124 Milano" 
+  info:
+    text: programma e registrazione
+    url: https://dgi.io/workshop
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220315-workshop.jpg
+    size: 200
+    thumb: 20201020-workshop-thumb.jpg
+  eventfeed: true
+  published: true
+
 - title: "Report trimestrale del Digital Gold Institute"
   subtitle: "La presentazione del report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain a cura di Ferdinando M. Ametrano."
   lang: it
@@ -64,6 +64,29 @@
     size: 200
     thumb: 20220112-2021Q4-report-thumb.jpg
   eventfeed: true
+  published: true
+
+- title: "Fintech e moneta digitale"
+  subtitle: "L’impatto della tecnologia digitale sulla finanza e sulla moneta: opportunità e rischi."
+  lang: it
+  city: online
+  date: 2021-12-17
+  date2:
+  hours: 09:00-19:00
+  organizer: Banca d'Italia - Sede di Catania
+  address: 
+    text: Live-streaming YouTube
+    url: https://youtu.be/vARb612Q144
+  info:
+    text: Agenda disponibile
+    url: http://dgi.io/docs/20211217-bancaditalia.pdf
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20211217-bancaditalia.jpg
+    size: 200
+    thumb: 
+  eventfeed: false
   published: true
 
 - title: "Workshop Bitcoin & Blockchain"
