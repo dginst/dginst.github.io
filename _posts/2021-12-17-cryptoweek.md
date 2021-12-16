@@ -17,6 +17,22 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+- [Crypto Exchange AscendEX Hacked, Losses Estimated at $77M](https://www.coindesk.com/business/2021/12/13/crypto-exchange-ascendex-hacked-losses-estimated-at-77m/)
+- [Binance Drops Singapore Cryptocurrency Bourse Application - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-13/binance-singapore-withdraws-application-for-local-crypto-bourse-kx3z16pn)
+- [Fan token market cap surged over 60% since June: Data - CoinTelegraph](https://cointelegraph.com/news/fan-token-market-cap-surged-over-60-since-june-data)
+- [Myanmar shadow government declares stablecoin USDT an official currency - Cointelegraph](https://cointelegraph.com/news/myanmar-shadow-government-declares-stablecoin-usdt-an-official-currency)
+- [Morgan Stanley-Backed Bitcoin Firm NYDIG Raises $1 Billion - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-14/morgan-stanley-backed-bitcoin-firm-nydig-raises-1-billion)
+- [Institutional Bitcoin Broker NYDIG Valued at $7B in Whopping $1B Funding Round - CoinDesk](https://www.coindesk.com/business/2021/12/14/institutional-bitcoin-broker-nydig-valued-at-7b-in-whopping-1b-funding-round/)
+- [BCB Group Expands in Europe With Acquisition of 100-Year-Old German Bank - CoinDesk](https://www.coindesk.com/business/2021/12/15/bcb-group-expands-in-europe-with-the-acquisition-of-a-100-year-old-german-bank/)
+- [Binance Chief Zhao Buys His First Home in 'Pro-Crypto' Dubai - Bloomberg](https://www.google.com/search?q=Binance+to+establish+headquarters+in+Dubai%3F&sourceid=chrome&ie=UTF-8)
+- [Crypto exchange Binance hopes to have Dubai HQ - ArabNews](https://www.arabnews.com/node/1987461/business-economy)
+- [CoinMarketCap bug shows Bitcoin's price at an absurd $789 billion - The Block Crypto](https://www.theblockcrypto.com/post/127535/coinmarketcap-bug-shows-bitcoins-price-at-an-absurd-789-billion)
+- [Crypto bank Anchorage raises $350 million in Series D funding - The Block Crypto](https://www.theblockcrypto.com/post/127579/crypto-bank-anchorage-series-d-funding-kkr-goldman-sachs-others)
+- [Coinbase Wallet rolls out support for NFTs - Cointelegraph](https://cointelegraph.com/news/coinbase-wallet-rolls-out-support-for-nfts)
+- [Dogecoin Soars After Elon Musk Says Tesla Will Accept It as Payment for Merchandise - WSJ](https://www.wsj.com/articles/dogecoin-soars-boosted-by-musk-tweet-11639486452?page=1)
+- [Isda proposes market rules to cover crypto ‘disruptions’ - FT](https://www.ft.com/content/bed2cff8-e0d1-492b-afa1-c2ae5c2f5dcb)
+
+
 ### Markets
 
 ### Ecosystem - NFT
