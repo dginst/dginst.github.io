@@ -32,7 +32,6 @@ banner:
 - [Dogecoin Soars After Elon Musk Says Tesla Will Accept It as Payment for Merchandise - WSJ](https://www.wsj.com/articles/dogecoin-soars-boosted-by-musk-tweet-11639486452?page=1)
 - [Isda proposes market rules to cover crypto ‘disruptions’ - FT](https://www.ft.com/content/bed2cff8-e0d1-492b-afa1-c2ae5c2f5dcb)
 
-
 ### Markets
 
 ### Ecosystem - NFT
