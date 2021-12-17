@@ -20,8 +20,11 @@ banner:
 
 ### Markets
 
+### Regulation
 
-### Tech
+### Ecosystem - TradFi
+
+### Markets - Dogecoin & Elon Musk
 
 ### Digital Gold Institute
 
