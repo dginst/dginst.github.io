@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: _hjR_9FT-EE
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-
@@ -17,44 +17,39 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [Crypto Exchange AscendEX Hacked, Losses Estimated at $77M](https://www.coindesk.com/business/2021/12/13/crypto-exchange-ascendex-hacked-losses-estimated-at-77m/)
-- [Binance Drops Singapore Cryptocurrency Bourse Application - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-13/binance-singapore-withdraws-application-for-local-crypto-bourse-kx3z16pn)
-- [Fan token market cap surged over 60% since June: Data - CoinTelegraph](https://cointelegraph.com/news/fan-token-market-cap-surged-over-60-since-june-data)
-- [Myanmar shadow government declares stablecoin USDT an official currency - Cointelegraph](https://cointelegraph.com/news/myanmar-shadow-government-declares-stablecoin-usdt-an-official-currency)
-- [Morgan Stanley-Backed Bitcoin Firm NYDIG Raises $1 Billion - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-14/morgan-stanley-backed-bitcoin-firm-nydig-raises-1-billion)
-- [Institutional Bitcoin Broker NYDIG Valued at $7B in Whopping $1B Funding Round - CoinDesk](https://www.coindesk.com/business/2021/12/14/institutional-bitcoin-broker-nydig-valued-at-7b-in-whopping-1b-funding-round/)
-- [BCB Group Expands in Europe With Acquisition of 100-Year-Old German Bank - CoinDesk](https://www.coindesk.com/business/2021/12/15/bcb-group-expands-in-europe-with-the-acquisition-of-a-100-year-old-german-bank/)
-- [Binance Chief Zhao Buys His First Home in 'Pro-Crypto' Dubai - Bloomberg](https://www.google.com/search?q=Binance+to+establish+headquarters+in+Dubai%3F&sourceid=chrome&ie=UTF-8)
-- [Crypto exchange Binance hopes to have Dubai HQ - ArabNews](https://www.arabnews.com/node/1987461/business-economy)
-- [CoinMarketCap bug shows Bitcoin's price at an absurd $789 billion - The Block Crypto](https://www.theblockcrypto.com/post/127535/coinmarketcap-bug-shows-bitcoins-price-at-an-absurd-789-billion)
-- [Crypto bank Anchorage raises $350 million in Series D funding - The Block Crypto](https://www.theblockcrypto.com/post/127579/crypto-bank-anchorage-series-d-funding-kkr-goldman-sachs-others)
-- [Coinbase Wallet rolls out support for NFTs - Cointelegraph](https://cointelegraph.com/news/coinbase-wallet-rolls-out-support-for-nfts)
-- [Dogecoin Soars After Elon Musk Says Tesla Will Accept It as Payment for Merchandise - WSJ](https://www.wsj.com/articles/dogecoin-soars-boosted-by-musk-tweet-11639486452?page=1)
-- [Isda proposes market rules to cover crypto ‘disruptions’ - FT](https://www.ft.com/content/bed2cff8-e0d1-492b-afa1-c2ae5c2f5dcb)
-- [ConsenSys launches Rollups for privacy-enabled transactions on Ethereum blockchain with support of Mastercard - Cointelegraph](https://cointelegraph.com/news/consensys-launches-rollups-for-privacy-enabled-transactions-on-ethereum-blockchain-with-support-of-mastercard)
-- [Michael Jordan Jumps Into Web3 via Solana App for Athletes - Decrypt](https://decrypt.co/88393/michael-jordan-jumps-into-web3-solana-app-athletes-nfts-tokens)
-- [The Biggest Threat to Trust in Cryptocurrency: Rug Pulls Put 2021 Scam Revenue Close to All-time Highs - Chainalysis](https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/)
-
-
 ### Markets
 
-### Ecosystem - NFT
+- [Blockchain Explorer - Search the Blockchain | BTC | ETH | BCH](https://www.blockchain.com/charts/hash-rate)
+- [90% of Bitcoin’s Total Supply has Been Mined but Price Continues to Dip](https://finance.yahoo.com/news/90-bitcoin-total-supply-mined-112422242.html?guccounter=1)
+- [Bitcoin CME Futures Slip Into ‘Backwardation’ as Bearish Sentiment Grips Market](https://www.coindesk.com/markets/2021/12/14/bitcoin-cme-futures-slip-into-backwardation-as-bearish-sentiment-grips-market/)
+- [Bitcoin is dead - ChekSig](https://www.linkedin.com/feed/update/urn:li:activity:6877632233096699904/)
 
-### Ecosystem - DeFi
+### Regulation
 
-### Tech - Ethereum
+- [IMF Outlines Need for Global Approach to Crypto Regulation](https://www.coindesk.com/policy/2021/12/10/imf-outlines-need-for-global-approach-to-crypto-regulation/)
+- [IMF chief economist calls for global policy on cryptocurrency](https://cointelegraph.com/news/imf-chief-economist-calls-for-global-policy-on-cryptocurrency)
+- [Elizabeth Warren: DeFi Is 'One of the Shadiest Parts' of Crypto - Decrypt](https://decrypt.co/88384/elizabeth-warren-defi-is-one-of-the-shadiest-parts-of-crypto)
+- [Fed Chair Jerome Powell Does Not See Crypto as Threat to Financial Stability](https://www.coinspeaker.com/powell-not-see-crypto-threat-stability/)
+- [America’s Future Depends on the Blockchain - WSJ](https://www.wsj.com/articles/america-future-depends-on-blockchain-crypto-bitcoin-payments-transfers-federal-reserve-11639668586)
 
-### Ecosystem - Hashrate
+### Ecosystem - TradFi
 
-### Regulation - Congressional Hearing on Cryptocurrency
+- [2021 - Sparkasse confirms rumors about Bitcoin pilot project](https://gettotext.com/sparkasse-confirms-rumors-about-bitcoin-pilot-project/)
+- [Two More German Banks Planning Crypto Services Following Sparkasse](https://cryptopotato.com/two-more-german-banks-planning-crypto-services-following-sparkasse/)
+- [Germany's trillion-euro savings banks mull crypto wallet | Reuters](https://www.reuters.com/markets/europe/germanys-trillion-euro-savings-banks-mull-crypto-wallet-2021-12-13/?taid=61b75c76a20ea200018864dd)
+- [Crypto bank Anchorage raises $350 million in Series D funding](https://www.theblockcrypto.com/post/127579/crypto-bank-anchorage-series-d-funding-kkr-goldman-sachs-others)
+- [CheckSig - Transparent bitcoin custody](https://checksig.io/)
+- [Ray Dalio: Crypto Should Be Part of a Diversified Portfolio - Blockworks](https://blockworks.co/ray-dalio-crypto-should-be-part-of-a-diversified-portfolio/)
+- [Ray Dalio warns Fed’s hands are tied and higher U.S. inflation is sticking around. Democracy, maybe not. - MarketWatch](https://www.marketwatch.com/story/ray-dalio-warns-the-feds-hands-are-tied-and-that-higher-u-s-inflation-is-sticking-around-democracy-maybe-not-11639578847)
+- [Contractual Standards for Digital Asset Derivatives – International Swaps and Derivatives Association](https://www.isda.org/2021/12/14/contractual-standards-for-digital-asset-derivatives/)
+- [Isda proposes market rules to cover crypto ‘disruptions’ | Financial Times](https://www.ft.com/content/bed2cff8-e0d1-492b-afa1-c2ae5c2f5dcb)
+- [Chainalysis adds Lightning Network support](https://www.theblockcrypto.com/linked/127180/chainalysis-adds-lightning-network-support)
 
-### Regulation - CBDC
+### Markets - Dogecoin & Elon Musk
 
-### Ecosystem - Novi
-
-### Ecosystem - Visa
-
-### Tech
+- [Dogecoin Soars After Elon Musk Says Tesla Will Accept It as Payment for Merchandise - WSJ](https://www.wsj.com/articles/dogecoin-soars-boosted-by-musk-tweet-11639486452)
+- [Dogecoin Rockets 20% After Elon Musk Says Tesla Will Use for Merch Payments - Decrypt](https://decrypt.co/88246/dogecoin-rockets-20-after-elon-musk-says-tesla-will-use-for-merch-payments)
+- [(6) TIME on Twitter: "Watch: TIME's 2021 Person of the Year @elonmusk discusses cryptocurrency #TIMEPOY https://t.co/FfwEGxW7LX https://t.co/5BXAZky0LS" / Twitter](https://twitter.com/TIME/status/1470378129575325700)
 
 ### Digital Gold Institute
 
