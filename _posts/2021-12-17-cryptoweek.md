@@ -49,7 +49,7 @@ banner:
 
 - [Dogecoin Soars After Elon Musk Says Tesla Will Accept It as Payment for Merchandise - WSJ](https://www.wsj.com/articles/dogecoin-soars-boosted-by-musk-tweet-11639486452)
 - [Dogecoin Rockets 20% After Elon Musk Says Tesla Will Use for Merch Payments - Decrypt](https://decrypt.co/88246/dogecoin-rockets-20-after-elon-musk-says-tesla-will-use-for-merch-payments)
-- [TIME on Twitter: "Watch: TIME's 2021 Person of the Year @elonmusk discusses cryptocurrency #TIMEPOY https://t.co/FfwEGxW7LX https://t.co/5BXAZky0LS" - Twitter](https://twitter.com/TIME/status/1470378129575325700)
+- [TIME's 2021 Person of the Year @elonmusk discusses cryptocurrency - Twitter](https://twitter.com/TIME/status/1470378129575325700)
 
 ### Digital Gold Institute
 
