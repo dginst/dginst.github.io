@@ -6,7 +6,6 @@ subtitle: "L’impatto della tecnologia digitale sulla finanza e sulla moneta: o
 author: "Staff"
 youtube: vARb612Q144
 image:
-    main: 2021-12-17-bancaditalia.jpg
     thumb: 2021-12-17-bancaditalia-thumb.png
 published: true
 newsfeed: true
