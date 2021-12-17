@@ -31,6 +31,10 @@ banner:
 - [Coinbase Wallet rolls out support for NFTs - Cointelegraph](https://cointelegraph.com/news/coinbase-wallet-rolls-out-support-for-nfts)
 - [Dogecoin Soars After Elon Musk Says Tesla Will Accept It as Payment for Merchandise - WSJ](https://www.wsj.com/articles/dogecoin-soars-boosted-by-musk-tweet-11639486452?page=1)
 - [Isda proposes market rules to cover crypto ‘disruptions’ - FT](https://www.ft.com/content/bed2cff8-e0d1-492b-afa1-c2ae5c2f5dcb)
+- [ConsenSys launches Rollups for privacy-enabled transactions on Ethereum blockchain with support of Mastercard - Cointelegraph](https://cointelegraph.com/news/consensys-launches-rollups-for-privacy-enabled-transactions-on-ethereum-blockchain-with-support-of-mastercard)
+- [Michael Jordan Jumps Into Web3 via Solana App for Athletes - Decrypt](https://decrypt.co/88393/michael-jordan-jumps-into-web3-solana-app-athletes-nfts-tokens)
+- [The Biggest Threat to Trust in Cryptocurrency: Rug Pulls Put 2021 Scam Revenue Close to All-time Highs - Chainalysis](https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/)
+
 
 ### Markets
 
