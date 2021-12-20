@@ -60,9 +60,9 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20220112-2021Q4-report.jpg
+    main: 20220119-2021Q4-report.jpg
     size: 200
-    thumb: 20220112-2021Q4-report-thumb.jpg
+    thumb: 20220119-2021Q4-report-thumb.jpg
   eventfeed: true
   published: true
 
