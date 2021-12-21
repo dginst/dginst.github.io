@@ -53,6 +53,6 @@ banner:
 
 ### Digital Gold Institute
 
-- [Fintech e oneta digitale - Banca d'Italia](https://dgi.io/2021/12/17/bancaditalia.html)
+- [Fintech e moneta digitale - Banca d'Italia](https://dgi.io/2021/12/17/bancaditalia.html)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
