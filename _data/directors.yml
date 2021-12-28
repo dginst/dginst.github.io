@@ -32,15 +32,11 @@
   social_3_link: https://github.com/pmazzocchi
   training: true
 
-- name: Lucia Mandelli
-  role: Business Developer
+- name: Michele Mandelli
+  role: Managing Partner
   photo: img/team/Mandelli.png
   photo_name: Mandelli
-  desc: Bitcoin and blockchain passionate.</br> Eight years of hands-on entrepreneurial experience and formerly Vice President of <a href="http://www.upi.pr.it/unione-parmense-degli-industriali/gruppo-giovani/index.jsp">“Giovani Imprenditori di Confindustria Parma”</a>.
-  social_1: fab fa-twitter
-  social_1_link: https://twitter.com/luciamandelli
-  social_2: fab fa-linkedin-in
-  social_2_link: https://www.linkedin.com/in/luciamandelli/
-  social_3: fab fa-github
-  social_3_link: https://github.com/lmandelli
+  desc: Seasoned strategy consultant, with a focus on digital and banking. Entrepreneur, Bitcoin enthusiast, avid reader.
+  social_1: fab fa-linkedin-in
+  social_1_link: https://www.linkedin.com/in/michelemandelli/
   training: false
