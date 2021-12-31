@@ -11,7 +11,7 @@ published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-9740012
-    src: https://dgi.buzzsprout.com/1686991/9740012-cryptoweek-47-31-dicembre-2021
+    src: https://dgi.buzzsprout.com/1686991/9740012-cryptoweek-47-31-dicembre-2021.js?container_id=buzzsprout-player-9740012&player=small
 banner:
     link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
@@ -30,7 +30,7 @@ banner:
 - [Cardano Founder Charles Hoskinson Lays Out 2022 Plans - Coindesk](https://www.coindesk.com/tech/2021/12/27/cardano-founder-charles-hoskinson-lays-out-2022-plans)
 - [Polygon Quietly Patched Vulnerability That Put $24 Billion in MATIC at Risk - Decrypt](https://decrypt.co/89514/polygon-quietly-patched-vulnerability-that-put-24-billion-in-matic-at-risk)
 - ['Critical' Polygon bug put $24 billion in tokens at risk until recent hard fork - theblockcrypto](https://www.theblockcrypto.com/post/128784/polygon-critical-bug-24-billion-matic-tokens-at-risk-hard-fork)
-- [All You Need to Know About the Recent Network Upgrade — Polygon](https://blog.polygon.technology/all-you-need-to-know-about-the-recent-network-upgrade/)
+- [All You Need to Know About the Recent Network Upgrade - Polygon](https://blog.polygon.technology/all-you-need-to-know-about-the-recent-network-upgrade/)
 
 ### Ecosystem - NFTs
 
@@ -41,20 +41,20 @@ banner:
 ### Ecosystem - Binance
 
 - [Binance to Continue Operating in Ontario After Cooperating With Canadian Regulators - Coindesk](https://www.coindesk.com/business/2021/12/29/binance-to-continue-operating-in-ontario-after-cooperating-with-canadian-regulators/)
+- [Ontario securities regulator slams Binance after crypto exchange claims it can continue operating there - theblockcrypto](https://www.theblockcrypto.com/post/128831/ontario-securities-regulator-slams-binance-after-crypto-exchange-claims-it-can-continue-operating-there)
 - [Binance is not registered in Ontario - OSC](https://www.osc.ca/en/news-events/news/binance-not-registered-ontario)
-- [Ontario securities regulator slams Binance after crypto exchange claims it can continue operating there](https://www.theblockcrypto.com/post/128831/ontario-securities-regulator-slams-binance-after-crypto-exchange-claims-it-can-continue-operating-there)
 
 ### Regulation - US
 
-- [SEC Commissioner Hester Peirce Says Washington Doesn’t Need a New Crypto Regulator](https://www.coindesk.com/policy/2021/12/30/sec-commissioner-hester-peirce-says-washington-doesnt-need-a-new-crypto-regulator/)
+- [SEC Commissioner Hester Peirce Says Washington Doesn’t Need a New Crypto Regulator - Coindesk](https://www.coindesk.com/policy/2021/12/30/sec-commissioner-hester-peirce-says-washington-doesnt-need-a-new-crypto-regulator/)
 - [Bitcoin-Owning (BTC) Wyoming GOP Senator Lummis to Propose Crypto Bill in 2022 - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-23/pro-crypto-senator-lummis-to-propose-overhaul-bill-next-year)
 - [Tom Emmer - Twitter](https://twitter.com/RepTomEmmer/status/1476549689780678656)
 
 ### Regulation - CBDC
 
-- [Mexican government signals circulation of digital currency by 2024](https://www.theblockcrypto.com/linked/128836/mexican-government-signals-circulation-of-digital-currency-by-2024)
+- [Mexican government signals circulation of digital currency by 2024 - theblockcrypto](https://www.theblockcrypto.com/linked/128836/mexican-government-signals-circulation-of-digital-currency-by-2024)
 - [Bank of Mexico Plans to Launch Digital Currency by 2024 - WSJ](https://www.wsj.com/articles/bank-of-mexico-plans-to-launch-digital-currency-by-2024-11640896506)
-- [Swiss Central Bank Ready to Run With wCBDC in January: ‘Just Takes a Policy Decision’](https://www.coindesk.com/policy/2021/11/09/swiss-central-bank-ready-to-run-with-wcbdc-in-january-just-takes-a-policy-decision)
+- [Swiss Central Bank Ready to Run With wCBDC in January: ‘Just Takes a Policy Decision’ - Coindesk](https://www.coindesk.com/policy/2021/11/09/swiss-central-bank-ready-to-run-with-wcbdc-in-january-just-takes-a-policy-decision)
 
 ### Ecosystem - Custody
 

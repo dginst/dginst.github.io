@@ -40,9 +40,9 @@ banner:
 - [Terraform Labs Hits Back at SEC: ‘No Jurisdiction over Do Kwon’ - Blockworks](https://blockworks.co/terraform-labs-hits-back-at-sec-no-jurisdiction-over-do-kwon/)
 - [Parachains officially launch on Polkadot network](https://www.theblockcrypto.com/linked/128026/parachains-officially-launch-on-polkadot-network)
 - [Polkadot Launches Parachains, Increasing Scalability - Decrypt](https://decrypt.co/88850/polkadot-launches-first-5-parachains)
-- [Uniswap Launches on Polygon, Driving MATIC to All-Time Highs](https://www.coindesk.com/markets/2021/12/22/uniswap-launches-on-polygon-driving-matic-to-all-time-highs/)
-- [Uniswap goes live on Ethereum scaling network Polygon](https://www.theblockcrypto.com/linked/128380/uniswap-goes-live-on-ethereum-scaling-network-polygon)
-- [Adidas Originals pauses collaborative NFT mint](https://www.theblockcrypto.com/linked/127986/adidas-originals-pauses-collaborative-nft-mint)
+- [Uniswap Launches on Polygon, Driving MATIC to All-Time Highs - Coindesk](https://www.coindesk.com/markets/2021/12/22/uniswap-launches-on-polygon-driving-matic-to-all-time-highs/)
+- [Uniswap goes live on Ethereum scaling network Polygon - theblockcrypto](https://www.theblockcrypto.com/linked/128380/uniswap-goes-live-on-ethereum-scaling-network-polygon)
+- [Adidas Originals pauses collaborative NFT mint - theblockcrypto](https://www.theblockcrypto.com/linked/127986/adidas-originals-pauses-collaborative-nft-mint)
 
 ### Ecosystem - NFT
 
