@@ -2,7 +2,7 @@
 layout: cryptoweek
 comments: false
 title: "CryptoWeek #48"
-subtitle: "Il commento alle news crypto della settimana" 
+subtitle: "Il commento alle crypto-news della settimana" 
 author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
@@ -32,5 +32,6 @@ banner:
 ### Digital Gold Institute
 
 - [Outlook 2002 - DGI / Ametrano](https://video.milanofinanza.it/video/il-2022-per-le-crypto-ancora-bullish-dopo-i-69mila-brGJBLx7c19k)
+- [2022Q4 Report - DGI](https://dgi.io/reports/)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
