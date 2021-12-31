@@ -63,6 +63,8 @@ banner:
 
 ### Digital Gold Institute
 
+- [Odg della Sen. Elena Botto - Ametrano su LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6881610172595269632/)
+- [Odg della Sen. Elena Botto - Senato della Repubblica](https://www.senato.it/japp/bgt/showdoc/18/Emendc/1324002/1329212/index.html)
 - [Outlook 2002 - DGI / Ametrano](https://video.milanofinanza.it/video/il-2022-per-le-crypto-ancora-bullish-dopo-i-69mila-brGJBLx7c19k)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
