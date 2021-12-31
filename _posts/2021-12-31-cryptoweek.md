@@ -17,15 +17,13 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-
-
 ### Ecosystem - MicroStrategy
 
 - [MicroStrategy Buys 1,900 More Bitcoins - Blockworks](https://blockworks.co/microstrategy-buys-1900-more-bitcoins/)
 
 ### Ecosystem - Ethereum and Alt-coins
 
-- [12 key moments that fueled crypto's record growth in 2021](https://www.cnbc.com/2021/12/27/12-key-moments-that-fueled-cryptos-record-growth-in-2021.html)
+- [12 key moments that fueled crypto's record growth in 2021 - CNBC](https://www.cnbc.com/2021/12/27/12-key-moments-that-fueled-cryptos-record-growth-in-2021.html)
 - [24 Hours In Crypto, December 29, 2021 - FRNT Financial](https://mailchi.mp/274c69730801/frnt-financial-24-hours-in-crypto-december-29-2021)
 - [Cryptocurrencies: ethereum will challenge the hegemony of bitcoin - Financial Times](https://www.ft.com/content/e003ee52-024c-42f5-8743-d69a7390d5ba)
 - [Pantera Capital CEO: Terra is 'One of the Most Promising Coins for the Coming Year' - Blockworks](https://blockworks.co/pantera-capital-ceo-terra-is-one-of-the-most-promising-coins-for-the-coming-year/)
@@ -43,7 +41,7 @@ banner:
 ### Ecosystem - Binance
 
 - [Binance to Continue Operating in Ontario After Cooperating With Canadian Regulators - Coindesk](https://www.coindesk.com/business/2021/12/29/binance-to-continue-operating-in-ontario-after-cooperating-with-canadian-regulators/)
-- [Binance is not registered in Ontario | OSC](https://www.osc.ca/en/news-events/news/binance-not-registered-ontario)
+- [Binance is not registered in Ontario - OSC](https://www.osc.ca/en/news-events/news/binance-not-registered-ontario)
 - [Ontario securities regulator slams Binance after crypto exchange claims it can continue operating there](https://www.theblockcrypto.com/post/128831/ontario-securities-regulator-slams-binance-after-crypto-exchange-claims-it-can-continue-operating-there)
 
 ### Regulation - US
@@ -65,6 +63,6 @@ banner:
 
 ### Digital Gold Institute
 
-- [Outlòook 2002 - DGI / Ametrano](https://video.milanofinanza.it/video/il-2022-per-le-crypto-ancora-bullish-dopo-i-69mila-brGJBLx7c19k)
+- [Outlook 2002 - DGI / Ametrano](https://video.milanofinanza.it/video/il-2022-per-le-crypto-ancora-bullish-dopo-i-69mila-brGJBLx7c19k)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
