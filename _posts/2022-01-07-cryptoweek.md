@@ -19,37 +19,37 @@ banner:
 
 ### Ecosystem - Bitcoin birthday
 
-- [Bitcoin launched 13 years ago. 8 milestones from the past year](https://www.cnbc.com/2022/01/03/bitcoin-launched-13-years-ago-today-8-milestones-from-the-past-year.html)
-- [Bitcoin 2021 Annual Review](https://blog.lopp.net/bitcoin-2021-annual-review/)
+- [Bitcoin launched 13 years ago. 8 milestones from the past year - cnbc](https://www.cnbc.com/2022/01/03/bitcoin-launched-13-years-ago-today-8-milestones-from-the-past-year.html)
+- [Bitcoin 2021 Annual Review - Jameson Lopp](https://blog.lopp.net/bitcoin-2021-annual-review/)
 - [Outlook 2002 - DGI / Ametrano](https://video.milanofinanza.it/video/il-2022-per-le-crypto-ancora-bullish-dopo-i-69mila-brGJBLx7c19k)
 
 ### Markets
 
-- [Bitcoin Falls Below $43K, Leads to $800M in Crypto Liquidations](https://www.coindesk.com/markets/2022/01/06/bitcoin-falls-below-43k-leads-to-800m-crypto-liquidations)
-- [Crypto: Bitcoin (BTC) price slumps to 3-month low](https://www.cnbc.com/2022/01/07/crypto-bitcoin-btc-price-slumps-to-3-month-low.html)
+- [Bitcoin Falls Below $43K, Leads to $800M in Crypto Liquidations - coindesk](https://www.coindesk.com/markets/2022/01/06/bitcoin-falls-below-43k-leads-to-800m-crypto-liquidations)
+- [Crypto: Bitcoin (BTC) price slumps to 3-month low - cnbc](https://www.cnbc.com/2022/01/07/crypto-bitcoin-btc-price-slumps-to-3-month-low.html)
 - [Bitcoin, Ethereum and Stock Prices Fall as Fed Readies Interest Rate Hike - Decrypt](https://decrypt.co/89833/bitcoin-ethereum-stock-prices-fall-fed-readies-interest-rate-hike)
 
 ### Mining
 
 - [Kazakhstan internet shutdown deals blow to global bitcoin mining operation - The Guardian](https://www.theguardian.com/world/2022/jan/06/kazakhstan-bitcoin-internet-shutdown)
-- [Bitcoin mining pool hashrates fall amid Kazakhstan internet shutdown](https://www.theblockcrypto.com/post/129312/bitcoin-mining-pool-hashrates-fall-amid-kazakhstan-internet-shutdown)
+- [Bitcoin mining pool hashrates fall amid Kazakhstan internet shutdown - theblockcrypto](https://www.theblockcrypto.com/post/129312/bitcoin-mining-pool-hashrates-fall-amid-kazakhstan-internet-shutdown)
 - [Kosovo bans cryptocurrency mining to save electricity - Reuters](https://www.reuters.com/markets/commodities/kosovo-bans-cryptocurrency-mining-save-electricity-2022-01-04)
 - [Congress is preparing an oversight hearing on Bitcoin mining's environmental impact - theblockcrypto](https://www.theblockcrypto.com/linked/129336/congress-is-preparing-an-oversight-hearing-on-bitcoin-minings-environmental-impact-sources)
 
 ### Ecosystem - TradFi
 
-- [Bitcoin could reach $100k if it replaces gold as store of value: Goldman - Business Standard News](https://www.business-standard.com/article/international/bitcoin-could-reach-100k-if-it-replaces-gold-as-store-of-value-goldman-122010600039_1.html)
+- [Goldman Sachs: Bitcoin could reach $100k if it replaces gold as store of value - Business Standard News](https://www.business-standard.com/article/international/bitcoin-could-reach-100k-if-it-replaces-gold-as-store-of-value-goldman-122010600039_1.html)
 - [Bitcoin at the Bank: Mainstream Lenders Dabble in Crypto Outside the U.S. - WSJ](https://www.wsj.com/articles/bitcoin-at-the-bank-mainstream-lenders-dabble-in-crypto-outside-the-u-s-11641288824)
-- [Crypto broker Bitcoin Suisse snaps up Barclays exec for CEO role](https://www.fnlondon.com/articles/crypto-broker-bitcoin-suisse-snaps-up-barclays-exec-for-ceo-role-20220107)
+- [Crypto broker Bitcoin Suisse snaps up Barclays exec for CEO role - fnlondon](https://www.fnlondon.com/articles/crypto-broker-bitcoin-suisse-snaps-up-barclays-exec-for-ceo-role-20220107)
 - [Outlook Crypto Jan 2022 - Bloomberg](https://assets.bbhub.io/professional/sites/10/1545100_CryptoOutlook_Jan2022.pdf)
 
 ### Ecosystem - Solana and OpenSea
 
-- [Solana hit with another network incident causing degraded performance](https://cointelegraph.com/news/solana-hit-with-another-network-incident-causing-degraded-performance)
-- [Polygon Under Accidental Attack From Swarm of Sunflower Farmers](https://www.coindesk.com/tech/2022/01/06/polygon-under-accidental-attack-from-swarm-of-sunflower-farmers)
+- [Solana hit with another network incident causing degraded performance - cointelegraph](https://cointelegraph.com/news/solana-hit-with-another-network-incident-causing-degraded-performance)
+- [Polygon Under Accidental Attack From Swarm of Sunflower Farmers - coindesk](https://www.coindesk.com/tech/2022/01/06/polygon-under-accidental-attack-from-swarm-of-sunflower-farmers)
 - [OpenSea Polygon NFT Sales On Track to Hit 2.2M by End of January - Blockworks](https://blockworks.co/opensea-polygon-nft-sales-on-track-to-hit-2-2m-by-end-of-january/)
-- [NFT Marketplace OpenSea Valued at $13.3B in $300M Funding Round](https://www.coindesk.com/business/2022/01/05/nft-marketplace-opensea-valued-at-133b-in-300m-funding-round-report)
-- [Announcing OpenSea’s New Funding - OpenSea Blog](https://opensea.io/blog/announcements/announcing-openseas-new-funding/)
+- [NFT Marketplace OpenSea Valued at $13.3B in $300M Funding Round - coindesk](https://www.coindesk.com/business/2022/01/05/nft-marketplace-opensea-valued-at-133b-in-300m-funding-round-report)
+- [Announcing OpenSea's New Funding - OpenSea Blog](https://opensea.io/blog/announcements/announcing-openseas-new-funding/)
 
 ### Ecosystem - El Salvador
 
@@ -59,22 +59,21 @@ banner:
 ### Regulation - US
 
 - [CFTC Orders Event-Based Binary Options Markets Operator to Pay $1.4 Million Penalty - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8478-22)
-- [Former CFTC chair proposes a means for unifying crypto regulation from divided SEC and CFTC](https://www.theblockcrypto.com/linked/129158/former-cftc-chair-proposes-a-means-for-unifying-crypto-regulation-from-divided-sec-and-cftc)
+- [Former CFTC chair proposes a means for unifying crypto regulation from divided SEC and CFTC - theblockcrypto](https://www.theblockcrypto.com/linked/129158/former-cftc-chair-proposes-a-means-for-unifying-crypto-regulation-from-divided-sec-and-cftc)
 
 ### Regulation - EU
 
-- [European Markets Regulator Seeks Feedback on Regulation of Tokenized Securities](https://www.coindesk.com/policy/2022/01/04/european-markets-regulator-seeks-feedback-on-regulation-of-tokenized-securities/)
-- [Estonia Regulator Says No Plans to Ban Crypto](https://www.coindesk.com/policy/2022/01/04/estonia-regulator-says-no-plans-to-ban-crypto)
+- [European Markets Regulator Seeks Feedback on Regulation of Tokenized Securities - coindesk](https://www.coindesk.com/policy/2022/01/04/european-markets-regulator-seeks-feedback-on-regulation-of-tokenized-securities/)
+- [Estonia Regulator Says No Plans to Ban Crypto - coindesk](https://www.coindesk.com/policy/2022/01/04/estonia-regulator-says-no-plans-to-ban-crypto)
 
 ### Regulation - CBDC
 
-- [China’s digital yuan wallet goes live on app stores in pilot mode](https://www.theblockcrypto.com/linked/129081/chinas-digital-yuan-wallet-goes-live-on-app-stores-in-pilot-mode)
-- [China’s digital yuan wallet goes live on app stores in pilot mode](https://www.theblockcrypto.com/linked/129081/chinas-digital-yuan-wallet-goes-live-on-app-stores-in-pilot-mode)
-- [Jamaica Completes CBDC Pilot, Expects Rollout Later This Year](https://www.coindesk.com/policy/2022/01/03/jamaica-completes-cbdc-pilot-expects-to-rollout-later-this-year/)
+- [China's digital yuan wallet goes live on app stores in pilot mode - theblockcrypto](https://www.theblockcrypto.com/linked/129081/chinas-digital-yuan-wallet-goes-live-on-app-stores-in-pilot-mode)
+- [Jamaica Completes CBDC Pilot, Expects Rollout Later This Year - coindesk](https://www.coindesk.com/policy/2022/01/03/jamaica-completes-cbdc-pilot-expects-to-rollout-later-this-year/)
 
 ### Tech - Bitcoin
 
-- [Efficient reusable Taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
+- [Efficient reusable Taproot addresses - gist](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
 
 ### Opinions
 
