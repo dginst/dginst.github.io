@@ -19,12 +19,12 @@ anche con riferimento alle azioni risarcitorie in corso a favore delle vittime d
 Questi i temi affrontato nel webinar organizzato dal Parlamento Europeo lo scorso 26 marzo,
 il quale ha segnato un importante momento di affermazione di Bitcoin e dell'ecosistema cripto in generale:
 dal lancio di Bitcoin nel 2009 il settore delle cripto-attività è cresciuto esponenzialmente,
-con capitalizzazione che quest’anno ha superato il trilione di dollari.
+con capitalizzazione che quest'anno ha superato il trilione di dollari.
 
-Dopo anni di discussioni, l’infelice stagione delle ICO del 2016-2018 e
+Dopo anni di discussioni, l'infelice stagione delle ICO del 2016-2018 e
 i recenti allarmi sui potenziali rischi sistemici legati ad alcuni nuovi progetti di stablecoin,
 la Commissione Europea ha varato una proposta di regolamentazione dei mercati in crypto-asset (MiCA),
-come parte del “**Digital Finance Package**”, ora all’esame del PE e del Consiglio UE.
+come parte del “**Digital Finance Package**”, ora all'esame del PE e del Consiglio UE.
 
 Moderato da **Pierangelo Soldavini**, *Il Sole 24 Ore*, il webinar è stato così strutturato:
 
@@ -38,13 +38,13 @@ Moderato da **Pierangelo Soldavini**, *Il Sole 24 Ore*, il webinar è stato cos�
   **Antonio Maria Rinaldi**, Parlamentare europeo  
   **Francesca Medda**, *CONSOB*  
   **Brando Benifei**, Parlamentare europeo  
-  **Giuseppe Ferrero**, *Banca d’Italia*  
+  **Giuseppe Ferrero**, *Banca d'Italia*  
 - Trend recenti: Securities Token Offering (STO) e recupero investimenti in Initial Coin Offering (ICO)  
   **Francesco Dagnino**, *LEXIA Avvocati*  
   **Giovanni Indirli**, *LEXIA Avvocati*  
   **Massimo Campailla**, *ZUNARELLI Studio legale associato*
 
-L’evento è stato trasmesso in diretta su [www.ilsole24ore.com](www.ilsole24ore.com),
+L'evento è stato trasmesso in diretta su [www.ilsole24ore.com](www.ilsole24ore.com),
 sul sito del [Parlamento Europeo](https://www.europarl.europa.eu/italy/it/succede-al-pe/cripto-attivit%C3%A0-tra-recenti-sviluppi-e-digital-finance-package)
 e sul canale YouTube di [FASI](https://youtu.be/QLC_qGeZBR8).
 

@@ -19,20 +19,20 @@ banner:
 
 ### Markets
 
-- [Why Bitcoin’s Price Got Stuck at $50,000 - WSJ](https://www.wsj.com/articles/why-bitcoins-price-got-stuck-at-50-000-11630575001)
+- [Why Bitcoin's Price Got Stuck at $50,000 - WSJ](https://www.wsj.com/articles/why-bitcoins-price-got-stuck-at-50-000-11630575001)
 - [Crypto Outlook Sept 2021 - Bloomberg](https://assets.bbhub.io/promo/sites/12/1338231_Crypto-September2021Outlook.pdf)
 - [Fidelity Predicting $100 Million per Bitcoin by 2035 - Investing.com India](https://in.investing.com/news/fidelity-predicting-100-million-per-bitcoin-by-2035-2863299)
 - [State of the Market - Coin Metrics](https://f.hubspotusercontent00.net/hubfs/5264302/State%20of%20the%20Market%20-%20Aug%2026%20-%20Sept%201%2c%202021.pdf)
 - [State of the Network: Issue 118 - Coin Metrics](https://coinmetrics.substack.com/p/coin-metrics-state-of-the-network-b1e)
 - [On-Chain Analysis - Coinmonks, by Heinrich Bredenkamp](https://medium.com/coinmonks/on-chain-analysis-9ec46454af3d)
-- [Billionaire John Paulson Calls Crypto ‘A Limited Supply of Nothing’ - Blockworks](https://blockworks.co/billionaire-john-paulson-calls-crypto-a-limited-supply-of-nothing/)
+- [Billionaire John Paulson Calls Crypto ‘A Limited Supply of Nothing' - Blockworks](https://blockworks.co/billionaire-john-paulson-calls-crypto-a-limited-supply-of-nothing/)
 - [Preaching to the Nocoiners. Bitcoin Tech Talk #255 - by Jimmy Song - Bitcoin Tech Talk](https://jimmysong.substack.com/p/preaching-to-the-nocoiners-bitcoin)
 - [One in Ten People in the US Invest in Crypto: Survey - Decrypt](https://decrypt.co/79363/one-in-ten-people-in-the-us-invest-in-crypto-survey)
 - [Momentive Poll: Invest in You - CNBC](https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-august-2021/)
 - [Franklin Templeton eyes bitcoin ether trades with planned hires](https://www.coindesk.com/business/2021/09/01/mutual-fund-giant-franklin-templeton-eyes-bitcoin-ether-trades-with-planned-hires)
 - [Franklin Templeton Seeking to Hire Crypto Trader, Researcher - Blockworks](https://blockworks.co/franklin-templeton-seeking-to-hire-crypto-trader-researcher/)
 - [japans-sbi-holdings-to-launch-crypto-fund-report - CoinDesk](https://www.coindesk.com/business/2021/09/02/japans-sbi-holdings-to-launch-crypto-fund-report/)
-- [Paul Tudor Jones’ Tudor Group Reportedly Working on Digital Disruption Fund - Blockworks](https://blockworks.co/paul-tudor-jones-tudor-group-reportedly-working-on-digital-disruption-fund/)
+- [Paul Tudor Jones' Tudor Group Reportedly Working on Digital Disruption Fund - Blockworks](https://blockworks.co/paul-tudor-jones-tudor-group-reportedly-working-on-digital-disruption-fund/)
 
 ### Tech - Ethereum
 
@@ -46,8 +46,8 @@ banner:
 
 ### Markets - Alt-coins
 
-- [Cardano’s Ada Is the Latest Cryptocurrency to Surge. Here’s What You Need to Know. - WSJ](https://www.wsj.com/articles/cardanos-ada-is-the-latest-cryptocurrency-to-surge-heres-what-you-need-to-know-11630143002)
-- [Cardano joins crypto’s creative destruction loop - Reuters](https://www.reuters.com/breakingviews/cardano-joins-cryptos-creative-destruction-loop-2021-09-02/)
+- [Cardano's Ada Is the Latest Cryptocurrency to Surge. Here's What You Need to Know. - WSJ](https://www.wsj.com/articles/cardanos-ada-is-the-latest-cryptocurrency-to-surge-heres-what-you-need-to-know-11630143002)
+- [Cardano joins crypto's creative destruction loop - Reuters](https://www.reuters.com/breakingviews/cardano-joins-cryptos-creative-destruction-loop-2021-09-02/)
 - [solana-boosted-by-move-into-nfts-enters-list-of-top-10-cryptocurrencies-by-market-cap - CoinDesk](https://www.coindesk.com/markets/2021/08/29/solana-boosted-by-move-into-nfts-enters-list-of-top-10-cryptocurrencies-by-market-cap/)
 - [Solana and Polkadot Ride High as Altcoin Season Heats Up: Markets Wrap](https://blockworks.co/solana-and-polkadot-ride-high-as-altcoin-season-heats-up-markets-wrap/)
 
@@ -67,7 +67,7 @@ banner:
 - [NFT Craze Rages On as August Sales Near $900M - Blockworks](https://blockworks.co/nft-craze-rages-on-as-august-sales-near-900m/)
 - [Binance NFT Launches Premium NFT Collection by The State Hermitage Museum - Binance](https://www.binance.com/en/support/announcement/2bebd933495c4fe6aac535a5b2f27bf8)
 - [OpenSea Hits $3B in Monthly NFT Volume - Blockworks](https://blockworks.co/opensea-hits-3b-in-monthly-nft-volume/)
-- [OpenSea’s team of 37 staff is currently handling 98% of combined NFT volumes - cointelegraph](https://cointelegraph.com/news/opensea-s-team-of-37-staff-are-currently-handling-98-of-combined-nft-volumes)
+- [OpenSea's team of 37 staff is currently handling 98% of combined NFT volumes - cointelegraph](https://cointelegraph.com/news/opensea-s-team-of-37-staff-are-currently-handling-98-of-combined-nft-volumes)
 - [Ethereum NFT CryptoPunks Hit $1 Billion in Total Sales - Decrypt](https://decrypt.co/79698/ethereum-nft-cryptopunks-hit-1-billion-in-total-sales)
 - [dolce-gabbana-to-feature-nft-of-rare-tiara-in-first-drop - Coindesk](https://www.coindesk.com/business/2021/08/27/dolce-gabbana-to-feature-nft-of-rare-tiara-in-first-drop/)
 - [Crypto exchange OKEx launches challenger NFT marketplace](https://www.theblockcrypto.com/post/116428/crypto-exchange-okex-launches-nft-marketplace)
@@ -75,8 +75,8 @@ banner:
 
 ### Ecosystem - Jack Dorseys's TBD
 
-- [Jack Dorsey: ‘TBD’ Will Be Open Platform for Decentralized Bitcoin Exchanges - Blockworks](https://blockworks.co/jack-dorsey-tbd-will-be-open-platform-for-decentralized-bitcoin-exchanges/)
-- ["We’ve determined @TDB54566975’s direction" - Twitter](https://twitter.com/jack/status/1431320761474617344)
+- [Jack Dorsey: ‘TBD' Will Be Open Platform for Decentralized Bitcoin Exchanges - Blockworks](https://blockworks.co/jack-dorsey-tbd-will-be-open-platform-for-decentralized-bitcoin-exchanges/)
+- ["We've determined @TDB54566975's direction" - Twitter](https://twitter.com/jack/status/1431320761474617344)
 - [squares-jack-dorsey-plans-to-build-decentralized-bitcoin-exchange - CoinDesk](https://www.coindesk.com/business/2021/08/27/squares-jack-dorsey-plans-to-build-decentralized-bitcoin-exchange/)
 - [Twitter appears to be adding the ability to tip using Bitcoin](https://www.theblockcrypto.com/post/116320/twitter-appears-to-be-adding-the-ability-to-tip-using-bitcoin)
 - [twitter-could-be-adding-bitcoin-as-payment-option-for-tip-jar-reporta](https://www.coindesk.com/business/2021/09/01/twitter-could-be-adding-bitcoin-as-payment-option-for-tip-jar-report/)
@@ -105,12 +105,12 @@ banner:
 ### Regulation - Gensler
 
 - [sec-chair-gensler-lays-out-crypto-regulation-stance-to-european-parliamenta](https://www.coindesk.com/policy/2021/09/01/sec-chair-gensler-lays-out-crypto-regulation-stance-to-european-parliament/)
-- [SEC’s Gensler: Crypto Needs Regulation to Survive - Blockworks](https://blockworks.co/secs-gensler-crypto-needs-regulation-to-survive/)
+- [SEC's Gensler: Crypto Needs Regulation to Survive - Blockworks](https://blockworks.co/secs-gensler-crypto-needs-regulation-to-survive/)
 - [Crypto platforms need regulation to survive, says SEC boss - Financial Times](https://www.ft.com/content/fb126d79-2e60-4002-8aba-b08887fca609)
 
 ### Ecosystem - Binance
 
-- [UK’s FCA says it is ‘not capable’ of supervising crypto exchange Binance - Financial Times](https://www.ft.com/content/17620a3b-b82d-4b85-aa85-4cf2793b7a02)
+- [UK's FCA says it is ‘not capable' of supervising crypto exchange Binance - Financial Times](https://www.ft.com/content/17620a3b-b82d-4b85-aa85-4cf2793b7a02)
 - [Consumer warning on Binance Markets Limited and the Binance Group - FCA](https://www.fca.org.uk/news/news-stories/consumer-warning-binance-markets-limited-and-binance-group)
 - [First Supervisory Notice 2021: Binance Markets Limited - FCA](https://www.fca.org.uk/publication/supervisory-notices/first-supervisory-notice-binance-markets-limited.pdf)
 - [FCA notice says Binance is 'not capable' of being supervised - The Block](https://www.theblockcrypto.com/linked/115624/fca-notice-says-binance-is-not-capable-of-being-supervised-report)

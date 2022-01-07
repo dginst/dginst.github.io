@@ -37,7 +37,7 @@ banner:
 - [Switzerland's SEBA Bank wants to use Aave's institutional DeFi platform](https://www.theblockcrypto.com/linked/128281/switzerlands-seba-bank-wants-to-use-aaves-institutional-defi-platform)
 - [Terra Becomes Second-Largest DeFi Protocol, Surpassing Binance Smart Chain](https://www.coindesk.com/markets/2021/12/21/terra-becomes-second-largest-defi-protocol-surpassing-binance-smart-chain/)
 - [Do Kwon, Terra Claim SEC Violated Procedure in Ongoing Legal Fight](https://www.coindesk.com/policy/2021/12/20/do-kwon-terra-claim-sec-violated-procedure-in-ongoing-legal-fight/)
-- [Terraform Labs Hits Back at SEC: ‘No Jurisdiction over Do Kwon’ - Blockworks](https://blockworks.co/terraform-labs-hits-back-at-sec-no-jurisdiction-over-do-kwon/)
+- [Terraform Labs Hits Back at SEC: ‘No Jurisdiction over Do Kwon' - Blockworks](https://blockworks.co/terraform-labs-hits-back-at-sec-no-jurisdiction-over-do-kwon/)
 - [Parachains officially launch on Polkadot network](https://www.theblockcrypto.com/linked/128026/parachains-officially-launch-on-polkadot-network)
 - [Polkadot Launches Parachains, Increasing Scalability - Decrypt](https://decrypt.co/88850/polkadot-launches-first-5-parachains)
 - [Uniswap Launches on Polygon, Driving MATIC to All-Time Highs - Coindesk](https://www.coindesk.com/markets/2021/12/22/uniswap-launches-on-polygon-driving-matic-to-all-time-highs/)
@@ -46,7 +46,7 @@ banner:
 
 ### Ecosystem - NFT
 
-- [First Wikipedia edit NFT sells at Christie’s for $750K - Cointelegraph](https://cointelegraph.com/news/first-wikipedia-edit-nft-sells-at-christie-s-for-750k)
+- [First Wikipedia edit NFT sells at Christie's for $750K - Cointelegraph](https://cointelegraph.com/news/first-wikipedia-edit-nft-sells-at-christie-s-for-750k)
 - [Crypto Exchange BitMEX to Launch and Airdrop Native Token - Decrypt](https://decrypt.co/88943/crypto-exchange-bitmex-launch-airdrop-native-token)
 - [Crypto.com Will Run Its First Super Bowl Ad Amid Marketing Blitz - WSJ](https://www.wsj.com/articles/crypto-com-will-run-its-first-super-bowl-ad-amid-marketing-blitz-11640174402)
 - [Decentralized exchanges saw over $1 trillion in trading volume this year](https://www.theblockcrypto.com/linked/128500/decentralized-exchanges-saw-over-1-trillion-in-trading-volume-this-year)
@@ -69,13 +69,13 @@ banner:
 
 ### Regulation
 
-- [Only Two Senators Own Crypto Assets. Both Are Shaping the Industry’s Rules. - WSJ](https://www.wsj.com/articles/senators-own-cryptocurrency-assets-as-they-shape-rules-for-industry-11640005202?st=h839iwj1vro4x74&reflink=article_email_share)
+- [Only Two Senators Own Crypto Assets. Both Are Shaping the Industry's Rules. - WSJ](https://www.wsj.com/articles/senators-own-cryptocurrency-assets-as-they-shape-rules-for-industry-11640005202?st=h839iwj1vro4x74&reflink=article_email_share)
 - [Bank of England to Ramp Up Talks on Crypto Rules as Data Is Hard to Find - CoinDesk](https://www.coindesk.com/policy/2021/12/19/bank-of-england-to-ramp-up-talks-on-crypto-rules-as-data-is-hard-to-find/)
 - [Paraguay moves a step closer to regulating digital currency](https://cointelegraph.com/news/paraguay-moves-a-step-closer-to-regulating-digital-currency)
 
 ### Facts and Opinions
 
-- [Asset classes of 2021: Bitcoin’s surge leaves gold in the dust - Financial Times](https://www.ft.com/content/64980671-f086-42c0-91dc-17aa1fc93ee0)
+- [Asset classes of 2021: Bitcoin's surge leaves gold in the dust - Financial Times](https://www.ft.com/content/64980671-f086-42c0-91dc-17aa1fc93ee0)
 - [Why bitcoin is worse than a Madoff-style Ponzi scheme - Financial Times](https://www.ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0)
 - [Bitcoin: Disrupting Cross Border Payments - IMF Fintech Seminar - YouTube](https://www.youtube.com/watch?v=jb-45m9f76I)
 - [Jack Dorsey: Bitcoin will replace the dollar, criticizes Web3 - Fortune](https://fortune.com/2021/12/21/crypto-replace-dollar-jack-dorsey/)

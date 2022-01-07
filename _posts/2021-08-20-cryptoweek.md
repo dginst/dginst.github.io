@@ -86,15 +86,15 @@ banner:
 
 ### Ecosystem - Decentralized Finance
 
-- [What Investors Have to Say About DeFi’s Largest Hack to Date - Blockworks](https://blockworks.co/what-investors-have-to-say-about-defis-largest-hack-to-date/)
+- [What Investors Have to Say About DeFi's Largest Hack to Date - Blockworks](https://blockworks.co/what-investors-have-to-say-about-defis-largest-hack-to-date/)
 - [Galaxy Digital Launches DeFi Index Tracker Fund - CoinDesk](https://www.coindesk.com/galaxy-digital-launches-defi-index-tracker-fund)
 
 ### Regulation
 
 - [DeFi Not Immune to SEC Oversight, Gensler Says - CoinDesk](https://www.coindesk.com/defi-not-immune-to-sec-oversight-gensler-says-report)
 - [DeFi projects could come under SEC's oversight, says chairman Gensler - The Block](https://www.theblockcrypto.com/linked/115016/defi-projects-regulation-sec-chairman-gensler)
-- [Crypto’s ‘DeFi’ Projects Aren’t Immune to Regulation, SEC’s Gensler Says - WSJ](https://www.wsj.com/articles/cryptos-defi-projects-arent-immune-to-regulation-secs-gensler-says-11629365401)
-- [The crypto ‘wild west’ needs a good sheriff - Financial Times](https://www.ft.com/content/2b9cadc9-5c72-4c38-bfda-59a8a2153b41)
+- [Crypto's ‘DeFi' Projects Aren't Immune to Regulation, SEC's Gensler Says - WSJ](https://www.wsj.com/articles/cryptos-defi-projects-arent-immune-to-regulation-secs-gensler-says-11629365401)
+- [The crypto ‘wild west' needs a good sheriff - Financial Times](https://www.ft.com/content/2b9cadc9-5c72-4c38-bfda-59a8a2153b41)
 - [Deputy Superintendent for Virtual Currency (NYDFS) - LinkedIn](https://www.linkedin.com/jobs/view/deputy-superintendent-for-virtual-currency-at-new-york-state-center-for-recruitment-public-service-2630943109/)
 - [Former SEC Chairman Jay Clayton Joins Crypto Platform Fireblocks - Blockworks](https://blockworks.co/former-sec-chairman-jay-clayton-joins-crypto-platform-fireblocks/)
 - [One River Digital Asset Management welcomes Jay Clayton to Advisory Council](https://www.prnewswire.com/news-releases/one-river-digital-asset-management-welcomes-jay-clayton-kevin-hassett-and-jon-orszag-to-newly-formed-academic-and-regulatory-advisory-council-301257503.html)
@@ -102,7 +102,7 @@ banner:
 ### Regulation - CBDC
 
 - [Bank of Korea to Pilot CBDC on Samsung Galaxy Phones - Decrypt](https://decrypt.co/78581/bank-of-korea-to-pilot-cbdc-on-samsung-galaxy-phones)
-- [Singapore’s Central Bank Is Building A Bitcoin Inspired Currency Using JP Morgan Technology](https://www.forbes.com/sites/emilymason/2021/08/19/singapores-central-bank-is-building-a-bitcoin-inspired-currency-using-jp-morgan-technology/)
+- [Singapore's Central Bank Is Building A Bitcoin Inspired Currency Using JP Morgan Technology](https://www.forbes.com/sites/emilymason/2021/08/19/singapores-central-bank-is-building-a-bitcoin-inspired-currency-using-jp-morgan-technology/)
 
 ### Tech - Bitcoin
 

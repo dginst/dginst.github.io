@@ -13,7 +13,7 @@ newsfeed: true
 
 **Digital Gold Institute** entra a far parte della community
 [Fintech District](https://www.fintechdistrict.com/is-bitcoin-the-digital-equivalent-of-gold),
-l’ecosistema fintech italiano ed europeo composto ad oggi di 136 entità del settore.
+l'ecosistema fintech italiano ed europeo composto ad oggi di 136 entità del settore.
 
 È l'opportunità per il nostro istituto di
 **contribuire alla diffusione di una corretta e trasparente comprensione**,

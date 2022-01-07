@@ -16,7 +16,7 @@ si stanno delineando nuove modalità di gestione
 dei flussi di denaro.
 Da un lato banche centrali e novità su valute
 virtuali a governance centralizzata, compliant
-con leggi e regolamenti comunitari. Dall’altro
+con leggi e regolamenti comunitari. Dall'altro
 monete private, nate dalla ricerca
 crittografica e dallo sviluppo tecnologico degli
 ultimi anni. Quale lo scenario in un mercato
@@ -38,15 +38,15 @@ banking, asset management e quantitative finance, dal 2014 esperto sul
 tema Bitcoin e Blockchain Technologies. Cofondatore e amministratore di
 CheckSig (soluzioni di custodia bitcoin), direttore scientifico del Digital
 Gold Institute (consulenza, ricerca e sviluppo su bitcoin e blockchain) e
-direttore scientifico del Crypto Asset Lab dell’Università Milano-Bicocca,
+direttore scientifico del Crypto Asset Lab dell'Università Milano-Bicocca,
 dove insegna Bitcoin and Blockchain Technologies.
 >
 [Guido Maria Brera](https://twitter.com/guidobrera)
 >
 Cofondatore e azionista di minoranza del Gruppo Kairos, è consigliere e
 Chief Investment Officer di Kairos Partners SGR.
-Laurea con lode presso l’Università “La Sapienza” di Roma e 25 anni di
-esperienza. Nel 1994 ha iniziato il suo percorso professionale all’interno del
+Laurea con lode presso l'Università “La Sapienza” di Roma e 25 anni di
+esperienza. Nel 1994 ha iniziato il suo percorso professionale all'interno del
 Gruppo Fineco, dove ha ricoperto il ruolo di gestore del fondo Cisalpino
 Bilanciato e del fondo Cisalpino Indice, numero uno tra i fondi azionari
 italiani nel 1996. In seguito è stato Responsabile del proprietary trading di

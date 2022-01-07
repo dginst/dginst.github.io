@@ -20,7 +20,7 @@ banner:
 ### Tech - Ethereum
 
 - [Ethereum's Hotly Anticipated 'London' Hard Fork Is Now Live - CoinDesk](https://www.coindesk.com/ethereum-hotly-anticipated-london-hard-fork-is-now-live)
-- [EIP-1559 is Live Thanks to Ethereum’s London Hard Fork - Blockworks](https://blockworks.co/eip-1559-is-live-thanks-to-ethereums-london-hard-fork/)
+- [EIP-1559 is Live Thanks to Ethereum's London Hard Fork - Blockworks](https://blockworks.co/eip-1559-is-live-thanks-to-ethereums-london-hard-fork/)
 - [The time Bomb - Twitter](http://twitter.com/nethermindeth/status/1414622903274905600)
 - [A rollup-centric ethereum roadmap - Fellowship of Ethereum Magicians](http://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
 - [Analysts Take Cautious Stance on Ether as London Hard Fork Nears - CoinDesk](https://www.coindesk.com/analysts-take-cautious-stance-on-ether-as-london-hard-fork-nears%20)
@@ -36,7 +36,7 @@ banner:
 
 - [New Crypto Bill in US Is the Most Comprehensive Yet - CoinDesk](http://www.coindesk.com/new-crypto-bill-in-us-congress-is-the-most-comprehensive-yet)
 - [Updated US Infrastructure Bill Narrows Crypto Reporting Rule - CoinDesk](http://www.coindesk.com/updated-infrastructure-bill)
-- [Infrastructure Deal Puts Cryptocurrencies in Washington’s Cross Hairs - The New York Times](http://www.nytimes.com/2021/07/30/us/politics/infrastructure-deal-cryptocurrency.html)
+- [Infrastructure Deal Puts Cryptocurrencies in Washington's Cross Hairs - The New York Times](http://www.nytimes.com/2021/07/30/us/politics/infrastructure-deal-cryptocurrency.html)
 - [How language in the infrastructure bill could roil the crypto markets - CNBC](http://www.cnbc.com/2021/08/02/how-language-in-the-infrastructure-bill-could-roil-the-crypto-markets.html)
 - [U.S. Crypto Traders Evade Offshore Exchange Bans - WSJ](www.wsj.com/articles/u-s-crypto-traders-evade-offshore-exchange-bans-11627637401)
 - [New Infrastructure Bill Looks to Raise $30B Through Crypto Taxes - CoinDesk](www.coindesk.com/new-infrastructure-bill-looks-to-raise-30b-through-crypto-taxes)
@@ -47,9 +47,9 @@ banner:
 ### Regulation - SEC's Gensler
 
 - [Remarks Before the Aspen Security Forum - SEC.gov](https://www.sec.gov/news/public-statement/gensler-aspen-security-forum-2021-08-03)
-- [Crypto ‘Wild West’ Needs Stronger Investor Protection, SEC Chief Says - WSJ](https://www.wsj.com/articles/sec-will-police-cryptocurrencies-to-maximum-possible-extent-chair-gary-gensler-says-11628007567)
+- [Crypto ‘Wild West' Needs Stronger Investor Protection, SEC Chief Says - WSJ](https://www.wsj.com/articles/sec-will-police-cryptocurrencies-to-maximum-possible-extent-chair-gary-gensler-says-11628007567)
 - [Gensler sets SEC sights on DeFi, crypto lending and more in expansive speech on regulation - The Block](https://www.theblockcrypto.com/post/113416/gensler-speech-crypto-defi-lending-sec)
-- [SEC Chairman Gensler Agrees With Predecessor: ‘Every ICO Is a Security’ - Coindesk](coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security)
+- [SEC Chairman Gensler Agrees With Predecessor: ‘Every ICO Is a Security' - Coindesk](coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security)
 - [SEC Chief Gary Gensler Braces for Clash With Crypto Traders - WSJ](https://www.wsj.com/articles/sec-chief-gary-gensler-braces-for-clash-with-crypto-traders-11628164980)
 - [SEC chair Gary Gensler on his vision for cryptocurrency regulation](https://www.cnbc.com/video/2021/08/04/sec-chair-gary-gensler-on-his-vision-for-cryptocurrency-regulation.html)
 - [SEC's Gensler Agrees With Predecessor: 'Every ICO Is a Security' - CoinDesk](https://www.coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security%20)
@@ -60,9 +60,9 @@ banner:
 - [IMF warns against using crypto as national currency ahead of El Salvador launch - Coindesk](https://www.ft.com/content/c36c45d2-1100-4756-a752-07a217b2bde0)
 - [Cryptoassets as National Currency? A Step Too Far – IMF Blog](https://blogs.imf.org/2021/07/26/cryptoassets-as-national-currency-a-step-too-far)
 - [Fed's Brainard: Can't wrap head around not having U.S. central bank digital currency - Reuters](https://www.reuters.com/technology/feds-brainard-cant-wrap-head-around-not-having-us-central-bank-digital-currency-2021-07-31)
-- [Fed’s Brainard Says US Can’t Not Have a CBDC in a World in Which Others Have Them - Coindesk](https://www.coindesk.com/feds-brainard-says-us-cant-not-have-a-cbdc-in-a-world-in-which-others-have-them)
-- [How the Fed’s digital currency could displace crypto - Financial Times](https://www.ft.com/content/14b0fc81-ac17-4436-89ac-09d71c15d2af)
-- [Out of control and rising: why bitcoin has Nigeria’s government in a panic - The Guardian](https://www.theguardian.com/technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic)
+- [Fed's Brainard Says US Can't Not Have a CBDC in a World in Which Others Have Them - Coindesk](https://www.coindesk.com/feds-brainard-says-us-cant-not-have-a-cbdc-in-a-world-in-which-others-have-them)
+- [How the Fed's digital currency could displace crypto - Financial Times](https://www.ft.com/content/14b0fc81-ac17-4436-89ac-09d71c15d2af)
+- [Out of control and rising: why bitcoin has Nigeria's government in a panic - The Guardian](https://www.theguardian.com/technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic)
 
 ### Ecosystem - BlockFi
 
@@ -80,13 +80,13 @@ banner:
 - [Is the crypto market still too Wild West for the traditional buy-side? - The Trade News](https://www.thetradenews.com/is-the-crypto-market-still-too-wild-west-for-the-traditional-buy-side/)
 - [American Bankers Association Encourages Partnerships With Crypto Firms In New Report](https://www.forbes.com/sites/jasonbrett/2021/08/02/american-bankers-association-encourages-partnerships-with-crypto-firms-in-new-report)
 - [Square Customers Spent $2.7 Billion on Bitcoin in Q2 - Decrypt](https://decrypt.co/77429/square-customers-spent-2-7-billion-bitcoin-q2)
-- [PayPal CEO: Smart Contracts, DeFi Apps Part of Company’s Crypto Plans - Blockworks](https://blockworks.co/paypal-ceo-smart-contracts-defi-apps-part-of-companys-crypto-plans)
+- [PayPal CEO: Smart Contracts, DeFi Apps Part of Company's Crypto Plans - Blockworks](https://blockworks.co/paypal-ceo-smart-contracts-defi-apps-part-of-companys-crypto-plans)
 - [Michael Saylor: Bitcoin is “A Trillion-Dollar Opportunity” for Tech Giants - Blockworks](https://blockworks.co/michael-saylor-bitcoin-is-a-trillion-dollar-opportunity-for-tech-giants)
 
 ### Ecosystem - Matrixport
 
 - [Matrixport Raises $100M and Hits Unicorn Status with $1B Valuation - Blockworks](https://blockworks.co/matrixport-raises-100m-and-hits-unicorn-status-with-1b-valuation/)
-- [Asia’s Leading Crypto Financial Services Platform Valued at Over $1 Billion — Matrixport](https://matrixport.medium.com/asias-leading-crypto-financial-services-platform-matrixport-valued-at-over-1-billion-two-eca9065b4382)
+- [Asia's Leading Crypto Financial Services Platform Valued at Over $1 Billion — Matrixport](https://matrixport.medium.com/asias-leading-crypto-financial-services-platform-matrixport-valued-at-over-1-billion-two-eca9065b4382)
 - [Matrixport closes $100 million fundraise at ~$1 billion pre-money valuation - The Block](https://www.theblockcrypto.com/linked/113201/matrixport-100-million-series-c-1-billion-valuation)
 
 ### Ecosystem - Reports
@@ -107,7 +107,7 @@ banner:
 ### Tech
 
 - [Why You Should Run a Full Node - by Jimmy Song, Bitcoin Tech Talk #251](https://jimmysong.substack.com/p/why-you-should-run-a-full-node-bitcoin)
-- [Lightning: Bitcoin’s High Speed Transmission Protocol -  CoinShares](https://coinshares.com/research/lightning-explained-bitcoin-high-speed-transmission-protocol)
+- [Lightning: Bitcoin's High Speed Transmission Protocol -  CoinShares](https://coinshares.com/research/lightning-explained-bitcoin-high-speed-transmission-protocol)
 - [The Lightning Network Is Bigger Than You Think -  Kevin Rooke](https://www.kevinrooke.blog/the-lightning-network-is-bigger-than-you-think/)
 - [On the security model of software wallets - Ledger](https://donjon.ledger.com/software-wallets/)
 - [Newsletter #160 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/08/04/)

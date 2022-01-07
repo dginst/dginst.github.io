@@ -20,18 +20,18 @@ banner:
 ### Markets
 
 - [Bitcoin Breaks Below $30,000 on China Concerns - Blockworks](https://blockworks.co/bitcoin-breaks-below-30000-on-china-concerns)
-- [Bitcoin falls in wake of China’s deepening crackdown on mining - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/article-bitcoin-falls-almost-10-in-wake-of-chinas-deepening-crackdown-on)
+- [Bitcoin falls in wake of China's deepening crackdown on mining - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/article-bitcoin-falls-almost-10-in-wake-of-chinas-deepening-crackdown-on)
 
 ### Tech - Mining
 
 - [Bitcoin mining: China clamps down on booming trade where some can earn £60,000 a day - Science & Tech News - Sky News](https://news.sky.com/story/china-clamps-down-on-bitcoin-mining-where-some-can-earn-60-000-a-day-12267572)
 - [China steps up crackdown on bitcoin mining industry - Financial Times](https://www.ft.com/content/7526f514-9f36-4dbb-94ee-beb061f5cc52)
-- [China’s cryptocurrency crackdown intensifies as Sichuan province orders a stop to mining operations - South China Morning Post](https://www.scmp.com/tech/policy/article/3137988/chinas-cryptocurrency-crackdown-intensifies-sichuan-province-orders)
+- [China's cryptocurrency crackdown intensifies as Sichuan province orders a stop to mining operations - South China Morning Post](https://www.scmp.com/tech/policy/article/3137988/chinas-cryptocurrency-crackdown-intensifies-sichuan-province-orders)
 - [Videos about miner packing up and leaving - Twitter](https://twitter.com/bigmagicdao/status/1406280613225660419)
 - [BIT Mining Successfully Delivers Mining Machines to Kazakhstan](https://ir.btc.com/2021-06-21-BIT-Mining-Successfully-Delivers-Mining-Machines-to-Kazakhstan)
 - [Cambridge Bitcoin Electricity Consumption Index (CBECI)](https://cbeci.org/mining_map)
 - [Chinese bitcoin mining pools see further hash rate plunge](https://www.theblockcrypto.com/post/109030/chinese-bitcoin-mining-pools-hash-rate-plunge-sichuan-shutdown)
-- [China’s bitcoin crackdown: Mining equipment, and carbon emissions, moving from the mainland to US - South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3138342/chinas-bitcoin-crackdown-mining-equipment-and-carbon-emissions)
+- [China's bitcoin crackdown: Mining equipment, and carbon emissions, moving from the mainland to US - South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3138342/chinas-bitcoin-crackdown-mining-equipment-and-carbon-emissions)
 - [Bitmain Suspends Sales of Bitcoin Mining Machine Amid China Crackdown - Decrypt](https://decrypt.co/74343/bitmain-suspends-sales-bitcoin-mining-machine-amid-china-crackdown)
 
 ### Regulation
@@ -40,8 +40,8 @@ banner:
 - [PBoC orders Chinese banks to cut off accounts for crypto OTC merchants](https://www.theblockcrypto.com/post/109098/pboc-orders-chinese-banks-to-cut-off-accounts-for-crypto-otc-merchants-reiterating-2017-banking-ban)
 - [Registration of virtual assets service providers - Banco de Portugal](https://www.bportugal.pt/en/page/registration-virtual-assets-service-providers-0)
 - [Bipartisan Crypto Bills Pass US House of Representatives - CoinDesk](https://www.coindesk.com/bipartisan-crypto-bills-pass-us-house-of-representatives-again)
-- [Biden Nominee for Treasury’s Terrorism and Financial Intelligence Unit Prioritizes ‘New Regulations’ Around Cryptocurrency - Blockworks](https://blockworks.co/biden-nominee-for-treasurys-terrorism-and-financial-intelligence-unit-prioritizes-new-regulations-around-cryptocurrency)
-- [Norway’s FSA Says Legal Framework Needed in Crypto to Protect Consumers - CoinDesk](https://www.coindesk.com/norways-fsa-says-legal-framework-needed-in-crypto-to-protect-consumers)
+- [Biden Nominee for Treasury's Terrorism and Financial Intelligence Unit Prioritizes ‘New Regulations' Around Cryptocurrency - Blockworks](https://blockworks.co/biden-nominee-for-treasurys-terrorism-and-financial-intelligence-unit-prioritizes-new-regulations-around-cryptocurrency)
+- [Norway's FSA Says Legal Framework Needed in Crypto to Protect Consumers - CoinDesk](https://www.coindesk.com/norways-fsa-says-legal-framework-needed-in-crypto-to-protect-consumers)
 
 ### Markets - ETF
 
@@ -66,14 +66,14 @@ banner:
 - [Crypto is 'rat poison', a third of mainstream investment firms tell JPM - Reuters](https://www.reuters.com/business/finance/crypto-is-rat-poison-third-mainstream-investment-firms-tell-jpm-2021-06-23/)
 - [Crypto is the most dangerous investment, Bank of Russia governor says- Cointelegraph](https://cointelegraph.com/news/crypto-is-the-most-dangerous-investment-bank-of-russia-governor-says)
 - [Citigroup launches a digital asset unit within its wealth management division](https://www.theblockcrypto.com/post/109526/citigroup-digital-asset-unit)
-- [Galaxy Digital Will Provide Liquidity for Goldman Sachs’ Bitcoin Futures Trades - CoinDesk](https://www.coindesk.com/galaxy-digital-will-provide-liquidity-for-goldman-sachs-bitcoin-futures-trades)
+- [Galaxy Digital Will Provide Liquidity for Goldman Sachs' Bitcoin Futures Trades - CoinDesk](https://www.coindesk.com/galaxy-digital-will-provide-liquidity-for-goldman-sachs-bitcoin-futures-trades)
 - [PayPal, Visa Join $300M Round for Blockchain Capital - Blockworks](https://blockworks.co/paypal-visa-join-300m-round-for-blockchain-capital)
 - [Sotheby's: cryptocurrency will be accepted as payment for an exceptional diamond - Twitter](https://twitter.com/Sothebys/status/1406990890732867584)
 - [Fireblocks CEO Denies Negligence In $75 Million Ether Loss](https://www.forbes.com/sites/emilymason/2021/06/23/fireblocks-ceo-denies-negligence-in-75-million-ether-loss/)
 
 ### Markets - Inflation
 
-- [Powell: Inflation is High, But It Won’t Last - Blockworks](https://blockworks.co/powell-inflation-is-high-but-it-wont-last)
+- [Powell: Inflation is High, But It Won't Last - Blockworks](https://blockworks.co/powell-inflation-is-high-but-it-wont-last)
 - [Inflation is Here - Bitcoin Tech Talk #245](https://jimmysong.substack.com/p/inflation-is-here-bitcoin-tech-talk)
 - [Bitcoin & Inflation: Maturing Into A Real Asset - CoinShares Research](https://coinshares.com/research/bitcoin-and-inflation-maturing-into-a-real-asset)
 

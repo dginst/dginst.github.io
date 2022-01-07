@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-Verrà presentato **domani 6 ottobre alle 17:30** in diretta [YouTube](https://youtu.be/1qQBQfy5UaY) il report trimestrale sull’ecosistema Bitcoin, crypto-asset e blockchain curato dal Digital Gold Institute (DGI, www.dgi.io), il principale think tank italiano dedicato al fenomeno Bitcoin e alla scarsità in ambito digitale.
+Verrà presentato **domani 6 ottobre alle 17:30** in diretta [YouTube](https://youtu.be/1qQBQfy5UaY) il report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain curato dal Digital Gold Institute (DGI, www.dgi.io), il principale think tank italiano dedicato al fenomeno Bitcoin e alla scarsità in ambito digitale.
 
 [Ferdinando M. Ametrano](https://ametrano.net/it/about/), direttore scientifico di DGI e amministratore delegato di [CheckSig](www.checksig.io), commenterà il terzo trimestre 2021 del mercato cripto, il corso legale per Bitcoin in El Salvador, le problematiche di Binance con i regolatori, la sostenibilità dei consumi energetici, i ransomware e le attività criminali, i non-fungible token (NFT), senza tralasciare gli aspetti regolamentari collegati allo sviluppo dell'euro digitale di Banca Centrale, il recente US infrastructure Bill e la vigilanza della U.S. Securities and Exchange Commission sull'ecosistema.
 

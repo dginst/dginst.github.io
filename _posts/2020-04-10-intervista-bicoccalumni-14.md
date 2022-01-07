@@ -17,4 +17,4 @@ L'evento ha avuto come protagonista [*Ferdinando M. Ametrano*](https://www.ametr
 
 Oggi proponiamo la quattordicesima di 25 puntate: **La regolazione del trading del mondo crypto**.
 
-"Come auspicato anche da Fabio Panetta, vicedirettore di Banca d’Italia, per Bitcoin “occorre innanzi tutto lavorare sull’informazione, illustrarne le caratteristiche e i rischi”. Oggi sono già coperti alcuni aspetti regolamentari e legislativi (esenzione IVA, normativa antiriciclaggio): si può proseguire su questa strada con la cautela opportuna per non fermare l’innovazione necessaria in assenza di una comprensione reale della natura di Bitcoin."
+"Come auspicato anche da Fabio Panetta, vicedirettore di Banca d'Italia, per Bitcoin “occorre innanzi tutto lavorare sull'informazione, illustrarne le caratteristiche e i rischi”. Oggi sono già coperti alcuni aspetti regolamentari e legislativi (esenzione IVA, normativa antiriciclaggio): si può proseguire su questa strada con la cautela opportuna per non fermare l'innovazione necessaria in assenza di una comprensione reale della natura di Bitcoin."

@@ -21,10 +21,10 @@ banner:
 ### Markets
 
 - [Crypto on-chain digest - Kraken](https://kraken.docsend.com/view/i2mrwq46kg45v7p3)
-- [Kraken’s App Adds Support for Apple, Google Pay - CoinDesk](https://www.coindesk.com/business/2021/09/22/krakens-app-adds-support-for-apple-google-pay/)
+- [Kraken's App Adds Support for Apple, Google Pay - CoinDesk](https://www.coindesk.com/business/2021/09/22/krakens-app-adds-support-for-apple-google-pay/)
 - [Bitcoin Price Slides as China Jitters Hit Crypto Markets - WSJ](https://www.wsj.com/articles/bitcoin-price-slides-as-china-jitters-hit-crypto-markets-11632162568)
 - [China Declares Cryptocurrency Transactions Illegal; Bitcoin Price Falls - WSJ](https://www.wsj.com/articles/china-declares-bitcoin-and-other-cryptocurrency-transactions-illegal-11632479288)
-- [China Makes Preparations for Evergrande’s Demise - WSJ](https://www.wsj.com/articles/china-makes-preparations-for-evergrandes-demise-11632391852)
+- [China Makes Preparations for Evergrande's Demise - WSJ](https://www.wsj.com/articles/china-makes-preparations-for-evergrandes-demise-11632391852)
 - [Does bitcoin act like digital gold? Embarrassingly, it moves in close correlation with risky stocks - South China Morning Post](https://www.scmp.com/business/banking-finance/article/3149543/does-bitcoin-act-digital-gold-embarrassingly-it-moves)
 - [Institutional investors increase their crypto holdings for 5th straight week - Cointelegraph](https://cointelegraph.com/news/institutional-investors-increase-their-crypto-holdings-for-5th-straight-week)
 - [One River Digital raises $41M from Goldman Sachs and Coinbase - Cointelegraph](https://cointelegraph.com/news/one-river-digital-raises-41m-from-goldman-sachs-and-coinbase)
@@ -32,14 +32,14 @@ banner:
 
 ### Regulation
 
-- [Finance industry warns against ‘unnecessarily restrictive’ crypto capital rules - Financial Times](https://www.ft.com/content/05675352-3451-4b92-9ef9-b3e769bf30e3)
+- [Finance industry warns against ‘unnecessarily restrictive' crypto capital rules - Financial Times](https://www.ft.com/content/05675352-3451-4b92-9ef9-b3e769bf30e3)
 - [SEC's Gary Gensler criticizes stablecoins amid call for tougher crypto regulation - The Washington Post](https://www.washingtonpost.com/business/2021/09/21/sec-gensler-crypto-stablecoins/)
-- [SEC’s Gensler Calls Stablecoins ‘Poker Chips’ at the Wild West Crypto Casino - CoinDesk](https://www.coindesk.com/policy/2021/09/21/secs-gensler-calls-stablecoins-poker-chips-at-the-wild-west-crypto-casino/)
+- [SEC's Gensler Calls Stablecoins ‘Poker Chips' at the Wild West Crypto Casino - CoinDesk](https://www.coindesk.com/policy/2021/09/21/secs-gensler-calls-stablecoins-poker-chips-at-the-wild-west-crypto-casino/)
 - [Stablecoin Feature in New York Times Signals Regulation Is Coming - CoinDesk](https://www.coindesk.com/business/2021/09/19/us-regulators-looking-to-get-a-handle-on-stablecoins-ny-times-says/)
 
 ### Ecosystem
 
-- [Galaxy’s Novogratz: Our Industry Did a Terrible Job Educating Washington - Blockworks](https://blockworks.co/galaxys-novogratz-our-industry-did-a-terrible-job-educating-washington/)
+- [Galaxy's Novogratz: Our Industry Did a Terrible Job Educating Washington - Blockworks](https://blockworks.co/galaxys-novogratz-our-industry-did-a-terrible-job-educating-washington/)
 - [Coinbase CEO: 50% of the People He Spoke to in DC Think Crypto is a Risk - Blockworks](https://blockworks.co/coinbase-ceo-50-of-the-people-he-spoke-to-in-dc-think-crypto-is-a-risk/)
 - [Coinbase drops plans for crypto lending product after SEC tussle - The Block Crypto](https://www.theblockcrypto.com/linked/118091/coinbase-drops-plans-for-crypto-lending-product-after-sec-tussle)
 - [Coinbase Cancels Plans to Launch Lending Program - Blockworks](https://blockworks.co/coinbase-cancels-plans-to-launch-lending-program/)
@@ -58,7 +58,7 @@ banner:
 
 ### Ecosystem - El Salvador
 
-- [‘We Just Bought The Dip’: El Salvador President Boasts Of Doubling Down On Bitcoin As Price Drops - Forbes](https://www.forbes.com/sites/jemimamcevoy/2021/09/20/we-just-bought-the-dip-el-salvador-president-boasts-of-doubling-down-on-bitcoin-as-price-drops/)
+- [‘We Just Bought The Dip': El Salvador President Boasts Of Doubling Down On Bitcoin As Price Drops - Forbes](https://www.forbes.com/sites/jemimamcevoy/2021/09/20/we-just-bought-the-dip-el-salvador-president-boasts-of-doubling-down-on-bitcoin-as-price-drops/)
 - ["We just bought the dip" - Nayibbukele on Twitter](https://twitter.com/nayibbukele/status/1439815012642611203)
 
 ### Ecosystem - Alt-coins
@@ -68,7 +68,7 @@ banner:
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
-- [SushiSwap’s token launchpad, MISO, hacked for $3M - Cointelegraph](https://cointelegraph.com/news/sushi-s-token-launchpad-miso-hacked-for-3m)
+- [SushiSwap's token launchpad, MISO, hacked for $3M - Cointelegraph](https://cointelegraph.com/news/sushi-s-token-launchpad-miso-hacked-for-3m)
 - [pNetwork hacked for 277 BTC - pNetwork on Twitter](https://twitter.com/pNetworkDeFi/status/1439690593211490324)
 
 ### Ecosystem - Binance

@@ -28,7 +28,7 @@ banner:
 - [CME Group's Micro Bitcoin Futures Open for Trading - CoinDesk](https://www.coindesk.com/cme-micro-bitcoin-futures)
 - [Micro Bitcoin futures - CME](https://www.cmegroup.com/trading/micro-bitcoin-futures.html)
 - [Ethereum (ETH) price hits record high above $3,400 - CNBC](https://www.cnbc.com/2021/05/04/ethereum-eth-price-hits-record-high-above-3400.html)
-- [What Is Dogecoin, How to Say It, and Why It’s No Longer a Joke - WSJ](https://www.wsj.com/articles/what-is-dogecoin-how-to-say-it-and-why-its-no-longer-a-joke-thanks-elon-11612820776?mod=markets_featst_pos2)
+- [What Is Dogecoin, How to Say It, and Why It's No Longer a Joke - WSJ](https://www.wsj.com/articles/what-is-dogecoin-how-to-say-it-and-why-its-no-longer-a-joke-thanks-elon-11612820776?mod=markets_featst_pos2)
 - [The Future is Bitcoin Only. Bitcoin Tech Talk Issue #238](https://jimmysong.substack.com/p/the-future-is-bitcoin-only-bitcoin)
 
 ### Tech
@@ -46,7 +46,7 @@ banner:
 ### Miscellanea
 
 - [Revolut app announces Bitcoin withdrawals… within limits](https://cointelegraph.com/news/revolut-app-announces-bitcoin-withdrawals-within-limits)
-- [Sotheby’s Will Accept Crypto for Banksy’s ‘Love is in the Air’](https://www.sothebys.com/en/buy/auction/2021/contemporary-art-evening-auction/love-is-in-the-air-2)
+- [Sotheby's Will Accept Crypto for Banksy's ‘Love is in the Air'](https://www.sothebys.com/en/buy/auction/2021/contemporary-art-evening-auction/love-is-in-the-air-2)
 - [Sotheby's Accepting Bitcoin For A Banksy - Bitcoin Magazine](https://bitcoinmagazine.com/culture/sothebys-accepting-bitcoin-for-a-banksy)
 - [Reflections On Satoshi With Adam Back - Bitcoin Magazine YouTube](https://www.youtube.com/watch?v=3CEROEMaebM&t=272s)
 
@@ -60,7 +60,7 @@ banner:
 
 - [National risk assessment of money laundering and terrorist financing 2020 - GOV.UK](https://www.gov.uk/government/publications/national-risk-assessment-of-money-laundering-and-terrorist-financing-2020)
 - [The 2021 Crypto Crime Report - Chainalysis](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf)
-- [An Analysis of Bitcoin’s Use in Illicit Finance - Crypto Council for Innovation](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf)
+- [An Analysis of Bitcoin's Use in Illicit Finance - Crypto Council for Innovation](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf)
 - [Debunking delle più comuni critiche a Bitcoin - Pindol](https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/)
 
 ### Instant-book de Il Sole 24 Ore

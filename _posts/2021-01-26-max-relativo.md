@@ -19,7 +19,7 @@ Si parla di Bitcoin, scarsità digitale e registro distribuito, al di la dei sot
 
 #### Citazione
 
-_F.M.Ametrano_: "Non c’è modo di salvare gli investitori incoscienti da sé stessi: sapranno sempre trovare modi nuovi con cui farsi del male. Si può solo investire in informazione ed educazione sul tema. [...] Se davvero si vuole difendere il risparmiatore, bisogna consentirgli una semplice e sicura operatività in Bitcoin."
+_F.M.Ametrano_: "Non c'è modo di salvare gli investitori incoscienti da sé stessi: sapranno sempre trovare modi nuovi con cui farsi del male. Si può solo investire in informazione ed educazione sul tema. [...] Se davvero si vuole difendere il risparmiatore, bisogna consentirgli una semplice e sicura operatività in Bitcoin."
 
 ---
 

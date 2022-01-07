@@ -33,7 +33,7 @@ banner:
 - [Coinbase Pro Will Begin Trading Dogecoin On Thursday - Crypto Briefing](https://cryptobriefing.com/coinbase-pro-will-begin-trading-dogecoin-on-thursday/)
 - [Dogecoin (DOGE) is launching on Coinbase Pro - by Coinbase - Jun, 2021 - The Coinbase Blog](https://blog.coinbase.com/dogecoin-doge-is-launching-on-coinbase-pro-1d73bf66dd9d)
 - [DogeCoin Price Is Soaring Thanks to Coinbase - Barron's](https://www.barrons.com/articles/dogecoin-price-coinbase-51622649010?mod=hp_LEAD_2)
-- [What is Cardano? ‘Green’ crypto hopes to surpass Facebook and Netflix after Musk tweet crashes bitcoin - The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html)
+- [What is Cardano? ‘Green' crypto hopes to surpass Facebook and Netflix after Musk tweet crashes bitcoin - The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html)
 - [DeFi Is Helping to Fuel the Crypto Market Boom—and Its Recent Volatility - WSJ](https://www.wsj.com/articles/defi-is-helping-to-fuel-the-crypto-market-boomand-its-recent-volatility-11622712602)
 - [Binance Smart Chain - Twitter](https://twitter.com/BinanceChain/status/1398838655481913346)
 - [Binance Smart Chain Announces Flash Loan Hacks, Calls For Actions - Bitcoinist](https://bitcoinist.com/binance-smart-chain-announces-flash-loan-hacks-calls-for-actions/)
@@ -41,7 +41,7 @@ banner:
 ### Market - ETF / ETP
 
 - [SEC delays decision on WisdomTree's proposed bitcoin ETF](https://www.theblockcrypto.com/linked/106961/sec-delays-decision-on-wisdomtrees-proposed-bitcoin-etf)
-- [Bitcoin ETF applications gather dust as SEC’s Gensler frets over ‘gaps’ - Financial Times](https://www.ft.com/content/f9f2d454-36b6-43bf-9e5b-695cd65ca427)
+- [Bitcoin ETF applications gather dust as SEC's Gensler frets over ‘gaps' - Financial Times](https://www.ft.com/content/f9f2d454-36b6-43bf-9e5b-695cd65ca427)
 - [Crypto ETPs of Four Firms Begin Trading on Euronext Paris and Amsterdam - CoinDesk](https://www.coindesk.com/crypto-etps-of-four-firms-began-trading-on-euronext-paris-and-amsterdam-today)
 - [Iconic Funds debuts with bitcoin ETP on Deutsche Börse - ETF Strategy](https://www.etfstrategy.com/iconic-funds-debuts-directly-backed-bitcoin-etp-on-deutsche-borse-iconic-funds-physical-bitcoin-etp-xbti-gy-98547/)
 
@@ -56,8 +56,8 @@ banner:
 ### Ecosystem
 
 - [Bloomberg Crypto Outlook June 2021](https://assets.bbhub.io/promo/sites/12/1169707_Crypto-June2021Outlook.pdf)
-- [Ark’s Cathie Wood Blames Crypto Crash on ‘ESG Movement’ - CoinDesk](https://www.coindesk.com/ark-cathie-wood-crash-esg-movement)
-- [Hedge Fund Billionaire Ray Dalio: ‘I Have Some Bitcoin’ - CoinDesk](https://www.coindesk.com/consensus-ray-dalio-i-have-some-bitcoin)
+- [Ark's Cathie Wood Blames Crypto Crash on ‘ESG Movement' - CoinDesk](https://www.coindesk.com/ark-cathie-wood-crash-esg-movement)
+- [Hedge Fund Billionaire Ray Dalio: ‘I Have Some Bitcoin' - CoinDesk](https://www.coindesk.com/consensus-ray-dalio-i-have-some-bitcoin)
 - [Ray Dalio: Digital yuan will be more competitive than digital dollar - The Block](https://www.theblockcrypto.com/post/106712/digital-yuan-more-competitive-digital-dollar-bridgewaters-ray-dalio)
 - [Bitcoin 2021 Conference - Miami - June 4-5, 2021](https://b.tc/conference?utm_medium=email&_hsmi=131002365&)
 - [Standard Chartered to launch institutional crypto brokerage and exchange - The Block](https://www.theblockcrypto.com/post/106944/standard-chartered-institutional-crypto-brokerage-exchange-europe)
@@ -82,7 +82,7 @@ banner:
 - [Central bank says leveraged crypto trading threatens banking system - Korea Herald](http://www.koreaherald.com/view.php?ud=20210527000912)
 - [EU set to unveil plans for bloc-wide digital wallet - FT - Reuters](https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/)
 - [ECB Report Highlights Risks of Not Launching CBDC - CoinDesk](https://www.coindesk.com/ecb-report-highlights-risks-of-not-launching-cbdc)
-- [ECB warns of 'risks to stability' if central banks don’t offer digital currencies - The Block](https://www.theblockcrypto.com/linked/107037/ecb-warns-of-risks-to-stability-if-central-banks-dont-offer-digital-currencies)
+- [ECB warns of 'risks to stability' if central banks don't offer digital currencies - The Block](https://www.theblockcrypto.com/linked/107037/ecb-warns-of-risks-to-stability-if-central-banks-dont-offer-digital-currencies)
 - [Ex-Head of China's Digital Yuan Effort Says CBDCs Could Operate on Ethereum - CoinDesk](https://www.coindesk.com/ex-head-of-chinas-digital-yuan-effort-says-cbdcs-could-operate-on-ethereum)
 - [Stablecoins: bitcoin for squares has its own downsides - Financial Times](https://www.ft.com/content/223a7391-84af-444e-8fbf-c61e1e0cdac6)
 

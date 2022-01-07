@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "₿lockchain Dates"
-subtitle: "Workshop sull’internet del valore, tra Bitcoin e blockchain"
+subtitle: "Workshop sull'internet del valore, tra Bitcoin e blockchain"
 author: "Paolo Mazzocchi"
 image:
     main: 2019-07-15-blockchain-dates.jpg

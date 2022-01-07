@@ -26,7 +26,7 @@ banner:
 ### Ecosystem - Mining
 
 - [Hash Rate - Blockchain.com](https://www.blockchain.com/charts/hash-rate)
-- [Cryptocurrency Companies Are Leaving China in ‘Great Mining Migration’ - WSJ](https://www.wsj.com/articles/cryptocurrency-companies-are-leaving-china-in-great-mining-migration-11629624602)
+- [Cryptocurrency Companies Are Leaving China in ‘Great Mining Migration' - WSJ](https://www.wsj.com/articles/cryptocurrency-companies-are-leaving-china-in-great-mining-migration-11629624602)
 - [Chinese province to cut off Bitcoin miners from hydropower stations - Cointelegraph](https://cointelegraph.com/news/chinese-province-to-cut-off-bitcoin-miners-from-hydropower-stations)
 - [BlackRock Has Almost $400M Invested in Bitcoin Mining Stocks: Report - CoinDesk](https://www.coindesk.com/blackrock-has-almost-400m-invested-in-bitcoin-mining-stocks-report)
 
@@ -69,7 +69,7 @@ banner:
 ### Ecosystem - El Salvador
 
 - [Remittance costs key to take-up of Salvadoran bitcoin plan - Reuters](https://www.reuters.com/business/finance/remittance-costs-key-take-up-salvadoran-bitcoin-plan-development-bank-2021-08-24)
-- [El Salvador’s President Insists Bitcoin Use Will Not Be Mandatory - Decrypt](https://decrypt.co/79209/el-salvadors-president-insists-bitcoin-use-will-not-be-mandatory)
+- [El Salvador's President Insists Bitcoin Use Will Not Be Mandatory - Decrypt](https://decrypt.co/79209/el-salvadors-president-insists-bitcoin-use-will-not-be-mandatory)
 - [Nayib Bukele - Twitter](https://twitter.com/nayibbukele/status/1429614146031661061)
 - [ChivoWallet - Twitter](https://twitter.com/eltapudosv/status/1429870227899174912/photo/1)
 
@@ -89,7 +89,7 @@ banner:
 
 ### Markets - Funds and ETFs
 
-- [Mike Novogratz’s Galaxy Digital Files for a Bitcoin Futures ETF - Decrypt](https://decrypt.co/78744/mike-novogratzs-galaxy-digital-files-bitcoin-futures-etf)
+- [Mike Novogratz's Galaxy Digital Files for a Bitcoin Futures ETF - Decrypt](https://decrypt.co/78744/mike-novogratzs-galaxy-digital-files-bitcoin-futures-etf)
 - [Galaxy Adds to Stack of Bitcoin Futures ETF Filings - Blockworks](https://blockworks.co/galaxy-adds-to-stack-of-bitcoin-futures-etf-filings/)
 - [Eurex Launches Bitcoin ETN Futures Amid Growing European Demand - Blockworks](https://blockworks.co/eurex-launches-bitcoin-etn-futures-amid-growing-european-demand/)
 - [AdvisorShares Files for Bitcoin Futures ETF - CoinDesk](https://www.coindesk.com/advisorshares-files-for-bitcoin-futures-etf)

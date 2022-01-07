@@ -93,8 +93,8 @@ banner:
 ### Ecosystem - Tether
 
 - [Tether Reveals More Details About Its Reserves - CoinDesk](https://www.coindesk.com/tether-reserves-details-attestation-commercial-paper)
-- [Latest Assurance Opinion Once Again Confirms Tether’s Reserves Fully Backed - Tether](https://tether.to/latest-assurance-opinion-confirms-tether-fully-backed/)
-- [Crypto’s Tether Sheds Light, but Not Enough, on Its $63 Billion Reserves - WSJ](https://www.wsj.com/articles/tether-sheds-light-but-not-enough-on-its-63-billion-reserves-11628777820)
+- [Latest Assurance Opinion Once Again Confirms Tether's Reserves Fully Backed - Tether](https://tether.to/latest-assurance-opinion-confirms-tether-fully-backed/)
+- [Crypto's Tether Sheds Light, but Not Enough, on Its $63 Billion Reserves - WSJ](https://www.wsj.com/articles/tether-sheds-light-but-not-enough-on-its-63-billion-reserves-11628777820)
 - [Tether Is Backed by Nearly 50% Commercial Paper Says New Report - Decrypt](https://decrypt.co/78041/tether-is-backed-nearly-50-commercial-paper-says-new-report)
 
 ### Tech

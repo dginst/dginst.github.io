@@ -29,7 +29,7 @@ banner:
 - [Bitcoin Is Going Mainstream. What Investors Need to Know (Barron's)](https://www.barrons.com/articles/bitcoin-is-going-mainstream-what-investors-need-to-know-51617393392){:target="_blank"}
 - [A decline in bitcoin's volatility makes it more attractive to institutions and supports a $130,000 long-term price target, JPMorgan says (Business Insider India)](https://www.businessinsider.in/stock-market/news/]a-decline-in-bitcoins-volatility-makes-it-more-attractive-to-institutions-and-supports-a-130000-long-term-price-target-jpmorgan-says/articleshow/81857588.cms){:target="_blank"}
 - [Everything is a Search for Yield. Bitcoin Tech Talk #234  (Bitcoin Tech Talk)](https://jimmysong.substack.com/p/everything-is-a-search-for-yield){:target="_blank"}
-- [South Korea’s Capital Controls Have Pushed Bitcoin’s Price to $66,600 (Decrypt)](https://decrypt.co/63948/south-koreas-capital-controls-have-pushed-bitcoins-price-to-66600){:target="_blank"}
+- [South Korea's Capital Controls Have Pushed Bitcoin's Price to $66,600 (Decrypt)](https://decrypt.co/63948/south-koreas-capital-controls-have-pushed-bitcoins-price-to-66600){:target="_blank"}
 - [South Korean gov't makes $10.5M profit from 4-year-old Bitcoin crime haul (cointelegraph)](https://cointelegraph.com/news/south-korean-gov-t-makes-10-5m-profit-from-4-year-old-bitcoin-crime-haul){:target="_blank"}
 - [Fidelity, Square, Coinbase Launch Bitcoin Trade Group (WSJ)](https://www.wsj.com/articles/fidelity-square-coinbase-launch-bitcoin-trade-group-11617710402){:target="_blank"}
 
@@ -38,28 +38,28 @@ banner:
 - [Coinbase Announces First Quarter 2021 Estimated Results and Full Year 2021 Outlook (Business Wire)](https://www.businesswire.com/news/home/20210406006015/en/Coinbase-Announces-First-Quarter-2021-Estimated-Results-and-Full-Year-2021-Outlook){:target="_blank"}
 - [Coinbase reports an estimated $1.8 billion in total revenue for Q1 2021 (theblockcrypto)](https://www.theblockcrypto.com/post/100680/coinbase-q1-results-april-direct-listing){:target="_blank"}
 - [Coinbase Earned More in First Quarter Than in All of 2020 (WSJ)](https://www.wsj.com/articles/coinbase-earned-more-in-first-quarter-than-in-all-of-2020-11617745114){:target="_blank"}
-- [Why Coinbase’s stellar earnings are not what they seem (Financial Times)](https://on.ft.com/3fPyR1d){:target="_blank"}
+- [Why Coinbase's stellar earnings are not what they seem (Financial Times)](https://on.ft.com/3fPyR1d){:target="_blank"}
 - [Coinbase rival Kraken may go public via direct listing (Cnbc)](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html){:target="_blank"}
-- [Binance CEO Goes All-in on Tokens: ‘I Just Want to Keep Crypto’ (Bloomberg)](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto){:target="_blank"}
+- [Binance CEO Goes All-in on Tokens: ‘I Just Want to Keep Crypto' (Bloomberg)](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto){:target="_blank"}
 - [ALL ABOARD! by Arthur Hayes (Medium)](https://cryptohayes.medium.com/all-aboard-4d50435190d6){:target="_blank"}
 - [Revenge Of The Winklevii (Forbes)](https://www.forbes.com/sites/michaeldelcastillo/2021/04/05/revenge-of-the-winklevii-facebook-winklevoss-bitcoin-nft-billionaire-revenge){:target="_blank"}
 
 ### ETF and Futures
 
 - [Grayscale says it's committed to launching bitcoin ETF (YouTube)](https://www.youtube.com/watch?v=HuyF_-L2Wpw){:target="_blank"}
-- [Grayscale’s Intentions for a Bitcoin ETF (Medium)](https://grayscaleinvest.medium.com/grayscales-intentions-for-a-bitcoin-etf-b11e4faf4c05){:target="_blank"}
+- [Grayscale's Intentions for a Bitcoin ETF (Medium)](https://grayscaleinvest.medium.com/grayscales-intentions-for-a-bitcoin-etf-b11e4faf4c05){:target="_blank"}
 - [Grayscale Says It's '100% Committed to Converting GBTC Into an ETF' (CoinDesk)](https://www.coindesk.com/grayscale-says-its-100-committed-to-converting-gbtc-into-an-etf){:target="_blank"}
 - [Asset management giant Fidelity files for a bitcoin ETF (theblockcrypto)](https://www.theblockcrypto.com/linked/99279/fidelity-bitcoin-etf-filing){:target="_blank"}
-- [CI Global Asset Management Launches North America’s First Bitcoin Mutual Fund (Business Wire)](https://www.businesswire.com/news/home/20210405005330/en/){:target="_blank"}
+- [CI Global Asset Management Launches North America's First Bitcoin Mutual Fund (Business Wire)](https://www.businesswire.com/news/home/20210405005330/en/){:target="_blank"}
 - [CI Global Asset Management Launches Bitcoin Mutual Fund in Canada (CoinDesk)](https://www.coindesk.com/ci-global-asset-management-launches-bitcoin-mutual-fund-in-canada){:target="_blank"}
-- [CoinShares Partners With Canada’s 3iQ to Launch New Bitcoin ETF on TSX (CoinDesk)](https://www.coindesk.com/coinshares-partners-with-canadas-3iq-to-launch-new-bitcoin-etf-on-tsx){:target="_blank"}
+- [CoinShares Partners With Canada's 3iQ to Launch New Bitcoin ETF on TSX (CoinDesk)](https://www.coindesk.com/coinshares-partners-with-canadas-3iq-to-launch-new-bitcoin-etf-on-tsx){:target="_blank"}
 - [Record volumes for Bitcoin futures and options in March (theblockcrypto)](https://www.theblockcrypto.com/linked/100600/record-volumes-bitcoin-futures-options-march-2021){:target="_blank"}
 - [State Street May Start Trading Crypto on Platform It's Helping Build (CoinDesk)](https://www.coindesk.com/state-street-aims-to-start-cryptocurrency-trading-in-middle-of-2021){:target="_blank"}
 - [State Street to provide tech for cryptocurrency trading platform (Financial Times)](https://www.ft.com/content/a4c19360-1bcf-4599-9ffe-b6a4d69f29fe){:target="_blank"}
 
 ### NFT
 
-- [Sotheby’s Embarks on NFTs With Digital Creator Pak’s ‘The Fungible Collection’ (Barron's)](https://www.barrons.com/articles/sothebys-embarks-on-nfts-with-digital-creator-paks-the-fungible-collection-01617739344){:target="_blank"}
+- [Sotheby's Embarks on NFTs With Digital Creator Pak's ‘The Fungible Collection' (Barron's)](https://www.barrons.com/articles/sothebys-embarks-on-nfts-with-digital-creator-paks-the-fungible-collection-01617739344){:target="_blank"}
 - [Luxury fashion brands poised to join the NFT party (Vogue Business)](https://www.voguebusiness.com/technology/luxury-fashion-brands-poised-to-join-the-nft-party){:target="_blank"}
 
 ### Mining
@@ -94,14 +94,14 @@ banner:
 - [Japan's central bank kicks off experiments on issuing digital currency (Reuters)](https://www.reuters.com/article/us-japan-economy-cbdc-idUSKBN2BS0EG){:target="_blank"}
 - [BOJ Starts Central Bank Digital Currency Experiments (CoinDesk)](https://www.coindesk.com/boj-starts-central-bank-digital-currency-experiments){:target="_blank"}
 - [BOJ sees scope to set common rules on CBDCs with major central banks (Reuters)](https://www.reuters.com/article/cenbanks-digital-japan/boj-sees-scope-to-set-common-rules-on-cbdcs-with-major-central-banks-idUSL4N2M1265){:target="_blank"}
-- [Government Ban on Bitcoin Would Be ‘Foolish’: SEC's Hester Peirce (Decrypt)](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce){:target="_blank"}
+- [Government Ban on Bitcoin Would Be ‘Foolish': SEC's Hester Peirce (Decrypt)](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce){:target="_blank"}
 - [HSBC considers Microstrategy as a virtual currency product (Twitter)](https://twitter.com/camadamus/status/1380030785911025671?s=21){:target="_blank"}
 
 ### Altcoins
 
 - [ETH breaks all-time high amid fresh price surge (cointelegraph)](https://cointelegraph.com/news/eth-breaks-all-time-high-amid-fresh-price-surge){:target="_blank"}
 - [Fei Labs raises over $1.2 billion for its stablecoin project (theblockcrypto)](https://www.theblockcrypto.com/linked/100463/fei-labs-raises-over-1-2-billion-for-its-stablecoin-project){:target="_blank"}
-- [$1B Fei Stablecoin’s Rocky Start Is a Wake-Up Call for DeFi Investors (CoinDesk)](https://www.coindesk.com/1b-fei-stablecoins-rocky-start-is-a-wake-up-call-for-defi-investors){:target="_blank"}
+- [$1B Fei Stablecoin's Rocky Start Is a Wake-Up Call for DeFi Investors (CoinDesk)](https://www.coindesk.com/1b-fei-stablecoins-rocky-start-is-a-wake-up-call-for-defi-investors){:target="_blank"}
 - [Tether to launch USDT stablecoin on Polkadot and Kusama (theblockcrypto)](https://www.theblockcrypto.com/post/100614/tether-usdt-stablecoin-polkadot-kusama){:target="_blank"}
 - [Coinbase Ventures backing DeFi in the Polkadot ecosystem (cointelegraph)](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem){:target="_blank"}
 

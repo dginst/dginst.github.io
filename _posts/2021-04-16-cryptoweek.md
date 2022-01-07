@@ -39,15 +39,15 @@ banner:
 - [VanEck launches new ETF on Nasdaq to invest in crypto companies - The Block](https://www.theblockcrypto.com/linked/101603/vaneck-digital-transformation-etf-nasdaq-crypto-companies)
 - [WisdomTree Lists Bitcoin ETP on Deutsche Boerse as ETF Application Awaits SEC Review - CoinDesk](https://www.coindesk.com/wisdomtree-list-bitcoin-etp-on-deutsche-boerse-as-etf-application-awaits-sec-review)
 - [Galaxy Digital Files for US Bitcoin ETF - CoinDesk](https://www.coindesk.com/galaxy-digital-files-for-us-bitcoin-etf)
-- [Novogratz’s Galaxy Digital Joins Growing List of Bitcoin ETF Contenders - Decrypt](https://decrypt.co/66254/novogratz-galaxy-digital-bitcoin-etf)
+- [Novogratz's Galaxy Digital Joins Growing List of Bitcoin ETF Contenders - Decrypt](https://decrypt.co/66254/novogratz-galaxy-digital-bitcoin-etf)
 - [SEC Begins Review of WisdomTree Bitcoin ETF - CoinDesk](https://www.coindesk.com/sec-begins-review-of-wisdomtree-bitcoin-etf-as-total-number-of-applications-grows-to-8)
 - [German digital stock exchange will list physical Litecoin ETP - Business Insider](https://markets.businessinsider.com/currencies/news/german-digital-stock-exchange-will-list-physical-litecoin-etp-10008243)
 - [JPMorgan Says Bitcoin ETFs Could Shrink CME Futures Premium - CoinDesk](https://www.coindesk.com/jpmorgan-bitcoin-etfs-cme-futures-premium)
-- [Grayscale tops $50 billion: ‘Will soon pass world’s largest commodity ETF’- Cointelegraph](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
+- [Grayscale tops $50 billion: ‘Will soon pass world's largest commodity ETF'- Cointelegraph](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
 
 ### Ecosystem
 
-- [BlackRock CEO Sings Bitcoin’s Praises as Future ‘Great Asset Class’ - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
+- [BlackRock CEO Sings Bitcoin's Praises as Future ‘Great Asset Class' - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
 - [Goldman Sachs Keeping Close Eye on Bitcoin: CEO - Decrypt](https://decrypt.co/66546/goldman-sachs-bitcoin-ceo-earnings)
 - [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
 - [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others - Reuters](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)
@@ -61,7 +61,7 @@ banner:
 ### Ripple
 
 - [Ripple Moves to Dismiss SEC Lawsuit as XRP Price Hits Three-Year High - Decrypt](https://decrypt.co/66401/ripple-dismiss-sec-lawsuit-xrp-price)
-- [Ripple Stops SEC From Disclosing CEOs’ Financial Records to Public - Decrypt](https://decrypt.co/66090/ripple-stops-sec-from-disclosing-ceos-financial-records-to-public)
+- [Ripple Stops SEC From Disclosing CEOs' Financial Records to Public - Decrypt](https://decrypt.co/66090/ripple-stops-sec-from-disclosing-ceos-financial-records-to-public)
 
 ### NFT
 

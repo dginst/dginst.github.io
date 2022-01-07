@@ -20,7 +20,7 @@ banner:
 
 - [UK Post Office to Offer Crypto Purchases to Some Customers Starting Next Week - CoinDesk](https://www.coindesk.com/business/2021/09/10/uk-post-office-to-offer-crypto-purchases-to-some-customers-starting-next-week/)
 - [Fidelity Digital Assets finds 90% of surveyed investors find digital assets appealing - The Block Crypto](https://www.theblockcrypto.com/linked/117923/fidelity-digital-finds-90-of-surveyed-investors-find-digital-assets-appealing)
-- [BlackRock Executive Believes Bitcoin Price Could Rise ‘Significantly’ - Bitcoin Magazine](https://bitcoinmagazine.com/business/blackrock-executive-believes-bitcoin-price-could-rise-significantly)
+- [BlackRock Executive Believes Bitcoin Price Could Rise ‘Significantly' - Bitcoin Magazine](https://bitcoinmagazine.com/business/blackrock-executive-believes-bitcoin-price-could-rise-significantly)
 - [Hedge Funds Riding Crypto Wave Post Bumper Returns - Financial Times](https://www.ft.com/content/c7bf6cf3-4167-49cb-9dd8-2d3b89c8a63f)
 - [MicroStrategy Acquires Additional 5,050 Bitcoins - MicroStrategy](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-additional-5050-bitcoins_09-13-2021)
 
@@ -41,12 +41,12 @@ banner:
 
 ### Ecosystem - El Salvador
 
-- [El Salvador’s New Bitcoin Wallet Could Totally Disrupt the Remittance Process - CNBC](https://www.cnbc.com/video/2021/09/09/el-salvadors-new-bitcoin-wallet-could-totally-disrupt-the-remittance-process.html)
+- [El Salvador's New Bitcoin Wallet Could Totally Disrupt the Remittance Process - CNBC](https://www.cnbc.com/video/2021/09/09/el-salvadors-new-bitcoin-wallet-could-totally-disrupt-the-remittance-process.html)
 - [Almost Half of Brazilians Want to Make Bitcoin Official Currency: Poll - UToday](https://u.today/almost-half-of-brazilians-want-to-make-bitcoin-official-currency-poll)
 - [Chivo Half Million Users 200 ATMs El Salvador - Bitcoin Magazine](https://bitcoinmagazine.com/markets/el-salvadors-chivo-wallet-500000-registrations-in-one-week)
 - [El Salvador to Exempt Foreigner Investors from Tax on Bitcoin Price Gains - Bitcoin Magazine](https://bitcoinmagazine.com/culture/el-salvador-to-exempt-foreigner-investors-from-tax-on-bitcoin-price-gains)
 - [48% Of Brazilians Want To Follow El Salvador Bitcoin Steps - Bitcoin Magazine](https://bitcoinmagazine.com/markets/brazilians-want-to-make-bitcoin-a-legal-currency)
-- [El Salvador’s Bitcoin Adoption Has “Immediate Implications” for Rating - S&P Global - Reuters](https://www.reuters.com/business/finance/el-salvadors-bitcoin-adoption-has-immediate-implications-rating-sp-global-2021-09-16/?taid=6143a376a5c42200013c40da)
+- [El Salvador's Bitcoin Adoption Has “Immediate Implications” for Rating - S&P Global - Reuters](https://www.reuters.com/business/finance/el-salvadors-bitcoin-adoption-has-immediate-implications-rating-sp-global-2021-09-16/?taid=6143a376a5c42200013c40da)
 - [Bitcoin Atms Burn as El Salvador Protesters March Against President Nayib Bukele - Euronews](https://www.euronews.com/next/2021/09/16/bitcoin-atms-burn-as-el-salvador-protesters-march-against-president-nayib-bukele)
 - [Bitcoin Protests in El Salvador Against Cryptocurrency as Legal Tender - BBC News](https://www.bbc.com/news/world-latin-america-58579415)
 - [El Salvador Runs a Bitcoin Scam - WSJ](https://www.wsj.com/articles/el-salvadors-bitcoin-scam-dollar-crypto-currency-monetary-policy-11631470517)
@@ -63,11 +63,11 @@ banner:
 
 - [Switzerland Gives Green Light to Crypto Trading Exchange - WSJ](https://www.wsj.com/articles/switzerland-gives-green-light-to-crypto-trading-exchange-11631273969?mod=hp_lista_pos5)
 - [Swiss Stock Exchange Gets Regulatory Nod to Launch Digital Asset Exchange - CoinDesk](https://www.coindesk.com/business/2021/09/10/swiss-stock-exchange-gets-regulatory-nod-to-launch-digital-asset-exchange/)
-- [Switzerland’s Regulator Greenlights SIX Digital Exchange - Blockworks](https://blockworks.co/switzerlands-regulator-greenlights-six-digital-exchange/)
+- [Switzerland's Regulator Greenlights SIX Digital Exchange - Blockworks](https://blockworks.co/switzerlands-regulator-greenlights-six-digital-exchange/)
 
 ### Regulation - ESMA
 
-- [European Finance Regulator Calls Crypto ‘Volatile’ but Innovative - CoinDesk](https://www.coindesk.com/policy/2021/09/10/european-finance-regulator-calls-crypto-volatile-but-innovative/)
+- [European Finance Regulator Calls Crypto ‘Volatile' but Innovative - CoinDesk](https://www.coindesk.com/policy/2021/09/10/european-finance-regulator-calls-crypto-volatile-but-innovative/)
 - [ESMA Report on Trends, Risks and Vulnerabilities](https://www.politico.eu/wp-content/uploads/2021/09/01/ESMA50-165-1842-TRV2-20214.pdf)
 
 ### Regulation - North America
@@ -82,15 +82,15 @@ banner:
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
-- [Cryptocurrency: Rise of Decentralised Finance Sparks ‘Dirty Money’ Fears - Financial Times](https://www.ft.com/content/beeb2f8c-99ec-494b-aa76-a7be0bf9dae6)
+- [Cryptocurrency: Rise of Decentralised Finance Sparks ‘Dirty Money' Fears - Financial Times](https://www.ft.com/content/beeb2f8c-99ec-494b-aa76-a7be0bf9dae6)
 - [The Beguiling Promise of Decentralised Finance - The Economist](https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance)
 - [Adventures in DeFi-land - The Economist](https://www.economist.com/briefing/2021/09/18/adventures-in-defi-land)
-- [DeFi Is Crypto’s Wall Street, Without a Safety Net - WSJ](https://www.wsj.com/articles/defi-is-cryptos-wall-street-without-a-safety-net-11631611945)
+- [DeFi Is Crypto's Wall Street, Without a Safety Net - WSJ](https://www.wsj.com/articles/defi-is-cryptos-wall-street-without-a-safety-net-11631611945)
 - [BlockFi CEO Wants SEC to Weigh In on Crypto Lending - CoinDesk](https://www.coindesk.com/business/2021/09/13/blockfi-ceo-wants-sec-to-weigh-in-on-crypto-lending/)
 - [Algorand Foundation Launches $300M DeFi Fund - Blockworks](https://blockworks.co/algorand-foundation-launches-300m-defi-fund/)
 - [Algorand Foundation Launches $300M DeFi Innovation Fund - CoinDesk](https://www.coindesk.com/business/2021/09/10/algorand-foundation-launches-300m-defi-innovation-fund/)
 - [Algorand Foundation Launches $300 Million USD Viridis Fund to Support DeFi Innovation - Algorand Foundation](https://algorand.foundation/news/viridis)
-- [Algorand Sets up $330 Million Fund That’s Focused on Defi - The Block Crypto](https://www.theblockcrypto.com/linked/117308/algorand-sets-up-330-million-fund-thats-focused-on-defi)
+- [Algorand Sets up $330 Million Fund That's Focused on Defi - The Block Crypto](https://www.theblockcrypto.com/linked/117308/algorand-sets-up-330-million-fund-thats-focused-on-defi)
 - [Polychain and 3AC lead $230 million investment in Avalanche - The Block Crypto](https://www.theblockcrypto.com/post/117895/polychain-three-arrows-capital-lead-230-million-avalanche)
 - [Avalanche Closes $230M Token Sale Backed by Three Arrows Capital, Polychain - Blockworks](https://blockworks.co/avalanche-closes-230m-token-sale-backed-by-three-arrows-capital-polychain/)
 
@@ -101,17 +101,17 @@ banner:
 
 ### Ecosystem - Binance
 
-- [Binance to Ditch Decentralized HQ After Some Regulators Think It’s ‘Dodgy' - The Block Crypto](https://www.theblockcrypto.com/linked/117855/binance-shift-away-decentralized-headquarters-pitch)
+- [Binance to Ditch Decentralized HQ After Some Regulators Think It's ‘Dodgy' - The Block Crypto](https://www.theblockcrypto.com/linked/117855/binance-shift-away-decentralized-headquarters-pitch)
 - [Binance CEO Signals Exchange is Looking for Permanent Home - Blockworks](https://blockworks.co/binance-ceo-signals-exchange-is-looking-for-permanent-home/)
-- [Binance Battles Regulatory Headwinds as World’s Largest Cryptocurrency Exchange Seeks Financial Legitimacy - South China Morning Post](https://www.scmp.com/business/banking-finance/article/3148809/binance-battles-regulatory-headwinds-worlds-largest)
+- [Binance Battles Regulatory Headwinds as World's Largest Cryptocurrency Exchange Seeks Financial Legitimacy - South China Morning Post](https://www.scmp.com/business/banking-finance/article/3148809/binance-battles-regulatory-headwinds-worlds-largest)
 
 ### Tech - Bitcoin
 
-- [Bitcoin’s Hash Rate Has Recovered by 50% Since June Crash - The Block Crypto](https://www.theblockcrypto.com/post/117267/bitcoin-mining-hash-rate-recovery-summer-crash)
+- [Bitcoin's Hash Rate Has Recovered by 50% Since June Crash - The Block Crypto](https://www.theblockcrypto.com/post/117267/bitcoin-mining-hash-rate-recovery-summer-crash)
 - [Bitcoin Core 22.0 Release Taproot - Bitcoin Magazine](https://bitcoinmagazine.com/technical/new-bitcoin-core-release-taproot)
 - [Bitcoin Optech Newsletter #166 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/15/)
 - [Taproot Primer - Kraken](https://kraken.docsend.com/view/9e9y7may8526z934)
-- [Why The Bitcoin Lightning Network Doesn’t Work - Bitcoin Magazine](https://bitcoinmagazine.com/technical/why-the-bitcoin-lightning-network-doesnt-work)
+- [Why The Bitcoin Lightning Network Doesn't Work - Bitcoin Magazine](https://bitcoinmagazine.com/technical/why-the-bitcoin-lightning-network-doesnt-work)
 - [New Bitcoin Core Release Adds Taproot: What You Need to Know - Decrypt](https://decrypt.co/80904/new-bitcoin-core-release-adds-taproot-what-you-need-know)
 
 ### Tech - Ethereum and Alt-coins
@@ -119,7 +119,7 @@ banner:
 - [Solana - Twitter](https://twitter.com/SolanaStatus/status/1437856638279487493)
 - [Solana - Twitter](https://twitter.com/SolanaStatus/status/1437856639441424395)
 - [Solana Mainnet Back Online After Day in the Dark - CoinDesk](https://www.coindesk.com/markets/2021/09/15/solana-mainnet-back-online-after-day-in-the-dark/)
-- [Ethereum’s Proof of Stake System – Calculating Penalties & Rewards - BitMEX Blog](https://blog.bitmex.com/ethereums-proof-of-stake-system-calculating-penalties-rewards/)
+- [Ethereum's Proof of Stake System – Calculating Penalties & Rewards - BitMEX Blog](https://blog.bitmex.com/ethereums-proof-of-stake-system-calculating-penalties-rewards/)
 
 ### Digital Gold Institute
 

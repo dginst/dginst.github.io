@@ -28,7 +28,7 @@ banner:
 
 - [European Central Bank Launches 24-Month Investigation into Digital Euro - Blockworks](https://blockworks.co/european-central-bank-launches-24-month-investigation-into-digital-euro)
 - [Eurosystem launches digital euro project - ECB](https://www.ecb.europa.eu/press/pr/date/2021/html/ecb.pr210714~d99198ea23.en.html)
-- [Preparing for the euro’s digital future - ECB](https://www.ecb.europa.eu/press/blog/date/2021/html/ecb.blog210714~6bfc156386.en.html)
+- [Preparing for the euro's digital future - ECB](https://www.ecb.europa.eu/press/blog/date/2021/html/ecb.blog210714~6bfc156386.en.html)
 - [Report on a digital euro - ECB](https://www.ecb.europa.eu/paym/digital_euro/report/html/index.en.html)
 - [A digital euro - ECB](https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html)
 - [Digital euro experimentation scope and key learnings - ECB](https://www.ecb.europa.eu/pub/pdf/other/ecb.digitaleuroscopekeylearnings202107~564d89045e.en.pdf)
@@ -65,7 +65,7 @@ banner:
 ### Markets
 
 - [BlackRock CEO says crypto isn't part of clients' long-term strategies](https://www.theblockcrypto.com/linked/111270/blackrock-ceo-says-crypto-isnt-part-of-clients-long-term-strategies)
-- [BlackRock CEO Larry Fink Seeing ‘Very Little’ Demand for Crypto Lately - CoinDesk](https://www.coindesk.com/blackrock-ceo-larry-fink-says-theres-very-little-demand-for-crypto)
+- [BlackRock CEO Larry Fink Seeing ‘Very Little' Demand for Crypto Lately - CoinDesk](https://www.coindesk.com/blackrock-ceo-larry-fink-says-theres-very-little-demand-for-crypto)
 - [Fidelity's Digital Assets Division Reportedly Plans to Boost Staff - Blockworks](https://blockworks.co/fidelitys-digital-assets-division-reportedly-plans-to-boost-staff)
 
 ### Ecosystem - Square and Jack Dorsey
@@ -73,12 +73,12 @@ banner:
 - [Square Stock Is Get Dragged Down by Bitcoin Weakness. It Might Be Time to Buy. - Barron's](https://www.barrons.com/articles/bitcoin-square-stock-51625847907)
 - [Jack Dorsey's Square decides to build a bitcoin hardware wallet](https://www.theblockcrypto.com/post/110916/jack-dorsey-square-bitcoin-hardware-wallet)
 - [Jack Dorsey Confirms Square Will Make Bitcoin Hardware Wallet - Blockworks](https://blockworks.co/jack-dorsey-confirms-square-will-make-bitcoin-hardware-wallet/)
-- [Jack Dorsey on Twitter: "We’re doing it #Bitcoin"](https://twitter.com/jack/status/1413261505156599809)
+- [Jack Dorsey on Twitter: "We're doing it #Bitcoin"](https://twitter.com/jack/status/1413261505156599809)
 
 ### Miscellanea
 
 - [ShapeShift is Decentralizing. ShapeShift is decentralizing to build… - by Erik Voorhees](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
-- [Sotheby’s Sells Rare Diamond for $12.3M in Crypto - CoinDesk](https://www.coindesk.com/sothebys-sells-rare-diamond-for-12-3m-in-crypto)
+- [Sotheby's Sells Rare Diamond for $12.3M in Crypto - CoinDesk](https://www.coindesk.com/sothebys-sells-rare-diamond-for-12-3m-in-crypto)
 - ['Black Swan' author Nassim Taleb says bitcoin is worth zero - CNBC](https://www.cnbc.com/2021/07/13/black-swan-author-nassim-taleb-says-bitcoin-is-worth-zero.html)
 
 ### Tech

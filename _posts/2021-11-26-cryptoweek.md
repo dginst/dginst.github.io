@@ -29,16 +29,16 @@ banner:
 
 ### Ecosystem - El Salvador
 
-- [El Salvador to Create ‘Bitcoin City,’ Use $500M of Planned $1B Bond Offering to Buy More Crypto - CoinDesk](https://www.coindesk.com/business/2021/11/21/el-salvador-to-create-bitcoin-city-use-500m-of-planned-1b-bond-offering-to-buy-more-crypto/)
+- [El Salvador to Create ‘Bitcoin City,' Use $500M of Planned $1B Bond Offering to Buy More Crypto - CoinDesk](https://www.coindesk.com/business/2021/11/21/el-salvador-to-create-bitcoin-city-use-500m-of-planned-1b-bond-offering-to-buy-more-crypto/)
 - [El Salvador to Build Cryptocurrency-Fueled 'Bitcoin City' - Time](https://time.com/6122250/bitcoin-city-el-salvador/)
 - [El Salvador Bitcoin city planned at base of Conchagua volcano - BBC](https://www.bbc.com/news/world-latin-america-59368483)
-- [El Salvador Plans ‘Bitcoin City’ Funded by Bitcoin Bonds and Powered by a Volcano - Blockworks](https://blockworks.co/el-salvador-plans-bitcoin-city-funded-by-bitcoin-bonds-and-powered-by-a-volcano/)
+- [El Salvador Plans ‘Bitcoin City' Funded by Bitcoin Bonds and Powered by a Volcano - Blockworks](https://blockworks.co/el-salvador-plans-bitcoin-city-funded-by-bitcoin-bonds-and-powered-by-a-volcano/)
 - [El Salvador government strikes deal with Bitfinex, Blockstream to issue $1 billion bitcoin bond - The Block Crypto](https://www.theblockcrypto.com/linked/124955/el-salvador-government-strikes-deal-with-bitfinex-blockstream-to-issue-1-billion-bitcoin-bond)
 - [El Salvador plans to create an entire city based on Bitcoin - Yahoo](https://finance.yahoo.com/news/el-salvador-bitcoin-city-190829261.html)
 - [El Salvador plans 'Bitcoin City', raise $1 billion via 'Bitcoin Bond' - CNBC](https://www.cnbc.com/2021/11/22/el-salvador-plans-bitcoin-city-raise-1-billion-via-bitcoin-bond.html)
 - [El Salvador to Issue $1B in Tokenized Bonds on the Liquid Network - Blockstream](https://blog.blockstream.com/el-salvador-to-issue-1b-in-tokenized-bonds-on-the-liquid-network/)
 - [Be Careful With Volcano Bonds - Bloomberg](https://www.bloomberg.com/opinion/articles/2021-11-22/be-careful-with-volcano-bonds)
-- [El Salvador plans ‘bitcoin city’ powered by volcano - Financial Times](https://www.ft.com/content/67515f23-ccdc-4dbc-a184-70848e183ac3)
+- [El Salvador plans ‘bitcoin city' powered by volcano - Financial Times](https://www.ft.com/content/67515f23-ccdc-4dbc-a184-70848e183ac3)
 - [Analysis: Amid Bukele's bitcoin hype, not all Salvadorans 'Feel the Bit' - Reuters](https://www.reuters.com/markets/us/amid-bukeles-bitcoin-hype-not-all-salvadorans-feel-bit-2021-11-25/)
 - [El Salvador: Staff Concluding Statement of the 2021 Article IV Mission - IMF](https://www.imf.org/en/News/Articles/2021/11/22/mcs-el-salvador-staff-concluding-statement-of-the-2021-article-iv-mission)
 
@@ -51,18 +51,18 @@ banner:
 ### Ecosystem - DeFi
 
 - [DeFi Users Lost $10.5 Billion to Theft and Fraud in 2021, Mostly on Ethereum: Report - Decrypt](https://decrypt.co/86503/defi-users-lost-billion-theft-fraud-2021-mostly-ethereum-report)
-- [Governments Understand DeFi, But are ‘Petrified’ Of It - Blockworks](https://blockworks.co/governments-understand-defi-but-are-petrified-of-it/)
+- [Governments Understand DeFi, But are ‘Petrified' Of It - Blockworks](https://blockworks.co/governments-understand-defi-but-are-petrified-of-it/)
 - [BlockFi Changes Fees to Cover Ethereum Gas Costs - Decrypt](https://decrypt.co/86809/blockfi-changes-fees-cover-ethereum-gas-costs)
 
 ### Ecosystem - Ethereum
 
 - [Scaling Ethereum & crypto for a billion users - The Coinbase Blog](https://blog.coinbase.com/scaling-ethereum-crypto-for-a-billion-users-715ce15afc0b)
 - [Bitcoin vs Ethereum – Blockchain Size - BitMEX Blog](https://blog.bitmex.com/bitcoin-vs-ethereum-blockchain-size/)
-- [Christie’s to Hold Ethereum NFT Auction on OpenSea - Decrypt](https://decrypt.co/86805/christies-to-hold-on-chain-ethereum-nft-auction-with-opensea)
+- [Christie's to Hold Ethereum NFT Auction on OpenSea - Decrypt](https://decrypt.co/86805/christies-to-hold-on-chain-ethereum-nft-auction-with-opensea)
 - [ethereum Becomes a First Class Currency on Sothebys for Banksy Auction - cryptoslate](https://cryptoslate.com/ethereum-becomes-a-first-class-currency-on-sothebys-for-banksy-auction/)
 ### Regulation
 
-- [Cryptocurrency ‘no passing fad’: minister warns against Australia being left behind - The Guardian](https://www.theguardian.com/technology/2021/nov/22/cryptocurrency-no-passing-fad-minister-warns-against-australia-being-left-behind)
+- [Cryptocurrency ‘no passing fad': minister warns against Australia being left behind - The Guardian](https://www.theguardian.com/technology/2021/nov/22/cryptocurrency-no-passing-fad-minister-warns-against-australia-being-left-behind)
 - [Council of the European Union moves forward on two crypto proposals - The Block Crypto](https://www.theblockcrypto.com/linked/125459/council-of-the-european-union-moves-forward-on-two-crypto-proposals)
 - [US banking regulators plan to publish crypto guidance throughout 2022 - The Block Crypto](https://www.theblockcrypto.com/linked/125175/us-banking-regulators-say-they-will-publish-crypto-guidance-over-the-course-of-2022)
 - [Joint Statement on Crypto-Asset Policy Sprint Initiative and Next Steps - Office of the Comptroller of the Currency](https://www.occ.gov/news-issuances/news-releases/2021/nr-ia-2021-120a.pdf)

@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-**Breakfast with BNP Paribas** è l’appuntamento digitale di BNP Paribas durante il quale sono affrontate tematiche di attualità in merito al settore finanziario.
+**Breakfast with BNP Paribas** è l'appuntamento digitale di BNP Paribas durante il quale sono affrontate tematiche di attualità in merito al settore finanziario.
 
 Nel quarto episodio della web serie [Andrea Cattaneo](https://www.linkedin.com/in/andrea-cattaneo-9b75b829/), _Head of BNP Paribas Securities Services Italy, Switzerland & Iberia_ ha intervistato [Ferdinando M. Ametrano](https://ametrano.net/), Direttore Scientifico DGI e docente di "Bitcoin and Blockchain Technology" all'Università Milano-Bicocca.
 Hanno discusso dei recenti sviluppi e delle nuove soluzioni per il mondo delle cryptovalute e digital assets.

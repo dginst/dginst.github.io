@@ -38,8 +38,8 @@ banner:
 
 ### Markets
 
-- [Bitcoin’s Inflation Narrative More Compelling Than ETF Fever, JPM Says - CoinDesk](https://www.coindesk.com/markets/2021/10/21/bitcoins-inflation-narrative-more-compelling-than-etf-fever-jpm-says/)
-- [JPMorgan Says Bitcoin’s Record Run Is Being Driven by Inflation - Bloomberg](https://www.bloomberg.com/news/articles/2021-10-20/jpmorgan-says-bitcoin-s-record-run-is-being-driven-by-inflation)
+- [Bitcoin's Inflation Narrative More Compelling Than ETF Fever, JPM Says - CoinDesk](https://www.coindesk.com/markets/2021/10/21/bitcoins-inflation-narrative-more-compelling-than-etf-fever-jpm-says/)
+- [JPMorgan Says Bitcoin's Record Run Is Being Driven by Inflation - Bloomberg](https://www.bloomberg.com/news/articles/2021-10-20/jpmorgan-says-bitcoin-s-record-run-is-being-driven-by-inflation)
 - [Paul Tudor Jones says crypto is his preferred inflation hedge over gold right now - CNBC](https://www.cnbc.com/2021/10/20/paul-tudor-jones-says-crypto-is-his-preferred-inflation-hedge-over-gold-right-now.html)
 - [Bitcoin Is Preferred Inflation Hedge Over Gold: Paul Tudor Jones - Decrypt](https://decrypt.co/83913/bitcoin-is-preferred-inflation-hedge-over-gold-paul-tudor-jones)
 
@@ -58,7 +58,7 @@ banner:
 - [FTX lures blue-chip investors in funding round, valuing crypto group at $25bn - Financial Times](https://www.ft.com/content/56b35970-de1e-41a6-9fb1-b482075e092b)
 - [FTX raises $420 million in funding round with backing from 69 investors including Tiger Global, Ribbit Capital - The Block Crypto](https://www.theblockcrypto.com/post/121428/ftx-420-million-round-69-investors-tiger-ribbit)
 - [Crypto Exchange FTX Hits $25 Billion Valuation in Latest Funding Round - Decrypt](https://decrypt.co/84001/crypto-exchange-ftx-hits-25-billion-valuation-latest-funding-round)
-- [Sam Bankman-Fried’s FTX Raises Precisely $420.69M - Blockworks](https://blockworks.co/sam-bankman-frieds-ftx-raises-precisely-420-69m/)
+- [Sam Bankman-Fried's FTX Raises Precisely $420.69M - Blockworks](https://blockworks.co/sam-bankman-frieds-ftx-raises-precisely-420-69m/)
 - [UK crypto firm Copper set to raise up to $500 million - The Block Crypto](https://www.theblockcrypto.com/post/121517/uk-crypto-firm-copper-raise-500-million)
 - [Société Générale Shopping for Crypto Custodian: Sources - CoinDesk](https://www.coindesk.com/business/2021/10/18/societe-generale-shopping-for-a-crypto-custodian-sources/)
 
@@ -75,7 +75,7 @@ banner:
 ### Ecosystem - Tether
 
 - [CFTC fines Tether and Bitfinex $42.5 million over USDT backing - The Block Crypto](https://www.theblockcrypto.com/linked/120820/cftc-fines-tether-and-bitfinex-42-5-million-over-usdt-backing)
-- [CFTC Fines Tether and Bitfinex $42.5M for ‘Untrue or Misleading’ Claims - CoinDesk](https://www.coindesk.com/policy/2021/10/15/cftc-fines-tether-and-bitfinex-425m-for-untrue-or-misleading-claims/)
+- [CFTC Fines Tether and Bitfinex $42.5M for ‘Untrue or Misleading' Claims - CoinDesk](https://www.coindesk.com/policy/2021/10/15/cftc-fines-tether-and-bitfinex-425m-for-untrue-or-misleading-claims/)
 - [CFTC Orders Tether and Bitfinex to Pay Fines Totaling $42.5 Million - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8450-21)
 
 ### Ecosystem - Facebook
@@ -83,7 +83,7 @@ banner:
 - [Facebook launches digital currency wallet Novi - Financial Times](https://www.ft.com/content/b9a61950-a32c-4c77-95fe-fc0d00021a0f)
 - [International Money Transfers & Remittances - Novi](https://www.novi.com/)
 - [Pilot version of Novi available - Novi](https://scontent-lga3-1.xx.fbcdn.net/v/t39.2365-6/243566529_1907629929421423_7584572429964174603_n.pdf?_nc_cat=108&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=RxaLSyJxi90AX-1dlOH&_nc_ht=scontent-lga3-1.xx&oh=be8a6c34051e12ede880dc16f485ce8d&oe=617338BB)
-- [Coinbase to power crypto custody for Facebook’s Novi - by Coinbase - Oct, 2021 - The Coinbase Blog](https://blog.coinbase.com/coinbase-to-power-crypto-custody-for-facebooks-novi-90dc8d3f5830)
+- [Coinbase to power crypto custody for Facebook's Novi - by Coinbase - Oct, 2021 - The Coinbase Blog](https://blog.coinbase.com/coinbase-to-power-crypto-custody-for-facebooks-novi-90dc8d3f5830)
 - [Facebook plans to change company name to focus on the metaverse - The Verge](https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse)
 
 ### Regulation

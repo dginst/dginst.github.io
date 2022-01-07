@@ -19,8 +19,8 @@ banner:
 
 ### Markets - China
 
-- [China’s Latest Crypto Ban Is Its Most Severe, Insiders Say - CoinDesk](https://www.coindesk.com/policy/2021/09/24/chinas-latest-crypto-ban-is-its-most-severe-insiders-say/)
-- [Major crypto exchanges stop letting Chinese users sign up after Beijing’s renewed crackdown - CNBC](https://www.cnbc.com/2021/09/27/cryptocurrency-exchanges-stop-chinese-users-signing-up-after-crackdown.html)
+- [China's Latest Crypto Ban Is Its Most Severe, Insiders Say - CoinDesk](https://www.coindesk.com/policy/2021/09/24/chinas-latest-crypto-ban-is-its-most-severe-insiders-say/)
+- [Major crypto exchanges stop letting Chinese users sign up after Beijing's renewed crackdown - CNBC](https://www.cnbc.com/2021/09/27/cryptocurrency-exchanges-stop-chinese-users-signing-up-after-crackdown.html)
 - [Cryptocurrency exchanges start cutting off Chinese users - Financial Times](https://www.ft.com/content/9c42c660-7e80-47c2-8b3b-3398c6a22eaf)
 - [Bitcoin exchanges Binance and Huobi stop taking mainland Chinese users - South China Morning Post](https://www.scmp.com/business/companies/article/3150149/bitcoin-exchanges-binance-and-huobi-stop-taking-mainland-chinese)
 - [Huobi to Gradually Expel Its China Users in Wake of Ban; Token Slides to 8-Month Low - CoinDesk](https://www.coindesk.com/markets/2021/09/26/huobi-to-gradually-expel-its-china-users-in-wake-of-ban-token-slides-to-8-month-low/)
@@ -28,8 +28,8 @@ banner:
 - [Huobi Global to Gradually Retire Existing Mainland China Users-Huobi Global-Official Huobi Website](https://www.huobi.com/support/en-us/detail/54886961978434)
 - [$50M in BTC Liquidated Following China Regulatory News - Blockworks](https://blockworks.co/crypto-markets-tumble-on-pboc-news/)
 - [This is why China finally killed its bitcoin boom - Wired](https://www.wired.co.uk/article/china-ban-bitcoin-cryptocurrencies)
-- [Many Exchanges in China Continue to Operate OTC Desks Despite ‘Ban’ - Blockworks](https://blockworks.co/many-exchanges-in-china-continue-to-operate-otc-desks-despite-ban/)
-- [No, China Didn’t Ban Crypto. It’s Just Pushing Exchanges Offshore - Blockworks](https://blockworks.co/no-china-didnt-ban-crypto-its-just-pushing-exchanges-offshore/)
+- [Many Exchanges in China Continue to Operate OTC Desks Despite ‘Ban' - Blockworks](https://blockworks.co/many-exchanges-in-china-continue-to-operate-otc-desks-despite-ban/)
+- [No, China Didn't Ban Crypto. It's Just Pushing Exchanges Offshore - Blockworks](https://blockworks.co/no-china-didnt-ban-crypto-its-just-pushing-exchanges-offshore/)
 - [The world's largest Ethereum mining pool says it will no longer serve Chinese miners - The Block Crypto](https://www.theblockcrypto.com/linked/118640/sparkpool-suspend-china-ethereum-mining-pool)
 - [Chinese Ethereum Mining Pool SparkPool to Halt All Services Due to Crackdown - CoinDesk](https://www.coindesk.com/business/2021/09/27/chinese-ethereum-mining-pool-sparkpool-to-halt-all-services-due-to-crackdown/)
 
@@ -51,13 +51,13 @@ banner:
 
 - [Approval of first Swiss crypto fund - Finma](https://www.finma.ch/en/news/2021/09/20210929-mm-genehmigung-schweizer-kryptofonds/)
 - [SEBA Bank secures the first institutional licence to custody Collective Investment Schemes for Digital Assets in Switzerland - SEBA](https://www.seba.swiss/media-and-investors/seba-bank-secures-the-first-institutional-licence-to-custody-collective-investment-schemes-for-digital-assets-in-switzerland)
-- [Switzerland’s SEBA Bank Snags First FINMA License for Liquid Crypto Funds - CoinDesk](https://www.coindesk.com/business/2021/09/29/switzerlands-seba-bank-snags-first-finma-license-for-liquid-crypto-funds/)
+- [Switzerland's SEBA Bank Snags First FINMA License for Liquid Crypto Funds - CoinDesk](https://www.coindesk.com/business/2021/09/29/switzerlands-seba-bank-snags-first-finma-license-for-liquid-crypto-funds/)
 
 ### Regulation
 
 - [Tesla CEO Elon Musk says U.S. government should avoid regulating crypto - CNBC](https://www.cnbc.com/2021/09/28/tesla-ceo-elon-musk-says-us-government-should-avoid-regulating-crypto.html)
 - [Deloitte, Credit Unions Call for Digital Asset Regulatory Clarity - Blockworks](https://blockworks.co/deloitte-credit-unions-call-for-digital-asset-regulatory-clarity/)
-- [Fed Chair Powell Says He Has ‘No Intention’ of Banning Crypto - CoinDesk](https://www.coindesk.com/policy/2021/09/30/fed-chair-powell-says-he-has-no-intention-of-banning-crypto/)
+- [Fed Chair Powell Says He Has ‘No Intention' of Banning Crypto - CoinDesk](https://www.coindesk.com/policy/2021/09/30/fed-chair-powell-says-he-has-no-intention-of-banning-crypto/)
 
 ### Regulation - CBDC
 
@@ -77,21 +77,21 @@ banner:
 
 - [Bitfinex just spent $23.7 million in fees to make a single Ethereum payment - The Block Crypto](https://www.theblockcrypto.com/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction)
 - [Bitfinex paid a colossal $23M fee to send $100K of USDT - Cointelegraph](https://cointelegraph.com/news/bitfinex-paid-a-colossal-23m-fee-to-send-100k-of-usdt)
-- [An Update on the ‘Erroneously High’ Gas Fee That Temporarily Cost DeversiFi $23.7M - CoinDesk](https://www.coindesk.com/tech/2021/09/28/an-update-on-the-erroneously-high-gas-fee-that-temporarily-cost-deversifi-237m/)
+- [An Update on the ‘Erroneously High' Gas Fee That Temporarily Cost DeversiFi $23.7M - CoinDesk](https://www.coindesk.com/tech/2021/09/28/an-update-on-the-erroneously-high-gas-fee-that-temporarily-cost-deversifi-237m/)
 - [A 23.7 million dollar Ethereum transaction fee post mortem... - DeversiFi](https://blog.deversifi.com/23-7-million-dollar-ethereum-transaction-fee-post-mortem/)
 - [DeFi Money Market Compound Overpays Millions in COMP Rewards in Possible Exploit; Founder Says $80M at Risk - CoinDesk](https://www.coindesk.com/tech/2021/09/30/defi-money-market-compound-overpays-15m-in-comp-rewards-in-possible-exploit/)
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
-- [DeFi Whales Turned Central, Northern & Western Europe into the World’s Biggest Cryptocurrency Economy - Chainalysis](https://blog.chainalysis.com/reports/central-northern-western-europe-cryptocurrency-geography-report-2021-preview)
+- [DeFi Whales Turned Central, Northern & Western Europe into the World's Biggest Cryptocurrency Economy - Chainalysis](https://blog.chainalysis.com/reports/central-northern-western-europe-cryptocurrency-geography-report-2021-preview)
 - [SEC Investigates UniSwap: What's Next For DeFi Regulation? - Sygna](https://www.sygna.io/blog/sec-investigates-uniswap-whats-next-for-defi-regulation)
-- [R3, Once Banking’s Blockchain Bet, Is Spinning Up a DeFi Token - CoinDesk](https://www.coindesk.com/business/2021/09/29/r3-once-bankings-blockchain-bet-is-spinning-up-a-defi-token/)
-- [Cardano’s Commercial Arm to Invest $100M in DeFi, NFTs and Blockchain Education - CoinDesk](https://www.coindesk.com/business/2021/09/27/cardanos-commercial-arm-to-invest-100m-in-defi-nfts-and-blockchain-education/)
+- [R3, Once Banking's Blockchain Bet, Is Spinning Up a DeFi Token - CoinDesk](https://www.coindesk.com/business/2021/09/29/r3-once-bankings-blockchain-bet-is-spinning-up-a-defi-token/)
+- [Cardano's Commercial Arm to Invest $100M in DeFi, NFTs and Blockchain Education - CoinDesk](https://www.coindesk.com/business/2021/09/27/cardanos-commercial-arm-to-invest-100m-in-defi-nfts-and-blockchain-education/)
 
 ### Ecosystem - NFT
 
 - [Calling All Creators: Ripple Launches $250M Creator Fund - Ripple](https://ripple.com/insights/calling-all-creators-ripple-launches-250m-creator-fund/)
-- [NFT News: Ripple Launches $250M Creator Fund, Christie’s Sells $12M of NFTs - Blockworks](https://blockworks.co/nft-news-ripple-launches-250m-creator-fund-christies-sells-12m-of-nfts/)
+- [NFT News: Ripple Launches $250M Creator Fund, Christie's Sells $12M of NFTs - Blockworks](https://blockworks.co/nft-news-ripple-launches-250m-creator-fund-christies-sells-12m-of-nfts/)
 - [Twitter reveals beta test of verification tools for NFT profile pictures - The Block Crypto](https://www.theblockcrypto.com/linked/119057/twitter-exec-reveals-test-footage-of-verification-tools-for-nft-profile-pictures)
 - [Non-Fungible Tokens (NFTs): Redefining Digital Scarcity - Kraken Intelligence](https://kraken.docsend.com/view/964aiz4n3y5dti3s)
 

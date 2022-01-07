@@ -36,7 +36,7 @@ banner:
 
 - [NFT trading volume surpassed $13 billion in 2021 - theblockcrypto](https://www.theblockcrypto.com/linked/128676/nft-trading-volume-surpassed-13-billion-in-2021)
 - [NFTs and SNL: Crypto Keeps Burrowing Into the Mainstream - WSJ](https://www.wsj.com/articles/nfts-and-snl-crypto-keeps-burrowing-into-the-mainstream-11640567423)
-- [2022 Prediction: ‘Gaming Will Lead to Further Crypto Adoption’ - Blockworks](https://blockworks.co/2022-prediction-gaming-will-lead-to-further-crypto-adoption/)
+- [2022 Prediction: ‘Gaming Will Lead to Further Crypto Adoption' - Blockworks](https://blockworks.co/2022-prediction-gaming-will-lead-to-further-crypto-adoption/)
 
 ### Ecosystem - Binance
 
@@ -46,7 +46,7 @@ banner:
 
 ### Regulation - US
 
-- [SEC Commissioner Hester Peirce Says Washington Doesn’t Need a New Crypto Regulator - Coindesk](https://www.coindesk.com/policy/2021/12/30/sec-commissioner-hester-peirce-says-washington-doesnt-need-a-new-crypto-regulator/)
+- [SEC Commissioner Hester Peirce Says Washington Doesn't Need a New Crypto Regulator - Coindesk](https://www.coindesk.com/policy/2021/12/30/sec-commissioner-hester-peirce-says-washington-doesnt-need-a-new-crypto-regulator/)
 - [Bitcoin-Owning (BTC) Wyoming GOP Senator Lummis to Propose Crypto Bill in 2022 - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-23/pro-crypto-senator-lummis-to-propose-overhaul-bill-next-year)
 - [Tom Emmer - Twitter](https://twitter.com/RepTomEmmer/status/1476549689780678656)
 
@@ -54,7 +54,7 @@ banner:
 
 - [Mexican government signals circulation of digital currency by 2024 - theblockcrypto](https://www.theblockcrypto.com/linked/128836/mexican-government-signals-circulation-of-digital-currency-by-2024)
 - [Bank of Mexico Plans to Launch Digital Currency by 2024 - WSJ](https://www.wsj.com/articles/bank-of-mexico-plans-to-launch-digital-currency-by-2024-11640896506)
-- [Swiss Central Bank Ready to Run With wCBDC in January: ‘Just Takes a Policy Decision’ - Coindesk](https://www.coindesk.com/policy/2021/11/09/swiss-central-bank-ready-to-run-with-wcbdc-in-january-just-takes-a-policy-decision)
+- [Swiss Central Bank Ready to Run With wCBDC in January: ‘Just Takes a Policy Decision' - Coindesk](https://www.coindesk.com/policy/2021/11/09/swiss-central-bank-ready-to-run-with-wcbdc-in-january-just-takes-a-policy-decision)
 
 ### Ecosystem - Custody
 

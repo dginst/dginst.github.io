@@ -27,7 +27,7 @@ banner:
 
 ### Ecosystem - TradFi
 
-- [Square Inc.’s CFO Talks Bitcoin, Afterpay and Cash App - WSJ](https://www.wsj.com/articles/square-cfo-bitcoin-afterpay-cashapp-11635359050)
+- [Square Inc.'s CFO Talks Bitcoin, Afterpay and Cash App - WSJ](https://www.wsj.com/articles/square-cfo-bitcoin-afterpay-cashapp-11635359050)
 - [One River CEO Eric Peters: Crypto is Most Interesting Macro Opportunity and Investment - Blockworks](https://blockworks.co/one-river-ceo-eric-peters-crypto-is-most-interesting-macro-opportunity-and-investment/)
 - [Bitcoin surge spurs City to recruit crypto natives - Financial Times](https://www.ft.com/content/7556f53f-bf3e-42cd-ab04-dac0097440f0)
 - [Bank of America COO: Crypto Could Add Value to Banks - Blockworks](https://blockworks.co/bank-of-america-coo-crypto-could-add-value-to-banks/)
@@ -43,7 +43,7 @@ banner:
 
 ### Markets - Altcoins
 
-- [Squid Game Token Crashes; Developers Say They’ve Left the Project - Coindesk](https://www.coindesk.com/markets/2021/11/01/squid-game-token-crashes-developers-say-theyve-left-the-project/)
+- [Squid Game Token Crashes; Developers Say They've Left the Project - Coindesk](https://www.coindesk.com/markets/2021/11/01/squid-game-token-crashes-developers-say-theyve-left-the-project/)
 - [How a Squid Game Crypto Scam Got Away With Millions - WIRED](https://www.wired.com/story/squid-game-coin-crypto-scam/)
 - [A SHIB Whale Just Moved Nearly $3 Billion Worth of the Meme Coin - Decrypt](https://decrypt.co/85180/shib-whale-moved-3-billion-worth-meme-coin)
 - [Bitcoin here to stay, a lot of other cryptos are not: Sen. Cynthia Lummis - YouTube](https://www.youtube.com/watch?v=EfXRfw1RFNg)
@@ -57,12 +57,12 @@ banner:
 ### Ecosystem - DCG
 
 - [SoftBank, Alphabet Join $700M Investment in Digital Currency Group, Valuing DCG at $10B - Decrypt](https://decrypt.co/84948/softbank-alphabet-join-700m-investment-digital-currency-group-valuing-dcg-10b)
-- [Digital Currency Group Wants to Be Crypto’s Standard Oil - WSJ](https://www.wsj.com/articles/digital-currency-group-wants-to-be-cryptos-standard-oil-11635764400)
+- [Digital Currency Group Wants to Be Crypto's Standard Oil - WSJ](https://www.wsj.com/articles/digital-currency-group-wants-to-be-cryptos-standard-oil-11635764400)
 
 ### Ecosystem - El Salvador
 
 - [El Salvador's Bukele announces new bitcoin education project - The Block](https://www.theblockcrypto.com/post/123197/el-salvadors-bukele-announces-new-bitcoin-education-project)
-- [Identity Thieves Exploit El Salvador’s Chivo Bitcoin Wallet’s Setup Process - Coindesk](https://www.coindesk.com/business/2021/10/29/identity-thieves-exploit-el-salvadors-chivo-bitcoin-wallets-setup-process/)
+- [Identity Thieves Exploit El Salvador's Chivo Bitcoin Wallet's Setup Process - Coindesk](https://www.coindesk.com/business/2021/10/29/identity-thieves-exploit-el-salvadors-chivo-bitcoin-wallets-setup-process/)
 
 ### Ecosystem - DeFi
 
@@ -84,7 +84,7 @@ banner:
 
 ### Ecosystem - Sustainability
 
-- [Bitcoin’s Carbon Footprint - BitMEX Blog](https://blog.bitmex.com/bitcoins-carbon-footprint/)
+- [Bitcoin's Carbon Footprint - BitMEX Blog](https://blog.bitmex.com/bitcoins-carbon-footprint/)
 - [What Bitcoin's Environmentalist Critics Miss - Newsweek](https://www.newsweek.com/what-bitcoins-environmentalist-critics-miss-opinion-1643290)
 
 ### Regulation - Stablecoins
@@ -98,13 +98,13 @@ banner:
 
 - [Unlocking 120billion value in cross-border payments - Oliver Wyman](https://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2021/nov/unlocking-120-billion-value-in-cross-border-payments.pdf)
 - [JPMorgan Report Says CBDCs Can Save Firms $100B a Year in Cross-Border Costs - Coindesk](https://www.coindesk.com/business/2021/11/03/jpmorgan-report-says-cbdcs-can-save-banks-100b-a-year-in-cross-border-costs/)
-- [China’s CBDC Has Been Used for $9.7B of Transactions - Coindesk](https://www.coindesk.com/business/2021/11/03/chinas-cbdc-has-been-used-for-97b-of-transactions/)
+- [China's CBDC Has Been Used for $9.7B of Transactions - Coindesk](https://www.coindesk.com/business/2021/11/03/chinas-cbdc-has-been-used-for-97b-of-transactions/)
 
 ### Tech - Bitcoin
 
 - [Bitcoin Optech Newsletter #173 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/03/)
 - [Liquid and Taproot Activation - AJ Towns](https://www.erisian.com.au/wordpress/2021/10/26/liquid-and-taproot-activation)
-- [Response to AJ Towns’ Blog Post about Liquid Consensus Changes - Blockstream](https://medium.com/blockstream/response-to-aj-towns-blog-post-about-liquid-consensus-changes-931c1055dee5)
+- [Response to AJ Towns' Blog Post about Liquid Consensus Changes - Blockstream](https://medium.com/blockstream/response-to-aj-towns-blog-post-about-liquid-consensus-changes-931c1055dee5)
 
 ### Digital Gold Institute
 

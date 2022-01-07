@@ -20,17 +20,17 @@ banner:
 ### Markets
 
 - [El Salvador announces purchase of 420 bitcoin, worth nearly $25 million - The Block Crypto](https://www.theblockcrypto.com/linked/122360/el-salvador-announces-purchase-of-420-bitcoin-worth-nearly-25-million)
-- [El Salvador ‘Buys the Dip,’ Acquires 420 Additional Bitcoin - CoinDesk](https://www.coindesk.com/business/2021/10/28/el-salvador-buys-the-dip-acquires-420-additional-bitcoin/)
+- [El Salvador ‘Buys the Dip,' Acquires 420 Additional Bitcoin - CoinDesk](https://www.coindesk.com/business/2021/10/28/el-salvador-buys-the-dip-acquires-420-additional-bitcoin/)
 - [MicroStrategy Adds Almost 9,000 Bitcoins to Its Holdings in Third Quarter - CoinDesk](https://www.coindesk.com/business/2021/10/28/microstrategy-added-almost-9000-bitcoins-to-its-holdings-in-third-quarter/)
 - [Rand Paul questioning if crypto could become world reserve currency - The Hill](https://thehill.com/homenews/senate/578303-rand-paul-questioning-if-cryptocurrency-could-become-world-reserve-currency)
 - [Those who do their homework end up investing in bitcoin: Scaramucci - CNBC](https://www.cnbc.com/2021/10/25/those-who-do-their-homework-end-up-investing-in-bitcoin-scaramucci.html)
-- [Coinbase hits number 1 spot on Apple’s US App Store - The Block Crypto](https://www.theblockcrypto.com/linked/122445/coinbase-hits-number-1-spot-apple-us-app-store)
+- [Coinbase hits number 1 spot on Apple's US App Store - The Block Crypto](https://www.theblockcrypto.com/linked/122445/coinbase-hits-number-1-spot-apple-us-app-store)
 - [Bitcoin as a real asset - Financial Times](https://www.ft.com/content/3a0275b2-1e3e-442e-ad84-43b2697a4b19)
 
 ### Markets - Altcoins
 
 - [Shiba Inu Coin Price Jumps, Could Overtake Meme Cryptocurrency Dogecoin - WSJ](https://www.wsj.com/articles/shiba-inu-coin-price-jumps-could-overtake-meme-cryptocurrency-dogecoin-11635350665)
-- [Dogecoin watch out! ‘Shiba inu’ token muscles into cryptocurrency top 10 - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-dogecoin-watch-out-shiba-inu-token-muscles-into-cryptocurrency-top-10/)
+- [Dogecoin watch out! ‘Shiba inu' token muscles into cryptocurrency top 10 - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-dogecoin-watch-out-shiba-inu-token-muscles-into-cryptocurrency-top-10/)
 - [SHIB overtakes DOGE as rival memecoin surpasses market capitalization - The Block Crypto](https://www.theblockcrypto.com/linked/122323/shib-overtakes-doge-as-rival-memecoin-surpasses-market-capitalization)
 - [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1452334458066149377)
 - [Squid Game cryptocurrency rockets in first few days of trading - BBC News](https://www.bbc.com/news/business-59059097)
@@ -40,11 +40,11 @@ banner:
 - [VanEck Ready to Launch Delayed Bitcoin Futures ETF - Blockworks](https://blockworks.co/vaneck-ready-to-launch-delayed-bitcoin-futures-etf/)
 - [Grayscale's LaValle sees potential for the SEC to approve its spot bitcoin ETF by July 2022 - MarketWatch](https://www.marketwatch.com/story/grayscales-lavalle-expects-the-sec-to-approve-its-spot-bitcoin-etf-by-july-2022-11635371105)
 - [CME's quarterly profit jumps, bitcoin futures surge - Reuters](https://www.reuters.com/business/finance/exchange-operator-cmes-quarterly-profit-jumps-125-2021-10-27/)
-- [Bitcoin ETF’s Success Could Come at Fundholders’ Expense - WSJ](https://www.wsj.com/articles/bitcoin-etfs-success-could-come-at-fundholders)
+- [Bitcoin ETF's Success Could Come at Fundholders' Expense - WSJ](https://www.wsj.com/articles/bitcoin-etfs-success-could-come-at-fundholders)
 
 ### Ecosystem - NFT
 
-- [Facebook’s Metaverse Will Support NFTs - CoinDesk](https://www.coindesk.com/business/2021/10/28/facebooks-metaverse-will-support-nfts/)
+- [Facebook's Metaverse Will Support NFTs - CoinDesk](https://www.coindesk.com/business/2021/10/28/facebooks-metaverse-will-support-nfts/)
 - [Facebook Goes All In on Metaverse With New Company Name Meta, NFT Push - Decrypt](https://decrypt.co/84721/facebook-metaverse-new-company-name-meta-nft)
 - [Adobe offers users the ability to verify NFT marketplace creations through metadata - Cointelegraph](https://cointelegraph.com/news/adobe-offers-users-the-ability-to-verify-nft-marketplace-creations-through-metadata)
 - [Adobe unleashes Content Attribution Features in Photoshop and Beyond at MAX 2021 - Adobe](https://blog.adobe.com/en/publish/2021/10/26/adobe-unleashes-content-attribution-features-photoshop-beyond-max-2021.html#gs.exe6hz)
@@ -72,7 +72,7 @@ banner:
 
 ### Digital Gold Institute
 
-- ["Bitcoin è l’equivalente digitale dell’oro. Non scomparirà" - Huffington Post](https://www.huffingtonpost.it/entry/ametrano-bitcoin-e-lequivalente-digitale-delloro-non-scomparira_it_6177dcbce4b03072d6fbb0ce)
+- ["Bitcoin è l'equivalente digitale dell'oro. Non scomparirà" - Huffington Post](https://www.huffingtonpost.it/entry/ametrano-bitcoin-e-lequivalente-digitale-delloro-non-scomparira_it_6177dcbce4b03072d6fbb0ce)
 - [Il report trimestrale del Digital Gold Institute](https://dgi.io/reports/)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)

@@ -15,8 +15,8 @@ podcast:
 ---
 ### JPMorgan
 
-- [JPMorgan to Launch ‘Cryptocurrency Exposure Basket’ of Bitcoin Proxy Stocks (coindesk)](https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks){:target="_blank"}
-- [JPMorgan’s New Crypto Bond ‘Not for the Faint of Heart,’ Former Star Analyst Hintz Says (coindesk)](https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz){:target="_blank"}
+- [JPMorgan to Launch ‘Cryptocurrency Exposure Basket' of Bitcoin Proxy Stocks (coindesk)](https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks){:target="_blank"}
+- [JPMorgan's New Crypto Bond ‘Not for the Faint of Heart,' Former Star Analyst Hintz Says (coindesk)](https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz){:target="_blank"}
 - [JPMorgan tells private wealth clients that bitcoin can be a portfolio diversifier 'if sized correctly' (theblockcrypto)](https://www.theblockcrypto.com/post/97257/jp-morgan-bitcoin-deck-private-client){:target="_blank"}
 
 ### ETF
@@ -29,9 +29,9 @@ podcast:
 
 ### Non Fungible Tokens
 
-- [Bidding Reaches $2.5M as Twitter’s Dorsey Highlights NFT Version of First-Ever Tweet (coindesk)](https://www.coindesk.com/twitter-ceo-jack-dorsey-is-offering-to-sell-the-first-ever-tweet){:target="_blank"}
-- [Beeple NFT Sold for Record-Setting $69.3M at Christie’s Auction (coindesk)](https://www.coindesk.com/beeple-nft-christies-auction){:target="_blank"}
-- [What is an NFT, and how did an artist called Beeple sell one for $69 million at Christie’s? (the washington post)](https://www.washingtonpost.com/technology/2021/03/12/nft-beeple-christies-blockchain/){:target="_blank"}
+- [Bidding Reaches $2.5M as Twitter's Dorsey Highlights NFT Version of First-Ever Tweet (coindesk)](https://www.coindesk.com/twitter-ceo-jack-dorsey-is-offering-to-sell-the-first-ever-tweet){:target="_blank"}
+- [Beeple NFT Sold for Record-Setting $69.3M at Christie's Auction (coindesk)](https://www.coindesk.com/beeple-nft-christies-auction){:target="_blank"}
+- [What is an NFT, and how did an artist called Beeple sell one for $69 million at Christie's? (the washington post)](https://www.washingtonpost.com/technology/2021/03/12/nft-beeple-christies-blockchain/){:target="_blank"}
 - [NFTs are doomed (jimmy song)](https://jimmysong.substack.com/p/nfts-are-doomed-bitcoin-tech-talk){:target="_blank"}
 
 ### Crypto Industry
@@ -53,7 +53,7 @@ podcast:
 ### Opinions
 
 - [There are good reasons for business leaders to invest in bitcoin (financial times)](https://www.ft.com/content/11e2ac1d-90e9-4308-9cac-d55e9ff13498){:target="_blank"}
-- [Bitcoin sarà l’oro digitale? Prospettive e limiti (il sole 24 ore)](https://www.ilsole24ore.com/art/bitcoin-sara-l-oro-digitale-prospettive-e-limiti-ADERWWOB){:target="_blank"}
+- [Bitcoin sarà l'oro digitale? Prospettive e limiti (il sole 24 ore)](https://www.ilsole24ore.com/art/bitcoin-sara-l-oro-digitale-prospettive-e-limiti-ADERWWOB){:target="_blank"}
 
 ### DGI
 

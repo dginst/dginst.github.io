@@ -12,8 +12,8 @@ newsfeed: true
 ---
 
 Martedì 25 febbraio a Roma, presso *Montecitorio*,
-si svolgerà la conferenza “**Blockchain: l’innovazione parte dalle università**”,
-dove si parlerà dell’importanza che la ricerca universitaria porta in questo ambito
+si svolgerà la conferenza “**Blockchain: l'innovazione parte dalle università**”,
+dove si parlerà dell'importanza che la ricerca universitaria porta in questo ambito
 __[evento RIMANDATO A DATA DA STABILIRSI per restrizioni covid19]__.
 
 Durante la conferenza verrà premiata [**Chiara Lelli**](https://dgi.io/full-team/#alumni),
@@ -29,7 +29,7 @@ Interverranno alla conferenza:
 
 - [**Mirella Liuzzi**](https://www.linkedin.com/in/mirellaliuzzi/), Sottosegretario di Stato per lo Sviluppo Economico
 - [**Davide Zanichelli**](https://www.linkedin.com/in/davide-zanichelli/), Commissione Finanza, Movimento 5 Stelle Camera
-- [**Mauro Conti**](https://www.linkedin.com/in/mauroconti/), Professore Ordinario di Sicurezza Informatica all’Università di Padova
+- [**Mauro Conti**](https://www.linkedin.com/in/mauroconti/), Professore Ordinario di Sicurezza Informatica all'Università di Padova
 - [**Guido Baroncini Turricchia**](https://www.linkedin.com/in/guidobaronciniturricchia/?originalSubdomain=it), Ingegnere e CEO Helperbit
 - [**Chiara Lelli**](https://www.linkedin.com/in/chiara-lelli-5bb648134/), Presentatrice della tesi premiata da Blockchain Education Network
 - [**Ferdinando M. Ametrano**](http://www.ametrano.net/), direttore del nostro istituto di ricerca

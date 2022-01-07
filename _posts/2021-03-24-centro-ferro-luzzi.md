@@ -14,17 +14,17 @@ newsfeed: true
 
 Lo scorso 12 marzo si è svolto il webinar "**Moneta digitale e dintorni**", organizzato da Grandanolo.
 
-[Grandangolo](https://www.uniroma3.it/ateneo/centri/centri-di-ricerca-interdipartimentali/centro-di-ricerca-interdipartimentale-sul-diritto-europeo-della-banca-e-della-finanza-paolo-ferro-luzzi/) è il Centro di Ricerca Interdipartimentale sul Diritto Europeo della Banca e della Finanza “Paolo Ferro-Luzzi", promosso e costituito da tre dipartimenti dell’Università degli Studi Roma Tre: Giurisprudenza, Economia Aziendale e Scienze Politiche.
+[Grandangolo](https://www.uniroma3.it/ateneo/centri/centri-di-ricerca-interdipartimentali/centro-di-ricerca-interdipartimentale-sul-diritto-europeo-della-banca-e-della-finanza-paolo-ferro-luzzi/) è il Centro di Ricerca Interdipartimentale sul Diritto Europeo della Banca e della Finanza “Paolo Ferro-Luzzi", promosso e costituito da tre dipartimenti dell'Università degli Studi Roma Tre: Giurisprudenza, Economia Aziendale e Scienze Politiche.
 
 Il webinar ha illustrato la portata dei rilevanti cambiamenti normativi che hanno interessato il settore della finanza in Europa a seguito della nascita ed adozione delle cryptovalute. 
 
 Moderatore dei lavori:
-- _Marino Perassi_, Banca d’Italia.
+- _Marino Perassi_, Banca d'Italia.
 
 Sono intervenuti: 
 - _Donato Masciandaro_, Università Bocconi, con una relazione dal titolo 
 "Moneta digitale: cosa è, come sarà";
-- _Nicola De Giorgi_, Banca d’Italia, con un intervento dal titoto "Euro digitale; le questioni aperte".
+- _Nicola De Giorgi_, Banca d'Italia, con un intervento dal titoto "Euro digitale; le questioni aperte".
 
 In chiusura, un dibattito sui temi trattati a cui hanno partecipato:
 - _Giuliano Lemme_, Università degli Studi di Modena e Reggio Emilia;

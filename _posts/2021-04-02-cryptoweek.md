@@ -37,14 +37,14 @@ podcast:
 - [Former SEC Chairman Jay Clayton to Advise One River Asset Management on Crypto (coindesk)](https://www.coindesk.com/former-sec-chairman-jay-clayton-to-advise-one-river-asset-management-on-crypto){:target="_blank"}
 - [Bitcoin at 'Inflection Point' as Fiat Debasement Rises: Soros Fund Management CIO (Decrypt)](https://decrypt.co/62981/bitcoin-inflection-point-soros-fund-management-cio){:target="_blank"}
 - [Grayscale's Sonnenshein Addresses GBTC's Collapsing Premium (coindesk)](https://www.coindesk.com/grayscale-sonnenshein-gbtc-collapsing-premium-coindesktv){:target="_blank"}
-- [Coinbase’s COIN Stock to Go Live on Nasdaq April 14 (coindesk)](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14){:target="_blank"}
+- [Coinbase's COIN Stock to Go Live on Nasdaq April 14 (coindesk)](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14){:target="_blank"}
 
 ### CBDC
 
 - [Bank of Japan forms committee to share details on CBDC proof-of-concept (The block Crypto)](https://www.theblockcrypto.com/linked/99626/boj-cbdc-committee-proof-of-concept){:target="_blank"}
 - [Establishment of Liaison and Coordination Committee on Central Bank Digital Currency (Bank of Japan)](https://www.boj.or.jp/en/announcements/release_2021/rel210326a.pdf){:target="_blank"}
 - [Britain will focus crypto rules on stablecoins, minister says (Reuters)](https://www.reuters.com/article/us-crypto-currency-regulations/uk-to-focus-crypto-rules-on-stablecoins-says-minister-idUSKBN2BM11G){:target="_blank"}
-- [Digital Euro Will Be Decided On Within Months: ECB’s Lagarde (Decrypt)](https://decrypt.co/63558/digital-euro-plans-launch-ecb-president-lagarde){:target="_blank"}
+- [Digital Euro Will Be Decided On Within Months: ECB's Lagarde (Decrypt)](https://decrypt.co/63558/digital-euro-plans-launch-ecb-president-lagarde){:target="_blank"}
 
 ### Exchanges
 
@@ -76,7 +76,7 @@ podcast:
 ### FATF-GAFI
 
 - [Financial Action Task Force (FATF-GAFI)](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html){:target="_blank"}
-- [FATF’s Proposed Updated Guidance for Cryptocurrency Regulation: Everything You Need to Know (Chainalysis)](https://blog.chainalysis.com/reports/fatfs-updated-guidance-march-2021){:target="_blank"}
+- [FATF's Proposed Updated Guidance for Cryptocurrency Regulation: Everything You Need to Know (Chainalysis)](https://blog.chainalysis.com/reports/fatfs-updated-guidance-march-2021){:target="_blank"}
 
 ### Staking
 

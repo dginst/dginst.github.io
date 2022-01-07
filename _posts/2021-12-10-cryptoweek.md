@@ -41,7 +41,7 @@ banner:
 ### Tech - Ethereum
 
 - [Cathie Wood thinks Ethereum is 'even more undervalued' than Bitcoin - Fortune](https://fortune.com/2021/12/09/cathie-wood-thinks-ethereum-is-even-more-undervalued-than-bitcoin/)
-- [Ethereum update defuses ‘difficulty bomb’ that could have stopped Ether crypto mining - Fortune](https://fortune.com/2021/12/08/ethereum-arrow-glacier-update-difficulty-bomb-crypto-mining-proof-of-stake-eth2/)
+- [Ethereum update defuses ‘difficulty bomb' that could have stopped Ether crypto mining - Fortune](https://fortune.com/2021/12/08/ethereum-arrow-glacier-update-difficulty-bomb-crypto-mining-proof-of-stake-eth2/)
 - [Ethereum Arrow Glacier Upgrade - Medium](https://medium.com/ethereum-cat-herders/ethereum-arrow-glacier-upgrade-e8d20fa4c002)
 
 ### Ecosystem - Hashrate
@@ -70,7 +70,7 @@ banner:
 
 - [A limited number of people in the US will be able to send and receive money using Novi on @WhatsApp - Stephane Kasriel](https://twitter.com/skasriel/status/1468722859648307201)
 - [Novi on WhatsApp - Novi](https://www.novi.com/WhatsApp)
-- [Meta’s WhatsApp to Trial Novi Digital Wallet](https://www.coindesk.com/business/2021/12/09/metas-whatsapp-to-trial-novi-digital-wallet/)
+- [Meta's WhatsApp to Trial Novi Digital Wallet](https://www.coindesk.com/business/2021/12/09/metas-whatsapp-to-trial-novi-digital-wallet/)
 
 ### Ecosystem - Visa
 

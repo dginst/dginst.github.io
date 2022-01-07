@@ -23,9 +23,9 @@ podcast:
 
 ### Ecosystem
 
-- [Binance Pledges New Controls After 99% ‘Flash Crash’ in Polkadot Futures (coindesk)](https://www.coindesk.com/binance-controls-flash-crash-polkadot)
-- [Does Crypto Need Circuit Breakers? Last Week’s Price Crash Ignites a Debate (coindesk)](https://www.coindesk.com/does-crypto-need-circuit-breakers-last-weeks-price-crash-ignites-a-debate)
-- [BitMEX’s Arthur Hayes Proposes Surrender to U.S. Authorities (coindesk)](https://www.bloomberg.com/news/articles/2021-03-03/bitmex-s-arthur-hayes-proposes-to-surrender-to-u-s-authorities)
+- [Binance Pledges New Controls After 99% ‘Flash Crash' in Polkadot Futures (coindesk)](https://www.coindesk.com/binance-controls-flash-crash-polkadot)
+- [Does Crypto Need Circuit Breakers? Last Week's Price Crash Ignites a Debate (coindesk)](https://www.coindesk.com/does-crypto-need-circuit-breakers-last-weeks-price-crash-ignites-a-debate)
+- [BitMEX's Arthur Hayes Proposes Surrender to U.S. Authorities (coindesk)](https://www.bloomberg.com/news/articles/2021-03-03/bitmex-s-arthur-hayes-proposes-to-surrender-to-u-s-authorities)
 - [BitGo Receives NYDFS Approval for New York Trust Charter (coindesk)](https://www.coindesk.com/bitgo-receives-nydfs-approval-for-new-york-trust-charter)
 
 ### Coinbase and Exchange Valuations

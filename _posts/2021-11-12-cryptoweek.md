@@ -24,9 +24,9 @@ banner:
 - [JPMorgan Doubles Down On Its Massive Bitcoin Price Prediction—But Adds A Serious Warning - Forber](https://www.forbes.com/sites/billybambrough/2021/11/04/jpmorgan-doubles-down-on-its-massive-bitcoin-price-prediction-but-adds-a-serious-warning/)
 - [Bitcoin Touched $68,600 For its New ATH: Cardano Soars 12% (Market Watch) - CryptoPotato](https://cryptopotato.com/bitcoin-touched-68600-for-its-new-ath-cardano-soars-12-market-watch/)
 - [Ether All-time High as Total Market Cap Nears $3 Trillion - Blockworks](https://blockworks.co/ether-all-time-high-as-total-market-cap-nears-3-trillion/)
-- [Tim Cook says he owns cryptocurrency and he’s been ‘interested in it for a while’ - CNBC](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html)
-- [Apple’s Tim Cook Says He Owns Cryptocurrency, Calls It ‘Reasonable’ - Forbes](https://www.forbes.com/sites/nicholasreimann/2021/11/09/apples-tim-cook-says-he-owns-cryptocurrency-calls-it-reasonable)
-- [Tim Cook Owns Crypto, but Apple Won’t Invest Its Cash Into It - WSJ](https://www.wsj.com/articles/tim-cook-says-apple-is-looking-into-cryptocurrency-11636475111)
+- [Tim Cook says he owns cryptocurrency and he's been ‘interested in it for a while' - CNBC](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html)
+- [Apple's Tim Cook Says He Owns Cryptocurrency, Calls It ‘Reasonable' - Forbes](https://www.forbes.com/sites/nicholasreimann/2021/11/09/apples-tim-cook-says-he-owns-cryptocurrency-calls-it-reasonable)
+- [Tim Cook Owns Crypto, but Apple Won't Invest Its Cash Into It - WSJ](https://www.wsj.com/articles/tim-cook-says-apple-is-looking-into-cryptocurrency-11636475111)
 - [Apple CEO Tim Cook Reveals He Owns Crypto but Has No Plans to Buy It for the Company - CoinDesk](https://www.coindesk.com/business/2021/11/09/apple-ceo-tim-cook-reveals-he-owns-crypto-but-has-no-plans-to-buy-it-for-the-company/)
 - [Once dominated by retail investors, crypto sector is now attracting major institutional money - The Globe and Mail](https://www.theglobeandmail.com/business/article-once-dominated-by-retail-investors-crypto-sector-is-now-attracting)
 - ['A proxy for holding Bitcoin': Crypto firms set to go public as market hits US$3 trillion - Financial Post](https://financialpost.com/fp-finance/cryptocurrency/a-proxy-for-holding-bitcoin-crypto-firms-set-to-go-public-as-market-hits-us3-trillion-milestone)
@@ -46,7 +46,7 @@ banner:
 
 ### Markets - Inflation
 
-- [US Inflation’s 3-Decade-High Surge Provides Tailwind for Bitcoin - CoinDesk](https://www.coindesk.com/markets/2021/11/10/us-inflation-surges-faster-than-expected-to-3-decade-high-cpi-report-shows/)
+- [US Inflation's 3-Decade-High Surge Provides Tailwind for Bitcoin - CoinDesk](https://www.coindesk.com/markets/2021/11/10/us-inflation-surges-faster-than-expected-to-3-decade-high-cpi-report-shows/)
 - [Bitcoin vs. gold: Leading gold authorities on inflation hedge battle - CNBC](https://www.cnbc.com/2021/11/09/bitcoin-vs-gold-leading-gold-authorities-on-inflation-hedge-battle.html)
 - [Gold, bitcoin lead gains in inflation hedges following biggest CPI jump in 3 decades - CNBC](https://www.cnbc.com/2021/11/10/gold-bitcoin-lead-gains-in-inflation-hedges-following-biggest-cpi-jump-in-3-decades.html)
 
@@ -59,18 +59,18 @@ banner:
 ### Ecosystem - NFT
 
 - [Beeple's "Human One" Sculpture And NFT Sells For $29M - TheStreet](https://www.thestreet.com/investing/beeples-human-one-sculpture-and-nft-sells-for-29m)
-- [NFT Artist Beeple Auctions Latest Work for $28.9M at Christie’s - Blockworks](https://blockworks.co/nft-artist-beeple-auctions-latest-work-for-28-9m-at-christies/)
+- [NFT Artist Beeple Auctions Latest Work for $28.9M at Christie's - Blockworks](https://blockworks.co/nft-artist-beeple-auctions-latest-work-for-28-9m-at-christies/)
 - [NFT Marketplace OpenSea Hits $10B in Total Volume - Decrypt](https://decrypt.co/85507/nft-marketplace-opensea-hits-10b-total-volume)
-- [Microsoft’s Blockchain Director: Major Brands Embracing NFTs Will Drive Mainstream Adoption - Blockworks](https://blockworks.co/microsofts-blockchain-director-major-brands-embracing-nfts-will-drive-mainstream-adoption/)
+- [Microsoft's Blockchain Director: Major Brands Embracing NFTs Will Drive Mainstream Adoption - Blockworks](https://blockworks.co/microsofts-blockchain-director-major-brands-embracing-nfts-will-drive-mainstream-adoption/)
 
 ### Ecosystem - Defi
 
-- [Investors warned that crypto ‘yield’ products are not bonds - Financial Times](https://www.ft.com/content/cfc4eece-df0f-479f-ad51-56300dfa3149)
+- [Investors warned that crypto ‘yield' products are not bonds - Financial Times](https://www.ft.com/content/cfc4eece-df0f-479f-ad51-56300dfa3149)
 
 ### Regulation
 
 - [SEC Stops Wyoming-Based DAO From Registering 2 Digital Tokens - CoinDesk](https://www.coindesk.com/policy/2021/11/11/sec-stops-wyoming-based-dao-from-registering-2-digital-tokens/)
-- [Nigeria’s central bank reportedly freezes crypto traders’ accounts - CointelegrapH](https://cointelegraph.com/news/nigeria-s-central-bank-reportedly-freezes-crypto-traders-accounts)
+- [Nigeria's central bank reportedly freezes crypto traders' accounts - CointelegrapH](https://cointelegraph.com/news/nigeria-s-central-bank-reportedly-freezes-crypto-traders-accounts)
 - [Will India Create Regulatory Clarity For Bitcoin? - Nasdaq](https://www.nasdaq.com/articles/will-india-create-regulatory-clarity-for-bitcoin)
 - [European Commission Urges Members to Agree on Crypto Regulations - CoinDesk](https://www.coindesk.com/policy/2021/11/11/european-commission-urges-member-states-to-agree-on-crypto-regulations/)
 

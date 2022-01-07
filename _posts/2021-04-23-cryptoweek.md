@@ -39,7 +39,7 @@ banner:
 - [CI Global Asset Management to Launch World's First Ethereum ETF on April 20 with World's Lowest Management Fee of 0.40% - Financial Post](https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ci-global-asset-management-to-launch-worlds-first-ethereum-etf-on-april-20-with-worlds-lowest-management-fee-of-0-40)
 - [Now Trading. Ether ETF. - Evolve ETFs](https://evolveetfs.com/product/ethr/)
 - [Canada Approves Three Ethereum ETFs in One Day - CoinDesk](https://www.coindesk.com/purpose-investments-gets-approval-to-launch-first-ether-etf-in-canada)
-- [Canada’s 4th Ether ETF, From 3iQ and CoinShares, Begins Trading on the TSX - Coindesk](https://www.coindesk.com/canada-4th-ether-etf-3iq-coinshares-begins-trading-tsx)
+- [Canada's 4th Ether ETF, From 3iQ and CoinShares, Begins Trading on the TSX - Coindesk](https://www.coindesk.com/canada-4th-ether-etf-3iq-coinshares-begins-trading-tsx)
 - [21Shares Launching Stellar and Cardano ETPs on SIX Exchange - Coindesk](https://www.coindesk.com/21shares-launching-stellar-and-cardano-etps-on-six-exchange)
 
 ### Exchanges
@@ -57,7 +57,7 @@ banner:
 
 ### Regulation
 
-- [The SEC’s Cryptocurrency Confusion - WSJ](https://www.wsj.com/articles/the-secs-cryptocurrency-confusion-11618611723)
+- [The SEC's Cryptocurrency Confusion - WSJ](https://www.wsj.com/articles/the-secs-cryptocurrency-confusion-11618611723)
 - [U.S. House Passes Bill To Create First Crypto Task Force On Digital Assets - Forbes](https://www.forbes.com/sites/jasonbrett/2021/04/22/us-house-passes-bill-to-create-first-crypto-task-force-on-digital-assets/)
 - [202104 FATF Consultation on VA GDF Response FINAL - GDF](https://www.gdf.io/wp-content/uploads/2021/04/FATF-Consultation-on-VA-GDF-Response-FINAL.pdf)
 
@@ -68,11 +68,11 @@ banner:
 
 ### Ecosystem
 
-- [After a bitcoin crackdown, China now calls it an ‘investment alternative’ in a significant shift in tone - CNBC](https://www.cnbc.com/2021/04/19/china-calls-bitcoin-an-investment-alternative-marking-shift-in-tone.html)
+- [After a bitcoin crackdown, China now calls it an ‘investment alternative' in a significant shift in tone - CNBC](https://www.cnbc.com/2021/04/19/china-calls-bitcoin-an-investment-alternative-marking-shift-in-tone.html)
 - [PBoC Softens Tone Toward Bitcoin, Stablecoins, Calling Them 'Alternative Investment' - CoinDesk](https://www.coindesk.com/peoples-bank-china-deputy-governor-li-bo-bitcoin)
 - [PBoC official says China regards crypto assets as investment alternatives - The block crypto](https://www.theblockcrypto.com/post/102044/pboc-bitcoin-crypto-asset-investment-alternative)
 - [Morgan Stanley Bitcoin Fund Draws $29.4M in 2 Weeks, Filings Show - Coindesk](https://www.coindesk.com/morgan-stanley-bitcoin-fund-draws-29-4m-in-2-weeks-filings-show)
-- [Mike Novogratz’s Galaxy Digital Said to Be in Talks to Buy Crypto Custodian BitGo - Coindesk](https://www.coindesk.com/mike-novogratzs-galaxy-digital-said-to-be-in-talks-to-buy-crypto-custodian-bitgo)
+- [Mike Novogratz's Galaxy Digital Said to Be in Talks to Buy Crypto Custodian BitGo - Coindesk](https://www.coindesk.com/mike-novogratzs-galaxy-digital-said-to-be-in-talks-to-buy-crypto-custodian-bitgo)
 - [Signature Bank Goes Head-to-Head With Silvergate in Bitcoin-Backed Lending - Coindesk](https://www.coindesk.com/signature-bank-goes-head-to-head-with-silvergate-in-bitcoin-backed-lending)
 - [Time Magazine now accepts bitcoin and other cryptocurrencies for subscriptions - The block crypto](https://www.theblockcrypto.com/linked/102166/time-magazine-bitcoin-digital-subscription-payments)
 - [Bitcoin vs Gold: The Great Debate with Michael Saylor and Frank Giustra - YouTube](https://www.youtube.com/watch?v=coHC_9ApBdg)
@@ -80,13 +80,13 @@ banner:
 ### Environmental Sustainability
 
 - [Ark Investment Makes Its Case for a Greener Bitcoin - Cryptobriefing](https://cryptobriefing.com/ark-investment-makes-its-case-greener-bitcoin/)
-- [Square Defends Bitcoin as ‘Green’ - Citi Disagrees - Decrypt](https://decrypt.co/68777/square-ark-defend-bitcoin-as-green-citi-disagrees)
+- [Square Defends Bitcoin as ‘Green' - Citi Disagrees - Decrypt](https://decrypt.co/68777/square-ark-defend-bitcoin-as-green-citi-disagrees)
 - [Bitcoin is Key to an Abundant, Clean Energy Future - BCEI White Paper](https://assets.ctfassets.net/2d5q1td6cyxq/5mRjc9X5LTXFFihIlTt7QK/e7bcba47217b60423a01a357e036105e/BCEI_White_Paper.pdf)
 
 ### Tech
 
 - [Bitcoin Optech Newsletter #145](https://bitcoinops.org/en/newsletters/2021/04/21/)
-- [There Are Now Two Taproot Activation Clients, Here’s Why - Bitcoin Magazine](https://bitcoinmagazine.com/technical/there-are-now-two-taproot-activation-clients-heres-why)
+- [There Are Now Two Taproot Activation Clients, Here's Why - Bitcoin Magazine](https://bitcoinmagazine.com/technical/there-are-now-two-taproot-activation-clients-heres-why)
 - [Investment under a Bitcoin Standard - Bitcoin Tech Talk #236](https://jimmysong.substack.com/p/investment-under-a-bitcoin-standard)
 
 ### DGI Events

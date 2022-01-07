@@ -21,13 +21,13 @@ banner:
 ### Ecosystem - Binance
 
 - [Crypto exchange Binance temporarily suspends payments from EU's SEPA network - Reuters](https://www.reuters.com/technology/crypto-exchange-binance-temporarily-suspends-payments-eus-sepa-network-ft-2021-07-06/)
-- [Binance Temporarily Stops Payments From EU’s Sepa Platform: Report - Coindesk](https://www.coindesk.com/binance-temporarily-stops-payments-from-eus-sepa-platform-report)
-- [Binance ‘temporarily suspends’ payments from EU’s Sepa network - Financial Times](https://www.ft.com/content/bf99e9e3-d104-4a92-81a1-8bd70b884b3f)
-- [Binance crackdown: regulators tussle with ‘wild west’ of crypto - Financial Times](https://www.ft.com/content/a10c297f-c8dd-48b1-9744-09d4ff2e89ca)
+- [Binance Temporarily Stops Payments From EU's Sepa Platform: Report - Coindesk](https://www.coindesk.com/binance-temporarily-stops-payments-from-eus-sepa-platform-report)
+- [Binance ‘temporarily suspends' payments from EU's Sepa network - Financial Times](https://www.ft.com/content/bf99e9e3-d104-4a92-81a1-8bd70b884b3f)
+- [Binance crackdown: regulators tussle with ‘wild west' of crypto - Financial Times](https://www.ft.com/content/a10c297f-c8dd-48b1-9744-09d4ff2e89ca)
 - [Santander to block payments by UK banking customers to Binance - Financial Times](https://ft.com/content/a699c495-0c18-40af-8d2d-73571daa77a1)
 - [Santander UK is the latest bank to block payments to Binance - The Block](https://www.theblockcrypto.com/post/110818/santander-uk-block-payments-binance-crypto)
 - [Barclays stops UK clients from sending funds to Binance - Financial Times](https://www.ft.com/content/abc04cc0-ea53-4ecb-8c1e-49c85014fa3f)
-- [Binance CEO Calls For ‘Clear Regulations’ Amid Growing Pressure - Decrypt](https://decrypt.co/75377/binance-ceo-calls-for-clear-regulation-amid-growing-pressure)
+- [Binance CEO Calls For ‘Clear Regulations' Amid Growing Pressure - Decrypt](https://decrypt.co/75377/binance-ceo-calls-for-clear-regulation-amid-growing-pressure)
 - [A Letter from Our CEO: Reflecting on Progress and the Road Ahead - Binance Blog](https://www.binance.com/en/blog/421499824684902301/A-Letter-from-Our-CEO-Reflecting-on-Progress-and-the-Road-Ahead)
 
 ### Ecosystem - Mining
@@ -38,7 +38,7 @@ banner:
 
 ### Ecosystem - China
 
-- [China’s central bank is ‘quite worried’ about global risks from some digital currencies - CNBC](https://www.cnbc.com/2021/07/08/chinas-central-bank-is-quite-worried-about-some-digital-currencies.html)
+- [China's central bank is ‘quite worried' about global risks from some digital currencies - CNBC](https://www.cnbc.com/2021/07/08/chinas-central-bank-is-quite-worried-about-some-digital-currencies.html)
 - [China cracks down on crypto-related services in ongoing war on bitcoin - CNBC](https://www.cnbc.com/2021/07/06/china-cracks-down-on-crypto-related-services-in-ongoing-war-on-bitcoin.html)
 - [Crackdowns by regulators could pop the crypto bubble and mean bitcoin is unsuitable for professional investors, says UBS - Business Insider](https://markets.businessinsider.com/news/stocks/bitcoin-btc-unsuitable-professional-investors-regulation-china-binance-ubs-2021-7)
 
@@ -82,7 +82,7 @@ banner:
 
 ### Markets
 
-- [Kraken Casts Doubt on Bearish Call Over GBTC ‘Unlocks’ - CoinDesk](https://www.coindesk.com/kraken-casts-more-doubt-on-jpmorgan-call-over-grayscale-bitcoin-trust-unlocks)
+- [Kraken Casts Doubt on Bearish Call Over GBTC ‘Unlocks' - CoinDesk](https://www.coindesk.com/kraken-casts-more-doubt-on-jpmorgan-call-over-grayscale-bitcoin-trust-unlocks)
 - [Bitcoin Bulls Under Pressure After Cryptocurrency Selloff - WSJ](https://www.wsj.com/articles/bitcoin-bulls-under-pressure-after-cryptocurrencys-selloff-11625238740)
 - [In gold-crazy India, millennials are turning to cryptocurrency amid Covid-19 - South China Morning Post](https://www.scmp.com/week-asia/economics/article/3139619/gold-crazy-india-millennials-are-turning-cryptocurrency-amid)
 

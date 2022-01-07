@@ -15,7 +15,7 @@ podcast:
 ---
 ### CBDC
 
-- [Federal Reserve’s Powell Says CBDCs ‘Need to Coexist With Cash’ (coindesk)](https://www.coindesk.com/federal-reserves-powell-cbdc-coexist-cash){:target="_blank"}
+- [Federal Reserve's Powell Says CBDCs ‘Need to Coexist With Cash' (coindesk)](https://www.coindesk.com/federal-reserves-powell-cbdc-coexist-cash){:target="_blank"}
 - [Closing Remarks Chair Jerome H. Powell (federal reserve)](https://www.federalreserve.gov/newsevents/speech/powell20210318a.htm){:target="_blank"}
 - [BOJ must prepare 'thoroughly' on digital currency, says Kuroda (Reuters)](https://www.reuters.com/article/us-japan-economy-boj-cbdc/boj-must-prepare-thoroughly-on-digital-currency-says-kuroda-idUSKBN2B80CS){:target="_blank"}
 - [Bank of Japan to begin central bank digital currency experiments later this year (The Block)](https://www.theblockcrypto.com/linked/98555/bank-of-japan-cbdc-experiments-governor){:target="_blank"}
@@ -29,7 +29,7 @@ podcast:
 ### ETF
 
 - [WisdomTree Files for a Bitcoin ETF (coindesk)](https://www.coindesk.com/wisdomtree-files-for-a-bitcoin-etf){:target="_blank"}
-- [SEC Publishes VanEck’s Bitcoin ETF Application, Kicking Off Decision Clock (coindesk)](https://www.coindesk.com/sec-vaneck-bitcoin-etf-2021){:target="_blank"}
+- [SEC Publishes VanEck's Bitcoin ETF Application, Kicking Off Decision Clock (coindesk)](https://www.coindesk.com/sec-vaneck-bitcoin-etf-2021){:target="_blank"}
 - [Why a U.S. Bitcoin ETF Could Be a Real Thing in 2021 (The Washington Post)](https://www.washingtonpost.com/business/why-a-us-bitcoin-etf-could-be-a-real-thing-in-2021/2021/03/17/fe92797c-873b-11eb-be4a-24b89f616f2c_story.html){:target="_blank"}
 
 ### Morgan Stanley
@@ -42,7 +42,7 @@ podcast:
 ### Exchanges
 
 - [Coinbase valuation soars to $68 billion ahead of highly anticipated crypto listing (Cnbc)](https://www.cnbc.com/2021/03/17/coinbase-valuation-rises-to-68-billion-ahead-of-crypto-listing.html){:target="_blank"}
-- [Kraken CEO Says He’d Only Want to Go Public at a Valuation Above $10B (coindesk)](https://www.coindesk.com/kraken-jesse-powell-bloomberg){:target="_blank"}
+- [Kraken CEO Says He'd Only Want to Go Public at a Valuation Above $10B (coindesk)](https://www.coindesk.com/kraken-jesse-powell-bloomberg){:target="_blank"}
 - [Crypto exchange Kraken could go public next year via a direct listing (The Block)](https://www.theblockcrypto.com/linked/98587/crypto-exchange-kraken-direct-listing-plan-2022){:target="_blank"}
 - [Cryptomania gives Austria its first unicorn: Bitpanda (Financial Times)](https://www.ft.com/content/0f5d5439-c655-4f0f-a484-8aacd0333c96){:target="_blank"}
 - [Crypto Has Another Unicorn as Bitpanda Raises $170M at $1.2B Valuation (coindesk)](https://www.coindesk.com/crypto-has-another-unicorn-as-bitpanda-raises-170m-at-1-2b-valuation){:target="_blank"}
@@ -59,7 +59,7 @@ podcast:
 
 ### NFTs
 
-- [Beeple NFT Sold for Record-Setting $69.3M at Christie’s Auction (coindesk)](https://www.coindesk.com/beeple-nft-christies-auction){:target="_blank"}
+- [Beeple NFT Sold for Record-Setting $69.3M at Christie's Auction (coindesk)](https://www.coindesk.com/beeple-nft-christies-auction){:target="_blank"}
 - [NFT marketplace OpenSea raises $23 million in Series A round led by a16z (The Block)](https://www.theblockcrypto.com/linked/98757/nft-marketplace-opensea-funding-a16z){:target="_blank"}
 - [Lessons From the Nifty Gateway NFT Heist: Not Your Keys, Not Your Art (coindesk)](https://www.coindesk.com/nifty-gateway-nft-hack-lessons){:target="_blank"}
 - [Hackers stole NFTs from Nifty Gateway users (TheVerge)](https://www.theverge.com/2021/3/15/22331818/nifty-gateway-hack-steal-nfts-credit-card){:target="_blank"}

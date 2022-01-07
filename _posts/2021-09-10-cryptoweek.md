@@ -33,15 +33,15 @@ banner:
 - [Bitcoin Is Now Legal Tender In El Salvador - NPR](https://www.npr.org/2021/09/07/1034838909/bitcoin-el-salvador-legal-tender-official-currency-cryptocurrency?t=1631274718278)
 - [Fear and excitement in El Salvador as Bitcoin becomes legal tender - BBC News](https://www.bbc.com/news/technology-58473260)
 - [El Salvador Buys 550 Bitcoins, Officially Adopts the Crypto as Legal Tender - Blockworks](https://blockworks.co/el-salvador-buys-550-bitcoins-officially-adopts-the-crypto-as-legal-tender/)
-- [El Salvador has just bought it’s first 200 coins - Nayib Bukele on Twitter](https://twitter.com/nayibbukele/status/1434968475928248331?t=KY4ohwFtE6F249aBcnFoIw)
+- [El Salvador has just bought it's first 200 coins - Nayib Bukele on Twitter](https://twitter.com/nayibbukele/status/1434968475928248331?t=KY4ohwFtE6F249aBcnFoIw)
 - [Salvador Now Owns 550 Bitcoin, President Nayib Bukele Bought The Dip - Bitcoin Magazine](https://bitcoinmagazine.com/business/president-bukele-bought-bitcoin-dip-el-salvador)
 - [Buying the dip - Nayib Bukele on Twitter](https://twitter.com/nayibbukele/status/1435260422110732300)
-- [El Salvador’s bitcoin debut stumbles over tech problems - Financial Times](https://www.ft.com/content/56f1f053-3ac1-424a-97d6-6bbf9a12fa1d)
+- [El Salvador's bitcoin debut stumbles over tech problems - Financial Times](https://www.ft.com/content/56f1f053-3ac1-424a-97d6-6bbf9a12fa1d)
 - ["Por unos momentos no funcionará @chivowallet" - Nayib Bukele on Twitter](https://twitter.com/nayibbukele/status/1435197879795212291)
 - [Chivo Wallet](https://chivowallet.com/)
 - [Bitso to assist the launch of El Salvador's official Bitcoin wallet Chivo - Cointelegraph](https://cointelegraph.com/news/bitso-to-assist-the-launch-of-el-salvador-s-official-bitcoin-wallet-chivo)
 - [El Salvador's Bitcoin Wallet Could Disrupt Traditional Remittance Market - Blockworks](https://blockworks.co/el-salvador-bitcoin-wallet-could-disrupt-traditional-remittance-markets/)
-- [El Salvador’s dangerous gamble on bitcoin - Financial Times](https://www.ft.com/content/c257a925-c864-4495-9149-d8956d786310)
+- [El Salvador's dangerous gamble on bitcoin - Financial Times](https://www.ft.com/content/c257a925-c864-4495-9149-d8956d786310)
 - [Panama Introducing Legislation to Make Bitcoin Legal Tender - Yahoo](https://finance.yahoo.com/news/panama-introducing-legislation-bitcoin-legal-054123035.html)
 - [panamanian-congressman-presents-bill-to-regulate-crypto- CoinDesk](https://www.coindesk.com/policy/2021/09/07/panamanian-congressman-presents-bill-to-regulate-crypto/)
 - [Uruguayan Lawmaker Proposes Bill to Allow Crypto to be Used for Payments](https://www.coindesk.com/markets/2021/08/04/uruguayan-lawmaker-proposes-bill-to-allow-crypto-to-be-used-for-payments/)
@@ -56,7 +56,7 @@ banner:
 - [Coinbase Says SEC Is Investigating Its Crypto Lending Program - WSJ](https://www.wsj.com/articles/coinbase-says-sec-plans-enforcement-action-over-crypto-lending-program-11631110478)
 - [The SEC Will Sue Coinbase if it Launches Lend - Blockworks](https://blockworks.co/the-sec-will-sue-coinbase-if-it-launches-lend/)
 - [Some really sketchy behavior coming out of the SEC recently - Brian Armstrong on Twitter](https://twitter.com/brian_armstrong/status/1435439291715358721)
-- [The SEC has told us it wants to sue us over Lend. We don’t know why. - Coinbase](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
+- [The SEC has told us it wants to sue us over Lend. We don't know why. - Coinbase](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 - [Why the SEC cracking down on Coinbase could level the crypto playing field - Yahoo](https://finance.yahoo.com/news/why-the-sec-cracking-down-on-coinbase-could-level-the-crypto-playing-field-105128348.html)
 
 ### Regulation - Decentralized Finance (DeFi)
@@ -88,7 +88,7 @@ banner:
 
 ### Ecosystem - NFT
 
-- [Sotheby’s Kicks Off Bored Ape NFTs Auction, Bids Soar to $4.5 Million - Decrypt](https://decrypt.co/80070/sothebys-bored-ape-yacht-club-nft-auction-bids-million)
+- [Sotheby's Kicks Off Bored Ape NFTs Auction, Bids Soar to $4.5 Million - Decrypt](https://decrypt.co/80070/sothebys-bored-ape-yacht-club-nft-auction-bids-million)
 - [FTX.US Launches NFT Minting Platform - Coindesk](https://www.coindesk.com/business/2021/09/06/ftxus-launches-nft-minting-platform/)
 - [FTX Token Hits All-Time High Amid Crypto Exchange's NFT Launch - Decrypt](https://decrypt.co/80357/ftx-token-hits-all-time-high-crypto-exchanges-nft-launch)
 - [LaLiga Partners with Sorare for NFT Fantasy Soccer Card Game - Decrypt](https://decrypt.co/80558/laliga-partners-with-sorare-nft-fantasy-soccer-card-game)
@@ -105,7 +105,7 @@ banner:
 
 ### Opinion - Nassim Taleb
 
-- [A rebuttal to Taleb’s Bitcoin black paper - Harold Christopher Burger](https://medium.com/quantodian-publications/a-rebuttal-to-talebs-bitcoin-black-paper-ea308ab78eb7)
+- [A rebuttal to Taleb's Bitcoin black paper - Harold Christopher Burger](https://medium.com/quantodian-publications/a-rebuttal-to-talebs-bitcoin-black-paper-ea308ab78eb7)
 - [Bitcoin, Currencies, and Fragility - Nassim Nicholas Taleb](https://www.fooledbyrandomness.com/BTC-QF.pdf)
 - [Bitcoin, Currencies, and Fragility: Supplementary Discussions - Nassim Nicholas Taleb](https://www.fooledbyrandomness.com/BTC-QF-appendix.pdf)
 

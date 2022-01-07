@@ -19,7 +19,7 @@ banner:
 
 ### Market
 
-- [Behind Bitcoin’s Recent Slide: Imploding Bets and Forced Liquidations - WSJ](https://www.wsj.com/articles/behind-bitcoins-weekend-slide-imploding-bets-and-forced-liquidations-11619170201?mod=e2tw)
+- [Behind Bitcoin's Recent Slide: Imploding Bets and Forced Liquidations - WSJ](https://www.wsj.com/articles/behind-bitcoins-weekend-slide-imploding-bets-and-forced-liquidations-11619170201?mod=e2tw)
 - [Ethereum jumps to record high on report of EIB digital bond issuance - Reuters](https://www.reuters.com/technology/digital-currency-ether-hits-record-high-2021-04-27/)
 - [Ethereum (ETH) price hits record high, stealing bitcoin's limelight - Cnbc](https://www.cnbc.com/2021/04/29/bitcoin-btc-ethereum-eth-cryptocurrency-price-hits-record-high.html)
 - [Nexon Purchases $100 Million Worth of Bitcoin - Twitter](https://twitter.com/DocumentingBTC/status/1387385096819326979/photo/1)
@@ -45,7 +45,7 @@ banner:
 
 ### Exchanges
 
-- [BaFin cracks down on crypto exchange Binance’s ‘stock tokens’ - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
+- [BaFin cracks down on crypto exchange Binance's ‘stock tokens' - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
 - [Coinbase Acquires Analytics Firm Skew, Doubles Down on Institutions - Cryptobriefing](https://cryptobriefing.com/coinbase-acquires-analytics-firm-skew-doubles-down-institutions/)
 - [Coinbase to acquire leading institutional data analytics platform, skew - The Coinbase Blog](https://blog.coinbase.com/coinbase-to-acquire-leading-institutional-data-analytics-platform-skew-929e3882ef42)
 - [A new way to buy crypto on Coinbase using PayPal - The Coinbase Blog](https://blog.coinbase.com/a-new-way-to-buy-crypto-on-coinbase-using-paypal-e9162f735dcb)
@@ -62,16 +62,16 @@ banner:
 - [Government and industry push bitcoin regulation to fight ransomware - Cnbc](https://www.cnbc.com/2021/04/28/government-and-industry-push-bitcoin-regulation-to-fight-ransomware.html)
 - [Turkey's Central Bank Head Says Crypto Rules Coming, Denies Total Ban Ahead - CoinDesk](https://www.coindesk.com/turkeys-central-bank-head-says-crypto-regs-coming-denies-total-ban-ahead)
 - [Proposed Legislation in Germany Could Allow $425B to Flow Into Crypto: Report - Coindesk](https://www.coindesk.com/proposed-legislation-in-germany-could-allow-425b-to-flow-into-crypto-report)
-- [Consob e Banca d’Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Banca d'Italia](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
+- [Consob e Banca d'Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Banca d'Italia](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
 
 ### Ecosystem
 
 - [Tesla Sold Bitcoin in Q1 for Proceeds of $272M - Nasdaq](https://www.nasdaq.com/articles/tesla-sold-bitcoin-in-q1-for-proceeds-of-%24272m-2021-04-26)
-- [Elon Musk’s Tesla Sold Bitcoin in Q1, Earnings Report Reveals - Decrypt](https://decrypt.co/69170/elon-musks-tesla-sold-bitcoin-q1-earnings-report-reveals)
+- [Elon Musk's Tesla Sold Bitcoin in Q1, Earnings Report Reveals - Decrypt](https://decrypt.co/69170/elon-musks-tesla-sold-bitcoin-q1-earnings-report-reveals)
 - [Fidelity Jumps Into Crypto Analytics With New Product - Cryptobriefing](https://cryptobriefing.com/fidelity-jumps-crypto-analytics-new-product/)
 - [Fidelity Investments Introduces New Digital Assets Analytics Solution for Institutional Investors - Business Wire](https://www.businesswire.com/news/home/20210429005136/en/Fidelity-Investments%C2%AE-Introduces-New-Digital-Assets-Analytics-Solution-for-Institutional-Investors)
 - [Fidelity announces digital asset analytics tool for institutional investors - the Block Crypto](https://www.theblockcrypto.com/linked/103308/fidelity-digital-asset-analytics-tool-institutional-investors)
-- [Bitcoin is making all Revolut’s dreams come true - Financial Times](https://www.ft.com/content/fce3785d-ad70-436f-b42e-c478f98941eb)
+- [Bitcoin is making all Revolut's dreams come true - Financial Times](https://www.ft.com/content/fce3785d-ad70-436f-b42e-c478f98941eb)
 - [Charles Schwab needs regulatory clarity before offering crypto trading service, says CEO - The Block](https://www.theblockcrypto.com/linked/102732/charles-schwab-crypto-regulatory-clarity-ceo-comments)
 - [Schwab says needs regulatory clarity on crypto before any offerings - Reuters](https://www.reuters.com/business/schwab-says-needs-regulatory-clarity-crypto-before-any-offerings-2021-04-22/)
 - [Robinhood names new COO to oversee its crypto operations - The Block](https://www.theblockcrypto.com/linked/102641/robinhood-names-new-coo-to-oversee-its-crypto-operations)
@@ -104,12 +104,12 @@ banner:
 
 ### Opinions
 
-- [Why bitcoin? Here’s why. - The Washington Post](https://www.washingtonpost.com/opinions/letters-to-the-editor/why-bitcoin-heres-why/2021/04/25/a5c2de22-a207-11eb-b314-2e993bd83e31_story.html)
-- [Demystifying Bitcoin’s Remarkably Accurate Price Prediction Model, Stock-To-Flow - Forbes](https://www.forbes.com/sites/stevenehrlich/2021/04/29/demystifying-bitcoins-remarkably-accurate-price-prediction-model-stock-to-flow/)
+- [Why bitcoin? Here's why. - The Washington Post](https://www.washingtonpost.com/opinions/letters-to-the-editor/why-bitcoin-heres-why/2021/04/25/a5c2de22-a207-11eb-b314-2e993bd83e31_story.html)
+- [Demystifying Bitcoin's Remarkably Accurate Price Prediction Model, Stock-To-Flow - Forbes](https://www.forbes.com/sites/stevenehrlich/2021/04/29/demystifying-bitcoins-remarkably-accurate-price-prediction-model-stock-to-flow/)
 - [The Blocksize War – Chapter 6 – Lightning Network - BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-6-lightning-network/)
 - [Bitcoin boom fuels fight over money creation - Financial Times](https://www.ft.com/content/79105bbf-212d-4da8-9e9a-03c0aee142c4)
 - [Learning Better Investment Habits. Bitcoin Tech Talk #237 - Bitcoin Tech Talk](https://jimmysong.substack.com/p/learning-better-investment-habits)
-- [La corsa all’oro digitale del Bitcoin riguarda anche la nostra libertà - Il Foglio](https://www.linkedin.com/posts/ferdinandoametrano_bitcoin-activity-6793134385819381761-9fKf)
+- [La corsa all'oro digitale del Bitcoin riguarda anche la nostra libertà - Il Foglio](https://www.linkedin.com/posts/ferdinandoametrano_bitcoin-activity-6793134385819381761-9fKf)
 
 ### DGI Events
 

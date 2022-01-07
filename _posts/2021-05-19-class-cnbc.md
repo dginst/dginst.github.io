@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
  
-Periodo nero per Bitcoin che sprofonda sotto quota 40.000 dollari per la prima volta da tre mesi. Alle ultime esternazioni di Elon Musk si è aggiunta l’ennesima stoccata della presidente della BCE, Christine Lagarde, la quale, in occasione del Generation Euro Students' Awards 2021, ha definito Bitcoin ed Ethereum “criptoasset e non criptovalute”.
+Periodo nero per Bitcoin che sprofonda sotto quota 40.000 dollari per la prima volta da tre mesi. Alle ultime esternazioni di Elon Musk si è aggiunta l'ennesima stoccata della presidente della BCE, Christine Lagarde, la quale, in occasione del Generation Euro Students' Awards 2021, ha definito Bitcoin ed Ethereum “criptoasset e non criptovalute”.
 
 Per Lagarde, tali strumenti sono speculativii, volatili, non stabili e, come hanno detto molti dei miei colleghi, chi investe in questi asset deve essere pronto a perdere tutto”. “Di sicuro” ha sottolineato la n.1 della Banca centrale europea “non ho Bitcoin nel mio portafoglio.”
 

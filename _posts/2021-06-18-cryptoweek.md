@@ -47,7 +47,7 @@ banner:
 ### Markets - Tether
 
 - [Tether ($USDT): An Accident Waiting To Happen - by Pantera - Coinmonks - Medium](https://medium.com/coinmonks/tether-usdt-an-accident-waiting-to-happen-c4f4f8030f32)
-- [Tether is setting a New Standard for Transparency, that is Untethered from facts - by Bitfinex’ed - Medium](https://bitfinexed.medium.com/tether-is-setting-a-new-standard-for-transparency-that-is-untethered-from-facts-deec42c473bb)
+- [Tether is setting a New Standard for Transparency, that is Untethered from facts - by Bitfinex'ed - Medium](https://bitfinexed.medium.com/tether-is-setting-a-new-standard-for-transparency-that-is-untethered-from-facts-deec42c473bb)
 - [The Tether Scandal: The Biggest Threat To The Crypto-Ecosystem - Medium](https://cryptowhale.medium.com/the-tether-scandal-the-biggest-threat-to-the-crypto-ecosystem-23a169003205)
 
 ### Ecosystem - Ransomware and Colonial Pipeline
@@ -76,7 +76,7 @@ banner:
 
 - [Bitcoin miners exit China, beat a path to the U.S. as crypto climate shifts - The Washington Post](https://www.washingtonpost.com/world/asia_pacific/bitcoin-mining-china-crypto-america/2021/06/17/0a39c3a8-c903-11eb-8708-64991f2acf28_story.html)
 - [Sichuan Orders Shutdown on 26 Bitcoin Mining Farms - Crypto Briefing](https://cryptobriefing.com/sichuan-orders-shutdown-on-26-bitcoin-mining-farms/)
-- [City in China’s Sichuan Province Orders Crypto Miners to Shut Down for Inspection: Reports - Coindesk](https://www.coindesk.com/sichuan-province-city-orders-crypto-miners-to-shut-down-for-inspection-reports)
+- [City in China's Sichuan Province Orders Crypto Miners to Shut Down for Inspection: Reports - Coindesk](https://www.coindesk.com/sichuan-province-city-orders-crypto-miners-to-shut-down-for-inspection-reports)
 - [China's bitcoin miner exodus - CNBC](https://www.cnbc.com/2021/06/15/chinas-bitcoin-miner-exodus-.html)
 - [Some bitcoin miners in Xinjiang have been ordered to shut down - The Block](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
 - [Hash rate chart](https://www.blockchain.com/charts/hash-rate)
@@ -88,7 +88,7 @@ banner:
 - [World Bank Denies El Salvador's Request for Technical Assistance on Bitcoin - CoinDesk](https://www.coindesk.com/world-bank-denies-request-el-salvador-bitcoin)
 - [World Bank declines to help El Salvador adopt bitcoin, citing environmental and transparency concerns -  The Washington Post](https://www.washingtonpost.com/world/2021/06/17/world-bank-bitcoin-el-salvador/)
 - [World Bank Denies El Salvador Help With Bitcoin Plans - Crypto Briefing](https://cryptobriefing.com/world-bank-denies-el-salvador-help-with-bitcoin-plans/)
-- [World Bank rejects El Salvador’s request for help implementing bitcoin as legal tender - The Washington Post](https://www.washingtonpost.com/world/2021/06/17/world-bank-bitcoin-el-salvador)
+- [World Bank rejects El Salvador's request for help implementing bitcoin as legal tender - The Washington Post](https://www.washingtonpost.com/world/2021/06/17/world-bank-bitcoin-el-salvador)
 - [Paraguay Official Plans to Legislate Bitcoin Next Month - Crypto Briefing](https://cryptobriefing.com/paraguay-official-plans-to-legislate-bitcoin-next-month/)
 - [Panama to Present Crypto-Related Bill in July - CoinDesk](https://www.coindesk.com/panama-to-present-crypto-related-bill-in-july)
 
@@ -97,10 +97,10 @@ banner:
 - [Goldman Offers New Bitcoin Derivatives to Wall Street Investors - Bloomber Glaw](https://news.bloomberglaw.com/securities-law/goldman-offers-new-bitcoin-derivatives-to-wall-street-investors)
 - [Goldman Sachs Reportedly Exploring Ether Options - Blockworks](https://blockworks.co/goldman-sachs-reportedly-exploring-ether-options/)
 - [Bitcoin Is a Fail for Retail Investors, Goldman Sachs Team Warns - Barron's](https://www.barrons.com/articles/bitcoin-is-a-fail-for-retail-investors-goldman-sachs-team-warns-51623781467)
-- [Bitcoin: Goldman Sachs ramps up trading in partnership with Mike Novogratz’ Galaxy Digital - CNBC](https://www.cnbc.com/2021/06/18/bitcoin-goldman-sachs-ramps-up-trading-in-partnership-with-mike-novogratz-galaxy-digital.html)
+- [Bitcoin: Goldman Sachs ramps up trading in partnership with Mike Novogratz' Galaxy Digital - CNBC](https://www.cnbc.com/2021/06/18/bitcoin-goldman-sachs-ramps-up-trading-in-partnership-with-mike-novogratz-galaxy-digital.html)
 - [BBVA launches its first commercial solution for the trading and custody of bitcoin in Switzerland - BBVA](https://www.bbva.com/en/bbva-launches-its-first-commercial-solution-for-the-trading-and-custody-of-bitcoin-in-switzerland/)
 - [Spain's BBVA opens Bitcoin trading service to clients in Switzerland - Reuters](https://www.reuters.com/business/spains-bbva-opens-bitcoin-trading-service-clients-switzerland-2021-06-18/)
-- [Spain’s BBVA Opening Bitcoin Trading Service to Private Banking Clients in Switzerland - Coindesk](https://www.coindesk.com/spains-bbva-opening-bitcoin-trading-service-to-private-banking-clients-in-switzerland)
+- [Spain's BBVA Opening Bitcoin Trading Service to Private Banking Clients in Switzerland - Coindesk](https://www.coindesk.com/spains-bbva-opening-bitcoin-trading-service-to-private-banking-clients-in-switzerland)
 - [Ethereum is outperforming bitcoin. Morgan Stanley thinks it knows why - CNBC](https://www.cnbc.com/2021/06/17/ethereum-is-outperforming-bitcoin-morgan-stanley-thinks-it-knows-why.html)
 - [NYDIG, FS Investments file for new Morgan Stanley-focused bitcoin fund - The Block](https://www.theblockcrypto.com/linked/108514/nydig-fs-investments-file-for-new-morgan-stanley-focused-bitcoin-fund)
 - [Morgan Stanley Set to Expand Bitcoin Fund Options - Decrypt](https://decrypt.co/73733/morgan-stanley-set-expand-bitcoin-fund-options)
@@ -118,7 +118,7 @@ banner:
 ### Regulation - CBDC
 
 - [Bank of England exec: CBDCs would be the safest type of money available - The Block](https://www.theblockcrypto.com/linked/108748/cbdcs-would-be-the-safest-type-of-money-available-says-bank-of-england-exec)
-- [Central Bank Digital Currency: An update on the Bank of England’s work - Bank of England](https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference)
+- [Central Bank Digital Currency: An update on the Bank of England's work - Bank of England](https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference)
 - [BIS Launches Innovation Hub With Nordic Central Banks Focusing on CBDCs - CoinDesk](https://www.coindesk.com/bis-launches-innovation-hub-with-nordic-central-banks-focusing-on-cbdcs)
 - [Chinese Commercial Bank Enables Digital Yuan-Cash Conversion at Over 3,000 ATMs - Coindesk](coindesk.com/china-industrial-commerce-bank-digital-yuan-cash-convert)
 - [The Risks Of Central Bank Digital Currencies - Diplomatic Courier](https://www.diplomaticourier.com/posts/the-risks-of-central-bank-digital-currencies)
