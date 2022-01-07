@@ -32,10 +32,9 @@ banner:
 ### Mining
 
 - [Kazakhstan internet shutdown deals blow to global bitcoin mining operation - The Guardian](https://www.theguardian.com/world/2022/jan/06/kazakhstan-bitcoin-internet-shutdown)
-- [Kazakhstan unrest: Dozens killed in crackdown - BBC News](https://www.bbc.com/news/world-asia-59880166)
 - [Bitcoin mining pool hashrates fall amid Kazakhstan internet shutdown](https://www.theblockcrypto.com/post/129312/bitcoin-mining-pool-hashrates-fall-amid-kazakhstan-internet-shutdown)
 - [Kosovo bans cryptocurrency mining to save electricity - Reuters](https://www.reuters.com/markets/commodities/kosovo-bans-cryptocurrency-mining-save-electricity-2022-01-04)
-- [Congress is preparing an oversight hearing on Bitcoin mining's environmental impact: sources](https://www.theblockcrypto.com/linked/129336/congress-is-preparing-an-oversight-hearing-on-bitcoin-minings-environmental-impact-sources)
+- [Congress is preparing an oversight hearing on Bitcoin mining's environmental impact - theblockcrypto](https://www.theblockcrypto.com/linked/129336/congress-is-preparing-an-oversight-hearing-on-bitcoin-minings-environmental-impact-sources)
 
 ### Ecosystem - TradFi
 
@@ -75,7 +74,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Efficient reusable Taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a) 
+- [Efficient reusable Taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
 
 ### Opinions
 
@@ -83,6 +82,6 @@ banner:
 
 ### Digital Gold Institute
 
-- [2022Q4 Report - DGI](https://dgi.io/reports/)
 - [News from DGI](https://dgi.io/news/)
+- [2022Q4 Report - DGI](https://dgi.io/reports/)
 - [DGI Events](https://dgi.io/events/)
