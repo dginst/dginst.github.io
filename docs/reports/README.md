@@ -4,7 +4,7 @@ comments: false
 lang: it
 title: "I report trimestrali del Digital Gold Institute"
 subtitle: "Ecosistema Bitcoin, crypto-asset e blockchain"
-youtube: 1qQBQfy5UaY
+youtube: b_ki1islAC0
 permalink: /reports/
 ---
 
@@ -15,6 +15,7 @@ permalink: /reports/
 
 I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre. Questi i report finora prodotti:
 
+- **2021Q4**: in arrivo
 - **2021Q3**:
   report ([pagina doppia]({{ site.baseurl }}/docs/reports/2021Q3-doppiapagina.pdf)) e
   sua presentazione a cura di Ferdinando M. Ametrano ([video](https://youtu.be/1qQBQfy5UaY)
