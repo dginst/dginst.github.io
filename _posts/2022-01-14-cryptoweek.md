@@ -19,7 +19,7 @@ banner:
 
 ### Ecosystem - Reports
 
-[2021 Goin Mainstream- Kraken](https://kraken.docsend.com/view/qfg7sxsdfgfp2kg5)
+[2021 Goin Mainstream - Kraken](https://kraken.docsend.com/view/qfg7sxsdfgfp2kg5)
 
 ### Ecosystem - Crypto-investments
 
@@ -48,7 +48,6 @@ banner:
 
 [As Kazakhstan Descends Into Chaos, Crypto Miners Are at a Loss - WIRED](https://www.wired.com/story/kazakhstan-cryptocurrency-mining-unrest-energy/)
 [Costa Rica hydro plant gets new lease on life from crypto mining - Reuters](https://www.reuters.com/technology/costa-rica-hydro-plant-gets-new-lease-life-crypto-mining-2022-01-11/)
-[Costa Rica hydro plant gets new lease on life from crypto mining - Reuters](https://www.reuters.com/technology/costa-rica-hydro-plant-gets-new-lease-life-crypto-mining-2022-01-11)
 [US Committee Announces Hearing on Cryptocurrency Energy Consumption - Decrypt](https://decrypt.co/90362/us-committee-announces-hearing-cryptocurrency-energy-consumption)
 [Thomas Templeton - Twitter](https://twitter.com/TempletonThomas/status/1481728131668987904)
 
@@ -81,5 +80,6 @@ banner:
 ### Digital Gold Institute
 
 - [2022Q4 Report - DGI](https://dgi.io/reports/)
+- [Criptovalute, che anno sarà dopo i traguardi del 2021 - Agenda Digitale](https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/criptovalute-che-anno-sara-dopo-i-traguardi-del-2021/)
 - [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
