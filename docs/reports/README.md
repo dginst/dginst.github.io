@@ -3,7 +3,7 @@ layout: post
 comments: false
 lang: it
 title: "I report trimestrali del Digital Gold Institute"
-subtitle: "L'aggiornamento su Bitcoin, crypto-asset e blockchain"
+subtitle: "L'aggiornamento sul mondo Bitcoin, crypto-asset e blockchain"
 youtube: b_ki1islAC0
 permalink: /reports/
 ---
@@ -14,8 +14,7 @@ permalink: /reports/
 </a>
 
 Il report trimestrale del Digital Gold Institute
-è un aggiornamento sintetico ma puntuale su Bitcoin, crypto-asset e blockchain:
-mercato, ecosistema, tecnologia, regolazione, ecc.
+copre gli eventi del trimestre: mercato, ecosistema, tecnologia, regolazione, ecc.
 È rivolto a imprenditori, top manager, giornalisti, politici, regolatori, professionisti, accademici, influencer e decision-maker.
 
 Presentato da Ferdinando Ametrano, questi i report finora prodotti:
