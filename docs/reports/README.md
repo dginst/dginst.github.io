@@ -13,7 +13,7 @@ permalink: /reports/
     <img src="{{ site.baseurl }}/img/events/ISP_ON_AIR_LEADERBOARD_728X90.jpg" width="100%">
 </a>
 
-Il report trimestrale del Digital Gold Institute
+Il report del Digital Gold Institute
 copre gli eventi del trimestre: mercato, ecosistema, tecnologia, regolazione, ecc.
 È rivolto a imprenditori, top manager, giornalisti, politici, regolatori, professionisti, accademici, influencer e decision-maker.
 
