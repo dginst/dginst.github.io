@@ -13,11 +13,11 @@ permalink: /reports/
     <img src="{{ site.baseurl }}/img/events/ISP_ON_AIR_LEADERBOARD_728X90.jpg" width="100%">
 </a>
 
-Il report del Digital Gold Institute
+Il report del Digital Gold Institute, presentato da Ferdinando Ametrano,
 copre gli eventi del trimestre: mercato, ecosistema, tecnologia, regolazione, ecc.
 È rivolto a imprenditori, top manager, giornalisti, politici, regolatori, professionisti, accademici, influencer e decision-maker.
 
-Presentato da Ferdinando Ametrano, questi i report finora prodotti:
+Questi i report finora prodotti:
 
 - **2021Q4**: mercoledì 19 gennaio alle 17:30 su [YouTube](https://youtu.be/1qQBQfy5UaY).
 
