@@ -3,7 +3,7 @@ layout: post
 comments: false
 lang: it
 title: "I report trimestrali del Digital Gold Institute"
-subtitle: "Ecosistema Bitcoin, crypto-asset e blockchain"
+subtitle: "L'aggiornamento su Bitcoin, crypto-asset e blockchain"
 youtube: b_ki1islAC0
 permalink: /reports/
 ---
@@ -13,14 +13,23 @@ permalink: /reports/
     <img src="{{ site.baseurl }}/img/events/ISP_ON_AIR_LEADERBOARD_728X90.jpg" width="100%">
 </a>
 
-I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale le notizie principali del trimestre. Questi i report finora prodotti:
+Il report trimestrale del Digital Gold Institute
+è un aggiornamento sintetico ma puntuale su Bitcoin, crypto-asset e blockchain:
+mercato, ecosistema, tecnologia, regolazione, ecc.
+È rivolto a imprenditori, top manager, giornalisti, politici, regolatori, professionisti, accademici, influencer e decision-maker.
 
-- **2021Q4**: in arrivo
+Presentato da Ferdinando Ametrano, questi i report finora prodotti:
+
+- **2021Q4**: mercoledì 19 gennaio alle 17:30 su [YouTube](https://youtu.be/1qQBQfy5UaY).
+
+  Ospite: Maria Sterpeta Balzano (Director, Deloitte Risk Advisory)
+  su "Rischi ed opportunità delle tecnologie emergenti e delle cripto – Le due facce della medaglia".
 - **2021Q3**:
   report ([pagina doppia]({{ site.baseurl }}/docs/reports/2021Q3-doppiapagina.pdf)) e
-  sua presentazione a cura di Ferdinando M. Ametrano ([video](https://youtu.be/1qQBQfy5UaY)
+  sua presentazione ([video](https://youtu.be/1qQBQfy5UaY)
   e [slide]({{site.baseurl}}/docs/reports/2021Q3-presentation.pdf)).
-  Presentazione della terza conferenza del Crypto Asset Lab a cura di Paola Agnese Bongini ([slide]({{site.baseurl}}/docs/reports/2021Q3-CAL-PB.pdf)) e Marco Petracco ([slide]({{site.baseurl}}/docs/reports/2021Q3-JRC-MB.pdf)).
+
+  Ospiti: Paola Bongini e Marco Petracco presentano la terza conferenza del Crypto Asset Lab ([slide Bongini]({{site.baseurl}}/docs/reports/2021Q3-CAL-PB.pdf), [slide Petracco]({{site.baseurl}}/docs/reports/2021Q3-JRC-MB.pdf)).
 - **2021Q2**:
   report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q2_compressed.pdf) o
   [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q2-doppiapagina_compressed.pdf)) e
@@ -28,6 +37,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   ([video](https://www.youtube.com/watch?v=RP3Pd0aKous&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=6)
   e
   [slide]({{site.baseurl}}/docs/reports/2021Q2-presentation.pdf)).
+  
   Ospite: Andrea Cattaneo
   su "I digital-asset nel mondo finanziario europeo".
 - **2021Q1**:
@@ -37,6 +47,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   ([video](https://www.youtube.com/watch?v=pgAlv1ufZdk&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=5)
   e
   [slide]({{site.baseurl}}/docs/reports/2021Q1-presentation.pdf)).
+  
   Ospite: Filippo Annunziata
   su [MiCAR]({{site.baseurl}}/docs/reports/2021Q1-proposal-for-regulation-on-markets-in-crypto-assets.pdf).
 - **2020Q4**:
@@ -44,6 +55,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   ([video](https://www.youtube.com/watch?v=FWTKGh96BHQ&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=4)
   e
   [slide]({{site.baseurl}}/docs/reports/2020Q4-presentation.pdf)).
+  
   Ospite: Andrea Medri
   su "Il mercato ieri e oggi: 2017 e 2020 a confronto".
 - **2020Q3**:
@@ -51,6 +63,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   ([video](https://www.youtube.com/watch?v=pyqumvWKBnE&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=3)
   e
   [slide]({{site.baseurl}}/docs/reports/2020Q3-presentation.pdf)).
+  
   Ospite: Daniele Bernardi
   su [Stock to flow]({{site.baseurl}}/docs/reports/2020Q3-stock-to-flow.pdf).
 - **2020Q2**:
@@ -58,6 +71,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   ([video](https://www.youtube.com/watch?v=m1hoHLewIWo&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=2)
   e
   [slide]({{site.baseurl}}/docs/reports/2020Q2-presentation.pdf)).
+  
   Ospite: Guido Brera
   su "L'insostenibile leggerezza del Quantitative Easing".
 - **2020Q1**:
@@ -68,6 +82,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   [slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf)
   e
   [news]({{ site.baseurl }}/2020/04/20/report-q1-presentation)).
+  
   Ospite: Francesco Avella
   su "Bitcoin nella dichiarazione dei redditi".
 - **2019Q4**:
@@ -75,6 +90,7 @@ I temi coperti sono: mercato, sviluppi tecnologici, regolazione ed in generale l
   [evidenze]({{site.baseurl}}/docs/reports/2019Q4-presentation.pdf)
   e
   [news]({{ site.baseurl }}/2020/01/31/report-q4).
+  
   Ospite: Raffaele Mauro su
   [Quantum Computing]({{site.baseurl}}/docs/reports/2019Q4-quantumcumputing.pdf).
 - **2019Q3**: [report]({{ site.baseurl }}/docs/reports/2019Q3.pdf) e [news]({{ site.baseurl }}/2019/10/31/report-q3.html)
