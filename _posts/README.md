@@ -36,10 +36,10 @@ permalink: /cryptoweekinternal/
   * selezionare la funzione "Embed this ONE episode dell'episodio podcast appena creato; quindi copiare il numero id ed il link del campo src
   * Inserire i dati copiati rispettivamente nei campi podcast.id e podcast.src del file .md della cryptoweek appena conclusasi.
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (DGI, CS, Ferdinando), YouTube (DGI, Ferdinando), LinkedIn (CS), Twitter (CS e Ferdinando)
-  * titolo: CryptoWeek #50 (21 gennaio 2022)
+  * titolo: CryptoWeek #51 (28 gennaio 2022)
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
   * foto: thumb con specific date da recuperare nella cartella "post" del repository
-  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2022/01/14/cryptoweek
+  * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2022/01/28/cryptoweek
 * LinkedIn: aggiungere speaker e descrizione all'evento dedicato
 * Facebook: aggiungere il nuovo live alla playlist "CryptoWeek" in Creator Studio:
   * https://business.facebook.com/creatorstudio
