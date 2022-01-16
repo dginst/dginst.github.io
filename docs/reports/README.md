@@ -13,10 +13,11 @@ permalink: /reports/
     <img src="{{ site.baseurl }}/img/events/ISP_ON_AIR_LEADERBOARD_728X90.jpg" width="100%">
 </a>
 
-Il report del Digital Gold Institute, presentato da Ferdinando Ametrano,
-copre gli eventi del trimestre: mercato, ecosistema, tecnologia, regolazione, ecc.
+Il report trimestrale del Digital Gold Institute, presentato da Ferdinando Ametrano,
+copre gli eventi del mondo Bitcoin, _crypto-asset_ e blockchain:
+mercato, ecosistema, tecnologia, regolazione, ecc.
 
-È rivolto a imprenditori, top manager, giornalisti, politici, regolatori, professionisti, accademici, influencer e decision-maker.
+È rivolto a imprenditori, top manager, giornalisti, politici, regolatori, professionisti, accademici, _influencer_ e _decision-maker_.
 
 Questi i report finora prodotti:
 
