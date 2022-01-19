@@ -21,9 +21,10 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
-- **2021Q4**: mercoledì 19 gennaio alle 17:30 su [YouTube](https://youtu.be/1qQBQfy5UaY).  
+- **2021Q4**: presentazione ([video](https://youtu.be/1qQBQfy5UaY)
+  e [slide]({{site.baseurl}}/docs/reports/2021Q4-presentation.pdf)).  
   Ospite: Maria Sterpeta Balzano (Director, Deloitte Risk Advisory)
-  su "Rischi ed opportunità delle tecnologie emergenti e delle cripto – Le due facce della medaglia".
+  su "[Rischi ed opportunità delle tecnologie emergenti e delle cripto – Le due facce della medaglia]({{site.baseurl}}/docs/reports/2021Q4-deloitte.pdf)".
 - **2021Q3**:
   report ([pagina doppia]({{ site.baseurl }}/docs/reports/2021Q3-doppiapagina.pdf)) e
   sua presentazione ([video](https://youtu.be/1qQBQfy5UaY)
