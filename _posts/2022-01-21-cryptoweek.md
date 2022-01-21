@@ -66,7 +66,6 @@ banner:
 - [Panic as Kosovo pulls the plug on its energy-guzzling bitcoin miners - Cryptocurrencies - The Guardian](https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners)
 - [Bitcoin network difficulty jumps more than 9% to new all-time high](https://www.theblockcrypto.com/post/131110/bitcoin-network-difficulty-all-time-high-2022)
 - [Intel To Share New Bitcoin Mining ASIC - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/business/intel-to-share-new-bitcoin-mining-asic)
-- [Intel Wants to Be a Bitcoin Player. It Won't Move the Needle for the Stock. - Barron's](https://www.barrons.com/articles/intel-bitcoin-mining-chips-51642617554)
 
 ### Ecosystem - NFT
 
