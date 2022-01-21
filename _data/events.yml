@@ -47,7 +47,7 @@
   subtitle: "La presentazione del report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain a cura di Ferdinando M. Ametrano."
   lang: it
   city: online
-  date: 2022-01-19
+  date: 2022-04-12
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
@@ -56,6 +56,29 @@
     url: https://dgi.io/reports
   info:
     text: presto disponibili
+    url: 
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220119-2021Q4-report.jpg
+    size: 200
+    thumb: 20220119-2021Q4-report-thumb.jpg
+  eventfeed: true
+  published: true
+
+- title: "Report trimestrale del Digital Gold Institute"
+  subtitle: "La presentazione del report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain a cura di Ferdinando M. Ametrano."
+  lang: it
+  city: online
+  date: 2022-01-19
+  date2:
+  hours: 17:30-19:00
+  organizer: Digital Gold Institute
+  address: 
+    text: live streaming
+    url: https://dgi.io/reports
+  info:
+    text: http://dgi.io/docs/reports/2021Q4-agenda.pdf
     url: 
   discount_code:
   discount_code_publish:
