@@ -8,7 +8,7 @@ image:
     thumb: 2021-10-07-2021Q3-report-bw-thumb.jpg
 youtube: 1qQBQfy5UaY
 published: true
-newsfeed: false
+newsfeed: true
 ---
 
 Si è svolta ieri la presentazione del report trimestrale su ecosistema Bitcoin, crypto-asset e blockchain curato dal [Digital Gold Institute](https://dgi.io), il principale think tank italiano dedicato al fenomeno Bitcoin e alla scarsità in ambito digitale. La registrazione dell'evento e le slide presentate sono disponibili sul sito dell'[Istituto](https://dgi.io/reports), dove la prossima settimana sarà disponibile il report del terzo trimestre 2021.
