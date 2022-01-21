@@ -11,7 +11,9 @@ published: true
 newsfeed: true
 ---
 
-Si è svolta ieri la presentazione della dodicesima edizione del report trimestrale su ecosistema Bitcoin, crypto-asset e blockchain curato dal Digital Gold Institute, il principale think tank italiano dedicato al fenomeno bitcoin e alla scarsità in ambito digitale. La registrazione dell’evento e le slide presentate sono disponibili sul sito dell’[Istituto]({{site.baseurl}}/reports), dove entro fine mese sarà disponibile anche il vero e proprio report 2021Q4.
+Si è svolta ieri la presentazione della dodicesima edizione del report trimestrale su ecosistema Bitcoin, crypto-asset e blockchain curato dal Digital Gold Institute, il principale think tank italiano dedicato al fenomeno bitcoin e alla scarsità in ambito digitale. 
+
+La registrazione dell’evento e le slide presentate sono disponibili sul sito dell’[Istituto]({{site.baseurl}}/reports), dove entro fine mese sarà disponibile anche il vero e proprio report 2021Q4.
 
 “Il 2021 è stato un anno di straordinaria crescita per i cosiddetti crypto-asset - ha dichiarato
 [Ferdinando M. Ametrano](https://ametrano.net/it/about/), Direttore Scientifico del DGI e docente di Bitcoin and Blockchain Technology in diverse università italiane -
