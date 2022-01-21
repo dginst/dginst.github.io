@@ -31,7 +31,7 @@ banner:
 
 ### Altcoins - Stablecoins
 
-### Regulation - CBDC
+### Regulation - Central Bank Digital Currency (CBDC)
 
 ### Regulation - EU, UK, Russia, and US
 
