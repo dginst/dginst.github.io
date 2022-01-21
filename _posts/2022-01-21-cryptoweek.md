@@ -48,7 +48,7 @@ banner:
 ### Regulation - Central Bank Digital Currency (CBDC)
 
 - [Swiss Central Bank, BIS, SIX Complete Test of Wholesale CBDC Trial - Blockworks](https://blockworks.co/swiss-central-bank-bis-six-complete-test-of-wholesale-cbdc-trial-labelling-it-operationally-possible/)
-- [Fed Board releases discussion paper that examines pros and cons of a potential U.S. CBDC - FED](https://www.federalreserve.gov/newsevents/pressreleases/other20220120a.htm)
+- [Fed Board releases discussion paper on pros and cons of a potential U.S. CBDC - FED](https://www.federalreserve.gov/newsevents/pressreleases/other20220120a.htm)
 - [New Fed paper hints that a US CBDC could compete with ‘private digital money’ - theblockcrypto](https://www.theblockcrypto.com/post/131096/new-fed-paper-hints-that-a-us-cbdc-could-compete-with-private-digital-money)
 
 ### Regulation - EU, UK, Russia, and US
@@ -76,7 +76,7 @@ banner:
 ### Ecosystem - Web3
 
 - [My first impressions of web3 - Moxie Marlinspike](https://moxie.org/2022/01/07/web3-first-impressions.html)
-- ["My first impressions of web3" : ethereum - Vitalik Buterin on Reddit](https://twitter.com/VitalikButerin/status/1479815125955715072)
+- ["My first impressions of web3" : ethereum - Vitalik Buterin on Twitter](https://twitter.com/VitalikButerin/status/1479815125955715072)
 - ["My first impressions of web3" : ethereum - Vitalik Buterin on Reddit](https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/)
 
 ### Tech
