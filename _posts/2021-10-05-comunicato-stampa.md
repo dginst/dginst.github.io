@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: 2021-10-06-2021Q3-report-thumb.jpg
 youtube: 1qQBQfy5UaY
-published: true
+published: false
 newsfeed: true
 ---
 
