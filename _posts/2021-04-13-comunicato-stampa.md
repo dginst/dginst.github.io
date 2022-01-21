@@ -33,7 +33,7 @@ porterà un contributo di approfondimento
 sulla proposta di regolamentazione europea per i
 mercati in crypto-asset (_Markets in Crypto-Assets_, MiCA).
 
-Al termine del _live-streaming_ pubblico su YouTube, previsto per le 18:30,
+Al termine del _live streaming_ pubblico su YouTube, previsto per le 18:30,
 l'evento proseguirà con un dibattito riservato che vede la partecipazione di
 oltre cento tra i protagonisti italiani del
 mondo finanziario, imprenditoriale, giornalistico, politico ed istituzionale.

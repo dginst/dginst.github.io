@@ -29,7 +29,7 @@ ed i recenti pronunciamenti di Consob e Banca d'Italia.
 Switzerland & Iberia di BNP Paribas Securities Services, porterà un contributo
 di approfondimento sui digital-asset nel mondo finanziario europeo.
 
-Al termine del live-streaming pubblico su YouTube, previsto per le 18:30,
+Al termine del live streaming pubblico su YouTube, previsto per le 18:30,
 l'evento proseguirà con un dibattito riservato che vede la partecipazione di circa cento
 tra i protagonisti italiani del mondo finanziario, imprenditoriale, giornalistico,
 politico ed istituzionale.

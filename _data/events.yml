@@ -10,7 +10,7 @@
     text: live streaming
     url: https://youtu.be/XXGTY9w5znI
   info:
-    text: CryptoWeek
+    text: pagina CryptoWeek
     url: https://dgi.io/cryptoweek
   discount_code:
   discount_code_publish:
@@ -24,13 +24,13 @@
 - title: "Workshop Bitcoin & Blockchain"
   subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
   lang: it
-  city: online
+  city: online e in presenza a Milano
   date: 2022-03-15
   date2: 2022-03-16
   hours: 09:30-17:00
   organizer: Digital Gold Institute
   address: 
-    text: "Via Giovanni Battista Pirelli 11, 20124 Milano" 
+    text: live streaming e Via G.B. Pirelli 11, Milano
   info:
     text: programma e registrazione
     url: https://dgi.io/workshop
@@ -60,7 +60,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20220119-2021Q4-report.jpg
+    main: 20220412-2022Q1-report.jpg
     size: 200
     thumb: 20220119-2021Q4-report-thumb.jpg
   eventfeed: true
@@ -75,10 +75,10 @@
   hours: 12:00-12:25
   organizer: Crypto Coinference
   address: 
-    text: Live-streaming
+    text: live streaming
     url:
   info:
-    text: Agenda disponibile
+    text: programma
     url: https://www.cryptocoinference.com/programma-digital-edition-2022/
   discount_code:
   discount_code_publish:
@@ -86,7 +86,7 @@
     main: 20220127Logo-CryptoCoinference-white.png
     size: 200
     thumb: 
-  eventfeed: false
+  eventfeed: true
   published: true
 
 - title: "Report trimestrale del Digital Gold Institute"
@@ -121,7 +121,7 @@
   hours: 09:00-19:00
   organizer: Banca d'Italia - Sede di Catania
   address: 
-    text: Live-streaming YouTube
+    text: live streaming YouTube
     url: https://youtu.be/vARb612Q144&t=5941s
   info:
     text: Agenda disponibile
