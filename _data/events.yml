@@ -66,6 +66,29 @@
   eventfeed: true
   published: true
 
+- title: "Your Coins, Safe and Easy."
+  subtitle: "Il ruolo della custodia sicura e dei servizi premium per gli investitori privati e istituzionali."
+  lang: it
+  city: online
+  date: 2022-01-27
+  date2:
+  hours: 12:00-12:25
+  organizer: Crypto Coinference
+  address: 
+    text: Live-streaming
+    url:
+  info:
+    text: Agenda disponibile
+    url: https://www.cryptocoinference.com/programma-digital-edition-2022/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220127Logo-CryptoCoinference-white.png
+    size: 200
+    thumb: 
+  eventfeed: false
+  published: true
+
 - title: "Report trimestrale del Digital Gold Institute"
   subtitle: "La presentazione del report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain a cura di Ferdinando M. Ametrano."
   lang: it
