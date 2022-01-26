@@ -19,7 +19,7 @@ banner:
 
 ### CheckSig
 
-- [CheckSig Funding Round - Press release](https://checksig.io/wp-content/uploads/2021/12/20211223_CS_CheckSig_December-round.pdf)
+- [CheckSig Funding Round - Press release](https://checksig.com/wp-content/uploads/2021/12/20211223_CS_CheckSig_December-round.pdf)
 - [CheckSig Funding Round - LinkedIn](https://www.linkedin.com/posts/checksig_checksig-continua-il-suo-percorso-di-crescita-activity-6879450715560009729-saoa)
 - [CheckSig Funding Round - Facebook](https://www.facebook.com/checksig.safe/posts/781450523255654)
 - [CheckSig Funding Round - Twitter](https://twitter.com/CheckSigCustody/status/1474345997736288272)

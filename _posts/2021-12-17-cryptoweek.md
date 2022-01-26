@@ -38,7 +38,7 @@ banner:
 - [Two More German Banks Planning Crypto Services Following Sparkasse - CryptoPotato](https://cryptopotato.com/two-more-german-banks-planning-crypto-services-following-sparkasse/)
 - [Germany's trillion-euro savings banks mull crypto wallet - Reuters](https://www.reuters.com/markets/europe/germanys-trillion-euro-savings-banks-mull-crypto-wallet-2021-12-13/?taid=61b75c76a20ea200018864dd)
 - [Crypto bank Anchorage raises $350 million in Series D funding - The Block Crypto](https://www.theblockcrypto.com/post/127579/crypto-bank-anchorage-series-d-funding-kkr-goldman-sachs-others)
-- [CheckSig - Transparent bitcoin custody](https://checksig.io/)
+- [CheckSig - Transparent bitcoin custody](https://checksig.com/)
 - [Ray Dalio: Crypto Should Be Part of a Diversified Portfolio - Blockworks](https://blockworks.co/ray-dalio-crypto-should-be-part-of-a-diversified-portfolio/)
 - [Ray Dalio warns Fed's hands are tied and higher U.S. inflation is sticking around. Democracy, maybe not. - MarketWatch](https://www.marketwatch.com/story/ray-dalio-warns-the-feds-hands-are-tied-and-that-higher-u-s-inflation-is-sticking-around-democracy-maybe-not-11639578847)
 - [Contractual Standards for Digital Asset Derivatives – International Swaps and Derivatives Association](https://www.isda.org/2021/12/14/contractual-standards-for-digital-asset-derivatives/)

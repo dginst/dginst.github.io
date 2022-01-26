@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-Abbiamo il piacere di invitarvi al webinar **"Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"** organizzato dai nostri partner [A&C Law](https://aclaw.eu/it/home/), [CryptoValues](https://cryptovalues.eu//) e [CheckSig](https:/checksig.io/) che si terrà domani, giovedì 4 giugno 2020,
+Abbiamo il piacere di invitarvi al webinar **"Bitcoin: un nuovo strumento finanziario per la normativa tedesca?"** organizzato dai nostri partner [A&C Law](https://aclaw.eu/it/home/), [CryptoValues](https://cryptovalues.eu//) e [CheckSig](https:/checksig.com/) che si terrà domani, giovedì 4 giugno 2020,
 dalle 17:30 alle 19:00 in modalità live streaming.  
 
 Bitcoin è un terreno complesso e richiede un significativo lavoro di comprensione. Tanti giornalisti, professionisti ed opinionisti se ne sono occupati, tuttavia dipingendo Bitcoin a tinte fosche, senza alcun approfondimento sulla sua rilevanza in questo momento storico e culturale. Un dibattito di respiro più alto, che tenta di capire cosa stia succedendo nella storia della moneta, è stato stimolato dalla recente _modifica della legge bancaria tedesca_ (i.e. § 1, Abs. 1(a), No. 6,

@@ -19,7 +19,7 @@ regolazione ed in generale le notizie principali del trimestre.
 
 In via eccezionale e nello spirito di condivisione con cui stiamo
 affrontando queste settimane, i nostri partner
-[CheckSig](http://checksig.io),
+[CheckSig](http://checksig.com),
 [CryptoValues](http://www.cryptovalues.eu),
 [Deloitte](http://www2.deloitte.com/it) e
 [Prometeia](http://www.prometeia.it)

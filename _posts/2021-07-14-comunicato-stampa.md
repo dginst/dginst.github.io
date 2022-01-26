@@ -16,7 +16,7 @@ il report trimestrale sull'ecosistema Bitcoin, crypto-asset e blockchain
 curato dal Digital Gold Institute.
 
 [Ferdinando M. Ametrano](https://ametrano.net/it/about/),
-direttore scientifico di DGI e amministratore delegato di [CheckSig](www.checksig.io),
+direttore scientifico di DGI e amministratore delegato di [CheckSig](www.checksig.com),
 commenterà il secondo trimestre 2021 del mercato cripto,
 tra nuovi record di prezzo e successivi tracolli, Elon Musk,
 la quotazione di Coinbase, il corso legale per Bitcoin in El Salvador,

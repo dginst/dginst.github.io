@@ -11,12 +11,12 @@ published: true
 newsfeed: true  
 ---
 
-[CheckSig](https://checksig.io//) is
+[CheckSig](https://checksig.com//) is
 a fast-growing fintech startup, based in Milan,
 specialized in the custody of Bitcoin
 on behalf of institutions and high-net-worth individuals.
 
-[CheckSig](https://checksig.io//) is expanding quickly and is looking for a **Technology Officer** to join the team.
+[CheckSig](https://checksig.com//) is expanding quickly and is looking for a **Technology Officer** to join the team.
 The main project is to build the client web-interface and the administrative backend with strong security standards, while also maintaining our web-site. Previous experience with crypto-assets would be a plus but it is not strictly required.
 
 The ideal candidate is a professional with at least a few years of work experience and a proven track record as hands-on full stack developer with effective system integration achievements.
@@ -38,4 +38,4 @@ If you are interested in joining a talented team and taking on an exciting
 challenge in the area of crypto-asset management, then checkout the
 [**job ad**](https://www.linkedin.com/jobs/view/2395945204/)
 for more info or send an email to
-[**jobs@checksig.io**](mailto:jobs@checksig.io)
+[**jobs@checksig.com**](mailto:jobs@checksig.com)

@@ -11,12 +11,12 @@ published: true
 newsfeed: true  
 ---
 
-[CheckSig](https://checksig.io//) is
+[CheckSig](https://checksig.com//) is
 a fast-growing fintech startup, based in Milan,
 specialized in the custody of Bitcoin
 on behalf of institutions and high-net-worth individuals.
 
-**[CheckSig](https://checksig.io//) is recruiting individuals
+**[CheckSig](https://checksig.com//) is recruiting individuals
 with experience in any of the following areas**:
 
 - Coding the Bitcoin blockchain.
@@ -37,4 +37,4 @@ If you are interested in joining a talented team and taking on an exciting
 challenge in the area of crypto-asset management, then checkout the
 [**job ad**](<http://angel.co/company/checksig/jobs/668336-coders-for-crypto> asset-management)
 for more info or send an email to
-[**jobs@checksig.io**](mailto:jobs@checksig.io)
+[**jobs@checksig.com**](mailto:jobs@checksig.com)

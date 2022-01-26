@@ -11,11 +11,11 @@ published: true
 newsfeed: true
 ---
 
-Ospite della  diciassettesima chiamata pubblica del progetto #BitcoinSicurezzaPrivacy​, a cura di [Riccardo Masutti](https://www.linkedin.com/in/riccardomasutti/) il direttore DGI [Ferdinando M. Ametrano](https://ametrano.net) che è intervenuto sugli aspetti di sicurezza di Bitcoin, e sulle motivazioni alla base della scelta di affidarsi a custodian per i propri Bitcoin, presentando la soluzione di custodia tecnologicamente più sicura sviluppata da [CheckSig](https://checksig.io/).
+Ospite della  diciassettesima chiamata pubblica del progetto #BitcoinSicurezzaPrivacy​, a cura di [Riccardo Masutti](https://www.linkedin.com/in/riccardomasutti/) il direttore DGI [Ferdinando M. Ametrano](https://ametrano.net) che è intervenuto sugli aspetti di sicurezza di Bitcoin, e sulle motivazioni alla base della scelta di affidarsi a custodian per i propri Bitcoin, presentando la soluzione di custodia tecnologicamente più sicura sviluppata da [CheckSig](https://checksig.com/).
 
 ### Temi della diciassettesima chiamata
 >
-Cos'è CheckSig.io
+Cos'è checksig.com
 >
 Qual è la differenza tra mettere al sicuro 1 BTC e 1000 BTC
 >

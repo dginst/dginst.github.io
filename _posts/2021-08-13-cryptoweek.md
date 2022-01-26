@@ -88,7 +88,7 @@ banner:
 
 - [Fixing The Privacy Gap In Proof Of Liability Protocols - BitMEX Blog](https://blog.bitmex.com/addressing-the-privacy-gap-in-proof-of-liability-protocols/)
 - [Proof of Reserves & Liabilities: BitMEX Demonstration - BitMEX Blog](https://blog.bitmex.com/proof-of-reserves-liabilities-bitmex-demonstration/)
-- [Proof of Reserves - CheckSig](https://checksig.io/por/)
+- [Proof of Reserves - CheckSig](https://checksig.com/por/)
 
 ### Ecosystem - Tether
 

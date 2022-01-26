@@ -59,7 +59,7 @@ banner:
 ### Ecosystem - Custody
 
 - [Institutional crypto custodians raised more than $3 billion in 2021 - theblockcrypto](https://www.theblockcrypto.com/linked/128541/2021-saw-a-major-surge-in-funding-for-institutional-crypto-custodians)
-- [CheckSig Funding Round Press Release - CheckSig](https://checksig.io/wp-content/uploads/2021/12/20211223_CS_CheckSig_December-round.pdf)
+- [CheckSig Funding Round Press Release - CheckSig](https://checksig.com/wp-content/uploads/2021/12/20211223_CS_CheckSig_December-round.pdf)
 
 ### Digital Gold Institute
 

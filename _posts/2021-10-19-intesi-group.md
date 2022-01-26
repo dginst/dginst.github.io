@@ -26,4 +26,4 @@ Riprende **Sironi** – “_Se fino a poco tempo fa i crypto-asset erano visti c
 “_Fornire gli strumenti di conoscenza e comprensione di un fenomeno ancora spesso frainteso: questo è sempre stato uno dei punti qualificanti dell'offerta di CheckSig, sia prima sia dopo l'investimento in Bitcoin che ci viene affidato in custodia_. – conclude **Ametrano** – _La risoluzione del problema della sicurezza nella custodia è il cuore della nostra azienda, ma offriamo anche consulenza e formazione tramite il nostro Digital Gold Institute, il principale think tank italiano sul tema Bitcoin e blockchain, e collaboriamo con i migliori professionisti in ambito legale, fiscale e assicurativo_.”
 Con competenze e ruoli diversi ma sinergici, CheckSig ed Intesi Group si candidano come protagonisti nello sviluppo dell'industria fintech e Bitcoin, non solo italiana.
 
-Il comunicato stampa completo è disponibile [qui](https://checksig.io/wp-content/uploads/2021/10/20211019_CS_CheckSig_Intesi.pdf).
+Il comunicato stampa completo è disponibile [qui](https://checksig.com/wp-content/uploads/2021/10/20211019_CS_CheckSig_Intesi.pdf).
