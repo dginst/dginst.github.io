@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: " Alternative investments & criptovalute quali assets alternativi"
+title: "Alternative investments & criptovalute quali assets alternativi"
 subtitle: Dibattito sui temi di economici, finanziari e tecnologici.
 author: "Staff"
 

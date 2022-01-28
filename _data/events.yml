@@ -82,7 +82,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20220127Logo-CryptoCoinference-white.png
+    main: 20220127-Logo-CryptoCoinference-white.png
     size: 200
     thumb: 
   eventfeed: true
@@ -105,7 +105,30 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20220127Logo-CryptoCoinference-white.png
+    main: 20220127-Logo-CryptoCoinference-white.png
+    size: 200
+    thumb: 
+  eventfeed: true
+  published: true
+
+- title: "Bitcoin Custody & Market Collapse"
+  subtitle: Intervista di Eugenio Benetazzo
+  lang: it
+  city: online
+  date: 2022-01-25
+  date2:
+  hours: 18:00-18:45
+  organizer: Eugenio Benetazzo
+  address: 
+    text: live streaming
+    url: https://www.youtube.com/watch?v=Rd5EGS5dVLE
+  info:
+    text:
+    url:
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220125-benetazzo.png
     size: 200
     thumb: 
   eventfeed: true
@@ -739,7 +762,6 @@
     thumb: 20201020-workshop-thumb.jpg
   eventfeed: true
   published: true
-  
 
 - title: "Bitcoin, blockchain e crypto-assets: <br> impatti nei settori finanziari e assicurativi"
   subtitle: Evento annullato
@@ -867,8 +889,7 @@
   eventfeed: true
   published: true
   
-- title: "Bitcoin, criptovalute e risparmio gestito: asset eligible anche
-per Fondi e gestioni di portafoglio?"
+- title: "Bitcoin, criptovalute e risparmio gestito: asset eligible anche per Fondi e gestioni di portafoglio?"
   subtitle: Modera M.Chiratti<br>Relatori F. Ametrano, A. Conso, A. Medri, F. Berneri, F. Frontini
   lang: it
   city: Live Streaming
