@@ -2,13 +2,13 @@
   subtitle: "Il commento alle news crypto della settimana a cura di Ferdinando M. Ametrano."
   lang: it
   city: online
-  date: 2022-01-28
+  date: 2022-02-04
   date2:
   hours: 18:00-18:45
   organizer: Digital Gold Institute
   address:
     text: live streaming
-    url: https://youtu.be/FPbfZTNTtHo
+    url: https://youtu.be/CXycJ4dAeWw
   info:
     text: pagina CryptoWeek
     url: https://dgi.io/cryptoweek
@@ -63,6 +63,28 @@
     main: 20220412-2022Q1-report.jpg
     size: 200
     thumb: 20220119-2021Q4-report-thumb.jpg
+  eventfeed: true
+  published: true
+
+- title: "Your Coins, Safe and Easy."
+  subtitle: "Il ruolo della custodia sicura e dei servizi premium per gli investitori privati e istituzionali."
+  lang: it
+  city: Bologna
+  date: 2022-05-06
+  hours: 9:30-18:00
+  organizer: Crypto Coinference
+  address: 
+    text: TBD
+    url:
+  info:
+    text: programma
+    url: https://www.cryptocoinference.com/bologna-2020/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220127Logo-CryptoCoinference-white.png
+    size: 200
+    thumb: 
   eventfeed: true
   published: true
 
