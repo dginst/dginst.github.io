@@ -20,10 +20,10 @@ banner:
 
 ### Markets
 
-- [Jan 2022 - Kraken](https://kraken.docsend.com/view/98sgdzbyw4tyaf7h)
+- [January 2022 Crypto On-Chain Digest - Kraken](https://kraken.docsend.com/view/98sgdzbyw4tyaf7h)
 - [Bitcoin drops to six-month low as investors dump speculative assets - Financial Times](https://www.ft.com/content/28286423-66a8-432d-8a1e-b37fd5e2a74d)
-- [Bitcoin Price Falls Below $35,000 in Tandem With Stock Selloff - WSJ](https://www.wsj.com/articles/bitcoin-price-falls-below-40-000-in-tandem-with-tech-selloff-11642765835)
 - [Crypto stocks sink as Bitcoin tumbles to new six-month low - Financial Times](https://www.ft.com/content/9f1b6c96-7ef3-49ed-b068-a506e24a3e99)
+- [Bitcoin Price Falls Below $35,000 in Tandem With Stock Selloff - WSJ](https://www.wsj.com/articles/bitcoin-price-falls-below-40-000-in-tandem-with-tech-selloff-11642765835)
 - [MicroStrategy to Continue Buying Bitcoin Despite Market Tumble, CFO Says - WSJ](https://www.wsj.com/articles/microstrategy-to-continue-buying-bitcoin-despite-market-tumble-cfo-says-11643106608)
 
 ### Ecosystem - El Salvador
@@ -49,10 +49,10 @@ banner:
 
 - [McDonald's - PlanB](https://twitter.com/100trillionUSD/status/1485605576000393217?s=20&t=5Lvqg-R3rn0kQaNJdjJtGw)
 - [Crypto - McDonald's](https://twitter.com/McDonalds/status/1485726032967704582)
-- [(5) Elon Musk on Twitter: "I will eat a happy meal on tv if @McDonalds accepts Dogecoin" - Twitter](https://twitter.com/elonmusk/status/1485953263040188416)
-- [(5) McDonald's on Twitter: "only if @tesla accepts grimacecoin https://t.co/to9HmYJhej" - Twitter](https://twitter.com/McDonalds/status/1486115285983805444)
-- [Fake Grimacecoin Jumps 285,000% After McDonald’s’ Tesla Joke - Coindesk](https://www.coindesk.com/markets/2022/01/26/fake-grimacecoin-jumps-285000-after-mcdonalds-tesla-joke/)
-- [McDonald’s jumps on Bitcoin memewagon, Crypto Twitter responds](https://cointelegraph.com/news/mcdonald-s-jumps-on-bitcoin-memewagon-crypto-twitter-responds)
+- [Elon Musk: "I will eat a happy meal on tv if @McDonalds accepts Dogecoin" - Twitter](https://twitter.com/elonmusk/status/1485953263040188416)
+- [McDonald's: "only if @tesla accepts grimacecoin" - Twitter](https://twitter.com/McDonalds/status/1486115285983805444)
+- [Fake Grimacecoin Jumps 285,000% After McDonald's’ Tesla Joke - Coindesk](https://www.coindesk.com/markets/2022/01/26/fake-grimacecoin-jumps-285000-after-mcdonalds-tesla-joke/)
+- [McDonald's jumps on Bitcoin memewagon, Crypto Twitter responds - cointelegraph](https://cointelegraph.com/news/mcdonald-s-jumps-on-bitcoin-memewagon-crypto-twitter-responds)
 
 ### Altcoin - Stablecoin
 
@@ -76,7 +76,7 @@ banner:
 
 ### Ecosystem - Altcoin
 
-- [Traders are complaining about Solana's performance, raising questions about its status as a Wall Street darling - theblockcrypto](https://www.theblockcrypto.com/post/131278/traders-are-complaining-about-solanas-performance-raising-questions-about-its-status-as-a-wall-street-darling)
+- [Traders are complaining about Solana's performance - theblockcrypto](https://www.theblockcrypto.com/post/131278/traders-are-complaining-about-solanas-performance-raising-questions-about-its-status-as-a-wall-street-darling)
 - [Polymarket Introduces New Information Markets After CFTC Fine, but Not for US Traders - Coindesk](https://www.coindesk.com/business/2022/01/24/polymarket-relaunches-site-after-cftc-shutdown-but-not-for-us-traders/)
 
 ### Ecosystem - DeFi
@@ -89,8 +89,8 @@ banner:
 
 ### Digital Gold Institute
 
-- [Crypto Coinference - DGI](https://youtu.be/0xA7NWS7hEc?t=11103)
-- [Benetazzo - DGI](https://www.youtube.com/watch?v=Rd5EGS5dVLE)
+- [Intervento di Ametrano a Crypto Coinference - DGI](https://youtu.be/0xA7NWS7hEc?t=11103)
+- [Intervista di Eugenio Benetazzo a Ametrano - DGI](https://www.youtube.com/watch?v=Rd5EGS5dVLE)
 - [News from DGI](https://dgi.io/news/)
 - [2022Q4 Report - DGI](https://dgi.io/reports/)
 - [DGI Events](https://dgi.io/events/)
