@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: FPbfZTNTtHo
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: buzzsprout-player-
@@ -17,67 +17,78 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [Kazakh Crypto Miners Cut Off From Electricity Supply Until End of January - Coindesk](https://www.coindesk.com/business/2022/01/25/kazakh-crypto-miners-cut-off-from-electricity-supply-until-end-of-january/)
-- [Polymarket Introduces New Information Markets After CFTC Fine, but Not for US Traders - Coindesk](https://www.coindesk.com/business/2022/01/24/polymarket-relaunches-site-after-cftc-shutdown-but-not-for-us-traders/)
-- [OpenSea Bug Allows Attackers to Get Massive Discount on Popular NFTs - Coindesk](https://www.coindesk.com/tech/2022/01/24/opensea-bug-allows-attacker-to-get-massive-discount-on-popular-nfts/)
-- [Crypto stocks sink as Bitcoin tumbles to new six-month low - Financial Times](https://www.ft.com/content/9f1b6c96-7ef3-49ed-b068-a506e24a3e99)
-- [U.S. Digital Currency Could Preserve Dollar Supremacy: Bank of America - Decrypt](https://decrypt.co/91129/us-central-bank-digital-currency-dollar-bank-america)
-- [Bank of Korea Says First Phase of CBDC Test Completed Successfully - Coindesk](https://www.coindesk.com/policy/2022/01/24/bank-of-korea-says-first-phase-of-cbdc-test-completed-successfully/)
-- [Biden Administration to Release Executive Order on Crypto as Early as February - Coindesk](https://www.coindesk.com/policy/2022/01/24/biden-administration-to-release-executive-order-on-crypto-as-early-as-february-report/)
-- [El Salvador purchases more bitcoin worth $15 million on market dip - theblockcrypto](https://www.theblockcrypto.com/post/131243/el-salvador-purchases-more-bitcoin-worth-15-million-on-market-dip)
-- [TAPSIGNER™ – Start!](https://tapsigner.com/start)
-- [SATSCARD™ – F.A.Q](https://getsatscard.com/faq)
+
+### Markets
+
+- [Jan 2022 - Kraken](https://kraken.docsend.com/view/98sgdzbyw4tyaf7h)
 - [Bitcoin drops to six-month low as investors dump speculative assets - Financial Times](https://www.ft.com/content/28286423-66a8-432d-8a1e-b37fd5e2a74d)
 - [Bitcoin Price Falls Below $35,000 in Tandem With Stock Selloff - WSJ](https://www.wsj.com/articles/bitcoin-price-falls-below-40-000-in-tandem-with-tech-selloff-11642765835)
-- [Traders are complaining about Solana's performance, raising questions about its status as a Wall Street darling - theblockcrypto](https://www.theblockcrypto.com/post/131278/traders-are-complaining-about-solanas-performance-raising-questions-about-its-status-as-a-wall-street-darling)
-- [RSK Scalability. In 2015 a group of Bitcoiners including… - by Sergio Demian Lerner - Medium](https://medium.com/iovlabs-innovation-stories/rsk-scalability-c44252f05a4b)
-- [Diem to Sell Assets to Silvergate Bank for $200M - Coindesk](https://www.coindesk.com/business/2022/01/27/diem-to-sell-assets-to-silvergate-bank-for-200m-report/)
-- [Chainlink Labs Hires Diem Co-Creator Christian Catalini as Technical Adviser - Coindesk](https://www.coindesk.com/business/2022/01/27/chainlink-labs-hires-diem-co-creator-christian-catalini-as-technical-adviser/)
-- [Jan 2022 - Kraken](https://kraken.docsend.com/view/98sgdzbyw4tyaf7h)
-- [Meta to wind down stablecoin project Diem with $200 million asset sale - theblockcrypto](https://www.theblockcrypto.com/linked/132015/meta-to-wind-down-stablecoin-project-diem-with-200-million-asset-sale-report)
-- [Fireblocks raises $550 million in Series E funding, now valued at $8 billion - theblockcrypto](https://www.theblockcrypto.com/post/131952/fireblocks-raises-550-million-in-series-e-funding-now-valued-at-8-billion)
-- [Crypto giant Binance kept weak money-laundering checks, documents show - Reuters](https://www.reuters.com/investigates/special-report/finance-crypto-currency-binance/)
-- [SEC Scrutinizing Crypto Firms Over Interest-Paying Services - Coindesk](https://www.coindesk.com/policy/2022/01/26/sec-scrutinizing-crypto-firms-over-interest-paying-services-report)
-- [Putin Says Russia Has 'Competitive Advantages' in Bitcoin Mining - Decrypt](https://decrypt.co/91269/vladimir-putin-russia-bitcoin-mining)
-- [DeFi protocol Wonderland is allegedly run by QuadrigaCX co-founder - theblockcrypto](https://www.theblockcrypto.com/post/131931/avalanche-defi-wonderland-time-0xsifu-quadrigacx-patryn)
-- [IMF directors urge El Salvador to remove Bitcoin as legal tender - theblockcrypto](https://www.theblockcrypto.com/linked/131525/imf-directors-urge-el-salvador-to-remove-bitcoin-as-legal-tender)
-- [Diem Reportedly Trying to Sell Assets—Is This the End of Facebook’s Stablecoin Ambitions? - Decrypt](https://decrypt.co/91245/facebook-diem-trying-sell-assets-spelling-end-stablecoin-ambitions-report)
-- [IMF Urges El Salvador to Discontinue Bitcoin’s Legal Tender Status - Coindesk](https://www.coindesk.com/policy/2022/01/25/imf-urges-el-salvador-to-discontinue-bitcoins-legal-tender-status/)
-- [CFTC Orders Event-Based Binary Options Markets Operator to Pay $1.4 Million Penalty - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8478-22)
-- [IMF Executive Board Concludes 2021 Article IV Consultation with El Salvador - IMF](https://www.imf.org/en/News/Articles/2022/01/25/pr2213-el-salvador-imf-executive-board-concludes-2021-article-iv-consultation)
-- [(5) Elon Musk on Twitter: "I will eat a happy meal on tv if @McDonalds accepts Dogecoin" - Twitter](https://twitter.com/elonmusk/status/1485953263040188416)
-- [(5) McDonald's on Twitter: "only if @tesla accepts grimacecoin https://t.co/to9HmYJhej" - Twitter](https://twitter.com/McDonalds/status/1486115285983805444)
+- [Crypto stocks sink as Bitcoin tumbles to new six-month low - Financial Times](https://www.ft.com/content/9f1b6c96-7ef3-49ed-b068-a506e24a3e99)
 - [MicroStrategy to Continue Buying Bitcoin Despite Market Tumble, CFO Says - WSJ](https://www.wsj.com/articles/microstrategy-to-continue-buying-bitcoin-despite-market-tumble-cfo-says-11643106608)
-- [Fake Grimacecoin Jumps 285,000% After McDonald’s’ Tesla Joke - Coindesk](https://www.coindesk.com/markets/2022/01/26/fake-grimacecoin-jumps-285000-after-mcdonalds-tesla-joke/)
+
+### Ecosystem - El Salvador
+
+- [El Salvador purchases more bitcoin worth $15 million on market dip - theblockcrypto](https://www.theblockcrypto.com/post/131243/el-salvador-purchases-more-bitcoin-worth-15-million-on-market-dip)
+- [IMF Urges El Salvador to Discontinue Bitcoin’s Legal Tender Status - Coindesk](https://www.coindesk.com/policy/2022/01/25/imf-urges-el-salvador-to-discontinue-bitcoins-legal-tender-status/)
+- [IMF directors urge El Salvador to remove Bitcoin as legal tender - theblockcrypto](https://www.theblockcrypto.com/linked/131525/imf-directors-urge-el-salvador-to-remove-bitcoin-as-legal-tender)
+- [IMF Executive Board Concludes 2021 Article IV Consultation with El Salvador - IMF](https://www.imf.org/en/News/Articles/2022/01/25/pr2213-el-salvador-imf-executive-board-concludes-2021-article-iv-consultation)
+
+### Regulation - US
+
+- [SEC Scrutinizing Crypto Firms Over Interest-Paying Services - Coindesk](https://www.coindesk.com/policy/2022/01/26/sec-scrutinizing-crypto-firms-over-interest-paying-services-report)
+- [Biden Administration to Release Executive Order on Crypto as Early as February - Coindesk](https://www.coindesk.com/policy/2022/01/24/biden-administration-to-release-executive-order-on-crypto-as-early-as-february-report/)
+- [CFTC Orders Event-Based Binary Options Markets Operator to Pay $1.4 Million Penalty - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8478-22)
+
+### Ecosystem - VC
+
+- [Fireblocks raises $550 million in Series E funding, now valued at $8 billion - theblockcrypto](https://www.theblockcrypto.com/post/131952/fireblocks-raises-550-million-in-series-e-funding-now-valued-at-8-billion)
 - [FTX.US scores $8 billion valuation in its first funding round - theblockcrypto](https://www.theblockcrypto.com/post/131652/ftx-us-scores-8-billion-valuation-in-its-first-funding-round)
 
-### Ecosystem - Reports
+### Ecosystem - McDonald's
 
-- [2022Q4 Report - DGI](https://dgi.io/reports/)
+- [McDonald's - PlanB](https://twitter.com/100trillionUSD/status/1485605576000393217?s=20&t=5Lvqg-R3rn0kQaNJdjJtGw)
+- [Crypto - McDonald's](https://twitter.com/McDonalds/status/1485726032967704582)
+- [(5) Elon Musk on Twitter: "I will eat a happy meal on tv if @McDonalds accepts Dogecoin" - Twitter](https://twitter.com/elonmusk/status/1485953263040188416)
+- [(5) McDonald's on Twitter: "only if @tesla accepts grimacecoin https://t.co/to9HmYJhej" - Twitter](https://twitter.com/McDonalds/status/1486115285983805444)
+- [Fake Grimacecoin Jumps 285,000% After McDonald’s’ Tesla Joke - Coindesk](https://www.coindesk.com/markets/2022/01/26/fake-grimacecoin-jumps-285000-after-mcdonalds-tesla-joke/)
+- [McDonald’s jumps on Bitcoin memewagon, Crypto Twitter responds](https://cointelegraph.com/news/mcdonald-s-jumps-on-bitcoin-memewagon-crypto-twitter-responds)
+### Altcoin - Stablecoin
 
-### Ecosystem - Crypto Jobs
-
-### Regulation - ISDA
-
-### Ecosystem - BitMEX
-
-### Ecosystem - Crypto.com hack
-
-### Altcoins - Stablecoins
+- [Diem to Sell Assets to Silvergate Bank for $200M - Coindesk](https://www.coindesk.com/business/2022/01/27/diem-to-sell-assets-to-silvergate-bank-for-200m-report/)
+- [Meta to wind down stablecoin project Diem with $200 million asset sale - theblockcrypto](https://www.theblockcrypto.com/linked/132015/meta-to-wind-down-stablecoin-project-diem-with-200-million-asset-sale-report)
+- [Diem Reportedly Trying to Sell Assets—Is This the End of Facebook’s Stablecoin Ambitions? - Decrypt](https://decrypt.co/91245/facebook-diem-trying-sell-assets-spelling-end-stablecoin-ambitions-report)
 
 ### Regulation - Central Bank Digital Currency (CBDC)
 
-### Regulation - EU, UK, Russia, and US
+- [U.S. Digital Currency Could Preserve Dollar Supremacy: Bank of America - Decrypt](https://decrypt.co/91129/us-central-bank-digital-currency-dollar-bank-america)
+- [Bank of Korea Says First Phase of CBDC Test Completed Successfully - Coindesk](https://www.coindesk.com/policy/2022/01/24/bank-of-korea-says-first-phase-of-cbdc-test-completed-successfully/)
 
 ### Ecosystem - Mining
 
+- [Kazakh Crypto Miners Cut Off From Electricity Supply Until End of January - Coindesk](https://www.coindesk.com/business/2022/01/25/kazakh-crypto-miners-cut-off-from-electricity-supply-until-end-of-january/)
+- [Putin Says Russia Has 'Competitive Advantages' in Bitcoin Mining - Decrypt](https://decrypt.co/91269/vladimir-putin-russia-bitcoin-mining)
+
+### Ecosystem - Binance
+
+- [Crypto giant Binance kept weak money-laundering checks, documents show - Reuters](https://www.reuters.com/investigates/special-report/finance-crypto-currency-binance/)
+
+### Ecosystem - Altcoin
+
+- [Traders are complaining about Solana's performance, raising questions about its status as a Wall Street darling - theblockcrypto](https://www.theblockcrypto.com/post/131278/traders-are-complaining-about-solanas-performance-raising-questions-about-its-status-as-a-wall-street-darling)
+- [Polymarket Introduces New Information Markets After CFTC Fine, but Not for US Traders - Coindesk](https://www.coindesk.com/business/2022/01/24/polymarket-relaunches-site-after-cftc-shutdown-but-not-for-us-traders/)
+
+### Ecosystem - DeFi
+
+- [DeFi protocol Wonderland is allegedly run by QuadrigaCX co-founder - theblockcrypto](https://www.theblockcrypto.com/post/131931/avalanche-defi-wonderland-time-0xsifu-quadrigacx-patryn)
+
 ### Ecosystem - NFT
 
-### Ecosystem - Web3
-
-### Tech
+- [OpenSea Bug Allows Attackers to Get Massive Discount on Popular NFTs - Coindesk](https://www.coindesk.com/tech/2022/01/24/opensea-bug-allows-attacker-to-get-massive-discount-on-popular-nfts/)
 
 ### Digital Gold Institute
 
+- [Crypto Coinference - DGI](https://youtu.be/0xA7NWS7hEc?t=11103)
+- [Benetazzo - DGI](https://www.youtube.com/watch?v=Rd5EGS5dVLE)
 - [News from DGI](https://dgi.io/news/)
+- [2022Q4 Report - DGI](https://dgi.io/reports/)
 - [DGI Events](https://dgi.io/events/)
