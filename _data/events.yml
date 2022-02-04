@@ -88,6 +88,29 @@
   eventfeed: true
   published: true
 
+- title: "The Crypto Night Show 2022"
+  subtitle: Quattro players istituzionali a confronto
+  lang: it
+  city: online
+  date: 2022-03-09
+  date2:
+  hours: 21:30-23:00
+  organizer: Eugenio Benetazzo
+  address: 
+    text: live streaming
+    url: https://www.youtube.com/watch?v=0KO3Dvo1MiQ
+  info:
+    text:
+    url:
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220309-benetazzo.png
+    size: 200
+    thumb: 
+  eventfeed: true
+  published: true
+
 - title: "Your Coins, Safe and Easy."
   subtitle: "Il ruolo della custodia sicura e dei servizi premium per gli investitori privati e istituzionali."
   lang: it
