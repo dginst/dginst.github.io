@@ -21,7 +21,7 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
-- **2021Q4**: report (in arrivo settimana prossima) e sua presentazione ([video](https://youtu.be/1qQBQfy5UaY)
+- **2021Q4**: [report]({{ site.baseurl }}/docs/reports/2021Q4.pdf) e sua presentazione ([video](https://youtu.be/1qQBQfy5UaY)
   e [slide]({{site.baseurl}}/docs/reports/2021Q4-presentation.pdf)).  
   Ospite: Maria Sterpeta Balzano (Director, Deloitte Risk Advisory)
   su "[Rischi ed opportunità delle tecnologie emergenti e delle cripto – Le due facce della medaglia]({{site.baseurl}}/docs/reports/2021Q4-deloitte.pdf)".
@@ -83,7 +83,7 @@ Questi i report finora prodotti:
   [report]({{ site.baseurl }}/docs/reports/2019Q4.pdf),
   [evidenze]({{site.baseurl}}/docs/reports/2019Q4-presentation.pdf)
   e
-  [news]({{ site.baseurl }}/2020/01/31/report-q4).    
+  [news]({{ site.baseurl }}/2020/01/31/report-q4).
   Ospite: Raffaele Mauro su
   [Quantum Computing]({{site.baseurl}}/docs/reports/2019Q4-quantumcumputing.pdf).
 - **2019Q3**: [report]({{ site.baseurl }}/docs/reports/2019Q3.pdf) e [news]({{ site.baseurl }}/2019/10/31/report-q3.html)
