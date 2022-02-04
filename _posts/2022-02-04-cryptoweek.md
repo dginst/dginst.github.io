@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #51"
+title: "CryptoWeek #52"
 subtitle: "Il commento alle crypto-news della settimana" 
 author: "Staff"
 image:
