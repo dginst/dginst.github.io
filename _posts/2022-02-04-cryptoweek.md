@@ -49,11 +49,6 @@ banner:
 - [Cardano: a new generation in smart contract platform design - Kraken](https://kraken.docsend.com/view/mi9zz8t55jzjgzy7)
 - [State of Staking Q4 2021 - Kraken](https://fs.hubspotusercontent00.net/hubfs/6693156/State%20of%20Staking%20Q4%202021%20by%20Staked%20_%20Kraken%20(1)-1.pdf)
 
-### Ecosystem - Proof-of-reserves
-
-- [Verify Your Bitcoin and Ether Balances on Kraken with Proof of Reserves - Kraken Blog](https://blog.kraken.com/post/12774/verify-your-bitcoin-and-ether-balances-on-kraken-with-proof-of-reserves)
-- [Kraken Says Proof-of-Reserves Audit Shows $19B in Bitcoin and Ether](https://www.coindesk.com/business/2022/02/03/kraken-says-proof-of-reserves-audit-shows-19b-in-bitcoin-and-ether/)
-
 ### Ecosystem - Wormhole
 
 - [Hacker Steals $320 Million From Solana, Ethereum Bridge Wormhole - Decrypt](https://decrypt.co/91899/hacker-steals-320-million-solana-ethereum-bridge-wormhole)
