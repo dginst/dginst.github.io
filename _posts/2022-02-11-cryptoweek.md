@@ -31,6 +31,10 @@ banner:
 
 ### Ecosystem - Wormhole
 
+- [Calling a Hack an Exploit Minimizes Human Error](https://www.coindesk.com/layer2/2022/02/03/calling-a-hack-an-exploit-minimizes-human-error/)
+- [Jump Trading Backstops Wormhole’s $320M Exploit Loss](https://www.coindesk.com/business/2022/02/03/jump-trading-backstops-wormholes-320m-exploit-loss-sources/)
+- [The 10 Biggest Bank Robberies of All Time](https://moneywise.com/life/entertainment/the-biggest-bank-robberies-of-all-time)
+
 ### Ecosystem - Wonderland
 
 ### Regulation
@@ -40,6 +44,8 @@ banner:
 ### Opinion
 
 ### Tech
+
+- [Flaws in Ethereum’s EIP-1559. EIP-1559 added a mechanism for the… - Sergio Demian Lerner on Medium](https://medium.com/iovlabs-innovation-stories/flaws-in-ethereums-eip-1559-c0f91838ce23)
 
 ### Digital Gold Institute
 
