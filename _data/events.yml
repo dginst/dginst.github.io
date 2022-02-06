@@ -88,6 +88,29 @@
   eventfeed: true
   published: true
 
+- title: "Your Coins, Safe and Easy."
+  subtitle: "Bitcoin custody and solutions for private and institutional investors."
+  lang: en
+  city: Miami
+  date: 2022-04-06
+  date2: 2022-04-09
+  hours: 9:30-18:00
+  organizer: Bitcoin 2022 Conference
+  address: 
+    text: TBD
+    url:
+  info:
+    text: program
+    url: https://b.tc/conference
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220406-bitcoin-conference.png
+    size: 200
+    thumb: 
+  eventfeed: true
+  published: true
+
 - title: "The Crypto Night Show 2022"
   subtitle: Quattro players istituzionali a confronto
   lang: it
