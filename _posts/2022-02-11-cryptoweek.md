@@ -43,6 +43,8 @@ banner:
 
 ### Opinion
 
+- [The Maltese Falcoin - J.P.Morgan](https://assets.jpmprivatebank.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf)
+
 ### Tech
 
 - [Flaws in Ethereum’s EIP-1559. EIP-1559 added a mechanism for the… - Sergio Demian Lerner on Medium](https://medium.com/iovlabs-innovation-stories/flaws-in-ethereums-eip-1559-c0f91838ce23)
