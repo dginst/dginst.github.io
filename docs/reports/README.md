@@ -21,12 +21,14 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
-- **2021Q4**: [report]({{ site.baseurl }}/docs/reports/2021Q4.pdf) e sua presentazione ([video](https://youtu.be/1qQBQfy5UaY)
+- **2021Q4**: report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q4.pdf) o
+  [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q4-doppiapagina.pdf)),
+  sua presentazione ([video](https://youtu.be/1qQBQfy5UaY)
   e [slide]({{site.baseurl}}/docs/reports/2021Q4-presentation.pdf)).  
   Ospite: Maria Sterpeta Balzano (Director, Deloitte Risk Advisory)
   su "[Rischi ed opportunità delle tecnologie emergenti e delle cripto – Le due facce della medaglia]({{site.baseurl}}/docs/reports/2021Q4-deloitte.pdf)".
 - **2021Q3**:
-  report ([pagina doppia]({{ site.baseurl }}/docs/reports/2021Q3-doppiapagina.pdf)) e
+  report ([pagina doppia]({{ site.baseurl }}/docs/reports/2021Q3-doppiapagina.pdf)),
   sua presentazione ([video](https://youtu.be/1qQBQfy5UaY)
   e [slide]({{site.baseurl}}/docs/reports/2021Q3-presentation.pdf)).  
   Ospiti: Paola Bongini e Marco Petracco presentano la terza conferenza del Crypto Asset Lab ([slide Bongini]({{site.baseurl}}/docs/reports/2021Q3-CAL-PB.pdf), [slide Petracco]({{site.baseurl}}/docs/reports/2021Q3-JRC-MB.pdf)).
