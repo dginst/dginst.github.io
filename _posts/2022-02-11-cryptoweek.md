@@ -35,6 +35,7 @@ banner:
 - [Calling a Hack an Exploit Minimizes Human Error](https://www.coindesk.com/layer2/2022/02/03/calling-a-hack-an-exploit-minimizes-human-error/)
 - [Jump Trading Backstops Wormhole’s $320M Exploit Loss](https://www.coindesk.com/business/2022/02/03/jump-trading-backstops-wormholes-320m-exploit-loss-sources/)
 - [The 10 Biggest Bank Robberies of All Time](https://moneywise.com/life/entertainment/the-biggest-bank-robberies-of-all-time)
+- [Wormhole hit by exploit, etc. – Amy Castor](https://amycastor.com/2022/02/05/news-wormhole-hit-by-exploit-bayc-and-its-tangled-celebrity-web-hitpieces-dirty-dealings/)
 
 ### Ecosystem - Hackers
 
