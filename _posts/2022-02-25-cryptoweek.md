@@ -6,7 +6,7 @@ subtitle: "Il commento alle crypto-news della settimana"
 author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
-youtube: BL9lCwRb1LA
+youtube: xYt3waw1GBI
 published: false
 cryptoweek: true
 podcast:
