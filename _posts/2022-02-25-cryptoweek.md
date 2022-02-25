@@ -28,13 +28,13 @@ banner:
 - [Block reports $1.96 billion in bitcoin sales via Cash App during fourth quarter of 2021 - theblockcrypto](https://www.theblockcrypto.com/post/135378/block-q4-2021-bitcoin-cash-app-earnings)
 - [Block's Bitcoin Revenue From Cash App Hit Nearly $2 Billion in Q4 - Decrypt](https://decrypt.co/93793/block-bitcoin-earnings-cash-app-hit-nearly-2-billion-q4)
 - [4Q21 Shareholder Letter - Block](https://s29.q4cdn.com/628966176/files/doc_financials/2021/q4/4Q21-Shareholder-Letter_Block.pdf)
-- [Coinbase Beats Q4 Estimates, but Shares Fall on Outlook](https://www.coindesk.com/business/2022/02/24/coinbase-beats-q4-estimates-but-shares-fall-on-outlook)
+- [Coinbase Beats Q4 Estimates, but Shares Fall on Outlook - coindesk](https://www.coindesk.com/business/2022/02/24/coinbase-beats-q4-estimates-but-shares-fall-on-outlook)
 - [Coinbase earned $2.5 billion in net revenue during 2021's fourth quarter - theblockcrypto](https://www.theblockcrypto.com/post/135383/coinbase-q4-2021-earnings-revenue)
 
 ### Ecosystem - BNY Mellon
 
 - [BNY Mellon plots launch of crypto custody platform - City AM](https://www.cityam.com/exclusive-bny-mellon-plots-launch-of-crypto-custody-platform/)
-- [More than three-quarters of surveyed family offices see benefit in crypto, BNY Mellon Wealth Management survey find - theblockcryptos](https://www.theblockcrypto.com/linked/135196/more-than-three-quarters-of-surveyed-family-offices-see-benefit-in-crypto-bny-mellon-survey-finds)
+- [Family offices see benefit in crypto, BNY Mellon Wealth Management survey find - theblockcryptos](https://www.theblockcrypto.com/linked/135196/more-than-three-quarters-of-surveyed-family-offices-see-benefit-in-crypto-bny-mellon-survey-finds)
 
 ### Ecosystem - The DAO
 
