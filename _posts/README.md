@@ -30,13 +30,10 @@ permalink: /cryptoweekinternal/
 * Website: rivedere le news (Nando)
 * Podcast
   * estrarre il file audio dal live su Streamyard utilizzando la funzione "download recording"
-  * Creare un nuovo episodio podcast sulla piattaforma Buzzsprout (credenziali condivise da Paolo) specificando titolo e descrizione
-  * caricare il file audio all'episodio appena creato
-  * inserire la brand mention nell'episodio podcast appena creato (selezionare CheckSig)
-  * selezionare la funzione "Embed this ONE episode dell'episodio podcast appena creato; quindi copiare il numero id ed il link del campo src
-  * Inserire i dati copiati rispettivamente nei campi podcast.id e podcast.src del file .md della cryptoweek appena conclusasi.
-* Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (DGI, CS, Ferdinando), YouTube (DGI, Ferdinando), LinkedIn (CS), Twitter (CS e Ferdinando)
-  * titolo: CryptoWeek #57 (11 marzo 2022)
+  * caricare il file audio nell'episodio già creato in precedenza e pubblicare
+  * Creare un nuovo episodio podcast
+* Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (CS, Ferdinando), YouTube (DGI, Ferdinando, CheckSig), LinkedIn (CS), Twitter (CS e Ferdinando)
+  * titolo: CryptoWeek #58 (18 marzo 2022)
   * descrizione: Bitcoin, crypto-asset e blockchain: le notizie della settimana commentate da Ferdinando M. Ametrano. www.dgi.io/cryptoweek
   * foto: thumb con specific date da recuperare nella cartella "post" del repository
   * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2022/03/11/cryptoweek
@@ -48,12 +45,14 @@ permalink: /cryptoweekinternal/
   * Nella playlist "CryptoWeek" selezionare "Edit Playlist" dal menù ad hamburger
   * Cliccare "Add Videos"
   * Fleggare il video del nuovo live e per confermare cliccare su "Add Video".)
-* YouTube: aggiornare nuovo video
+* YouTube: aggiornare nuovo video (solo CS)
+  * consentire/flaggare "Allow embedding"
   * lasciare il nuovo prossimo livestream come "non adatto ai bambini"
   * NON aggiungere il video alla playlist "CryptoWeek"
 * Website: creare il post del CryptoWeek della settimana successiva
   * incrementare il #
   * corregere il link YouTube
+  * corregere il link podcast
   * published: false
   * cryptoweek: true
   * podcast.id: eliminare il numero
