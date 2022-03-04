@@ -22,10 +22,9 @@ banner:
 
 - [Bitcoin booms as the rouble tumbles: What role is crypto playing in the Ukraine war? - Euronews](https://www.euronews.com/next/2022/03/02/bitcoin-overtakes-flatlining-rouble-as-a-more-valuable-currency-as-russia-sanctions-bite)
 - [Bitcoin Price Jumps as Demand in Ukraine and Russia Booms - WSJ](https://www.wsj.com/articles/bitcoin-demand-booms-in-ukraine-and-russia-11646165756)
-- [Coinbase Says Crypto Markets Resilient After Russian Invasion of Ukraine - Coindesk](https://www.coindesk.com/markets/2022/03/04/coinbase-says-crypto-markets-resilient-after-russian-invasion-of-ukraine/)
 - [Mike Novogratz: Russia-Ukraine War Will Boost Crypto Adoption - cryptopotato](https://cryptopotato.com/mike-novogratz-russia-ukraine-war-will-boost-crypto-adoption-and-dollar-marginalization)
-- [Cryptoverse: Bitcoin gains conflict currency credentials - Reuters](https://www.reuters.com/markets/europe/cryptoverse-bitcoin-gains-conflict-currency-credentials-2022-03-01/)
 - [Bill Miller on Russia - Twitter](https://twitter.com/SquawkCNBC/status/1499019991018000388)
+- [Cryptoverse: Bitcoin gains conflict currency credentials - Reuters](https://www.reuters.com/markets/europe/cryptoverse-bitcoin-gains-conflict-currency-credentials-2022-03-01/)
 
 ### Ecosystem - US Sanction
 
@@ -34,7 +33,6 @@ banner:
 - [NYDFS looks to crypto tools to help enforce sanctions against Russia - theblockcrypto](https://www.theblockcrypto.com/linked/136140/nydfs-looks-to-crypto-tools-to-help-enforce-sanctions-against-russia)
 - [Brian Armstrong on US sanctions - Twitter](https://twitter.com/brian_armstrong/status/1499621509651787782)
 - [Chainalysis on US sanctions - Twitter](https://twitter.com/chainalysis/status/1497344008212856847)
-- [OpenSea Bars Iranian Users as US Sanctions Talk Ramps Up - Coindesk](https://www.coindesk.com/policy/2022/03/03/opensea-bars-iranian-users-as-us-sanctions-talk-ramps-up/)
 
 ### Regulation - US
 
@@ -50,8 +48,8 @@ banner:
 
 ### Ecosystem - Ukraine and crypto
 
-- [Ukraine Government Cancels Airdrop Ahead of Scheduled Snapshot - Coindesk](https://www.coindesk.com/policy/2022/03/03/ukraine-government-cancels-airdrop-ahead-of-scheduled-snapshot/)
 - [Mykhailo Fedorov on Ukraine - Twitter](https://twitter.com/FedorovMykhailo/status/1499348177002151937)
+- [Ukraine Government Cancels Airdrop Ahead of Scheduled Snapshot - Coindesk](https://www.coindesk.com/policy/2022/03/03/ukraine-government-cancels-airdrop-ahead-of-scheduled-snapshot/)
 
 ### Ecosystem - Infura
 
@@ -76,14 +74,13 @@ banner:
 ### Regulation - EU
 
 - [EU Lawmakers Drop Bitcoin 'Ban' From Draft of Crypto Regulations - Decrypt](https://decrypt.co/94157/eu-lawmakers-drop-bitcoin-ban-draft-crypto-regulations)
-- [European Parliament delays vote on crypto assets bill over proof-of-work debate - theblockcrypto](https://www.theblockcrypto.com/post/135459/european-parliament-delays-vote-on-crypto-assets-bill-over-proof-of-work-debate)
 - [The European Union Is No Longer Banning Bitcoin and Other PoW-based Assets - cryptopotato](https://cryptopotato.com/the-european-union-is-no-longer-banning-bitcoin-and-other-pow-based-assets)
+- [European Parliament delays vote on crypto assets bill over proof-of-work debate - theblockcrypto](https://www.theblockcrypto.com/post/135459/european-parliament-delays-vote-on-crypto-assets-bill-over-proof-of-work-debate)
 
 ### Reports
 
-- [- Kraken](https://kraken.docsend.com/view/rn8dnbaiuja9rmf7)
+- [February 2022 Crypto On-Chain Digest - Kraken](https://kraken.docsend.com/view/rn8dnbaiuja9rmf7)
 - [Outlook Cryptos March 2022 - Bloomberg](https://assets.bbhub.io/professional/sites/10/1666154_BloombergCryptoOutlookMarch2022.pdf)
-- [SEC Scrutinizes NFT Market Over Illegal Crypto Token Offerings - Bloomberg](https://www.bloomberg.com/news/articles/2022-03-02/sec-scrutinizes-nft-market-over-illegal-crypto-token-offerings)
 
 ### Ecosystem - Crypto-crime
 
@@ -106,5 +103,4 @@ banner:
 
 ### Digital Gold Institute
 
-- [News from DGI](https://dgi.io/news/)
 - [DGI Events](https://dgi.io/events/)
