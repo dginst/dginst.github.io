@@ -82,7 +82,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20220127-Logo-CryptoCoinference-white.png
+    main: 20220505-cryptocoinference.jog
     size: 200
     thumb: 
   eventfeed: true
@@ -105,7 +105,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20220406-bitcoin-conference.png
+    main: 20220406-bitcoin-conference.jpg
     size: 200
     thumb: 
   eventfeed: true
