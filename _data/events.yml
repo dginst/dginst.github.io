@@ -111,6 +111,29 @@
   eventfeed: true
   published: true
 
+- title: "Bitcoin: rischi e opportunità"
+  subtitle: Alla frontiera dell'innovazione digitale e dell'allocazione patrimoniale
+  lang: it
+  city: online
+  date: 2022-03-22
+  date2:
+  hours: 15:00-16:30
+  organizer: Associazione Italiana Tesorieri d'Impresa (AITI)
+  address:
+    text: webinar
+    url:
+  info:
+    text: Iscrizioni e programma
+    url: https://www.aiti.it/eventi/bitcoin/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220322-aiti.jpeg
+    size: 200
+    thumb:
+  eventfeed: true
+  published: true
+
 - title: "The Crypto Night Show 2022"
   subtitle: Quattro players istituzionali a confronto
   lang: it
