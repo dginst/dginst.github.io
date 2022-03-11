@@ -26,8 +26,8 @@ banner:
 - [Biden’s crypto order will spark new bull market, says Bitwise’s Matt Hougan: CNBC Crypto World - YouTube](https://www.youtube.com/watch?v=8GiPTy0-iTY)
 - [President Biden to Sign Executive Order on Ensuring Responsible Development of Digital Assets - The White House](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/fact-sheet-president-biden-to-sign-executive-order-on-ensuring-responsible-innovation-in-digital-assets/)
 - [Statement by Janet L. Yellen on President Biden's Executive Order - U.S. Department of the Treasury](https://web.archive.org/web/20220309014601/https://home.treasury.gov/news/press-releases/jy0643)
-- [Biden Issues Long-Awaited US Executive Order on Crypto](https://www.coindesk.com/policy/2022/03/09/biden-issues-long-awaited-executive-order-on-crypto/)
 - [Janet Yellen says Biden's crypto executive order supports 'responsible innovation'](https://www.theblockcrypto.com/linked/136883/janet-yellen-says-bidens-crypto-executive-order-supports-responsible-innovation)
+- [Biden Issues Long-Awaited US Executive Order on Crypto](https://www.coindesk.com/policy/2022/03/09/biden-issues-long-awaited-executive-order-on-crypto/)
 
 ### Ecosystem - South Korea
 

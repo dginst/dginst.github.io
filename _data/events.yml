@@ -2,13 +2,13 @@
   subtitle: "Il commento alle news crypto della settimana a cura di Ferdinando M. Ametrano."
   lang: it
   city: online
-  date: 2022-03-11
+  date: 2022-03-18
   date2:
   hours: 18:00-18:45
   organizer: Digital Gold Institute
   address:
     text: live streaming
-    url: https://youtu.be/HFEBV9DvOY0
+    url: https://youtu.be/Jjd_AyGasUA
   info:
     text: pagina CryptoWeek
     url: https://dgi.io/cryptoweek
@@ -29,7 +29,7 @@
   date2: 2022-03-16
   hours: 09:30-17:00
   organizer: Digital Gold Institute
-  address: 
+  address:
     text: live streaming e Via G.B. Pirelli 11, Milano
   info:
     text: programma e registrazione
@@ -51,12 +51,12 @@
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
-  address: 
+  address:
     text: live streaming
     url: https://dgi.io/reports
   info:
     text: presto disponibili
-    url: 
+    url:
   discount_code:
   discount_code_publish:
   image:
@@ -73,7 +73,7 @@
   date: 2022-05-06
   hours: 9:30-18:00
   organizer: Crypto Coinference
-  address: 
+  address:
     text: TBD
     url:
   info:
@@ -84,7 +84,7 @@
   image:
     main: 20220505-cryptocoinference.jpg
     size: 200
-    thumb: 
+    thumb:
   eventfeed: true
   published: true
 
@@ -96,7 +96,7 @@
   date2: 2022-04-09
   hours: 9:30-18:00
   organizer: Bitcoin 2022 Conference
-  address: 
+  address:
     text: TBD
     url:
   info:
@@ -107,7 +107,7 @@
   image:
     main: 20220406-bitcoin-conference.jpg
     size: 200
-    thumb: 
+    thumb:
   eventfeed: true
   published: true
 
@@ -119,7 +119,7 @@
   date2:
   hours: 21:30-23:00
   organizer: Eugenio Benetazzo
-  address: 
+  address:
     text: live streaming
     url: https://www.youtube.com/watch?v=0KO3Dvo1MiQ
   info:
@@ -130,7 +130,7 @@
   image:
     main: 20220309-benetazzo.png
     size: 200
-    thumb: 
+    thumb:
   eventfeed: true
   published: true
 
@@ -142,7 +142,7 @@
   date2:
   hours: 12:00-12:25
   organizer: Crypto Coinference
-  address: 
+  address:
     text: live streaming
     url:
   info:
@@ -153,7 +153,7 @@
   image:
     main: 20220127-Logo-CryptoCoinference-white.png
     size: 200
-    thumb: 
+    thumb:
   eventfeed: true
   published: true
 
@@ -165,7 +165,7 @@
   date2:
   hours: 18:00-18:45
   organizer: Eugenio Benetazzo
-  address: 
+  address:
     text: live streaming
     url: https://www.youtube.com/watch?v=Rd5EGS5dVLE
   info:
@@ -176,7 +176,7 @@
   image:
     main: 20220125-benetazzo.png
     size: 200
-    thumb: 
+    thumb:
   eventfeed: true
   published: true
 
@@ -188,11 +188,11 @@
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
-  address: 
+  address:
     text: live streaming
     url: https://dgi.io/reports
   info:
-    text: 
+    text:
     url: http://dgi.io/docs/reports/2021Q4-agenda.pdf
   discount_code:
   discount_code_publish:
@@ -211,7 +211,7 @@
   date2:
   hours: 09:00-19:00
   organizer: Banca d'Italia - Sede di Catania
-  address: 
+  address:
     text: live streaming YouTube
     url: https://youtu.be/vARb612Q144&t=5941s
   info:
@@ -222,7 +222,7 @@
   image:
     main: 20211217-bancaditalia.jpg
     size: 200
-    thumb: 
+    thumb:
   eventfeed: false
   published: true
 
@@ -234,8 +234,8 @@
   date2: 2021-12-16
   hours: 09:30-17:00
   organizer: Digital Gold Institute
-  address: 
-    text: "Via Giovanni Battista Pirelli 11, 20124 Milano" 
+  address:
+    text: "Via Giovanni Battista Pirelli 11, 20124 Milano"
   info:
     text: programma e registrazione
     url: https://dgi.io/workshop
@@ -254,11 +254,11 @@
   city: online
   date: 2021-11-04
   date2: 2021-11-05
-  hours: 
+  hours:
   organizer: Crypto Asset Lab with Digital Gold Institute, European Commission, and University of Milano-Bicocca
-  address: 
+  address:
     text: "in person (Milan) and live streaming"
-    url: 
+    url:
   info:
     text: conference web-page
     url: https://cryptoassetlab.diseade.unimib.it/calconf/
@@ -279,7 +279,7 @@
   date2:
   hours: 18:00-19:00
   organizer: Andrea Lombardi - C'è di peggio
-  address: 
+  address:
     text: diretta twitch
     url: https://www.twitch.tv/cedipeggio
   info:
@@ -290,7 +290,7 @@
   image:
     main: 20211013-cedipeggio.jpg
     size: 200
-    thumb: 
+    thumb:
   eventfeed: false
   published: true
 
@@ -302,7 +302,7 @@
   date2:
   hours: 10:30-11:30
   organizer: Digital Gold Institute
-  address: 
+  address:
     text: diretta facebook su @fedcons
     url: https://www.facebook.com/Fedcons/
   info:
@@ -325,7 +325,7 @@
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
-  address: 
+  address:
     text: live streaming
     url: http://dgi.io/reports
   info:
@@ -368,7 +368,7 @@
   city: online
   date: 2021-09-01
   date2: 2021-09-02
-  hours: 
+  hours:
   organizer: Associazione culturale Inschibboleth e Centro ricerche Filosofiche Letterarie e di Scienze Umane di Sassari; in collaborazione con Biblioteca comunale di Castelsardo.
   address:
     text: diretta web
@@ -392,7 +392,7 @@
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
-  address: 
+  address:
     text: live streaming
     url: https://youtu.be/RP3Pd0aKous
   info:
@@ -419,16 +419,16 @@
     text: Youtube streaming
     url: https://youtu.be/Pz1h77h3G4M
   info:
-    text: Locandina 
+    text: Locandina
     url: http://dgi.io/docs/20210625-cc-marcello-candia.pdf
   discount_code:
   discount_code_publish:
   image:
     main: 20210625-cc-marcello-candia.jpg
     size: 200
-    thumb: 
+    thumb:
   eventfeed: false
-  published: true  
+  published: true
 
 - title: "La custodia dei cripto-asset nel sistema finanziario"
   subtitle: "Business stories with “law”"
@@ -447,9 +447,9 @@
   image:
     main: 20210624-refink.png
     size: 200
-    thumb: 
+    thumb:
   eventfeed: false
-  published: true  
+  published: true
 
 - title: "Workshop Bitcoin & Blockchain"
   subtitle: Training su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract, crittografia; analisi e applicazioni per i protagonisti di industria e informazione.
@@ -461,7 +461,7 @@
   organizer: Digital Gold Institute
   address: webinar
   info:
-    text: La registrazione è chiusa, consulta le prossime date. 
+    text: La registrazione è chiusa, consulta le prossime date.
     url: https://dgi.io/workshop
   discount_code:
   discount_code_publish:
@@ -471,7 +471,7 @@
     thumb: 20210126-workshop-thumb.jpg
   eventfeed: false
   published: true
-  
+
 - title: "Bitcoin: stato attuale e sviluppi futuri"
   subtitle: Webinar con Ferdinando M. Ametrano e Fabrizio Villani
   lang: it
@@ -488,7 +488,7 @@
   image:
     main: 20210623-scenari-fintech.jpg
     size: 200
-    thumb: 
+    thumb:
   eventfeed: false
   published: true
 
@@ -511,7 +511,7 @@
     size: 200
     thumb: 20210617-lions-club-thumb.png
   eventfeed: true
-  published: true 
+  published: true
 
 - title: "Validazione temporale a lungo termine e Blockchain"
   subtitle: "Un confronto tra Emanuele Cisbani e Ferdinando M. Ametrano sugli sviluppi tecnologici del settore"
@@ -532,8 +532,8 @@
     size: 200
     thumb: 20210527-webinar-thumb.png
   eventfeed: false
-  published: true  
-  
+  published: true
+
 - title: "Allianz Bank Business Forum 2021"
   subtitle: "Valute digitali: pubbliche e private – scontro di signoraggio"
   lang: it
@@ -563,7 +563,7 @@
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
-  address: 
+  address:
     text: live streaming
     url: https://www.youtube.com/watch?v=pgAlv1ufZdk
   info:
@@ -604,7 +604,7 @@
   lang: it
   city: online
   date: 2021-03-26
-  date2: 
+  date2:
   hours: 10:00-12:30
   organizer: Parlamento europeo
   address: live streaming
@@ -620,12 +620,12 @@
   eventfeed: false
   published: true
 
-- title:  "Alla frontiera degli standard monetari"
+- title: "Alla frontiera degli standard monetari"
   subtitle: Tra Bitcoin, Libra e Euro digitale
   lang: it
   city: online
   date: 2021-03-25
-  date2: 
+  date2:
   hours: 14:30-16:30
   organizer: ibicocca
   address: live streaming
@@ -649,7 +649,7 @@
   date2:
   hours: 13:00-15:00
   organizer: Centro di ricerca Paolo Ferro-Luzzi
-  address: online 
+  address: online
   info:
     text: programma e registrazione
     url: http://dgi.io/docs/20210312-webinar-moneta-digitale-e-dintorni.pdf
@@ -670,7 +670,7 @@
   date2:
   hours: 15:30-16:30
   organizer: IISFA - Associazione Italiana Digital Forensics
-  address: online 
+  address: online
   info:
     text: informazioni
     url: http://iisfa.it
@@ -710,9 +710,9 @@
   city: Milano
   date: 2021-01-26
   date2: 2021-01-27
-  hours: 
+  hours:
   organizer: Digital Gold Institute
-  address: 
+  address:
   info:
     text: programma e registrazione
     url: https://dgi.io/workshop
@@ -731,9 +731,9 @@
   city: Milano
   date: 2020-11-04
   date2:
-  hours: 
+  hours:
   organizer: CryptoValues
-  address: 
+  address:
   info:
     text: "iscrizioni: info@cryptovalues.eu"
     url: https://cryptovalues.eu/events/4-5-novembre-2020-cryptovalues-corso-introduttivo
@@ -754,7 +754,7 @@
   date2:
   hours: 16:00-18:00
   organizer: Digital Gold Institute
-  address: 
+  address:
   info:
     text: evento ad invito
     url:
@@ -768,7 +768,7 @@
   published: true
 
 - title: "2nd Crypto Asset Lab Conference"
-  subtitle: 
+  subtitle:
   lang: en
   city: Milan (Italy)
   date: 2020-10-27
@@ -829,7 +829,7 @@
     thumb: 20200915-borsa-italiana-thumb.jpg
   eventfeed: false
   published: true
-  
+
 - title: "Bitcoin e blockchain"
   subtitle: "Introduzione e aspetti tecnici"
   lang: it
@@ -846,20 +846,20 @@
   discount_code_publish:
   image:
     main: 20200721-workshop.jpg
-    size: 
+    size:
     thumb: 20200721-workshop-thumb.jpg
   eventfeed: true
   published: true
-    
+
 - title: "Blockchain Days"
   subtitle:
   lang: it
   city: Online streaming
   date: 2020-07-17
-  date2: 
+  date2:
   hours: 17:30-19:00
   organizer: Associazione BlockchainEdu
-  address: 
+  address:
   info:
     text: dettagli ed iscrizioni nella pagina dedicata
     url: https://www.rinascitadigitale.it/blockchain-days/
@@ -867,7 +867,7 @@
   discount_code_publish:
   image:
     main: 20200717-ben.png
-    size: 
+    size:
     thumb: 20200717-ben-thumb.png
   eventfeed: true
   published: true
@@ -877,18 +877,18 @@
   lang: it
   city: Online streaming
   date: 2020-07-16
-  date2: 
+  date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
   address: Milano
   info:
     text: evento ad invito
-    url: 
+    url:
   discount_code:
   discount_code_publish:
   image:
     main: 20200716-report2020q2.jpg
-    size: 
+    size:
     thumb: 20200716-report2020q2-thumb.jpg
   eventfeed: true
   published: true
@@ -898,10 +898,10 @@
   lang: it
   city: Online streaming
   date: 2020-07-15
-  date2: 
+  date2:
   hours: 14:30-15:30
   organizer: Associazione BlockchainEdu
-  address: 
+  address:
   info:
     text: dettagli ed iscrizioni nella pagina dedicata
     url: https://www.gdf.io/mem_event/gdf-travel-rule-summit/
@@ -909,11 +909,11 @@
   discount_code_publish:
   image:
     main: 20200715-gdf-travel-rule-summit-thumb.png
-    size: 
+    size:
     thumb: 20200715-gdf-travel-rule-summit-thumb.png
   eventfeed: false
   published: true
-  
+
 - title: "Bitcoin e i modelli di custodia dei cryptoasset: tra rischio di frode, AML e perdita di asset"
   subtitle: Modera M. Chiratti<br>Relatori F. Ametrano, A. Medri, D. Varani, A. Berruto
   lang: it
@@ -922,7 +922,7 @@
   date2:
   hours: 17:30-19:00
   organizer: A&C Law
-  address: Zoom meeting 
+  address: Zoom meeting
   info:
     text: Agenda e registrazione disponibili qui
     url: http://dgi.io/docs/20200625-bitcoin-e-custodia.pdf
@@ -930,11 +930,11 @@
   discount_code_publish:
   image:
     main: 2020-06-25-bitcoin-e-custodia.jpg
-    size: 
+    size:
     thumb: 2020-06-25-bitcoin-e-custodia-thumb.jpg
   eventfeed: true
   published: true
-  
+
 - title: "Bitcoin, criptovalute e risparmio gestito: asset eligible anche per Fondi e gestioni di portafoglio?"
   subtitle: Modera M.Chiratti<br>Relatori F. Ametrano, A. Conso, A. Medri, F. Berneri, F. Frontini
   lang: it
@@ -943,15 +943,15 @@
   date2:
   hours: 17:30-19:00
   organizer: A&C Law
-  address: Zoom meeting 
+  address: Zoom meeting
   info:
-    text: Agenda e registrazione disponibili qui    
+    text: Agenda e registrazione disponibili qui
     url: http://dgi.io/docs/20200611-bitcoin-e-risparmio-gestito.pdf
   discount_code:
   discount_code_publish:
   image:
     main: 2020-06-11-bitcoin-e-risparmio-gestito.jpg
-    size: 
+    size:
     thumb: 2020-06-11-bitcoin-e-risparmio-gestito-thumb.jpg
   eventfeed: true
   published: false
@@ -964,7 +964,7 @@
   date2:
   hours: 17:30-19:00
   organizer: A&C Law
-  address: Zoom meeting 
+  address: Zoom meeting
   info:
     text: Agenda e registrazione disponibili qui
     url: http://dgi.io/docs/20200604-bitcoin-e-normativa-tedesca.pdf
@@ -972,7 +972,7 @@
   discount_code_publish:
   image:
     main: 2020-06-04-bitcoin-e-normativa-tedesca.jpg
-    size: 
+    size:
     thumb: 2020-06-04-bitcoin-e-normativa-tedesca-thumb.jpg
   eventfeed: true
   published: true
@@ -993,7 +993,7 @@
   discount_code_publish:
   image:
     main: 20200514-tesi-avigni.jpg
-    size: 
+    size:
     thumb: 20200514-tesi-avigni-thumb.jpg
   eventfeed: true
   published: true
@@ -1014,7 +1014,7 @@
   discount_code_publish:
   image:
     main:
-    size: 
+    size:
     thumb:
   eventfeed: false
   published: false
@@ -1033,7 +1033,7 @@
     url: http://dgi.io/workshop
   image:
     main: 20200421-eventbrite-streaming.png
-    size: 
+    size:
     thumb:
   eventfeed: false
   published: true
@@ -1054,13 +1054,13 @@
   discount_code_publish:
   image:
     main:
-    size: 
+    size:
     thumb:
   eventfeed: false
   published: false
 
 - title: "Presentazione del Report 2020-Q1"
-  subtitle: 
+  subtitle:
   lang: it
   city: Live streaming
   date: 2020-04-17
@@ -1100,7 +1100,7 @@
     thumb: 20200311-virtual-bitcoin-meetup-thumb.jpg
   eventfeed: true
   published: true
-  
+
 - title: "Bitcoin Venezia Meetup | Re-Start"
   subtitle: Evento RIMANDATO A DATA DA STABILIRSI in seguito all'ordinanza del Ministero della Salute e della Regione del Veneto
   lang: it
@@ -1123,7 +1123,7 @@
   published: false
 
 - title: "Blockchain: l'innovazione parte dalle Università"
-  subtitle: Evento RIMANDATO A DATA DA STABILIRSI 
+  subtitle: Evento RIMANDATO A DATA DA STABILIRSI
   lang: it
   city: Roma
   date: 2020-02-25
@@ -1180,7 +1180,7 @@
   discount_code_publish:
   image:
     main:
-    size: 
+    size:
     thumb:
   eventfeed: false
   published: true
@@ -1201,7 +1201,7 @@
   discount_code_publish:
   image:
     main: 20200610-cal2020.png
-    size: 
+    size:
     thumb:
   eventfeed: false
   published: true
