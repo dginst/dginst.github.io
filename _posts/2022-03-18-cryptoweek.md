@@ -24,7 +24,11 @@ banner:
 - [EU proposal seen as de facto Bitcoin ban fails in vote - Al Jazeera](https://www.aljazeera.com/economy/2022/3/14/crypto-eu-proposal-seen-as-de-facto-bitcoin-ban-fails-in-vote)
 - [EU's Sweeping Crypto Regulations Package One Step Closer to Ratification](https://www.coindesk.com/policy/2022/03/14/eus-sweeping-crypto-regulations-package-one-step-closer-to-ratification/)
 - [Ferdinando M. Ametrano - Twitter](https://twitter.com/Ferdinando1970/status/1503119967578902529)
+
+### Regulation - EU warning
+
 - [EU Regulators Warn Consumers That Crypto Assets Are 'Highly Risky'](https://www.coindesk.com/policy/2022/03/17/eu-regulators-warn-consumers-that-crypto-assets-are-highly-risky/)
+- [EU financial regulators warn consumers on the risks of crypto-assets - EBA](https://www.eba.europa.eu/eu-financial-regulators-warn-consumers-risks-crypto-assets)
 
 ### Regulation - UK
 
@@ -64,6 +68,8 @@ banner:
 - [Mark Zuckerberg Says NFTs Are Coming Soon to Instagram](https://www.coindesk.com/business/2022/03/15/mark-zuckerberg-says-nfts-are-coming-soon-to-instagram/)
 - [Rarible Bests OpenSea on Multi-Chain Support With Addition of Polygon NFTs](https://www.coindesk.com/business/2022/03/17/rarible-bests-opensea-on-multi-chain-support-with-addition-of-polygon-nfts/)
 - [Bored Ape Yacht Club - Twitter](https://twitter.com/BoredApeYC/status/1504202508633362436)
+- [Artnet News: ‘The Creators of Bored Ape Yacht Club Want to Become the Amazon of the NFT Space. Can They Pull It Off?’ – Amy Castor](https://amycastor.com/2022/03/14/artnet-news-the-creators-of-bored-ape-yacht-club-want-to-become-the-amazon-of-the-nft-space-can-they-pull-it-off)
+- [Bored Apes Yacht Club launches Apecoin. It looks like an unregistered penny stock offering   – Amy Castor](https://amycastor.com/2022/03/17/bored-apes-yacht-club-launches-apecoin-it-looks-like-an-unregistered-penny-stock-offering)
 
 ### Ecosystem - Metamask and Consensys
 
