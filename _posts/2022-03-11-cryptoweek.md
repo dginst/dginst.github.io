@@ -41,7 +41,7 @@ banner:
 - [Dubai introduces new crypto law, establishes regulatory authority for oversight - BusinessToday](https://www.businesstoday.in/crypto/story/dubai-introduces-new-crypto-law-establishes-regulatory-authority-for-oversight-325409-2022-03-10)
 - [HH Sheikh Mohammed on Dubai Virtual Assets Regulatory Authority - Twitter](https://twitter.com/HHShkMohd/status/1501566703322513408)
 
-### Ecosystem - EU and MiCA
+### Regulation - EU and MiCA
 
 - [European Parliament will hold vote on crypto bill without PoW provision - cointelegraph](https://cointelegraph.com/news/european-parliament-will-hold-vote-on-crypto-bill-without-pow-provision)
 
