@@ -33,8 +33,8 @@ permalink: /cryptoweekinternal/
   * caricare il file audio nell'episodio già creato in precedenza e pubblicare
   * Creare un nuovo episodio podcast
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook (CS, Ferdinando), YouTube (DGI, Ferdinando, CheckSig), LinkedIn (CS), Twitter (CS e Ferdinando)
-  * titolo: CryptoWeek #60 (1 aprile 2022)
-  * descrizione: Il commento di Ferdinando Ametrano alle crypto-news della settimana: ogni venerdì alle 18:00 in live-streaming su YouTube, LinkedIn, Facebook e Twitter; subito dopo, anche podcast. checksig.com/it/cryptoweek
+  * titolo: CryptoWeek #61 (8 aprile 2022)
+  * descrizione: Il commento di Ferdinando Ametrano alle crypto-news della settimana: ogni venerdì alle 18:00 in live-streaming su YouTube, LinkedIn, Facebook e Twitter; subito dopo, anche podcast.  checksig.com/it/cryptoweek
   * foto: dginst.github.io/img/events/2022-cryptoweek.jpg
   * banner: I link alle notizie presentate sono nella pagina www.dgi.io/2022/03/11/cryptoweek
 * LinkedIn: aggiungere speaker e descrizione all'evento dedicato
