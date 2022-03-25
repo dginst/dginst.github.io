@@ -2,7 +2,7 @@
 layout: cryptoweek
 comments: false
 title: "CryptoWeek #14 con Carlo Clerici"
-subtitle: "Il commento alle news della settimana" 
+subtitle: "Il commento di Ferdinando Ametrano alle crypto-news della settimana" 
 author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg

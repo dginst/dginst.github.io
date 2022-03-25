@@ -2,7 +2,7 @@
 layout: cryptoweek
 comments: false
 title: "CryptoWeek #44"
-subtitle: "Il commento alle news crypto della settimana" 
+subtitle: "Il commento di Ferdinando Ametrano alle crypto-news della settimana" 
 author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
