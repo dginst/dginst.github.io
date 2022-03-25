@@ -24,6 +24,6 @@ Bitcoin, la prima e tuttora più rilevante tra le criptovalute, ha realizzato un
 Al termine dell’evento pubblico è seguito un dibattito riservato
 ([Chatham House Rule](https://it.wikipedia.org/wiki/Chatham_House_Rule)), a cui hanno partecipato oltre centocinquanta esponenti del mondo politico, finanziario, industriale, accademico, consulenziale e giornalistico. Gli interventi hanno toccato diversi temi, ma si sono fortemente incentrati sugli NFT, confermandone ilo speciale momento di attenzione e interesse.
 
-Il report DGI è trimestrale: l’edizione del primo trimestre 2022 sarà presentata in anteprima il prossimo 12 aprile. Nel frattempo, gli aggiornamenti settimanali su Bitcoin e dintorni sono ogni venerdì su [CryptoWeek]({{site.baseurl}}/cryptoweek).
+Il report DGI è trimestrale: l’edizione del primo trimestre 2022 sarà presentata in anteprima il prossimo 12 aprile. Nel frattempo, gli aggiornamenti settimanali su Bitcoin e dintorni sono ogni venerdì alle 18:00 su [CryptoWeek]({{site.baseurl}}/cryptoweek).
 
 [Comunicato stampa in pdf]({{site.baseurl}}/docs/20220120-comunicato-stampa-report-dgi.pdf).

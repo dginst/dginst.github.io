@@ -26,6 +26,6 @@ Su questi temi il Digital Gold Institute continua a presiedere l'ecosistema, non
 
 Al termine dell'evento pubblico è seguito un dibattito riservato tra esponenti del mondo politico, finanziario, industriale, accademico, consulenziale e giornalistico.
 
-Il report DGI è trimestrale: l'appuntamento per l'edizione del quarto trimestre 2021 è il prossimo gennaio. Nel frattempo, gli aggiornamenti settimanali su Bitcoin e dintorni sono ogni venerdì su [CryptoWeek](https://dgi.io/cryptoweek).
+Il report DGI è trimestrale: l'appuntamento per l'edizione del quarto trimestre 2021 è il prossimo gennaio. Nel frattempo, gli aggiornamenti settimanali su Bitcoin e dintorni sono ogni venerdì alle 18:00 su [CryptoWeek](https://dgi.io/cryptoweek).
 
 [Comunicato stampa in pdf]({{site.baseurl}}/docs/20211007-comunicato-stampa-report-dgi.pdf).
