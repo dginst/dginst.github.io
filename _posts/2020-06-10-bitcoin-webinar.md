@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-Abbiamo il piacere di invitarvi al webinar "**Bitcoin, criptovalute e risparmio gestito: asset _eligible_ anche per Fondi e gestioni di portafoglio?**" organizzato dai nostri partner [A&C Law](https://aclaw.eu/it/home/), [CryptoValues](https://cryptovalues.eu//) e [CheckSig](https:/checksig.com/) che si terrà domani, giovedì 11 giugno 2020,
+Abbiamo il piacere di invitarvi al webinar "**Bitcoin, criptovalute e risparmio gestito: asset _eligible_ anche per Fondi e gestioni di portafoglio?**" organizzato dai nostri partner [A&C Law](https://aclaw.eu/it/home/), [CryptoValues](https://cryptovalues.eu//) e [CheckSig](https:/checksig.com/it) che si terrà domani, giovedì 11 giugno 2020,
 dalle 17:30 alle 19:00 in modalità live streaming.  
 
 Derivati ed Exchange Traded Commodities hanno dimostrato come Bitcoin (al pari di altre crypto) possano rappresentare un asset di riferimento utile anche per la strutturazione di nuovi strumenti finanziari.
