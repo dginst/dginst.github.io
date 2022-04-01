@@ -29,7 +29,7 @@ banner:
 ### Regulation - UK
 
 - [UK Set to Disclose Plans for Regulating Crypto in Coming Weeks - coindesk](https://www.coindesk.com/business/2022/03/27/uk-set-to-disclose-plans-for-regulating-crypto-in-coming-weeks-cnbc)
-- [Cryptoassets: AML / CTF regime - FCA](https://www.fca.org.uk/firms/financial-crime/cryptoassets-aml-ctf-regime#revisions)
+- [Cryptoassets: AML / CTF regime - FCA](https://www.fca.org.uk/firms/financial-crime/cryptoassets-aml-ctf-regime)
 
 ### Regulation - EU
 
@@ -43,7 +43,6 @@ banner:
 
 ### Regulation - US
 
-- [Crypto Regulation in Europe Is Getting Messy. What's Next in the U.S. - Barron's](https://www.barrons.com/articles/cryptocurrency-regulation-bitcoin-51648668180)
 - [U.S. SEC says crypto safekeeping arrangements should be treated as liability - Reuters](https://www.reuters.com/business/finance/us-sec-says-crypto-safekeeping-arrangements-should-be-treated-liability-2022-03-31)
 - [The SEC's New Proposal to Redefine 'Dealer' Could Spell Bad News for DeFi - coindesk](https://www.coindesk.com/policy/2022/03/28/the-secs-new-proposal-to-redefine-dealer-could-spell-bad-news-for-defi/)
 - [Treasury wants more reporting to the IRS on offshore crypto accounts - theblockcrypto](https://www.theblockcrypto.com/linked/139624/treasury-wants-more-reporting-to-the-irs-on-offshore-crypto-accounts)
