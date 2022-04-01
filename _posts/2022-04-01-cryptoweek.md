@@ -39,6 +39,7 @@ banner:
 - [EU Parliament approves rules targeting transfers to unhosted crypto wallets](https://www.theblockcrypto.com/linked/140034/eu-parliament-approves-rules-targeting-transfers-to-unhosted-crypto-wallets)
 - [EU Parliament Passes Privacy-Busting Crypto Rules Despite Industry Criticism](https://www.coindesk.com/policy/2022/03/31/eu-parliament-votes-on-privacy-busting-crypto-rules-industry-rails-against-proposals)
 - [EU Passes Law to ‘Rein In’ Big Tech’s Domination Over Smaller Players](https://www.coindesk.com/policy/2022/03/25/eu-passes-law-to-rein-in-big-techs-domination-over-smaller-players)
+- [ECB Official Calls for ‘Less Tolerant’ Approach to Bitcoin ‘Gambling’](https://www.coindesk.com/policy/2022/03/30/ecb-official-calls-for-less-tolerant-approach-to-bitcoin-gambling)
 
 ### Regulation - US
 
