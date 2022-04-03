@@ -88,20 +88,20 @@
   eventfeed: true
   published: true
 
-- title: "Your Coins, Safe and Easy."
+- title: "Institutional Custody Challenges"
   subtitle: "Bitcoin custody and solutions for private and institutional investors."
   lang: en
   city: Miami
   date: 2022-04-06
-  date2: 2022-04-09
-  hours: 9:30-18:00
+  date2:
+  hours: 16:45-17:25 (UTC+2)
   organizer: Bitcoin 2022 Conference
   address:
     text: TBD
     url:
   info:
     text: program
-    url: https://b.tc/conference
+    url: https://b.tc/conference/agenda?eventId%5Bundefined%5D=8fa0877f-ecce-4e26-86a1-23110fc37d0f
   discount_code:
   discount_code_publish:
   image:
