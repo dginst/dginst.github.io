@@ -10,8 +10,7 @@ youtube: cWLIYVkZECc
 published: true
 cryptoweek: true
 podcast:
-    id: buzzsprout-player-8217722
-    src: https://www.buzzsprout.com/1686991/8217722-cryptoweek-7-26-marzo-2021.js?container_id=buzzsprout-player-8217722&player=small
+    id: 8217722
 ---
 ### CBDC
 

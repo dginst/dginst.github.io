@@ -10,8 +10,7 @@ youtube: AJZIAN-TNDQ
 published: true
 cryptoweek: true
 podcast:
-    id: buzzsprout-player-8129122
-    src: https://www.buzzsprout.com/1686991/8129122-cryptoweek-5-12-marzo-2021.js?container_id=buzzsprout-player-8129122&player=small
+    id: 8129122
 ---
 ### JPMorgan
 

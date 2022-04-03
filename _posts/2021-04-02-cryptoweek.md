@@ -10,8 +10,7 @@ youtube: L7xo8xIHKYo
 published: true
 cryptoweek: true
 podcast:
-    id: buzzsprout-player-8261625
-    src: https://www.buzzsprout.com/1686991/8261625-crytpoweek-8-2-aprile-2021.js?container_id=buzzsprout-player-8261625&player=small
+    id: 8261625
 ---
 ### Payments
 

@@ -10,8 +10,7 @@ youtube: 6SVoSmLxNhM
 published: true
 cryptoweek: true
 podcast:
-    id: buzzsprout-player-8083493
-    src: https://www.buzzsprout.com/1686991/8083493-cryptoweek-4-5-marzo-2021.js?container_id=buzzsprout-player-8083493&player=small
+    id: 8083493
 ---
 ### Bitcoin
 

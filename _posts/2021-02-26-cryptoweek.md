@@ -10,8 +10,7 @@ youtube: DAQlSecIwd8
 published: true
 cryptoweek: true
 podcast:
-    id: buzzsprout-player-8035698
-    src: https://www.buzzsprout.com/1686991/8035698-cryptoweek-3-26-febbraio-2021.js?container_id=buzzsprout-player-8035698&player=small
+    id: 8035698
 ---
 ### Elon Musk
 
