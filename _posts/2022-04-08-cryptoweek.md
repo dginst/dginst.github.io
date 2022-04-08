@@ -35,7 +35,6 @@ banner:
 - [Lightning Labs unveils new protocol for Lightning Network stablecoins as it raises $70 million](https://www.theblockcrypto.com/post/140560/lightning-labs-taro-protocol-stablecoins-fundraise)
 - [Lightning Labs Raises $70M to Bring Stablecoins to Bitcoin](https://www.coindesk.com/business/2022/04/05/lightning-labs-raises-70m-to-bring-stablecoins-to-bitcoin)
 - [Number of People Go Up, or Bitcoin as the World’s Protocol of Value - Lightning Labs Medium](https://medium.com/@lightning_labs/number-of-people-go-up-or-bitcoin-as-the-worlds-protocol-of-value-d1df7cefca37)
-- [Lightning Labs unveils new protocol for Lightning Network stablecoins as it raises $70 million](https://www.theblockcrypto.com/post/140560/lightning-labs-taro-protocol-stablecoins-fundraise)
 
 ### Regulator - US
 
