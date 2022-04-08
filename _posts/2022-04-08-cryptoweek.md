@@ -22,6 +22,7 @@ banner:
 - [Peter Thiel claims ‘finance gerontocracy’ is holding back bitcoin - Financial Times](https://www.ft.com/content/8d832dac-c0da-4c2b-a43f-f98a4aad1a40)
 - [Paypal Co-Founder Peter Thiel - YouTube](https://www.youtube.com/watch?v=ko6K82pXcPA)
 - [Ex-Blockstream Exec Samson Mow Raises $21M for Bitcoin Startup JAN3](https://www.coindesk.com/business/2022/04/07/ex-blockstream-exec-samson-mow-raises-21m-for-bitcoin-startup-jan3)
+- [Global Legislators Announce Pro Bitcoin Legislation - Bitcoin Magazine](https://bitcoinmagazine.com/culture/global-legislators-announce-pro-bitcoin-legislation)
 - [Jack Mallers’ Strike Integrating With World’s Largest PoS Providers - Nasdaq](https://www.nasdaq.com/articles/jack-mallers-strike-integrating-with-worlds-largest-pos-providers-to-enable-sovereign)
 - [Jack Mallers Adding Bitcoin To Major PoS Networks - Bitcoin Magazine](https://bitcoinmagazine.com/industry-events/jack-mallers-adding-bitcoin-to-major-pos-networks)
 - [Jack Mallers’ Strike Announces Shopify Integration for Bitcoin Lightning Payments](https://www.coindesk.com/business/2022/04/07/jack-mallers-strike-announces-shopify-integration-for-bitcoin-lightning-payments)
@@ -35,12 +36,10 @@ banner:
 - [Lightning Labs Raises $70M to Bring Stablecoins to Bitcoin](https://www.coindesk.com/business/2022/04/05/lightning-labs-raises-70m-to-bring-stablecoins-to-bitcoin)
 - [Number of People Go Up, or Bitcoin as the World’s Protocol of Value - Lightning Labs Medium](https://medium.com/@lightning_labs/number-of-people-go-up-or-bitcoin-as-the-worlds-protocol-of-value-d1df7cefca37)
 - [Lightning Labs unveils new protocol for Lightning Network stablecoins as it raises $70 million](https://www.theblockcrypto.com/post/140560/lightning-labs-taro-protocol-stablecoins-fundraise)
-- [Lightning Labs Raises $70M to Bring Stablecoins to Bitcoin](https://www.coindesk.com/business/2022/04/05/lightning-labs-raises-70m-to-bring-stablecoins-to-bitcoin/)
 
 ### Regulator - US
 
 - [Michael Saylor: Biden’s Executive Order Akin to POTUS Giving ‘Green Light to Bitcoin’](https://www.coindesk.com/business/2022/04/07/michael-saylor-bidens-executive-order-akin-to-potus-giving-greenlight-to-bitcoin/)
-- [Global Legislators Announce Pro Bitcoin Legislation - Bitcoin Magazine](https://bitcoinmagazine.com/culture/global-legislators-announce-pro-bitcoin-legislation)
 - [Treasury Secretary Janet Yellen Calls Crypto 'Transformative' in Wide-Ranging Speech](https://www.coindesk.com/policy/2022/04/07/treasury-secretary-janet-yellen-calls-crypto-transformative-in-wide-ranging-speech/)
 - [Yellen says crypto hasn't been used for significant Russian sanctions evasion so far](https://cointelegraph.com/news/yellen-alleges-crypto-has-not-been-used-for-significant-russian-sanctions-evasion-so-far)
 - [Treasury Secretary Janet Yellen testifies before House Financial Services Committee - YouTube](https://www.youtube.com/watch?v=_6iWYZYzc9I)
@@ -70,13 +69,13 @@ banner:
 
 ### Reports
 
-- [DocSend](https://kraken.docsend.com/view/vdtb2nfy3m9m3d6g)
-- [DocSend](https://kraken.docsend.com/view/fwd4q3ivx98bchx7?utm_medium=Email&utm_content=content+link)
-- [Microsoft Word - Bloomberg Indices Outlook_Cryptos_April-2022](https://assets.bbhub.io/promo/sites/16/1750723_CryptoOutlook_April-2022.pdf)
+- [The Lightnng Network - Kraken](https://kraken.docsend.com/view/vdtb2nfy3m9m3d6g)
+- [March 2022 - Kraken](https://kraken.docsend.com/view/fwd4q3ivx98bchx7)
+- [Outlook Cryptos April 2022](https://assets.bbhub.io/promo/sites/16/1750723_CryptoOutlook_April-2022.pdf)
 
 ### CheckSig
 
-- [Bitcoin 2022 Miamo, Institutional Custody Challenges - YouTube](https://t.co/UBaMRPg7t1)
+- [Bitcoin 2022 Miami, Institutional Custody Challenges - YouTube](https://youtu.be/L6xA7K1-9DM)
 
 ### Digital Gold Institute
 
