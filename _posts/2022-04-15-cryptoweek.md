@@ -53,7 +53,6 @@ banner:
 
 - [Tesla, Block, Blockstream to mine bitcoin off solar power in Texas](https://www.cnbc.com/2022/04/08/tesla-block-blockstream-to-mine-bitcoin-off-solar-power-in-texas.html)
 - [Blockstream and Block will launch a bitcoin mining center powered by Tesla batteries and solar tech](https://www.theblockcrypto.com/linked/141301/blockstream-and-block-will-launch-a-bitcoin-mining-center-powered-by-tesla-batteries-and-solar-energy)
-- [Tesla, Block, Blockstream to mine bitcoin off solar power in Texas](https://www.cnbc.com/2022/04/08/tesla-block-blockstream-to-mine-bitcoin-off-solar-power-in-texas.html)
 
 ### Ecosystem - NFT
 
@@ -100,3 +99,7 @@ banner:
 ### Digital Gold Institute
 
 - [DGI Events](https://dgi.io/events/)
+
+### Happy Easter
+
+[The disciples Peter and John running to the tomb on the morning of the Resurrection - 1898 Eugene Burnand](http://www.eugene-burnand.com/images/Disciples%20Peter%20and%20John%20running%20to%20the%20tomb%20on%20the%20morning%20of%20the%20resurrection%20by%20Eugene%20Burnand.jpg)
