@@ -21,7 +21,6 @@ banner:
 
 - [Goldman Sachs sought to woo FTX at Caribbean meeting - Financial Times](https://www.ft.com/content/53dde228-02bb-4193-b47e-0d171ae96073)
 - [Morgan Stanley Says Crypto Could Become More Widely Used as Currency - Coindesk](https://www.coindesk.com/business/2022/04/21/morgan-stanley-says-crypto-could-become-more-widely-used-as-currency)
-- [Is Bitcoin a Risk-On or a Risk-Off Asset? Maybe It’s Neither - Coindesk](https://www.coindesk.com/markets/2022/04/17/is-bitcoin-a-risk-on-or-a-risk-off-asset-maybe-its-neither)
 
 ### Ecosystem - Commerzbank
 
@@ -58,8 +57,8 @@ banner:
 
 ### Ecosystem - VC investments
 
-- [Crypto equity - FRNT Financial: 24 Hours In Crypto](https://mailchi.mp/28786bef4175/frnt-financial-24-hours-in-crypto-april-18-2022)
 - [Blockchain.com Could Look at an IPO as Early as This Year - Coindesk](https://www.coindesk.com/business/2022/04/19/blockchaincom-could-look-at-an-ipo-as-early-as-this-year-report/)
+- [Crypto equity - FRNT Financial: 24 Hours In Crypto](https://mailchi.mp/28786bef4175/frnt-financial-24-hours-in-crypto-april-18-2022)
 
 ### Ecosystem - NFT
 
@@ -75,19 +74,22 @@ banner:
 
 - [Justin Sun to launch stablecoin called USDD on the Tron blockchain - theblockcrypto](https://www.theblockcrypto.com/post/142867/justin-sun-to-launch-algorithmic-stablecoin-usdd-on-tron-will-use-10-billion-of-crypto-as-collateral)
 - [Tether's Paolo Ardoino on UST: 'It's All Fun and Games' Until You're a $100B Coin - Coindesk](https://www.coindesk.com/markets/2022/04/18/tethers-paolo-ardoino-on-ust-its-all-fun-and-games-until-youre-a-100b-coin)
+- [Ethereum-based stablecoin protocol Beanstalk loses about $182 million to exploit - theblockcrypto](https://www.theblockcrypto.com/linked/142272/ethereum-based-stablecoin-protocol-beanstalk-loses-more-than-80-million-to-exploit)
 
 ### Tech - Monero
 
 - [Monero community reaches consensus for July hard fork - CoinTelegraph](https://cointelegraph.com/news/monero-community-reaches-consensus-for-july-hard-fork)
 - [Privacy Focused Monero Plans Hard Fork in July; XMR Surges 11% on ‘Monerun’ - Coindesk](https://www.coindesk.com/markets/2022/04/19/privacy-focused-monero-plans-hard-fork-in-july-xmr-surges-11-on-monerun)
 
+### Tech - Tornado Cash
+
+- [Ethereum mixer Tornado Cash blocks sanctioned addresses from its frontend - theblockcrypto](https://www.theblockcrypto.com/post/142081/ethereum-mixer-tornado-cash-now-blocks-sanctioned-addresses)
+- [Tornado Cash uses Chainalysis - Twitter](https://twitter.com/TornadoCash/status/1514904975037669386)
+
 ### Tech - Ethereum
 
 - [Ethereum Foundation treasury expands non-crypto assets to 19% - CoinTelegraph](https://cointelegraph.com/news/ethereum-foundation-treasury-expands-non-crypto-assets-to-19)
 - [Ethereum Foundation Holds $1.3B in Ether, $300M in Non-Crypto Investments - Coindesk](https://www.coindesk.com/business/2022/04/19/ethereum-foundation-holds-13b-in-ether-300m-in-non-crypto-investments)
-- [Ethereum-based stablecoin protocol Beanstalk loses about $182 million to exploit - theblockcrypto](https://www.theblockcrypto.com/linked/142272/ethereum-based-stablecoin-protocol-beanstalk-loses-more-than-80-million-to-exploit)
-- [Ethereum mixer Tornado Cash blocks sanctioned addresses from its frontend - theblockcrypto](https://www.theblockcrypto.com/post/142081/ethereum-mixer-tornado-cash-now-blocks-sanctioned-addresses)
-- [Tornado Cash uses Chainalysis - Twitter](https://twitter.com/TornadoCash/status/1514904975037669386)
 
 ### Tech - Bitcoin
 
