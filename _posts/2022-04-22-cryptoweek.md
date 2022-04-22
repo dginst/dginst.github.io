@@ -16,11 +16,11 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-
 ### Ecosystem - TradFi
 
 - [Goldman Sachs sought to woo FTX at Caribbean meeting - Financial Times](https://www.ft.com/content/53dde228-02bb-4193-b47e-0d171ae96073)
 - [Morgan Stanley Says Crypto Could Become More Widely Used as Currency - Coindesk](https://www.coindesk.com/business/2022/04/21/morgan-stanley-says-crypto-could-become-more-widely-used-as-currency)
+- [OCC Issues Consent Order Against Anchorage Digital Bank - OCC](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-41.html)
 
 ### Ecosystem - Commerzbank
 
@@ -75,6 +75,11 @@ banner:
 - [Justin Sun to launch stablecoin called USDD on the Tron blockchain - theblockcrypto](https://www.theblockcrypto.com/post/142867/justin-sun-to-launch-algorithmic-stablecoin-usdd-on-tron-will-use-10-billion-of-crypto-as-collateral)
 - [Tether's Paolo Ardoino on UST: 'It's All Fun and Games' Until You're a $100B Coin - Coindesk](https://www.coindesk.com/markets/2022/04/18/tethers-paolo-ardoino-on-ust-its-all-fun-and-games-until-youre-a-100b-coin)
 - [Ethereum-based stablecoin protocol Beanstalk loses about $182 million to exploit - theblockcrypto](https://www.theblockcrypto.com/linked/142272/ethereum-based-stablecoin-protocol-beanstalk-loses-more-than-80-million-to-exploit)
+
+### Ecosystem - Hacks
+
+- [Crypto Thieves Get Bolder by the Heist, Stealing Record Amounts - WSJ](https://www.wsj.com/articles/crypto-thieves-get-bolder-by-the-heist-stealing-record-amounts-11650582598)
+- [Some Axie Infinity stolen funds - Binance on Twitter](https://twitter.com/cz_binance/status/1517385438469791749)
 
 ### Tech - Monero
 
