@@ -88,7 +88,7 @@ banner:
 ### Tech - Bitcoin
 
 - [Decoding the Bitcoin paper Part 1 — Prerequisites and abstract - by Aditya Rana](https://medium.com/coinmonks/decoding-the-bitcoin-paper-part-1-prerequisites-and-abstract-a35579d0ffd9)
-- [Bitcoin Optech Newsletter #191 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/03/16/)
+- [Newsletter #191 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/03/16/)
 
 ### Opinions
 

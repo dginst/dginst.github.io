@@ -49,7 +49,7 @@ podcast:
 
 ### Technology
 
-- [Bitcoin Optech Newsletter #138 (Bitcoin Optech)](https://bitcoinops.org/en/newsletters/2021/03/03/)
+- [Newsletter #138 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/03/03/)
 
 ### Regulation
 

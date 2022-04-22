@@ -104,7 +104,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin Optech Newsletter #169 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/10/06/)
+- [Newsletter #169 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/10/06/)
 - [Liquid Network Outage - Twitter](https://twitter.com/Liquid_BTC/status/1445154907162652682)
 
 ### Tech - Ethereum

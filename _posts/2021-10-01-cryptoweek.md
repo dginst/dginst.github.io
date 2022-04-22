@@ -100,7 +100,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin Optech Newsletter #168 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/29/)
+- [Newsletter #168 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/29/)
 - [Bitcoin.org goes offline after suffering scam attack - Cointelegraph](https://cointelegraph.com/news/bitcoin-org-goes-offline-after-suffering-scam-attack)
 
 ### Tech - Ethereum

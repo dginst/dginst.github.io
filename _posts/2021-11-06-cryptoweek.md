@@ -101,7 +101,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin Optech Newsletter #173 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/03/)
+- [Newsletter #173 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/03/)
 - [Liquid and Taproot Activation - AJ Towns](https://www.erisian.com.au/wordpress/2021/10/26/liquid-and-taproot-activation)
 - [Response to AJ Towns' Blog Post about Liquid Consensus Changes - Blockstream](https://medium.com/blockstream/response-to-aj-towns-blog-post-about-liquid-consensus-changes-931c1055dee5)
 

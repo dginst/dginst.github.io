@@ -82,7 +82,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #157](https://bitcoinops.org/en/newsletters/2021/07/14/)
+- [Newsletter #157 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/14/)
 - [Scarcity >> Scaling. - Jimmy Song Bitcoin Tech Talk #248](https://jimmysong.substack.com/p/scarcity-scaling-bitcoin-tech-talk)
 - [Uniswap on Optimism (Alpha launch)!](https://uniswap.org/blog/uniswap-optimism-alpha/)
 - [Uniswap takes next step toward adopting Layer 2 tech with alpha launch on Optimism](https://www.theblockcrypto.com/linked/111194/uniswap-takes-next-step-toward-adopting-layer-2-tech-with-alpha-launch-on-optimism)

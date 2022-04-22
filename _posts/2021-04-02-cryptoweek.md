@@ -62,7 +62,7 @@ podcast:
 - [Bitcoin Mining Difficulty Hits All-Time High as Delayed ASIC Shipments Come Online (coindesk)](https://www.coindesk.com/bitcoin-mining-difficulty){:target="_blank"}
 - [Debunking the Empty Block Attack (Medium)](https://jimmysong.medium.com/debunking-the-empty-block-attack-10513858b3f8){:target="_blank"}
 - [Bitcoin Tech Talk (Jimmy Song)](https://jimmysong.substack.com/){:target="_blank"}
-- [Bitcoin Optech Newsletter #142 (Bitcoin Optech)](https://bitcoinops.org/en/newsletters/2021/03/31/){:target="_blank"}
+- [Newsletter #142 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/03/31/){:target="_blank"}
 - [tor - How can I use Bitcoin Core with the anonymous network protocol I2P? (Bitcoin Stack Exchange)](https://bitcoin.stackexchange.com/questions/103402/how-can-i-use-bitcoin-core-with-the-anonymous-network-protocol-i2p){:target="_blank"}
 - [Specter Wallet releases version 1.3.0 (Bitcoinmagazine)](https://bitcoinmagazine.com/technical/specter-wallet-releases-version-1-3-0){:target="_blank"}
 - [Blockstream launches Bitcoin mining hash rate token (Bitcoinmagazine)](https://bitcoinmagazine.com/business/blockstream-launches-bitcoin-mining-hash-rate-token){:target="_blank"}

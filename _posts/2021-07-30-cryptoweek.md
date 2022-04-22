@@ -68,7 +68,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #159 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/28/)
+- [Newsletter #159 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/28/)
 - [Seminars - Chaincode](https://chaincode.gitbook.io/seminars/)
 - [What is Ethereum 2.0?. Ethereum's future plans for… - by Alex Beckett, Medium](https://medium.com/coinmonks/what-is-ethereum-2-0-962d6828b45a)
 - [Vitalik Buterin : Things that matter outside of defi - YouTube](https://www.youtube.com/watch?v=oLsb7clrXMQ&t=52s)

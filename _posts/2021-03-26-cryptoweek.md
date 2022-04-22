@@ -69,7 +69,7 @@ podcast:
 ### Tech
 
 - [Introducing Bech32 Deposits on BitMEX to Deepen Bitcoin Integration, Lower Fees (bitmex)](https://blog.bitmex.com/introducing-bech32-deposits-on-bitmex-to-deepen-bitcoin-integration-lower-fees/){:target="_blank"}
-- [Bitcoin Optech Newsletter #141 (Bitcoin Optech)](https://bitcoinops.org/en/newsletters/2021/03/24/){:target="_blank"}
+- [Newsletter #141 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/03/24/){:target="_blank"}
 
 ### DGI
 

@@ -99,7 +99,7 @@ banner:
 ### Tech
 
 - [What Is Taproot and How Will It Benefit Bitcoin? - River Financial](https://river.com/learn/what-is-taproot/)
-- [Bitcoin Optech Newsletter #146 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/04/28/)
+- [Newsletter #146 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/04/28/)
 
 ### Opinions
 

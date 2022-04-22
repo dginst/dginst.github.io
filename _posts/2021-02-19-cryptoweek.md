@@ -32,7 +32,7 @@ podcast:
 - [U.S. vs China: The Battle for Bitcoin Mining Supremacy](https://www.wsj.com/video/us-vs-china-the-battle-for-bitcoin-mining-supremacy/78975620-B4A1-49B1-A83D-FE8195D8C635.html)
 - [BlackRock's Rick Rieder says the world's largest asset manager has ‘started to dabble' in bitcoin](https://www.cnbc.com/2021/02/17/blackrock-has-started-to-dabble-in-bitcoin-says-rick-rieder.html)
 - [JP Morgan Issues Tether Warning and Second-Guesses $146,000 BTC Price Target](https://cryptobriefing.com/jp-morgan-issues-tether-warning-second-guesses-146000-btc-price-target/)
-- [Bitcoin Optech Newsletter #136](https://bitcoinops.org/en/newsletters/2021/02/17/)
+- [Newsletter #136 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/02/17/)
 - [Bitcoin Tech Talk #227](https://jimmysong.substack.com/p/bitcoin-subsidizes-energy-production)
 - [What Is Taproot and How Will It Benefit Bitcoin?](https://river.com/learn/what-is-taproot/)
 - [A Formal Proof of safegcd Bounds](https://medium.com/blockstream/a-formal-proof-of-safegcd-bounds-695e1735a348)

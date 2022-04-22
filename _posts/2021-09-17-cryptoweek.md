@@ -108,7 +108,7 @@ banner:
 
 - [Bitcoin's Hash Rate Has Recovered by 50% Since June Crash - The Block Crypto](https://www.theblockcrypto.com/post/117267/bitcoin-mining-hash-rate-recovery-summer-crash)
 - [Bitcoin Core 22.0 Release Taproot - Bitcoin Magazine](https://bitcoinmagazine.com/technical/new-bitcoin-core-release-taproot)
-- [Bitcoin Optech Newsletter #166 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/15/)
+- [Newsletter #166 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/15/)
 - [Taproot Primer - Kraken](https://kraken.docsend.com/view/9e9y7may8526z934)
 - [Why The Bitcoin Lightning Network Doesn't Work - Bitcoin Magazine](https://bitcoinmagazine.com/technical/why-the-bitcoin-lightning-network-doesnt-work)
 - [New Bitcoin Core Release Adds Taproot: What You Need to Know - Decrypt](https://decrypt.co/80904/new-bitcoin-core-release-adds-taproot-what-you-need-know)

@@ -88,7 +88,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #156 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/07/)
+- [Newsletter #156 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/07/)
 - [bips/bip-descriptors-general.mediawiki at descriptors · achow101/bips](https://github.com/achow101/bips/blob/descriptors/bip-descriptors-general.mediawiki)
 - [Templates, Eltoo, and Covenants, Oh My! - Jeremy Rubin](https://rubin.io/blog/2021/07/02/covenants/)
 - [Centralization is the Enemy of Property Rights - Bitcoin Tech Talk #247 by Jimmy Song](https://jimmysong.substack.com/p/centralization-is-the-enemy-of-property)

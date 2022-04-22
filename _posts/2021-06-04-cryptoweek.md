@@ -49,7 +49,7 @@ banner:
 - [Taproot Activation - Taproot Watch](https://taproot.watch/)
 - [Improvement on the current block building algorithm](https://gist.github.com/Xekyo/5cb413fe9f26dbce57abfd344ebbfaf2#file-candidate-set-based-block-building-md)
 - [The Great Bitcoin Reset - Bitcoin Tech Talk #242](https://jimmysong.substack.com/p/the-great-bitcoin-reset-bitcoin-tech)
-- [Bitcoin Optech Newsletter #151](https://bitcoinops.org/en/newsletters/2021/06/02/)
+- [Newsletter #151 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/02/)
 - [The Blocksize War, Chapter 11: Scaling III Milan - BitMEX Blog](https://blog.bitmex.com/the-blocksize-war-chapter-11-scaling-iii-milan/)
 
 ### Ecosystem

@@ -55,7 +55,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #150 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/26/)
+- [Newsletter #150 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/26/)
 - [Taproot Activation - Taproot Watch](https://taproot.watch/)
 - [Taproot Miners - Taproot Watch](https://taproot.watch/miners)
 

@@ -110,7 +110,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin Optech Newsletter #165 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/08/)
+- [Newsletter #165 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/08/)
 
 ### Tech - Ethereum
 

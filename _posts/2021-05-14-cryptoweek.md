@@ -90,7 +90,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #148 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/12/)
+- [Newsletter #148 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/12/)
 - [What is the Bitcoin Taproot upgrade? - Casa](https://blog.keys.casa/what-is-taproot-bitcoin-upgrade/)
 - [How Taproot will benefit hardware wallets - by SatoshiLabs - May, 2021 - Trezor Blog](https://blog.trezor.io/how-taproot-will-benefit-hardware-wallets-fa43c0b6123e)
 - [[bitcoin-dev] Full Disclosure: CVE-2021-31876 Defect in Bitcoin Core's bip125 logic](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018893.html)

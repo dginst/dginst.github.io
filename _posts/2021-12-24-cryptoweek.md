@@ -82,7 +82,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #180: 2021 Year-in-Review Special - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/12/22/)
+- [Newsletter #180: 2021 Year-in-Review Special - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/12/22/)
 
 ### Digital Gold Institute
 

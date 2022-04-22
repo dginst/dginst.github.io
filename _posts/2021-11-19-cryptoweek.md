@@ -21,7 +21,7 @@ banner:
 ### Tech - Taproot
 
 - [Taproot, Bitcoin's Long-Anticipated Upgrade, Has Activated - CoinDesk](https://www.coindesk.com/tech/2021/11/13/taproot-bitcoins-long-anticipated-upgrade-activates-this-weekend/)
-- [Bitcoin Optech Newsletter #175 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/17/)
+- [Newsletter #175 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/17/)
 - [Bitcoin Node Taproot Support](http://azure.erisian.com.au/~aj/taproot/taproot.html)
 - [Bitcoin Taproot Explainer - Bitcoin Magazine](https://bitcoinmagazine.com/technical/bitcoin-taproot-explainer)
 

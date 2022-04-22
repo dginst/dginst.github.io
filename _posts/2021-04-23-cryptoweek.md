@@ -84,7 +84,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #145](https://bitcoinops.org/en/newsletters/2021/04/21/)
+- [Newsletter #145 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/04/21/)
 - [There Are Now Two Taproot Activation Clients, Here's Why - Bitcoin Magazine](https://bitcoinmagazine.com/technical/there-are-now-two-taproot-activation-clients-heres-why)
 - [Investment under a Bitcoin Standard - Bitcoin Tech Talk #236](https://jimmysong.substack.com/p/investment-under-a-bitcoin-standard)
 

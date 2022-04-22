@@ -76,7 +76,7 @@ podcast:
 
 - [Hardware Wallet Support in GUI and RPC, using HWI (twitter)](https://twitter.com/provoost/status/1364305306713542656?s=20)
 - [Bitcoin Tech Talk Issue #228 (jimmysong)](https://jimmysong.substack.com/p/the-bitcoinization-of-the-economy)
-- [Bitcoin Optech Newsletter #137 (Bitcoin Optech)](https://bitcoinops.org/en/newsletters/2021/02/24/)
+- [Newsletter #137 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/02/24/)
 - [Taproot activation meeting 2 (linuxfoundation)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018380.html)
 - [Taproot activation: lockinontimeout (LOT) (linuxfoundation)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018425.html)
 - [Taproot activation - Pools will be able to veto again? Seriously? (reddit)](https://old.reddit.com/r/Bitcoin/comments/lcjhl6/taproot_activation_pools_will_be_able_to_veto/gm2l02w/)

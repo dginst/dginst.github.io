@@ -85,7 +85,7 @@ banner:
 ### Tech - Bitcoin
 
 - [Cypherpunks Write Code - YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
-- [Bitcoin Optech Newsletter #174 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/10/)
+- [Newsletter #174 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/10/)
 - [Why You Should Care About 'Taproot', The Next Major Bitcoin Upgrade - ZeroHedge](https://www.zerohedge.com/crypto/why-you-should-care-about-taproot-next-major-bitcoin-upgrade)
 - [Taproot Primer - Kraken](https://kraken.docsend.com/view/9e9y7may8526z934)
 

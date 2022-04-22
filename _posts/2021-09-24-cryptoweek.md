@@ -79,7 +79,7 @@ banner:
 
 - [Bitcoin.org site appears to be hacked and is promoting bitcoin giveaways - The Block Crypto](https://www.theblockcrypto.com/linked/118371/bitcoin-org-website-hacked-promoting-btc-giveaway)
 - [Bitcoin.org Website Inaccessible After Being Hacked by Apparent Giveaway Scam - CoinDesk](https://www.coindesk.com/tech/2021/09/23/bitcoinorg-appears-hacked-by-giveaway-scam/)
-- [Bitcoin Optech Newsletter #167 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/22/)
+- [Newsletter #167 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/09/22/)
 
 ### Digital Gold Institute
 

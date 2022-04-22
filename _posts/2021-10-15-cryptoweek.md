@@ -120,7 +120,7 @@ banner:
 ### Tech - Bitcoin
 
 - [Liquid Hard Fork Diagnostic Report](https://blog.liquid.net/liquid-hard-fork-diagnostic-report/)
-- [Bitcoin Optech Newsletter #170 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/10/13/)
+- [Newsletter #170 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/10/13/)
 
 ### Digital Gold Institute
 

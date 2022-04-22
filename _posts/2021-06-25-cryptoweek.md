@@ -86,7 +86,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #154 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/23/)
+- [Newsletter #154 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/06/23/)
 
 ### Digital Gold Institute
 

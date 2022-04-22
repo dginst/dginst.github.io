@@ -92,7 +92,7 @@ banner:
 ### Tech
 
 - [Flaws in Ethereum’s EIP-1559 - Sergio Demian Lerner on Medium](https://medium.com/iovlabs-innovation-stories/flaws-in-ethereums-eip-1559-c0f91838ce23)
-- [Bitcoin Optech Newsletter #186 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/02/09/)
+- [Newsletter #186 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/02/09/)
 
 ### Opinion
 

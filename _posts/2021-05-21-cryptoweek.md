@@ -88,7 +88,7 @@ banner:
 
 - [Taproot Activation - Taproot Watch](https://taproot.watch/)
 - [Taproot Miners - Taproot Watch](https://taproot.watch/miners)
-- [Bitcoin Optech Newsletter #149 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/19/)
+- [Newsletter #149 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/05/19/)
 
 ### Ecosystem
 

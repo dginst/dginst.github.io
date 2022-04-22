@@ -108,7 +108,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #158](https://bitcoinops.org/en/newsletters/2021/07/21/)
+- [Newsletter #158 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/07/21/)
 - [Taproot Workshop](https://github.com/bitcoinops/taproot-workshop)
 - [Thorchain Attack Drains Protocol of Estimated $7.6 Million - Decrypt](https://decrypt.co/76097/thorchain-drained-25-million-ethereum)
 - [Erik Voorhees, ThorChain and Pride - Bitcoin Tech Talk #249 by Jimmy Song](https://jimmysong.substack.com/p/erik-voorhees-thorchain-and-pride)

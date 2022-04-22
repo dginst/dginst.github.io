@@ -77,7 +77,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin Optech Newsletter #176 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/24/)
+- [Newsletter #176 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2021/11/24/)
 - [Square Releases White Paper for Decentralized Bitcoin Exchange - Decrypt](https://decrypt.co/86501/square-releases-white-paper-decentralized-bitcoin-exchange)
 
 ### Miscellanea
