@@ -45,7 +45,7 @@ banner:
 - [France approves Binance to operate digital asset trading services](https://www.theblockcrypto.com/linked/145117/france-approves-binance-to-operate-digital-asset-trading-services)
 - [Binance is Now a Fully Regulated Digital Asset Service Provider in France - Binance Blog](https://www.binance.com/en/blog/markets/binance-is-now-a-fully-regulated-digital-asset-service-provider-in-france-421499824684903809)
 
-###-  Regulation - Central Bank Digital Currency
+### Regulation - Central Bank Digital Currency
 
 - [9 Out of 10 Central Banks Exploring Digital Currency, BIS Says](https://www.coindesk.com/policy/2022/05/06/nine-out-of-ten-central-banks-exploring-digital-currency-bis-says/)
 
