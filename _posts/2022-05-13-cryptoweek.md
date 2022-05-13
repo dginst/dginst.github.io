@@ -54,7 +54,7 @@ banner:
 - [Bitcoin falls below $30,000 for first time since July 2021 - Financial Times](https://www.ft.com/content/d2a9df43-1ea0-4fb2-9b02-4944589fd909)
 - [How More Than $1 Trillion of Crypto Vanished in Just Six Months - WSJ](https://www.wsj.com/articles/how-more-than-1-trillion-of-crypto-vanished-in-just-six-months-11652434202)
 - [Bitcoin Price Rebounds After Fall Below $26,000 - WSJ](https://www.wsj.com/articles/bitcoin-falls-to-26-000-as-crypto-selloff-intensifies-11652340653?mod=series_cryptobitcoindogecoin)
-- [Bill Miller says he sold some bitcoin to meet margin calls, but remains a long-term crypto bull - CNBC](https://www.cnbc.com/2022/05/12/bill-miller-says-he-sold-some-bitcoin-to-meet-margin-calls-but-remains-a-long-term-crypto-bull.html)
+- [Bill Miller remains a long-term crypto bull - CNBC](https://www.cnbc.com/2022/05/12/bill-miller-says-he-sold-some-bitcoin-to-meet-margin-calls-but-remains-a-long-term-crypto-bull.html)
 - [I haven't sold any Bitcoin, says legendary investor Bill Miller - YouTube](https://www.youtube.com/watch?v=yaexYWn3vtI)
 - [Nayib Bukele - Twitter](https://twitter.com/nayibbukele/status/1523742670044413954)
 - [Not bothered: Miners ‘not impacted by volatility’ in Bitcoin market - CoinTelegraph](https://cointelegraph.com/news/not-bothered-miners-not-impacted-by-volatility-in-bitcoin-market)
@@ -74,12 +74,12 @@ banner:
 
 ### Ecosystem - Chainalysis
 
-- [Chainalysis doubles valuation to $8.6 billion in latest fundraising round: The Information - theblockcrypto](https://www.theblockcrypto.com/post/146274/chainalysis-doubles-valuation-to-8-6-billion-in-latest-fundraising-round-the-information)
+- [Chainalysis doubles valuation to $8.6 billion in latest fundraising round - theblockcrypto](https://www.theblockcrypto.com/post/146274/chainalysis-doubles-valuation-to-8-6-billion-in-latest-fundraising-round-the-information)
 - [Chainalysis Doubles Private Sector Business and Raises New Funding to Double Its Valuation to $8.6 Billion - Chainalysis](https://blog.chainalysis.com/reports/series-f/)
 
 ### Ecosystem - Miscellanea
 
-- [David Marcus unveils new startup focused on Bitcoin and Lightning backed by a16z and Paradigm - theblockcrypto](https://www.theblockcrypto.com/post/146633/david-marcus-unveils-new-startup-focused-on-bitcoin-and-lightning-backed-by-a16z-and-paradigm)
+- [David Marcus unveils new startup focused on Bitcoin - theblockcrypto](https://www.theblockcrypto.com/post/146633/david-marcus-unveils-new-startup-focused-on-bitcoin-and-lightning-backed-by-a16z-and-paradigm)
 - [Nouriel Roubini - Twitter](https://twitter.com/Nouriel/status/1523642813023494145)
 
 ### Regulation - Taxation
