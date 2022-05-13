@@ -86,6 +86,6 @@ banner:
 - [David Marcus unveils new startup focused on Bitcoin and Lightning backed by a16z and Paradigm](https://www.theblockcrypto.com/post/146633/david-marcus-unveils-new-startup-focused-on-bitcoin-and-lightning-backed-by-a16z-and-paradigm)
 - [https://twitter.com/Nouriel/status/1523642813023494145](https://twitter.com/Nouriel/status/1523642813023494145)
 
-### Digital Gold Institute
+### CheckSig - Guida fiscale
 
-- [DGI Events](https://dgi.io/events/)
+- [CheckSig - Guida fiscale](https://www.checksig.com/guida-fiscale/)
