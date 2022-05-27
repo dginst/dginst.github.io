@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: qe-KHNQi3Fo
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: 10653336
