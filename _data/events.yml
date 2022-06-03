@@ -25,8 +25,8 @@
   subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
   lang: it
   city: online e in presenza a Milano
-  date: 2022-03-15
-  date2: 2022-03-16
+  date: 2022-09-14
+  date2: 2022-09-15
   hours: 09:30-17:00
   organizer: Digital Gold Institute
   address:
@@ -43,11 +43,33 @@
   eventfeed: true
   published: true
 
+- title: "Basics on Bitcoin & Blockchain"
+  subtitle: "Formazione su Bitcoin, crypto-asset, blockchain, distributed ledger, smart contract: analisi e applicazioni."
+  lang: it
+  city: online e in presenza a Milano
+  date: 2022-09-21
+  date2:
+  hours: 09:30-12:30
+  organizer: CheckSig
+  address:
+    text: live streaming e Via G.B. Pirelli 11, Milano
+  info:
+    text: programma e registrazione
+    url: https://www.checksig.com/it/individuals/training/basics/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220315-workshop.jpg
+    size: 200
+    thumb: 20201020-workshop-thumb.jpg
+  eventfeed: true
+  published: true
+
 - title: "Report trimestrale del Digital Gold Institute"
   subtitle: "La presentazione del report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain a cura di Ferdinando M. Ametrano."
   lang: it
   city: online
-  date: 2022-04-28
+  date: 2022-07-13
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
@@ -63,6 +85,95 @@
     main: 20220412-2022Q1-report.jpg
     size: 200
     thumb: 20220119-2021Q4-report-thumb.jpg
+  eventfeed: true
+  published: true
+
+- title: "4rd Crypto Asset Lab Conference"
+  subtitle: "La conferenza si concentra su tutti gli aspetti di Bitcoin e criptovalute, con un interesse speciale per investimenti, banche, finanza, servizi finanziari, teoria monetaria e regolazione."
+  lang: en
+  city: online
+  date: 2022-09-29
+  date2: 2022-09-30
+  hours:
+  organizer: Crypto Asset Lab with Digital Gold Institute, European Commission, and University of Milano-Bicocca
+  address:
+    text: "in person (Milan) and live streaming"
+    url:
+  info:
+    text: conference web-page
+    url: https://cryptoassetlab.diseade.unimib.it/calconf/
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20211104-cal2021.jpg
+    size: 350
+    thumb: 20211104-cal2021-thumb.jpg
+  eventfeed: true
+  published: true
+
+- title: "La moneta del futuro tra Bitcoin e Central Bank Digital Currency."
+  subtitle: "Formazione per AIFO"
+  lang: it
+  city: online
+  date: 2022-06-24
+  hours: 9:30-12:00
+  organizer: Associazione Italiana Family Officer
+  address:
+    text:
+    url:
+  info:
+    text: riservata agli associati
+    url:
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220624-aifo.jpg
+    size: 200
+    thumb:
+  eventfeed: true
+  published: true
+
+- title: "Cryptocurrencies e DeFi"
+  subtitle: "Rivoluzione o evoluzione?"
+  lang: it
+  city: Milano
+  date: 2022-06-29
+  hours: 17:00-18:30
+  organizer: CAIA - Chartered Alternative Investment Analyst Association
+  address:
+    text: TBD
+    url:
+  info:
+    text: TBD
+    url:
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220629-caia.jpg
+    size: 200
+    thumb:
+  eventfeed: true
+  published: true
+
+- title: "Bitcoin e Crypto-assets"
+  subtitle: "Rischi e opportunità?"
+  lang: it
+  city: online
+  date: 2022-07-11
+  hours: 11:00-12:30
+  organizer: Consultique
+  address:
+    text: TBD
+    url:
+  info:
+    text: TBD
+    url:
+  discount_code:
+  discount_code_publish:
+  image:
+    main: 20220629-caia.jpg
+    size: 200
+    thumb:
   eventfeed: true
   published: true
 
