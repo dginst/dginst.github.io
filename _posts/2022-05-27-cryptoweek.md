@@ -76,4 +76,4 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin Optech Newsletter #201 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/05/25/)
+- [Newsletter #201 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/05/25/)

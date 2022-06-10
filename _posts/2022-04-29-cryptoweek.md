@@ -95,7 +95,7 @@ banner:
 ### Tech - Bitcoin
 
 - [The Recent Release Of A Bitcoin Core Update - Bitcoin Magazine](https://bitcoinmagazine.com/technical/the-recent-release-of-a-bitcoin-core-update)
-- [Bitcoin Optech Newsletter #197 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/04/27/)
+- [Newsletter #197 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/04/27/)
 
 ### Tech - CTV
 

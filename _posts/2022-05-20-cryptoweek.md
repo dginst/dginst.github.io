@@ -72,7 +72,7 @@ banner:
 
 ### Tech
 
-- [Bitcoin Optech Newsletter #200 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/05/18/)
+- [Newsletter #200 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/05/18/)
 
 ### CheckSig - Guida fiscale
 

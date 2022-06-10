@@ -63,7 +63,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin Optech Newsletter #198 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/05/04/)
+- [Newsletter #198 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/05/04/)
 - [Miniscript is coming to Bitcoin, and to your Ledger Nano - Ledger](https://blog.ledger.com/miniscript-is-coming/)
 
 ### Digital Gold Institute
