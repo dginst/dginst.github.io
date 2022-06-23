@@ -14,6 +14,7 @@ permalink: /cryptoweekinternal/
 \?sr.*\)
 \?mod.*\)
 : Report]
+
 ## Prima di ogni CryptoWeek
 
 * YouTube: aggiungere il video alla playlist CryptoWeek,
