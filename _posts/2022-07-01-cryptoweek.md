@@ -18,31 +18,31 @@ banner:
 
 ### Regulation - ETF
 
-- [SEC Rejects Grayscale’s Spot Bitcoin ETF Application](https://www.coindesk.com/policy/2022/06/30/sec-rejects-grayscales-spot-bitcoin-etf-application)
-- [SEC rejects Grayscale's bid to convert GBTC to a Bitcoin ETF](https://www.theblock.co/post/154924/sec-rejects-grayscales-bid-to-convert-gbtc-to-a-bitcoin-etf)
+- [SEC Rejects Grayscale’s Spot Bitcoin ETF Application - Coindesk](https://www.coindesk.com/policy/2022/06/30/sec-rejects-grayscales-spot-bitcoin-etf-application)
+- [SEC rejects Grayscale's bid to convert GBTC to a Bitcoin ETF - theblock](https://www.theblock.co/post/154924/sec-rejects-grayscales-bid-to-convert-gbtc-to-a-bitcoin-etf)
 - [SEC Rejects Grayscale Bid to Turn Biggest Bitcoin Fund Into ETF - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-30/sec-rejects-grayscale-bid-to-turn-biggest-bitcoin-fund-into-etf)
-- [Grayscale Sues SEC Over Bitcoin ETF Application Rejection](https://www.coindesk.com/policy/2022/06/30/grayscale-sues-sec-over-bitcoin-etf-application-rejection)
-- [VanEck Files New Application for Spot Bitcoin ETF](https://www.coindesk.com/business/2022/07/01/vaneck-files-new-application-for-spot-bitcoin-etf)
+- [Grayscale Sues SEC Over Bitcoin ETF Application Rejection - Coindesk](https://www.coindesk.com/policy/2022/06/30/grayscale-sues-sec-over-bitcoin-etf-application-rejection)
+- [VanEck Files New Application for Spot Bitcoin ETF - Coindesk](https://www.coindesk.com/business/2022/07/01/vaneck-files-new-application-for-spot-bitcoin-etf)
 
 ### Regulation
 
 - [SEC Chair Gary Gensler discusses potential crypto regulation and stablecoins - YouTube](https://www.youtube.com/watch?v=oTa_3W8rMno)
-- [EU Agrees on Landmark Crypto Authorization Law, MiCA](https://www.coindesk.com/policy/2022/06/30/eu-agrees-on-landmark-crypto-authorization-law-mica)
+- [EU Agrees on Landmark Crypto Authorization Law, MiCA - Coindesk](https://www.coindesk.com/policy/2022/06/30/eu-agrees-on-landmark-crypto-authorization-law-mica)
 - [EU Finalizes Crypto Anti-Money Laundering Rules, Walks Back Tracking of Private Wallets - Decrypt](https://decrypt.co/104110/eu-crypto-anti-money-laundering-rules-private-wallets)
 - [EU backs crypto anti-money laundering rules - Reuters](https://www.reuters.com/technology/eu-backs-crypto-anti-money-laundering-rules-crack-down-dirty-money-2022-06-29/)
 
 ### Celsius and 3AC
 
-- [Celsius Shareholder BnkToTheFuture Proposes Bitcoin Investments, Restructuring in Rescue Bid](https://www.coindesk.com/business/2022/07/01/celsius-shareholder-bnktothefuture-proposes-bitcoin-investments-restructuring-in-rescue-bid)
-- [www.theblock.co - 502: Bad gateway](https://www.theblock.co/post/155048/singapore-authorities-reprimand-three-arrows-capital-for-providing-false-information)
-- [www.theblock.co - 502: Bad gateway](https://www.theblock.co/post/154809/three-arrows-capital-liquidation-teneo)
+- [Celsius Shareholder BnkToTheFuture Proposes Bitcoin Investments, Restructuring in Rescue Bid - Coindesk](https://www.coindesk.com/business/2022/07/01/celsius-shareholder-bnktothefuture-proposes-bitcoin-investments-restructuring-in-rescue-bid)
+- [Singapore authorities reprimand 3AC for providing false information - theblock](https://www.theblock.co/post/155048/singapore-authorities-reprimand-three-arrows-capital-for-providing-false-information)
+- [£AC liquidation - theblock](https://www.theblock.co/post/154809/three-arrows-capital-liquidation-teneo)
 
 ### Market
 
 - [Should I Lend Crypto? Bitcoin Meltdown (BTC) Hits Investor Yield - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-27/should-i-lend-crypto-bitcoin-meltdown-btc-hits-investor-yield)
 - [Crypto feels the shockwaves from its own ‘credit crisis’ - Financial Times](https://www.ft.com/content/032b95dc-7feb-4a2d-8eac-c71235643c07)
 - [Cryptoverse: Ether holds its breath for the lean, mean 'merge' - Reuters](https://www.reuters.com/technology/cryptoverse-ether-holds-its-breath-lean-mean-merge-2022-06-28/)
-- [El Salvador Purchases 80 Additional Bitcoin at $19K, President Bukele Says](https://www.coindesk.com/business/2022/07/01/el-salvador-purchases-80-additional-bitcoin-at-19k-president-bukele-says)
+- [El Salvador Purchases 80 Additional Bitcoin at $19K, President Bukele Says - Coindesk](https://www.coindesk.com/business/2022/07/01/el-salvador-purchases-80-additional-bitcoin-at-19k-president-bukele-says)
 - [MicroStrategy Acquires Additional 480 Bitcoins](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-additional-480-bitcoins_06-29-2022)
 - [Michael Saylor: MicroStrategy’s bitcoin true believer - Financial Times](https://www.ft.com/content/53880cca-910a-4e31-96b7-de6e7776ab9b)
 - [What can the past tell us about Bitcoin’s future? - Financial Times](https://www.ft.com/content/a8f78e4e-6d79-43e6-9ab6-92be8ee207ee)
@@ -52,18 +52,18 @@ banner:
 ### Ecosystem - FTX
 
 - [Sam Bankman-Fried’s FTX Is Seeking a Path to Buy Robinhood (HOOD) - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-27/bankman-fried-s-ftx-said-to-be-seeking-path-for-robinhood-deal)
-- [www.theblock.co - 502: Bad gateway](https://www.theblock.co/post/154929/ftx-blockfi-deal-sources)
-- [Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows](https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/)
+- [FTX BlockFi deal - theblock](https://www.theblock.co/post/154929/ftx-blockfi-deal-sources)
+- [Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows - Coindesk](https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/)
 - [Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”](https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent)
 
 ### Ecosystem - Theter
 
 - [More Hedge Funds Are Betting Against Tether as Crypto Melts Down - WSJ](https://www.wsj.com/articles/more-hedge-funds-are-betting-against-tether-as-crypto-melts-down-11656322200)
-- [https://twitter.com/paoloardoino/status/1541418818664292355](https://twitter.com/paoloardoino/status/1541418818664292355)
+- [Paolo Arduino - Twitter](https://twitter.com/paoloardoino/status/1541418818664292355)
 
 ### Ecosystem - OpenSea
 
-- [OpenSea hit by data breach after email delivery partner leaks addresses](https://www.theblock.co/linked/155010/opensea-hit-by-data-breach)
+- [OpenSea hit by data breach after email delivery partner leaks addresses - theblock](https://www.theblock.co/linked/155010/opensea-hit-by-data-breach)
 - [Important Update on Email Vendor Security Incident - OpenSea Blog](https://opensea.io/blog/safety-security/important-update-on-email-vendor-security-incident/)
 
 ### Ecosystem - Mining
@@ -80,7 +80,7 @@ banner:
 
 ### OneCoin
 
-- [OneCoin founder Ruja Ignatova to be added to FBI's most wanted list](https://www.theblock.co/post/155109/onecoin-founder-ruja-ignatova-to-be-added-to-fbis-most-wanted-list)
+- [OneCoin founder Ruja Ignatova to be added to FBI's most wanted list - theblock](https://www.theblock.co/post/155109/onecoin-founder-ruja-ignatova-to-be-added-to-fbis-most-wanted-list)
 
 ### Hayek and Friedman
 
