@@ -21,6 +21,11 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
+- **2022Q2**: presentazione ([video](https://youtu.be/W3grsM51FNo)
+  e [slide]({{site.baseurl}}/docs/reports/2022Q2-presentation.pdf)).  
+  Ospite: Andrea Cilio (Responsabile Marketing e Sviluppo Commerciale, Banca Profilo e Tinaba)
+  su "[Come le banche e il fintech possono stare al passo con l'innovazione]({{site.baseurl}}/docs/reports/2022Q2-cilio.pdf)".
+- **2022Q1**: Evento riservato.
 - **2021Q4**: report ([pagina singola]({{ site.baseurl }}/docs/reports/2021Q4.pdf) o
   [pagina doppia]({{ site.baseurl }}/docs/reports/2021Q4-doppiapagina.pdf)),
   e sua presentazione ([video](https://youtu.be/1qQBQfy5UaY)
