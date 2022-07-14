@@ -4,7 +4,7 @@ comments: false
 lang: it
 title: "I report trimestrali del Digital Gold Institute"
 subtitle: "L'aggiornamento sul mondo Bitcoin, crypto-asset e blockchain"
-youtube: b_ki1islAC0
+youtube: W3grsM51FNo
 permalink: /reports/
 ---
 
