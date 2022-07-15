@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: iVqJMLsdeeg
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: 10927715
@@ -16,8 +16,11 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+
 ### Ecosystem - Lending crisis: Celsius
 
+- [Crypto Crash Drags Lender Celsius Network Into Bankruptcy - WSJ](https://www.wsj.com/articles/crypto-crash-drags-lender-celsius-network-into-bankruptcy-11657758483)
+- [Crypto Lender Celsius Files for Bankruptcy After Freezing Withdrawals - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-14/crypto-lender-celsius-files-for-bankruptcy-in-cash-crunch)
 - [Celsius is ‘Deeply Insolvent,’ Alleges Vermont Department of Financial Regulation](https://www.coindesk.com/business/2022/07/12/celsius-is-deeply-insolvent-alleges-vermont-department-of-financial-regulation)
 - [Celsius Reclaims $410M of 'stETH' Tokens After Paying Down $81M Debt to Aave](https://www.coindesk.com/markets/2022/07/12/celsius-reclaims-410m-of-steth-tokens-after-paying-down-81m-debt-to-aave)
 - [Celsius Pays Off Aave Loan, Moves $418M 'stETH' Stack to Unknown Wallet](https://www.coindesk.com/markets/2022/07/12/celsius-pays-off-aave-loan-moves-418m-steth-stack-to-unknown-wallet/)
@@ -27,31 +30,48 @@ banner:
 
 ### Ecosystem - Lending crisis: Three Arrows Capital
 
-- [Crypto Exchange Blockchain.com Faces $270M Hit on Loans to Three Arrows Capital](https://www.coindesk.com/business/2022/07/08/crypto-exchange-blockchaincom-faces-250m-hit-on-loans-to-three-arrows-capital/)
 - [Crypto hedge fund Three Arrows' liquidators get OK to claim U.S. assets - Reuters](https://www.reuters.com/technology/crypto-hedge-fund-three-arrows-liquidators-get-ok-claim-us-assets-2022-07-12/)
 - [Singapore's crypto aspirations shaken by Three Arrows collapse - Reuters](https://www.reuters.com/technology/singapores-crypto-aspirations-shaken-by-three-arrows-collapse-2022-07-12/)
 - [Three Arrows Capital's Zhu Su breaks silence, accuses liquidators of 'baiting'](https://www.theblock.co/post/157058/three-arrows-capitals-zhu-su-breaks-silence-accused-liquidators-of-baiting)
+- [Three Arrows Founders Davies, Su's Whereabouts Unknown, Foiling Liquidators - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-11/three-arrows-founders-whereabouts-unknown-stymying-liquidators)
 - [How Crypto Hedge Fund Three Arrows Capital Fell Apart (3AC) - Bloomberg](https://www.bloomberg.com/news/features/2022-07-13/how-crypto-hedge-fund-three-arrows-capital-fell-apart-3ac)
 
 ### Ecosystem - Lending crisis: Others
 
+- [Crypto Exchange Blockchain.com Faces $270M Hit on Loans to Three Arrows Capital](https://www.coindesk.com/business/2022/07/08/crypto-exchange-blockchaincom-faces-250m-hit-on-loans-to-three-arrows-capital)
 - [Update on Customer USD and Crypto.](https://www.investvoyager.com/blog/update-on-customer-assets/)
 - [Voyager Clarifies USD Deposit Status in Update](https://www.coindesk.com/business/2022/07/11/voyager-clarifies-usd-deposit-concerns-in-update)
 - [Vauld issues letter to its creditors, disclosing $70 million shortfall](https://www.theblock.co/post/156901/vauld-letter-creditors-shortfall-70-million)
-- [UPDATE: BlockFi softens stance, says it could accept GBTC as collateral](https://www.theblock.co/post/157120/blockfi-will-no-longer-accept-gbtc-as-collateral)
+- [BlockFi softens stance, says it could accept GBTC as collateral](https://www.theblock.co/post/157120/blockfi-will-no-longer-accept-gbtc-as-collateral)
 
-### Regulation - Stablecoins
+### Ecosystem
 
-- [Global regulators back 'same risk, same regulation' for stablecoins - Reuters](https://www.reuters.com/technology/global-regulators-back-same-risk-same-regulation-stablecoins-2022-07-13)
+- [Why the 2022 ‘crypto winter’ is unlike previous bear markets](https://www.cnbc.com/2022/07/14/why-the-2022-crypto-winter-is-unlike-previous-bear-markets.html)
+- [Crypto Startup Funding in Q2 Falls to a One-Year Low - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-12/crypto-startup-funding-in-q2-falls-to-a-one-year-low)
+- [For Crypto Survivors, There Are Deals to Be Had - WSJ](https://www.wsj.com/articles/for-crypto-survivors-there-are-deals-to-be-had-11657450802)
 
 ### Regulation
 
+- [Global regulators back 'same risk, same regulation' for stablecoins - Reuters](https://www.reuters.com/technology/global-regulators-back-same-risk-same-regulation-stablecoins-2022-07-13)
 - [G20 regulators call for new global rules on cryptocurrencies](https://www.theblock.co/post/156856/g20-regulators-call-for-new-global-rules-on-cryptocurrencies)
-- [Mining the environment – is climate risk priced into crypto-assets?](https://www.ecb.europa.eu/pub/financial-stability/macroprudential-bulletin/html/ecb.mpbu202207_3~d9614ea8e6.en.html)
+- [SEC Chair Gary Gensler: Crypto Lenders Offered 'Too Good to Be True' Returns - Decrypt](https://decrypt.co/105120/sec-chair-gary-gensler-crypto-lenders-too-good-to-be-true)
+- [SEC Weighs Waiving Some Rules to Regulate Crypto, Gary Gensler Says - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-14/sec-weighs-waiving-some-rules-to-regulate-crypto-gensler-says)
+- [Gensler: SEC could tailor disclosures for crypto firms](https://www.theblock.co/post/157658/gensler-sec-could-tailor-disclosures-for-crypto-firms)
 
 ### Regulation - ETF
 
 - [SEC extends window to decide on ARK 21Shares spot Bitcoin ETF to August](https://cointelegraph.com/news/sec-extends-window-to-decide-on-ark-21shares-spot-bitcoin-etf-to-august)
+
+### Regulation - Stablecoins
+
+- [Key objectives of the digital euro](https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog220713~34e21c3240.en.html)
+- [The case for a digital euro: key objectives and design considerations](https://www.ecb.europa.eu//pub/pdf/other/key_objectives_digital_euro~f11592d6fb.en.pdf)
+
+### Ecosystem - Mining
+
+- [Mining the environment – is climate risk priced into crypto-assets?](https://www.ecb.europa.eu/pub/financial-stability/macroprudential-bulletin/html/ecb.mpbu202207_3~d9614ea8e6.en.html)
+- [Bitcoin (BTC) Miners Shut Off Rigs as Texas Power Grid Nears Brink - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-11/bitcoin-miners-shut-off-rigs-as-texas-power-grid-nears-brink)
+- [Texas’ fragile grid isn’t ready for crypto mining’s explosive growth - The Verge](https://www.theverge.com/2022/7/14/23206795/bitcoin-crypto-mining-electricity-texas-grid-energy-bills-emissions)
 
 ### Ecosystem - DeFi
 
@@ -63,10 +83,11 @@ banner:
 
 ### Tech
 
+- [Ethereum devs confirm the perpetual date for The Merge](https://cointelegraph.com/news/ethereum-dev-confirms-perpetual-date-for-pos-merge)
 - [[bitcoin-dev] BIP draft: Half-Aggregation of BIP-340 Signatures](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020662.html)
 - [Blockstream](https://blog.blockstream.com/half-aggregation-of-bip-340-signatures/)
 - [Add a `-mempoolfullrbf` node setting by ariard · Pull Request #25353 · bitcoin/bitcoin](https://github.com/bitcoin/bitcoin/pull/25353)
 
-### DGI 2002Q2 Report
+### I report trimestrali del Digital Gold Institute
 
-- []()
+- [2002Q2 Report - DGI](https://dgi.io/reports/)
