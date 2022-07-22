@@ -16,20 +16,9 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-### Ecosystem - Crypto Contagion & Crypto Winter
-
-- [Citi Says Crypto Contagion Appears to Have Ceased - Coindesk](https://www.coindesk.com/markets/2022/07/22/citi-says-crypto-contagion-appears-to-have-ceased)
-- [Bankman-Fried Says Crypto Winter Shifts Investor Focus to Profit - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-19/bankman-fried-says-crypto-winter-shifts-investor-focus-to-profit)
-- [Billionaire Mike Novogratz Says He Was ‘Darn Wrong’ on Risks of Crypto Leverage - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-19/novogratz-says-he-was-darn-wrong-on-risks-of-crypto-leverage)
-- [Crypto Layoffs Hit Risk and Compliance Staff at Big Exchanges - WSJ](https://www.wsj.com/articles/crypto-layoffs-hit-risk-and-compliance-staff-at-big-exchanges-11658223000)
-
-### Ecosystem - Lending crisis: Three Arrows Capital
-
-- [Singapore's Three Arrows Founders, En Route to Dubai, Describe ‘LTCM Moment’ - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-22/three-arrows-founders-en-route-to-dubai-describe-ltcm-moment)
-
 ### Markets - Tesla
 
-- [Tesla Sells 75% of Its Bitcoin Purchases](https://www.wsj.com/livecoverage/tesla-earnings-q2-2022-elon-musk-live/card/tesla-sells-75-of-its-bitcoin-purchases-tgkMdMf1EHDvdniqHu8S)
+- [Tesla Sells 75% of Its Bitcoin Purchases - WSJ](https://www.wsj.com/livecoverage/tesla-earnings-q2-2022-elon-musk-live/card/tesla-sells-75-of-its-bitcoin-purchases-tgkMdMf1EHDvdniqHu8S)
 - [Tesla Sold $936M Worth of Bitcoin in Second Quarter - Coindesk](https://www.coindesk.com/business/2022/07/20/tesla-sold-936m-worth-of-bitcoin-in-second-quarter)
 - [2022 Q2 Tesla Quarterly Update](https://tesla-cdn.thron.com/static/EIUQEC_2022_Q2_Quarterly_Update_Deck_J8VLIK.pdf)
 - [Elon Musk - Twitter](https://twitter.com/elonmusk/status/1386821144037236737)
@@ -60,12 +49,24 @@ banner:
 
 ### Regulation - Russia
 
-- [Vladimir Putin signs bill banning digital assets as payments into law](https://cointelegraph.com/news/vladimir-putin-signs-bill-banning-digital-assets-as-payments-into-law)
+- [Vladimir Putin signs bill banning digital assets as payments into law - cointelegraph](https://cointelegraph.com/news/vladimir-putin-signs-bill-banning-digital-assets-as-payments-into-law)
 - [Vladimir Putin Bans Digital Payments in Russia - Coindesk](https://www.coindesk.com/policy/2022/07/15/vladimir-putin-bans-digital-payments-in-russia)
+
+### Ecosystem - Crypto Contagion & Crypto Winter
+
+- [Citi Says Crypto Contagion Appears to Have Ceased - Coindesk](https://www.coindesk.com/markets/2022/07/22/citi-says-crypto-contagion-appears-to-have-ceased)
+- [Contagion Report - BitMex](https://blog.bitmex.com/wp-content/uploads/2022/07/BM_Pro_Contagion_Report_2022_06-2.pdf)
+- [Bankman-Fried Says Crypto Winter Shifts Investor Focus to Profit - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-19/bankman-fried-says-crypto-winter-shifts-investor-focus-to-profit)
+- [Billionaire Mike Novogratz Says He Was ‘Darn Wrong’ on Risks of Crypto Leverage - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-19/novogratz-says-he-was-darn-wrong-on-risks-of-crypto-leverage)
+- [Crypto Layoffs Hit Risk and Compliance Staff at Big Exchanges - WSJ](https://www.wsj.com/articles/crypto-layoffs-hit-risk-and-compliance-staff-at-big-exchanges-11658223000)
+
+### Ecosystem - Lending crisis: Three Arrows Capital
+
+- [Singapore's Three Arrows Founders, En Route to Dubai, Describe ‘LTCM Moment’ - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-22/three-arrows-founders-en-route-to-dubai-describe-ltcm-moment)
 
 ### Ecosystem - Mining
 
-- [Sustainable Bitcoin mining power mix hits 59.5%: BTC Mining Council](https://cointelegraph.com/news/sustainable-bitcoin-mining-power-mix-hits-59-5-btc-mining-council)
+- [Sustainable Bitcoin mining power mix hits 59.5%: BTC Mining Council - cointelegraph](https://cointelegraph.com/news/sustainable-bitcoin-mining-power-mix-hits-59-5-btc-mining-council)
 - [Bitcoin mining electricity mix increased to 59.5% sustainable in Q2 2022 - Bitcoin Mining Council](https://bitcoinminingcouncil.com/bitcoin-mining-electricity-mix-increased-to-59-5-sustainable-in-q2-2022/)
 
 ### Markets - Ethereum
@@ -86,5 +87,4 @@ banner:
 
 ### Reports
 
-- [Contagion Report - BitMex](https://blog.bitmex.com/wp-content/uploads/2022/07/BM_Pro_Contagion_Report_2022_06-2.pdf)
 - [2002Q2 Report - DGI](https://dgi.io/reports/)
