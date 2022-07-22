@@ -10,6 +10,7 @@ permalink: /cryptoweekinternal/
 /\?.*\)
 \?_h.*\)
 #.*\)
+\?utm.*\)
 \?tpl.*\)
 \?sr.*\)
 \?mod.*\)
