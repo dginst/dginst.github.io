@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: nipqhZJGj-w
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: 11011242
@@ -18,19 +18,22 @@ banner:
 
 ### Ecosystem - Crypto Contagion & Crypto Winter
 
-- [Zipmex Files for Bankruptcy Protection in Singapore](https://www.coindesk.com/business/2022/07/28/zipmex-files-for-bankruptcy-protection-in-singapore)
-- [FTX in Talks to Buy South Korean Crypto Exchange Bithumb](https://www.coindesk.com/business/2022/07/26/ftx-in-discussions-to-buy-south-korean-crypto-exchange-bithumb-report)
+- [Zipmex Files for Bankruptcy Protection in Singapore - Coindesk](https://www.coindesk.com/business/2022/07/28/zipmex-files-for-bankruptcy-protection-in-singapore)
+- [FTX in Talks to Buy South Korean Crypto Exchange Bithumb - Coindesk](https://www.coindesk.com/business/2022/07/26/ftx-in-discussions-to-buy-south-korean-crypto-exchange-bithumb-report)
 
 ### Regulation - SEC vs Coinbase
 
 - [Coinbase (COIN) Faces SEC Investigation Over Cryptocurrency Listings - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-26/coinbase-faces-sec-investigation-over-cryptocurrency-listings)
-- [Kraken Under Investigation for Alleged Sanctions Violations](https://www.coindesk.com/policy/2022/07/26/kraken-under-investigation-for-alleged-sanctions-violations-report)
+- [Coinbase SEC Investigation Is Just Beginning for Crypto Regulation - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-07-28/coinbase-sec-investigation-is-just-beginning-for-crypto-regulation)
+- [Coinbase SEC Probe Into Listed Tokens Has Crypto Traders Concerned - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/crypto-traders-rattled-by-sec-scrutiny-of-coinbase-listed-tokens)
+- [Kraken Under Investigation for Alleged Sanctions Violations - Coindesk](https://www.coindesk.com/policy/2022/07/26/kraken-under-investigation-for-alleged-sanctions-violations-report)
 
 ### Regulation - Stablecoins
 
+- [Tether Says There Is No Chinese Commercial Paper Among Reserves - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/tether-says-there-is-no-chinese-commercial-paper-among-reserves)
 - [Tether combats false information](https://tether.to/en/tether-combats-false-information-to-preserve-the-reputation-of-the-cryptocurrency-ecosystem/)
 - [https://sango.org](https://sango.org/)
-- [Digital Euro Needs Curbs to Halt Lending Crunch, ECB Study Finds](https://www.coindesk.com/policy/2022/07/28/digital-euro-needs-curbs-to-halt-lending-crunch-ecb-study-finds)
+- [Digital Euro Needs Curbs to Halt Lending Crunch, ECB Study Finds - Coindesk](https://www.coindesk.com/policy/2022/07/28/digital-euro-needs-curbs-to-halt-lending-crunch-ecb-study-finds)
 
 ### Regulation
 
@@ -39,9 +42,9 @@ banner:
 
 ### Ecosystem - TradFi
 
-- [Barclays Expected to Invest 'Millions of Dollars' in Copper's Funding Round](https://www.coindesk.com/business/2022/07/25/barclays-expected-to-invest-millions-of-dollars-in-crypto-custody-firm-copper-report/)
+- [Barclays Expected to Invest 'Millions of Dollars' in Copper's Funding Round - Coindesk](https://www.coindesk.com/business/2022/07/25/barclays-expected-to-invest-millions-of-dollars-in-crypto-custody-firm-copper-report/)
 - [Komainu Approved For Bitcoin Services In Dubai - Bitcoin Magazine](https://bitcoinmagazine.com/business/komainu-approved-for-bitcoin-services-in-dubai)
-- [Algorand Names Interim CEO](https://www.prnewswire.com/news-releases/algorand-names-interim-ceo-301594242.html)
+- [Algorand Names Interim CEO - PRNewsWire](https://www.prnewswire.com/news-releases/algorand-names-interim-ceo-301594242.html)
 - [Mixer Usage Reaches All-time Highs in 2022 - Chainalysis](https://blog.chainalysis.com/reports/cryptocurrency-mixers/)
 
 ### Ecosystem - Keet
@@ -54,21 +57,22 @@ banner:
 
 ### Ecosystem - DeFi
 
-- [Attackers Stole $1.1M From Decentralized Music Project Audius](https://www.coindesk.com/tech/2022/07/25/how-attackers-stole-around-11m-worth-of-tokens-from-decentralized-music-project-audius)
-- [Solana DeFi Protocol Nirvana Drained of Liquidity After Flash Loan Exploit](https://www.coindesk.com/tech/2022/07/28/solana-defi-protocol-nirvana-drained-of-liquidity-after-flash-loan-exploit)
-- [Harmony Proposes Issuing ONE Tokens to Reimburse Victims of $100M Hack](https://www.coindesk.com/tech/2022/07/27/harmony-proposes-issuing-one-tokens-to-reimburse-victims-of-100m-hack)
-- [Crypto Firms Make Thieving Hackers an Offer: Keep a Little, Give Back the Rest](https://www.wsj.com/articles/crypto-firms-make-thieving-hackers-an-offer-keep-a-little-give-back-the-rest-11658741404)
+- [Attackers Stole $1.1M From Decentralized Music Project Audius - Coindesk](https://www.coindesk.com/tech/2022/07/25/how-attackers-stole-around-11m-worth-of-tokens-from-decentralized-music-project-audius)
+- [Solana DeFi Protocol Nirvana Drained of Liquidity After Flash Loan Exploit - Coindesk](https://www.coindesk.com/tech/2022/07/28/solana-defi-protocol-nirvana-drained-of-liquidity-after-flash-loan-exploit)
+- [Harmony Proposes Issuing ONE Tokens to Reimburse Victims of $100M Hack - Coindesk](https://www.coindesk.com/tech/2022/07/27/harmony-proposes-issuing-one-tokens-to-reimburse-victims-of-100m-hack)
+- [Axie CEO Moved AXS Tokens to Binance Before Disclosing Ronin Hack - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-28/axie-ceo-moved-axs-tokens-to-binance-before-disclosing-ronin-hack)
+- [Crypto Firms Make Thieving Hackers an Offer: Keep a Little, Give Back the Rest - WSJ](https://www.wsj.com/articles/crypto-firms-make-thieving-hackers-an-offer-keep-a-little-give-back-the-rest-11658741404)
 
 ### Markets - Ethereum
 
-- [Interest in Ether Options Rises to Record as Traders Bet on 'Merge'](https://www.coindesk.com/markets/2022/07/28/ether-open-options-reach-record-high-as-merge-optimism-drives-demand)
+- [Interest in Ether Options Rises to Record as Traders Bet on 'Merge' - Coindesk](https://www.coindesk.com/markets/2022/07/28/ether-open-options-reach-record-high-as-merge-optimism-drives-demand)
 
 ### Tech - Ethereum
 
 - [Ethereum Deploys Its Tenth 'Shadow Fork' in Buildup to Merge - Decrypt](https://decrypt.co/106071/ethereum-deploys-shadow-fork-10-in-buildup-to-merge)
 - [Tim Beiko - Twitter](https://twitter.com/TimBeiko/status/1552382163391090688)
-- [Ethereum’s Mainnet Tenth 'Shadow Fork' Goes Live Ahead of September Merge](https://www.coindesk.com/tech/2022/07/27/ethereums-mainnet-shadow-fork-10-goes-live-ahead-of-september-merge/)
-- [Ethereum’s Rollup Race: What is a ‘True’ zkEVM?](https://www.coindesk.com/tech/2022/07/27/ethereums-rollup-race-what-is-a-true-zkevm)
+- [Ethereum’s Mainnet Tenth 'Shadow Fork' Goes Live Ahead of September Merge - Coindesk](https://www.coindesk.com/tech/2022/07/27/ethereums-mainnet-shadow-fork-10-goes-live-ahead-of-september-merge/)
+- [Ethereum’s Rollup Race: What is a ‘True’ zkEVM? - Coindesk](https://www.coindesk.com/tech/2022/07/27/ethereums-rollup-race-what-is-a-true-zkevm)
 
 ### Tech - Bitcoin
 
