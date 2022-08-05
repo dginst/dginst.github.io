@@ -16,17 +16,24 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [Michael Saylor to step down as MicroStrategy CEO, shift to executive chairman role - TheBlock](https://www.theblock.co/post/161025/michael-saylor-to-step-down-as-microstrategy-ceo-shift-to-executive-chairman-role)
+### Ecosystem - BlackRock
+
+- [BlackRock to Offer Crypto for Institutional Investors Through Coinbase Prime - Coindesk](https://www.coindesk.com/business/2022/08/04/blackrock-to-offer-crypto-for-institutional-investors-through-coinbase-prime)
+- [Coinbase selected by BlackRock; provide Aladdin clients access to crypto trading and custody - Coinbase Blog](https://blog.coinbase.com/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via-b9e7144f313d)
+- [Coinbase Stock Jumps After Announcing Bitcoin Partnership With BlackRock - WSJ](https://www.wsj.com/livecoverage/stock-market-news-today-08-04-2022/card/blackrock-announces-bitcoin-partnership-with-coinbase-amid-crypto-industry-turmoil-xuDZxcRq7AkXQMlprDlv)
+- [BlackRock Teams Up With Coinbase in Crypto Market Expansion - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-04/blackrock-teams-up-with-coinbase-in-crypto-market-expansion)
+
+### Markets - EUR Futures
+
+- [CME Group - Twitter](https://twitter.com/CMEGroup/status/1555176731773964290)
 
 ### Ecosystem - Solana
 
 - [Solana Wallets Targeted in Latest Multimillion-Dollar Hack - Coindesk](https://www.coindesk.com/markets/2022/08/03/phantom-wallet-exploit-drains-millions-in-sol-tokens)
 - [Solana Status - Twitter](https://twitter.com/SolanaStatus/status/1554817790091182080)
-- [Hacking attack drains £5m from 8,000 wallets linked to Solana crypto network - The Guardian](https://www.theguardian.com/technology/2022/aug/03/hacking-attack-drains-5m-from-8000-wallets-linked-to-solana-crypto-network)
-- [Solana (SOL) Spaces Brings Crypto to Real World Despite Virtual Setbacks - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-03/solana-brings-crypto-to-real-world-while-virtual-setbacks-abound)
 - [Solana team traces exploit back to Slope mobile wallets - TheBlock](https://www.theblock.co/post/161325/solana-team-traces-exploit-back-to-slope-mobile-wallets)
-- [Solana Wallets Targeted in Latest Multimillion-Dollar Hack - Coindesk](https://www.coindesk.com/markets/2022/08/03/phantom-wallet-exploit-drains-millions-in-sol-tokens)
 - [Solana wallets ‘drained’ in blow to crypto network - Financial Times](https://www.ft.com/content/65e5829f-8107-48a8-a5d0-f7a8c8f79df3)
+- [Solana Spaces Brings Crypto to Real World Despite Virtual Setbacks - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-03/solana-brings-crypto-to-real-world-while-virtual-setbacks-abound)
 
 ### Ecosystem - Babel
 
@@ -48,24 +55,28 @@ banner:
 - [Why DeFi Giants Aave, Curve May Want Their Own Stablecoins - Coindesk](https://www.coindesk.com/layer2/2022/08/01/why-defi-giants-aave-curve-may-want-their-own-stablecoins)
 - [Aave DAO Approves Creating GHO Stablecoin - Decrypt](https://decrypt.co/106325/aave-dao-approves-creating-gho-stablecoin)
 
+### Ecosystem - Michael Saylor
+
+- [Michael Saylor Bet Billions on Bitcoin and Lost - WSJ](https://www.wsj.com/articles/michael-saylor-bet-billions-on-bitcoin-and-lost-11659538890)
+- [Michael Saylor to step down as MicroStrategy CEO, shift to executive chairman role - TheBlock](https://www.theblock.co/post/161025/michael-saylor-to-step-down-as-microstrategy-ceo-shift-to-executive-chairman-role)
+
 ### Regulation - SEC
 
-- [Senate bill would hand bitcoin, ether oversight to commodities regulator - Reuters](https://www.reuters.com/markets/us/senate-bill-would-hand-bitcoin-ether-oversight-commodities-regulator-2022-08-03/)
 - [The SEC’s Cryptocurrency Confusion - WSJ](https://www.wsj.com/articles/the-secs-cryptocurrency-confusion-coinbase-tokens-securities-register-payment-bitcoin-equity-scam-regulation-11659463294)
-
-### Ecosystem - BlackRock
-
-- [BlackRock to Offer Crypto for Institutional Investors Through Coinbase Prime - Coindesk](https://www.coindesk.com/business/2022/08/04/blackrock-to-offer-crypto-for-institutional-investors-through-coinbase-prime)
-- [Coinbase Stock Jumps After Announcing Bitcoin Partnership With BlackRock - WSJ](https://www.wsj.com/livecoverage/stock-market-news-today-08-04-2022/card/blackrock-announces-bitcoin-partnership-with-coinbase-amid-crypto-industry-turmoil-xuDZxcRq7AkXQMlprDlv)
+- [Senate bill would hand bitcoin, ether oversight to commodities regulator - Reuters](https://www.reuters.com/markets/us/senate-bill-would-hand-bitcoin-ether-oversight-commodities-regulator-2022-08-03/)
 
 ### Ecosystem - ETHPoW
 
 - [ETHPoW vs ETH2 - BitMEX Blog](https://blog.bitmex.com/ethpow-vs-eth2/)
 - [Crypto Exchange BitMEX Offers Strategy on Potential 'ETHPoW' Split - Coindesk](https://www.coindesk.com/markets/2022/08/02/as-china-miner-contests-ethereum-merge-bitmex-offers-strategy-on-potential-ethpow-split)
+- [Chandler Guo - Twitter](https://twitter.com/ChandlerGuo/status/1552382597086470146)
 - [Panda Chinese miners - Twitter](https://twitter.com/noodleofbinance/status/1552715173693386753)
 - [EtherDAO - EtherDAO](https://etherdao.org/)
 - [Who Will Mine Ethereum After It's Gone? - Coindesk](https://www.coindesk.com/layer2/2022/08/03/who-will-mine-ethereum-after-its-gone)
 - [Ethereum Mining Pools Will Survive The Merge—What About the Miners? - Decrypt](https://decrypt.co/104967/ethereum-mining-pools-survive-merge-what-about-miners)
-- [Chandler Guo - Twitter](https://twitter.com/ChandlerGuo/status/1552382597086470146)
 - [Ethereum After the Merge: What Comes Next? - Coindesk](https://www.coindesk.com/tech/2022/08/01/ethereum-after-the-merge-what-comes-next)
 - [Ethereum Developers Address Potential Glitch Ahead of the Merge - Coindesk](https://www.coindesk.com/tech/2022/08/02/ethereum-developers-address-potential-glitch-ahead-of-the-merge)
+
+### Ecosystem - Mining
+
+- [Bitcoin (BTC) Miner Made Millions in Credits by Shutting Rigs During Texas Heat - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-03/bitcoin-miner-made-millions-by-shutting-rigs-during-texas-heat)
