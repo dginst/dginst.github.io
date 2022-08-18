@@ -20,6 +20,7 @@ permalink: /cryptoweekinternal/
 ]
 
 ](https://www.theblock
+](https://www.coindesk
 
 ## Prima di ogni CryptoWeek
 
