@@ -21,10 +21,10 @@ banner:
 - [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash - U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/jy0916)
 - [Arrest of suspected developer of Tornado Cash - FIOD](https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/)
 - [Netherlands Arrests Suspected Developer of Sanctioned Crypto-Mixing Service Tornado Cash - Coindesk](https://www.coindesk.com/policy/2022/08/12/netherlands-arrests-suspected-tornado-cash-developer)
-- [Tornado Cash developer arrest sparks fears of global crypto enforcement - TheBlock](https://www.theblock.co/post/163415/tornado-cash-developer-arrest-sparks-fears-of-global-crypto-enforcement)
-- [Tornado Cash's Discord Appears to go Dark - Coindesk](https://www.coindesk.com/business/2022/08/12/tornado-cashs-discord-appears-to-go-dark)
 - [Arrested Tornado Cash developer is Alexey Pertsev, his wife confirms](https://www.theblock.co/post/163297/arrested-tornado-cash-developer-is-alexey-pertsev-his-wife-confirms)
 - ['Dangerous' precedent: crypto execs slam arrest of suspected Tornado Cash developer - TheBlock](https://www.theblock.co/post/163252/dangerous-precedent-crypto-execs-slam-arrest-of-suspected-tornado-cash-developer)
+- [Tornado Cash developer arrest sparks fears of global crypto enforcement - TheBlock](https://www.theblock.co/post/163415/tornado-cash-developer-arrest-sparks-fears-of-global-crypto-enforcement)
+- [Tornado Cash's Discord Appears to go Dark - Coindesk](https://www.coindesk.com/business/2022/08/12/tornado-cashs-discord-appears-to-go-dark)
 - [Analysis: What is and what is not a sanctionable entity in the Tornado Cash case - Coin Center](https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/)
 - [Coin Center Says It May Challenge Tornado Cash Ban in Court - Decrypt](https://decrypt.co/107475/coin-center-tornado-cash-ban-court)
 
@@ -42,8 +42,7 @@ banner:
 ### Ecosystem - ETH Merge
 
 - [Vitalik Buterin - Twitter](https://twitter.com/VitalikButerin/status/1558072902972473344)
-- [Ethereum (ETH) Founder Vitalik Buterin Plans Blockchain Merge For Sept. 15 - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-12/ethereum-founder-buterin-forecasts-blockchain-merge-on-sept-15)
-- [24 Hours In Crypto, August 15, 2022 - FRNT Financial](https://mailchi.mp/db32af073eec/frnt-financial-24-hours-in-crypto-august-15-2022?e=ce087d5484)
+- [Ethereum Founder Vitalik Buterin Plans Blockchain Merge For Sept. 15 - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-12/ethereum-founder-buterin-forecasts-blockchain-merge-on-sept-15)
 - [Derivatives Suggest a ‘Sell-the-News’ End to the Ethereum (Ether) Rally - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-12/derivatives-suggest-a-sell-the-news-end-to-the-ethereum-rally)
 - [The Merge - ethereum.org](https://ethereum.org/en/upgrades/merge/)
 
@@ -70,6 +69,12 @@ banner:
 - [Proposal for Trace Result #1: 08-15-2022 - Acala & Karura Community Forum](https://acala.discourse.group/t/proposal-for-trace-result-1-08-15-2022/1137)
 - [Acala Stablecoins Near $1 Peg After Community Burns 1.2B aUSD Minted by Exploiters - Coindesk](https://www.coindesk.com/tech/2022/08/16/acala-stablecoins-nears-1-peg-after-community-burns-12b-ausd-minted-by-exploiters/)
 
+### Ecosystem - Stablecoins
+
+- [USDC: The digital dollar for the global crypto economy - The Coinbase Blog](https://blog.coinbase.com/usdc-the-digital-dollar-for-the-global-crypto-economy-eee151136d8b)
+- [Tether attestations will be completed by BDO italia - Tether](https://tether.to/en/tether-announces-alignment-with-top-five-accounting-firm-and-confirms-attestations-will-now-be-completed-by-bdo-italia/)
+- [Tether Drops Cayman Islands Firm in BDO Italia Attestation Deal - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-18/tether-drops-cayman-islands-firm-in-bdo-italia-attestation-deal)
+
 ### Regulation
 
 - [Crypto poses serious challenges for regulators - Financial Times](https://www.ft.com/content/7cf3a743-809f-425d-89f2-d6c6057c1d41)
@@ -82,13 +87,7 @@ banner:
 - [US Fed Opens Pathway for Crypto Banks to Tap Central Banking System - Coindesk](https://www.coindesk.com/policy/2022/08/15/us-fed-opens-pathway-for-crypto-banks-to-tap-central-banking-system/)
 - [Federal Reserve opens up master account access to banks with 'novel charters' - TheBlock](https://www.theblock.co/post/163628/federal-reserve-opens-up-master-account-access-to-banks-with-novel-charters-in-win-for-crypto-and-fintech)
 - [Dragonchain - SEC](https://www.sec.gov/litigation/litreleases/2022/lr25468.htm)
-- [Coinbase Crypto Insider Trading May Be Wider Than US Case, Study Says (COIN) - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-17/coinbase-insider-trading-may-be-wider-than-us-case-study-says)
-
-### Ecosystem - Stablecoins
-
-- [USDC: The digital dollar for the global crypto economy - The Coinbase Blog](https://blog.coinbase.com/usdc-the-digital-dollar-for-the-global-crypto-economy-eee151136d8b)
-- [Tether attestations will be completed by BDO italia - Tether](https://tether.to/en/tether-announces-alignment-with-top-five-accounting-firm-and-confirms-attestations-will-now-be-completed-by-bdo-italia/)
-- [Tether (USDT) Drops Cayman Islands Firm in BDO Italia Attestation Deal - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-18/tether-drops-cayman-islands-firm-in-bdo-italia-attestation-deal)
+- [Coinbase Crypto Insider Trading May Be Wider Than US Case, Study Says - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-17/coinbase-insider-trading-may-be-wider-than-us-case-study-says)
 
 ### Ecosystem - BitGo / Galaxy Digital
 
