@@ -78,9 +78,9 @@ banner:
 - [Engagement in Crypto-Asset-Related Activities by Federal Reserve-Supervised Banking Organizations - The Fed](https://www.federalreserve.gov/supervisionreg/srletters/SR2206.htm)
 - [US Regulator 'Improperly' Pushing Banks to Avoid Serving Crypto Companies, Lawmaker Says - Coindesk](https://www.coindesk.com/policy/2022/08/17/us-regulator-improperly-pushing-banks-to-avoid-serving-crypto-companies-lawmaker-says)
 - [Fed Warns Banks Jumping Into Crypto to Do Legal Homework First - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-16/fed-warns-banks-jumping-into-crypto-to-do-legal-homework-first)
-- [Federal Reserve Board announces final guidelines that establish a transparent, risk-based, and consistent set of factors for Reserve Banks to use in reviewing requests to access Federal Reserve accounts and payment services - The Fed](https://www.federalreserve.gov/newsevents/pressreleases/other20220815a.htm)
+- [Final guidelines for a transparent, risk-based, and consistent set of factors for Reserve Banks - The Fed](https://www.federalreserve.gov/newsevents/pressreleases/other20220815a.htm)
 - [US Fed Opens Pathway for Crypto Banks to Tap Central Banking System - Coindesk](https://www.coindesk.com/policy/2022/08/15/us-fed-opens-pathway-for-crypto-banks-to-tap-central-banking-system/)
-- [Federal Reserve opens up master account access to banks with 'novel charters,' in win for crypto and fintech - TheBlock](https://www.theblock.co/post/163628/federal-reserve-opens-up-master-account-access-to-banks-with-novel-charters-in-win-for-crypto-and-fintech)
+- [Federal Reserve opens up master account access to banks with 'novel charters' - TheBlock](https://www.theblock.co/post/163628/federal-reserve-opens-up-master-account-access-to-banks-with-novel-charters-in-win-for-crypto-and-fintech)
 - [Dragonchain - SEC](https://www.sec.gov/litigation/litreleases/2022/lr25468.htm)
 - [Coinbase Crypto Insider Trading May Be Wider Than US Case, Study Says (COIN) - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-17/coinbase-insider-trading-may-be-wider-than-us-case-study-says)
 
@@ -104,11 +104,11 @@ banner:
 
 ### Ecosystem - New Finance Technology
 
-- [Caso Nft di Silea, spunta un video dei soci: Rolex e uffici a Dubai per convincere i clienti](https://www.repubblica.it/tecnologia/2022/08/13/news/new_financial_technology_truffa_bitcoin_video-361414760/)
+- [Caso Nft di Silea, spunta un video dei soci: Rolex e uffici a Dubai per convincere i clienti - La Repubblica](https://www.repubblica.it/tecnologia/2022/08/13/news/new_financial_technology_truffa_bitcoin_video-361414760/)
 - [La truffa crypto della New Financial Technology - YouTube](https://www.youtube.com/watch?v=6iWCdEtS_VI&t=373s)
+- [Caso Nft di Silea, fondatori e tre agenti indagati a Pordenone per truffa aggravata - La Repubblica](https://www.repubblica.it/tecnologia/2022/08/17/news/new_financial_technology_lugano-362038207/)
 - [Bcademy](https://bcademy.it/)
 - [I docenti - Bcademy](https://bcademy.it/docenti/)
-- [Caso Nft di Silea, fondatori e tre agenti indagati a Pordenone per truffa aggravata - La Repubblica](https://www.repubblica.it/tecnologia/2022/08/17/news/new_financial_technology_lugano-362038207/)
 
 ### Tech - Bitcoin
 
