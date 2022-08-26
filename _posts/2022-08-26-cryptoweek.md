@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #80"
+title: "CryptoWeek #81"
 subtitle: "Il commento di Ferdinando Ametrano alle crypto-news della settimana" 
 author: "Staff"
 image:
