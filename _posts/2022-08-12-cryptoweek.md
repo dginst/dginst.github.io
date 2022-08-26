@@ -107,6 +107,6 @@ banner:
 - [Bitcoin, la truffa crypto della New Financial Technology di Silea - La Repubblica](https://www.repubblica.it/tecnologia/2022/08/08/news/new_financial_technology_truffa_schema_ponzi_bitcoin_criptovalute-360868169)
 - [La truffa crypto della New Financial Technology - YouTube](https://www.youtube.com/watch?v=6iWCdEtS_VI&t=373s)
 
-### Tech - Blockchain
+### Ecosystem - Blockchain
 
 - [TradeFi’s Never-Ending Blockchain Odyssey Down Under - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-08-11/tradefi-s-never-ending-blockchain-odyssey-down-under)
