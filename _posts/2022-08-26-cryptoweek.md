@@ -63,7 +63,7 @@ banner:
 ### Ecosystem - Markets
 
 - [Bitcoin Looks Poised for September Swoon, Charts Suggest - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-24/bitcoin-appears-poised-for-seasonal-swoon-in-wake-of-recent-lull)
-- [Long-Term Bitcoin Investors Continue to Restrict Available Supply](https://coinshares.com/research/long-term-bitcoin-investors-continue-to-restrict-available-supply)
+- [Long-Term Bitcoin Investors Continue to Restrict Available Supply - Coinshares](https://coinshares.com/research/long-term-bitcoin-investors-continue-to-restrict-available-supply)
 - [Asset managers have a self-interest in crypto’s future - Financial Times](https://www.ft.com/content/71107d15-ed3d-4566-93be-383555aa29b0)
 
 ### Ecosystem - Blockchain
