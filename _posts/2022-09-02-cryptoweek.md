@@ -81,15 +81,15 @@ banner:
 - [Derivatives marketplace CME goes live with euro-denominated bitcoin, ether futures](https://www.theblock.co/post/166325/derivatives-marketplace-cme-goes-live-with-euro-denominated-bitcoin-ether-futures)
 - [Perpetual Futures Are the Crypto Innovation Finance Needs to Manage Inflation - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-08-31/perpetual-futures-are-the-crypto-innovation-finance-needs-to-manage-inflation)
 
-### Ecosystem - Arrested Tornado Cash Developer
-
-- [Wife of Arrested Tornado Cash Developer Denies Russia Secret Service Links - Coindesk](https://www.coindesk.com/policy/2022/08/26/wife-of-pertsev-arrested-tornado-cash-developer-denies-russia-secret-service-links)
-- [Pre-trial detention suspect Tornado Cash extended by 90 days - om.nl](https://www.om.nl/actueel/nieuws/2022/08/26/voorarrest-verdachte-tornado-cash-met-90-dagen-verlengd)
-
 ### Ecosystem - Censorship Resistance
 
 - [OFAC Sanctions & Ethereum PoS - Some Technical Nuances - BitMEX Blog](https://blog.bitmex.com/ofac-sanctions-ethereum-pos-some-technical-nuances/)
 - [Protecting Bitcoin's Censorship Resistance - BitMEX Blog](https://blog.bitmex.com/protecting-bitcoin-censorship-resistance)
+
+### Ecosystem - Arrested Tornado Cash Developer
+
+- [Wife of Arrested Tornado Cash Developer Denies Russia Secret Service Links - Coindesk](https://www.coindesk.com/policy/2022/08/26/wife-of-pertsev-arrested-tornado-cash-developer-denies-russia-secret-service-links)
+- [Pre-trial detention suspect Tornado Cash extended by 90 days - om.nl](https://www.om.nl/actueel/nieuws/2022/08/26/voorarrest-verdachte-tornado-cash-met-90-dagen-verlengd)
 
 ### Ecosystem - Bitcoin Mining
 
