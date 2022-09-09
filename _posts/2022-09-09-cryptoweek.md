@@ -15,7 +15,7 @@ banner:
     link: https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
-ß
+
 ### Ecosystem - Binance to Auto-Convert USDC
 
 - [Binance to Auto-Convert USDC, USDP, TUSD to BUSD (Binance USD) - Binance Support](https://www.binance.com/en/support/announcement/e62f703604a94538a1f1bc803b2d579f)
@@ -57,7 +57,7 @@ banner:
 
 ### Ecosystem - TradFi
 
-- [Franklin Templeton Introduces Digital Asset SMA Models on Eaglebrook Advisors’ Platform - Franklin Templeton](https://www.franklintempleton.com/press-releases/news-room/2022/franklin-templeton-introduces-digital-asset-sma-models-on-eaglebrook-advisors-platform)
+- [Franklin Templeton Introduces Digital Asset SMA Models - Franklin Templeton](https://www.franklintempleton.com/press-releases/news-room/2022/franklin-templeton-introduces-digital-asset-sma-models-on-eaglebrook-advisors-platform)
 
 ### Ecosystem - El Salvador
 
