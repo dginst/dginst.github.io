@@ -25,7 +25,7 @@ banner:
 ### Ecosystem - Ethereum Pow (ETHW)
 
 - [EthereumPoW - Twitter](https://twitter.com/EthereumPoW/status/1570398343679082496)
-- [ETHPoW goes live after Ethereum's proof-of-stake Merge](https://www.theblock.co/post/170463/ethpow-goes-live-after-ethereums-proof-of-stake-merge)
+- [ETHPoW goes live after Ethereum's proof-of-stake Merge - TheBlock](https://www.theblock.co/post/170463/ethpow-goes-live-after-ethereums-proof-of-stake-merge)
 - [EthereumPoW - Twitter](https://twitter.com/EthereumPoW/status/1570413723969552385)
 - [Ethereum PoW Network Sees Complaints on Day 1 Amid Data Goof-Up - Coindesk](https://www.coindesk.com/tech/2022/09/16/ethereum-pow-network-sees-complaints-on-day-1-amid-data-goof-up)
 - [EthereumPoW (ETHW) trading starts now + token distribution - Kraken Blog](https://blog.kraken.com/post/15482/ethereumpow-ethw-trading-starts-now-token-distribution/)
@@ -51,8 +51,8 @@ banner:
 
 ### Regulation
 
-- [The Conservative Party of Canada Elects Pro-Bitcoin Leader Pierre Poilievre as Party Head - Coindesk](https://www.coindesk.com/policy/2022/09/12/the-conservative-party-of-canada-elects-pro-bitcoin-leader-pierre-poilievre-as-party-head)
-- [SEC's Crypto Guidance Pushes US Banks to Rethink Custody Projects: Report - Coindesk](https://www.coindesk.com/policy/2022/09/16/secs-crypto-guidance-pushes-us-banks-to-rethink-custody-projects-report)
+- [The Conservative Party of Canada Elects Pro-Bitcoin Leader - Coindesk](https://www.coindesk.com/policy/2022/09/12/the-conservative-party-of-canada-elects-pro-bitcoin-leader-pierre-poilievre-as-party-head)
+- [SEC's Crypto Guidance Pushes US Banks to Rethink Custody Projects - Coindesk](https://www.coindesk.com/policy/2022/09/16/secs-crypto-guidance-pushes-us-banks-to-rethink-custody-projects-report)
 - [US Treasury Explains How Americans Can Recover Crypto Locked in Tornado Cash - Coindesk](https://www.coindesk.com/policy/2022/09/13/us-treasury-explains-how-us-persons-can-recover-crypto-locked-in-tornado-cash)
 - [Frequently Asked Questions - U.S. Department of the Treasury](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/added/2022-09-13)
 - [Crypto-assets and Climate Report - White House](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf)
@@ -71,5 +71,5 @@ banner:
 
 ### Ecosystem - Vitalik hackera il profilo Twitter del Ministero (FALSO) [ITA]
 
-- [Hackerato l'account Twitter del Ministero della Transizione ecologica: spunta il nome di Vitalik](https://www.notizie.it/hackerato-l-account-twitter-del-ministero-della-transizione-ecologica-spunta-il-nome-di-vitalik/)
+- [Hackerato l'account Twitter del Ministero della Transizione ecologica: spunta il nome di Vitalik - Notizie.it](https://www.notizie.it/hackerato-l-account-twitter-del-ministero-della-transizione-ecologica-spunta-il-nome-di-vitalik/)
 - [Hackerato il profilo Twitter del ministero per la Transizione ecologica da Vitalik Buterin - Corriere.it](https://www.corriere.it/politica/22_settembre_15/hackerato-profilo-twitter-ministero-transizione-ecologica-d6e4e2b6-34c8-11ed-a19f-3ea486a8cbed.shtml)
