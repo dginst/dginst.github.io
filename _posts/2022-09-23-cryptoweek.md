@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #84"
+title: "CryptoWeek #85"
 subtitle: "Il commento di Ferdinando Ametrano alle crypto-news della settimana" 
 author: "Staff"
 image:
@@ -44,19 +44,19 @@ banner:
 
 ### Ecosystem - TradFi
 
-- [JPMorgan CEO Jamie Dimon Calls Crypto Tokens Like Bitcoin (BTC) 'Ponzi Schemes’ - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-21/dimon-calls-out-cryptocurrency-as-decentralized-ponzi-schemes)
+- [JPMorgan CEO Jamie Dimon Calls Crypto Tokens Like Bitcoin 'Ponzi Schemes’ - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-21/dimon-calls-out-cryptocurrency-as-decentralized-ponzi-schemes)
 
 ### Ecosystem - Nasdaq
 
 - [Nasdaq Makes First Big Crypto Push to Lure Institutional Clients - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-20/nasdaq-makes-first-big-crypto-push-to-lure-institutional-clients)
 - [Nasdaq Starts Crypto Custody Service for Institutional Clients - Coindesk](https://www.coindesk.com/business/2022/09/20/nasdaq-starts-crypto-custody-services-for-institutional-clients)
 
-### Ecosystem - Miscellaneous
+### Ecosystem - Miscellanea
 
 - [Crypto Fees Are High. The Stock Market May Hold the Answer. - WSJ](https://www.wsj.com/articles/crypto-fees-are-high-the-stock-market-may-hold-the-answer-11663320614)
 - [Don’t Let the Crypto Winter Go to Waste - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-09-20/don-t-let-the-crypto-winter-go-to-waste)
 - [The lawless world of crypto scams - Financial Times](https://www.ft.com/content/5987649e-9345-4eae-a4b8-9bfb0142a2ab)
-- [Crypto-Tracer Chainalysis Busts Bitcoin (BTC) Anonymity - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-21/crypto-tracer-chainalysis-busts-bitcoin-btc-anonymity)
+- [Crypto-Tracer Chainalysis Busts Bitcoin Anonymity - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-21/crypto-tracer-chainalysis-busts-bitcoin-btc-anonymity)
 
 ### Regulation - ECB
 
