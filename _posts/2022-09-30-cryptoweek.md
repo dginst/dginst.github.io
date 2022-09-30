@@ -68,7 +68,7 @@ banner:
 
 - [More Woes for Grayscale Investors as Largest Bitcoin Fund Hits New All-Time Low - Decrypt](https://decrypt.co/110504/more-woes-grayscale-investors-largest-bitcoin-fund-hits-new-all-time-low)
 - [Grayscale Bitcoin Trust discount hits all-time low - TheBlock](https://www.theblock.co/post/172825/grayscale-bitcoin-trust-discount-hits-all-time-low-amid-crypto-market-downturn)
-- [GBTC Discount or Premium to NAV](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav)
+- [GBTC Discount or Premium to NAV - Ycharts](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav)
 
 ### Ecosystem - NFT
 
