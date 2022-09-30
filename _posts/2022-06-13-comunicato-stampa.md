@@ -36,6 +36,6 @@ mondo politico, finanziario, industriale, accademico, giornalistico e istituzion
 Gli interventi hanno toccato diversi temi, ma si sono fortemente incentrati su ZZZZ e TTTT.
 
 Il report DGI è trimestrale: l’edizione del secondo trimestre 2022 sarà presentata in anteprima il prossimo XX luglio.
-Nel frattempo, gli aggiornamenti settimanali su Bitcoin e dintorni sono ogni venerdì alle 18:00 su [CryptoWeek]({{site.baseurl}}/cryptoweek).
+Nel frattempo, gli aggiornamenti settimanali su Bitcoin e dintorni sono ogni venerdì alle 18 su [CryptoWeek]({{site.baseurl}}/cryptoweek).
 
 [Comunicato stampa in pdf]({{site.baseurl}}/docs/20220413-comunicato-stampa-report-dgi.pdf).
