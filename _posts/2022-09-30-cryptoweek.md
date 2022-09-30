@@ -24,7 +24,7 @@ banner:
 
 ### Ecosystem - FTX and Voyager
 
-- [Voyager Completes Successful Auction and Announces Agreement for FTX to Acquire Its Assets](https://www.prnewswire.com/news-releases/voyager-completes-successful-auction-and-announces-agreement-for-ftx-to-acquire-its-assets-301633679.html)
+- [Voyager Completes Successful Auction and Announces Agreement for FTX to Acquire Its Assets - PR Newswire](https://www.prnewswire.com/news-releases/voyager-completes-successful-auction-and-announces-agreement-for-ftx-to-acquire-its-assets-301633679.html)
 - [Crypto Exchange FTX Wins Bid to Buy Out Bankrupt Voyager for $1.4B - Decrypt](https://decrypt.co/110601/crypto-exchange-ftx-wins-bid-buy-out-bankrupt-voyager-1-4b)
 
 ### Ecosystem - Celsius
@@ -37,7 +37,7 @@ banner:
 ### Ecosystem - USDC
 
 - [Circle introduces bridging protocol focused on USDC payments - TheBlock](https://www.theblock.co/post/173529/circle-introduces-bridging-protocol-focused-on-usdc-payments)
-- [Circle Expands USDC Stablecoin to Five New Chains, Unveils Cross-Chain Transfer Protocol - Coindesk](https://www.coindesk.com/markets/2022/09/28/circle-expands-usdc-stablecoin-to-five-new-chains-unveils-cross-chain-transfer-protocol)
+- [Circle Expands USDC Stablecoin to Five New Chains - Coindesk](https://www.coindesk.com/markets/2022/09/28/circle-expands-usdc-stablecoin-to-five-new-chains-unveils-cross-chain-transfer-protocol)
 - [Native USDC on Cosmos to Fill Vacuum Left by Terra’s UST Stablecoin - Coindesk](https://www.coindesk.com/tech/2022/09/28/native-usdc-on-cosmos-to-fill-vacuum-left-by-terras-ust-stablecoin)
 - [Jack Dorsey’s TBD Teams Up With Circle to Take US Dollar Stablecoin Savings and Remittances Global - Coindesk](https://www.coindesk.com/business/2022/09/29/jack-dorseys-tbd-teams-up-with-circle-to-take-us-dollar-stablecoin-savings-and-remittances-global)
 
@@ -61,13 +61,13 @@ banner:
 
 ### Ecosystem - TradFi: SWIFT
 
-- [SWIFT Partners With Crypto Data Provider Chainlink on Cross-Chain Protocol in TradFi Play - Coindesk](https://www.coindesk.com/business/2022/09/28/swift-partners-with-crypto-data-provider-chainlink-on-cross-chain-protocol-in-tradfi-play/)
+- [SWIFT Partners With Crypto Data Provider Chainlink - Coindesk](https://www.coindesk.com/business/2022/09/28/swift-partners-with-crypto-data-provider-chainlink-on-cross-chain-protocol-in-tradfi-play/)
 - [SWIFT, Chainlink Labs reveal work on cross-chain proof-of-concept - TheBlock](https://www.theblock.co/post/173516/swift-chainlink-labs-reveal-work-on-cross-chain-proof-of-concept)
 
 ### Markets - GrayScale
 
 - [More Woes for Grayscale Investors as Largest Bitcoin Fund Hits New All-Time Low - Decrypt](https://decrypt.co/110504/more-woes-grayscale-investors-largest-bitcoin-fund-hits-new-all-time-low)
-- [Grayscale Bitcoin Trust discount hits all-time low amid crypto market downturn - TheBlock](https://www.theblock.co/post/172825/grayscale-bitcoin-trust-discount-hits-all-time-low-amid-crypto-market-downturn)
+- [Grayscale Bitcoin Trust discount hits all-time low - TheBlock](https://www.theblock.co/post/172825/grayscale-bitcoin-trust-discount-hits-all-time-low-amid-crypto-market-downturn)
 - [GBTC Discount or Premium to NAV](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav)
 
 ### Ecosystem - NFT
