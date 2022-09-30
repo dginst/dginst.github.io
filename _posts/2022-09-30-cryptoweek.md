@@ -52,17 +52,17 @@ banner:
 - [EU Lawmakers Attack Amazon’s Involvement in Digital Euro Project - Coindesk](https://www.coindesk.com/policy/2022/09/29/eu-lawmakers-attack-amazons-involvement-in-digital-euro-project)
 - [Digital Euro Could be More Popular Beyond EU's Borders: Lagarde - Coindesk](https://www.coindesk.com/policy/2022/09/28/digital-euro-could-be-more-popular-beyond-eus-borders-lagarde)
 
-### Ecosystem - TradFi: SWIFT
-
-- [SWIFT Partners With Crypto Data Provider Chainlink on Cross-Chain Protocol in TradFi Play - Coindesk](https://www.coindesk.com/business/2022/09/28/swift-partners-with-crypto-data-provider-chainlink-on-cross-chain-protocol-in-tradfi-play/)
-- [SWIFT, Chainlink Labs reveal work on cross-chain proof-of-concept - TheBlock](https://www.theblock.co/post/173516/swift-chainlink-labs-reveal-work-on-cross-chain-proof-of-concept)
-
 ### Regulation
 
 - [Industry Offers Cautious Welcome to EU’s Landmark Crypto Law MiCA - Coindesk](https://www.coindesk.com/policy/2022/09/28/industry-offers-cautious-welcome-to-eus-landmark-crypto-law-mica)
 - [Christine Lagarde - Twitter](https://twitter.com/Lagarde/status/1574700982008573952)
 - [SEC takes aim at crypto project and its 'market maker' over alleged manipulation - TheBlock](https://www.theblock.co/post/173588/sec-takes-aim-at-crypto-project-and-its-market-maker-over-alleged-manipulation)
 - [Bittrex, BitGo, 6 Other Firms Join Crypto Market Integrity Coalition - Coindesk](https://www.coindesk.com/business/2022/09/29/bittrex-bitgo-6-other-firms-join-crypto-market-integrity-coalition)
+
+### Ecosystem - TradFi: SWIFT
+
+- [SWIFT Partners With Crypto Data Provider Chainlink on Cross-Chain Protocol in TradFi Play - Coindesk](https://www.coindesk.com/business/2022/09/28/swift-partners-with-crypto-data-provider-chainlink-on-cross-chain-protocol-in-tradfi-play/)
+- [SWIFT, Chainlink Labs reveal work on cross-chain proof-of-concept - TheBlock](https://www.theblock.co/post/173516/swift-chainlink-labs-reveal-work-on-cross-chain-proof-of-concept)
 
 ### Markets - GrayScale
 
@@ -76,13 +76,12 @@ banner:
 
 ### Tech - Ethereum
 
-- [Hash rate - Coinmetrics](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb57fdf05-91d2-4a04-925b-52c0c1142c44_1200x709.png)
-- [Hash rate - Coinmetrics](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5231b6c-796a-4762-99f3-b57d5542c8ae_1200x706.png)
+- [ETH vs ETC Hashrate - Coinmetrics](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb57fdf05-91d2-4a04-925b-52c0c1142c44_1200x709.png)
 - [Stanford Proposal for Reversible Ethereum Transactions Divides Crypto Community - Coindesk](https://www.coindesk.com/tech/2022/09/28/stanford-proposal-for-reversible-ethereum-transactions-divides-crypto-community/)
 - [Bitcoiner’s Guide To Proof-Of-Stake - Bitcoin Magazine](https://bitcoinmagazine.com/technical/bitcoiners-guide-to-proof-of-stake)
 
 ### Tech - Bitcoin
 
 - [Understanding Bitcoin’s Fee-Based Security - Braiins](https://braiins.com/blog/bitcoin-fees-security-threats)
-- [Bitcoin Optech Newsletter #219 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/09/28/)
-- [MicroStrategy Looks to Hire Software Engineer for Building Bitcoin Lightning Network Infrastructure - Coindesk](https://www.coindesk.com/business/2022/09/30/microstrategy-looks-to-hire-software-engineer-for-building-bitcoin-lightning-network-infrastructure)
+- [Newsletter #219 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/09/28/)
+- [Bitcoin Hash rate - Coinmetrics](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5231b6c-796a-4762-99f3-b57d5542c8ae_1200x706.png)
