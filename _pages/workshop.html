@@ -202,31 +202,31 @@ permalink: /workshop/
                     {% assign today_date = 'today' | date: '%yyyy-%mm-%dd' %}
                     {% assign early_date = "2022-10-21" | date: '%yyyy-%mm-%dd' %}
                     {% assign regular_date = "2022-11-08" | date: '%yyyy-%mm-%dd' %}
-                    {% assign past_date = "2020-01-01" | date: '%yyyy-%mm-%dd' %}
+                    {% assign event_date = "2022-11-17" | date: '%yyyy-%mm-%dd' %}
 
                     {% if today_date > early_date %}<s>{% endif %}
                     Tariffe <em>EARLYBIRD (fino al 21 ottobre)</em>:<br>
-                    15 novembre: giornata funzionale <b>€490</b><br>
+                    17 novembre: giornata funzionale <b>€490</b><br>
                     18 novembre: giornata tecnica <b>€350</b><br>
-                    15 e 18 novembre: giornata funzionale e giornata tecnica <b>€690</b><br>
+                    17 e 18 novembre: giornata funzionale e giornata tecnica <b>€690</b><br>
                     {% if today_date > early_date %}</s>{% endif %}
                     <br>
                     {% if today_date > regular_date %}<s>{% endif %}
                     Tariffe <em>REGULAR (fino all' 8 novembre)</em>:<br>
-                    15 novembre: giornata funzionale <b>€690</b><br>
+                    17 novembre: giornata funzionale <b>€690</b><br>
                     18 novembre: giornata tecnica <b>€490</b><br>
-                    15 e 18 novembre: giornata funzionale e giornata tecnica <b>€990</b><br>
+                    17 e 18 novembre: giornata funzionale e giornata tecnica <b>€990</b><br>
                     {% if today_date > regular_date %}</s>{% endif %}
                     <br>
+                    {% if today_date > event_date %}<s>{% endif %}
                     Tariffe <em>LATECOMER</em> per chi si iscrive nell'ultima settimana:<br>
-                    15 novembre: giornata funzionale <b>€990</b><br>
+                    17 novembre: giornata funzionale <b>€990</b><br>
                     18 novembre: giornata tecnica <b>€690</b><br>
-                    15 e 18 novembre: giornata funzionale e giornata tecnica <b>€1390</b><br>
+                    17 e 18 novembre: giornata funzionale e giornata tecnica <b>€1390</b><br>
                     <br>
-                    {% if today_date < past_date %}<s>{% endif %}
                     Tariffe <em>STUDENT</em> per studenti con e-mail e tesserino universitario:<br>
-                    15 e 18 novembre: giornata funzionale e giornata tecnica <b>€140</b>.
-                    {% if today_date < past_date %}</s>{% endif %}
+                    17 e 18 novembre: giornata funzionale e giornata tecnica <b>€140</b>.
+                    {% if today_date > event_date %}</s>{% endif %}
                 </p>
             </div>
         </div>
