@@ -21,6 +21,11 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
+- **2022Q3**: presentazione ([video](https://youtu.be/W3grsM51FNo)
+  e [slide]({{site.baseurl}}/docs/reports/2022Q3-presentation.pdf)).  
+  Ospiti: Michele Mandelli (Managing Partner, CheckSig)
+  su Investire in Bitcoin e Cripto: le sfide della custodia sicura.
+  Andrea Pantaleo (Lead Lawyer, DLA Piper) su OFAC e Transfer of Funds Regulation.
 - **2022Q2**: presentazione ([video](https://youtu.be/W3grsM51FNo)
   e [slide]({{site.baseurl}}/docs/reports/2022Q2-presentation.pdf)).  
   Ospite: Andrea Cilio (Responsabile Marketing e Sviluppo Commerciale, Banca Profilo e Tinaba)
