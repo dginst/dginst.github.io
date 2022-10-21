@@ -21,7 +21,7 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
-- **2022Q3**: presentazione ([video](https://youtu.be/W3grsM51FNo)
+- **2022Q3**: presentazione ([video](https://youtu.be/4rVSj83-31Y)
   e [slide]({{site.baseurl}}/docs/reports/2022Q3-presentation.pdf)).  
   Ospiti: Michele Mandelli (Managing Partner, CheckSig)
   su Investire in Bitcoin e Cripto: le sfide della custodia sicura.
