@@ -37,7 +37,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20220315-workshop.jpg
+    main: workshop.jpg
     size: 200
     thumb: 20201020-workshop-thumb.jpg
   eventfeed: true
@@ -59,7 +59,7 @@
   discount_code:
   discount_code_publish:
   image:
-    main: 20220315-workshop.jpg
+    main: workshop.jpg
     size: 200
     thumb: 20201020-workshop-thumb.jpg
   eventfeed: true
