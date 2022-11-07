@@ -16,30 +16,43 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
+
+
 ### Markets
+
+- [October 2022 Market Recap and Outlook - Kraken](https://kraken.docsend.com/view/epp2edbh685akemb)
 
 ### Ecosystem - Twitter
 
-### Ecosystem - Binance
+- [Twitter Reportedly Halts Work on Crypto Wallet, Driving DOGE Down 8%](https://www.coindesk.com/business/2022/11/04/twitter-halts-work-on-crypto-wallet-report-dogecoin-drops-4)
 
-### Ecosystem - FTX
+### Ecosystem - Coinbase
 
-### Ecosystem - Celsius
+- [Coinbase MTUs beat estimates, trading volumes miss](https://www.theblock.co/post/182340/coinbase-mtus-beat-estimates-trading-volumes-miss)
+- [Coinbase Cuts Q3 Losses in Half, Sees Crypto Headwinds Continuing Into 2023](https://www.coindesk.com/business/2022/11/03/coinbase-cuts-q3-losses-in-half-to-545m)
 
-### Ecosystem - Hacks
+### Ecosystem - Binance and FTX
 
-### Ecosystem - Frauds
+- [Binance to Sell Rest of FTX Token Holdings as Alameda CEO Defends Firm's Financial Condition](https://www.coindesk.com/business/2022/11/06/binance-sells-holdings-of-ftx-token-as-alameda-ceo-defends-firms-financial-condition/)
+- [CZ (Binance) - Twitter](https://twitter.com/cz_binance/status/1589283421704290306)
+- [Open Interest in FTT Futures Doubles as Binance Moves to Liquidate FTX Token Holdings](https://www.coindesk.com/markets/2022/11/07/open-interest-in-ftt-futures-doubles-to-203-million-as-binance-decides-to-sell-ftxs-native-token/)
 
-### Ecosystem - Tether
+### Ecosystem - Binance and regulators
 
-### Ecosystem - Lugano
+- [Crypto exchange Binance helped Iranian firms trade $8 billion despite sanctions | Reuters](https://www.reuters.com/business/finance/exclusive-crypto-exchange-binance-helped-iranian-firms-trade-8-billion-despite-2022-11-04)
 
-### Ecosystem - DeFi
+### Ecosystem - Altcoins
 
-### Ecosystem - TradFi
+- [Bernstein Says Polygon Blockchain Is the Web3 King](https://www.coindesk.com/business/2022/11/07/bernstein-says-polygon-blockchain-is-the-web3-king)
+- [Google Cloud adding BigQuery support for Solana in Q1 2023](https://www.theblock.co/post/183459/google-cloud-adding-bigquery-support-for-solana-in-q1-2023)
 
-### Regulation - US
+### Ecosystem - Stablecoins
 
-### Regulation - CBDC
+- [Circle Begins Putting Reserves Into New BlackRock Fund](https://www.coindesk.com/business/2022/11/03/circle-begins-putting-reserves-into-new-blackrock-fund/)
+
+### Regulation - EU
+
+- [EU Delays Vote on MiCA Crypto Legislation Until February](https://www.coindesk.com/policy/2022/11/04/eu-delays-vote-on-mica-crypto-legislation-until-february)
+- [EU’s MiCA regulation vote deferred to February 2023: spokesperson](https://www.theblock.co/post/182776/eus-mica-regulation-vote-deferred-to-february-2023-spokesperson)
 
 ### Tech - Bitcoin
