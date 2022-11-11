@@ -77,7 +77,7 @@ banner:
 - [FTX's Bankman-Fried: Seeking capital raise, talked to Justin Sun - Reuters](https://www.reuters.com/technology/ftxs-bankman-fried-seeking-capital-raise-talked-justin-sun-memo-2022-11-10/)
 - [justinsuntron - Twitter](https://twitter.com/justinsuntron/status/1590539831276634112)
 - [Sam Bankman-Fried (SBF) Was Seen By VCs as a Model Founder at FTX - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-11-10/sam-bankman-fried-sbf-was-seen-by-vcs-as-a-model-founder-at-ftx)
-- [Bankman-Fried’s Cabal of Roommates in the Bahamas Ran His Crypto Empire – and Dated. Other Employees Have Lots of Questions](https://www.coindesk.com/business/2022/11/10/bankman-frieds-cabal-of-roommates-in-the-bahamas-ran-his-crypto-empire-and-dated-other-employees-have-lots-of-questions/)
+- [Bankman-Fried’s Cabal of Roommates in the Bahamas Ran His Crypto Empire](https://www.coindesk.com/business/2022/11/10/bankman-frieds-cabal-of-roommates-in-the-bahamas-ran-his-crypto-empire-and-dated-other-employees-have-lots-of-questions/)
 - [FTX Tapped Into Customer Accounts to Fund Risky Bets, Setting Up Its Downfall - WSJ](https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732)
 - [FTX used $4 billion including customer funds to keep Alameda afloat: Reuters](https://www.theblock.co/post/185176/ftx-used-4-billion-including-customer-funds-to-keep-alameda-afloat-reuters)
 - [FTX Collapse Sparks Alarm From US Lawmakers](https://www.coindesk.com/policy/2022/11/10/ftx-collapse-sparks-alarm-from-us-lawmakers/)
@@ -88,7 +88,7 @@ banner:
 
 - [AutismCapital - Twitter](https://twitter.com/AutismCapital/status/1590962643682361345)
 - [FTX's Regional Crypto Exchanges Slowly Reopen Withdrawals](https://www.coindesk.com/policy/2022/11/11/ftxs-regional-crypto-exchanges-slowly-reopen-withdrawals/)
-- [FTX Employees Were 'Completely in the Dark,' Former Division Head of Crypto Exchange Says](https://www.wsj.com/livecoverage/stock-market-news-today-11-11-2022/card/ftx-employees-were-completely-in-the-dark-former-division-head-of-crypto-exchange-says-Y1r3ANGbiJPX7muOowLm)
+- [FTX Employees Were 'Completely in the Dark'](https://www.wsj.com/livecoverage/stock-market-news-today-11-11-2022/card/ftx-employees-were-completely-in-the-dark-former-division-head-of-crypto-exchange-says-Y1r3ANGbiJPX7muOowLm)
 - [Rumors continue to fly surrounding Sam Bankman-Fried and the fall of FTX](https://cointelegraph.com/news/rumors-continue-to-fly-surrounding-sam-bankman-fried-and-the-fall-of-ftx)
 
 ### FTX: Contagion
@@ -98,8 +98,8 @@ banner:
 - [Sequoia Capital marks its FTX investment down to zero dollars - TechCrunch](https://techcrunch.com/2022/11/09/sequoia-capital-marks-its-ftx-investment-down-to-zero-dollars)
 - [Wintermute says it has funds on crypto exchange FTX, but it's not 'significant'](https://www.theblock.co/post/184792/wintermute-says-it-has-funds-on-crypto-exchange-ftx-but-its-not-significant)
 - [CoinShares discloses $30.3 million exposure to FTX, none to Alameda](https://www.theblock.co/post/185309/coinshares-discloses-30-3-million-exposure-to-ftx-none-to-alameda)
-- [Crypto trading firm GSR will cover client losses from FTX collapse, will no longer trade on Huobi](https://www.theblock.co/post/185315/crypto-trading-firm-gsr-will-cover-client-losses-from-ftx-collapse-will-no-longer-trade-on-huobi)
-- [Crypto Financial Firm Galaxy Digital Reveals $76.8M FTX Exposure as CEO Novogratz Hunkers Down](https://www.coindesk.com/business/2022/11/09/crypto-finance-firm-galaxy-digital-reveals-768m-exposure-linked-to-ftx/)
+- [Crypto trading firm GSR will cover client losses from FTX collapse](https://www.theblock.co/post/185315/crypto-trading-firm-gsr-will-cover-client-losses-from-ftx-collapse-will-no-longer-trade-on-huobi)
+- [Crypto Financial Firm Galaxy Digital Reveals $76.8M FTX Exposure](https://www.coindesk.com/business/2022/11/09/crypto-finance-firm-galaxy-digital-reveals-768m-exposure-linked-to-ftx/)
 - [sequoia - Twitter](https://twitter.com/sequoia/status/1590522718650499073)
 - [BlockFi - Twitter](https://twitter.com/BlockFi/status/1590875997351866368)
 - [Crypto Lender BlockFi Halts Withdrawals, Citing FTX’s Problems - WSJ](https://www.wsj.com/articles/crypto-lender-blockfi-halts-withdrawals-citing-ftxs-problems-11668142538)
