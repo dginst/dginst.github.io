@@ -32,8 +32,8 @@ banner:
 
 ### FTX: November 7
 
-- [CZ (Binance) - Twitter](https://twitter.com/cz_binance/status/1589695556909424640)
 - [mrjasonchoi - Twitter](https://twitter.com/mrjasonchoi/status/1589541601801801729)
+- [CZ (Binance) - Twitter](https://twitter.com/cz_binance/status/1589695556909424640)
 - [Open Interest in FTT Futures Doubles as Binance Moves to Liquidate FTX Token Holdings](https://www.coindesk.com/markets/2022/11/07/open-interest-in-ftt-futures-doubles-to-203-million-as-binance-decides-to-sell-ftxs-native-token/)
 - [SBF (FTX) - Twitter](https://twitter.com/SBF_FTX/status/1589399420487208960)
 - [FTX CEO Sam Bankman-Fried Denies Insolvency Rumors as Binance Liquidates FTT Token](https://www.coindesk.com/business/2022/11/07/ftx-ceo-sam-bankman-fried-denies-insolvency-rumors-as-binance-liquidates-ftt-token)
@@ -41,6 +41,7 @@ banner:
 
 ### FTX: November 8
 
+- [Binance CEO not interested in Alameda’s offer to buy up its FTT holdings](https://cointelegraph.com/news/binance-ceo-not-interested-in-alameda-s-offer-to-buy-up-its-ftt-holdings)
 - [wassielawyer - Twitter](https://twitter.com/wassielawyer/status/1589929384269746183)
 - [FTX Exchange Halts All Crypto Withdrawals](https://www.coindesk.com/business/2022/11/08/ftx-exchange-halts-all-crypto-withdrawals/)
 - [Binance's Zhao SBF'ed FTX's Bankman-Fried - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-11-08/binance-s-zhao-sbf-ed-ftx-s-bankman-fried)
@@ -48,14 +49,13 @@ banner:
 - [CZ (Binance) - Twitter](https://twitter.com/cz_binance/status/1590013613586411520)
 - [jonwu_ - Twitter](https://twitter.com/jonwu_/status/1590099676744646656)
 - [CZ (Binance) - Twitter](https://twitter.com/cz_binance/status/1590103159506341888)
-- [Binance CEO not interested in Alameda’s offer to buy up its FTT holdings](https://cointelegraph.com/news/binance-ceo-not-interested-in-alameda-s-offer-to-buy-up-its-ftt-holdings)
 - [FTX, RIP - by Byrne Hobart](https://www.thediff.co/p/ftx-rip)
 
 ### FTX: November 9
 
 - [FTX Was Reportedly Hit With $6 Billion in Withdrawals in Just 72 Hours](https://markets.businessinsider.com/news/currencies/ftx-6-billion-withdrawals-72-hours-sam-bankman-fried-binance-2022-11)
-- [$1 Binance FTX Deal is Off Unless FTX.US is Part of the Package - Blockworks](https://blockworks.co/news/1-binance-ftx-deal-is-off-unless-ftx-us-is-part-of-the-package-source/)
 - [Why Did FTX Pause Withdrawals if It Wasn't Trading Customer Funds?](https://www.coindesk.com/layer2/2022/11/09/why-did-ftx-pause-withdrawals-if-it-wasnt-trading-customer-funds/)
+- [$1 Binance FTX Deal is Off Unless FTX.US is Part of the Package - Blockworks](https://blockworks.co/news/1-binance-ftx-deal-is-off-unless-ftx-us-is-part-of-the-package-source/)
 - [FTX-Binance Deal: Sam Bankman-Fried’s Downfall Stuns Crypto Market - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-09/ftx-binance-deal-sam-bankman-fried-s-downfall-stuns-crypto-world)
 - [LucasNuzzi - Twitter](https://twitter.com/LucasNuzzi/status/1590122590206824448)
 - [CZ (Binance) - Twitter](https://twitter.com/cz_binance/status/1590351182513729544)
@@ -71,11 +71,11 @@ banner:
 - [SBF (FTX) - Twitter](https://twitter.com/SBF_FTX/status/1590709166515310593)
 - [Behind FTX's fall, battling billionaires and a failed bid to save crypto - Reuters](https://www.reuters.com/technology/exclusive-behind-ftxs-fall-battling-billionaires-failed-bid-save-crypto-2022-11-10/)
 - [FTX looks for $9.4 bln in rescue funds, Bahamas freezes some assets - Reuters](https://www.reuters.com/markets/currencies/crypto-markets-teeter-with-ftx-after-binance-abandons-bailout-2022-11-10)
-- [FTX Assets Frozen by Bahamian Regulator](https://www.coindesk.com/business/2022/11/10/ftx-digital-markets-assets-frozen-by-bahamian-regulator-bloomberg)
-- [SBF (FTX) - Twitter](https://twitter.com/SBF_FTX/status/1590774827467812865)
 - [Several Investors in Talks for $9.4B FTX Rescue](https://www.coindesk.com/business/2022/11/10/dan-loebs-hedge-fund-third-point-among-those-in-talks-for-ftx-rescue/)
+- [SBF (FTX) - Twitter](https://twitter.com/SBF_FTX/status/1590774827467812865)
 - [FTX's Bankman-Fried: Seeking capital raise, talked to Justin Sun - Reuters](https://www.reuters.com/technology/ftxs-bankman-fried-seeking-capital-raise-talked-justin-sun-memo-2022-11-10/)
 - [justinsuntron - Twitter](https://twitter.com/justinsuntron/status/1590539831276634112)
+- [FTX Assets Frozen by Bahamian Regulator](https://www.coindesk.com/business/2022/11/10/ftx-digital-markets-assets-frozen-by-bahamian-regulator-bloomberg)
 - [Sam Bankman-Fried (SBF) Was Seen By VCs as a Model Founder at FTX - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-11-10/sam-bankman-fried-sbf-was-seen-by-vcs-as-a-model-founder-at-ftx)
 - [Bankman-Fried’s Cabal of Roommates in the Bahamas Ran His Crypto Empire](https://www.coindesk.com/business/2022/11/10/bankman-frieds-cabal-of-roommates-in-the-bahamas-ran-his-crypto-empire-and-dated-other-employees-have-lots-of-questions/)
 - [FTX Tapped Into Customer Accounts to Fund Risky Bets, Setting Up Its Downfall - WSJ](https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732)
@@ -90,17 +90,18 @@ banner:
 - [FTX's Regional Crypto Exchanges Slowly Reopen Withdrawals](https://www.coindesk.com/policy/2022/11/11/ftxs-regional-crypto-exchanges-slowly-reopen-withdrawals/)
 - [FTX Employees Were 'Completely in the Dark'](https://www.wsj.com/livecoverage/stock-market-news-today-11-11-2022/card/ftx-employees-were-completely-in-the-dark-former-division-head-of-crypto-exchange-says-Y1r3ANGbiJPX7muOowLm)
 - [Rumors continue to fly surrounding Sam Bankman-Fried and the fall of FTX](https://cointelegraph.com/news/rumors-continue-to-fly-surrounding-sam-bankman-fried-and-the-fall-of-ftx)
+- [Crypto Exchange FTX Files for Bankruptcy in US; CEO Sam Bankman-Fried Resigns](https://www.coindesk.com/policy/2022/11/11/ftx-files-for-bankruptcy-protections-in-us/)
 
 ### FTX: Contagion
 
 - [Bitcoin Price Could Fall to $13,000 after FTX Crisis, JPM Warns - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-10/jpmorgan-strategists-warn-of-cascading-crypto-margin-calls-due-to-ftx-crisis)
 - [Crypto Broker Genesis Says Derivatives Business Has About $175 Million on FTX - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-10/genesis-derivatives-business-has-about-175m-on-ftx-platform)
-- [Sequoia Capital marks its FTX investment down to zero dollars - TechCrunch](https://techcrunch.com/2022/11/09/sequoia-capital-marks-its-ftx-investment-down-to-zero-dollars)
 - [Wintermute says it has funds on crypto exchange FTX, but it's not 'significant'](https://www.theblock.co/post/184792/wintermute-says-it-has-funds-on-crypto-exchange-ftx-but-its-not-significant)
 - [CoinShares discloses $30.3 million exposure to FTX, none to Alameda](https://www.theblock.co/post/185309/coinshares-discloses-30-3-million-exposure-to-ftx-none-to-alameda)
 - [Crypto trading firm GSR will cover client losses from FTX collapse](https://www.theblock.co/post/185315/crypto-trading-firm-gsr-will-cover-client-losses-from-ftx-collapse-will-no-longer-trade-on-huobi)
 - [Crypto Financial Firm Galaxy Digital Reveals $76.8M FTX Exposure](https://www.coindesk.com/business/2022/11/09/crypto-finance-firm-galaxy-digital-reveals-768m-exposure-linked-to-ftx/)
 - [sequoia - Twitter](https://twitter.com/sequoia/status/1590522718650499073)
+- [Sequoia Capital marks its FTX investment down to zero dollars - TechCrunch](https://techcrunch.com/2022/11/09/sequoia-capital-marks-its-ftx-investment-down-to-zero-dollars)
 - [BlockFi - Twitter](https://twitter.com/BlockFi/status/1590875997351866368)
 - [Crypto Lender BlockFi Halts Withdrawals, Citing FTX’s Problems - WSJ](https://www.wsj.com/articles/crypto-lender-blockfi-halts-withdrawals-citing-ftxs-problems-11668142538)
 - [Crypto Lender BlockFi Pauses Withdrawals in Wake of FTX Collapse](https://www.coindesk.com/business/2022/11/10/crypto-lender-blockfi-pauses-withdrawals-in-wake-of-ftx-collapse/)
