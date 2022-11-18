@@ -109,11 +109,6 @@ banner:
 - [US authorities seize $3.36 billion in bitcoin from decade-old Silk Road hack - TheBlock](https://www.theblock.co/post/183702/us-authorities-seize-3-36-billion-in-bitcoin-from-decade-old-silk-road-hack)
 - [Crypto Seizure of $3.4 Billion From Silk Road Scammer Is Announced - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-07/feds-score-3-billion-crypto-seizure-from-silk-road-scammer)
 
-### Tech - Bitcoin
-
-- [Newsletter #225 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/11/09/)
-- [RBF Debate Is Incentives And Choice - Bitcoin Magazine](https://bitcoinmagazine.com/technical/rbf-debate-is-incentives-and-choice)
-
 ### Ecosystem - Twitter
 
 - [Twitter Reportedly Halts Work on Crypto Wallet, Driving DOGE Down 8% - CoinDesk](https://www.coindesk.com/business/2022/11/04/twitter-halts-work-on-crypto-wallet-report-dogecoin-drops-4)
