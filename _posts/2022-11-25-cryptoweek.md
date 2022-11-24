@@ -55,4 +55,6 @@ banner:
 
 ### Ecosystem - Coinbase
 
-### Ecosystem - Stablecoins
+### Regulation - Italian Crypto Tax
+
+- [Cripto e legge di bilancio - DGI](https://www.youtube.com/watch?list=PLtlgRmG7i2ym9Ri_9G5A-pxi_S669nQgd&v=PXGaq8wLN8Y)
