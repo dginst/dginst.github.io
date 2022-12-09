@@ -19,7 +19,7 @@ banner:
 
 ### Ecosystem - FTX
 
-- [Mystery of Terra (UST) Collapse Deepens With Possible FTX Role Raised - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-08/mystery-of-terra-ust-collapse-deepens-with-possible-ftx-role-raised)
+- [Mystery of Terra Collapse Deepens With Possible FTX Role Raised - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-08/mystery-of-terra-ust-collapse-deepens-with-possible-ftx-role-raised)
 - [Revealed: the Alameda venture capital portfolio - Financial Times](https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6)
 - [A Handful of Simple Rules Might Have Prevented FTX’s Demise - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-08/a-handful-of-simple-rules-might-have-prevented-ftx-s-demise)
 - [Accounting Red Flags Are Common Among Public Crypto Companies - WSJ](https://www.wsj.com/articles/accounting-red-flags-are-common-among-public-crypto-companies-11670395681)
@@ -42,7 +42,7 @@ banner:
 ### Ecosystem - Coinbase
 
 - [Coinbase CEO Armstrong Confirms Street Expectations for a 50%-Plus Decline in Revenue in 2022 - CoinDesk](https://www.coindesk.com/business/2022/12/07/coinbase-ceo-armstrong-confirms-street-expectations-for-50-plus-decline-in-revenue-in-2022)
-- [Coinbase CEO Armstrong Sees 2022 Revenue Down 50% or More (COIN) - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-07/coinbase-crypto-ceo-brian-armstrong-sees-revenue-falling-by-half-in-2022?leadSource=uverify+wall)
+- [Coinbase CEO Armstrong Sees 2022 Revenue Down 50% or More (COIN) - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-07/coinbase-crypto-ceo-brian-armstrong-sees-revenue-falling-by-half-in-2022)
 - [Crypto Exchange Coinbase Asks Users to Switch USDT for USDC - CoinDesk](https://www.coindesk.com/business/2022/12/09/coinbase-asks-users-to-switch-usdt-for-usdc)
 
 ### Ecosystem - Circle
@@ -53,7 +53,7 @@ banner:
 
 ### Ecosystem - Binance
 
-- [Binance CEO CZ on FTX, building trust in crypto and revenue opportunities in a truly DeFI world - YouTube](https://www.youtube.com/watch?v=3DjbDy9Kc8s&t=220s)
+- [Binance CEO CZ on FTX, building trust in crypto and revenue opportunities - YouTube](https://www.youtube.com/watch?v=3DjbDy9Kc8s&t=220s)
 - [Binance Generates 90% of Revenue From Transaction Fees, Changpeng Zhao Says - CoinDesk](https://www.coindesk.com/business/2022/12/07/binance-generates-90-of-revenue-from-transaction-fees-changpeng-zhao-says)
 - [Binance's Bitcoin Reserves Are Overcollateralized, New Report Says - CoinDesk](https://www.coindesk.com/business/2022/12/07/binances-bitcoin-reserves-are-overcollateralized-says-audit)
 
@@ -65,7 +65,7 @@ banner:
 
 ### Ecosystem - TradFi
 
-- [Goldman Sachs al salvataggio delle società cripto](https://www.milanofinanza.it/news/goldman-sachs-al-salvataggio-delle-societa-cripto-dopo-che-il-mercato-ha-perso-il-70-del-valore-202212061139066684)
+- [Goldman Sachs al salvataggio delle società cripto - Milano Finanza](https://www.milanofinanza.it/news/goldman-sachs-al-salvataggio-delle-societa-cripto-dopo-che-il-mercato-ha-perso-il-70-del-valore-202212061139066684)
 - [Goldman Sachs on hunt for bargain crypto firms after FTX fiasco - Reuters](https://www.reuters.com/technology/goldman-sachs-hunt-bargain-crypto-firms-after-ftx-fiasco-2022-12-06)
 - [Goldman Sachs to Spend 'Tens of Millions' on Crypto Investments After FTX Implosion - CoinDesk](https://www.coindesk.com/business/2022/12/06/goldman-sachs-to-spend-tens-of-millions-on-discounted-crypto-investments-after-ftx-implosion-report)
 - [Blockchain Is Much More Than Crypto - WSJ](https://www.wsj.com/articles/blockchain-is-much-more-than-crypto-david-solomon-goldman-sachs-smart-contracts-11670345993)
