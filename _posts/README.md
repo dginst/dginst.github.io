@@ -17,7 +17,10 @@ permalink: /cryptoweekinternal/
 \?tpl.*\)
 
 : Report]
+: Sources]
 ]
+
+[The Block: 
 
 ](https://www.theblock
 ](https://www.coindesk
