@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: ZmxIdjHurlY
-published: false
+published: true
 cryptoweek: true
 podcast:
     id: 11885530
@@ -90,7 +90,7 @@ banner:
 
 ### Tech - Bitcoin
 
-- [Bitcoin Optech Newsletter #231: 2022 Year-in-Review Special - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/12/21/)
+- [Newsletter #231: 2022 Year-in-Review Special - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2022/12/21/)
 
 ### Ecosystem - 2002 overview
 
