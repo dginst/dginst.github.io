@@ -19,18 +19,18 @@ banner:
 ### Ecosystem - Mango
 
 - [DeFi Exchange Mango Markets Will Soon Start Refunding Users for $114M Exploit- Coindesk](https://www.coindesk.com/business/2022/10/20/mango-markets-will-start-returning-stolen-funds-from-114-exploit)
-- [Mango Markets exploiter comes clean, claims all actions were legal - TheBlock](https://www.theblock.co/post/177424/mango-markets-exploiter-comes-clean-claims-all-actions-were-legal)
+- [Mango Markets exploiter comes clean, claims all actions were legal - The Block](https://www.theblock.co/post/177424/mango-markets-exploiter-comes-clean-claims-all-actions-were-legal)
 
 ### Regulation - EU
 
 - [Europe Set to Roll Out Energy Efficiency Labels for Blockchains - Decrypt](https://decrypt.co/112311/europe-set-roll-out-energy-efficiency-labels-blockchains)
-- [EU Commission warns crypto mining may be halted in energy emergency - TheBlock](https://www.theblock.co/post/177966/eu-commission-warns-crypto-mining-may-be-halted-in-energy-emergency)
+- [EU Commission warns crypto mining may be halted in energy emergency - The Block](https://www.theblock.co/post/177966/eu-commission-warns-crypto-mining-may-be-halted-in-energy-emergency)
 - [Actions to digitalise the energy sector](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_6228)
 - [Communication: Digitalising the energy system - EU action plan COM(2022)552/2](https://energy.ec.europa.eu/communication-digitalising-energy-system-eu-action-plan-com20225522_en)
 
 ### Regulation - France
 
-- [France approves its third-biggest bank to operate digital asset services - TheBlock](https://www.theblock.co/post/177478/france-approves-its-third-biggest-bank-to-operate-digital-asset-services)
+- [France approves its third-biggest bank to operate digital asset services - The Block](https://www.theblock.co/post/177478/france-approves-its-third-biggest-bank-to-operate-digital-asset-services)
 
 ### Regulation - SEC
 
@@ -59,7 +59,7 @@ banner:
 
 ### Ecosystem - Uniswap
 
-- [Uniswap Labs valued at $1.66 billion after $165 million Series B - TheBlock](https://www.theblock.co/post/176944/uniswap-labs-valued-at-1-66-billion-after-165-million-series-b)
+- [Uniswap Labs valued at $1.66 billion after $165 million Series B - The Block](https://www.theblock.co/post/176944/uniswap-labs-valued-at-1-66-billion-after-165-million-series-b)
 - [Binance Becomes Second-Largest Voting Entity on Uniswap DAO- Coindesk](https://www.coindesk.com/tech/2022/10/19/binance-becomes-second-largest-voting-entity-on-uniswap-dao)
 
 ### Ecosystem - Kraken

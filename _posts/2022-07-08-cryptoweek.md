@@ -28,7 +28,7 @@ banner:
 - [Crypto hedge fund Three Arrows files for Chapter 15 bankruptcy](https://www.cnbc.com/2022/07/02/crypto-hedge-fund-three-arrows-files-for-chapter-15-bankruptcy.html)
 - [Genesis Faces ‘Hundreds of Millions’ in Losses as 3AC Exposure Swamps Crypto Lenders - coindesk](https://www.coindesk.com/business/2022/06/29/genesis-faces-hundreds-of-millions-in-losses-as-3ac-exposure-swamps-crypto-lenders-sources/)
 - [Celsius Accused of Fraud in Lawsuit by Ex-Employee - coindesk](https://www.coindesk.com/business/2022/07/07/celsius-accused-of-fraud-in-lawsuit-by-ex-employee)
-- [Celsius accused of fraud in lawsuit by former money manager - theblock](https://www.theblock.co/post/156494/celcius-accused-of-fraud-in-lawsuit-by-former-money-manager)
+- [Celsius accused of fraud in lawsuit by former money manager - The Block](https://www.theblock.co/post/156494/celcius-accused-of-fraud-in-lawsuit-by-former-money-manager)
 - [Celsius Sends $500M of Bitcoin Derivative to Crypto Exchange After Debt Payoff - coindesk](https://www.coindesk.com/markets/2022/07/07/celsius-sends-500m-of-bitcoin-derivative-to-crypto-exchange-after-debt-payoff)
 - [Celsius Customers Are Losing Hope for Their Locked-Up Crypto - WSJ](https://www.wsj.com/articles/celsius-customers-are-losing-hope-for-their-locked-up-crypto-11656840601)
 - [Zac Prince (BlockFi) - Twitter](https://twitter.com/BlockFiZac/status/1542934038469640192)
@@ -36,7 +36,7 @@ banner:
 ### Ecosystem - FTX
 
 - [FTX US Gains 'Option to Acquire' BlockFi for Up to $240M - coindesk](https://www.coindesk.com/business/2022/07/01/blockfi-reaches-deal-with-ftx-us)
-- [FTX walked away from a deal with Celsius after seeing state of its finances - theblock](https://www.theblock.co/post/155069/ftx-walked-away-from-celsius-deal)
+- [FTX walked away from a deal with Celsius after seeing state of its finances - The Block](https://www.theblock.co/post/155069/ftx-walked-away-from-celsius-deal)
 - [Crypto exchange FTX has "a few billion" to support industry - Bankman-Fried - Reuters](https://www.reuters.com/technology/crypto-exchange-ftx-has-few-billion-support-industry-bankman-fried-2022-07-06)
 
 ### Ecosystem - DeFi
@@ -52,13 +52,13 @@ banner:
 
 - [Gary Gensler’s Bitcoin Regulation Grab - WSJ](https://www.wsj.com/articles/gary-genslers-bitcoin-land-grab-sec-hester-peirce-bitwise-grayscale-exchange-traded-products-11657144533)
 - [Fact Sheet: Framework for International Engagement on Digital Assets - U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/jy0854)
-- [Treasury sends Biden framework for international work on crypto over the next year - theblock](https://www.theblock.co/post/156435/treasury-sends-biden-framework-for-international-work-on-crypto-over-the-next-year)
+- [Treasury sends Biden framework for international work on crypto over the next year - The Block](https://www.theblock.co/post/156435/treasury-sends-biden-framework-for-international-work-on-crypto-over-the-next-year)
 - [Prudential treatment of cryptoasset exposures - second consultation](https://www.bis.org/bcbs/publ/d533.htm)
 
 ### Regulation - Stablecoins
 
 - [Jeremy Allaire on Twitter](https://twitter.com/jerallaire/status/1543227128350744577)
-- [Central African Republic launches national cryptocurrency called 'Sango Coin' - theblock](https://www.theblock.co/post/155665/central-african-republic-launches-national-cryptocurrency-called-sango-coin)
+- [Central African Republic launches national cryptocurrency called 'Sango Coin' - The Block](https://www.theblock.co/post/155665/central-african-republic-launches-national-cryptocurrency-called-sango-coin)
 
 ### Miscellanea
 

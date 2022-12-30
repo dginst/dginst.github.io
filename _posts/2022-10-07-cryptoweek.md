@@ -24,7 +24,7 @@ banner:
 ### Ecosystem - BNB
 
 - [BNB Chain Halts After 'Potential Exploit' Drained Estimated $100M in Crypto - Coindesk](https://www.coindesk.com/business/2022/10/06/binance-linked-bnb-price-falls-close-to-4-on-hack-rumors)
-- [Binance confirms BNB cross-chain bridge hack - TheBlock](https://www.theblock.co/post/175403/bnb-smart-chain-halted-amid-potential-bridge-exploit)
+- [Binance confirms BNB cross-chain bridge hack - The Block](https://www.theblock.co/post/175403/bnb-smart-chain-halted-amid-potential-bridge-exploit)
 
 ### Ecosystem - Zcash
 
@@ -55,7 +55,7 @@ banner:
 
 - [Nasdaq Will Wait for Regulation Before Launching Its Own Crypto Exchange - Bloomberg](https://www.bloomberg.com/news/articles/2022-10-04/nasdaq-to-wait-for-regulation-before-launching-crypto-exchange)
 - [Asset Management Giant Fidelity Adds to Crypto Offerings With Ethereum Index Fund - Coindesk](https://www.coindesk.com/business/2022/10/04/asset-management-giant-fidelity-adds-to-crypto-offerings-with-ethereum-index-fund)
-- [Fidelity reveals Ethereum index fund with $5,000,000 in sales in new filing - TheBlock](https://www.theblock.co/post/174806/fidelity-reveals-ethereum-index-fund-with-5000000-in-sales-in-new-filing)
+- [Fidelity reveals Ethereum index fund with $5,000,000 in sales in new filing - The Block](https://www.theblock.co/post/174806/fidelity-reveals-ethereum-index-fund-with-5000000-in-sales-in-new-filing)
 
 ### Ecosystem - Stablecoins
 
@@ -66,12 +66,12 @@ banner:
 
 ### Regulation - EU
 
-- [The European Council passes MiCA, EU’s comprehensive crypto regulation - TheBlock](https://www.theblock.co/post/174994/the-european-council-passes-mica-eus-comprehensive-crypto-regulation)
+- [The European Council passes MiCA, EU’s comprehensive crypto regulation - The Block](https://www.theblock.co/post/174994/the-european-council-passes-mica-eus-comprehensive-crypto-regulation)
 - [EU Seals Text of Landmark Crypto Law MiCA, Fund Transfer Rules - Coindesk](https://www.coindesk.com/policy/2022/10/05/eu-seals-text-of-landmark-crypto-law-mica-fund-transfer-rules)
 - [After 2 Years of Debate, Europe Finalizes Landmark Crypto Rules - Decrypt](https://decrypt.co/111302/after-2-years-debate-europe-finalizes-landmark-crypto-rules)
 - [Market in Crypto-Asset Regulation - EU](https://data.consilium.europa.eu/doc/document/ST-13198-2022-INIT/en/pdf)
 - [EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions - Coindesk](https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/)
-- [EU bans crypto payments from Russia in new sanctions package - TheBlock](https://www.theblock.co/post/175263/eu-bans-crypto-payments-from-russia-in-new-sanctions-package)
+- [EU bans crypto payments from Russia in new sanctions package - The Block](https://www.theblock.co/post/175263/eu-bans-crypto-payments-from-russia-in-new-sanctions-package)
 - [Why Russia Isn’t Relying on Crypto to Evade Sanctions - Coindesk](https://www.coindesk.com/layer2/2022/09/19/why-russia-isnt-relying-on-crypto-to-evade-sanctions)
 
 ### Regulation - Afghanistan

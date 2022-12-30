@@ -25,7 +25,7 @@ banner:
 ### Ecosystem - Ethereum Pow (ETHW)
 
 - [EthereumPoW - Twitter](https://twitter.com/EthereumPoW/status/1570398343679082496)
-- [ETHPoW goes live after Ethereum's proof-of-stake Merge - TheBlock](https://www.theblock.co/post/170463/ethpow-goes-live-after-ethereums-proof-of-stake-merge)
+- [ETHPoW goes live after Ethereum's proof-of-stake Merge - The Block](https://www.theblock.co/post/170463/ethpow-goes-live-after-ethereums-proof-of-stake-merge)
 - [EthereumPoW - Twitter](https://twitter.com/EthereumPoW/status/1570413723969552385)
 - [Ethereum PoW Network Sees Complaints on Day 1 Amid Data Goof-Up - Coindesk](https://www.coindesk.com/tech/2022/09/16/ethereum-pow-network-sees-complaints-on-day-1-amid-data-goof-up)
 - [EthereumPoW (ETHW) trading starts now + token distribution - Kraken Blog](https://blog.kraken.com/post/15482/ethereumpow-ethw-trading-starts-now-token-distribution/)

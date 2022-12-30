@@ -22,8 +22,8 @@ banner:
 - [Arrest of suspected developer of Tornado Cash - FIOD](https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/)
 - [Netherlands Arrests Suspected Developer of Sanctioned Crypto-Mixing Service Tornado Cash - Coindesk](https://www.coindesk.com/policy/2022/08/12/netherlands-arrests-suspected-tornado-cash-developer)
 - [Arrested Tornado Cash developer is Alexey Pertsev, his wife confirms](https://www.theblock.co/post/163297/arrested-tornado-cash-developer-is-alexey-pertsev-his-wife-confirms)
-- ['Dangerous' precedent: crypto execs slam arrest of suspected Tornado Cash developer - TheBlock](https://www.theblock.co/post/163252/dangerous-precedent-crypto-execs-slam-arrest-of-suspected-tornado-cash-developer)
-- [Tornado Cash developer arrest sparks fears of global crypto enforcement - TheBlock](https://www.theblock.co/post/163415/tornado-cash-developer-arrest-sparks-fears-of-global-crypto-enforcement)
+- ['Dangerous' precedent: crypto execs slam arrest of suspected Tornado Cash developer - The Block](https://www.theblock.co/post/163252/dangerous-precedent-crypto-execs-slam-arrest-of-suspected-tornado-cash-developer)
+- [Tornado Cash developer arrest sparks fears of global crypto enforcement - The Block](https://www.theblock.co/post/163415/tornado-cash-developer-arrest-sparks-fears-of-global-crypto-enforcement)
 - [Tornado Cash's Discord Appears to go Dark - Coindesk](https://www.coindesk.com/business/2022/08/12/tornado-cashs-discord-appears-to-go-dark)
 - [Analysis: What is and what is not a sanctionable entity in the Tornado Cash case - Coin Center](https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/)
 - [Coin Center Says It May Challenge Tornado Cash Ban in Court - Decrypt](https://decrypt.co/107475/coin-center-tornado-cash-ban-court)
@@ -59,7 +59,7 @@ banner:
 - [Canadian pension giant writes off $150mn Celsius investment - Financial Times](https://www.ft.com/content/67048159-82aa-4e96-bfb3-f1764f632375)
 - [Alex Mashinsky took control of Celsius trading strategy months before bankruptcy - Financial Times](https://www.ft.com/content/43d4fb5d-72a1-468c-aac8-9e11c4693f4e)
 - [Genesis CEO exits after crypto broker took hit from Three Arrows collapse - Financial Times](https://www.ft.com/content/b4226f44-d244-4cd1-a63e-997622189187)
-- [South Korean investigators 'haven’t reached out' about Terra collapse, says Do Kwon - TheBlock](https://www.theblock.co/post/163521/south-korean-investigators-havent-reached-out-about-terra-collapse-says-do-kwon)
+- [South Korean investigators 'haven’t reached out' about Terra collapse, says Do Kwon - The Block](https://www.theblock.co/post/163521/south-korean-investigators-havent-reached-out-about-terra-collapse-says-do-kwon)
 - [Inside Crypto's Largest Collapse with Terra's Do Kwon](https://www.coinage.media/s1/inside-cryptos-largest-collapse-with-terras-do-kwon)
 
 ### Ecosystem - Acala
@@ -78,14 +78,14 @@ banner:
 ### Regulation
 
 - [Crypto poses serious challenges for regulators - Financial Times](https://www.ft.com/content/7cf3a743-809f-425d-89f2-d6c6057c1d41)
-- [The EU is on the verge of creating a new AML regulator that will oversee crypto - TheBlock](https://www.theblock.co/post/163556/the-eu-is-on-the-verge-of-creating-a-new-aml-regulator-that-will-oversee-crypto)
+- [The EU is on the verge of creating a new AML regulator that will oversee crypto - The Block](https://www.theblock.co/post/163556/the-eu-is-on-the-verge-of-creating-a-new-aml-regulator-that-will-oversee-crypto)
 - ['Memorandum of Understanding' Between SEC and CFTC Needed in US Crypto Regulation - Coindesk](https://www.coindesk.com/video/state-of-crypto-regulation-policy/memorandum-of-understanding-between-sec-and-cftc-needed-in-us-crypto-regulation-cftc-commissioner-2/)
 - [Engagement in Crypto-Asset-Related Activities by Federal Reserve-Supervised Banking Organizations - The Fed](https://www.federalreserve.gov/supervisionreg/srletters/SR2206.htm)
 - [US Regulator 'Improperly' Pushing Banks to Avoid Serving Crypto Companies, Lawmaker Says - Coindesk](https://www.coindesk.com/policy/2022/08/17/us-regulator-improperly-pushing-banks-to-avoid-serving-crypto-companies-lawmaker-says)
 - [Fed Warns Banks Jumping Into Crypto to Do Legal Homework First - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-16/fed-warns-banks-jumping-into-crypto-to-do-legal-homework-first)
 - [Final guidelines for a transparent, risk-based, and consistent set of factors for Reserve Banks - The Fed](https://www.federalreserve.gov/newsevents/pressreleases/other20220815a.htm)
 - [US Fed Opens Pathway for Crypto Banks to Tap Central Banking System - Coindesk](https://www.coindesk.com/policy/2022/08/15/us-fed-opens-pathway-for-crypto-banks-to-tap-central-banking-system/)
-- [Federal Reserve opens up master account access to banks with 'novel charters' - TheBlock](https://www.theblock.co/post/163628/federal-reserve-opens-up-master-account-access-to-banks-with-novel-charters-in-win-for-crypto-and-fintech)
+- [Federal Reserve opens up master account access to banks with 'novel charters' - The Block](https://www.theblock.co/post/163628/federal-reserve-opens-up-master-account-access-to-banks-with-novel-charters-in-win-for-crypto-and-fintech)
 - [Dragonchain - SEC](https://www.sec.gov/litigation/litreleases/2022/lr25468.htm)
 - [Coinbase Crypto Insider Trading May Be Wider Than US Case, Study Says - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-17/coinbase-insider-trading-may-be-wider-than-us-case-study-says)
 
@@ -93,7 +93,7 @@ banner:
 
 - [GALAXY ANNOUNCES TERMINATION OF BITGO ACQUISITION](https://www.newswire.ca/news-releases/galaxy-announces-termination-of-bitgo-acquisition-806604223.html)
 - [BitGo Reacts to Receipt Of Galaxy Digital’s Notice of Merger Termination - Business Wire](https://www.businesswire.com/news/home/20220815005605/en/BitGo-Reacts-to-Receipt-Of-Galaxy-Digital%E2%80%99s-Notice-of-Merger-Termination)
-- [BitGo says it will seek over $100 million after Galaxy moves to end acquisition - TheBlock](https://www.theblock.co/post/163596/bitgo-says-it-will-seek-over-100-million-after-galaxy-moves-to-end-acquisition)
+- [BitGo says it will seek over $100 million after Galaxy moves to end acquisition - The Block](https://www.theblock.co/post/163596/bitgo-says-it-will-seek-over-100-million-after-galaxy-moves-to-end-acquisition)
 - [BitGo Seeks Merger Termination Fee From Novogratz's Galaxy Digital (GLXY CN) - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-15/novogratz-s-galaxy-terminates-1-2-billion-bitgo-acquisition)
 
 ### Ecosystem - Ukraine

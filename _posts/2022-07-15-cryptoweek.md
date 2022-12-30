@@ -32,7 +32,7 @@ banner:
 
 - [Crypto hedge fund Three Arrows' liquidators get OK to claim U.S. assets - Reuters](https://www.reuters.com/technology/crypto-hedge-fund-three-arrows-liquidators-get-ok-claim-us-assets-2022-07-12/)
 - [Singapore's crypto aspirations shaken by Three Arrows collapse - Reuters](https://www.reuters.com/technology/singapores-crypto-aspirations-shaken-by-three-arrows-collapse-2022-07-12/)
-- [Three Arrows Capital's Zhu Su breaks silence, accuses liquidators of 'baiting' - TheBlock](https://www.theblock.co/post/157058/three-arrows-capitals-zhu-su-breaks-silence-accused-liquidators-of-baiting)
+- [Three Arrows Capital's Zhu Su breaks silence, accuses liquidators of 'baiting' - The Block](https://www.theblock.co/post/157058/three-arrows-capitals-zhu-su-breaks-silence-accused-liquidators-of-baiting)
 - [Three Arrows Founders Davies, Su's Whereabouts Unknown, Foiling Liquidators - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-11/three-arrows-founders-whereabouts-unknown-stymying-liquidators)
 - [How Crypto Hedge Fund Three Arrows Capital Fell Apart (3AC) - Bloomberg](https://www.bloomberg.com/news/features/2022-07-13/how-crypto-hedge-fund-three-arrows-capital-fell-apart-3ac)
 
@@ -41,8 +41,8 @@ banner:
 - [Crypto Exchange Blockchain.com Faces $270M Hit on Loans to Three Arrows Capital - Coindesk](https://www.coindesk.com/business/2022/07/08/crypto-exchange-blockchaincom-faces-250m-hit-on-loans-to-three-arrows-capital)
 - [Update on Customer USD and Crypto - Voyager](https://www.investvoyager.com/blog/update-on-customer-assets/)
 - [Voyager Clarifies USD Deposit Status in Update - Coindesk](https://www.coindesk.com/business/2022/07/11/voyager-clarifies-usd-deposit-concerns-in-update)
-- [Vauld issues letter to its creditors, disclosing $70 million shortfall - TheBlock](https://www.theblock.co/post/156901/vauld-letter-creditors-shortfall-70-million)
-- [BlockFi softens stance, says it could accept GBTC as collateral - TheBlock](https://www.theblock.co/post/157120/blockfi-will-no-longer-accept-gbtc-as-collateral)
+- [Vauld issues letter to its creditors, disclosing $70 million shortfall - The Block](https://www.theblock.co/post/156901/vauld-letter-creditors-shortfall-70-million)
+- [BlockFi softens stance, says it could accept GBTC as collateral - The Block](https://www.theblock.co/post/157120/blockfi-will-no-longer-accept-gbtc-as-collateral)
 
 ### Ecosystem
 
@@ -53,10 +53,10 @@ banner:
 ### Regulation
 
 - [Global regulators back 'same risk, same regulation' for stablecoins - Reuters](https://www.reuters.com/technology/global-regulators-back-same-risk-same-regulation-stablecoins-2022-07-13)
-- [G20 regulators call for new global rules on cryptocurrencies - TheBlock](https://www.theblock.co/post/156856/g20-regulators-call-for-new-global-rules-on-cryptocurrencies)
+- [G20 regulators call for new global rules on cryptocurrencies - The Block](https://www.theblock.co/post/156856/g20-regulators-call-for-new-global-rules-on-cryptocurrencies)
 - [SEC Chair Gary Gensler: Crypto Lenders Offered 'Too Good to Be True' Returns - Decrypt](https://decrypt.co/105120/sec-chair-gary-gensler-crypto-lenders-too-good-to-be-true)
 - [SEC Weighs Waiving Some Rules to Regulate Crypto, Gary Gensler Says - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-14/sec-weighs-waiving-some-rules-to-regulate-crypto-gensler-says)
-- [Gensler: SEC could tailor disclosures for crypto firms - TheBlock](https://www.theblock.co/post/157658/gensler-sec-could-tailor-disclosures-for-crypto-firms)
+- [Gensler: SEC could tailor disclosures for crypto firms - The Block](https://www.theblock.co/post/157658/gensler-sec-could-tailor-disclosures-for-crypto-firms)
 
 ### Regulation - ETF
 

@@ -39,7 +39,7 @@ banner:
 
 - [Dutch central bank fines Binance in blow to exchange’s European push - Financial Times](https://www.ft.com/content/75f6ba16-d259-45f3-b6c3-b15ba9f53e92)
 - [Binance Fined $3.4M by Dutch Central Bank - Coindesk](https://www.coindesk.com/business/2022/07/18/binance-fined-over-33m-by-dutch-central-bank)
-- [Dutch central bank fines Binance €3.3 million for operating without registration - TheBlock](https://www.theblock.co/post/158074/dutch-central-bank-fines-binance)
+- [Dutch central bank fines Binance €3.3 million for operating without registration - The Block](https://www.theblock.co/post/158074/dutch-central-bank-fines-binance)
 
 ### Regulation - Stablecoins
 

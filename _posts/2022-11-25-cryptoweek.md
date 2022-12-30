@@ -37,8 +37,8 @@ banner:
 
 ### Ecosystem - Grayscale
 
-- [Grayscale won’t share proof of reserves, citing ‘security concerns’ - TheBlock](https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns)
-- [Grayscale's GBTC discount to NAV hits record low - TheBlock](https://www.theblock.co/post/188811/grayscales-gbtc-discount-to-nav-hits-record-low)
+- [Grayscale won’t share proof of reserves, citing ‘security concerns’ - The Block](https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns)
+- [Grayscale's GBTC discount to NAV hits record low - The Block](https://www.theblock.co/post/188811/grayscales-gbtc-discount-to-nav-hits-record-low)
 - [‘Grayscale Discount’ Widens to Record 43% as FTX Contagion Spreads - CoinDesk](https://www.coindesk.com/markets/2022/11/18/grayscale-discount-widens-to-record-43-as-ftx-contagion-spreads)
 - [Cathie Wood's Ark Invest Buys $1.5M in Grayscale Bitcoin Trust Shares - CoinDesk](https://www.coindesk.com/business/2022/11/22/cathie-woods-ark-buys-15m-of-shares-in-grayscales-bitcoin-trust-at-record-discount)
 - [Situation at Crypto Trading Firm Genesis Doesn’t Directly Affect Grayscale - CoinDesk](https://www.coindesk.com/markets/2022/11/21/bernstein-grayscale-bitcoin-trust-is-protected-from-fallout-at-sibling-company-genesis-global)
@@ -62,14 +62,14 @@ banner:
 
 ### Ecosystem - FTX Exploiter
 
-- [Ether under pressure as 'FTX Accounts Drainer' cashes out for bitcoin - TheBlock](https://www.theblock.co/post/188624/ether-under-pressure-as-ftx-accounts-drainer-cashes-out-for-bitcoin)
+- [Ether under pressure as 'FTX Accounts Drainer' cashes out for bitcoin - The Block](https://www.theblock.co/post/188624/ether-under-pressure-as-ftx-accounts-drainer-cashes-out-for-bitcoin)
 - [FTX Exploiter Converts Millions in Ether to Alameda-Linked Ren Bitcoin Tokens - CoinDesk](https://www.coindesk.com/tech/2022/11/20/ftx-exploiter-converts-millions-in-ether-to-alameda-linked-ren-bitcoin-tokens)
 - [FTX Exploiter Transfers $200M in Ether to 12 Crypto Wallets - CoinDesk](https://www.coindesk.com/markets/2022/11/21/ftx-exploiter-transfers-200m-in-ether-to-various-crypto-wallets)
 
 ### Ecosystem - Ethereum
 
 - [Tornado Cash Developer Alexey Pertsev to Remain in Jail Until at Least Late Februrary - CoinDesk](https://www.coindesk.com/policy/2022/11/22/tornado-cash-developer-alexey-pertsev-to-remain-in-jail-until-at-least-late-februrary)
-- [ConsenSys says it collects IP addresses of MetaMask users via Infura - TheBlock](https://www.theblock.co/post/189717/consensys-says-it-collects-ip-addresses-of-metamask-users-via-infura)
+- [ConsenSys says it collects IP addresses of MetaMask users via Infura - The Block](https://www.theblock.co/post/189717/consensys-says-it-collects-ip-addresses-of-metamask-users-via-infura)
 
 ### Regulation - CBDC
 

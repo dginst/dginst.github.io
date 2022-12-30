@@ -33,7 +33,7 @@ banner:
 
 - [BlockFi Has $355M in Crypto Frozen on FTX, Attorney Confirms - CoinDesk](https://www.coindesk.com/policy/2022/11/29/blockfi-has-355m-in-crypto-frozen-on-ftx-attorney-confirms)
 - [BlockFi Files for Bankruptcy as FTX Contagion Spreads - CoinDesk](https://www.coindesk.com/policy/2022/11/28/ftx-fallout-continues-as-crypto-lender-blockfi-declares-bankruptcy)
-- [Silvergate Capital reports less than $20 million in BlockFi deposit exposure - TheBlock](https://www.theblock.co/post/190478/silvergate-capital-reports-less-than-20-million-in-blockfi-deposit-exposure)
+- [Silvergate Capital reports less than $20 million in BlockFi deposit exposure - The Block](https://www.theblock.co/post/190478/silvergate-capital-reports-less-than-20-million-in-blockfi-deposit-exposure)
 
 ### Ecosystem - Tether
 
@@ -42,8 +42,8 @@ banner:
 ### Ecosystem - Binance
 
 - [Binance Enters Japan With Acquisition of Regulated Crypto Exchange Sakura - CoinDesk](https://www.coindesk.com/business/2022/11/30/binance-enters-japan-with-acquisition-of-regulated-crypto-exchange-sakura)
-- [Binance’s bailout fund is a welcome backstop for crypto — but questions remain - TheBlock](https://www.theblock.co/post/190177/binances-bailout-fund-backstop-crypto-questions)
-- [Binance releases proof-of-reserves system, starting with bitcoin - TheBlock](https://www.theblock.co/post/189946/binance-releases-proof-of-reserves-system-starting-with-bitcoin)
+- [Binance’s bailout fund is a welcome backstop for crypto — but questions remain - The Block](https://www.theblock.co/post/190177/binances-bailout-fund-backstop-crypto-questions)
+- [Binance releases proof-of-reserves system, starting with bitcoin - The Block](https://www.theblock.co/post/189946/binance-releases-proof-of-reserves-system-starting-with-bitcoin)
 
 ### Ecosystem - Grayscale
 

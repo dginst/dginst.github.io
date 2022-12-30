@@ -31,18 +31,18 @@ banner:
 
 - [Solana Wallets Targeted in Latest Multimillion-Dollar Hack - Coindesk](https://www.coindesk.com/markets/2022/08/03/phantom-wallet-exploit-drains-millions-in-sol-tokens)
 - [Solana Status - Twitter](https://twitter.com/SolanaStatus/status/1554817790091182080)
-- [Solana team traces exploit back to Slope mobile wallets - TheBlock](https://www.theblock.co/post/161325/solana-team-traces-exploit-back-to-slope-mobile-wallets)
+- [Solana team traces exploit back to Slope mobile wallets - The Block](https://www.theblock.co/post/161325/solana-team-traces-exploit-back-to-slope-mobile-wallets)
 - [Solana wallets ‘drained’ in blow to crypto network - Financial Times](https://www.ft.com/content/65e5829f-8107-48a8-a5d0-f7a8c8f79df3)
 - [Solana Spaces Brings Crypto to Real World Despite Virtual Setbacks - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-03/solana-brings-crypto-to-real-world-while-virtual-setbacks-abound)
 
 ### Ecosystem - Babel
 
 - [Lender Babel Finance Lost $280M Trading Customer Funds: Report - Coindesk](https://www.coindesk.com/business/2022/07/29/babel-finance-lost-280m-trading-customer-funds-report)
-- [Babel Finance lost over $280 million in proprietary trading with customer funds - TheBlock](https://www.theblock.co/post/160230/babel-finance-crypto-lost-280-million-proprietary-trading-restructuring)
+- [Babel Finance lost over $280 million in proprietary trading with customer funds - The Block](https://www.theblock.co/post/160230/babel-finance-crypto-lost-280-million-proprietary-trading-restructuring)
 
 ### Ecosystem - Nomad
 
-- [Nomad's $190 million bridge exploit drew hacking feeding frenzy of 300 addresses - TheBlock](https://www.theblock.co/post/160851/nomads-190-million-bridge-exploit-drew-hacking-feeding-frenzy-of-300-addresses)
+- [Nomad's $190 million bridge exploit drew hacking feeding frenzy of 300 addresses - The Block](https://www.theblock.co/post/160851/nomads-190-million-bridge-exploit-drew-hacking-feeding-frenzy-of-300-addresses)
 - [Hackers Return $9M to Nomad Bridge After $190M Exploit - Coindesk](https://www.coindesk.com/business/2022/08/03/hackers-send-back-9m-to-nomad-bridge-after-190m-exploit/)
 
 ### Ecosystem - Cross-chain Bridge Hacks
@@ -58,7 +58,7 @@ banner:
 ### Ecosystem - Michael Saylor
 
 - [Michael Saylor Bet Billions on Bitcoin and Lost - WSJ](https://www.wsj.com/articles/michael-saylor-bet-billions-on-bitcoin-and-lost-11659538890)
-- [Michael Saylor to step down as MicroStrategy CEO, shift to executive chairman role - TheBlock](https://www.theblock.co/post/161025/michael-saylor-to-step-down-as-microstrategy-ceo-shift-to-executive-chairman-role)
+- [Michael Saylor to step down as MicroStrategy CEO, shift to executive chairman role - The Block](https://www.theblock.co/post/161025/michael-saylor-to-step-down-as-microstrategy-ceo-shift-to-executive-chairman-role)
 
 ### Regulation - SEC
 

@@ -19,7 +19,7 @@ banner:
 ### Regulation - ETF
 
 - [SEC Rejects Grayscale’s Spot Bitcoin ETF Application - Coindesk](https://www.coindesk.com/policy/2022/06/30/sec-rejects-grayscales-spot-bitcoin-etf-application)
-- [SEC rejects Grayscale's bid to convert GBTC to a Bitcoin ETF - theblock](https://www.theblock.co/post/154924/sec-rejects-grayscales-bid-to-convert-gbtc-to-a-bitcoin-etf)
+- [SEC rejects Grayscale's bid to convert GBTC to a Bitcoin ETF - The Block](https://www.theblock.co/post/154924/sec-rejects-grayscales-bid-to-convert-gbtc-to-a-bitcoin-etf)
 - [SEC Rejects Grayscale Bid to Turn Biggest Bitcoin Fund Into ETF - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-30/sec-rejects-grayscale-bid-to-turn-biggest-bitcoin-fund-into-etf)
 - [Grayscale Sues SEC Over Bitcoin ETF Application Rejection - Coindesk](https://www.coindesk.com/policy/2022/06/30/grayscale-sues-sec-over-bitcoin-etf-application-rejection)
 - [VanEck Files New Application for Spot Bitcoin ETF - Coindesk](https://www.coindesk.com/business/2022/07/01/vaneck-files-new-application-for-spot-bitcoin-etf)
@@ -34,8 +34,8 @@ banner:
 ### Celsius and 3AC
 
 - [Celsius Shareholder BnkToTheFuture Proposes Bitcoin Investments, Restructuring in Rescue Bid - Coindesk](https://www.coindesk.com/business/2022/07/01/celsius-shareholder-bnktothefuture-proposes-bitcoin-investments-restructuring-in-rescue-bid)
-- [Singapore authorities reprimand 3AC for providing false information - theblock](https://www.theblock.co/post/155048/singapore-authorities-reprimand-three-arrows-capital-for-providing-false-information)
-- [£AC liquidation - theblock](https://www.theblock.co/post/154809/three-arrows-capital-liquidation-teneo)
+- [Singapore authorities reprimand 3AC for providing false information - The Block](https://www.theblock.co/post/155048/singapore-authorities-reprimand-three-arrows-capital-for-providing-false-information)
+- [£AC liquidation - The Block](https://www.theblock.co/post/154809/three-arrows-capital-liquidation-teneo)
 
 ### Market
 
@@ -52,7 +52,7 @@ banner:
 ### Ecosystem - FTX
 
 - [Sam Bankman-Fried’s FTX Is Seeking a Path to Buy Robinhood (HOOD) - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-27/bankman-fried-s-ftx-said-to-be-seeking-path-for-robinhood-deal)
-- [FTX BlockFi deal - theblock](https://www.theblock.co/post/154929/ftx-blockfi-deal-sources)
+- [FTX BlockFi deal - The Block](https://www.theblock.co/post/154929/ftx-blockfi-deal-sources)
 - [Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows - Coindesk](https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/)
 - [Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”](https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent)
 
@@ -63,7 +63,7 @@ banner:
 
 ### Ecosystem - OpenSea
 
-- [OpenSea hit by data breach after email delivery partner leaks addresses - theblock](https://www.theblock.co/linked/155010/opensea-hit-by-data-breach)
+- [OpenSea hit by data breach after email delivery partner leaks addresses - The Block](https://www.theblock.co/linked/155010/opensea-hit-by-data-breach)
 - [Important Update on Email Vendor Security Incident - OpenSea Blog](https://opensea.io/blog/safety-security/important-update-on-email-vendor-security-incident/)
 
 ### Ecosystem - Mining
@@ -80,7 +80,7 @@ banner:
 
 ### OneCoin
 
-- [OneCoin founder Ruja Ignatova to be added to FBI's most wanted list - theblock](https://www.theblock.co/post/155109/onecoin-founder-ruja-ignatova-to-be-added-to-fbis-most-wanted-list)
+- [OneCoin founder Ruja Ignatova to be added to FBI's most wanted list - The Block](https://www.theblock.co/post/155109/onecoin-founder-ruja-ignatova-to-be-added-to-fbis-most-wanted-list)
 
 ### Hayek and Friedman
 

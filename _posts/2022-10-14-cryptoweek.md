@@ -19,10 +19,10 @@ banner:
 
 ### Ecosystem - Google and Coinbase
 
-- [Google and Coinbase partner on plan to offer crypto payments for cloud services - TheBlock](https://www.theblock.co/post/176131/google-and-coinbase-partner-on-plan-to-offer-crypto-payments-for-cloud-services)
+- [Google and Coinbase partner on plan to offer crypto payments for cloud services - The Block](https://www.theblock.co/post/176131/google-and-coinbase-partner-on-plan-to-offer-crypto-payments-for-cloud-services)
 - [Google Partners With Coinbase to Accept Crypto Payments for Cloud Services - Coindesk](https://www.coindesk.com/business/2022/10/11/google-partners-with-coinbase-to-accept-crypto-payments-for-cloud-services)
 - [Google’s Partnership With Coinbase Is ‘Validation’ for the Crypto Industry - Coindesk](https://www.coindesk.com/business/2022/10/12/googles-partnership-with-coinbase-is-validation-for-the-crypto-industry-oppenheimer)
-- [Google now showing Ethereum wallet balances - TheBlock](https://www.theblock.co/post/176153/google-now-showing-ethereum-wallet-balances)
+- [Google now showing Ethereum wallet balances - The Block](https://www.theblock.co/post/176153/google-now-showing-ethereum-wallet-balances)
 
 ### Ecosystem - TradFi
 
@@ -31,10 +31,10 @@ banner:
 ### Ecosystem - Investment
 
 - [Crypto Asset Manager BlockTower Launches $150M Venture-Capital Fund - Coindesk](https://www.coindesk.com/business/2022/10/13/crypto-asset-manager-blocktower-launches-150m-venture-capital-fund-report)
-- [Crypto custodial firm Copper raises $196 million in Series C round - TheBlock](https://www.theblock.co/post/176752/crypto-custodial-firm-copper-raises-196-million-in-series-c-round)
+- [Crypto custodial firm Copper raises $196 million in Series C round - The Block](https://www.theblock.co/post/176752/crypto-custodial-firm-copper-raises-196-million-in-series-c-round)
 - [Crypto Custodian Copper Raises $196M in Series C Funding Round - Coindesk](https://www.coindesk.com/business/2022/10/12/crypto-custodian-cooper-raises-196m-in-series-c-funding-round)
 - [Crypto Exchange Uniswap Labs Raises $165M in Polychain Capital-Led Round - Coindesk](https://www.coindesk.com/business/2022/10/13/crypto-exchange-uniswap-labs-raises-165m-in-polychain-capital-led-round)
-- [Uniswap Labs valued at $1.66 billion after $165 million Series B - TheBlock](https://www.theblock.co/post/176944/uniswap-labs-valued-at-1-66-billion-after-165-million-series-b)
+- [Uniswap Labs valued at $1.66 billion after $165 million Series B - The Block](https://www.theblock.co/post/176944/uniswap-labs-valued-at-1-66-billion-after-165-million-series-b)
 - [Binance May Spend Over $1 Billion This Year on Deals, CZ Says - Bloomberg](https://www.bloomberg.com/news/articles/2022-10-07/binance-may-spend-over-1-billion-this-year-on-deals-zhao-says)
 
 ### Ecosystem - BNB Hack
@@ -54,22 +54,22 @@ banner:
 
 ### Regulation - EU
 
-- [EU Commission seeks automated Ethereum DeFi monitoring - TheBlock](https://www.theblock.co/post/175920/eu-commission-seeks-automated-ethereum-defi-monitoring)
-- [EU’s landmark digital asset legislation passes committee vote in European Parliament - TheBlock](https://www.theblock.co/post/175842/eus-landmark-digital-asset-legislation-passes-committee-vote-in-european-parliament)
+- [EU Commission seeks automated Ethereum DeFi monitoring - The Block](https://www.theblock.co/post/175920/eu-commission-seeks-automated-ethereum-defi-monitoring)
+- [EU’s landmark digital asset legislation passes committee vote in European Parliament - The Block](https://www.theblock.co/post/175842/eus-landmark-digital-asset-legislation-passes-committee-vote-in-european-parliament)
 
 ### Regulation - SEC
 
 - [US SEC Investigates Bored-Ape’s Yuga Labs Unregistered Digital Assets Sales - Bloomberg](https://www.bloomberg.com/news/articles/2022-10-11/bored-ape-creator-yuga-labs-faces-sec-probe-over-unregistered-offerings)
-- [SEC rejects WisdomTree's latest spot bitcoin ETF proposal - TheBlock](https://www.theblock.co/post/176279/sec-rejects-wisdomtrees-latest-spot-bitcoin-etf-proposal)
+- [SEC rejects WisdomTree's latest spot bitcoin ETF proposal - The Block](https://www.theblock.co/post/176279/sec-rejects-wisdomtrees-latest-spot-bitcoin-etf-proposal)
 - [In SEC Lawsuit, Grayscale Calls Spot ETF Rejection ‘Arbitrary, Capricious and Discriminatory’ - Coindesk](https://www.coindesk.com/policy/2022/10/12/in-sec-lawsuit-grayscale-calls-spot-etf-rejection-arbitrary-capricious-and-discriminatory/)
 
 ### Regulation
 
-- [Bankman-Fried ‘totally on board’ with crypto regulation - TheBlock](https://www.theblock.co/post/176676/bankman-fried-totally-on-board-with-crypto-regulation)
+- [Bankman-Fried ‘totally on board’ with crypto regulation - The Block](https://www.theblock.co/post/176676/bankman-fried-totally-on-board-with-crypto-regulation)
 
 ### Regulation - Tornado Cash
 
-- [Coin Center sues Treasury over Tornado Cash sanctions - TheBlock](https://www.theblock.co/post/176701/coin-center-sues-treasury-over-tornado-cash-sanctions)
+- [Coin Center sues Treasury over Tornado Cash sanctions - The Block](https://www.theblock.co/post/176701/coin-center-sues-treasury-over-tornado-cash-sanctions)
 
 ### Regulation - G20, OECD, CTRF
 
@@ -79,7 +79,7 @@ banner:
 ### Ecosystem - Stablecoins
 
 - [Stablecoins’ Role in Cutting International Payment Costs Probed by Payments Watchdog - Coindesk](https://www.coindesk.com/policy/2022/10/10/stablecoins-role-in-cutting-international-payment-costs-probed-by-payments-watchdog)
-- [Tether eliminates commercial paper from reserves - TheBlock](https://www.theblock.co/post/177080/tether-to-replace-commercial-paper-with-u-s-treasuries-reserves)
+- [Tether eliminates commercial paper from reserves - The Block](https://www.theblock.co/post/177080/tether-to-replace-commercial-paper-with-u-s-treasuries-reserves)
 
 ### Regulation - CBDC
 

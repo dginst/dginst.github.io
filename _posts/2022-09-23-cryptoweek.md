@@ -32,7 +32,7 @@ banner:
 ### Ecosystem - Ethereum Pow (ETHW)
 
 - [Ethereum PoW ETHW Network Hashrate Chart - 2Miners](https://2miners.com/ethw-network-hashrate)
-- [Grayscale files for rights to ETHPoW tokens after The Merge - TheBlock](https://www.theblock.co/post/170749/grayscale-files-for-rights-to-ethpow-tokens-after-the-merge)
+- [Grayscale files for rights to ETHPoW tokens after The Merge - The Block](https://www.theblock.co/post/170749/grayscale-files-for-rights-to-ethpow-tokens-after-the-merge)
 
 ### Ecosystem - Tornado Cash
 
@@ -66,12 +66,12 @@ banner:
 ### Ecosystem - Stablecoins
 
 - [Stablecoin Issuer Tether Ordered to Produce Documents Showing Backing of USDT - Coindesk](https://www.coindesk.com/markets/2022/09/21/stablecoin-issuer-tether-ordered-to-produce-documents-showing-backing-of-usdt/)
-- [Tether, Bitfinex ordered to show financial documents over USDT stablecoin - TheBlock](https://www.theblock.co/post/171628/tether-bitfinex-ordered-to-show-financial-documents-over-usdt-stablecoin)
+- [Tether, Bitfinex ordered to show financial documents over USDT stablecoin - The Block](https://www.theblock.co/post/171628/tether-bitfinex-ordered-to-show-financial-documents-over-usdt-stablecoin)
 - [Robinhood Lists USDC as First Stablecoin on Trading Platform - Decrypt](https://decrypt.co/110154/robinhood-lists-usdc-first-stablecoin-trading-platform)
 
 ### Ecosystem - Terra Luna
 
-- [Do Kwon says he is "not on the run," cooperating with authorities - TheBlock](https://www.theblock.co/post/170902/do-kwon-says-he-is-not-on-the-run-cooperating-with-authorities)
+- [Do Kwon says he is "not on the run," cooperating with authorities - The Block](https://www.theblock.co/post/170902/do-kwon-says-he-is-not-on-the-run-cooperating-with-authorities)
 - [South Korea Asks Interpol to Issue 'Red Notice' for Terra Co-Founder Do Kwon - Coindesk](https://www.coindesk.com/business/2022/09/19/s-korean-authorities-ask-interpol-to-issue-red-notice-for-terra-co-founder-do-kwon-report)
 - [South Korean prosecutors ask Interpol to issue red notice for Do Kwon - Financial Times](https://www.ft.com/content/7e9f6182-f545-4e53-9cef-1ae4f6e3bd9f)
 - [FatMan "Only in crypto" - Twitter](https://twitter.com/FatManTerra/status/1572275853979013121)
@@ -79,13 +79,13 @@ banner:
 ### Regulation - US
 
 - [House Stablecoin Bill Would Put Two-Year Ban on Terra-Like Coins (XUT) - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-20/house-stablecoin-bill-would-put-two-year-ban-on-terra-like-coins)
-- [CFTC files lawsuit against decentralized autonomous organization - TheBlock](https://www.theblock.co/post/172274/cftc-files-lawsuit-against-decentralized-autonomous-organization)
+- [CFTC files lawsuit against decentralized autonomous organization - The Block](https://www.theblock.co/post/172274/cftc-files-lawsuit-against-decentralized-autonomous-organization)
 - [Why the SEC Is Calling More Cryptocurrencies Securities and What That Means - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-29/why-crypto-flinches-when-sec-calls-coins-securities-quicktake)
 
 ### Ecosystem - Wintermute
 
 - [Wintermute - Twitter](https://twitter.com/EvgenyGaevoy/status/1572134271011225601)
-- [Crypto market maker Wintermute hacked for $160 million - TheBlock](https://www.theblock.co/post/171135/crypto-market-maker-wintermute-hacked-for-160-million)
+- [Crypto market maker Wintermute hacked for $160 million - The Block](https://www.theblock.co/post/171135/crypto-market-maker-wintermute-hacked-for-160-million)
 - [Crypto Market Maker Wintermute Hacked for $160M, OTC Services Unaffected - Coindesk](https://www.coindesk.com/business/2022/09/20/crypto-market-maker-wintermute-hacked-for-160m-says-ceo)
 
 ### Ecosystem - DeFi

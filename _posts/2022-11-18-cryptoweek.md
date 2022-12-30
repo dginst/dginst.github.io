@@ -32,11 +32,11 @@ banner:
 
 ### FTX - Chapter 11 / Chapter 15
 
-- [Over $400M worth of tokens FTX funds drained from company accounts - TheBlock](https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts)
+- [Over $400M worth of tokens FTX funds drained from company accounts - The Block](https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts)
 - [Bahamas Securities Regulator Says It Ordered FTX Crypto Transferred to Government Wallets - CoinDesk](https://www.coindesk.com/policy/2022/11/18/bahamas-securities-regulator-says-it-ordered-ftx-crypto-transferred-to-government-wallets)
 - [Bahamian FTX Liquidators Cite ‘Serious Fraud and Mismanagement’ in Court Filings - CoinDesk](https://www.coindesk.com/policy/2022/11/17/bahamian-ftx-liquidators-cite-serious-fraud-and-mismanagement-in-court-filings)
 - [Alameda Had ‘Secret Exemption’ From FTX Liquidation Protocols, New CEO Says - CoinDesk](https://www.coindesk.com/business/2022/11/17/alameda-had-secret-exemption-from-ftx-liquidation-protocols-new-ceo-says)
-- [U.S. House committee to hold hearing on FTX collapse and crypto fall out - TheBlock](https://www.theblock.co/post/187617/u-s-house-committee-to-hold-hearing-on-ftx-collapse-and-crypto-fall-out)
+- [U.S. House committee to hold hearing on FTX collapse and crypto fall out - The Block](https://www.theblock.co/post/187617/u-s-house-committee-to-hold-hearing-on-ftx-collapse-and-crypto-fall-out)
 - [FTX's New Leadership Is in Touch With Regulators, May Have Over 1M Creditors, New Filings Say - CoinDesk](https://www.coindesk.com/policy/2022/11/15/ftxs-new-leadership-is-in-touch-with-regulators-may-have-over-1m-creditors-new-filings-say)
 - [New FTX Boss Condemns Management of the Crypto Exchange During Sam Bankman-Fried's Tenure - CoinDesk](https://www.coindesk.com/business/2022/11/17/new-ftx-boss-condemns-management-of-the-crypto-exchange-during-sam-bankman-frieds-tenure)
 
@@ -45,16 +45,16 @@ banner:
 - [Binance Starts Recovery Fund for Crypto Projects Facing Liquidity Crisis - CoinDesk](https://www.coindesk.com/business/2022/11/14/binance-starts-recovery-fund-for-crypto-projects-facing-liquidity-crisis)
 - [Binance CEO 'CZ' Zhao Wants to Replace Sam Bankman-Fried as Crypto Savior - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-14/binance-ceo-cz-zhao-bids-to-replace-ftx-s-sam-bankman-fried-as-crypto-savior)
 - [Binance's US Arm to Relaunch Bid for Bankrupt Lender Voyager - CoinDesk](https://www.coindesk.com/business/2022/11/17/binance-to-relaunch-bid-for-bankrupt-lender-voyager-source)
-- [Binance will launch a new ‘industry recovery fund’ - TheBlock](https://www.theblock.co/post/186597/binance-will-launch-a-new-industry-recovery-fund)
+- [Binance will launch a new ‘industry recovery fund’ - The Block](https://www.theblock.co/post/186597/binance-will-launch-a-new-industry-recovery-fund)
 
 ### FTX - Contagion
 
 - [Crypto.com CEO Dismisses Speculation of Financial Trouble, Says FTX Exposure Is Minimal - CoinDesk](https://www.coindesk.com/business/2022/11/14/cryptocom-ceo-dismisses-speculation-of-financial-trouble-says-ftx-exposure-is-minimal)
 - [BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads - WSJ- WSJ](https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824)
-- [BlockFi says platform pause will continue - TheBlock](https://www.theblock.co/post/186802/blockfi-says-platform-pause-will-continue)
+- [BlockFi says platform pause will continue - The Block](https://www.theblock.co/post/186802/blockfi-says-platform-pause-will-continue)
 - [Hedge fund admits half its capital stuck on FTX exchange - Financial Times](https://www.ft.com/content/726277bb-35a1-4d35-9df9-3e1cca587b77)
-- [JPMorgan Chase, Wells Fargo among potentially exposed FTX parties - TheBlock](https://www.theblock.co/post/188140/jpmorgan-chase-wells-fargo-among-potentially-exposed-ftx-parties)
-- [Jump Crypto says it remains 'well capitalized' following FTX downfall - TheBlock](https://www.theblock.co/post/186403/jump-crypto-says-it-remains-well-capitalized-following-ftx-downfall)
+- [JPMorgan Chase, Wells Fargo among potentially exposed FTX parties - The Block](https://www.theblock.co/post/188140/jpmorgan-chase-wells-fargo-among-potentially-exposed-ftx-parties)
+- [Jump Crypto says it remains 'well capitalized' following FTX downfall - The Block](https://www.theblock.co/post/186403/jump-crypto-says-it-remains-well-capitalized-following-ftx-downfall)
 
 ### FTX - Contagion: Genesis
 
@@ -76,12 +76,12 @@ banner:
 
 - [FTX Fallout Wipes Out $700M From Solana DeFi - CoinDesk](https://www.coindesk.com/business/2022/11/15/solana-defi-sees-almost-700m-in-value-wiped-out-on-ftx-fallout)
 - [FTX Hack Sparks Revolution at Serum DEX as Solana Devs Plot Alameda's Ouster - CoinDesk](https://www.coindesk.com/business/2022/11/12/ftx-hack-spooks-solana-defi-community-igniting-revolution-at-alameda-controlled-serum-dex)
-- [Binance halts Solana-based USDC and USDT deposits, in line with rivals - TheBlock](https://www.theblock.co/post/187970/binance-halts-solana-usdc-usdt-deposits)
+- [Binance halts Solana-based USDC and USDT deposits, in line with rivals - The Block](https://www.theblock.co/post/187970/binance-halts-solana-usdc-usdt-deposits)
 - [Confusion Abounds As Binance and OKX Suspend Support for USDC, USDT on Solana, Then Backpedal - CoinDesk](https://www.coindesk.com/markets/2022/11/17/crypto-exchanges-binance-and-okx-suspend-support-for-solana-versions-of-usdt-usdc-stablecoins)
 
 ### Environment - Proof-of-reserves
 
-- [Centralized exchanges are scrambling in attempts to prove their reserves - TheBlock](https://www.theblock.co/post/185873/centralized-exchanges-are-scrambling-in-attempts-to-prove-their-reserves)
+- [Centralized exchanges are scrambling in attempts to prove their reserves - The Block](https://www.theblock.co/post/185873/centralized-exchanges-are-scrambling-in-attempts-to-prove-their-reserves)
 - [Bank of America Says Crypto Exchanges' Proof of Reserves Have Too Many Shortcomings - CoinDesk](https://www.coindesk.com/tech/2022/11/18/bank-of-america-says-crypto-exchanges-proof-of-reserves-have-too-many)
 - [Proof-of-reserves - CheckSig](https://checksig.com/por)
 - [Custody Protocol -  CheckSig](https://checksig.com/custody-protocol)
@@ -101,12 +101,12 @@ banner:
 ### Regulation - EU
 
 - [EU Delays Vote on MiCA Crypto Legislation Until February - CoinDesk](https://www.coindesk.com/policy/2022/11/04/eu-delays-vote-on-mica-crypto-legislation-until-february)
-- [EU’s MiCA regulation vote deferred to February 2023: spokesperson - TheBlock](https://www.theblock.co/post/182776/eus-mica-regulation-vote-deferred-to-february-2023-spokesperson)
+- [EU’s MiCA regulation vote deferred to February 2023: spokesperson - The Block](https://www.theblock.co/post/182776/eus-mica-regulation-vote-deferred-to-february-2023-spokesperson)
 - [Privacy-Enhancing Crypto Coins Could Be Banned Under Leaked EU Plans - CoinDesk](https://www.coindesk.com/policy/2022/11/15/privacy-enhancing-crypto-coins-could-be-banned-under-leaked-eu-plans)
 
 ### Tech - Silk Road
 
-- [US authorities seize $3.36 billion in bitcoin from decade-old Silk Road hack - TheBlock](https://www.theblock.co/post/183702/us-authorities-seize-3-36-billion-in-bitcoin-from-decade-old-silk-road-hack)
+- [US authorities seize $3.36 billion in bitcoin from decade-old Silk Road hack - The Block](https://www.theblock.co/post/183702/us-authorities-seize-3-36-billion-in-bitcoin-from-decade-old-silk-road-hack)
 - [Crypto Seizure of $3.4 Billion From Silk Road Scammer Is Announced - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-07/feds-score-3-billion-crypto-seizure-from-silk-road-scammer)
 
 ### Ecosystem - Twitter
@@ -115,7 +115,7 @@ banner:
 
 ### Ecosystem - Coinbase
 
-- [Coinbase MTUs beat estimates, trading volumes miss - TheBlock](https://www.theblock.co/post/182340/coinbase-mtus-beat-estimates-trading-volumes-miss)
+- [Coinbase MTUs beat estimates, trading volumes miss - The Block](https://www.theblock.co/post/182340/coinbase-mtus-beat-estimates-trading-volumes-miss)
 - [Coinbase Cuts Q3 Losses in Half, Sees Crypto Headwinds Continuing Into 2023 - CoinDesk](https://www.coindesk.com/business/2022/11/03/coinbase-cuts-q3-losses-in-half-to-545m)
 
 ### Ecosystem - Stablecoins

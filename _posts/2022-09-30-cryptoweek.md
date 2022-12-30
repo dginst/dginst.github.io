@@ -32,18 +32,18 @@ banner:
 - [Crypto Billionaire Sam Bankman-Fried Eyeing Bid for Celsius Assets - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-27/crypto-billionaire-bankman-fried-eyeing-bid-for-celsius-assets)
 - [CEL Token Jumps as SBF Said to Eye Celsius in Buying Spree - Coindesk](https://www.coindesk.com/business/2022/09/27/cel-token-jumps-as-sbf-said-to-eye-celsius-in-buying-spree)
 - [Bankrupt Crypto Lender Celsius Network's CEO, Alex Mashinsky, Resigns - Coindesk](https://www.coindesk.com/business/2022/09/27/celsius-network-ceo-alex-mashinsky-resigns)
-- [Celsius stablecoin sale plan faces objections from securities regulators - TheBlock](https://www.theblock.co/post/173862/celsius-stablecoin-sale-plan-faces-objections-from-securities-regulators)
+- [Celsius stablecoin sale plan faces objections from securities regulators - The Block](https://www.theblock.co/post/173862/celsius-stablecoin-sale-plan-faces-objections-from-securities-regulators)
 
 ### Ecosystem - USDC
 
-- [Circle introduces bridging protocol focused on USDC payments - TheBlock](https://www.theblock.co/post/173529/circle-introduces-bridging-protocol-focused-on-usdc-payments)
+- [Circle introduces bridging protocol focused on USDC payments - The Block](https://www.theblock.co/post/173529/circle-introduces-bridging-protocol-focused-on-usdc-payments)
 - [Circle Expands USDC Stablecoin to Five New Chains - Coindesk](https://www.coindesk.com/markets/2022/09/28/circle-expands-usdc-stablecoin-to-five-new-chains-unveils-cross-chain-transfer-protocol)
 - [Native USDC on Cosmos to Fill Vacuum Left by Terra’s UST Stablecoin - Coindesk](https://www.coindesk.com/tech/2022/09/28/native-usdc-on-cosmos-to-fill-vacuum-left-by-terras-ust-stablecoin)
 - [Jack Dorsey’s TBD Teams Up With Circle to Take US Dollar Stablecoin Savings and Remittances Global - Coindesk](https://www.coindesk.com/business/2022/09/29/jack-dorseys-tbd-teams-up-with-circle-to-take-us-dollar-stablecoin-savings-and-remittances-global)
 
 ### Ecosystem - Stablecoins
 
-- [Gemini wants to boost GUSD stablecoin volume in MakerDAO - TheBlock](https://www.theblock.co/post/173757/gemini-wants-to-boost-gusd-stablecoin-volume-in-makerdao)
+- [Gemini wants to boost GUSD stablecoin volume in MakerDAO - The Block](https://www.theblock.co/post/173757/gemini-wants-to-boost-gusd-stablecoin-volume-in-makerdao)
 - [Pressure rises on stablecoin to deliver on original promise - Financial Times](https://www.ft.com/content/dd190c8b-4ca3-471a-9f52-9f39c06d8d36)
 
 ### Regulation - CBDC
@@ -56,23 +56,23 @@ banner:
 
 - [Industry Offers Cautious Welcome to EU’s Landmark Crypto Law MiCA - Coindesk](https://www.coindesk.com/policy/2022/09/28/industry-offers-cautious-welcome-to-eus-landmark-crypto-law-mica)
 - [Christine Lagarde - Twitter](https://twitter.com/Lagarde/status/1574700982008573952)
-- [SEC takes aim at crypto project and its 'market maker' over alleged manipulation - TheBlock](https://www.theblock.co/post/173588/sec-takes-aim-at-crypto-project-and-its-market-maker-over-alleged-manipulation)
+- [SEC takes aim at crypto project and its 'market maker' over alleged manipulation - The Block](https://www.theblock.co/post/173588/sec-takes-aim-at-crypto-project-and-its-market-maker-over-alleged-manipulation)
 - [Bittrex, BitGo, 6 Other Firms Join Crypto Market Integrity Coalition - Coindesk](https://www.coindesk.com/business/2022/09/29/bittrex-bitgo-6-other-firms-join-crypto-market-integrity-coalition)
 
 ### Ecosystem - TradFi: SWIFT
 
 - [SWIFT Partners With Crypto Data Provider Chainlink - Coindesk](https://www.coindesk.com/business/2022/09/28/swift-partners-with-crypto-data-provider-chainlink-on-cross-chain-protocol-in-tradfi-play/)
-- [SWIFT, Chainlink Labs reveal work on cross-chain proof-of-concept - TheBlock](https://www.theblock.co/post/173516/swift-chainlink-labs-reveal-work-on-cross-chain-proof-of-concept)
+- [SWIFT, Chainlink Labs reveal work on cross-chain proof-of-concept - The Block](https://www.theblock.co/post/173516/swift-chainlink-labs-reveal-work-on-cross-chain-proof-of-concept)
 
 ### Markets - GrayScale
 
 - [More Woes for Grayscale Investors as Largest Bitcoin Fund Hits New All-Time Low - Decrypt](https://decrypt.co/110504/more-woes-grayscale-investors-largest-bitcoin-fund-hits-new-all-time-low)
-- [Grayscale Bitcoin Trust discount hits all-time low - TheBlock](https://www.theblock.co/post/172825/grayscale-bitcoin-trust-discount-hits-all-time-low-amid-crypto-market-downturn)
+- [Grayscale Bitcoin Trust discount hits all-time low - The Block](https://www.theblock.co/post/172825/grayscale-bitcoin-trust-discount-hits-all-time-low-amid-crypto-market-downturn)
 - [GBTC Discount or Premium to NAV - Ycharts](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav)
 
 ### Ecosystem - NFT
 
-- [US users can cross-post digital assets between Facebook and Instagram - TheBlock](https://www.theblock.co/post/173695/u-s-based-facebook-and-instagram-users-can-now-cross-post-digital-assets)
+- [US users can cross-post digital assets between Facebook and Instagram - The Block](https://www.theblock.co/post/173695/u-s-based-facebook-and-instagram-users-can-now-cross-post-digital-assets)
 
 ### Tech - Ethereum
 

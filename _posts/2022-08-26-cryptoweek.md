@@ -26,7 +26,7 @@ banner:
 
 ### Ecosystem - Tornado Cash Ban
 
-- [Uniswap has blocked 253 crypto addresses related to stolen funds or sanctions - TheBlock](https://www.theblock.co/post/164626/uniswap-has-blocked-253-crypto-addresses-related-to-stolen-funds-or-sanctions)
+- [Uniswap has blocked 253 crypto addresses related to stolen funds or sanctions - The Block](https://www.theblock.co/post/164626/uniswap-has-blocked-253-crypto-addresses-related-to-stolen-funds-or-sanctions)
 - [banteg - Twitter](https://twitter.com/bantg/status/1560711564801544193)
 - [uniswap censored adresses - GitHub](https://gist.github.com/banteg/1657d4778eb86c460e03bc58b99970c0)
 - [Tether holds firm on decision not to freeze tornado cash addresses - Tether](https://tether.to/en/tether-holds-firm-on-decision-not-to-freeze-tornado-cash-addresses-awaits-law-enforcement-instruction/)
@@ -34,7 +34,7 @@ banner:
 ### Ecosystem - Stablecoins
 
 - [Tether releases independent auditor report - Tether](https://tether.to/en/tether-releases-independent-auditor-report-from-top-5-accounting-firm-bdo-reinforcing-its-dedication-to-transparency-and-revealing-another-major-cut-to-commercial-paper-holdings/)
-- [Latest Tether disclosures show $28.9 billion in US Treasury bills - TheBlock](https://www.theblock.co/post/164502/latest-tether-disclosures-show-28-9-billion-in-us-treasury-bills)
+- [Latest Tether disclosures show $28.9 billion in US Treasury bills - The Block](https://www.theblock.co/post/164502/latest-tether-disclosures-show-28-9-billion-in-us-treasury-bills)
 - [Algorithmic Stablecoin USDN Falls From Dollar Peg as Liquidity Slumps - Coindesk](https://www.coindesk.com/business/2022/08/26/algorithmic-stablecoin-usdn-falls-from-dollar-peg-as-liquidity-slumps)
 
 ### Ecosystem - DeFi
