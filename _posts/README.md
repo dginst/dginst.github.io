@@ -20,6 +20,8 @@ permalink: /cryptoweekinternal/
 : Sources]
 ]
 
+ | 
+
 [The Block: 
 
 ](https://www.theblock

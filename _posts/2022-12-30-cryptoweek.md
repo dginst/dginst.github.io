@@ -34,7 +34,7 @@ banner:
 
 ### Ecosystem - NFT
 
-- [OpenSea chief seeks to distance NFTs from crypto crisis | Financial Times](https://www.ft.com/content/f3e40b9b-8b29-4483-a3cd-91cef39c4d49)
+- [OpenSea chief seeks to distance NFTs from crypto crisis- Financial Times](https://www.ft.com/content/f3e40b9b-8b29-4483-a3cd-91cef39c4d49)
 - [Pudgy Penguins NFTs Break All-Time Highs With Holiday Rally - CoinDesk](https://www.coindesk.com/business/2022/12/27/pudgy-penguins-nfts-break-all-time-highs-with-holiday-rally)
 - [China to Launch First National ‘Digital Asset’ Marketplace - CoinDesk](https://www.coindesk.com/web3/2022/12/28/china-to-launch-first-national-digital-asset-marketplace)
 
