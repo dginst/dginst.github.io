@@ -64,6 +64,7 @@ banner:
 
 ### Tech - Bitcoin
 
+- [LukeDashjr - Twitter](https://twitter.com/LukeDashjr/status/1609613748364509184)
 - [Luke Dashjr, Early Bitcoin Developer, Says Hack Took His BTC](https://gizmodo.com/bitcoin-price-hack-217-btc-og-developer-luke-dashjr-1849944799)
 - [Newsletter #232 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2023/01/04/)
 
