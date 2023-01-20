@@ -21,6 +21,9 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
+- **2022Q4**: [slide]({{site.baseurl}}/docs/reports/2022Q4-presentation.pdf)).  
+  Ospite: Francesco Avella (LL.M., Managing Partner di Studio Avella e Associati) su
+  "[Manovra Finanziaria e Fiscalità Cripto: quali novità?]({{site.baseurl}}/docs/reports/2022Q4 Francesco Avella.pdf)".
 - **2022Q3**: presentazione ([video](https://youtu.be/4rVSj83-31Y)
   e [slide]({{site.baseurl}}/docs/reports/2022Q3-presentation.pdf)).  
   Ospiti: Michele Mandelli (Managing Partner, CheckSig)
@@ -101,9 +104,3 @@ Questi i report finora prodotti:
 - **2019Q3**: [report]({{ site.baseurl }}/docs/reports/2019Q3.pdf) e [news]({{ site.baseurl }}/2019/10/31/report-q3.html)
 - **2019Q2**: [report]({{ site.baseurl }}/docs/reports/2019Q2.pdf) e [news]({{ site.baseurl }}/2019/07/31/report-q2.html)
 - **2019Q1**: [report]({{ site.baseurl }}/docs/reports/2019Q1.pdf)
-
-<!--Mailchimp popup form-->
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false">
-</script>
-<script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"e61e2ffe734da187ad3cc0576","lid":"3e07518ae3","uniqueMethods":true}) })
-</script>

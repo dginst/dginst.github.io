@@ -38,7 +38,7 @@ podcast:
 - [PayPal Acquires Crypto Security Firm Curv for Nearly $200M (decrypt)](https://decrypt.co/60505/paypal-buys-crypto-firm-curv-for-nearly-200-million){:target="_blank"}
 - [Former US Senator Joins Binance as Policy Adviser and Government Liaison (coindesk)](https://www.coindesk.com/binance-hires-max-baucus){:target="_blank"}
 
-### Technology 
+### Technology
 
 - [Taproot activation discussion (bitcoin optech)](https://bitcoinops.org/en/newsletters/2021/03/10/){:target="_blank"}
 - [LOT=true or LOT=false? This is the last hurdle before Taproot activation (bitcoinmagazine)](https://bitcoinmagazine.com/technical/lottrue-or-lotfalse-this-is-the-last-hurdle-before-taproot-activation){:target="_blank"}

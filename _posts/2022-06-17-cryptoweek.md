@@ -32,7 +32,7 @@ banner:
 - [Celsius rivals move to distance themselves from its staked ether woes](https://www.theblock.co/post/151624/celsius-rivals-move-to-distance-themselves-from-its-staked-ether-woes)
 - [Our partner Celsius Network paused withdrawals. This is what it means for Nuri.](https://nuri.com/blog/bitcoin-interest-account-withdrawals-paused/)
 - [A Memo to the Celsius Community. We are writing with a very important… - Celsius](https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6)
-- [ - Celsius on Twitter](https://twitter.com/CelsiusNetwork/status/1536686121106649089)
+- [Celsius - Twitter](https://twitter.com/CelsiusNetwork/status/1536686121106649089)
 - [Nexo Proposes Buyout of Celsius Assets as Crypto Lending Rival Halts Withdrawals - Decrypt](https://decrypt.co/102730/nexo-proposes-buyout-of-celsius-assets-as-crypto-lending-rival-halts-withdrawals)
 - [Offer to acquire qualifying assets of Celsius - Nexo](https://twitter.com/Nexo/status/1536256598993211393?t=DtjDUqr_4R32n264s9-MtQ)
 - [Crypto Lender Celsius's Coin (CEL) Falls 53% as the Company Freezes Withdrawal - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-13/crypto-lender-celsius-freezes-withdrawals-fueling-market-rout)

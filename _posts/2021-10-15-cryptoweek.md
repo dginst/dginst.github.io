@@ -64,7 +64,7 @@ banner:
 - [Fed: Technology Alone Cannot Disrupt Dollar Dominance - Blockworks](https://blockworks.co/fed-technology-alone-cannot-disrupt-dollar-dominance/)
 - [Nigerian central bank to launch digital currency within days - governor - Reuters](https://www.reuters.com/technology/nigerian-central-bank-launch-digital-currency-within-days-governor-2021-10-07/?taid=615f14da90c5510001ba671e)
 - [Your Money and Your Life - by Edward Snowden - Continuing Ed — with Edward Snowden](https://edwardsnowden.substack.com/p/cbdcs)
-[Why CBDCs make little sense, and will likely fail - Michele Mandelli](https://www.linkedin.com/pulse/why-cbdcs-make-little-sense-likely-fail-michele-mandelli/?trackingId=NGROA4bfQX216tGYFy3CXw%3D%3D)
+
 ### Ecosystem - El Salvador
 
 - [Unpopular opinion : El Salvador President Mr Nayab Bukele should not be praised by Crypto community : CryptoCurrency - Reddit](https://www.reddit.com/r/CryptoCurrency/comments/q3udz3/unpopular_opinion_el_salvador_president_mr_nayab/hfv3zee/?context=3)

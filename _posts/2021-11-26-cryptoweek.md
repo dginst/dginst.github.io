@@ -59,6 +59,7 @@ banner:
 - [Bitcoin vs Ethereum – Blockchain Size - BitMEX Blog](https://blog.bitmex.com/bitcoin-vs-ethereum-blockchain-size/)
 - [Christie's to Hold Ethereum NFT Auction on OpenSea - Decrypt](https://decrypt.co/86805/christies-to-hold-on-chain-ethereum-nft-auction-with-opensea)
 - [ethereum Becomes a First Class Currency on Sothebys for Banksy Auction - cryptoslate](https://cryptoslate.com/ethereum-becomes-a-first-class-currency-on-sothebys-for-banksy-auction/)
+
 ### Regulation
 
 - [Cryptocurrency 'no passing fad': minister warns against Australia being left behind - The Guardian](https://www.theguardian.com/technology/2021/nov/22/cryptocurrency-no-passing-fad-minister-warns-against-australia-being-left-behind)
