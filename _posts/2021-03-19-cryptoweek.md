@@ -14,7 +14,7 @@ podcast:
 ---
 ### CBDC
 
-- [Federal Reserve's Powell Says CBDCs ‘Need to Coexist With Cash' (coindesk)](https://www.coindesk.com/federal-reserves-powell-cbdc-coexist-cash){:target="_blank"}
+- [Federal Reserve's Powell Says CBDCs 'Need to Coexist With Cash' (coindesk)](https://www.coindesk.com/federal-reserves-powell-cbdc-coexist-cash){:target="_blank"}
 - [Closing Remarks Chair Jerome H. Powell (federal reserve)](https://www.federalreserve.gov/newsevents/speech/powell20210318a.htm){:target="_blank"}
 - [BOJ must prepare 'thoroughly' on digital currency, says Kuroda (Reuters)](https://www.reuters.com/article/us-japan-economy-boj-cbdc/boj-must-prepare-thoroughly-on-digital-currency-says-kuroda-idUSKBN2B80CS){:target="_blank"}
 - [Bank of Japan to begin central bank digital currency experiments later this year (The Block)](https://www.theblockcrypto.com/linked/98555/bank-of-japan-cbdc-experiments-governor){:target="_blank"}

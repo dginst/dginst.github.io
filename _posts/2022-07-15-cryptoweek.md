@@ -21,12 +21,12 @@ banner:
 
 - [Crypto Crash Drags Lender Celsius Network Into Bankruptcy - WSJ](https://www.wsj.com/articles/crypto-crash-drags-lender-celsius-network-into-bankruptcy-11657758483)
 - [Crypto Lender Celsius Files for Bankruptcy After Freezing Withdrawals - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-14/crypto-lender-celsius-files-for-bankruptcy-in-cash-crunch)
-- [Celsius is ‘Deeply Insolvent,’ Alleges Vermont Department of Financial Regulation - Coindesk](https://www.coindesk.com/business/2022/07/12/celsius-is-deeply-insolvent-alleges-vermont-department-of-financial-regulation)
+- [Celsius is 'Deeply Insolvent,' Alleges Vermont Department of Financial Regulation - Coindesk](https://www.coindesk.com/business/2022/07/12/celsius-is-deeply-insolvent-alleges-vermont-department-of-financial-regulation)
 - [Celsius Reclaims $410M of 'stETH' Tokens After Paying Down $81M Debt to Aave - Coindesk](https://www.coindesk.com/markets/2022/07/12/celsius-reclaims-410m-of-steth-tokens-after-paying-down-81m-debt-to-aave)
 - [Celsius Pays Off Aave Loan, Moves $418M 'stETH' Stack to Unknown Wallet - Coindesk](https://www.coindesk.com/markets/2022/07/12/celsius-pays-off-aave-loan-moves-418m-steth-stack-to-unknown-wallet/)
 - [Celsius Pays Off Last DeFi Loan, Reclaims Nearly $200M of Wrapped Bitcoin From Compound - Coindesk](https://www.coindesk.com/markets/2022/07/13/celsius-pays-off-last-defi-loan-reclaims-nearly-200m-of-wrapped-bitcoin-from-compound)
 - [Wobble in stETH's Price Shows Fear Celsius Might Dump $435M Stake - Coindesk](https://www.coindesk.com/markets/2022/07/13/wobble-in-steth-price-shows-fear-celsius-might-dump-435m-stake)
-- [Inside Celsius: how one of crypto’s biggest lenders ground to a halt - Financial Times](https://www.ft.com/content/4fa06516-119b-4722-946b-944e38b02f45)
+- [Inside Celsius: how one of crypto's biggest lenders ground to a halt - Financial Times](https://www.ft.com/content/4fa06516-119b-4722-946b-944e38b02f45)
 
 ### Ecosystem - Lending crisis: Three Arrows Capital
 
@@ -46,7 +46,7 @@ banner:
 
 ### Ecosystem
 
-- [Why the 2022 ‘crypto winter’ is unlike previous bear markets - CNBC](https://www.cnbc.com/2022/07/14/why-the-2022-crypto-winter-is-unlike-previous-bear-markets.html)
+- [Why the 2022 'crypto winter' is unlike previous bear markets - CNBC](https://www.cnbc.com/2022/07/14/why-the-2022-crypto-winter-is-unlike-previous-bear-markets.html)
 - [Crypto Startup Funding in Q2 Falls to a One-Year Low - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-12/crypto-startup-funding-in-q2-falls-to-a-one-year-low)
 - [For Crypto Survivors, There Are Deals to Be Had - WSJ](https://www.wsj.com/articles/for-crypto-survivors-there-are-deals-to-be-had-11657450802)
 
@@ -71,7 +71,7 @@ banner:
 
 - [Mining the environment – is climate risk priced into crypto-assets? - ECB](https://www.ecb.europa.eu/pub/financial-stability/macroprudential-bulletin/html/ecb.mpbu202207_3~d9614ea8e6.en.html)
 - [Bitcoin (BTC) Miners Shut Off Rigs as Texas Power Grid Nears Brink - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-11/bitcoin-miners-shut-off-rigs-as-texas-power-grid-nears-brink)
-- [Texas’ fragile grid isn’t ready for crypto mining’s explosive growth - The Verge](https://www.theverge.com/2022/7/14/23206795/bitcoin-crypto-mining-electricity-texas-grid-energy-bills-emissions)
+- [Texas' fragile grid isn't ready for crypto mining's explosive growth - The Verge](https://www.theverge.com/2022/7/14/23206795/bitcoin-crypto-mining-electricity-texas-grid-energy-bills-emissions)
 
 ### Ecosystem - DeFi
 

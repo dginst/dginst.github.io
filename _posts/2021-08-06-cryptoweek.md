@@ -46,9 +46,9 @@ banner:
 ### Regulation - SEC's Gensler
 
 - [Remarks Before the Aspen Security Forum - SEC.gov](https://www.sec.gov/news/public-statement/gensler-aspen-security-forum-2021-08-03)
-- [Crypto ‘Wild West' Needs Stronger Investor Protection, SEC Chief Says - WSJ](https://www.wsj.com/articles/sec-will-police-cryptocurrencies-to-maximum-possible-extent-chair-gary-gensler-says-11628007567)
+- [Crypto 'Wild West' Needs Stronger Investor Protection, SEC Chief Says - WSJ](https://www.wsj.com/articles/sec-will-police-cryptocurrencies-to-maximum-possible-extent-chair-gary-gensler-says-11628007567)
 - [Gensler sets SEC sights on DeFi, crypto lending and more in expansive speech on regulation - The Block](https://www.theblockcrypto.com/post/113416/gensler-speech-crypto-defi-lending-sec)
-- [SEC Chairman Gensler Agrees With Predecessor: ‘Every ICO Is a Security' - Coindesk](coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security)
+- [SEC Chairman Gensler Agrees With Predecessor: 'Every ICO Is a Security' - Coindesk](coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security)
 - [SEC Chief Gary Gensler Braces for Clash With Crypto Traders - WSJ](https://www.wsj.com/articles/sec-chief-gary-gensler-braces-for-clash-with-crypto-traders-11628164980)
 - [SEC chair Gary Gensler on his vision for cryptocurrency regulation](https://www.cnbc.com/video/2021/08/04/sec-chair-gary-gensler-on-his-vision-for-cryptocurrency-regulation.html)
 - [SEC's Gensler Agrees With Predecessor: 'Every ICO Is a Security' - CoinDesk](https://www.coindesk.com/sec-chair-gensler-agrees-with-predecessor-every-ico-is-a-security%20)

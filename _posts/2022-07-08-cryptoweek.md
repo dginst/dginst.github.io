@@ -21,12 +21,12 @@ banner:
 
 - [Crypto Broker Voyager Seeks Bankruptcy Protection - coindesk](https://www.coindesk.com/policy/2022/07/06/voyager-seeks-bankruptcy-protection-amid-crypto-credit-crisis)
 - [Voyager Digital Ltd. Provides Update on Listing of its Shares](https://www.prnewswire.com/news-releases/voyager-digital-ltd-provides-update-on-listing-of-its-shares-301582755.html)
-- [Crypto Broker Voyager’s Marketing on Safety of Customer Accounts Draws FDIC Scrutiny - WSJ](https://www.wsj.com/articles/fdic-scrutinizing-voyagers-marketing-on-safety-of-customer-deposit-accounts-11657212266)
+- [Crypto Broker Voyager's Marketing on Safety of Customer Accounts Draws FDIC Scrutiny - WSJ](https://www.wsj.com/articles/fdic-scrutinizing-voyagers-marketing-on-safety-of-customer-deposit-accounts-11657212266)
 - [Voyager (VYGVF) Is the Brokerage That Crypto Deserves - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-07-07/voyager-vygvf-is-the-brokerage-that-crypto-deserves)
 - [Lending Platform Vauld Looks to Restructure Amid Crypto Downturn, Suspends Transactions - coindesk](https://www.coindesk.com/business/2022/07/04/lending-platform-vauld-looks-to-restructure-amid-crypto-downturn-suspends-transactions)
 - [Crypto hedge fund Three Arrows Capital has entered liquidation, source says - Reuters](https://www.reuters.com/technology/crypto-hedge-fund-three-arrows-capital-has-entered-liquidation-source-says-2022-06-29)
 - [Crypto hedge fund Three Arrows files for Chapter 15 bankruptcy](https://www.cnbc.com/2022/07/02/crypto-hedge-fund-three-arrows-files-for-chapter-15-bankruptcy.html)
-- [Genesis Faces ‘Hundreds of Millions’ in Losses as 3AC Exposure Swamps Crypto Lenders - coindesk](https://www.coindesk.com/business/2022/06/29/genesis-faces-hundreds-of-millions-in-losses-as-3ac-exposure-swamps-crypto-lenders-sources/)
+- [Genesis Faces 'Hundreds of Millions' in Losses as 3AC Exposure Swamps Crypto Lenders - coindesk](https://www.coindesk.com/business/2022/06/29/genesis-faces-hundreds-of-millions-in-losses-as-3ac-exposure-swamps-crypto-lenders-sources/)
 - [Celsius Accused of Fraud in Lawsuit by Ex-Employee - coindesk](https://www.coindesk.com/business/2022/07/07/celsius-accused-of-fraud-in-lawsuit-by-ex-employee)
 - [Celsius accused of fraud in lawsuit by former money manager - The Block](https://www.theblock.co/post/156494/celcius-accused-of-fraud-in-lawsuit-by-former-money-manager)
 - [Celsius Sends $500M of Bitcoin Derivative to Crypto Exchange After Debt Payoff - coindesk](https://www.coindesk.com/markets/2022/07/07/celsius-sends-500m-of-bitcoin-derivative-to-crypto-exchange-after-debt-payoff)
@@ -50,7 +50,7 @@ banner:
 
 ### Regulation
 
-- [Gary Gensler’s Bitcoin Regulation Grab - WSJ](https://www.wsj.com/articles/gary-genslers-bitcoin-land-grab-sec-hester-peirce-bitwise-grayscale-exchange-traded-products-11657144533)
+- [Gary Gensler's Bitcoin Regulation Grab - WSJ](https://www.wsj.com/articles/gary-genslers-bitcoin-land-grab-sec-hester-peirce-bitwise-grayscale-exchange-traded-products-11657144533)
 - [Fact Sheet: Framework for International Engagement on Digital Assets - U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/jy0854)
 - [Treasury sends Biden framework for international work on crypto over the next year - The Block](https://www.theblock.co/post/156435/treasury-sends-biden-framework-for-international-work-on-crypto-over-the-next-year)
 - [Prudential treatment of cryptoasset exposures - second consultation](https://www.bis.org/bcbs/publ/d533.htm)
@@ -63,7 +63,7 @@ banner:
 ### Miscellanea
 
 - [Investors Take Bitcoin (BTC) Off Exchanges as Crypto Winter Settles In - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-06/investors-take-bitcoin-off-exchanges-as-crypto-winter-settles-in)
-- [Coinbase Says Miners’ Sales of Newly Minted Bitcoins Don’t Add Significant Market Pressure - coindesk](https://www.coindesk.com/markets/2022/07/04/coinbase-says-miners-sales-of-newly-minted-bitcoins-dont-add-market-pressure)
+- [Coinbase Says Miners' Sales of Newly Minted Bitcoins Don't Add Significant Market Pressure - coindesk](https://www.coindesk.com/markets/2022/07/04/coinbase-says-miners-sales-of-newly-minted-bitcoins-dont-add-market-pressure)
 - [Bitfinex Hack: How This NYC Couple Allegedly Stole $8B in Bitcoin (BTC) - Bloomberg](https://www.bloomberg.com/news/features/2022-06-30/how-the-world-s-biggest-bitcoin-btc-hack-at-bitfinex-got-botched)
 
 ### Ecosystem - NFT

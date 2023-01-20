@@ -31,9 +31,9 @@ banner:
 
 ### Regulation
 
-- [Finance industry warns against ‘unnecessarily restrictive' crypto capital rules - Financial Times](https://www.ft.com/content/05675352-3451-4b92-9ef9-b3e769bf30e3)
+- [Finance industry warns against 'unnecessarily restrictive' crypto capital rules - Financial Times](https://www.ft.com/content/05675352-3451-4b92-9ef9-b3e769bf30e3)
 - [SEC's Gary Gensler criticizes stablecoins amid call for tougher crypto regulation - The Washington Post](https://www.washingtonpost.com/business/2021/09/21/sec-gensler-crypto-stablecoins/)
-- [SEC's Gensler Calls Stablecoins ‘Poker Chips' at the Wild West Crypto Casino - CoinDesk](https://www.coindesk.com/policy/2021/09/21/secs-gensler-calls-stablecoins-poker-chips-at-the-wild-west-crypto-casino/)
+- [SEC's Gensler Calls Stablecoins 'Poker Chips' at the Wild West Crypto Casino - CoinDesk](https://www.coindesk.com/policy/2021/09/21/secs-gensler-calls-stablecoins-poker-chips-at-the-wild-west-crypto-casino/)
 - [Stablecoin Feature in New York Times Signals Regulation Is Coming - CoinDesk](https://www.coindesk.com/business/2021/09/19/us-regulators-looking-to-get-a-handle-on-stablecoins-ny-times-says/)
 
 ### Ecosystem
@@ -57,7 +57,7 @@ banner:
 
 ### Ecosystem - El Salvador
 
-- [‘We Just Bought The Dip': El Salvador President Boasts Of Doubling Down On Bitcoin As Price Drops - Forbes](https://www.forbes.com/sites/jemimamcevoy/2021/09/20/we-just-bought-the-dip-el-salvador-president-boasts-of-doubling-down-on-bitcoin-as-price-drops/)
+- ['We Just Bought The Dip': El Salvador President Boasts Of Doubling Down On Bitcoin As Price Drops - Forbes](https://www.forbes.com/sites/jemimamcevoy/2021/09/20/we-just-bought-the-dip-el-salvador-president-boasts-of-doubling-down-on-bitcoin-as-price-drops/)
 - ["We just bought the dip" - Nayibbukele on Twitter](https://twitter.com/nayibbukele/status/1439815012642611203)
 
 ### Ecosystem - Alt-coins

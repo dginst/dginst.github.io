@@ -43,13 +43,13 @@ banner:
 
 - [Vitalik Buterin - Twitter](https://twitter.com/VitalikButerin/status/1558072902972473344)
 - [Ethereum Founder Vitalik Buterin Plans Blockchain Merge For Sept. 15 - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-12/ethereum-founder-buterin-forecasts-blockchain-merge-on-sept-15)
-- [Derivatives Suggest a ‘Sell-the-News’ End to the Ethereum (Ether) Rally - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-12/derivatives-suggest-a-sell-the-news-end-to-the-ethereum-rally)
+- [Derivatives Suggest a 'Sell-the-News' End to the Ethereum (Ether) Rally - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-12/derivatives-suggest-a-sell-the-news-end-to-the-ethereum-rally)
 - [The Merge - ethereum.org](https://ethereum.org/en/upgrades/merge/)
 
 ### Ecosystem - Monero
 
 - [Crypto Privacy Protocol Monero Is Getting a Major Upgrade - Coindesk](https://www.coindesk.com/tech/2022/08/12/privacy-protocol-monero-is-getting-a-major-upgrade)
-- [Monero’s Privacy-Focused Crypto Protocol Upgrade Is Now Live - Coindesk](https://www.coindesk.com/tech/2022/08/13/moneros-privacy-focused-crypto-protocol-upgrade-is-now-live/)
+- [Monero's Privacy-Focused Crypto Protocol Upgrade Is Now Live - Coindesk](https://www.coindesk.com/tech/2022/08/13/moneros-privacy-focused-crypto-protocol-upgrade-is-now-live/)
 - [Monero Rolls Out Enhanced Privacy Features With Hard Fork - Decrypt](https://decrypt.co/107441/monero-rolls-out-enhanced-privacy-features-with-hard-fork)
 
 ### Ecosystem - DeFi lending crisis
@@ -59,12 +59,12 @@ banner:
 - [Canadian pension giant writes off $150mn Celsius investment - Financial Times](https://www.ft.com/content/67048159-82aa-4e96-bfb3-f1764f632375)
 - [Alex Mashinsky took control of Celsius trading strategy months before bankruptcy - Financial Times](https://www.ft.com/content/43d4fb5d-72a1-468c-aac8-9e11c4693f4e)
 - [Genesis CEO exits after crypto broker took hit from Three Arrows collapse - Financial Times](https://www.ft.com/content/b4226f44-d244-4cd1-a63e-997622189187)
-- [South Korean investigators 'haven’t reached out' about Terra collapse, says Do Kwon - The Block](https://www.theblock.co/post/163521/south-korean-investigators-havent-reached-out-about-terra-collapse-says-do-kwon)
+- [South Korean investigators 'haven't reached out' about Terra collapse, says Do Kwon - The Block](https://www.theblock.co/post/163521/south-korean-investigators-havent-reached-out-about-terra-collapse-says-do-kwon)
 - [Inside Crypto's Largest Collapse with Terra's Do Kwon](https://www.coinage.media/s1/inside-cryptos-largest-collapse-with-terras-do-kwon)
 
 ### Ecosystem - Acala
 
-- [DeFi Platform Acala’s Stablecoin Falls 99% After Hackers Issue 1.3B Tokens - Coindesk](https://www.coindesk.com/tech/2022/08/15/acalas-stablecoin-falls-99-percent-after-hackers-issue-13-billion-tokens/)
+- [DeFi Platform Acala's Stablecoin Falls 99% After Hackers Issue 1.3B Tokens - Coindesk](https://www.coindesk.com/tech/2022/08/15/acalas-stablecoin-falls-99-percent-after-hackers-issue-13-billion-tokens/)
 - [Acala - Twitter](https://twitter.com/AcalaNetwork/status/1558642849649856512)
 - [Proposal for Trace Result #1: 08-15-2022 - Acala & Karura Community Forum](https://acala.discourse.group/t/proposal-for-trace-result-1-08-15-2022/1137)
 - [Acala Stablecoins Near $1 Peg After Community Burns 1.2B aUSD Minted by Exploiters - Coindesk](https://www.coindesk.com/tech/2022/08/16/acala-stablecoins-nears-1-peg-after-community-burns-12b-ausd-minted-by-exploiters/)
@@ -92,7 +92,7 @@ banner:
 ### Ecosystem - BitGo / Galaxy Digital
 
 - [GALAXY ANNOUNCES TERMINATION OF BITGO ACQUISITION](https://www.newswire.ca/news-releases/galaxy-announces-termination-of-bitgo-acquisition-806604223.html)
-- [BitGo Reacts to Receipt Of Galaxy Digital’s Notice of Merger Termination - Business Wire](https://www.businesswire.com/news/home/20220815005605/en/BitGo-Reacts-to-Receipt-Of-Galaxy-Digital%E2%80%99s-Notice-of-Merger-Termination)
+- [BitGo Reacts to Receipt Of Galaxy Digital's Notice of Merger Termination - Business Wire](https://www.businesswire.com/news/home/20220815005605/en/BitGo-Reacts-to-Receipt-Of-Galaxy-Digital%E2%80%99s-Notice-of-Merger-Termination)
 - [BitGo says it will seek over $100 million after Galaxy moves to end acquisition - The Block](https://www.theblock.co/post/163596/bitgo-says-it-will-seek-over-100-million-after-galaxy-moves-to-end-acquisition)
 - [BitGo Seeks Merger Termination Fee From Novogratz's Galaxy Digital (GLXY CN) - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-15/novogratz-s-galaxy-terminates-1-2-billion-bitgo-acquisition)
 

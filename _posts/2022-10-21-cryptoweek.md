@@ -44,11 +44,11 @@ banner:
 
 - [Do Kwon's Beautiful, Dark, Twisted Fantasy World- Coindesk](https://www.coindesk.com/layer2/2022/10/19/do-kwons-beautiful-dark-twisted-fantasy-world)
 - [S. Korean Prosecutors Say Reports of Do Kwon's Stopover in Dubai 'Not False': Bloomberg- Coindesk](https://www.coindesk.com/business/2022/10/21/s-korean-prosecutors-say-reports-of-do-kwons-stopover-in-dubai-not-false-report)
-- [Retail investors become vigilantes in hunt for crypto’s most wanted man - Financial Times](https://www.ft.com/content/1a7d82ff-9986-4890-99e8-048940ce8553)
+- [Retail investors become vigilantes in hunt for crypto's most wanted man - Financial Times](https://www.ft.com/content/1a7d82ff-9986-4890-99e8-048940ce8553)
 
 ### Ecosystem - Hodlonaut / Craig Wright
 
-- [Hodlonaut Wins Norwegian Lawsuit Against Self-Proclaimed ‘Satoshi’ Craig Wright- Coindesk](https://www.coindesk.com/policy/2022/10/20/hodlonaut-wins-norwegian-lawsuit-against-self-styled-satoshi-craig-wright)
+- [Hodlonaut Wins Norwegian Lawsuit Against Self-Proclaimed 'Satoshi' Craig Wright- Coindesk](https://www.coindesk.com/policy/2022/10/20/hodlonaut-wins-norwegian-lawsuit-against-self-styled-satoshi-craig-wright)
 
 ### Ecosystem - Aptos
 
@@ -64,7 +64,7 @@ banner:
 
 ### Ecosystem - Kraken
 
-- [Cracks At Kraken: Crypto’s Near Empty C-Suite](https://www.forbes.com/sites/stevenehrlich/2022/10/19/cracks-at-kraken-cryptos-near-empty-c-suite)
+- [Cracks At Kraken: Crypto's Near Empty C-Suite](https://www.forbes.com/sites/stevenehrlich/2022/10/19/cracks-at-kraken-cryptos-near-empty-c-suite)
 
 ### Ecosystem - The Rock Trading
 

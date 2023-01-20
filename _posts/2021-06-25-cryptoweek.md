@@ -39,7 +39,7 @@ banner:
 - [PBoC orders Chinese banks to cut off accounts for crypto OTC merchants](https://www.theblockcrypto.com/post/109098/pboc-orders-chinese-banks-to-cut-off-accounts-for-crypto-otc-merchants-reiterating-2017-banking-ban)
 - [Registration of virtual assets service providers - Banco de Portugal](https://www.bportugal.pt/en/page/registration-virtual-assets-service-providers-0)
 - [Bipartisan Crypto Bills Pass US House of Representatives - CoinDesk](https://www.coindesk.com/bipartisan-crypto-bills-pass-us-house-of-representatives-again)
-- [Biden Nominee for Treasury's Terrorism and Financial Intelligence Unit Prioritizes ‘New Regulations' Around Cryptocurrency - Blockworks](https://blockworks.co/biden-nominee-for-treasurys-terrorism-and-financial-intelligence-unit-prioritizes-new-regulations-around-cryptocurrency)
+- [Biden Nominee for Treasury's Terrorism and Financial Intelligence Unit Prioritizes 'New Regulations' Around Cryptocurrency - Blockworks](https://blockworks.co/biden-nominee-for-treasurys-terrorism-and-financial-intelligence-unit-prioritizes-new-regulations-around-cryptocurrency)
 - [Norway's FSA Says Legal Framework Needed in Crypto to Protect Consumers - CoinDesk](https://www.coindesk.com/norways-fsa-says-legal-framework-needed-in-crypto-to-protect-consumers)
 
 ### Markets - ETF

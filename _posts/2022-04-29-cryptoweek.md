@@ -22,7 +22,7 @@ banner:
 
 ### Ecosystem - Zcash
 
-- [Edward Snowden Played Key Role in Zcash Privacy Coin’s Creation](https://www.coindesk.com/tech/2022/04/27/edward-snowden-played-key-role-in-zcash-privacy-coins-creation)
+- [Edward Snowden Played Key Role in Zcash Privacy Coin's Creation](https://www.coindesk.com/tech/2022/04/27/edward-snowden-played-key-role-in-zcash-privacy-coins-creation)
 
 ### Ecosystem - Twitter
 
@@ -43,13 +43,13 @@ banner:
 
 ### Regulation - Europe
 
-- [ECB's Panetta Blasts Crypto as ‘Ponzi Scheme’ Fueled by Greed](https://www.coindesk.com/policy/2022/04/25/ecbs-panetta-blasts-crypto-as-ponzi-scheme-fueled-by-greed/)
+- [ECB's Panetta Blasts Crypto as 'Ponzi Scheme' Fueled by Greed](https://www.coindesk.com/policy/2022/04/25/ecbs-panetta-blasts-crypto-as-ponzi-scheme-fueled-by-greed/)
 - [Speech by Fabio Panetta](https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220425~6436006db0.en.html)
 - [Europe's Lawmakers Set to Advance Discussion of Controversial Crypto AML Rules](https://www.coindesk.com/policy/2022/04/27/europes-lawmakers-set-to-advance-discussion-of-controversial-crypto-aml-rules/)
 
 ### Regulation - US
 
-- [Crypto Industry Can’t Hire Enough Lawyers - WSJ](https://www.wsj.com/articles/crypto-industry-cant-hire-enough-lawyers-11650879002)
+- [Crypto Industry Can't Hire Enough Lawyers - WSJ](https://www.wsj.com/articles/crypto-industry-cant-hire-enough-lawyers-11650879002)
 - [US Lawmakers Reintroduce Bill to Give CFTC Crypto Spot Market Oversight](https://www.coindesk.com/policy/2022/04/28/us-lawmakers-reintroduce-bill-to-give-cftc-crypto-spot-market-oversight)
 
 ### Ecosystem - Bitcoin ETF

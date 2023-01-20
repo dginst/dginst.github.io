@@ -44,7 +44,7 @@ banner:
 
 ### Exchanges
 
-- [BaFin cracks down on crypto exchange Binance's ‘stock tokens' - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
+- [BaFin cracks down on crypto exchange Binance's 'stock tokens' - Financial Times](https://www.ft.com/content/f52826e7-b2e7-4619-800e-782bf3f7da55)
 - [Coinbase Acquires Analytics Firm Skew, Doubles Down on Institutions - Cryptobriefing](https://cryptobriefing.com/coinbase-acquires-analytics-firm-skew-doubles-down-institutions/)
 - [Coinbase to acquire leading institutional data analytics platform, skew - The Coinbase Blog](https://blog.coinbase.com/coinbase-to-acquire-leading-institutional-data-analytics-platform-skew-929e3882ef42)
 - [A new way to buy crypto on Coinbase using PayPal - The Coinbase Blog](https://blog.coinbase.com/a-new-way-to-buy-crypto-on-coinbase-using-paypal-e9162f735dcb)

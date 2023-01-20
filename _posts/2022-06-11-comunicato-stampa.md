@@ -26,7 +26,7 @@ Director di XXXX,
 porterà un contributo su “YYY”.
 
 Al termine del live-streaming pubblico su YouTube, previsto per le 18:30,
-l’evento proseguirà con un dibattito riservato ([Chatham House Rule](https://it.wikipedia.org/wiki/Chatham_House_Rule))
+l'evento proseguirà con un dibattito riservato ([Chatham House Rule](https://it.wikipedia.org/wiki/Chatham_House_Rule))
 che vede la partecipazione di oltre
 MMM tra i protagonisti italiani del 
 mondo politico, finanziario, industriale, accademico, giornalistico e istituzionale.

@@ -40,7 +40,7 @@ banner:
 ### Tech - Ethereum
 
 - [Cathie Wood thinks Ethereum is 'even more undervalued' than Bitcoin - Fortune](https://fortune.com/2021/12/09/cathie-wood-thinks-ethereum-is-even-more-undervalued-than-bitcoin/)
-- [Ethereum update defuses ‘difficulty bomb' that could have stopped Ether crypto mining - Fortune](https://fortune.com/2021/12/08/ethereum-arrow-glacier-update-difficulty-bomb-crypto-mining-proof-of-stake-eth2/)
+- [Ethereum update defuses 'difficulty bomb' that could have stopped Ether crypto mining - Fortune](https://fortune.com/2021/12/08/ethereum-arrow-glacier-update-difficulty-bomb-crypto-mining-proof-of-stake-eth2/)
 - [Ethereum Arrow Glacier Upgrade - Medium](https://medium.com/ethereum-cat-herders/ethereum-arrow-glacier-upgrade-e8d20fa4c002)
 
 ### Ecosystem - Hashrate

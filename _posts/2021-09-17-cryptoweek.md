@@ -19,7 +19,7 @@ banner:
 
 - [UK Post Office to Offer Crypto Purchases to Some Customers Starting Next Week - CoinDesk](https://www.coindesk.com/business/2021/09/10/uk-post-office-to-offer-crypto-purchases-to-some-customers-starting-next-week/)
 - [Fidelity Digital Assets finds 90% of surveyed investors find digital assets appealing - The Block Crypto](https://www.theblockcrypto.com/linked/117923/fidelity-digital-finds-90-of-surveyed-investors-find-digital-assets-appealing)
-- [BlackRock Executive Believes Bitcoin Price Could Rise ‘Significantly' - Bitcoin Magazine](https://bitcoinmagazine.com/business/blackrock-executive-believes-bitcoin-price-could-rise-significantly)
+- [BlackRock Executive Believes Bitcoin Price Could Rise 'Significantly' - Bitcoin Magazine](https://bitcoinmagazine.com/business/blackrock-executive-believes-bitcoin-price-could-rise-significantly)
 - [Hedge Funds Riding Crypto Wave Post Bumper Returns - Financial Times](https://www.ft.com/content/c7bf6cf3-4167-49cb-9dd8-2d3b89c8a63f)
 - [MicroStrategy Acquires Additional 5,050 Bitcoins - MicroStrategy](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-additional-5050-bitcoins_09-13-2021)
 
@@ -66,7 +66,7 @@ banner:
 
 ### Regulation - ESMA
 
-- [European Finance Regulator Calls Crypto ‘Volatile' but Innovative - CoinDesk](https://www.coindesk.com/policy/2021/09/10/european-finance-regulator-calls-crypto-volatile-but-innovative/)
+- [European Finance Regulator Calls Crypto 'Volatile' but Innovative - CoinDesk](https://www.coindesk.com/policy/2021/09/10/european-finance-regulator-calls-crypto-volatile-but-innovative/)
 - [ESMA Report on Trends, Risks and Vulnerabilities](https://www.politico.eu/wp-content/uploads/2021/09/01/ESMA50-165-1842-TRV2-20214.pdf)
 
 ### Regulation - North America
@@ -81,7 +81,7 @@ banner:
 
 ### Ecosystem - Decentralized Finance (DeFi)
 
-- [Cryptocurrency: Rise of Decentralised Finance Sparks ‘Dirty Money' Fears - Financial Times](https://www.ft.com/content/beeb2f8c-99ec-494b-aa76-a7be0bf9dae6)
+- [Cryptocurrency: Rise of Decentralised Finance Sparks 'Dirty Money' Fears - Financial Times](https://www.ft.com/content/beeb2f8c-99ec-494b-aa76-a7be0bf9dae6)
 - [The Beguiling Promise of Decentralised Finance - The Economist](https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance)
 - [Adventures in DeFi-land - The Economist](https://www.economist.com/briefing/2021/09/18/adventures-in-defi-land)
 - [DeFi Is Crypto's Wall Street, Without a Safety Net - WSJ](https://www.wsj.com/articles/defi-is-cryptos-wall-street-without-a-safety-net-11631611945)
@@ -100,7 +100,7 @@ banner:
 
 ### Ecosystem - Binance
 
-- [Binance to Ditch Decentralized HQ After Some Regulators Think It's ‘Dodgy' - The Block Crypto](https://www.theblockcrypto.com/linked/117855/binance-shift-away-decentralized-headquarters-pitch)
+- [Binance to Ditch Decentralized HQ After Some Regulators Think It's 'Dodgy' - The Block Crypto](https://www.theblockcrypto.com/linked/117855/binance-shift-away-decentralized-headquarters-pitch)
 - [Binance CEO Signals Exchange is Looking for Permanent Home - Blockworks](https://blockworks.co/binance-ceo-signals-exchange-is-looking-for-permanent-home/)
 - [Binance Battles Regulatory Headwinds as World's Largest Cryptocurrency Exchange Seeks Financial Legitimacy - South China Morning Post](https://www.scmp.com/business/banking-finance/article/3148809/binance-battles-regulatory-headwinds-worlds-largest)
 

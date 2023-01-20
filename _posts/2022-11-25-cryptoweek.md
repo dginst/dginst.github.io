@@ -19,7 +19,7 @@ banner:
 ### Ecosystem - Markets
 
 - [More Than 50% of Bitcoin Addresses Are Now in Loss - CoinDesk](https://www.coindesk.com/markets/2022/11/21/more-than-50-of-bitcoin-addresses-are-now-in-loss)
-- [How Crypto’s Collapse May Have Done the Economy a Favor - WSJ](https://www.wsj.com/articles/how-cryptos-collapse-may-have-done-the-economy-a-favor-11669215926)
+- [How Crypto's Collapse May Have Done the Economy a Favor - WSJ](https://www.wsj.com/articles/how-cryptos-collapse-may-have-done-the-economy-a-favor-11669215926)
 - [Pre-Halving Rally? Litecoin Surges 43% to 6-Month High - CoinDesk](https://www.coindesk.com/markets/2022/11/23/pre-halving-rally-litecoin-surges-43-to-6-month-high)
 
 ### Ecosystem - Reports
@@ -31,21 +31,21 @@ banner:
 - [On-Chain Data Shows Close Ties Between FTX and Alameda Were There From the Start - CoinDesk](https://www.coindesk.com/business/2022/11/22/on-chain-data-shows-close-ties-between-ftx-and-alameda-were-there-from-the-start-nansen)
 - [How Caroline Ellison Landed at the Center of the FTX Crypto Collapse - WSJ](https://www.wsj.com/articles/how-caroline-ellison-found-herself-at-the-center-of-the-ftx-crypto-collapse-11668899604)
 - [What Is a Crypto Exchange Token and How Did It Help Blow up FTX? - CoinDesk](https://www.coindesk.com/layer2/2022/11/23/what-is-a-crypto-exchange-token-and-how-did-it-help-blow-up-ftx)
-- [FTX: How did Ontario Teachers’ Pension Plan miss red flags? - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-19/investor-studied-crypto-for-years-then-missed-ftx-s-red-flags)
+- [FTX: How did Ontario Teachers' Pension Plan miss red flags? - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-19/investor-studied-crypto-for-years-then-missed-ftx-s-red-flags)
 - [Sequoia Capital Apologizes to Its Fund Investors for FTX Loss - WSJ](https://www.wsj.com/articles/sequoia-capital-apologizes-to-limited-partners-for-ftx-investment-11669144914)
-- [‘Proof of Reserves’ Emerges as a Favored Way to Prevent Another FTX - CoinDesk](https://www.coindesk.com/tech/2022/11/17/proof-of-reserves-emerges-as-a-favored-way-to-prevent-another-ftx)
+- ['Proof of Reserves' Emerges as a Favored Way to Prevent Another FTX - CoinDesk](https://www.coindesk.com/tech/2022/11/17/proof-of-reserves-emerges-as-a-favored-way-to-prevent-another-ftx)
 
 ### Ecosystem - Grayscale
 
-- [Grayscale won’t share proof of reserves, citing ‘security concerns’ - The Block](https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns)
+- [Grayscale won't share proof of reserves, citing 'security concerns' - The Block](https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns)
 - [Grayscale's GBTC discount to NAV hits record low - The Block](https://www.theblock.co/post/188811/grayscales-gbtc-discount-to-nav-hits-record-low)
-- [‘Grayscale Discount’ Widens to Record 43% as FTX Contagion Spreads - CoinDesk](https://www.coindesk.com/markets/2022/11/18/grayscale-discount-widens-to-record-43-as-ftx-contagion-spreads)
+- ['Grayscale Discount' Widens to Record 43% as FTX Contagion Spreads - CoinDesk](https://www.coindesk.com/markets/2022/11/18/grayscale-discount-widens-to-record-43-as-ftx-contagion-spreads)
 - [Cathie Wood's Ark Invest Buys $1.5M in Grayscale Bitcoin Trust Shares - CoinDesk](https://www.coindesk.com/business/2022/11/22/cathie-woods-ark-buys-15m-of-shares-in-grayscales-bitcoin-trust-at-record-discount)
-- [Situation at Crypto Trading Firm Genesis Doesn’t Directly Affect Grayscale - CoinDesk](https://www.coindesk.com/markets/2022/11/21/bernstein-grayscale-bitcoin-trust-is-protected-from-fallout-at-sibling-company-genesis-global)
+- [Situation at Crypto Trading Firm Genesis Doesn't Directly Affect Grayscale - CoinDesk](https://www.coindesk.com/markets/2022/11/21/bernstein-grayscale-bitcoin-trust-is-protected-from-fallout-at-sibling-company-genesis-global)
 
 ### Ecosystem - Genesis
 
-- [Genesis’ Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse - CoinDesk](https://www.coindesk.com/business/2022/11/16/genesis-crypto-lending-unit-is-halting-customer-withdrawals-in-wake-of-ftx-collapse)
+- [Genesis' Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse - CoinDesk](https://www.coindesk.com/business/2022/11/16/genesis-crypto-lending-unit-is-halting-customer-withdrawals-in-wake-of-ftx-collapse)
 - [Crypto Brokerage Genesis Is Said to Warn of Bankruptcy Without Funding - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-21/crypto-firm-genesis-warns-of-possible-bankruptcy-without-funding)
 - [Crypto Lender Genesis Asks Binance and Apollo for Cash - WSJ](https://www.wsj.com/articles/crypto-lender-genesis-asks-binance-and-apollo-for-cash-11669075159)
 
@@ -57,7 +57,7 @@ banner:
 ### Ecosystem - Binance Recovery Fund
 
 - [Binance CEO Seeking Funds From Middle East Investors for Crypto Recovery Fund - CoinDesk](https://www.coindesk.com/business/2022/11/22/binance-ceo-seeking-funds-from-middle-east-investors-for-crypto-recovery-fund-bloomberg)
-- [Binance’s Zhao Flags Possible $1 Billion for Distressed Crypto Assets - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-24/binance-s-zhao-flags-possible-1-billion-for-distressed-crypto-assets)
+- [Binance's Zhao Flags Possible $1 Billion for Distressed Crypto Assets - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-24/binance-s-zhao-flags-possible-1-billion-for-distressed-crypto-assets)
 - [Binance Allocates Another $1B for Its Crypto Recovery Fund - CoinDesk](https://www.coindesk.com/business/2022/11/25/binance-allocates-another-1b-for-its-crypto-recovery-fund)
 
 ### Ecosystem - FTX Exploiter

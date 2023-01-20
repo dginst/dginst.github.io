@@ -26,7 +26,7 @@ banner:
 - [UST, Luna Network Validators Halt Blockchain for Second Time to Plot Next Steps - Coindesk](https://www.coindesk.com/business/2022/05/13/terra-validators-halt-blockchain-for-second-time-to-plot-next-steps/)
 - [Terra blockchain resumes operation with staking disabled after earlier halt - theblockcrypto](https://www.theblockcrypto.com/post/146615/terra-blockchain-halted-to-protect-against-possible-attack)
 - [LUNA, UST Still Available on FTX and Other Exchanges Despite Terra Blockchain Halt - Coindesk](https://www.coindesk.com/markets/2022/05/13/luna-ust-still-available-on-ftx-and-other-exchanges-despite-terra-blockchain-halt)
-- [UST’s Do Kwon Was Behind Failed Stablecoin Basis Cash - Coindesk](https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say)
+- [UST's Do Kwon Was Behind Failed Stablecoin Basis Cash - Coindesk](https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say)
 - [Do Kwon - Twitter](https://twitter.com/stablekwon/status/1524331171189956609)
 - [Terra (UST) - Twitter](https://twitter.com/terra_money/status/1524654726432043008)
 - [Lark Davis - Twitter](https://twitter.com/TheCryptoLark/status/1524393380859432960)
@@ -40,24 +40,24 @@ banner:
 - ['Unlike Republicans, we recognize that there is real risk' to stablecoins and crypto, says Senate Banking Committee chairman - theblockcrypto](https://www.theblockcrypto.com/post/146187/unlike-republicans-we-recognize-that-there-is-real-risk-to-stablecoins-and-crypto-says-senate-banking-committee-chairman)
 - [Janet Yellen: UST shows that there needs to be a framework around stable coins - Twitter](https://twitter.com/CoinSauceNews/status/1524042395247161346)
 - [Yellen says the stablecoin market is still too small to pose systemic risk - theblockcrypto](https://www.theblockcrypto.com/linked/146583/yellen-says-the-stablecoin-market-is-still-too-small-to-pose-systemic-risk)
-- [SEC’s Hester Peirce says new stablecoin regs need to allow room for failure - CoinTelegraph](https://cointelegraph.com/news/sec-s-hester-peirce-says-new-stablecoin-regs-need-to-allow-room-for-failure)
+- [SEC's Hester Peirce says new stablecoin regs need to allow room for failure - CoinTelegraph](https://cointelegraph.com/news/sec-s-hester-peirce-says-new-stablecoin-regs-need-to-allow-room-for-failure)
 
 ### Ecosystem - Tether
 
-- [Crypto industry shaken as Tether’s dollar peg snaps - Financial Times](https://www.ft.com/content/5887ef43-d43a-4608-a1ac-aacc99f076b9)
+- [Crypto industry shaken as Tether's dollar peg snaps - Financial Times](https://www.ft.com/content/5887ef43-d43a-4608-a1ac-aacc99f076b9)
 - [Tether Continues to Honour All Redemptions - Tether](https://tether.to/en/tether-continues-to-honour-all-redemptions-from-verified-customers-during-market-volatility-on-track-to-process-2bn-today/)
 - [Tether cuts holdings of commercial paper, says majority of exposure in Treasuries - Reuters](https://www.reuters.com/markets/currencies/tether-has-reduced-its-exposure-commercial-paper-cto-says-2022-05-12)
 
 ### Markets
 
-- [Crash of TerraUSD Shakes Crypto. ‘There Was a Run on the Bank.’ - WSJ](https://www.wsj.com/articles/crash-of-terrausd-shakes-crypto-there-was-a-run-on-the-bank-11652371839?mod=series_cryptobitcoindogecoin)
+- [Crash of TerraUSD Shakes Crypto. 'There Was a Run on the Bank.' - WSJ](https://www.wsj.com/articles/crash-of-terrausd-shakes-crypto-there-was-a-run-on-the-bank-11652371839?mod=series_cryptobitcoindogecoin)
 - [Bitcoin falls below $30,000 for first time since July 2021 - Financial Times](https://www.ft.com/content/d2a9df43-1ea0-4fb2-9b02-4944589fd909)
 - [How More Than $1 Trillion of Crypto Vanished in Just Six Months - WSJ](https://www.wsj.com/articles/how-more-than-1-trillion-of-crypto-vanished-in-just-six-months-11652434202)
 - [Bitcoin Price Rebounds After Fall Below $26,000 - WSJ](https://www.wsj.com/articles/bitcoin-falls-to-26-000-as-crypto-selloff-intensifies-11652340653?mod=series_cryptobitcoindogecoin)
 - [Bill Miller remains a long-term crypto bull - CNBC](https://www.cnbc.com/2022/05/12/bill-miller-says-he-sold-some-bitcoin-to-meet-margin-calls-but-remains-a-long-term-crypto-bull.html)
 - [I haven't sold any Bitcoin, says legendary investor Bill Miller - YouTube](https://www.youtube.com/watch?v=yaexYWn3vtI)
 - [Nayib Bukele - Twitter](https://twitter.com/nayibbukele/status/1523742670044413954)
-- [Not bothered: Miners ‘not impacted by volatility’ in Bitcoin market - CoinTelegraph](https://cointelegraph.com/news/not-bothered-miners-not-impacted-by-volatility-in-bitcoin-market)
+- [Not bothered: Miners 'not impacted by volatility' in Bitcoin market - CoinTelegraph](https://cointelegraph.com/news/not-bothered-miners-not-impacted-by-volatility-in-bitcoin-market)
 
 ### Ecosystem - Microstrategy
 
@@ -70,7 +70,7 @@ banner:
 
 - [Coinbase Stock Keeps Sliding After Earnings Report - WSJ](https://www.wsj.com/articles/coinbase-stock-keeps-sliding-ahead-of-earnings-report-11652201758)
 - [Crypto Winter May Be Harsh for Coinbase - WSJ](https://www.wsj.com/articles/crypto-winter-may-be-harsh-for-coinbase-11652283240)
-- [Coinbase Says Users’ Crypto Assets Lack Bankruptcy Protections - WSJ](https://www.wsj.com/articles/coinbase-says-users-crypto-assets-lack-bankruptcy-protections-11652294103?mod=series_cryptobitcoindogecoin)
+- [Coinbase Says Users' Crypto Assets Lack Bankruptcy Protections - WSJ](https://www.wsj.com/articles/coinbase-says-users-crypto-assets-lack-bankruptcy-protections-11652294103?mod=series_cryptobitcoindogecoin)
 
 ### Ecosystem - Chainalysis
 

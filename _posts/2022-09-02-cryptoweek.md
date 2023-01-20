@@ -23,7 +23,7 @@ banner:
 - [Ether Price Could Drop to $1,000 or Below, Chart Shows - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-30/ether-could-drop-to-1-000-or-below-technicals-show-chart)
 - [Ether Futures See Unusually High Liquidations as Funding Rates Point to Bearish Sentiment](https://www.coindesk.com/markets/2022/08/31/ether-futures-see-unusually-high-liquidations-as-funding-rates-point-to-bearish-sentiment/)
 - [Ether, Bitcoin Could See Turbulence as Open Interest Leverage Ratio Soars to Record High](https://www.coindesk.com/markets/2022/08/30/ether-bitcoin-could-see-turbulence-as-open-interest-leverage-ratio-soars-to-record-high)
-- [Crypto Fans Gear Up for Possible Tough September With Bitcoin’s Latest Drop - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-31/crypto-fans-gearing-up-for-what-may-be-another-tough-september)
+- [Crypto Fans Gear Up for Possible Tough September With Bitcoin's Latest Drop - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-31/crypto-fans-gearing-up-for-what-may-be-another-tough-september)
 
 ### Ecosystem - ETH Merge
 
@@ -43,15 +43,15 @@ banner:
 
 ### Ecosystem - DeFi
 
-- [Market for Compound Ether Token ‘Frozen’ After Code Bug Kills Price Feed](https://www.coindesk.com/markets/2022/08/30/market-for-compound-ether-token-frozen-after-code-bug-kills-price-feed)
+- [Market for Compound Ether Token 'Frozen' After Code Bug Kills Price Feed](https://www.coindesk.com/markets/2022/08/30/market-for-compound-ether-token-frozen-after-code-bug-kills-price-feed)
 
 ### Ecosystem - NFT
 
-- [Facebook Joins Meta’s Instagram in Supporting NFTs](https://www.coindesk.com/business/2022/08/29/facebook-joins-metas-instagram-in-supporting-nfts)
+- [Facebook Joins Meta's Instagram in Supporting NFTs](https://www.coindesk.com/business/2022/08/29/facebook-joins-metas-instagram-in-supporting-nfts)
 
 ### Ecosystem - FTX
 
-- [FTX CEO Sam Bankman-Fried: Crypto Bailouts Had ‘Mixed Results,’ - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-31/sam-bankman-fried-crypto-bailouts-had-mixed-results)
+- [FTX CEO Sam Bankman-Fried: Crypto Bailouts Had 'Mixed Results,' - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-31/sam-bankman-fried-crypto-bailouts-had-mixed-results)
 
 ### Ecosystem - Binance
 

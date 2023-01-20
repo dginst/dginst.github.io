@@ -39,7 +39,7 @@ banner:
 - [Coinbase Earned More in First Quarter Than in All of 2020 (WSJ)](https://www.wsj.com/articles/coinbase-earned-more-in-first-quarter-than-in-all-of-2020-11617745114){:target="_blank"}
 - [Why Coinbase's stellar earnings are not what they seem (Financial Times)](https://on.ft.com/3fPyR1d){:target="_blank"}
 - [Coinbase rival Kraken may go public via direct listing (Cnbc)](https://www.cnbc.com/2021/04/08/bitcoin-coinbase-rival-kraken-may-go-public-via-direct-listing.html){:target="_blank"}
-- [Binance CEO Goes All-in on Tokens: ‘I Just Want to Keep Crypto' (Bloomberg)](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto){:target="_blank"}
+- [Binance CEO Goes All-in on Tokens: 'I Just Want to Keep Crypto' (Bloomberg)](https://www.bloomberg.com/news/features/2021-04-07/binance-ceo-changpeng-zhao-says-i-just-want-to-keep-crypto){:target="_blank"}
 - [ALL ABOARD! by Arthur Hayes (Medium)](https://cryptohayes.medium.com/all-aboard-4d50435190d6){:target="_blank"}
 - [Revenge Of The Winklevii (Forbes)](https://www.forbes.com/sites/michaeldelcastillo/2021/04/05/revenge-of-the-winklevii-facebook-winklevoss-bitcoin-nft-billionaire-revenge){:target="_blank"}
 
@@ -58,7 +58,7 @@ banner:
 
 ### NFT
 
-- [Sotheby's Embarks on NFTs With Digital Creator Pak's ‘The Fungible Collection' (Barron's)](https://www.barrons.com/articles/sothebys-embarks-on-nfts-with-digital-creator-paks-the-fungible-collection-01617739344){:target="_blank"}
+- [Sotheby's Embarks on NFTs With Digital Creator Pak's 'The Fungible Collection' (Barron's)](https://www.barrons.com/articles/sothebys-embarks-on-nfts-with-digital-creator-paks-the-fungible-collection-01617739344){:target="_blank"}
 - [Luxury fashion brands poised to join the NFT party (Vogue Business)](https://www.voguebusiness.com/technology/luxury-fashion-brands-poised-to-join-the-nft-party){:target="_blank"}
 
 ### Mining
@@ -93,7 +93,7 @@ banner:
 - [Japan's central bank kicks off experiments on issuing digital currency (Reuters)](https://www.reuters.com/article/us-japan-economy-cbdc-idUSKBN2BS0EG){:target="_blank"}
 - [BOJ Starts Central Bank Digital Currency Experiments (CoinDesk)](https://www.coindesk.com/boj-starts-central-bank-digital-currency-experiments){:target="_blank"}
 - [BOJ sees scope to set common rules on CBDCs with major central banks (Reuters)](https://www.reuters.com/article/cenbanks-digital-japan/boj-sees-scope-to-set-common-rules-on-cbdcs-with-major-central-banks-idUSL4N2M1265){:target="_blank"}
-- [Government Ban on Bitcoin Would Be ‘Foolish': SEC's Hester Peirce (Decrypt)](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce){:target="_blank"}
+- [Government Ban on Bitcoin Would Be 'Foolish': SEC's Hester Peirce (Decrypt)](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce){:target="_blank"}
 - [HSBC considers Microstrategy as a virtual currency product (Twitter)](https://twitter.com/camadamus/status/1380030785911025671?s=21){:target="_blank"}
 
 ### Altcoins

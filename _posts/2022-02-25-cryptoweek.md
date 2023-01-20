@@ -67,7 +67,7 @@ banner:
 
 ### Ecosystem - Mexico
 
-- [Mexican senator to propose crypto law: ‘We need Bitcoin as legal tender’- cointelegraph](https://cointelegraph.com/news/mexican-senator-to-propose-crypto-law-we-need-bitcoin-as-legal-tender)
+- [Mexican senator to propose crypto law: 'We need Bitcoin as legal tender'- cointelegraph](https://cointelegraph.com/news/mexican-senator-to-propose-crypto-law-we-need-bitcoin-as-legal-tender)
 
 ### Ecosystem - Mining
 

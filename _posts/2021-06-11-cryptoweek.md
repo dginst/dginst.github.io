@@ -58,14 +58,14 @@ banner:
 ### Ecosystem - Anonymous vs Elon Musk
 
 - [Anonymous Message To Elon Musk - YouTube](https://www.youtube.com/watch?v=UG07x3aN3b0)
-- [Musk's Crypto Tweets ‘Destroyed Lives,' Anonymous Says as Hacker Group Targets Tesla CEO - CoinDesk](https://www.coindesk.com/musks-crypto-tweets-destroyed-lives-hacker-group-anonymous-says-taking-aim-at-tesla-ceo)
-- [Elon Musk Had the Most Elon Musk Response to Anonymous' Cryptocurrency ‘Warning' - News18](https://www.news18.com/news/buzz/elon-musk-had-the-most-elon-musk-response-to-anonymous-cryptocurrency-warning-3829982.html)
+- [Musk's Crypto Tweets 'Destroyed Lives,' Anonymous Says as Hacker Group Targets Tesla CEO - CoinDesk](https://www.coindesk.com/musks-crypto-tweets-destroyed-lives-hacker-group-anonymous-says-taking-aim-at-tesla-ceo)
+- [Elon Musk Had the Most Elon Musk Response to Anonymous' Cryptocurrency 'Warning' - News18](https://www.news18.com/news/buzz/elon-musk-had-the-most-elon-musk-response-to-anonymous-cryptocurrency-warning-3829982.html)
 
 ### Ecosystem - Ransomware and Colonial Pipeline
 
 - [DOJ Targets Crypto Crooks As Ransomware Investigations Elevated To Same Level As Terrorism - Zero Hedge](https://www.zerohedge.com/technology/doj-targets-crypto-crooks-ransomware-elevated-same-level-terrorism)
 - [Let us take on bitcoin gangs, urge police - The Times](https://www.thetimes.co.uk/article/let-us-take-on-bitcoin-gangs-urge-police-02dgmvtfg)
-- [Colonial Pipeline CEO tells Senate DarkSide hackers breached system using single ‘compromised' password - as he defends decision to pay cybercriminals $4million ransom - Dailymail](https://www.dailymail.co.uk/news/article-9665459/Colonial-Pipeline-CEO-tells-Senate-hackers-breached-using-single-compromised-password.html)
+- [Colonial Pipeline CEO tells Senate DarkSide hackers breached system using single 'compromised' password - as he defends decision to pay cybercriminals $4million ransom - Dailymail](https://www.dailymail.co.uk/news/article-9665459/Colonial-Pipeline-CEO-tells-Senate-hackers-breached-using-single-compromised-password.html)
 - [US recovers millions in cryptocurrency paid to Colonial Pipeline ransomware hackers - CNN](https://edition.cnn.com/2021/06/07/politics/colonial-pipeline-ransomware-recovered/index.html)
 - [USRetrieves Millions in Ransom Paid to Colonial Pipeline Hackers - WSJ](https://www.wsj.com/articles/u-s-retrieves-millions-paid-to-colonial-pipeline-hackers-11623094399)
 - [US Recovers Bitcoin Paid to Colonial Pipeline Hackers - Decrypt](https://decrypt.co/72962/us-recovers-crypto-paid-colonial-pipeline-hackers-report)
@@ -81,7 +81,7 @@ banner:
 - [Hardware Bitcoin And Crypto Wallet Manufacturer Ledger Completes $380 Million Fundraising Round - Forbes](https://www.forbes.com/sites/emilymason/2021/06/10/hardware-bitcoin-and-crypto-wallet-manufacturer-ledger-completes-380-million-fundraising-round)
 - [Jack Dorsey: Square's hardware wallet - Twitter](https://twitter.com/jack/status/1400839179513339905)
 - [Solana Is Raising Up to $450 Million to Challenge Ethereum (Updated) - Decrypt](https://decrypt.co/72754/solana-raising-450-million-challenge-ethereum)
-- [BlockFi in Discussions to Raise ‘Several Hundred Million' in Latest Round: Report - CoinDesk](https://www.coindesk.com/blockfi-in-discussions-to-raise-several-hundred-million-in-latest-round-report)
+- [BlockFi in Discussions to Raise 'Several Hundred Million' in Latest Round: Report - CoinDesk](https://www.coindesk.com/blockfi-in-discussions-to-raise-several-hundred-million-in-latest-round-report)
 - [Amazon Looks to Hire Blockchain Staffers With Experience of DeFi - CoinDesk](https://www.coindesk.com/amazon-looks-to-hire-blockchain-staffers-with-experience-of-defi)
 
 ### Regulation

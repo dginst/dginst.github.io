@@ -31,7 +31,7 @@ banner:
 
 ### Markets
 
-- [Bitcoin Slumps Toward Another ‘Crypto Winter' - WSJ](https://www.wsj.com/articles/bitcoin-slumps-toward-another-crypto-winter-11624699802)
+- [Bitcoin Slumps Toward Another 'Crypto Winter' - WSJ](https://www.wsj.com/articles/bitcoin-slumps-toward-another-crypto-winter-11624699802)
 - [Saving for Retirement? Now You Can Bet on Bitcoin - WSJ](https://www.wsj.com/articles/saving-for-retirement-now-you-can-bet-on-bitcoin-11624613435)
 - [TP ICAP to launch crypto trading platform with Fidelity and others - The Block](https://www.theblockcrypto.com/post/109952/tp-icap-crypto-trading-platform-fidelity-standard-chartered-flow-traders)
 - [TP Icap to launch cryptocurrency trading site - The Times](https://www.thetimes.co.uk/article/tp-icap-to-launch-cryptocurrency-trading-site-ss25f000r)

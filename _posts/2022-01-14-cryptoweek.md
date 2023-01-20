@@ -40,7 +40,7 @@ banner:
 - [Brazil: Rio de Janeiro Will Buy Bitcoin for City Reserves](https://www.fxempire.com/news/article/brazil-city-rio-de-janeiro-will-buy-bitcoin-for-city-reserves-866125)
 - [Turks Pile Into Bitcoin and Tether to Escape Plunging Lira - WSJ](https://www.wsj.com/articles/turks-pile-into-bitcoin-and-tether-to-escape-plunging-lira-11641982077)
 - [Analysis: Crypto companies bet new mayor will make New York digital asset hub - Reuters](https://www.reuters.com/technology/crypto-companies-bet-new-mayor-will-make-new-york-digital-asset-hub-2022-01-12/)
-- [Arkansas to Lure Remote Tech Workers With ‘Bitcoin and a Bike’ Sweetener - Decrypt](https://decrypt.co/90445/arkansas-lure-remote-tech-workers-with-bitcoin-bike-sweetener)
+- [Arkansas to Lure Remote Tech Workers With 'Bitcoin and a Bike' Sweetener - Decrypt](https://decrypt.co/90445/arkansas-lure-remote-tech-workers-with-bitcoin-bike-sweetener)
 - [North Korean Hackers Have Prolific Year as Their Unlaundered Cryptocurrency Holdings Reach All-time High - Chainalysis](https://blog.chainalysis.com/reports/north-korean-hackers-have-prolific-year-as-their-total-unlaundered-cryptocurrency-holdings-reach-all-time-high/)
 
 ### Ecosystem - Mining
@@ -67,9 +67,9 @@ banner:
 - [PayPal confirms that it is 'exploring' a stablecoin](https://www.theblockcrypto.com/linked/129665/paypal-confirms-that-it-is-exploring-a-stablecoin)
 - [PayPal Is Exploring Creating Its Own Stablecoin as Crypto Business Grows](https://www.coindesk.com/business/2022/01/07/paypal-is-exploring-creating-its-own-stablecoin-as-crypto-business-grows/)
 - [Fed Chair Powell: CBDC and Stablecoins Can Coexist - Blockworks](https://blockworks.co/fed-chair-powell-cbdc-and-stablecoins-can-coexist/)
-- [India’s Central Bank Creates Fintech Department That Will Address CBDC](https://www.coindesk.com/business/2022/01/08/indias-central-bank-creates-fintech-department-as-challenges-posed-by-crypto-cbdc-grow/)
+- [India's Central Bank Creates Fintech Department That Will Address CBDC](https://www.coindesk.com/business/2022/01/08/indias-central-bank-creates-fintech-department-as-challenges-posed-by-crypto-cbdc-grow/)
 - [BIS Names CBDC Expert as Head of Euro Region Innovation Center](https://www.coindesk.com/business/2022/01/07/bis-names-cbdc-expert-as-head-of-euro-region-innovation-center/)
-- [China’s digital yuan: e-CNY wallet tops download charts in Apple and Xiaomi app stores ahead of Lunar New Year - South China Morning Post](https://www.scmp.com/tech/big-tech/article/3162847/chinas-digital-yuan-e-cny-wallet-tops-download-charts-apple-and)
+- [China's digital yuan: e-CNY wallet tops download charts in Apple and Xiaomi app stores ahead of Lunar New Year - South China Morning Post](https://www.scmp.com/tech/big-tech/article/3162847/chinas-digital-yuan-e-cny-wallet-tops-download-charts-apple-and)
 
 ### Ecosystem - NFT
 

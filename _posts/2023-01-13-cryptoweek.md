@@ -66,7 +66,7 @@ banner:
 - [Gemini Terminates Its Crypto Yield Product, Amping Up Battle With Barry Silbert's DCG - Coindesk](https://www.coindesk.com/business/2023/01/10/gemini-terminates-its-crypto-yield-product-amping-up-battle-with-genesis)
 - [Gemini head Winklevoss escalates DCG spat, demands removal of Silbert - The Block](https://www.theblock.co/post/200442/gemini-ceo-winklevoss-escalates-dcg-spat-demands-removal-of-silbert)
 - [Barry Silbert defends DCG in response to Gemini's Winklevoss - The Block](https://www.theblock.co/post/200629/barry-silbert-defends-dcg-in-response-to-geminis-winklevoss)
-- [Winklevoss Twins’ Gemini Trust ‘Tarnished’ After Crypto Crisis - Bloomberg](https://www.bloomberg.com/news/articles/2023-01-10/winklevoss-twins-gemini-trust-tarnished-after-crypto-crisis)
+- [Winklevoss Twins’ Gemini Trust 'Tarnished’ After Crypto Crisis - Bloomberg](https://www.bloomberg.com/news/articles/2023-01-10/winklevoss-twins-gemini-trust-tarnished-after-crypto-crisis)
 - [Crypto's Hotel California Traps the Winklevoss Twins - Bloomberg](https://www.bloomberg.com/opinion/articles/2023-01-11/crypto-s-hotel-california-traps-the-winklevoss-twins)
 
 ### Ecosystem - El Salvador

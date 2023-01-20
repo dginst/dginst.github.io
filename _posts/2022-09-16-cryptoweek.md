@@ -18,7 +18,7 @@ banner:
 
 ### Ecosystem - ETH Merge
 
-- [Ethereum ‘Merge’ concludes in key moment for crypto market - Financial Times](https://www.ft.com/content/4d3c85ee-c812-47b2-a973-acaf1c141a50)
+- [Ethereum 'Merge' concludes in key moment for crypto market - Financial Times](https://www.ft.com/content/4d3c85ee-c812-47b2-a973-acaf1c141a50)
 - [24 Hours In Crypto, September 16, 2022 - FRNT Financial](https://mailchi.mp/b03629d8e43f/frnt-financial-24-hours-in-crypto-september-16-2022?e=ce087d5484)
 - [Ethereum 2.0 - Kraken](https://docsend.com/view/e23q5rzatysqinm2)
 
@@ -37,12 +37,12 @@ banner:
 
 ### Ecosystem - Staking
 
-- [Ether’s New ‘Staking’ Model Could Draw SEC Attention - WSJ](https://www.wsj.com/articles/ethers-new-staking-model-could-draw-sec-attention-11663266224)
-- [SEC’s Gensler Signals Extra Scrutiny for Proof-of-Stake Cryptocurrencies: Report - Coindesk](https://www.coindesk.com/policy/2022/09/15/secs-gensler-signals-extra-scrutiny-for-proof-of-stake-cryptocurrencies-report)
+- [Ether's New 'Staking' Model Could Draw SEC Attention - WSJ](https://www.wsj.com/articles/ethers-new-staking-model-could-draw-sec-attention-11663266224)
+- [SEC's Gensler Signals Extra Scrutiny for Proof-of-Stake Cryptocurrencies: Report - Coindesk](https://www.coindesk.com/policy/2022/09/15/secs-gensler-signals-extra-scrutiny-for-proof-of-stake-cryptocurrencies-report)
 
 ### Ecosystem - ETH vs BTC
 
-- [Ethereum’s Merge Is Over. Your Move, Bitcoin (BTC) - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-09-15/ethereum-s-merge-is-over-your-move-bitcoin-btc)
+- [Ethereum's Merge Is Over. Your Move, Bitcoin (BTC) - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-09-15/ethereum-s-merge-is-over-your-move-bitcoin-btc)
 - [Cryptoverse: Ether snaps at bitcoin's heels in race for crypto crown - Reuters](https://www.reuters.com/technology/cryptoverse-ether-snaps-bitcoins-heels-race-crypto-crown-2022-09-13/)
 
 ### Ecosystem - TradFi
@@ -59,7 +59,7 @@ banner:
 
 ### Ecosystem - FTX and Alameda
 
-- [Trading Firm Alameda Research Powers FTX CEO Sam Bankman-Fried’s Crypto Empire - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-14/trading-firm-alameda-research-powers-ftx-ceo-sam-bankman-fried-s-crypto-empire)
+- [Trading Firm Alameda Research Powers FTX CEO Sam Bankman-Fried's Crypto Empire - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-14/trading-firm-alameda-research-powers-ftx-ceo-sam-bankman-fried-s-crypto-empire)
 
 ### Ecosystem - Terra Luna
 

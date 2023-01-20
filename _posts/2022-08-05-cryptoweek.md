@@ -32,7 +32,7 @@ banner:
 - [Solana Wallets Targeted in Latest Multimillion-Dollar Hack - Coindesk](https://www.coindesk.com/markets/2022/08/03/phantom-wallet-exploit-drains-millions-in-sol-tokens)
 - [Solana Status - Twitter](https://twitter.com/SolanaStatus/status/1554817790091182080)
 - [Solana team traces exploit back to Slope mobile wallets - The Block](https://www.theblock.co/post/161325/solana-team-traces-exploit-back-to-slope-mobile-wallets)
-- [Solana wallets ‘drained’ in blow to crypto network - Financial Times](https://www.ft.com/content/65e5829f-8107-48a8-a5d0-f7a8c8f79df3)
+- [Solana wallets 'drained' in blow to crypto network - Financial Times](https://www.ft.com/content/65e5829f-8107-48a8-a5d0-f7a8c8f79df3)
 - [Solana Spaces Brings Crypto to Real World Despite Virtual Setbacks - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-03/solana-brings-crypto-to-real-world-while-virtual-setbacks-abound)
 
 ### Ecosystem - Babel
@@ -62,7 +62,7 @@ banner:
 
 ### Regulation - SEC
 
-- [The SEC’s Cryptocurrency Confusion - WSJ](https://www.wsj.com/articles/the-secs-cryptocurrency-confusion-coinbase-tokens-securities-register-payment-bitcoin-equity-scam-regulation-11659463294)
+- [The SEC's Cryptocurrency Confusion - WSJ](https://www.wsj.com/articles/the-secs-cryptocurrency-confusion-coinbase-tokens-securities-register-payment-bitcoin-equity-scam-regulation-11659463294)
 - [Senate bill would hand bitcoin, ether oversight to commodities regulator - Reuters](https://www.reuters.com/markets/us/senate-bill-would-hand-bitcoin-ether-oversight-commodities-regulator-2022-08-03/)
 
 ### Ecosystem - ETHPoW

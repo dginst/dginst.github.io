@@ -24,7 +24,7 @@ banner:
 
 - [Ethereum Merge No Longer Expected in June](https://www.coindesk.com/business/2022/04/13/ethereum-merge-no-longer-expected-in-june/)
 - [Ethereum Merge Pushed to Q3 as 'Final Chapter' of Proof of Work Looms - Decrypt](https://decrypt.co/97709/ethereum-merge-pushed-to-q3-as-final-chapter-of-proof-of-work-looms)
-- [What Is ‘The Merge’? Ethereum’s Move to Proof of Stake - Decrypt](https://decrypt.co/resources/what-merge-ethereum-move-proof-stake)
+- [What Is 'The Merge'? Ethereum's Move to Proof of Stake - Decrypt](https://decrypt.co/resources/what-merge-ethereum-move-proof-stake)
 - [Ethereum Developer Sentenced to 5 Years in North Korean Sanctions Case](https://blockworks.co/virgil-griffith-sentenced-to-5-years-in-prison-in-n-korean-sanctions-case/)
 
 ### Ecosystem - Elon Musk and Twitter
@@ -35,7 +35,7 @@ banner:
 ### Ecosystem - Bitcoin ETF
 
 - [Nasdaq survey indicates financial advisors are eager for a spot crypto ETF](https://www.theblockcrypto.com/linked/141499/nasdaq-survey-indicates-financial-advisors-are-eager-for-a-spot-crypto-etf)
-- [Grayscale CEO: Spot Bitcoin ETF Approval Is 'Next Natural Step’ for SEC](https://blockworks.co/grayscale-ceo-spot-bitcoin-etf-approval-is-the-next-natural-step-for-sec)
+- [Grayscale CEO: Spot Bitcoin ETF Approval Is 'Next Natural Step' for SEC](https://blockworks.co/grayscale-ceo-spot-bitcoin-etf-approval-is-the-next-natural-step-for-sec)
 
 ### Ecosystem - Blackrock
 
@@ -63,7 +63,7 @@ banner:
 
 - [Luna Foundation Guard Adds $100M in BTC to UST Reserves](https://www.coindesk.com/markets/2022/04/13/luna-foundation-guard-adds-100-million-btc-to-ust-reserves/)
 - [Cryptoverse: 10 billion reasons bitcoin could become a reserve currency - Reuters](https://www.reuters.com/business/cryptoverse-10-billion-reasons-bitcoin-could-become-reserve-currency-2022-04-12/)
-- [Terraform Labs ‘gifts’ $880 million in LUNA to Luna Foundation Guard](https://www.theblockcrypto.com/post/141962/terraform-labs-gifts-880-million-in-luna-to-luna-foundation-guard)
+- [Terraform Labs 'gifts' $880 million in LUNA to Luna Foundation Guard](https://www.theblockcrypto.com/post/141962/terraform-labs-gifts-880-million-in-luna-to-luna-foundation-guard)
 
 ### Ecosystem - Binance
 
@@ -74,18 +74,18 @@ banner:
 ### Ecosystem - Tether
 
 - [Tether to reduce commercial paper holdings in USDT reserves](https://www.cnbc.com/2022/04/13/tether-to-reduce-commercial-paper-holdings-in-usdt-reserves.html)
-- [Tether’s USDT Stablecoin Enters Polkadot Ecosystem With Kusama Launch](https://www.coindesk.com/business/2022/04/13/tethers-usdt-stablecoin-enters-polkadot-ecosystem-with-kusama-launch/)
+- [Tether's USDT Stablecoin Enters Polkadot Ecosystem With Kusama Launch](https://www.coindesk.com/business/2022/04/13/tethers-usdt-stablecoin-enters-polkadot-ecosystem-with-kusama-launch/)
 
 ### Ecosystem - Russia and Ukraine
 
 - [EU Bans High Value Crypto Services to Russia Aimed at Closing Sanctions Loopholes - Decrypt](https://decrypt.co/97277/eu-bans-high-value-crypto-services-russia-sanctions)
-- [If Crypto Can’t Be Used to Evade Russian Sanctions, What Is the Point? - WSJ](https://www.wsj.com/articles/if-crypto-cant-be-used-to-evade-russian-sanctions-what-is-the-point-11649763827)
+- [If Crypto Can't Be Used to Evade Russian Sanctions, What Is the Point? - WSJ](https://www.wsj.com/articles/if-crypto-cant-be-used-to-evade-russian-sanctions-what-is-the-point-11649763827)
 - [Can crypto fill the gap left by Russian money in the UK? - Financial Times](https://www.ft.com/content/7176b947-d47a-4c0a-83f5-ca879045c2d6)
 
 ### Regulation - Bitcoinization
 
-- [Brazilian Senate announces incoming approval of the ‘Bitcoin law’](https://cointelegraph.com/news/brazilian-senate-announces-incoming-approval-of-the-bitcoin-law)
-- [Central Bank of Portugal Grants Country’s First Crypto License to a Bank](https://www.coindesk.com/business/2022/04/14/central-bank-of-portugal-grants-countrys-first-crypto-license-to-a-bank/)
+- [Brazilian Senate announces incoming approval of the 'Bitcoin law'](https://cointelegraph.com/news/brazilian-senate-announces-incoming-approval-of-the-bitcoin-law)
+- [Central Bank of Portugal Grants Country's First Crypto License to a Bank](https://www.coindesk.com/business/2022/04/14/central-bank-of-portugal-grants-countrys-first-crypto-license-to-a-bank/)
 
 ### Regulation - CBDC
 

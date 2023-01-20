@@ -31,7 +31,7 @@ banner:
 
 ### Ecosystem - BitMEX
 
-- [BitMEX Execs Plan to Acquire One of Germany’s Oldest Banks - Blockworks](https://blockworks.co/bitmex-execs-plan-to-acquire-one-of-germanys-oldest-banks/)
+- [BitMEX Execs Plan to Acquire One of Germany's Oldest Banks - Blockworks](https://blockworks.co/bitmex-execs-plan-to-acquire-one-of-germanys-oldest-banks/)
 - [BitMEX CEO, CFO to Buy One of Germany's Oldest Banks - coindesk](https://www.coindesk.com/business/2022/01/18/bitmex-ceo-cfo-to-buy-one-of-germanys-oldest-banks/)
 
 ### Ecosystem - Crypto.com hack
@@ -48,13 +48,13 @@ banner:
 
 - [Swiss Central Bank, BIS, SIX Complete Test of Wholesale CBDC Trial - Blockworks](https://blockworks.co/swiss-central-bank-bis-six-complete-test-of-wholesale-cbdc-trial-labelling-it-operationally-possible/)
 - [Fed Board releases discussion paper on pros and cons of a potential U.S. CBDC - FED](https://www.federalreserve.gov/newsevents/pressreleases/other20220120a.htm)
-- [New Fed paper hints that a US CBDC could compete with ‘private digital money’ - theblockcrypto](https://www.theblockcrypto.com/post/131096/new-fed-paper-hints-that-a-us-cbdc-could-compete-with-private-digital-money)
+- [New Fed paper hints that a US CBDC could compete with 'private digital money' - theblockcrypto](https://www.theblockcrypto.com/post/131096/new-fed-paper-hints-that-a-us-cbdc-could-compete-with-private-digital-money)
 
 ### Regulation - EU, UK, Russia, and US
 
 - [EU Markets Regulator Calls for Ban on Proof-of-Work Crypto Mining - coindesk](https://www.coindesk.com/policy/2022/01/19/eu-markets-regulator-calls-for-ban-on-proof-of-work-crypto-mining-report/)
 - [New laws to tackle misleading crypto-asset adverts - BBC News](https://www.bbc.com/news/technology-60032743)
-- [The cracks in the UK’s crypto crackdown - Financial Times](https://www.ft.com/content/14efecc8-224d-4fc4-bd14-beb18233741e)
+- [The cracks in the UK's crypto crackdown - Financial Times](https://www.ft.com/content/14efecc8-224d-4fc4-bd14-beb18233741e)
 - [SEC's Gensler Wants Greater Scrutiny for Crypto Exchanges - coindesk](https://www.coindesk.com/policy/2022/01/20/secs-gensler-wants-greater-scrutiny-for-crypto-exchanges-report/)
 - [Congress Treats Bitcoin Like Stacks of Cash - WSJ](https://www.wsj.com/articles/bitcoin-like-cash-crypto-currency-digital-assets-sect-60501-tax-code-infrastructure-bill-mchenry-ryan-11642449658)
 - [Bank of Russia Calls for Full Ban on Crypto - coindesk](https://www.coindesk.com/policy/2022/01/20/bank-of-russia-calls-for-full-ban-on-crypto/)

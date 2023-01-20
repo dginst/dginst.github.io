@@ -42,11 +42,11 @@ banner:
 - [SEC Begins Review of WisdomTree Bitcoin ETF - CoinDesk](https://www.coindesk.com/sec-begins-review-of-wisdomtree-bitcoin-etf-as-total-number-of-applications-grows-to-8)
 - [German digital stock exchange will list physical Litecoin ETP - Business Insider](https://markets.businessinsider.com/currencies/news/german-digital-stock-exchange-will-list-physical-litecoin-etp-10008243)
 - [JPMorgan Says Bitcoin ETFs Could Shrink CME Futures Premium - CoinDesk](https://www.coindesk.com/jpmorgan-bitcoin-etfs-cme-futures-premium)
-- [Grayscale tops $50 billion: ‘Will soon pass world's largest commodity ETF'- Cointelegraph](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
+- [Grayscale tops $50 billion: 'Will soon pass world's largest commodity ETF'- Cointelegraph](https://cointelegraph.com/news/grayscale-tops-50-billion-will-soon-pass-world-s-largest-commodity-etf)
 
 ### Ecosystem
 
-- [BlackRock CEO Sings Bitcoin's Praises as Future ‘Great Asset Class' - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
+- [BlackRock CEO Sings Bitcoin's Praises as Future 'Great Asset Class' - Decrypt](https://decrypt.co/66687/blackrock-ceo-larry-fink-bitcoin-asset-class)
 - [Goldman Sachs Keeping Close Eye on Bitcoin: CEO - Decrypt](https://decrypt.co/66546/goldman-sachs-bitcoin-ceo-earnings)
 - [The Goldman Sachs Group, Inc. (GS) CEO David Solomon on Q1 2021 Results - Earnings Call Transcript - Seeking Alpha](https://seekingalpha.com/article/4419085-goldman-sachs-group-inc-gs-ceo-david-solomon-on-q1-2021-results-earnings-call-transcript)
 - [Blockchain firm ConsenSys raises $65 million from J.P. Morgan, others - Reuters](https://www.reuters.com/technology/blockchain-firm-consensys-raises-65-million-jp-morgan-others-2021-04-13/)

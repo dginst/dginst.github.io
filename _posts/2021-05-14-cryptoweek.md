@@ -41,7 +41,7 @@ banner:
 - [Elon Musk: Tesla Has Stopped Accepting Bitcoin Due to Environmental Impact - Decrypt](https://decrypt.co/70691/elon-musk-tesla-has-stopped-accepting-bitcoin)
 - [Tesla (TSLA) Bitcoin: Elon Musk Ignored Crypto Mining's Dirty Reality - Bloomberg](https://www.bloomberg.com/opinion/articles/2021-05-13/elon-musk-conveniently-ignored-bitcoin-s-inconvenient-truth)
 - [Bitcoin price drops 12% after Elon Musk tweets that Tesla will not accept it as payment - CNN](https://edition.cnn.com/2021/05/12/tech/elon-musk-tesla-bitcoin/index.html)
-- [Elon Musk on ‘SNL' Says He Has Asperger's, Jokes About Dogecoin - WSJ](https://www.wsj.com/articles/elon-musks-quips-about-his-aspergers-to-kick-off-snl-host-gig-11620534790?mod=e2tw)
+- [Elon Musk on 'SNL' Says He Has Asperger's, Jokes About Dogecoin - WSJ](https://www.wsj.com/articles/elon-musks-quips-about-his-aspergers-to-kick-off-snl-host-gig-11620534790?mod=e2tw)
 - [SpaceX accepts Dogecoin payment for DOGE-1 mission to the moon - CNBC](https://www.cnbc.com/2021/05/09/spacex-accepts-dogecoin-payment-for-doge-1-mission-to-the-moon.html)
 - [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1392974251011895300?s=20)
 - [Pete Rizzo on Twitter](https://twitter.com/pete_rizzo_/status/1392978055954587650?s=20)
@@ -65,7 +65,7 @@ banner:
 ### CBDC
 
 - [Bank of England deputy governor says a CBDC is 'probable' if public money is to survive - The Block](https://www.theblockcrypto.com/linked/104830/bank-of-england-cbdc-public-money)
-- [Do we need ‘public money'? - speech by Jon Cunliffe - Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
+- [Do we need 'public money'? - speech by Jon Cunliffe - Bank of England](https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting)
 - [Israel central bank boosting preparations for digital currency - Reuters](https://www.reuters.com/world/middle-east/israel-central-bank-boosting-preparations-digital-currency-2021-05-11/)
 
 ### Diem (formerly known as Libra)

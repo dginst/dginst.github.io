@@ -24,7 +24,7 @@ banner:
 - [State of the Market - Coin Metrics](https://f.hubspotusercontent00.net/hubfs/5264302/State%20of%20the%20Market%20-%20Aug%2026%20-%20Sept%201%2c%202021.pdf)
 - [State of the Network: Issue 118 - Coin Metrics](https://coinmetrics.substack.com/p/coin-metrics-state-of-the-network-b1e)
 - [On-Chain Analysis - Coinmonks, by Heinrich Bredenkamp](https://medium.com/coinmonks/on-chain-analysis-9ec46454af3d)
-- [Billionaire John Paulson Calls Crypto ‘A Limited Supply of Nothing' - Blockworks](https://blockworks.co/billionaire-john-paulson-calls-crypto-a-limited-supply-of-nothing/)
+- [Billionaire John Paulson Calls Crypto 'A Limited Supply of Nothing' - Blockworks](https://blockworks.co/billionaire-john-paulson-calls-crypto-a-limited-supply-of-nothing/)
 - [Preaching to the Nocoiners. Bitcoin Tech Talk #255 - by Jimmy Song - Bitcoin Tech Talk](https://jimmysong.substack.com/p/preaching-to-the-nocoiners-bitcoin)
 - [One in Ten People in the US Invest in Crypto: Survey - Decrypt](https://decrypt.co/79363/one-in-ten-people-in-the-us-invest-in-crypto-survey)
 - [Momentive Poll: Invest in You - CNBC](https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-august-2021/)
@@ -74,7 +74,7 @@ banner:
 
 ### Ecosystem - Jack Dorseys's TBD
 
-- [Jack Dorsey: ‘TBD' Will Be Open Platform for Decentralized Bitcoin Exchanges - Blockworks](https://blockworks.co/jack-dorsey-tbd-will-be-open-platform-for-decentralized-bitcoin-exchanges/)
+- [Jack Dorsey: 'TBD' Will Be Open Platform for Decentralized Bitcoin Exchanges - Blockworks](https://blockworks.co/jack-dorsey-tbd-will-be-open-platform-for-decentralized-bitcoin-exchanges/)
 - ["We've determined @TDB54566975's direction" - Twitter](https://twitter.com/jack/status/1431320761474617344)
 - [squares-jack-dorsey-plans-to-build-decentralized-bitcoin-exchange - CoinDesk](https://www.coindesk.com/business/2021/08/27/squares-jack-dorsey-plans-to-build-decentralized-bitcoin-exchange/)
 - [Twitter appears to be adding the ability to tip using Bitcoin](https://www.theblockcrypto.com/post/116320/twitter-appears-to-be-adding-the-ability-to-tip-using-bitcoin)
@@ -109,7 +109,7 @@ banner:
 
 ### Ecosystem - Binance
 
-- [UK's FCA says it is ‘not capable' of supervising crypto exchange Binance - Financial Times](https://www.ft.com/content/17620a3b-b82d-4b85-aa85-4cf2793b7a02)
+- [UK's FCA says it is 'not capable' of supervising crypto exchange Binance - Financial Times](https://www.ft.com/content/17620a3b-b82d-4b85-aa85-4cf2793b7a02)
 - [Consumer warning on Binance Markets Limited and the Binance Group - FCA](https://www.fca.org.uk/news/news-stories/consumer-warning-binance-markets-limited-and-binance-group)
 - [First Supervisory Notice 2021: Binance Markets Limited - FCA](https://www.fca.org.uk/publication/supervisory-notices/first-supervisory-notice-binance-markets-limited.pdf)
 - [FCA notice says Binance is 'not capable' of being supervised - The Block](https://www.theblockcrypto.com/linked/115624/fca-notice-says-binance-is-not-capable-of-being-supervised-report)

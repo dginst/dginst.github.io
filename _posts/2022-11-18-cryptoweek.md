@@ -21,7 +21,7 @@ banner:
 - [Bankman-Fried Praises Regulators Hours After Saying 'F*** Regulators' - CoinDesk](https://www.coindesk.com/business/2022/11/16/bankman-fried-praises-regulators-hours-after-saying-f-regulators)
 - [Interview: Fallen crypto CEO Sam Bankman-Fried opens up about FTX, Alameda Research, and his regrets - Vox](https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy)
 - [Sam Bankman-Fried steps down, FTX files for bankruptcy - CNBC](https://www.cnbc.com/2022/11/11/sam-bankman-frieds-cryptocurrency-exchange-ftx-files-for-bankruptcy.html)
-- [FTX Founder Sam Bankman-Fried Attempts to Raise Fresh Cash Despite Bankruptcy - WSJ- WSJ](https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-attempts-to-raise-fresh-cash-despite-bankruptcy-11668520573)
+- [FTX Founder Sam Bankman-Fried Attempts to Raise Fresh Cash Despite Bankruptcy - WSJ](https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-attempts-to-raise-fresh-cash-despite-bankruptcy-11668520573)
 
 ### FTX - Hack
 
@@ -34,8 +34,8 @@ banner:
 
 - [Over $400M worth of tokens FTX funds drained from company accounts - The Block](https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts)
 - [Bahamas Securities Regulator Says It Ordered FTX Crypto Transferred to Government Wallets - CoinDesk](https://www.coindesk.com/policy/2022/11/18/bahamas-securities-regulator-says-it-ordered-ftx-crypto-transferred-to-government-wallets)
-- [Bahamian FTX Liquidators Cite ‘Serious Fraud and Mismanagement’ in Court Filings - CoinDesk](https://www.coindesk.com/policy/2022/11/17/bahamian-ftx-liquidators-cite-serious-fraud-and-mismanagement-in-court-filings)
-- [Alameda Had ‘Secret Exemption’ From FTX Liquidation Protocols, New CEO Says - CoinDesk](https://www.coindesk.com/business/2022/11/17/alameda-had-secret-exemption-from-ftx-liquidation-protocols-new-ceo-says)
+- [Bahamian FTX Liquidators Cite 'Serious Fraud and Mismanagement' in Court Filings - CoinDesk](https://www.coindesk.com/policy/2022/11/17/bahamian-ftx-liquidators-cite-serious-fraud-and-mismanagement-in-court-filings)
+- [Alameda Had 'Secret Exemption' From FTX Liquidation Protocols, New CEO Says - CoinDesk](https://www.coindesk.com/business/2022/11/17/alameda-had-secret-exemption-from-ftx-liquidation-protocols-new-ceo-says)
 - [U.S. House committee to hold hearing on FTX collapse and crypto fall out - The Block](https://www.theblock.co/post/187617/u-s-house-committee-to-hold-hearing-on-ftx-collapse-and-crypto-fall-out)
 - [FTX's New Leadership Is in Touch With Regulators, May Have Over 1M Creditors, New Filings Say - CoinDesk](https://www.coindesk.com/policy/2022/11/15/ftxs-new-leadership-is-in-touch-with-regulators-may-have-over-1m-creditors-new-filings-say)
 - [New FTX Boss Condemns Management of the Crypto Exchange During Sam Bankman-Fried's Tenure - CoinDesk](https://www.coindesk.com/business/2022/11/17/new-ftx-boss-condemns-management-of-the-crypto-exchange-during-sam-bankman-frieds-tenure)
@@ -45,7 +45,7 @@ banner:
 - [Binance Starts Recovery Fund for Crypto Projects Facing Liquidity Crisis - CoinDesk](https://www.coindesk.com/business/2022/11/14/binance-starts-recovery-fund-for-crypto-projects-facing-liquidity-crisis)
 - [Binance CEO 'CZ' Zhao Wants to Replace Sam Bankman-Fried as Crypto Savior - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-14/binance-ceo-cz-zhao-bids-to-replace-ftx-s-sam-bankman-fried-as-crypto-savior)
 - [Binance's US Arm to Relaunch Bid for Bankrupt Lender Voyager - CoinDesk](https://www.coindesk.com/business/2022/11/17/binance-to-relaunch-bid-for-bankrupt-lender-voyager-source)
-- [Binance will launch a new ‘industry recovery fund’ - The Block](https://www.theblock.co/post/186597/binance-will-launch-a-new-industry-recovery-fund)
+- [Binance will launch a new 'industry recovery fund' - The Block](https://www.theblock.co/post/186597/binance-will-launch-a-new-industry-recovery-fund)
 
 ### FTX - Contagion
 
@@ -59,11 +59,11 @@ banner:
 ### FTX - Contagion: Genesis
 
 - [Crypto Lender Genesis Had Sought Emergency Loan of $1 Billion- WSJ](https://www.wsj.com/livecoverage/stock-market-news-today-11-17-2022/card/crypto-lender-genesis-sought-emergency-loan-of-1-billion-by-monday-573TThK17Ke15FYwJzLR)
-- [Genesis’ Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse - CoinDesk](https://www.coindesk.com/business/2022/11/16/genesis-crypto-lending-unit-is-halting-customer-withdrawals-in-wake-of-ftx-collapse/)
+- [Genesis' Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse - CoinDesk](https://www.coindesk.com/business/2022/11/16/genesis-crypto-lending-unit-is-halting-customer-withdrawals-in-wake-of-ftx-collapse/)
 
 ### FTX - Contagion: DCG
 
-- [Inside a Once-$10 Billion Crypto Empire That’s Suddenly Cracking (DCG) - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-16/inside-a-once-10-billion-crypto-empire-that-s-suddenly-cracking-dcg)
+- [Inside a Once-$10 Billion Crypto Empire That's Suddenly Cracking (DCG) - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-16/inside-a-once-10-billion-crypto-empire-that-s-suddenly-cracking-dcg)
 - [Biggest Crypto Fund (GBTC) Hits Record 42% Discount to Bitcoin (BTC) Value - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-14/-broken-crypto-fund-hits-record-42-discount-as-etfs-hum-along)
 
 ### FTX - Contagion: Gemini
@@ -92,7 +92,7 @@ banner:
 
 ### FTX - Comments
 
-- [Wait, wasn’t bitcoin supposed to solve this? - Financial Times](https://www.ft.com/content/3746542f-3f13-46c7-a236-586dffed3b61)
+- [Wait, wasn't bitcoin supposed to solve this? - Financial Times](https://www.ft.com/content/3746542f-3f13-46c7-a236-586dffed3b61)
 
 ### Ecosystem - Binance and regulators
 
@@ -101,7 +101,7 @@ banner:
 ### Regulation - EU
 
 - [EU Delays Vote on MiCA Crypto Legislation Until February - CoinDesk](https://www.coindesk.com/policy/2022/11/04/eu-delays-vote-on-mica-crypto-legislation-until-february)
-- [EU’s MiCA regulation vote deferred to February 2023: spokesperson - The Block](https://www.theblock.co/post/182776/eus-mica-regulation-vote-deferred-to-february-2023-spokesperson)
+- [EU's MiCA regulation vote deferred to February 2023: spokesperson - The Block](https://www.theblock.co/post/182776/eus-mica-regulation-vote-deferred-to-february-2023-spokesperson)
 - [Privacy-Enhancing Crypto Coins Could Be Banned Under Leaked EU Plans - CoinDesk](https://www.coindesk.com/policy/2022/11/15/privacy-enhancing-crypto-coins-could-be-banned-under-leaked-eu-plans)
 
 ### Tech - Silk Road

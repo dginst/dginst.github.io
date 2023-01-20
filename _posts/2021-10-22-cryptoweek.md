@@ -74,7 +74,7 @@ banner:
 ### Ecosystem - Tether
 
 - [CFTC fines Tether and Bitfinex $42.5 million over USDT backing - The Block Crypto](https://www.theblockcrypto.com/linked/120820/cftc-fines-tether-and-bitfinex-42-5-million-over-usdt-backing)
-- [CFTC Fines Tether and Bitfinex $42.5M for ‘Untrue or Misleading' Claims - CoinDesk](https://www.coindesk.com/policy/2021/10/15/cftc-fines-tether-and-bitfinex-425m-for-untrue-or-misleading-claims/)
+- [CFTC Fines Tether and Bitfinex $42.5M for 'Untrue or Misleading' Claims - CoinDesk](https://www.coindesk.com/policy/2021/10/15/cftc-fines-tether-and-bitfinex-425m-for-untrue-or-misleading-claims/)
 - [CFTC Orders Tether and Bitfinex to Pay Fines Totaling $42.5 Million - CFTC](https://www.cftc.gov/PressRoom/PressReleases/8450-21)
 
 ### Ecosystem - Facebook

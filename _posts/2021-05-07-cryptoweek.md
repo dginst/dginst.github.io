@@ -45,7 +45,7 @@ banner:
 ### Miscellanea
 
 - [Revolut app announces Bitcoin withdrawals… within limits](https://cointelegraph.com/news/revolut-app-announces-bitcoin-withdrawals-within-limits)
-- [Sotheby's Will Accept Crypto for Banksy's ‘Love is in the Air'](https://www.sothebys.com/en/buy/auction/2021/contemporary-art-evening-auction/love-is-in-the-air-2)
+- [Sotheby's Will Accept Crypto for Banksy's 'Love is in the Air'](https://www.sothebys.com/en/buy/auction/2021/contemporary-art-evening-auction/love-is-in-the-air-2)
 - [Sotheby's Accepting Bitcoin For A Banksy - Bitcoin Magazine](https://bitcoinmagazine.com/culture/sothebys-accepting-bitcoin-for-a-banksy)
 - [Reflections On Satoshi With Adam Back - Bitcoin Magazine YouTube](https://www.youtube.com/watch?v=3CEROEMaebM&t=272s)
 

@@ -22,7 +22,7 @@ banner:
 - [Metaverse Tokens AXS, SAND Plummet as Meta Reports $10B Loss](https://www.coindesk.com/markets/2022/02/04/metaverse-tokens-axs-sand-plummet-as-meta-reports-10b-loss/)
 - [Mark Zuckerberg's crypto dreams dead as Diem gets sold](https://nypost.com/2022/02/01/mark-zuckerbergs-crypto-dreams-dead-as-diem-gets-sold)
 - [David Marcus -  Twitter](https://twitter.com/davidmarcus/status/1488573276775333889)
-- [Jack Dorsey: Diem was a waste of time, Meta should’ve focused on BTC](https://cointelegraph.com/news/jack-dorsey-diem-was-a-waste-of-time-meta-should-ve-focused-on-btc)
+- [Jack Dorsey: Diem was a waste of time, Meta should've focused on BTC](https://cointelegraph.com/news/jack-dorsey-diem-was-a-waste-of-time-meta-should-ve-focused-on-btc)
 - [MicroStrategy will continue to purchase bitcoin this year, says CFO](https://www.theblockcrypto.com/linked/131911/microstrategy-will-continue-to-purchase-bitcoin-this-year-says-cfo)
 
 ### Ecosystem - Bitcoin for Corporations
@@ -66,7 +66,7 @@ banner:
 - [Russia's Minister of Finance Suggests Letting Banks Sell Crypto](https://www.coindesk.com/policy/2022/02/03/russias-minister-of-finance-suggests-letting-banks-sell-crypto-report)
 - [In Huge Precedent, IRS Says It Will Not Tax Unsold, Staked Crypto](https://www.forbes.com/sites/kamranrosen/2022/02/02/in-huge-precedent-irs-says-it-will-not-tax-unsold-staked-crypto/?sh=37446f9d464c)
 - [SEC Asks Bitwise to Address Concerns About Proposed Spot Bitcoin ETF](https://www.coindesk.com/business/2022/02/02/sec-asks-bitwise-to-address-concerns-about-proposed-spot-bitcoin-etf)
-- [SEC Rejects Fidelity’s Wise Origin Bitcoin ETF Proposal](https://www.coindesk.com/business/2022/01/27/sec-rejects-fidelitys-wise-origin-bitcoin-etf-proposal/)
+- [SEC Rejects Fidelity's Wise Origin Bitcoin ETF Proposal](https://www.coindesk.com/business/2022/01/27/sec-rejects-fidelitys-wise-origin-bitcoin-etf-proposal/)
 
 ### Regulation - Central Bank Digital Currency (CBDC)
 

@@ -19,7 +19,7 @@ banner:
 ### Markets
 
 - [JPMorgan Chase CEO Jamie Dimon says bitcoin is 'worthless' - CNBC](https://www.cnbc.com/2021/10/11/jpmorgan-chase-ceo-jamie-dimon-says-bitcoin-is-worthless.html#Echobox=1633978330)
-- [Morgan Stanley CEO says cryptocurrencies ‘aren't going away' - The Block Crypto](https://www.theblockcrypto.com/linked/120678/morgan-stanley-ceo-says-cryptocurrencies-arent-going-away)
+- [Morgan Stanley CEO says cryptocurrencies 'aren't going away' - The Block Crypto](https://www.theblockcrypto.com/linked/120678/morgan-stanley-ceo-says-cryptocurrencies-arent-going-away)
 - [Morgan Stanley CEO: Bitcoin Is Not Going Away - Nasdaq](https://www.nasdaq.com/articles/morgan-stanley-ceo%3A-bitcoin-is-not-going-away-2021-10-14)
 - [BlackRock CEO Sees 'Huge Opportunities' in Digital Currency - Blockworks](https://blockworks.co/blackrock-ceo-sees-huge-opportunities-in-digital-currency/)
 - [Bitcoin Prices Hit a 5-Month High. How Much Higher Can They Go? - Barron's](https://www.barrons.com/articles/bitcoin-price-high-cryptocurrency-51633971974)
@@ -73,7 +73,7 @@ banner:
 ### Ecosystem - China
 
 - [China Seeking Judicial Authority to Convict and Sentence Crypto Activities: Report — CoinDesk](https://www.coindesk.com/policy/2021/10/11/china-seeking-judicial-authority-to-convict-and-sentence-crypto-activities-report/)
-- [China FUD Over Bitcoin Mining Is ‘Now Moot,' Luxor Report Says — CoinDesk](https://www.coindesk.com/business/2021/10/11/china-fud-is-now-moot-for-miners-luxor-says/)
+- [China FUD Over Bitcoin Mining Is 'Now Moot,' Luxor Report Says — CoinDesk](https://www.coindesk.com/business/2021/10/11/china-fud-is-now-moot-for-miners-luxor-says/)
 - [Bitmain suspends bitcoin miner shipments in mainland China - The Block Crypto](https://www.theblockcrypto.com/linked/119996/bitmain-suspend-antminer-shipment-mainland-china)
 
 ### Ecosystem - Sustainability

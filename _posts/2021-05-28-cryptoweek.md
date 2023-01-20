@@ -19,11 +19,11 @@ banner:
 ### Markets
 
 - [Ray Dalio bats for crypto's relevance, admits to having “some” Bitcoin - The Economic Times](https://economictimes.indiatimes.com/markets/cryptocurrency/ray-dalio-bats-for-cryptos-relevance-admits-to-having-some-bitcoin/articleshow/82912659.cms)
-- [Hedge Fund Billionaire Ray Dalio: ‘I Have Some Bitcoin' - CoinDesk](https://www.coindesk.com/consensus-ray-dalio-i-have-some-bitcoin)
+- [Hedge Fund Billionaire Ray Dalio: 'I Have Some Bitcoin' - CoinDesk](https://www.coindesk.com/consensus-ray-dalio-i-have-some-bitcoin)
 - [Billionaire investor Bill Ackman says he wouldn't invest in bitcoin - The Block](https://www.theblockcrypto.com/post/106303/billionaire-investor-bill-ackman-bitcoin-speculative-crypto)
-- [Billionaire Carl Icahn Says He May Get Into Crypto in a ‘Big Way' - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-26/carl-icahn-says-he-may-get-into-cryptocurrencies-in-a-big-way)
+- [Billionaire Carl Icahn Says He May Get Into Crypto in a 'Big Way' - Bloomberg](https://www.bloomberg.com/news/articles/2021-05-26/carl-icahn-says-he-may-get-into-cryptocurrencies-in-a-big-way)
 - [Fidelity's bitcoin fund has raised more than $100 million from investors - The Block](https://www.theblockcrypto.com/linked/106208/fidelitys-bitcoin-fund-has-raised-more-than-100-million-from-investors)
-- [BlackRock says it is ‘studying' crypto but cites volatility - Reuters](https://www.reuters.com/business/blackrock-directors-executive-pay-pass-annual-general-meeting-2021-05-26/)
+- [BlackRock says it is 'studying' crypto but cites volatility - Reuters](https://www.reuters.com/business/blackrock-directors-executive-pay-pass-annual-general-meeting-2021-05-26/)
 - [HSBC CEO says Bitcoin not for us - Reuters](https://www.reuters.com/technology/exclusive-hsbc-ceo-says-bitcoin-not-us-2021-05-24/)
 - [Goldman's not giving up hope on Bitcoin - Financial Times](https://on.ft.com/35khYWg)
 - [Goldman Sachs report -  Crypto: A New Asset Class?](https://www.goldmansachs.com/insights/pages/crypto-a-new-asset-class-f/report.pdf)
@@ -65,7 +65,7 @@ banner:
 - [Central bank says leveraged crypto trading threatens banking system - Koreaherald](http://www.koreaherald.com/view.php?ud=20210527000912)
 - [DeFi 'Raises Challenges' for Investors, SEC's Gensler Says - CoinDesk](https://www.coindesk.com/defi-raises-challenges-for-investors-regulators-secs-gensler-says)
 - [Gensler says he wants to work with Congress to regulate crypto exchanges - The Block](https://www.theblockcrypto.com/linked/106215/gensler-congress-regulate-crypto-exchanges)
-- [Biden administration is reportedly reviewing ‘gaps' in crypto regulation- Cointelegraph](https://cointelegraph.com/news/biden-administration-is-reportedly-reviewing-gaps-in-crypto-regulation)
+- [Biden administration is reportedly reviewing 'gaps' in crypto regulation- Cointelegraph](https://cointelegraph.com/news/biden-administration-is-reportedly-reviewing-gaps-in-crypto-regulation)
 - [Iran Bans All Crypto Mining for the Summer: Report - CoinDesk](https://www.coindesk.com/iran-bans-all-crypto-mining-for-the-summer-report)
 - [China crackdown forces crypto mining operators to end operations - Al Jazeera](https://www.aljazeera.com/economy/2021/5/24/china-crackdown-forces-crypto-mining-operators-to-end-operations)
 - [FinCEN seeks presentations on zero-knowledge proofs, other privacy tech for September event - The Block](https://www.theblockcrypto.com/linked/106300/fincen-seeks-presentations-on-zero-knowledge-proofs-other-privacy-tech-for-september-event)

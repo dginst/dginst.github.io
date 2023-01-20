@@ -14,8 +14,8 @@ podcast:
 ---
 ### JPMorgan
 
-- [JPMorgan to Launch ‘Cryptocurrency Exposure Basket' of Bitcoin Proxy Stocks (coindesk)](https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks){:target="_blank"}
-- [JPMorgan's New Crypto Bond ‘Not for the Faint of Heart,' Former Star Analyst Hintz Says (coindesk)](https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz){:target="_blank"}
+- [JPMorgan to Launch 'Cryptocurrency Exposure Basket' of Bitcoin Proxy Stocks (coindesk)](https://www.coindesk.com/jpmorgan-to-launch-cryptocurrency-exposure-basket-of-bitcoin-proxy-stocks){:target="_blank"}
+- [JPMorgan's New Crypto Bond 'Not for the Faint of Heart,' Former Star Analyst Hintz Says (coindesk)](https://www.coindesk.com/jpmorgan-crypto-bond-brad-hintz){:target="_blank"}
 - [JPMorgan tells private wealth clients that bitcoin can be a portfolio diversifier 'if sized correctly' (theblockcrypto)](https://www.theblockcrypto.com/post/97257/jp-morgan-bitcoin-deck-private-client){:target="_blank"}
 
 ### ETF

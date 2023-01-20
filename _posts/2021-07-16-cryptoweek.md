@@ -64,7 +64,7 @@ banner:
 ### Markets
 
 - [BlackRock CEO says crypto isn't part of clients' long-term strategies](https://www.theblockcrypto.com/linked/111270/blackrock-ceo-says-crypto-isnt-part-of-clients-long-term-strategies)
-- [BlackRock CEO Larry Fink Seeing ‘Very Little' Demand for Crypto Lately - CoinDesk](https://www.coindesk.com/blackrock-ceo-larry-fink-says-theres-very-little-demand-for-crypto)
+- [BlackRock CEO Larry Fink Seeing 'Very Little' Demand for Crypto Lately - CoinDesk](https://www.coindesk.com/blackrock-ceo-larry-fink-says-theres-very-little-demand-for-crypto)
 - [Fidelity's Digital Assets Division Reportedly Plans to Boost Staff - Blockworks](https://blockworks.co/fidelitys-digital-assets-division-reportedly-plans-to-boost-staff)
 
 ### Ecosystem - Square and Jack Dorsey

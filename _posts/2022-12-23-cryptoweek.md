@@ -32,12 +32,12 @@ banner:
 ### Regulation
 
 - [SEC Calls FTT Exchange Token a Security - CoinDesk](https://www.coindesk.com/business/2022/12/22/sec-calls-ftt-exchange-token-a-security)
-- [Gensler: SEC Crypto Crackdown Coming Post Bankman-Fried’s FTX Fall - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-22/sec-s-crypto-crackdown-is-just-getting-started-after-ftx-blowup)
-- [SEC Heightening Scrutiny of Auditors’ Crypto Work - WSJ](https://www.wsj.com/articles/sec-heightening-scrutiny-of-auditors-crypto-work-11671681693)
+- [Gensler: SEC Crypto Crackdown Coming Post Bankman-Fried's FTX Fall - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-22/sec-s-crypto-crackdown-is-just-getting-started-after-ftx-blowup)
+- [SEC Heightening Scrutiny of Auditors' Crypto Work - WSJ](https://www.wsj.com/articles/sec-heightening-scrutiny-of-auditors-crypto-work-11671681693)
 - [Richiamo di attenzione: incarichi professionali relativi a società cripto](https://www.consob.it/web/area-pubblica/dettaglio-news/-/asset_publisher/qjVSo44Lk1fI/content/comunicato-stampa-del-19-dicembre-2022-abusivismo-duplica-1/10194)
 - [SEC Increases Scrutiny of Audits of Cryptocurrency Companies: WSJ - CoinDesk](https://www.coindesk.com/policy/2022/12/23/sec-increases-scrutiny-of-audits-of-cryptocurrency-companies-wsj)
 - [Proof-of-Reserves - CheckSig](https://checksig.com/por)
-- [What’s in Elizabeth Warren’s new crypto bill? - Fortune](https://fortune.com/crypto/2022/12/21/elizabeth-warren-new-crypto-bill-shockwaves/)
+- [What's in Elizabeth Warren's new crypto bill? - Fortune](https://fortune.com/crypto/2022/12/21/elizabeth-warren-new-crypto-bill-shockwaves/)
 - [Elizabeth Warren's New Financial Surveillance Bill Is a Disaster for Privacy and Civil Liberties - CoinDesk](https://www.coindesk.com/consensus-magazine/2022/12/20/elizabeth-warrens-new-financial-surveillance-bill-is-a-disaster-for-privacy-and-civil-liberties)
 - [Next Financial Crisis Will Be From Crypto if It's Not Banned: Indian Central Bank Governor - CoinDesk](https://www.coindesk.com/policy/2022/12/21/next-financial-crisis-will-be-from-crypto-if-its-not-banned-indian-central-bank-governor)
 
@@ -51,18 +51,18 @@ banner:
 ### Ecosystem - Grayscale
 
 - [Grayscale Bitcoin Trust Discount Reaches Record 50% - CoinDesk](https://www.coindesk.com/business/2022/12/13/grayscale-bitcoin-trust-discount-reaches-record-50)
-- [If Grayscale’s Bitcoin ETF Dreams Fail, Firm May Try a Tender Offer, CEO Says - WSJ](https://www.wsj.com/articles/if-grayscales-bitcoin-etf-dreams-fail-firm-may-try-a-tender-offer-ceo-says-11671428078)
+- [If Grayscale's Bitcoin ETF Dreams Fail, Firm May Try a Tender Offer, CEO Says - WSJ](https://www.wsj.com/articles/if-grayscales-bitcoin-etf-dreams-fail-firm-may-try-a-tender-offer-ceo-says-11671428078)
 - [Grayscale Will Explore Returning Portion of Investor Capital if SEC Refuses Spot Bitcoin ETF - CoinDesk](https://www.coindesk.com/business/2022/12/19/grayscale-will-explore-returning-20-of-investor-capital-if-sec-refuses-spot-bitcoin-etf-report)
 
 ### Ecosystem - Genesis and Gemini
 
 - [Genesis, DCG Creditors Propose Plan to Resolve Liquidity Issues, Gemini Says - CoinDesk](https://www.coindesk.com/business/2022/12/21/gemini-creditor-committee-presents-plan-to-resolve-liquidity-issues)
-- [Gemini Earn Users Are Unhappy With the Crypto Exchange’s Withdrawal Halt - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-22/gemini-earn-users-are-fed-up-one-is-taking-the-fight-to-the-winklevoss-twins)
+- [Gemini Earn Users Are Unhappy With the Crypto Exchange's Withdrawal Halt - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-22/gemini-earn-users-are-fed-up-one-is-taking-the-fight-to-the-winklevoss-twins)
 - [Crypto Exchange Gemini Back Online After Being Down for Over Seven Hours - CoinDesk](https://www.coindesk.com/tech/2022/12/16/crypto-exchange-gemini-down-for-several-hours-due-to-scheduled-maintenance)
 
 ### Ecosystem - Exchanges
 
-- [Coinbase’s Slump to All-Time Low Sends Market Cap Below Dogecoin - CoinDesk](https://www.coindesk.com/markets/2022/12/20/coinbases-slump-to-all-time-low-sends-market-cap-below-dogecoin)
+- [Coinbase's Slump to All-Time Low Sends Market Cap Below Dogecoin - CoinDesk](https://www.coindesk.com/markets/2022/12/20/coinbases-slump-to-all-time-low-sends-market-cap-below-dogecoin)
 - [Crypto exchange Bullish's ambitions for public listing stumble as SPAC deal times out - The Block](https://www.theblock.co/post/197506/crypto-exchange-bullishs-ambitions-for-public-listing-stumble-as-spac-deal-times-out)
 - [Peter Thiel-Backed Crypto Exchange Bullish Calls Off SPAC Deal - CoinDesk](https://www.coindesk.com/business/2022/12/22/peter-thiel-backed-crypto-exchange-bullish-calls-off-spac-deal)
 - [No withdrawals on OKX for almost seven hours amid cloud failure - The Block](https://www.theblock.co/post/196028/no-withdrawals-on-okx-for-almost-seven-hours-amid-cloud-failure)
@@ -73,11 +73,11 @@ banner:
 - [Publicly traded crypto miner Core Scientific files for Chapter 11 bankruptcy - The Block](https://www.theblock.co/post/196925/core-scientific-files-chapter-11-bankruptcy)
 - [Core Scientific, One of the Largest Bitcoin Miners, Files for Bankruptcy Protection - CoinDesk](https://www.coindesk.com/business/2022/12/21/core-scientific-one-of-the-largest-bitcoin-miners-files-for-bankruptcy-protection)
 - [Core Scientific to File for Bankruptcy, Continue Mining Through Process - CoinDesk](https://www.coindesk.com/business/2022/12/21/core-scientific-to-file-for-bankruptcy-continue-mining-through-process-report)
-- [Inside Bitcoin Miner Core Scientific’s Prearranged Chapter 11 Bankruptcy - CoinDesk](https://www.coindesk.com/business/2022/12/21/inside-core-scientifics-prearranged-bankruptcy)
+- [Inside Bitcoin Miner Core Scientific's Prearranged Chapter 11 Bankruptcy - CoinDesk](https://www.coindesk.com/business/2022/12/21/inside-core-scientifics-prearranged-bankruptcy)
 
 ### Ecosystem - OneCoin
 
-- [Co-Founder of OneCoin Pyramid Scheme Pleads Guilty; ‘CryptoQueen’ Still Wanted - CoinDesk](https://www.coindesk.com/policy/2022/12/16/co-founder-of-onecoin-pyramid-scheme-pleads-guilty-cryptoqueen-still-wanted)
+- [Co-Founder of OneCoin Pyramid Scheme Pleads Guilty; 'CryptoQueen' Still Wanted - CoinDesk](https://www.coindesk.com/policy/2022/12/16/co-founder-of-onecoin-pyramid-scheme-pleads-guilty-cryptoqueen-still-wanted)
 
 ### Ecosystem - Quadriga
 
@@ -96,6 +96,6 @@ banner:
 
 ### Ecosystem - 2002 overview
 
-- [Crypto’s 2022 Slump: From Bitcoin Market Drop to Terra, FTX Fall](https://www.bloomberg.com/graphics/2022-crypto-contagion-from-bitcoin-to-FTX)
+- [Crypto's 2022 Slump: From Bitcoin Market Drop to Terra, FTX Fall](https://www.bloomberg.com/graphics/2022-crypto-contagion-from-bitcoin-to-FTX)
 - [The Biggest Story in Crypto in 2022: Contagion—From Terra to FTX - Decrypt](https://decrypt.co/117420/story-of-the-year-crypto-contagion-terra-ftx)
 - [Considerazioni di fine anno - CheckSig](https://www.checksig.com/it/considerazioni-di-fine-anno-2022/)

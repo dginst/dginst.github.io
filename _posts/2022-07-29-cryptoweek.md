@@ -37,8 +37,8 @@ banner:
 
 ### Regulation
 
-- [European banking regulator ‘concerned’ about finding staff to oversee crypto - Financial Times](https://www.ft.com/content/bc13dfb2-beff-4f13-985c-14f63f6a5121)
-- [Crypto Breaks the Rules and That’s the Point - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-07-26/crypto-breaks-the-rules-and-that-s-the-point)
+- [European banking regulator 'concerned' about finding staff to oversee crypto - Financial Times](https://www.ft.com/content/bc13dfb2-beff-4f13-985c-14f63f6a5121)
+- [Crypto Breaks the Rules and That's the Point - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-07-26/crypto-breaks-the-rules-and-that-s-the-point)
 
 ### Ecosystem - TradFi
 
@@ -71,8 +71,8 @@ banner:
 
 - [Ethereum Deploys Its Tenth 'Shadow Fork' in Buildup to Merge - Decrypt](https://decrypt.co/106071/ethereum-deploys-shadow-fork-10-in-buildup-to-merge)
 - [Tim Beiko - Twitter](https://twitter.com/TimBeiko/status/1552382163391090688)
-- [Ethereum’s Mainnet Tenth 'Shadow Fork' Goes Live Ahead of September Merge - Coindesk](https://www.coindesk.com/tech/2022/07/27/ethereums-mainnet-shadow-fork-10-goes-live-ahead-of-september-merge/)
-- [Ethereum’s Rollup Race: What is a ‘True’ zkEVM? - Coindesk](https://www.coindesk.com/tech/2022/07/27/ethereums-rollup-race-what-is-a-true-zkevm)
+- [Ethereum's Mainnet Tenth 'Shadow Fork' Goes Live Ahead of September Merge - Coindesk](https://www.coindesk.com/tech/2022/07/27/ethereums-mainnet-shadow-fork-10-goes-live-ahead-of-september-merge/)
+- [Ethereum's Rollup Race: What is a 'True' zkEVM? - Coindesk](https://www.coindesk.com/tech/2022/07/27/ethereums-rollup-race-what-is-a-true-zkevm)
 
 ### Tech - Bitcoin
 

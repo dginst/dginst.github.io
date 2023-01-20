@@ -21,7 +21,7 @@ banner:
 
 - [Mystery of Terra Collapse Deepens With Possible FTX Role Raised - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-08/mystery-of-terra-ust-collapse-deepens-with-possible-ftx-role-raised)
 - [Revealed: the Alameda venture capital portfolio - Financial Times](https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6)
-- [A Handful of Simple Rules Might Have Prevented FTX’s Demise - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-08/a-handful-of-simple-rules-might-have-prevented-ftx-s-demise)
+- [A Handful of Simple Rules Might Have Prevented FTX's Demise - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-08/a-handful-of-simple-rules-might-have-prevented-ftx-s-demise)
 - [Accounting Red Flags Are Common Among Public Crypto Companies - WSJ](https://www.wsj.com/articles/accounting-red-flags-are-common-among-public-crypto-companies-11670395681)
 
 ### Ecosystem - Nexo
@@ -31,7 +31,7 @@ banner:
 
 ### Ecosystem - Genesis
 
-- [Crypto broker Genesis owes Winklevoss exchange’s customers $900mn - Financial Times](https://www.ft.com/content/32977a99-c1c3-4f34-9ecc-4057217bf974)
+- [Crypto broker Genesis owes Winklevoss exchange's customers $900mn - Financial Times](https://www.ft.com/content/32977a99-c1c3-4f34-9ecc-4057217bf974)
 - [Genesis Creditor Groups' Loans Amount to $1.8B and Counting - CoinDesk](https://www.coindesk.com/business/2022/12/04/genesis-creditor-groups-loans-amount-to-18b-and-counting-sources)
 - [Genesis says plan to resolve lending unit's woes could take 'weeks' - The Block](https://www.theblock.co/post/192946/genesis-says-plan-to-resolve-lending-units-woes-could-take-weeks)
 
@@ -72,7 +72,7 @@ banner:
 
 ### Ecosystem - NFT
 
-- [Nike’s RTFKT hints at move-to-earn game via phygital drop - The Block](https://www.theblock.co/post/192634/nike-rtfkt-unveils-web3-sneakers)
+- [Nike's RTFKT hints at move-to-earn game via phygital drop - The Block](https://www.theblock.co/post/192634/nike-rtfkt-unveils-web3-sneakers)
 - [Starbucks NFTs are now available to beta testers - The Block](https://www.theblock.co/post/193312/starbucks-nfts-are-now-available-to-beta-testers)
 - [Warner Music Group to Release Polygon Music NFTs Through LGND Platform - Decrypt](https://decrypt.co/116533/warner-music-group-polygon-music-nfts-lgnd)
 

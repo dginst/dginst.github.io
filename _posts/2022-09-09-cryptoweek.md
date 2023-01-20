@@ -45,13 +45,13 @@ banner:
 ### Regulation - Tornado Cash
 
 - [Cash From 2021 DAO Maker Crypto Hack Being Mixed Through Tornado Cash - Coindesk](https://www.coindesk.com/business/2022/09/09/cash-from-2021-dao-maker-crypto-hack-being-mixed-through-tornado-cash)
-- [Coinbase backs lawsuit aimed at Treasury’s Tornado Cash sanctions - Coindesk](https://www.theblock.co/post/168502/backed-by-coinbase-employees-sue-treasury-to-roll-back-tornado-cash-sanctions)
+- [Coinbase backs lawsuit aimed at Treasury's Tornado Cash sanctions - Coindesk](https://www.theblock.co/post/168502/backed-by-coinbase-employees-sue-treasury-to-roll-back-tornado-cash-sanctions)
 
 ### Regulation - Gensler and SEC
 
 - [Crypto Doesn't Need More Guidance, SEC Chair Gensler Says - Coindesk](https://www.coindesk.com/policy/2022/09/08/crypto-doesnt-need-more-guidance-sec-chair-gensler-says/)
 - [Gary Gensler Wants to Regulate Crypto - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-09-08/gary-gensler-wants-to-regulate-crypto)
-- [SEC’s Gensler Signals Support for Commodities Regulator Having Bitcoin Oversight - WSJ](https://www.wsj.com/articles/secs-gensler-supports-commodities-regulator-having-bitcoin-oversight-11662641115)
+- [SEC's Gensler Signals Support for Commodities Regulator Having Bitcoin Oversight - WSJ](https://www.wsj.com/articles/secs-gensler-supports-commodities-regulator-having-bitcoin-oversight-11662641115)
 - [September 9, 2022 - FRNT Financial](https://mailchi.mp/b28c36504a67/frnt-financial-24-hours-in-crypto-september-9-2022)
 - [Gary Gensler's speech - SEC.gov](https://www.sec.gov/news/speech/gensler-sec-speaks-090822)
 

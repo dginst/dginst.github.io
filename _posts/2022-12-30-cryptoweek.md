@@ -29,14 +29,14 @@ banner:
 - [Solana Tokens Continue Steep Slide While Major Cryptos Stay Flat - CoinDesk](https://www.coindesk.com/markets/2022/12/29/solana-tokens-continue-steep-slide-while-major-cryptos-stay-flat)
 - [Solana Token Rebounds off Thursday Lows as Buterin Tweets Support - CoinDesk](https://www.coindesk.com/markets/2022/12/30/solana-token-rebounds-off-thursday-lows-as-buterin-tweets-support)
 - [Vitalik on Solana - Twitter](https://twitter.com/VitalikButerin/status/1608591727316684804)
-- [Why Solana Was Decimated by Bankman-Fried’s Downfall - CoinDesk](https://www.coindesk.com/consensus-magazine/2022/12/28/why-solana-was-decimated-by-bankman-frieds-downfall)
-- [Solana’s Top NFT Projects DeGods and Y00ts to Migrate Chains - CoinDesk](https://www.coindesk.com/web3/2022/12/26/solanas-top-nft-projects-degods-and-y00ts-to-migrate-chains)
+- [Why Solana Was Decimated by Bankman-Fried's Downfall - CoinDesk](https://www.coindesk.com/consensus-magazine/2022/12/28/why-solana-was-decimated-by-bankman-frieds-downfall)
+- [Solana's Top NFT Projects DeGods and Y00ts to Migrate Chains - CoinDesk](https://www.coindesk.com/web3/2022/12/26/solanas-top-nft-projects-degods-and-y00ts-to-migrate-chains)
 
 ### Ecosystem - NFT
 
 - [OpenSea chief seeks to distance NFTs from crypto crisis - Financial Times](https://www.ft.com/content/f3e40b9b-8b29-4483-a3cd-91cef39c4d49)
 - [Pudgy Penguins NFTs Break All-Time Highs With Holiday Rally - CoinDesk](https://www.coindesk.com/business/2022/12/27/pudgy-penguins-nfts-break-all-time-highs-with-holiday-rally)
-- [China to Launch First National ‘Digital Asset’ Marketplace - CoinDesk](https://www.coindesk.com/web3/2022/12/28/china-to-launch-first-national-digital-asset-marketplace)
+- [China to Launch First National 'Digital Asset' Marketplace - CoinDesk](https://www.coindesk.com/web3/2022/12/28/china-to-launch-first-national-digital-asset-marketplace)
 
 ### Ecosystem - 3Commas API Leak
 

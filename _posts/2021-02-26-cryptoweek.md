@@ -19,14 +19,14 @@ podcast:
 
 ### Yellen
 
-- [Yellen sounds warning about ‘extremely inefficient' bitcoin (cnbc)](https://www.cnbc.com/2021/02/22/yellen-sounds-warning-about-extremely-inefficient-bitcoin.html)
+- [Yellen sounds warning about 'extremely inefficient' bitcoin (cnbc)](https://www.cnbc.com/2021/02/22/yellen-sounds-warning-about-extremely-inefficient-bitcoin.html)
 - [What Janet Yellen Gets Wrong About Bitcoin (decrypt)](https://decrypt.co/58618/janet-yellen-wrong-about-bitcoin)
 
 ### Stablecoins and central bankers
 
-- [India's Central Bank Voices ‘Major Concerns' About Crypto (bloomberg)](https://www.bloomberg.com/news/articles/2021-02-24/india-s-central-bank-says-it-has-major-concerns-about-crypto)
-- [Fed Chair Powell Says Digital Dollar Is A ‘High Priority Project' (forbes)](https://www.forbes.com/sites/sarahhansen/2021/02/23/fed-chair-powell-says-digital-dollar-is-a-high-priority-project)
-- [US Central Bank Explains ‘Preconditions' for a Digital Dollar (coindesk)](https://www.coindesk.com/federal-reserve-digital-dollar-consultation)
+- [India's Central Bank Voices 'Major Concerns' About Crypto (bloomberg)](https://www.bloomberg.com/news/articles/2021-02-24/india-s-central-bank-says-it-has-major-concerns-about-crypto)
+- [Fed Chair Powell Says Digital Dollar Is A 'High Priority Project' (forbes)](https://www.forbes.com/sites/sarahhansen/2021/02/23/fed-chair-powell-says-digital-dollar-is-a-high-priority-project)
+- [US Central Bank Explains 'Preconditions' for a Digital Dollar (coindesk)](https://www.coindesk.com/federal-reserve-digital-dollar-consultation)
 - [ECB Wants to Be Able to Veto Stablecoins Like Diem in the EU (coindesk)](https://www.coindesk.com/ecb-wants-to-be-able-to-veto-stablecoins-like-diem-in-the-eu)
 
 ### Bitcoin Market
@@ -62,8 +62,8 @@ podcast:
 
 ### Ethereum
 
-- [Nyan Cat NFT Sells for 300 ETH, Opening Door to the ‘Meme Economy' (coindesk)](https://www.coindesk.com/nyan-cat-nft-ethereum-meme)
-- [Ethereum Trading Bot Strategy ‘Extracted' $107M in 30 Days, Research Suggests (coindesk)](https://www.coindesk.com/ethereum-trading-bot-strategy-miner-extracted-value-research)
+- [Nyan Cat NFT Sells for 300 ETH, Opening Door to the 'Meme Economy' (coindesk)](https://www.coindesk.com/nyan-cat-nft-ethereum-meme)
+- [Ethereum Trading Bot Strategy 'Extracted' $107M in 30 Days, Research Suggests (coindesk)](https://www.coindesk.com/ethereum-trading-bot-strategy-miner-extracted-value-research)
 - [Flashbots: Frontrunning the MEV Crisis (medium)](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
 - [Ed Felten on MEV (medium)](https://medium.com/@EdFelten)
 

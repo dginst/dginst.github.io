@@ -40,11 +40,11 @@ banner:
 
 ### Ecosystem - ETH vs BTC
 
-- [MicroStrategy’s Saylor Sees Bitcoin Getting Stronger After Merge - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-17/microstrategy-s-saylor-sees-bitcoin-getting-stronger-after-merge)
+- [MicroStrategy's Saylor Sees Bitcoin Getting Stronger After Merge - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-17/microstrategy-s-saylor-sees-bitcoin-getting-stronger-after-merge)
 
 ### Ecosystem - TradFi
 
-- [JPMorgan CEO Jamie Dimon Calls Crypto Tokens Like Bitcoin 'Ponzi Schemes’ - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-21/dimon-calls-out-cryptocurrency-as-decentralized-ponzi-schemes)
+- [JPMorgan CEO Jamie Dimon Calls Crypto Tokens Like Bitcoin 'Ponzi Schemes' - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-21/dimon-calls-out-cryptocurrency-as-decentralized-ponzi-schemes)
 
 ### Ecosystem - Nasdaq
 
@@ -54,7 +54,7 @@ banner:
 ### Ecosystem - Miscellanea
 
 - [Crypto Fees Are High. The Stock Market May Hold the Answer. - WSJ](https://www.wsj.com/articles/crypto-fees-are-high-the-stock-market-may-hold-the-answer-11663320614)
-- [Don’t Let the Crypto Winter Go to Waste - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-09-20/don-t-let-the-crypto-winter-go-to-waste)
+- [Don't Let the Crypto Winter Go to Waste - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-09-20/don-t-let-the-crypto-winter-go-to-waste)
 - [The lawless world of crypto scams - Financial Times](https://www.ft.com/content/5987649e-9345-4eae-a4b8-9bfb0142a2ab)
 - [Crypto-Tracer Chainalysis Busts Bitcoin Anonymity - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-21/crypto-tracer-chainalysis-busts-bitcoin-btc-anonymity)
 
@@ -94,7 +94,7 @@ banner:
 
 ### Tech - Cardano
 
-- [What Cardano’s Highly Anticipated Vasil Hard Fork Will Bring - Coindesk](https://www.coindesk.com/tech/2022/09/20/what-cardanos-highly-anticipated-vasil-hard-fork-will-bring/)
+- [What Cardano's Highly Anticipated Vasil Hard Fork Will Bring - Coindesk](https://www.coindesk.com/tech/2022/09/20/what-cardanos-highly-anticipated-vasil-hard-fork-will-bring/)
 
 ### Tech - Ethereum
 

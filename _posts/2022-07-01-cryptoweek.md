@@ -18,7 +18,7 @@ banner:
 
 ### Regulation - ETF
 
-- [SEC Rejects Grayscale’s Spot Bitcoin ETF Application - Coindesk](https://www.coindesk.com/policy/2022/06/30/sec-rejects-grayscales-spot-bitcoin-etf-application)
+- [SEC Rejects Grayscale's Spot Bitcoin ETF Application - Coindesk](https://www.coindesk.com/policy/2022/06/30/sec-rejects-grayscales-spot-bitcoin-etf-application)
 - [SEC rejects Grayscale's bid to convert GBTC to a Bitcoin ETF - The Block](https://www.theblock.co/post/154924/sec-rejects-grayscales-bid-to-convert-gbtc-to-a-bitcoin-etf)
 - [SEC Rejects Grayscale Bid to Turn Biggest Bitcoin Fund Into ETF - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-30/sec-rejects-grayscale-bid-to-turn-biggest-bitcoin-fund-into-etf)
 - [Grayscale Sues SEC Over Bitcoin ETF Application Rejection - Coindesk](https://www.coindesk.com/policy/2022/06/30/grayscale-sues-sec-over-bitcoin-etf-application-rejection)
@@ -40,20 +40,20 @@ banner:
 ### Market
 
 - [Should I Lend Crypto? Bitcoin Meltdown (BTC) Hits Investor Yield - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-27/should-i-lend-crypto-bitcoin-meltdown-btc-hits-investor-yield)
-- [Crypto feels the shockwaves from its own ‘credit crisis’ - Financial Times](https://www.ft.com/content/032b95dc-7feb-4a2d-8eac-c71235643c07)
+- [Crypto feels the shockwaves from its own 'credit crisis' - Financial Times](https://www.ft.com/content/032b95dc-7feb-4a2d-8eac-c71235643c07)
 - [Cryptoverse: Ether holds its breath for the lean, mean 'merge' - Reuters](https://www.reuters.com/technology/cryptoverse-ether-holds-its-breath-lean-mean-merge-2022-06-28/)
 - [El Salvador Purchases 80 Additional Bitcoin at $19K, President Bukele Says - Coindesk](https://www.coindesk.com/business/2022/07/01/el-salvador-purchases-80-additional-bitcoin-at-19k-president-bukele-says)
 - [MicroStrategy Acquires Additional 480 Bitcoins](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-additional-480-bitcoins_06-29-2022)
-- [Michael Saylor: MicroStrategy’s bitcoin true believer - Financial Times](https://www.ft.com/content/53880cca-910a-4e31-96b7-de6e7776ab9b)
-- [What can the past tell us about Bitcoin’s future? - Financial Times](https://www.ft.com/content/a8f78e4e-6d79-43e6-9ab6-92be8ee207ee)
+- [Michael Saylor: MicroStrategy's bitcoin true believer - Financial Times](https://www.ft.com/content/53880cca-910a-4e31-96b7-de6e7776ab9b)
+- [What can the past tell us about Bitcoin's future? - Financial Times](https://www.ft.com/content/a8f78e4e-6d79-43e6-9ab6-92be8ee207ee)
 - [Deutsche Bank Sees Bitcoin (BTC) Returning to $28,000 by Year-End - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-29/deutsche-bank-says-bitcoin-could-reach-28-000-by-year-end)
 - [The U.S. Dollar Should Be More Like Bitcoin - WSJ](https://www.wsj.com/articles/the-dollar-should-be-more-like-bitcoin-federal-reserve-crypto-store-value-11656427281)
 
 ### Ecosystem - FTX
 
-- [Sam Bankman-Fried’s FTX Is Seeking a Path to Buy Robinhood (HOOD) - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-27/bankman-fried-s-ftx-said-to-be-seeking-path-for-robinhood-deal)
+- [Sam Bankman-Fried's FTX Is Seeking a Path to Buy Robinhood (HOOD) - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-27/bankman-fried-s-ftx-said-to-be-seeking-path-for-robinhood-deal)
 - [FTX BlockFi deal - The Block](https://www.theblock.co/post/154929/ftx-blockfi-deal-sources)
-- [Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows - Coindesk](https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/)
+- [Morgan Creek Is Trying to Counter FTX's BlockFi Bailout, Leaked Call Shows - Coindesk](https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/)
 - [Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”](https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent)
 
 ### Ecosystem - Theter

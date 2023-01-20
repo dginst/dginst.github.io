@@ -52,7 +52,7 @@ banner:
 
 ### Ecosystem - Infura
 
-- [MetaMask, Infura Block ‘Certain Areas’ Amid Crypto Sanctions Fury - Coindesk](https://www.coindesk.com/policy/2022/03/03/metamask-infura-block-certain-areas-amid-crypto-sanctions-fury/)
+- [MetaMask, Infura Block 'Certain Areas' Amid Crypto Sanctions Fury - Coindesk](https://www.coindesk.com/policy/2022/03/03/metamask-infura-block-certain-areas-amid-crypto-sanctions-fury/)
 - [Infura on sanctions directives from the United States - Twitter](https://twitter.com/infura_io/status/1499446959827931175)
 
 ### Markets - Lugano
@@ -64,7 +64,7 @@ banner:
 ### Regulation - Bitcoin legal tender
 
 - [Samson Mow on his last day with @Blockstream - Twitter](https://twitter.com/Excellion/status/1498680531520827399)
-- ['Mexico Is On The List’—Other Countries Could Soon Follow El Salvador Into Bitcoin - Forbes](https://www.forbes.com/sites/billybambrough/2022/03/01/mexico-is-on-the-list-other-countries-could-soon-follow-el-salvador-in-bitcoin-adoption-as-the-price-of-ethereum-bnb-solana-cardano-xrp-terras-luna-and-avalanche-soar)
+- ['Mexico Is On The List'—Other Countries Could Soon Follow El Salvador Into Bitcoin - Forbes](https://www.forbes.com/sites/billybambrough/2022/03/01/mexico-is-on-the-list-other-countries-could-soon-follow-el-salvador-in-bitcoin-adoption-as-the-price-of-ethereum-bnb-solana-cardano-xrp-terras-luna-and-avalanche-soar)
 
 ### Regulation - CBDC
 

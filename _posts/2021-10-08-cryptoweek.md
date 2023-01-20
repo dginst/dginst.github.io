@@ -25,12 +25,12 @@ banner:
 - [George Soros' family office owns bitcoin, confirms CEO Fitzpatrick - The Block Crypto](https://www.theblockcrypto.com/post/119609/george-soros-family-office-bitcoin-fitzpatrick)
 - [Bitcoin Futures Premium on CME Surges, Hinting At Institutional Demand - CoinDesk](https://www.coindesk.com/markets/2021/10/06/bitcoin-futures-premium-on-cme-surges-as-etf-speculation-grips-market/)
 - [Coinbase's Recent $2B Bond Offering Shows Voracious Appetite of Investors - Blockworks](https://blockworks.co/coinbases-recent-2b-bond-offering-shows-voracious-appetite-of-investors/)
-- [Fed Chair Powell Says He Has ‘No Intention' of Banning Crypto - CoinDesk](https://www.coindesk.com/policy/2021/09/30/fed-chair-powell-says-he-has-no-intention-of-banning-crypto/)
+- [Fed Chair Powell Says He Has 'No Intention' of Banning Crypto - CoinDesk](https://www.coindesk.com/policy/2021/09/30/fed-chair-powell-says-he-has-no-intention-of-banning-crypto/)
 - [Fed Won't Ban Bitcoin Like China, Says Jerome Powell - Decrypt](https://decrypt.co/82332/fed-wont-ban-bitcoin-like-china-says-jerome-powell)
 
 ### Regulation - SEC
 
-- [SEC Chair Gensler: A Ban on Crypto Would Be ‘Up to Congress' - CoinDesk](https://www.coindesk.com/policy/2021/10/05/sec-chair-gensler-a-ban-on-crypto-would-be-up-to-congress/)
+- [SEC Chair Gensler: A Ban on Crypto Would Be 'Up to Congress' - CoinDesk](https://www.coindesk.com/policy/2021/10/05/sec-chair-gensler-a-ban-on-crypto-would-be-up-to-congress/)
 - [SEC head Gary Gensler under fire over crypto regulation - Financial Times](https://www.ft.com/content/1c999f26-5fc9-4008-84bb-1f706c6251a7)
 - [Gensler's Crypto Testimony: 6 Key Takeaways - CoinDesk](https://www.coindesk.com/policy/2021/10/06/genslers-crypto-testimony-6-key-takeaways/)
 

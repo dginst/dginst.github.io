@@ -21,7 +21,7 @@ banner:
 - [Cryptocurrency markets slide as Yellen leads mounting regulatory scrutiny - Financial Times](https://www.ft.com/content/9685a2e0-e8d5-48f5-9c1f-66aea8cb1597)
 - [Bitcoin falls below $30,000 for first time in a month - The Globe and Mail](https://www.theglobeandmail.com/business/international-business/article-bitcoin-falls-below-30000-for-first-time-in-a-month/)
 - [Bitcoin Prices Surge as Elon Musk Says 'I Might Pump, But I Don't Dump' - Barron's](https://www.barrons.com/articles/bitcoin-prices-musk-dorsey-wood-cryptocurrency-51626896179)
-- [Musk says SpaceX holds bitcoin, Tesla ‘likely' to resume accepting it - Financial Times](https://www.ft.com/content/1e8e83a7-08bc-42bd-901e-a92986e743e7)
+- [Musk says SpaceX holds bitcoin, Tesla 'likely' to resume accepting it - Financial Times](https://www.ft.com/content/1e8e83a7-08bc-42bd-901e-a92986e743e7)
 - [Elon Musk Says SpaceX Holds Bitcoin at 'B Word' Conference - CoinDesk](https://www.coindesk.com/elon-musk-says-spacex-holds-bitcoin-at-b-word-conference)
 
 ### Ecosystem - The B Word Conference
@@ -70,7 +70,7 @@ banner:
 
 - [Fed's Powell 'legitimately undecided' on central bank digital currency - Reuters](https://www.reuters.com/business/finance/feds-powell-says-hes-undecided-central-bank-digital-currency-2021-07-15)
 - [Yellen urges quick U.S. adoption of stablecoin rules - Reuters](https://www.reuters.com/technology/yellen-says-us-must-move-quickly-establish-stablecoin-rule-framework-2021-07-19)
-- [Stablecoins Risky Like ‘Wildcat' Bank Practices of 19th Century, Gorton and Zhang Write - Nasdaq](https://www.nasdaq.com/articles/stablecoins-risky-like-wildcat-bank-practices-of-19th-century-gorton-and-zhang-write-2021)
+- [Stablecoins Risky Like 'Wildcat' Bank Practices of 19th Century, Gorton and Zhang Write - Nasdaq](https://www.nasdaq.com/articles/stablecoins-risky-like-wildcat-bank-practices-of-19th-century-gorton-and-zhang-write-2021)
 - [Circle reveals majority of USDC reserves are in cash and cash equivalents - The Block](https://www.theblockcrypto.com/linked/112001/circle-reveals-majority-of-usdc-reserves-are-in-cash-and-cash-equivalents)
 - [El Salvador May Issue Its Own Stablecoin - CoinDesk](https://www.coindesk.com/el-salvador-may-issue-its-own-stablecoin-report)
 

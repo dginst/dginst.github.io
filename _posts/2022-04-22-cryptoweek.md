@@ -44,7 +44,7 @@ banner:
 
 ### Ecosystem - IMF
 
-- [El Salvador’s Bid for Bitcoin Bonds Sinking as IMF Deal 'Practically Dead': Former Central Bank President - Decrypt](https://decrypt.co/98216/el-salvador-bitcoin-bonds-imf-deal-practically-dead)
+- [El Salvador's Bid for Bitcoin Bonds Sinking as IMF Deal 'Practically Dead': Former Central Bank President - Decrypt](https://decrypt.co/98216/el-salvador-bitcoin-bonds-imf-deal-practically-dead)
 - [IMF calls for coordinated effort, capital controls for crypto - theblockcrypto](https://www.theblockcrypto.com/linked/142584/imf-calls-for-coordinated-effort-capital-controls-for-crypto)
 - [IMF Says Capital Control Powers Should Include Crypto - Coindesk](https://www.coindesk.com/policy/2022/04/19/imf-says-capital-control-powers-should-include-crypto/)
 - ["reading everything the IMF has put out in the last 2 years" - Sam Callahan on Twitter](https://twitter.com/samcallah/status/1517170892979142657)
@@ -66,8 +66,8 @@ banner:
 - [Coinbase NFT](https://nft.coinbase.com/)
 - [Sky Mavis raises $152M at nearly $3B valuation for Axie Infinity play-to-earn NFT game - VentureBeat](https://venturebeat.com/2021/10/06/sky-mavis-raises-152m-at-nearly-3b-valuation-for-axie-infinity-play-to-earn-nft-game/)
 - [Louis Vuitton releases new NFTs as fashion brands continue experiments in gaming - theblockcrypto](https://www.theblockcrypto.com/post/142276/louis-vuitton-releases-new-nfts-as-fashion-brands-continue-experiments-in-gaming)
-- [‘Jack Dorsey’s First Tweet’ NFT on Sale - Twitter](https://twitter.com/sinaEstavi/status/1511832413973983239)
-- [‘Jack Dorsey’s First Tweet’ NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280 - Coindesk](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280)
+- ['Jack Dorsey's First Tweet' NFT on Sale - Twitter](https://twitter.com/sinaEstavi/status/1511832413973983239)
+- ['Jack Dorsey's First Tweet' NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280 - Coindesk](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280)
 - [NFT Money Laundering and Wash Trading - Chainalysis](https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-nft-wash-trading-money-laundering/)
 
 ### Ecosystem - Tether and stablecoins
@@ -84,7 +84,7 @@ banner:
 ### Tech - Monero
 
 - [Monero community reaches consensus for July hard fork - CoinTelegraph](https://cointelegraph.com/news/monero-community-reaches-consensus-for-july-hard-fork)
-- [Privacy Focused Monero Plans Hard Fork in July; XMR Surges 11% on ‘Monerun’ - Coindesk](https://www.coindesk.com/markets/2022/04/19/privacy-focused-monero-plans-hard-fork-in-july-xmr-surges-11-on-monerun)
+- [Privacy Focused Monero Plans Hard Fork in July; XMR Surges 11% on 'Monerun' - Coindesk](https://www.coindesk.com/markets/2022/04/19/privacy-focused-monero-plans-hard-fork-in-july-xmr-surges-11-on-monerun)
 
 ### Tech - Tornado Cash
 

@@ -20,7 +20,7 @@ banner:
 
 - [Total Hash Rate (TH/s) - Blockchain Explorer](https://www.blockchain.com/charts/hash-rate)
 - [90% of Bitcoin's Total Supply has Been Mined but Price Continues to Dip](https://finance.yahoo.com/news/90-bitcoin-total-supply-mined-112422242.html?guccounter=1)
-- [Bitcoin CME Futures Slip Into ‘Backwardation' as Bearish Sentiment Grips Market - CoinDesk](https://www.coindesk.com/markets/2021/12/14/bitcoin-cme-futures-slip-into-backwardation-as-bearish-sentiment-grips-market/)
+- [Bitcoin CME Futures Slip Into 'Backwardation' as Bearish Sentiment Grips Market - CoinDesk](https://www.coindesk.com/markets/2021/12/14/bitcoin-cme-futures-slip-into-backwardation-as-bearish-sentiment-grips-market/)
 - [Bitcoin is dead - ChekSig](https://www.linkedin.com/feed/update/urn:li:activity:6877632233096699904/)
 
 ### Regulation
@@ -41,7 +41,7 @@ banner:
 - [Ray Dalio: Crypto Should Be Part of a Diversified Portfolio - Blockworks](https://blockworks.co/ray-dalio-crypto-should-be-part-of-a-diversified-portfolio/)
 - [Ray Dalio warns Fed's hands are tied and higher U.S. inflation is sticking around. Democracy, maybe not. - MarketWatch](https://www.marketwatch.com/story/ray-dalio-warns-the-feds-hands-are-tied-and-that-higher-u-s-inflation-is-sticking-around-democracy-maybe-not-11639578847)
 - [Contractual Standards for Digital Asset Derivatives – International Swaps and Derivatives Association](https://www.isda.org/2021/12/14/contractual-standards-for-digital-asset-derivatives/)
-- [Isda proposes market rules to cover crypto ‘disruptions' - Financial Times](https://www.ft.com/content/bed2cff8-e0d1-492b-afa1-c2ae5c2f5dcb)
+- [Isda proposes market rules to cover crypto 'disruptions' - Financial Times](https://www.ft.com/content/bed2cff8-e0d1-492b-afa1-c2ae5c2f5dcb)
 - [Chainalysis adds Lightning Network support - The Block Crypto](https://www.theblockcrypto.com/linked/127180/chainalysis-adds-lightning-network-support)
 
 ### Markets - Dogecoin & Elon Musk

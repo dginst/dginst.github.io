@@ -21,7 +21,7 @@ banner:
 - [Voyager Digital to pursue Three Arrows Capital for $650 million loan](https://www.theblock.co/post/153509/voyager-digital-secures-loan-from-alameda-to-meet-customer-liquidity-needs)
 - [Voyager Digital shares crash after warning of Three Arrows crypto loss - Financial Times](https://www.ft.com/content/d75801c9-b9dd-4f90-b012-6948cca680d0)
 - [Crypto broker Voyager lowers daily withdrawal limits from $25K to $10K](https://www.theblock.co/post/153813/voyager-digital-lowers-daily-withdrawal-limits)
-- [CoinFLEX Pauses Withdrawals Amid ‘Extreme Market Conditions’ and Counterparty Uncertainty](https://www.coindesk.com/business/2022/06/23/coinflex-pauses-withdrawals-amid-extreme-market-conditions-and-counterparty-uncertainty)
+- [CoinFLEX Pauses Withdrawals Amid 'Extreme Market Conditions' and Counterparty Uncertainty](https://www.coindesk.com/business/2022/06/23/coinflex-pauses-withdrawals-amid-extreme-market-conditions-and-counterparty-uncertainty)
 - [BlockFi Receives $250M Credit Facility From FTX](https://www.coindesk.com/business/2022/06/21/blockfi-receives-250m-credit-facility-from-ftx)
 - [Crypto exchange FTX bails out lending platform BlockFi - Financial Times](https://www.ft.com/content/69ab1469-df01-4ea2-a015-b0e9904af4cc)
 
@@ -42,7 +42,7 @@ banner:
 - [Bitcoin whale Microstrategy CEO Michael Saylor urges governments to regulate crypto - Fortune](https://fortune.com/2022/06/20/bitcoin-whale-microstrategy-michael-saylor-urges-governments-to-regulate-crypto/)
 - [ECB President Lagarde: Crypto Staking and Lending Must Be Regulated - Decrypt](https://decrypt.co/103565/ecb-president-lagarde-crypto-staking-and-lending-must-be-regulated)
 - [Fed Chair Powell Says Soft Landing Will Be 'Challenging,' Calls for Crypto Regulation](https://www.coindesk.com/markets/2022/06/22/fed-chair-powell-says-soft-landing-will-be-challenging-calls-for-crypto-regulation/)
-- [US Fed Evaluating SEC’s Position on Digital Assets Custody, Powell Says](https://www.coindesk.com/policy/2022/06/22/us-fed-evaluating-secs-position-on-digital-assets-custody-powell-says)
+- [US Fed Evaluating SEC's Position on Digital Assets Custody, Powell Says](https://www.coindesk.com/policy/2022/06/22/us-fed-evaluating-secs-position-on-digital-assets-custody-powell-says)
 
 ### Regulation - CBDC
 

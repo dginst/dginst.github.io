@@ -27,7 +27,7 @@ banner:
 ### Regulation - SEC
 
 - [Watch SEC Seeing 'Lots' of Crypto Non-Compliance, Says Gensler - Bloomberg](https://www.bloomberg.com/news/videos/2022-07-19/sec-seeing-lots-of-crypto-non-compliance-says-gensler-video)
-- [SEC’s Gary Gensler Sees Plenty of ‘Noncompliance’ Across Crypto Industry - Coindesk](https://www.coindesk.com/business/2022/07/19/secs-gary-gensler-sees-plenty-of-non-compliance-across-crypto-industry)
+- [SEC's Gary Gensler Sees Plenty of 'Noncompliance' Across Crypto Industry - Coindesk](https://www.coindesk.com/business/2022/07/19/secs-gary-gensler-sees-plenty-of-non-compliance-across-crypto-industry)
 
 ### Regulation - SEC vs Coinbase
 
@@ -37,7 +37,7 @@ banner:
 
 ### Regulation - Dutch central bank vs Binance
 
-- [Dutch central bank fines Binance in blow to exchange’s European push - Financial Times](https://www.ft.com/content/75f6ba16-d259-45f3-b6c3-b15ba9f53e92)
+- [Dutch central bank fines Binance in blow to exchange's European push - Financial Times](https://www.ft.com/content/75f6ba16-d259-45f3-b6c3-b15ba9f53e92)
 - [Binance Fined $3.4M by Dutch Central Bank - Coindesk](https://www.coindesk.com/business/2022/07/18/binance-fined-over-33m-by-dutch-central-bank)
 - [Dutch central bank fines Binance €3.3 million for operating without registration - The Block](https://www.theblock.co/post/158074/dutch-central-bank-fines-binance)
 
@@ -57,12 +57,12 @@ banner:
 - [Citi Says Crypto Contagion Appears to Have Ceased - Coindesk](https://www.coindesk.com/markets/2022/07/22/citi-says-crypto-contagion-appears-to-have-ceased)
 - [Contagion Report - BitMex](https://blog.bitmex.com/wp-content/uploads/2022/07/BM_Pro_Contagion_Report_2022_06-2.pdf)
 - [Bankman-Fried Says Crypto Winter Shifts Investor Focus to Profit - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-19/bankman-fried-says-crypto-winter-shifts-investor-focus-to-profit)
-- [Billionaire Mike Novogratz Says He Was ‘Darn Wrong’ on Risks of Crypto Leverage - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-19/novogratz-says-he-was-darn-wrong-on-risks-of-crypto-leverage)
+- [Billionaire Mike Novogratz Says He Was 'Darn Wrong' on Risks of Crypto Leverage - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-19/novogratz-says-he-was-darn-wrong-on-risks-of-crypto-leverage)
 - [Crypto Layoffs Hit Risk and Compliance Staff at Big Exchanges - WSJ](https://www.wsj.com/articles/crypto-layoffs-hit-risk-and-compliance-staff-at-big-exchanges-11658223000)
 
 ### Ecosystem - Lending crisis: Three Arrows Capital
 
-- [Singapore's Three Arrows Founders, En Route to Dubai, Describe ‘LTCM Moment’ - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-22/three-arrows-founders-en-route-to-dubai-describe-ltcm-moment)
+- [Singapore's Three Arrows Founders, En Route to Dubai, Describe 'LTCM Moment' - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-22/three-arrows-founders-en-route-to-dubai-describe-ltcm-moment)
 
 ### Ecosystem - Mining
 
@@ -71,9 +71,9 @@ banner:
 
 ### Markets - Ethereum
 
-- [Ethereum’s Merge Projected for September According to 'Soft' Timeline - Coindesk](https://www.coindesk.com/tech/2022/07/15/ethereums-merge-projected-for-september-according-to-soft-timeline/)
+- [Ethereum's Merge Projected for September According to 'Soft' Timeline - Coindesk](https://www.coindesk.com/tech/2022/07/15/ethereums-merge-projected-for-september-according-to-soft-timeline/)
 - [The 'Merge Trade' Has Begun, Experts Say, as Ether Surges and stETH Discount Narrows - Coindesk](https://www.coindesk.com/markets/2022/07/18/the-merge-trade-has-begun-experts-say-as-ether-surges-and-steth-discount-narrows)
-- [Is the Ethereum ‘Merge’ Driving This Rally? - Coindesk](https://www.coindesk.com/layer2/2022/07/19/is-the-ethereum-merge-driving-this-rally)
+- [Is the Ethereum 'Merge' Driving This Rally? - Coindesk](https://www.coindesk.com/layer2/2022/07/19/is-the-ethereum-merge-driving-this-rally)
 - [Ethereum - FRNT Financial](https://mailchi.mp/8864a4406353/correction-frnt-financial-24-hours-in-crypto-july-19-2022?e=ce087d5484)
 
 ### Tech - Ethereum

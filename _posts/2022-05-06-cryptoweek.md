@@ -27,12 +27,12 @@ banner:
 
 ### Ecosystem - Goldman Sach Bitcoin-backed loan
 
-- [Goldman Sachs Partners With Coinbase For Bank’s First Bitcoin-Backed Loan - Nasdaq](https://www.nasdaq.com/articles/goldman-sachs-partners-with-coinbase-for-banks-first-bitcoin-backed-loan)
+- [Goldman Sachs Partners With Coinbase For Bank's First Bitcoin-Backed Loan - Nasdaq](https://www.nasdaq.com/articles/goldman-sachs-partners-with-coinbase-for-banks-first-bitcoin-backed-loan)
 
 ### Ecosystem - Bitoin 401(k) plan
 
 - [Senator Warren Raises Concerns About Fidelity's Bitcoin Retirement Plans - Decrypt](https://decrypt.co/99606/us-senators-raise-concerns-fidelity-bitcoin-retirement-plans)
-- [Labor Department Criticizes Fidelity’s Plan to Put Bitcoin on 401(k) Menu - WSJ](https://www.wsj.com/articles/labor-department-criticizes-fidelitys-plan-to-put-bitcoin-on-401-k-menu-11651197309)
+- [Labor Department Criticizes Fidelity's Plan to Put Bitcoin on 401(k) Menu - WSJ](https://www.wsj.com/articles/labor-department-criticizes-fidelitys-plan-to-put-bitcoin-on-401-k-menu-11651197309)
 - [MicroStrategy Reports $170M Impairment Charge on Bitcoin Holdings in Q1](https://www.coindesk.com/business/2022/05/03/microstrategy-reports-170m-impairment-charge-on-bitcoin-holdings-in-q1/)
 
 ### Ecosystem - Twitter

@@ -21,12 +21,12 @@ banner:
 
 - [Google and Coinbase partner on plan to offer crypto payments for cloud services - The Block](https://www.theblock.co/post/176131/google-and-coinbase-partner-on-plan-to-offer-crypto-payments-for-cloud-services)
 - [Google Partners With Coinbase to Accept Crypto Payments for Cloud Services - Coindesk](https://www.coindesk.com/business/2022/10/11/google-partners-with-coinbase-to-accept-crypto-payments-for-cloud-services)
-- [Google’s Partnership With Coinbase Is ‘Validation’ for the Crypto Industry - Coindesk](https://www.coindesk.com/business/2022/10/12/googles-partnership-with-coinbase-is-validation-for-the-crypto-industry-oppenheimer)
+- [Google's Partnership With Coinbase Is 'Validation' for the Crypto Industry - Coindesk](https://www.coindesk.com/business/2022/10/12/googles-partnership-with-coinbase-is-validation-for-the-crypto-industry-oppenheimer)
 - [Google now showing Ethereum wallet balances - The Block](https://www.theblock.co/post/176153/google-now-showing-ethereum-wallet-balances)
 
 ### Ecosystem - TradFi
 
-- [America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now - WSJ](https://www.wsj.com/articles/americas-oldest-bank-bny-mellon-will-hold-that-crypto-now-11665460354)
+- [America's Oldest Bank, BNY Mellon, Will Hold That Crypto Now - WSJ](https://www.wsj.com/articles/americas-oldest-bank-bny-mellon-will-hold-that-crypto-now-11665460354)
 
 ### Ecosystem - Investment
 
@@ -55,17 +55,17 @@ banner:
 ### Regulation - EU
 
 - [EU Commission seeks automated Ethereum DeFi monitoring - The Block](https://www.theblock.co/post/175920/eu-commission-seeks-automated-ethereum-defi-monitoring)
-- [EU’s landmark digital asset legislation passes committee vote in European Parliament - The Block](https://www.theblock.co/post/175842/eus-landmark-digital-asset-legislation-passes-committee-vote-in-european-parliament)
+- [EU's landmark digital asset legislation passes committee vote in European Parliament - The Block](https://www.theblock.co/post/175842/eus-landmark-digital-asset-legislation-passes-committee-vote-in-european-parliament)
 
 ### Regulation - SEC
 
-- [US SEC Investigates Bored-Ape’s Yuga Labs Unregistered Digital Assets Sales - Bloomberg](https://www.bloomberg.com/news/articles/2022-10-11/bored-ape-creator-yuga-labs-faces-sec-probe-over-unregistered-offerings)
+- [US SEC Investigates Bored-Ape's Yuga Labs Unregistered Digital Assets Sales - Bloomberg](https://www.bloomberg.com/news/articles/2022-10-11/bored-ape-creator-yuga-labs-faces-sec-probe-over-unregistered-offerings)
 - [SEC rejects WisdomTree's latest spot bitcoin ETF proposal - The Block](https://www.theblock.co/post/176279/sec-rejects-wisdomtrees-latest-spot-bitcoin-etf-proposal)
-- [In SEC Lawsuit, Grayscale Calls Spot ETF Rejection ‘Arbitrary, Capricious and Discriminatory’ - Coindesk](https://www.coindesk.com/policy/2022/10/12/in-sec-lawsuit-grayscale-calls-spot-etf-rejection-arbitrary-capricious-and-discriminatory/)
+- [In SEC Lawsuit, Grayscale Calls Spot ETF Rejection 'Arbitrary, Capricious and Discriminatory' - Coindesk](https://www.coindesk.com/policy/2022/10/12/in-sec-lawsuit-grayscale-calls-spot-etf-rejection-arbitrary-capricious-and-discriminatory/)
 
 ### Regulation
 
-- [Bankman-Fried ‘totally on board’ with crypto regulation - The Block](https://www.theblock.co/post/176676/bankman-fried-totally-on-board-with-crypto-regulation)
+- [Bankman-Fried 'totally on board' with crypto regulation - The Block](https://www.theblock.co/post/176676/bankman-fried-totally-on-board-with-crypto-regulation)
 
 ### Regulation - Tornado Cash
 
@@ -78,7 +78,7 @@ banner:
 
 ### Ecosystem - Stablecoins
 
-- [Stablecoins’ Role in Cutting International Payment Costs Probed by Payments Watchdog - Coindesk](https://www.coindesk.com/policy/2022/10/10/stablecoins-role-in-cutting-international-payment-costs-probed-by-payments-watchdog)
+- [Stablecoins' Role in Cutting International Payment Costs Probed by Payments Watchdog - Coindesk](https://www.coindesk.com/policy/2022/10/10/stablecoins-role-in-cutting-international-payment-costs-probed-by-payments-watchdog)
 - [Tether eliminates commercial paper from reserves - The Block](https://www.theblock.co/post/177080/tether-to-replace-commercial-paper-with-u-s-treasuries-reserves)
 
 ### Regulation - CBDC

@@ -76,7 +76,7 @@ banner:
 
 ### Ecosystem - Coinbase
 
-- [Coinbase Global’s Shares Succumb to Crypto Rout - WSJ](https://www.wsj.com/articles/coinbase-globals-shares-succumb-to-crypto-rout-11655141449)
+- [Coinbase Global's Shares Succumb to Crypto Rout - WSJ](https://www.wsj.com/articles/coinbase-globals-shares-succumb-to-crypto-rout-11655141449)
 - ['You Will Be Fired': Coinbase CEO Brian Armstrong Lambastes Anonymous 'Operation Revive COIN' Petitioner](https://www.coindesk.com/business/2022/06/10/you-will-be-fired-coinbase-ceo-brian-armstrong-lambastes-anonymous-operation-revive-coin-petitioner)
 - [A message from Coinbase CEO and Cofounder, Brian Armstrong - The Coinbase Blog](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
 
@@ -101,7 +101,7 @@ banner:
 
 ### Ecosystem - Stablecoin
 
-- [Tron’s Stablecoin Peg to Dollar Wobbles; Justin Sun Swears to Deploy $2B to Prop Up](https://www.coindesk.com/markets/2022/06/13/trons-stablecoin-peg-to-dollar-wobbles-justin-sun-swears-to-deploy-2b-to-prop-up)
+- [Tron's Stablecoin Peg to Dollar Wobbles; Justin Sun Swears to Deploy $2B to Prop Up](https://www.coindesk.com/markets/2022/06/13/trons-stablecoin-peg-to-dollar-wobbles-justin-sun-swears-to-deploy-2b-to-prop-up)
 - [USDC Issuer Circle to Introduce Euro-Backed Stablecoin in US](https://www.coindesk.com/business/2022/06/16/usdc-issuer-circle-to-introduce-euro-backed-stablecoin-in-us)
 - [Circle launches euro-backed stablecoin EUROC](https://cointelegraph.com/news/circle-launches-euro-backed-stablecoin-euroc)
 - [US Stablecoin Law Could Actually Pass This Year, Lawmakers Say](https://www.coindesk.com/policy/2022/06/10/us-stablecoin-law-could-actually-pass-this-year-lawmakers-say)
@@ -110,7 +110,7 @@ banner:
 
 - [Column: Crypto crash exposes regulators' complacency - Reuters](https://www.reuters.com/markets/currencies/crypto-crash-exposes-regulators-complacency-2022-06-17/)
 - [BTC Crypto Common EU Law Pact Deal Seen by This Month To Regulate Sector - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-10/eu-aims-to-clinch-deal-on-landmark-crypto-law-this-month)
-- [Regulation Lies in Bitcoin’s Future, Clouding Its Current Value - WSJ](https://www.wsj.com/articles/regulation-lies-in-bitcoins-future-clouding-its-current-value-11655216885)
+- [Regulation Lies in Bitcoin's Future, Clouding Its Current Value - WSJ](https://www.wsj.com/articles/regulation-lies-in-bitcoins-future-clouding-its-current-value-11655216885)
 
 ### Ecosystem - TradFi
 

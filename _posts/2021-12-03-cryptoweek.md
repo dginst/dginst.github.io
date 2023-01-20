@@ -20,7 +20,7 @@ banner:
 ### Ecosystem - Jack Dorsey
 
 - [Jack Dorsey is stepping down as CEO of Twitter - CNN](https://edition.cnn.com/2021/11/29/tech/jack-dorsey-twitter/index.html)
-- [Twitter CEO Jack Dorsey Steps Down: ‘It's Finally Time for Me to Leave' - RollingStone](https://www.rollingstone.com/culture/culture-news/jack-dorsey-resigns-twitter-ceo-1264054/)
+- [Twitter CEO Jack Dorsey Steps Down: 'It's Finally Time for Me to Leave' - RollingStone](https://www.rollingstone.com/culture/culture-news/jack-dorsey-resigns-twitter-ceo-1264054/)
 - [Square Changes Name to Block, Reflecting CEO Jack Dorsey's Bitcoin Endeavors - Decrypt](https://decrypt.co/87390/square-changes-name-block-ceo-jack-dorsey-bitcoin-endeavors)
 - [Jack Dorsey's Square to Change its Name to Block - Blockworks](https://blockworks.co/jack-dorseys-square-to-change-its-name-to-block/)
 - [Jack Dorsey-Led Square Changes Name To Block, Doubling Down On Crypto Focus - Forbes](https://www.forbes.com/sites/dereksaul/2021/12/01/jack-dorsey-led-square-changes-name-to-block-doubling-down-on-crypto-focus/?sh=7811135b35a5)
@@ -34,7 +34,7 @@ banner:
 - [$32bn Grayscale Bitcoin Trust feels the heat from cheaper ETFs - Financial Times](https://www.ft.com/content/9fc7b034-7659-439f-a991-169662815883)
 - [Fidelity set to launch physical spot bitcoin ETF - Financial Times](https://www.ft.com/content/f2a6d440-804e-4e32-93f1-a9ee2bbf0715)
 - [Fidelity Launches Spot Bitcoin ETF in Canada - Decrypt](https://decrypt.co/87317/fidelity-launches-spot-bitcoin-etf-canada)
-- [Invesco Launches ‘Physical' Bitcoin ETP In Europe - Nasdaq](https://www.nasdaq.com/articles/invesco-launches-physical-bitcoin-etp-in-europe)
+- [Invesco Launches 'Physical' Bitcoin ETP In Europe - Nasdaq](https://www.nasdaq.com/articles/invesco-launches-physical-bitcoin-etp-in-europe)
 - [Trillion-Dollar Investment Firm Invesco Launches European Spot Bitcoin ETP - Decrypt](https://decrypt.co/87161/trillion-dollar-investment-firm-invesco-launches-european-spot-bitcoin-etp)
 - [VanEck Files to Launch Digital Asset Mining ETF - CoinDesk](https://www.coindesk.com/business/2021/12/02/vaneck-files-to-launch-digital-asset-mining-etf/)
 
@@ -43,12 +43,12 @@ banner:
 - [Crypto.com Acquires US CFTC-regulated Exchanges - Blockworks](https://blockworks.co/crypto-com-acquires-us-cftc-regulated-exchanges/)
 - [It's Time for South Korea to Embrace Bitcoin, Says KRX Chairman - Bitcoin Magazine](https://bitcoinmagazine.com/business/its-time-for-south-korea-to-embrace-bitcoin-says-krx-chairman)
 - [Goldman Sachs, Other Wall Street Banks Exploring Bitcoin-Backed Loans: Sources - CoinDesk](https://www.coindesk.com/business/2021/12/02/goldman-sachs-other-wall-street-banks-exploring-bitcoin-backed-loans-sources/)
-- [Goldman Sachs Sees Crypto Options Markets as ‘Next Big Step' for Institutional Adoption - CoinDesk](https://www.coindesk.com/markets/2021/12/02/goldman-sachs-sees-crypto-options-markets-as-next-big-step-for-institutional-adoption/)
+- [Goldman Sachs Sees Crypto Options Markets as 'Next Big Step' for Institutional Adoption - CoinDesk](https://www.coindesk.com/markets/2021/12/02/goldman-sachs-sees-crypto-options-markets-as-next-big-step-for-institutional-adoption/)
 
 ### Regulation
 
 - [India to regulate, not ban, crypto: Cabinet documents - Cointelegraph](https://cointelegraph.com/news/cabinet-note-suggests-india-will-regulate-rather-than-ban-crypto)
-- [Paraguayan Senate to Debate Taking Bitcoin Mining ‘Out of the Grey Area' - Crypto News](https://cryptonews.com/news/paraguayan-senate-to-debate-taking-bitcoin-mining-out-of-the-grey-area.htm)
+- [Paraguayan Senate to Debate Taking Bitcoin Mining 'Out of the Grey Area' - Crypto News](https://cryptonews.com/news/paraguayan-senate-to-debate-taking-bitcoin-mining-out-of-the-grey-area.htm)
 - [SEC Chairman Gary Gensler: Bitcoin Competes With The U.S. Banking System - Nasdaq](https://www.nasdaq.com/articles/sec-chairman-gary-gensler%3A-bitcoin-competes-with-the-u.s.-banking-system)
 - [SEC Charges Ripple and Two Executives with Conducting $1.3 Billion Unregistered Securities Offering - SEC.gov](https://www.sec.gov/news/press-release/2020-338)
 - [Gensler Says Centralized Regulation is Path for Crypto - Blockworks](https://blockworks.co/gensler-says-centralized-regulation-is-path-for-crypto/)

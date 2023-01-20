@@ -19,7 +19,7 @@ banner:
 ### Markets
 
 - [El Salvador announces purchase of 420 bitcoin, worth nearly $25 million - The Block Crypto](https://www.theblockcrypto.com/linked/122360/el-salvador-announces-purchase-of-420-bitcoin-worth-nearly-25-million)
-- [El Salvador ‘Buys the Dip,' Acquires 420 Additional Bitcoin - CoinDesk](https://www.coindesk.com/business/2021/10/28/el-salvador-buys-the-dip-acquires-420-additional-bitcoin/)
+- [El Salvador 'Buys the Dip,' Acquires 420 Additional Bitcoin - CoinDesk](https://www.coindesk.com/business/2021/10/28/el-salvador-buys-the-dip-acquires-420-additional-bitcoin/)
 - [MicroStrategy Adds Almost 9,000 Bitcoins to Its Holdings in Third Quarter - CoinDesk](https://www.coindesk.com/business/2021/10/28/microstrategy-added-almost-9000-bitcoins-to-its-holdings-in-third-quarter/)
 - [Rand Paul questioning if crypto could become world reserve currency - The Hill](https://thehill.com/homenews/senate/578303-rand-paul-questioning-if-cryptocurrency-could-become-world-reserve-currency)
 - [Those who do their homework end up investing in bitcoin: Scaramucci - CNBC](https://www.cnbc.com/2021/10/25/those-who-do-their-homework-end-up-investing-in-bitcoin-scaramucci.html)
@@ -29,7 +29,7 @@ banner:
 ### Markets - Altcoins
 
 - [Shiba Inu Coin Price Jumps, Could Overtake Meme Cryptocurrency Dogecoin - WSJ](https://www.wsj.com/articles/shiba-inu-coin-price-jumps-could-overtake-meme-cryptocurrency-dogecoin-11635350665)
-- [Dogecoin watch out! ‘Shiba inu' token muscles into cryptocurrency top 10 - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-dogecoin-watch-out-shiba-inu-token-muscles-into-cryptocurrency-top-10/)
+- [Dogecoin watch out! 'Shiba inu' token muscles into cryptocurrency top 10 - The Globe and Mail](https://www.theglobeandmail.com/investing/investment-ideas/article-dogecoin-watch-out-shiba-inu-token-muscles-into-cryptocurrency-top-10/)
 - [SHIB overtakes DOGE as rival memecoin surpasses market capitalization - The Block Crypto](https://www.theblockcrypto.com/linked/122323/shib-overtakes-doge-as-rival-memecoin-surpasses-market-capitalization)
 - [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1452334458066149377)
 - [Squid Game cryptocurrency rockets in first few days of trading - BBC News](https://www.bbc.com/news/business-59059097)

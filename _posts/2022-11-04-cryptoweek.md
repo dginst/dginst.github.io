@@ -31,13 +31,13 @@ banner:
 
 ### Ecosystem - Binance
 
-- [Binance’s CEO Confirms Participating as Equity Investor in Musk’s Twitter Takeover - CoinDesk](https://www.coindesk.com/business/2022/10/28/binances-cz-confirms-participating-as-equity-investor-in-musks-twitter-takeover)
+- [Binance's CEO Confirms Participating as Equity Investor in Musk's Twitter Takeover - CoinDesk](https://www.coindesk.com/business/2022/10/28/binances-cz-confirms-participating-as-equity-investor-in-musks-twitter-takeover)
 - [Binance CEO Zhao Considering Buying Banks - CoinDesk](https://www.coindesk.com/business/2022/11/02/binance-ceo-zhao-considering-buying-banks-report)
 - [Crypto Exchange Binance, With Over $1 Billion to Spend, Weighs Buying a Bank - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-02/crypto-exchange-binance-with-over-1-billion-to-spend-weighs-buying-a-bank)
 
 ### Ecosystem - FTX
 
-- [Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet - CoinDesk](https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet)
+- [Divisions in Sam Bankman-Fried's Crypto Empire Blur on His Trading Titan Alameda's Balance Sheet - CoinDesk](https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet)
 
 ### Ecosystem - Celsius
 
@@ -75,7 +75,7 @@ banner:
 
 ### Regulation - US
 
-- [Biden’s White House Is Shutting Out Congress From Its Crypto-Policy Framework - Forbes](https://www.forbes.com/sites/jasonbrett/2022/11/03/bidens-white-house-is-shutting-out-congress-from-its-crypto-policy-framework)
+- [Biden's White House Is Shutting Out Congress From Its Crypto-Policy Framework - Forbes](https://www.forbes.com/sites/jasonbrett/2022/11/03/bidens-white-house-is-shutting-out-congress-from-its-crypto-policy-framework)
 
 ### Regulation - CBDC
 

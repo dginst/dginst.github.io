@@ -37,7 +37,7 @@ banner:
 - [Switzerland's SEBA Bank wants to use Aave's institutional DeFi platform](https://www.theblockcrypto.com/linked/128281/switzerlands-seba-bank-wants-to-use-aaves-institutional-defi-platform)
 - [Terra Becomes Second-Largest DeFi Protocol, Surpassing Binance Smart Chain](https://www.coindesk.com/markets/2021/12/21/terra-becomes-second-largest-defi-protocol-surpassing-binance-smart-chain/)
 - [Do Kwon, Terra Claim SEC Violated Procedure in Ongoing Legal Fight](https://www.coindesk.com/policy/2021/12/20/do-kwon-terra-claim-sec-violated-procedure-in-ongoing-legal-fight/)
-- [Terraform Labs Hits Back at SEC: ‘No Jurisdiction over Do Kwon' - Blockworks](https://blockworks.co/terraform-labs-hits-back-at-sec-no-jurisdiction-over-do-kwon/)
+- [Terraform Labs Hits Back at SEC: 'No Jurisdiction over Do Kwon' - Blockworks](https://blockworks.co/terraform-labs-hits-back-at-sec-no-jurisdiction-over-do-kwon/)
 - [Parachains officially launch on Polkadot network](https://www.theblockcrypto.com/linked/128026/parachains-officially-launch-on-polkadot-network)
 - [Polkadot Launches Parachains, Increasing Scalability - Decrypt](https://decrypt.co/88850/polkadot-launches-first-5-parachains)
 - [Uniswap Launches on Polygon, Driving MATIC to All-Time Highs - Coindesk](https://www.coindesk.com/markets/2021/12/22/uniswap-launches-on-polygon-driving-matic-to-all-time-highs/)

@@ -28,7 +28,7 @@ banner:
 ### Ecosystem - El Salvador
 
 - [El Salvador purchases more bitcoin worth $15 million on market dip - theblockcrypto](https://www.theblockcrypto.com/post/131243/el-salvador-purchases-more-bitcoin-worth-15-million-on-market-dip)
-- [IMF Urges El Salvador to Discontinue Bitcoin’s Legal Tender Status - Coindesk](https://www.coindesk.com/policy/2022/01/25/imf-urges-el-salvador-to-discontinue-bitcoins-legal-tender-status/)
+- [IMF Urges El Salvador to Discontinue Bitcoin's Legal Tender Status - Coindesk](https://www.coindesk.com/policy/2022/01/25/imf-urges-el-salvador-to-discontinue-bitcoins-legal-tender-status/)
 - [IMF directors urge El Salvador to remove Bitcoin as legal tender - theblockcrypto](https://www.theblockcrypto.com/linked/131525/imf-directors-urge-el-salvador-to-remove-bitcoin-as-legal-tender)
 - [IMF Executive Board Concludes 2021 Article IV Consultation with El Salvador - IMF](https://www.imf.org/en/News/Articles/2022/01/25/pr2213-el-salvador-imf-executive-board-concludes-2021-article-iv-consultation)
 - [Nayib Bukeles - Twitter](https://twitter.com/nayibbukele/status/1486162932224479235)
@@ -50,14 +50,14 @@ banner:
 - [Crypto - McDonald's](https://twitter.com/McDonalds/status/1485726032967704582)
 - [Elon Musk: "I will eat a happy meal on tv if @McDonalds accepts Dogecoin" - Twitter](https://twitter.com/elonmusk/status/1485953263040188416)
 - [McDonald's: "only if @tesla accepts grimacecoin" - Twitter](https://twitter.com/McDonalds/status/1486115285983805444)
-- [Fake Grimacecoin Jumps 285,000% After McDonald's’ Tesla Joke - Coindesk](https://www.coindesk.com/markets/2022/01/26/fake-grimacecoin-jumps-285000-after-mcdonalds-tesla-joke/)
+- [Fake Grimacecoin Jumps 285,000% After McDonald's' Tesla Joke - Coindesk](https://www.coindesk.com/markets/2022/01/26/fake-grimacecoin-jumps-285000-after-mcdonalds-tesla-joke/)
 - [McDonald's jumps on Bitcoin memewagon, Crypto Twitter responds - cointelegraph](https://cointelegraph.com/news/mcdonald-s-jumps-on-bitcoin-memewagon-crypto-twitter-responds)
 
 ### Altcoin - Stablecoin
 
 - [Diem to Sell Assets to Silvergate Bank for $200M - Coindesk](https://www.coindesk.com/business/2022/01/27/diem-to-sell-assets-to-silvergate-bank-for-200m-report/)
 - [Meta to wind down stablecoin project Diem with $200 million asset sale - theblockcrypto](https://www.theblockcrypto.com/linked/132015/meta-to-wind-down-stablecoin-project-diem-with-200-million-asset-sale-report)
-- [Diem Reportedly Trying to Sell Assets—Is This the End of Facebook’s Stablecoin Ambitions? - Decrypt](https://decrypt.co/91245/facebook-diem-trying-sell-assets-spelling-end-stablecoin-ambitions-report)
+- [Diem Reportedly Trying to Sell Assets—Is This the End of Facebook's Stablecoin Ambitions? - Decrypt](https://decrypt.co/91245/facebook-diem-trying-sell-assets-spelling-end-stablecoin-ambitions-report)
 
 ### Regulation - Central Bank Digital Currency (CBDC)
 

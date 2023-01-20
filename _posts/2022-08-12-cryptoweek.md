@@ -33,11 +33,11 @@ banner:
 ### Ecosystem - Tornado Cash Ban
 
 - [Crypto-Mixing Service Tornado Cash Blacklisted by US Treasury - Coindesk](https://www.coindesk.com/policy/2022/08/08/crypto-mixing-service-tornado-cash-blacklisted-by-us-treasury/)
-- [US Treasury imposes sanctions on ‘crypto mixer’ over alleged laundering - Financial Times](https://www.ft.com/content/7b6b7513-8b57-4582-9c98-82c48f756f94)
+- [US Treasury imposes sanctions on 'crypto mixer' over alleged laundering - Financial Times](https://www.ft.com/content/7b6b7513-8b57-4582-9c98-82c48f756f94)
 - [Crypto mixing service Tornado Cash blacklisted by Treasury Department - CNBC](https://www.cnbc.com/2022/08/08/crypto-mixing-service-tornado-cash-blacklisted-by-treasury-department-.html)
 - [U.S. Sanctions Crypto Platform Tornado Cash, Says It Laundered Billions - WSJ](https://www.wsj.com/articles/u-s-sanctions-virtual-currency-mixer-tornado-cash-11659971832)
 - [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash - US Treasury](https://home.treasury.gov/news/press-releases/jy0916)
-- [OFAC Sanctions Popular Ethereum Mixer Tornado Cash for Laundering Crypto Stolen by North Korea’s Lazarus Group - Chainalysis](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/)
+- [OFAC Sanctions Popular Ethereum Mixer Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group - Chainalysis](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/)
 - [Tornado Cash Crackdown Shows Limits of Regulating Cryptocurrency Services - WSJ](https://www.wsj.com/articles/tornado-cash-crackdown-shows-limits-of-regulating-cryptocurrency-services-11660220579)
 - [What Happens When You Try to Sanction a Protocol Like Tornado Cash - Coindesk](https://www.coindesk.com/layer2/2022/08/10/what-happens-when-you-try-to-sanction-a-protocol-like-tornado-cash/)
 - [Tornado Cash User 'Dusts' Hundreds of Public Wallets - Decrypt](https://decrypt.co/107090/tornado-cash-dusts-public-wallets-jimmy-fallon-brian-armstrong-steve-aoki-logan-paul)
@@ -57,7 +57,7 @@ banner:
 ### Ecosystem - ETHPoW
 
 - [JPMorgan: Ethereum Miners Face an Abrupt Change Following the Merge - Coindesk](https://www.coindesk.com/tech/2022/08/11/jpmorgan-ethereum-miners-face-an-abrupt-change-following-the-merge)
-- [USDC and Ethereum’s Upcoming Merge - Circle](https://www.circle.com/blog/usdc-and-ethereums-upcoming-merge)
+- [USDC and Ethereum's Upcoming Merge - Circle](https://www.circle.com/blog/usdc-and-ethereums-upcoming-merge)
 - [USDT Supports ETH PoS Transition - Tether](https://tether.to/en/usdt-supports-eth-proof-of-stake-transition/)
 - [Vitalik Buterin Plays Down Impact of Ethereum Forks After Merge - Coindesk](https://www.coindesk.com/tech/2022/08/08/vitalik-buterin-plays-down-impact-of-ethereum-forks-after-merge/)
 - [Potential Ethereum proof-of-work fork unlikely to succeed, says Vitalik Buterin - The Block](https://www.theblock.co/post/162066/potential-ethereum-proof-of-work-fork-unlikely-to-succeed-says-vitalik-buterin)
@@ -68,7 +68,7 @@ banner:
 
 - [Ethereum Goerli testnet merge goes live before move to proof-of-stake - CNBC](https://www.cnbc.com/2022/08/10/ethereum-goerli-testnet-merge-goes-live-before-move-to-proof-of-stake.html)
 - [Ethereum's final proof-of-stake 'test merge' is live on Goerli - The Block](https://www.theblock.co/post/162913/ethereums-final-proof-of-stake-test-merge-is-live-on-goerli)
-- [Ethereum’s Third and Final Testnet Merge Goes Live on Goerli - Coindesk](https://www.coindesk.com/tech/2022/08/11/ethereums-third-and-final-testnet-merge-goes-live-on-goerli/)
+- [Ethereum's Third and Final Testnet Merge Goes Live on Goerli - Coindesk](https://www.coindesk.com/tech/2022/08/11/ethereums-third-and-final-testnet-merge-goes-live-on-goerli/)
 - [Ethereum (ETH) Merge Planned for September After Successful Final Test - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-11/ethereum-developers-set-september-target-for-software-update)
 - [Ether Jumps Before Likely Final Test for Major Software Upgrade (ETH) - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-10/ether-jumps-before-likely-final-test-for-major-software-upgrade)
 - [Understanding the Ethereum Merge: How and Why the Blockchain is Moving to Proof-of-Stake - Coindesk](https://www.coindesk.com/learn/what-is-the-merge-and-why-has-it-taken-so-long/)
@@ -77,7 +77,7 @@ banner:
 ### Ecosystem - Lending Crisis
 
 - [Ripple Labs interested in bankrupt crypto lender Celsius' assets - Reuters](https://www.reuters.com/business/finance/exclusive-ripple-labs-interested-bankrupt-crypto-lender-celsius-assets-2022-08-10)
-- [Sam Bankman-Fried: Voyager Deal Likely ‘$70M Down the Drain’ - Decrypt](https://decrypt.co/107143/sam-bankman-fried-voyager-deal-likely-70m-down-the-drain)
+- [Sam Bankman-Fried: Voyager Deal Likely '$70M Down the Drain' - Decrypt](https://decrypt.co/107143/sam-bankman-fried-voyager-deal-likely-70m-down-the-drain)
 - [Sam Bankman-Fried's Alameda, Voyager Digital spar in bankruptcy court - CNBC](https://www.cnbc.com/2022/08/09/sam-bankman-frieds-alameda-voyager-digital-spar-in-bankruptcy-court.html)
 - [Crypto exchange Hotbit suspends trading and withdrawals - The Block](https://www.theblock.co/post/162782/crypto-exchange-hotbit-suspends-trading-and-withdrawals-amid-criminal-investigation-into-former-employee)
 
@@ -109,4 +109,4 @@ banner:
 
 ### Ecosystem - Blockchain
 
-- [TradeFi’s Never-Ending Blockchain Odyssey Down Under - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-08-11/tradefi-s-never-ending-blockchain-odyssey-down-under)
+- [TradeFi's Never-Ending Blockchain Odyssey Down Under - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-08-11/tradefi-s-never-ending-blockchain-odyssey-down-under)

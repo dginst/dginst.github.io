@@ -67,7 +67,7 @@ banner:
 
 ### Ecosystem
 
-- [After a bitcoin crackdown, China now calls it an ‘investment alternative' in a significant shift in tone - CNBC](https://www.cnbc.com/2021/04/19/china-calls-bitcoin-an-investment-alternative-marking-shift-in-tone.html)
+- [After a bitcoin crackdown, China now calls it an 'investment alternative' in a significant shift in tone - CNBC](https://www.cnbc.com/2021/04/19/china-calls-bitcoin-an-investment-alternative-marking-shift-in-tone.html)
 - [PBoC Softens Tone Toward Bitcoin, Stablecoins, Calling Them 'Alternative Investment' - CoinDesk](https://www.coindesk.com/peoples-bank-china-deputy-governor-li-bo-bitcoin)
 - [PBoC official says China regards crypto assets as investment alternatives - The block crypto](https://www.theblockcrypto.com/post/102044/pboc-bitcoin-crypto-asset-investment-alternative)
 - [Morgan Stanley Bitcoin Fund Draws $29.4M in 2 Weeks, Filings Show - Coindesk](https://www.coindesk.com/morgan-stanley-bitcoin-fund-draws-29-4m-in-2-weeks-filings-show)
@@ -79,7 +79,7 @@ banner:
 ### Environmental Sustainability
 
 - [Ark Investment Makes Its Case for a Greener Bitcoin - Cryptobriefing](https://cryptobriefing.com/ark-investment-makes-its-case-greener-bitcoin/)
-- [Square Defends Bitcoin as ‘Green' - Citi Disagrees - Decrypt](https://decrypt.co/68777/square-ark-defend-bitcoin-as-green-citi-disagrees)
+- [Square Defends Bitcoin as 'Green' - Citi Disagrees - Decrypt](https://decrypt.co/68777/square-ark-defend-bitcoin-as-green-citi-disagrees)
 - [Bitcoin is Key to an Abundant, Clean Energy Future - BCEI White Paper](https://assets.ctfassets.net/2d5q1td6cyxq/5mRjc9X5LTXFFihIlTt7QK/e7bcba47217b60423a01a357e036105e/BCEI_White_Paper.pdf)
 
 ### Tech

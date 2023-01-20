@@ -24,7 +24,7 @@ banner:
 
 - [Digital Currency and Blockchain Product Lead Job Post - Amazon](https://www.amazon.jobs/en/jobs/1644513/digital-currency-and-blockchain-product-lead)
 - [Amazon Is Looking to Hire a Digital Currency Lead - CoinDesk](https://www.coindesk.com/amazon-is-looking-to-hire-a-digital-currency-lead)
-- [Amazon ‘definitely' lining up Bitcoin payments and token, confirms insider - CityAM](https://www.cityam.com/amazon-definitely-lining-up-bitcoin-payments-and-token-confirms-insider/)
+- [Amazon 'definitely' lining up Bitcoin payments and token, confirms insider - CityAM](https://www.cityam.com/amazon-definitely-lining-up-bitcoin-payments-and-token-confirms-insider/)
 - [Amazon's Cryptocurrency Plan Could Be a Game Changer - Barron's](https://www.barrons.com/articles/things-to-know-today-51627294089)
 - [Amazon: No, We Have No Plans to Accept Bitcoin Payments - CoinDesk](https://www.coindesk.com/amazon-no-we-have-no-plans-to-accept-bitcoin-payments)
 
@@ -43,13 +43,13 @@ banner:
 - [From Sen. Elizabeth Warren to the Secretary of the Treasury Janet Yellen](https://www.warren.senate.gov/imo/media/doc/FSOC%20Crypto%20Letter%2007.26.2021.pdf)
 - [Ferdinando M. Ametrano on _shadowy super-coders_ - LinkedIn](https://www.linkedin.com/posts/ferdinandoametrano_as-a-coder-ive-always-dreamed-of-being-activity-6826454429634478080-6uG1/)
 - [Senate Banking Committee presses crypto experts on systemic risk at hearing - CNBC](https://www.cnbc.com/2021/07/27/senate-banking-committee-presses-crypto-experts-on-systemic-risk-at-hearing.html)
-- [UCL Centre for Blockchain Research Associate: Crypto Miners ‘Need More Scrutiny' - Blockworks](https://blockworks.co/ucl-center-for-blockchain-research-associate-crypto-miners-need-more-scrutiny/)
+- [UCL Centre for Blockchain Research Associate: Crypto Miners 'Need More Scrutiny' - Blockworks](https://blockworks.co/ucl-center-for-blockchain-research-associate-crypto-miners-need-more-scrutiny/)
 - [UK Treasury moves toward implementing FATF's crypto 'travel rule' - The Block](https://www.theblockcrypto.com/linked/112329/uk-treasury-moves-toward-implementing-fatfs-crypto-travel-rule-with-public-consultation)
 - [Regulators are Coming for Crypto, Here's How Firms are Reacting - Blockworks](https://blockworks.co/regulators-are-coming-for-crypto-heres-how-firms-are-reacting/)
 
 ### Regulation - Binance
 
-- [Binance US Aims to Copy Coinbase ‘Playbook' and Go Public - Decrypt](https://decrypt.co/76756/binance-us-coinbase-playbook-go-public-ipo-ceo-cz)
+- [Binance US Aims to Copy Coinbase 'Playbook' and Go Public - Decrypt](https://decrypt.co/76756/binance-us-coinbase-playbook-go-public-ipo-ceo-cz)
 - [Binance Margin to Delist AUD, EUR & GBP Pairs - Binance Support](https://www.binance.com/en/support/announcement/0bb891ff23a1463b95851f76a1ad329f)
 - [SC Takes Enforcement Actions on Binance for Illegally Operating in Malaysia - Securities Commission Malaysia](https://www.sc.com.my/resources/media/media-release/sc-takes-enforcement-actions-on-binance-for-illegally-operating-in-malaysia)
 - [Unavailability of Futures and Derivatives Products in Germany, Italy, and the Netherlands - Binance Support](https://www.binance.com/en/support/announcement/f72d0fff2bd24b488213fa30284dd4cd)

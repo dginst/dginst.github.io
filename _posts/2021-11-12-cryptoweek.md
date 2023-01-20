@@ -23,8 +23,8 @@ banner:
 - [JPMorgan Doubles Down On Its Massive Bitcoin Price Prediction—But Adds A Serious Warning - Forber](https://www.forbes.com/sites/billybambrough/2021/11/04/jpmorgan-doubles-down-on-its-massive-bitcoin-price-prediction-but-adds-a-serious-warning/)
 - [Bitcoin Touched $68,600 For its New ATH: Cardano Soars 12% (Market Watch) - CryptoPotato](https://cryptopotato.com/bitcoin-touched-68600-for-its-new-ath-cardano-soars-12-market-watch/)
 - [Ether All-time High as Total Market Cap Nears $3 Trillion - Blockworks](https://blockworks.co/ether-all-time-high-as-total-market-cap-nears-3-trillion/)
-- [Tim Cook says he owns cryptocurrency and he's been ‘interested in it for a while' - CNBC](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html)
-- [Apple's Tim Cook Says He Owns Cryptocurrency, Calls It ‘Reasonable' - Forbes](https://www.forbes.com/sites/nicholasreimann/2021/11/09/apples-tim-cook-says-he-owns-cryptocurrency-calls-it-reasonable)
+- [Tim Cook says he owns cryptocurrency and he's been 'interested in it for a while' - CNBC](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html)
+- [Apple's Tim Cook Says He Owns Cryptocurrency, Calls It 'Reasonable' - Forbes](https://www.forbes.com/sites/nicholasreimann/2021/11/09/apples-tim-cook-says-he-owns-cryptocurrency-calls-it-reasonable)
 - [Tim Cook Owns Crypto, but Apple Won't Invest Its Cash Into It - WSJ](https://www.wsj.com/articles/tim-cook-says-apple-is-looking-into-cryptocurrency-11636475111)
 - [Apple CEO Tim Cook Reveals He Owns Crypto but Has No Plans to Buy It for the Company - CoinDesk](https://www.coindesk.com/business/2021/11/09/apple-ceo-tim-cook-reveals-he-owns-crypto-but-has-no-plans-to-buy-it-for-the-company/)
 - [Once dominated by retail investors, crypto sector is now attracting major institutional money - The Globe and Mail](https://www.theglobeandmail.com/business/article-once-dominated-by-retail-investors-crypto-sector-is-now-attracting)
@@ -64,7 +64,7 @@ banner:
 
 ### Ecosystem - Defi
 
-- [Investors warned that crypto ‘yield' products are not bonds - Financial Times](https://www.ft.com/content/cfc4eece-df0f-479f-ad51-56300dfa3149)
+- [Investors warned that crypto 'yield' products are not bonds - Financial Times](https://www.ft.com/content/cfc4eece-df0f-479f-ad51-56300dfa3149)
 
 ### Regulation
 

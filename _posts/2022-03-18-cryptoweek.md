@@ -48,7 +48,7 @@ banner:
 
 ### Regulation - South America and IMF
 
-- [El Salvador prepares to launch bitcoin bond: ‘If this fails, a lot of doors close’ - Financial Times](https://www.ft.com/content/5972099a-8a8c-4a85-8216-912cd78b710b)
+- [El Salvador prepares to launch bitcoin bond: 'If this fails, a lot of doors close' - Financial Times](https://www.ft.com/content/5972099a-8a8c-4a85-8216-912cd78b710b)
 - [IMF Asked Argentina to Discourage the Use of Bitcoin By DailyCoin](https://www.investing.com/news/cryptocurrency-news/imf-asked-argentina-to-discourage-the-use-of-bitcoin-2786473)
 - [Argentine Congress Approves IMF Debt Deal That Would Discourage Crypto Usage](https://www.coindesk.com/policy/2022/03/18/argentine-congress-approves-imf-debt-deal-that-would-discourage-crypto-usage/)
 
@@ -67,7 +67,7 @@ banner:
 - [Mark Zuckerberg Says NFTs Are Coming Soon to Instagram](https://www.coindesk.com/business/2022/03/15/mark-zuckerberg-says-nfts-are-coming-soon-to-instagram/)
 - [Rarible Bests OpenSea on Multi-Chain Support With Addition of Polygon NFTs](https://www.coindesk.com/business/2022/03/17/rarible-bests-opensea-on-multi-chain-support-with-addition-of-polygon-nfts/)
 - [Bored Ape Yacht Club - Twitter](https://twitter.com/BoredApeYC/status/1504202508633362436)
-- [Artnet News: ‘The Creators of Bored Ape Yacht Club Want to Become the Amazon of the NFT Space. Can They Pull It Off?’ – Amy Castor](https://amycastor.com/2022/03/14/artnet-news-the-creators-of-bored-ape-yacht-club-want-to-become-the-amazon-of-the-nft-space-can-they-pull-it-off)
+- [Artnet News: 'The Creators of Bored Ape Yacht Club Want to Become the Amazon of the NFT Space. Can They Pull It Off?' – Amy Castor](https://amycastor.com/2022/03/14/artnet-news-the-creators-of-bored-ape-yacht-club-want-to-become-the-amazon-of-the-nft-space-can-they-pull-it-off)
 - [Bored Apes Yacht Club launches Apecoin. It looks like an unregistered penny stock offering   – Amy Castor](https://amycastor.com/2022/03/17/bored-apes-yacht-club-launches-apecoin-it-looks-like-an-unregistered-penny-stock-offering)
 
 ### Ecosystem - Metamask and Consensys
@@ -93,7 +93,7 @@ banner:
 ### Opinions
 
 - [Elon Musk - Twitter](https://twitter.com/elonmusk/status/1503222294277197829)
-- [Governments See Crypto As An ‘Evolving Threat’: Edward Snowden - Decrypt](https://decrypt.co/95162/governments-see-crypto-as-an-evolving-threat-edward-snowden)
+- [Governments See Crypto As An 'Evolving Threat': Edward Snowden - Decrypt](https://decrypt.co/95162/governments-see-crypto-as-an-evolving-threat-edward-snowden)
 
 ### Guerre di Rete
 

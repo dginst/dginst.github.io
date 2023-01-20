@@ -25,7 +25,7 @@ banner:
 
 - [BlackRock Looks to Offer Crypto Services as Client Demand Rises](https://www.coindesk.com/business/2022/03/24/blackrocks-fink-says-ukraine-war-could-accelerate-crypto-adoption-report/)
 - [BlackRock Planning to Offer Crypto Trading, Sources Say](https://www.coindesk.com/business/2022/02/09/blackrock-planning-to-offer-crypto-trading-sources-say/)
-- [Ray Dalio’s Bridgewater Investing in Crypto Fund](https://www.coindesk.com/business/2022/03/21/ray-dalios-bridgewater-investing-in-crypto-fund-sources/)
+- [Ray Dalio's Bridgewater Investing in Crypto Fund](https://www.coindesk.com/business/2022/03/21/ray-dalios-bridgewater-investing-in-crypto-fund-sources/)
 - [Goldman Sachs makes first OTC crypto options trade as it expands digital assets team](https://www.theblockcrypto.com/linked/138626/goldman-sachs-otc-crypto-options-trade)
 - [Almost half of Germans to invest in crypto](https://cointelegraph.com/news/almost-half-of-germans-to-invest-in-crypto-report)
 - [SEC Delays Spot Bitcoin ETF Offerings From WisdomTree and One River](https://www.coindesk.com/policy/2022/03/21/sec-delays-spot-bitcoin-etf-offerings-from-wisdomtree-and-one-river/)
@@ -46,8 +46,8 @@ banner:
 
 ### Regulation
 
-- [India’s Proposed Crypto Tax Rules Likely to Become Law Thursday](https://www.coindesk.com/policy/2022/03/23/indias-proposed-crypto-tax-rules-likely-to-become-law-thursday/)
-- [India’s Crypto Industry Fears Proposed Tax Rules Will Increase ‘Brain Drain’](https://www.coindesk.com/policy/2022/03/23/indias-crypto-industry-fears-proposed-tax-rules-will-increase-brain-drain/)
+- [India's Proposed Crypto Tax Rules Likely to Become Law Thursday](https://www.coindesk.com/policy/2022/03/23/indias-proposed-crypto-tax-rules-likely-to-become-law-thursday/)
+- [India's Crypto Industry Fears Proposed Tax Rules Will Increase 'Brain Drain'](https://www.coindesk.com/policy/2022/03/23/indias-crypto-industry-fears-proposed-tax-rules-will-increase-brain-drain/)
 - [Fed's Powell Again Raises Alarms Over 'Financial Stability' of Crypto Products - Decrypt](https://decrypt.co/95817/fed-powell-alarms-financial-stability-crypto)
 - [Financial Stability in Focus: Cryptoassets and decentralised finance - Bank of England](https://www.bankofengland.co.uk/financial-stability-in-focus/2022/march-2022)
 - [EU Set to Experiment With Blockchain-Based Stock, Bond and Fund Trading](https://www.coindesk.com/policy/2022/03/23/eu-set-to-experiment-with-blockchain-based-stock-bond-and-fund-trading/)
@@ -85,13 +85,13 @@ banner:
 ### Ecosystem - NFT
 
 - [Bored Ape Yacht Club creator raises $450 million to build NFT metaverse - The Verge](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side)
-- [Sotheby’s Expands NFT Arm With Liverpool FC Partnership](https://www.coindesk.com/business/2022/03/24/sothebys-expands-nft-arm-with-liverpool-fc-partnership/)
+- [Sotheby's Expands NFT Arm With Liverpool FC Partnership](https://www.coindesk.com/business/2022/03/24/sothebys-expands-nft-arm-with-liverpool-fc-partnership/)
 - [GameStop NFT Marketplace, powered by Loopring L2 - by Adam Browman, Loopring Protocol](https://medium.loopring.io/gamestop-nft-marketplace-powered-by-loopring-l2-6cdb9289d937)
 
 ### Ecosystem - Mining
 
 - [Mining Week 2022 by CoinDesk](https://www.coindesk.com/layer2/miningweek/)
-- [Why Some Bitcoin Devs Say Lasers Can Cut Mining’s Energy Costs](https://www.coindesk.com/layer2/miningweek/2022/03/22/why-some-bitcoin-devs-say-lasers-can-cut-minings-energy-costs/)
+- [Why Some Bitcoin Devs Say Lasers Can Cut Mining's Energy Costs](https://www.coindesk.com/layer2/miningweek/2022/03/22/why-some-bitcoin-devs-say-lasers-can-cut-minings-energy-costs/)
 - [Bitdeer and BitFuFu to Test US Stock Market's Crypto Mining Appetite](https://www.coindesk.com/layer2/miningweek/2022/03/22/bitmain-redux-bitdeer-and-bitfufu-are-about-to-test-us-stock-markets-mining-appetite/)
 
 ### Opinions

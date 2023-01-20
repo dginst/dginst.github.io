@@ -25,7 +25,7 @@ banner:
 ### Ecosystem - Mining
 
 - [Hash Rate - Blockchain.com](https://www.blockchain.com/charts/hash-rate)
-- [Cryptocurrency Companies Are Leaving China in ‘Great Mining Migration' - WSJ](https://www.wsj.com/articles/cryptocurrency-companies-are-leaving-china-in-great-mining-migration-11629624602)
+- [Cryptocurrency Companies Are Leaving China in 'Great Mining Migration' - WSJ](https://www.wsj.com/articles/cryptocurrency-companies-are-leaving-china-in-great-mining-migration-11629624602)
 - [Chinese province to cut off Bitcoin miners from hydropower stations - Cointelegraph](https://cointelegraph.com/news/chinese-province-to-cut-off-bitcoin-miners-from-hydropower-stations)
 - [BlackRock Has Almost $400M Invested in Bitcoin Mining Stocks: Report - CoinDesk](https://www.coindesk.com/blackrock-has-almost-400m-invested-in-bitcoin-mining-stocks-report)
 

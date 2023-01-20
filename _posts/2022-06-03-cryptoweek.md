@@ -24,7 +24,7 @@ banner:
 - [Coinbase Announces Cost-Cutting Measures as Crypto Firms Face Bear Market - Coindesk](https://www.coindesk.com/business/2022/06/02/coinbase-announces-cost-cutting-measures-as-crypto-firms-face-bear-market-woes)
 - [A Message from Cameron & Tyler - Gemini](https://www.gemini.com/blog/a-message-from-cameron-and-tyler)
 - [Crypto Firms, Especially Exchanges, Slash Jobs as Market Rout Continues - Coindesk](https://www.coindesk.com/business/2022/06/03/crypto-firms-especially-exchanges-slash-jobs-as-market-rout-continues/)
-- [Fidelity’s Crypto-Focused Business Plans Tech Hiring Spree - WSJ](https://www.wsj.com/articles/fidelitys-crypto-focused-business-plans-tech-hiring-spree-11653991200)
+- [Fidelity's Crypto-Focused Business Plans Tech Hiring Spree - WSJ](https://www.wsj.com/articles/fidelitys-crypto-focused-business-plans-tech-hiring-spree-11653991200)
 
 ### Ecosystem - Solana
 
@@ -35,13 +35,13 @@ banner:
 ### Ecosystem - Optimism
 
 - [Optimism falters under high traffic following OP token launch - theblockcrypto](https://www.theblockcrypto.com/linked/149504/optimism-falters-under-high-traffic-following-op-token-launch)
-- [Optimism’s governance token OP officially goes live - theblockcrypto](https://www.theblockcrypto.com/linked/149464/optimisms-governance-token-officially-goes-live)
+- [Optimism's governance token OP officially goes live - theblockcrypto](https://www.theblockcrypto.com/linked/149464/optimisms-governance-token-officially-goes-live)
 
 ### Ecosystem - Terra/Luna
 
 - [Korean prosecutors summon all Terraform Labs employees: JTBC - theblockcrypto](https://www.theblockcrypto.com/post/149309/terraform-labs-employees-summoned-korea-prosecutors-ust-luna)
 - [Mirror Protocol suffers new exploit and could be drained in hours - theblockcrypto](https://www.theblockcrypto.com/post/149361/mirror-protocol-suffers-new-exploit-and-could-be-drained-in-hours)
-- [Terra’s Mirror Protocol Allegedly Suffers New Exploit - Coindesk](https://www.coindesk.com/business/2022/05/30/terras-mirror-protocol-allegedly-suffers-new-exploit)
+- [Terra's Mirror Protocol Allegedly Suffers New Exploit - Coindesk](https://www.coindesk.com/business/2022/05/30/terras-mirror-protocol-allegedly-suffers-new-exploit)
 
 ### Ecosystem - Stablecoins
 
@@ -78,7 +78,7 @@ banner:
 ### Tech - Ethereum
 
 - [Ropsten Merge Announcement - Ethereum Foundation Blog](https://blog.ethereum.org/2022/05/30/ropsten-merge-announcement/)
-- [Ethereum’s Ropsten Test Network Ready for Merge ‘Dress Rehearsal’ - Decrypt](https://decrypt.co/101707/ethereum-ropsten-test-network-ready-merge-dress-rehearsal)
+- [Ethereum's Ropsten Test Network Ready for Merge 'Dress Rehearsal' - Decrypt](https://decrypt.co/101707/ethereum-ropsten-test-network-ready-merge-dress-rehearsal)
 
 ### Tech - Bitcoin
 

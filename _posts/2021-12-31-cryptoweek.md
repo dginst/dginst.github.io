@@ -36,7 +36,7 @@ banner:
 
 - [NFT trading volume surpassed $13 billion in 2021 - theblockcrypto](https://www.theblockcrypto.com/linked/128676/nft-trading-volume-surpassed-13-billion-in-2021)
 - [NFTs and SNL: Crypto Keeps Burrowing Into the Mainstream - WSJ](https://www.wsj.com/articles/nfts-and-snl-crypto-keeps-burrowing-into-the-mainstream-11640567423)
-- [2022 Prediction: ‘Gaming Will Lead to Further Crypto Adoption' - Blockworks](https://blockworks.co/2022-prediction-gaming-will-lead-to-further-crypto-adoption/)
+- [2022 Prediction: 'Gaming Will Lead to Further Crypto Adoption' - Blockworks](https://blockworks.co/2022-prediction-gaming-will-lead-to-further-crypto-adoption/)
 
 ### Ecosystem - Binance
 
@@ -54,7 +54,7 @@ banner:
 
 - [Mexican government signals circulation of digital currency by 2024 - theblockcrypto](https://www.theblockcrypto.com/linked/128836/mexican-government-signals-circulation-of-digital-currency-by-2024)
 - [Bank of Mexico Plans to Launch Digital Currency by 2024 - WSJ](https://www.wsj.com/articles/bank-of-mexico-plans-to-launch-digital-currency-by-2024-11640896506)
-- [Swiss Central Bank Ready to Run With wCBDC in January: ‘Just Takes a Policy Decision' - Coindesk](https://www.coindesk.com/policy/2021/11/09/swiss-central-bank-ready-to-run-with-wcbdc-in-january-just-takes-a-policy-decision)
+- [Swiss Central Bank Ready to Run With wCBDC in January: 'Just Takes a Policy Decision' - Coindesk](https://www.coindesk.com/policy/2021/11/09/swiss-central-bank-ready-to-run-with-wcbdc-in-january-just-takes-a-policy-decision)
 
 ### Ecosystem - Custody
 

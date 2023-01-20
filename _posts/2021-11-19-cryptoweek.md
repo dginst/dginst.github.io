@@ -72,7 +72,7 @@ banner:
 - [USDC issuer Circle supports proposal to regulate stablecoin issuers as banks - Cointelegraph](https://cointelegraph.com/news/usdc-issuer-circle-supports-proposal-to-regulate-stablecoin-issuers-as-banks)
 - [Crypto Could Destabilize Nations, Undermine Dollar's Reserve Currency Status, Hillary Clinton Says - CoinDesk](https://www.coindesk.com/markets/2021/11/19/crypto-could-destabilize-nations-undermine-dollars-reserve-currency-status-hillary-clinton-says/)
 - [ECB Sounds Alarm Over Linkages Between Stablecoins and Conventional Financial Markets - CoinDesk](https://www.coindesk.com/policy/2021/11/17/ecb-sounds-alarm-over-linkages-between-stablecoins-and-conventional-financial-markets)
-- [ECB warns of ‘exuberance' in housing, junk bonds and crypto assets - Financial Times](https://www.ft.com/content/f540be9b-24a9-4f0e-a3bb-ce0846388b43)
+- [ECB warns of 'exuberance' in housing, junk bonds and crypto assets - Financial Times](https://www.ft.com/content/f540be9b-24a9-4f0e-a3bb-ce0846388b43)
 - [Financial Stability Review, November 2021 - ECB](https://www.ecb.europa.eu/pub/pdf/fsr/ecb.fsr202111~8b0aebc817.en.pdf)
 
 ### Regulation - CBDC
@@ -90,7 +90,7 @@ banner:
 ### Regulation - Infrastructure Bill
 
 - [President Biden Signs Infrastructure Bill Containing Crypto Broker Reporting Requirement Into Law - CoinDesk](https://www.coindesk.com/policy/2021/11/15/president-biden-signs-infrastructure-bill-containing-crypto-broker-reporting-requirement-into-law/)
-- [US lawmakers introduce bill to ‘fix' crypto reporting requirement from infrastructure law - Cointelegraph](https://cointelegraph.com/news/us-lawmakers-introduce-bill-to-fix-crypto-reporting-requirement-from-infrastructure-law)
+- [US lawmakers introduce bill to 'fix' crypto reporting requirement from infrastructure law - Cointelegraph](https://cointelegraph.com/news/us-lawmakers-introduce-bill-to-fix-crypto-reporting-requirement-from-infrastructure-law)
 - [Two Things Crypto Investors Should Know About the Infrastructure Bill President Biden Signed This Week - Time](https://time.com/nextadvisor/investing/cryptocurrency/infrastructure-bill-crypto-taxes/)
 
 ### Regulation - India
@@ -98,7 +98,7 @@ banner:
 - [India could bar transactions in crypto, permit holding as assets - paper - Reuters](https://www.reuters.com/world/india/india-could-bar-transactions-crypto-permit-holding-assets-paper-2021-11-17)
 - [India may create obstacles to crypto trading and holding - Reuters](https://www.reuters.com/markets/us/exclusive-india-may-create-obstacles-crypto-trading-holding-sources-2021-11-18/)
 - [India to Ban Crypto as Payment Method but Regulate as Asset - CoinDesk](https://www.coindesk.com/policy/2021/11/17/india-to-ban-crypto-as-payment-method-but-regulate-as-asset-report/)
-- [Crypto map: PM's meet calls for ‘progressive' steps, caution over hype - The Indian Express](https://indianexpress.com/article/india/narendra-modi-meet-cryptocurrency-money-laundering-terror-financing-risks-7621499/)
+- [Crypto map: PM's meet calls for 'progressive' steps, caution over hype - The Indian Express](https://indianexpress.com/article/india/narendra-modi-meet-cryptocurrency-money-laundering-terror-financing-risks-7621499/)
 - [Indian Central Bank Governor Says Blockchain Technology Can Thrive Without Cryptocurrencies - CoinDesk](https://www.coindesk.com/policy/2021/11/17/indias-central-bank-governor-says-blockchain-technology-can-thrive-without-cryptocurrencies/)
 - [Indian Central Bank May Pilot Test CBDC in 2022: Report - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indian-central-bank-may-pilot-test-cbdc-in-2022-report/)
 - [India's Modi Asks Democracies to Cooperate on Crypto - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indias-modi-calls-on-democracies-to-cooperate-on-crypto/)

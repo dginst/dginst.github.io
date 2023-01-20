@@ -16,7 +16,7 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-- [On Bitcoin’s 14th Birthday, Its 1,690,706,971% Gain Looks Kind of Normal - Bloomberg](https://www.bloomberg.com/news/articles/2023-01-03/on-its-14th-birthday-bitcoin-s-1-690-706-971-gain-looks-kind-of-normal)
+- [On Bitcoin's 14th Birthday, Its 1,690,706,971% Gain Looks Kind of Normal - Bloomberg](https://www.bloomberg.com/news/articles/2023-01-03/on-its-14th-birthday-bitcoin-s-1-690-706-971-gain-looks-kind-of-normal)
 
 ### Ecosystem - Contagion
 
@@ -53,7 +53,7 @@ banner:
 ### Ecosystem - Gemini
 
 - [Crypto Magnates Cameron Winklevoss and Barry Silbert Trade Barbs - WSJ](https://www.wsj.com/articles/crypto-magnates-cameron-winklevoss-and-barry-silbert-trade-barbs-11672689694)
-- [Gemini’s Cameron Winklevoss Accuses DCG CEO Barry Silbert of ‘Bad Faith’ Tactics - Bloomberg](https://www.bloomberg.com/news/articles/2023-01-02/gemini-s-cameron-winklevoss-accuses-dcg-ceo-barry-silbert-of-bad-faith-tactics)
+- [Gemini's Cameron Winklevoss Accuses DCG CEO Barry Silbert of 'Bad Faith' Tactics - Bloomberg](https://www.bloomberg.com/news/articles/2023-01-02/gemini-s-cameron-winklevoss-accuses-dcg-ceo-barry-silbert-of-bad-faith-tactics)
 - [Gemini's Winklevoss, DCG's Silbert spar over frozen funds on Genesis - The Block](https://www.theblock.co/post/198772/geminis-winklevoss-dcgs-silbert-spar-over-frozen-funds-on-genesis)
 
 ### Ecosystem - Celsius

@@ -28,7 +28,7 @@ banner:
 - [Sam Bankman-Fried's ex Caroline Ellison likely works with feds - NY Post](https://nypost.com/2022/12/14/sam-bankman-frieds-ex-caroline-ellison-likely-works-with-feds/)
 - [Embattled Crypto Firm FTX Wants to Sell Its Functioning Units, Including LedgerX - CoinDesk](https://www.coindesk.com/policy/2022/12/16/embattled-crypto-firm-ftx-wants-to-sell-its-functioning-units-including-ledgerx)
 - [Committee to represent creditors formed in FTX bankruptcy case - The Block](https://www.theblock.co/post/195429/committee-to-represent-creditors-formed-in-ftx-bankruptcy-case)
-- [Sam Bankman-Fried’s Alameda Research Secretly Funded Crypto Media Site The Block and Its CEO - CoinDesk](https://www.coindesk.com/business/2022/12/09/sam-bankman-frieds-alameda-research-secretly-funded-crypto-media-site-the-block)
+- [Sam Bankman-Fried's Alameda Research Secretly Funded Crypto Media Site The Block and Its CEO - CoinDesk](https://www.coindesk.com/business/2022/12/09/sam-bankman-frieds-alameda-research-secretly-funded-crypto-media-site-the-block)
 - [Mike McCaffrey - Twitter](https://twitter.com/McCaffrMike/status/1601304758228164608)
 - [Sam Bankman-Fried's Changpeng Zhao Feud Preluded FTX Collapse - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-13/sam-bankman-fried-s-changpeng-zhao-feud-preluded-ftx-collapse)
 
@@ -46,7 +46,7 @@ banner:
 
 ### Ecosystem - Custody
 
-- [‘99% of People' Will Lose Crypto Storing in Self-Custody: Binance CEO - Decrypt](https://decrypt.co/117214/99-people-will-lose-crypto-storing-self-custody-binance-ceo-changpeng-zhao)
+- ['99% of People' Will Lose Crypto Storing in Self-Custody: Binance CEO - Decrypt](https://decrypt.co/117214/99-people-will-lose-crypto-storing-self-custody-binance-ceo-changpeng-zhao)
 - [Changpeng Zhao - Twitter](https://twitter.com/binance/status/1602287184400326656)
 - [CEO Changpeng Zhao Won't Rescue Binance by Selling out Crypto Self-Custody - CoinDesk](https://www.coindesk.com/consensus-magazine/2022/12/15/changpeng-zhao-wont-rescue-binance-by-selling-out-crypto-self-custody)
 - [Mossa (Banca Generali) - Advisor Private](https://www.advisoronline.it/assicurazioni-e-banche/banche/68154-criptovalute-mossa-sottolinea-l-importanza-dei-wallet)

@@ -37,7 +37,7 @@ banner:
 ### Ecosystem - Celsius
 
 - [Celsius Execs Cashed out $17 Million Before Halting Withdrawals - Gizmodo](https://gizmodo.com/celsius-execs-cashed-out-bitcoin-price-crypto-ponzi-1849623526)
-- [Celsius’ Top Execs Cashed Out $17M in Crypto Before Bankruptcy - Coindesk](https://www.coindesk.com/business/2022/10/06/celsius-top-execs-cashed-out-17m-in-crypto-before-bankruptcy/)
+- [Celsius' Top Execs Cashed Out $17M in Crypto Before Bankruptcy - Coindesk](https://www.coindesk.com/business/2022/10/06/celsius-top-execs-cashed-out-17m-in-crypto-before-bankruptcy/)
 
 ### Ecosystem - Terra/Luna
 
@@ -66,17 +66,17 @@ banner:
 
 ### Regulation - EU
 
-- [The European Council passes MiCA, EU’s comprehensive crypto regulation - The Block](https://www.theblock.co/post/174994/the-european-council-passes-mica-eus-comprehensive-crypto-regulation)
+- [The European Council passes MiCA, EU's comprehensive crypto regulation - The Block](https://www.theblock.co/post/174994/the-european-council-passes-mica-eus-comprehensive-crypto-regulation)
 - [EU Seals Text of Landmark Crypto Law MiCA, Fund Transfer Rules - Coindesk](https://www.coindesk.com/policy/2022/10/05/eu-seals-text-of-landmark-crypto-law-mica-fund-transfer-rules)
 - [After 2 Years of Debate, Europe Finalizes Landmark Crypto Rules - Decrypt](https://decrypt.co/111302/after-2-years-debate-europe-finalizes-landmark-crypto-rules)
 - [Market in Crypto-Asset Regulation - EU](https://data.consilium.europa.eu/doc/document/ST-13198-2022-INIT/en/pdf)
-- [EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions - Coindesk](https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/)
+- [EU's Russian Crypto Ban Confirmed as Bloc Tightens Sanctions - Coindesk](https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/)
 - [EU bans crypto payments from Russia in new sanctions package - The Block](https://www.theblock.co/post/175263/eu-bans-crypto-payments-from-russia-in-new-sanctions-package)
-- [Why Russia Isn’t Relying on Crypto to Evade Sanctions - Coindesk](https://www.coindesk.com/layer2/2022/09/19/why-russia-isnt-relying-on-crypto-to-evade-sanctions)
+- [Why Russia Isn't Relying on Crypto to Evade Sanctions - Coindesk](https://www.coindesk.com/layer2/2022/09/19/why-russia-isnt-relying-on-crypto-to-evade-sanctions)
 
 ### Regulation - Afghanistan
 
-- [The Taliban Crushed Afghanistan’s Crypto Market, Study Says - Bloomberg](https://www.bloomberg.com/news/articles/2022-10-05/the-taliban-crushed-afghanistan-s-crypto-market-study-says)
+- [The Taliban Crushed Afghanistan's Crypto Market, Study Says - Bloomberg](https://www.bloomberg.com/news/articles/2022-10-05/the-taliban-crushed-afghanistan-s-crypto-market-study-says)
 
 ### Tech - Bitcoin
 

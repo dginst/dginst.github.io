@@ -25,8 +25,8 @@ banner:
 
 - [TerraUSD Crash Led to Vanished Savings, Shattered Dreams - WSJ](https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201)
 - [New Terra Blockchain Launch Expected Saturday, With LUNA Airdrop to Follow - Coindesk](https://www.coindesk.com/tech/2022/05/27/new-terra-blockchain-expected-to-launch-on-saturday-luna-airdrop-to-follow)
-- [$40bn crypto collapse turns South Korea against the ‘Lunatic’ leader - Financial Times](https://www.ft.com/content/c46f767c-c8e3-47cf-b0a3-46d3b84498c3)
-- [What Happened to TerraUSD’s Bitcoin Reserves - WSJ](https://www.wsj.com/articles/what-happened-to-terrausds-bitcoin-reserves-11653406869)
+- [$40bn crypto collapse turns South Korea against the 'Lunatic' leader - Financial Times](https://www.ft.com/content/c46f767c-c8e3-47cf-b0a3-46d3b84498c3)
+- [What Happened to TerraUSD's Bitcoin Reserves - WSJ](https://www.wsj.com/articles/what-happened-to-terrausds-bitcoin-reserves-11653406869)
 
 ### Ecosystem - Stablecoins
 
@@ -53,7 +53,7 @@ banner:
 ### Regulation - Portugal
 
 - [Portuguese Congress Rejects Two Bills Seeking to Tax Crypto - Coindesk](https://www.coindesk.com/policy/2022/05/26/portuguese-congress-rejects-two-bills-seeking-to-tax-crypto)
-- [Portugal’s Assembleia da Republica says no to two crypto tax bills - cointelegraph](https://cointelegraph.com/news/portugal-s-assembleia-da-republica-says-no-to-two-crypto-tax-bills)
+- [Portugal's Assembleia da Republica says no to two crypto tax bills - cointelegraph](https://cointelegraph.com/news/portugal-s-assembleia-da-republica-says-no-to-two-crypto-tax-bills)
 
 ### Regulation - CBDC
 
@@ -65,12 +65,12 @@ banner:
 
 ### Regulation - Travel Rule
 
-- [US Crypto Giants Build First Version of FATF-Compliant ‘Travel Rule’ Tool - Coindesk](https://www.coindesk.com/policy/2021/06/25/us-crypto-giants-build-first-version-of-fatf-compliant-travel-rule-tool/)
+- [US Crypto Giants Build First Version of FATF-Compliant 'Travel Rule' Tool - Coindesk](https://www.coindesk.com/policy/2021/06/25/us-crypto-giants-build-first-version-of-fatf-compliant-travel-rule-tool/)
 
 ### Regulation - ECB
 
 - [ECB chief Christine Lagarde: Crypto is 'worth nothing'](https://www.cnbc.com/2022/05/23/ecb-chief-christine-lagarde-crypto-is-worth-nothing.html)
-- [Lagarde Says Crypto Is ‘Worth Nothing’ - Bloomberg](https://www.bloomberg.com/news/articles/2022-05-21/lagarde-says-crypto-is-worth-nothing-and-should-be-regulated)
+- [Lagarde Says Crypto Is 'Worth Nothing' - Bloomberg](https://www.bloomberg.com/news/articles/2022-05-21/lagarde-says-crypto-is-worth-nothing-and-should-be-regulated)
 - [Decrypting financial stability risks in crypto-asset markets - ECB](https://www.ecb.europa.eu/pub/financial-stability/fsr/special/html/ecb.fsrart202205_02~1cc6b111b4.en.html)
 - [The ECB Warns that Crypto Risks Could Spillover into the Economy - Coindesk](https://www.coindesk.com/policy/2022/05/24/ecb-warns-that-crypto-risks-could-spill-over-into-wider-economy)
 

@@ -23,7 +23,7 @@ banner:
 - [Silvergate Bank Issues $205 Million Loan to MacroStrategy Collateralized by Bitcoin - Business Wire](https://www.businesswire.com/news/home/20220329005397/en/Silvergate-Bank-Issues-205-Million-Loan-to-MacroStrategy-Collateralized-by-Bitcoin)
 - [CME goes live with 'micro' bitcoin and ether options - theblockcrypto](https://www.theblockcrypto.com/linked/139551/cme-goes-live-with-micro-bitcoin-and-ether-options)
 - [Mike Novogratz Expecting Higher Crypto Prices This Year - BNN Bloomberg](https://www.bnnbloomberg.ca/mike-novogratz-expecting-higher-crypto-prices-this-year-1.1745862)
-- [Will Strike Announce A Partnership With Apple At Bitcoin 2022? Here’s The 411 - newsbtc](https://www.newsbtc.com/news/bitcoin/will-strike-announce-a-partnership-with-apple-at-bitcoin-2022-heres-the-411)
+- [Will Strike Announce A Partnership With Apple At Bitcoin 2022? Here's The 411 - newsbtc](https://www.newsbtc.com/news/bitcoin/will-strike-announce-a-partnership-with-apple-at-bitcoin-2022-heres-the-411)
 
 ### Regulation - UK
 
@@ -34,11 +34,11 @@ banner:
 
 - [EU's MiCA Bill Moves Forward Without Bitcoin Limiting Provision - coindesk](https://www.coindesk.com/policy/2022/03/25/eus-mica-bill-moves-forward-without-bitcoin-limiting-provision)
 - [EU lawmakers set to tighten up on crypto transfers - Reuters](https://www.reuters.com/world/europe/eu-lawmakers-set-tighten-up-crypto-transfers-2022-03-31)
-- [Making your voice heard ahead of Thursday’s critical EU vote - Coinbase Blog](https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c)
+- [Making your voice heard ahead of Thursday's critical EU vote - Coinbase Blog](https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c)
 - [EU Parliament approves rules targeting transfers to unhosted crypto wallets - theblockcrypto](https://www.theblockcrypto.com/linked/140034/eu-parliament-approves-rules-targeting-transfers-to-unhosted-crypto-wallets)
 - [EU Parliament Passes Privacy-Busting Crypto Rules Despite Industry Criticism - coindesk](https://www.coindesk.com/policy/2022/03/31/eu-parliament-votes-on-privacy-busting-crypto-rules-industry-rails-against-proposals)
-- [EU Passes Law to ‘Rein In’ Big Tech’s Domination Over Smaller Players - coindesk](https://www.coindesk.com/policy/2022/03/25/eu-passes-law-to-rein-in-big-techs-domination-over-smaller-players)
-- [ECB Official Calls for ‘Less Tolerant’ Approach to Bitcoin ‘Gambling’ - coindesk](https://www.coindesk.com/policy/2022/03/30/ecb-official-calls-for-less-tolerant-approach-to-bitcoin-gambling)
+- [EU Passes Law to 'Rein In' Big Tech's Domination Over Smaller Players - coindesk](https://www.coindesk.com/policy/2022/03/25/eu-passes-law-to-rein-in-big-techs-domination-over-smaller-players)
+- [ECB Official Calls for 'Less Tolerant' Approach to Bitcoin 'Gambling' - coindesk](https://www.coindesk.com/policy/2022/03/30/ecb-official-calls-for-less-tolerant-approach-to-bitcoin-gambling)
 
 ### Regulation - US
 
@@ -54,7 +54,7 @@ banner:
 ### Ecosystem - Brasil
 
 - [Rio de Janeiro to accept Bitcoin for real estate taxes from 2023 - cointelegraph](https://cointelegraph.com/news/rio-de-janeiro-to-accept-bitcoin-for-real-estate-taxes-from-2023)
-- [Coinbase Said Near Deal to Buy Owner of Brazil’s Largest Crypto Exchange - coindesk](https://www.coindesk.com/business/2022/03/27/coinbase-said-near-deal-to-buy-owner-of-brazils-largest-crypto-exchange-report)
+- [Coinbase Said Near Deal to Buy Owner of Brazil's Largest Crypto Exchange - coindesk](https://www.coindesk.com/business/2022/03/27/coinbase-said-near-deal-to-buy-owner-of-brazils-largest-crypto-exchange-report)
 
 ### Ecosystem - BitMEX
 
@@ -76,7 +76,7 @@ banner:
 
 ### Ecosystem - NFT
 
-- [NFTs Could Go Mainstream With Instagram’s Planned Support, Deutsche Bank Says - coindesk](https://www.coindesk.com/business/2022/03/28/nfts-could-go-mainstream-with-instagrams-planned-support-deutsche-bank-says)
+- [NFTs Could Go Mainstream With Instagram's Planned Support, Deutsche Bank Says - coindesk](https://www.coindesk.com/business/2022/03/28/nfts-could-go-mainstream-with-instagrams-planned-support-deutsche-bank-says)
 - [Citi Sees Metaverse Economy as Large as $13T by 2030 - coindesk](https://www.coindesk.com/business/2022/04/01/citi-sees-metaverse-economy-as-large-as-13t-by-2030)
 - [Visa launches program to help creators grow their businesses with NFTs - theblockcrypto](https://www.theblockcrypto.com/post/139824/visa-creator-program-nfts)
 - [OpenSea - Twitter](https://twitter.com/opensea/status/1508851483449585670)
@@ -84,7 +84,7 @@ banner:
 
 ### Ecosystem - Kraken
 
-- [Kraken Exchange Integrates Bitcoin’s Lightning Network - Bitcoin Magazine](https://bitcoinmagazine.com/business/kraken-exchange-integrates-bitcoins-lightning-network)
+- [Kraken Exchange Integrates Bitcoin's Lightning Network - Bitcoin Magazine](https://bitcoinmagazine.com/business/kraken-exchange-integrates-bitcoins-lightning-network)
 - [Kraken users report Bitcoin Lightning Network availability - cointelegraph](https://cointelegraph.com/news/kraken-users-report-bitcoin-lightning-network-availability)
 
 ### Tech - Bitcoin
