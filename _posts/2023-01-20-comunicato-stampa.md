@@ -6,7 +6,7 @@ subtitle: "Comunicato stampa"
 author: "Staff"
 image:
     thumb: 2021-10-07-2021Q3-report-bw-thumb.jpg
-youtube: b_ki1islAC0
+youtube: 
 published: true
 newsfeed: true
 ---
