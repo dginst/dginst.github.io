@@ -65,19 +65,19 @@
   eventfeed: true
   published: true
 
-- title: "Report trimestrale 2022Q2 del Digital Gold Institute"
-  subtitle: "La presentazione del report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain a cura di Ferdinando M. Ametrano."
+- title: "Report trimestrale 2023Q1 del Digital Gold Institute"
+  subtitle: "Presentazione del XV report trimestrale del Digital Gold Institute sull'ecosistema Bitcoin, crypto-asset e blockchain"
   lang: it
   city: online
-  date: 2022-07-13
+  date: 2023-04-18
   date2:
   hours: 17:30-19:00
   organizer: Digital Gold Institute
   address:
-    text: live streaming
+    text: materiale presentato
     url: https://dgi.io/reports
   info:
-    text: presto disponibili
+    text: evento a invito
     url:
   discount_code:
   discount_code_publish:
@@ -92,8 +92,8 @@
   subtitle: "La conferenza si concentra su tutti gli aspetti di Bitcoin e criptovalute, con un interesse speciale per investimenti, banche, finanza, servizi finanziari, teoria monetaria e regolazione."
   lang: en
   city: online
-  date: 2022-09-29
-  date2: 2022-09-30
+  date: 2023-09-29
+  date2: 2023-09-30
   hours:
   organizer: Crypto Asset Lab with Digital Gold Institute, European Commission, and University of Milano-Bicocca
   address:
