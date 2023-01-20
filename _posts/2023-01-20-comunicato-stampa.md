@@ -11,7 +11,7 @@ published: true
 newsfeed: true
 ---
 
-Si è svolta martedì 17 gennaio 2023 la presentazione della quattordicesima edizione del report trimestrale su ecosistema Bitcoin, crypto-asset e blockchain curato dal Digital Gold Institute, il principale think tank italiano dedicato al  fenomeno Bitcoin e alla scarsità in ambito digitale. Le slide presentate sono disponibili sul sito dell’Istituto (<www.dgi.io/reports>).
+Si è svolta martedì 17 gennaio 2023 la presentazione della quattordicesima edizione del report trimestrale su ecosistema Bitcoin, crypto-asset e blockchain curato dal Digital Gold Institute, il principale think tank italiano dedicato al  fenomeno Bitcoin e alla scarsità in ambito digitale. Le slide presentate sono disponibili sul sito dell’Istituto [www.dgi.io/reports](https://dgi.io/reports/]).
 
 **Ferdinando Ametrano**, Direttore Scientifico del DGI e docente di “Bitcoin and Blockchain Technology” a Milano-Bicocca e Parigi ESSEC Business School, ha dichiarato: “_è proseguito nel quarto trimestre 2022 il crescendo di **scandali e fallimenti che hanno coinvolto intermediari inaffidabili, con il conseguente crollo delle quotazioni**. Quanto al primo aspetto, è diventato evidente che gli esorbitanti rendimenti offerti da alcuni erano di fatto schemi di Ponzi, yielding/farming/staking hanno un rischio di controparte troppe volte sottostimato, **attori e processi non trasparenti sono da considerare inaffidabili e la segregazione tra i beni dei clienti e quelli dell’intermediario deve essere netta e chiara**_”.
 

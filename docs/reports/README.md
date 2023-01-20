@@ -4,7 +4,7 @@ comments: false
 lang: it
 title: "I report trimestrali del Digital Gold Institute"
 subtitle: "L'aggiornamento sul mondo Bitcoin, crypto-asset e blockchain"
-youtube: 4rVSj83-31Y
+youtube: 
 permalink: /reports/
 ---
 
@@ -23,7 +23,7 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
-- **2022Q4**: [slide]({{site.baseurl}}/docs/reports/2022Q4-presentation.pdf)).  
+- **2022Q4**: presentazione (video non disponibile, [slide]({{site.baseurl}}/docs/reports/2022Q4-presentation.pdf)).  
   Ospite: Francesco Avella (LL.M., Managing Partner di Studio Avella e Associati) su
   "[Manovra Finanziaria e Fiscalità Cripto: quali novità?]({{site.baseurl}}/docs/reports/2022Q4-avella.pdf)".
 - **2022Q3**: presentazione ([video](https://youtu.be/4rVSj83-31Y)

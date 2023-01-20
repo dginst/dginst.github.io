@@ -18,7 +18,7 @@ banner:
 
 ### Ecosystem - Genesis
 
-- [Genesis Initiates Process to Achieve Global Resolution to Maximize Value for All Clients and Stakeholders and Strengthen Its Business for the Future - Business Wire](https://www.businesswire.com/news/home/20230119005955/en)
+- [Genesis Initiates Process to Achieve Global Resolution - Business Wire](https://www.businesswire.com/news/home/20230119005955/en)
 - [Digital Currency Group's Genesis Global files for bankruptcy protection - The Block](https://www.theblock.co/post/190311/digital-currency-groups-genesis-global-files-for-bankruptcy-protection)
 - [Genesis' Crypto Lending Businesses File for Bankruptcy Protection - CoinDesk](https://www.coindesk.com/business/2023/01/20/genesis-global-files-for-bankruptcy-protection)
 - [Genesis owes more than $3.6 billion to top 50 creditors - The Block](https://www.theblock.co/post/204035/genesis-owes-more-than-3-6-billion-to-top-50-creditors)
