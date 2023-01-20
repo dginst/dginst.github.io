@@ -8,10 +8,12 @@ youtube: 4rVSj83-31Y
 permalink: /reports/
 ---
 
+<!-- markdownlint-disable MD033 -->
 <a
     href="https://group.intesasanpaolo.com/it/sezione-editoriale/intesa-sanpaolo-on-air?utm_campaign=GoldInstitute&utm_source=GoldInstitute&utm_medium=Banner_CPM&utm_content=DisplayAwareness&utm_term=GoldInstitute_Banner_CPM_GoldInstitute_">
     <img src="{{ site.baseurl }}/img/events/ISP_ON_AIR_LEADERBOARD_728X90.jpg" width="100%">
 </a>
+<!-- markdownlint-enable MD033 -->
 
 Il report trimestrale del Digital Gold Institute, presentato da Ferdinando Ametrano,
 copre gli eventi del mondo Bitcoin, _crypto-asset_ e blockchain:
@@ -23,7 +25,7 @@ Questi i report finora prodotti:
 
 - **2022Q4**: [slide]({{site.baseurl}}/docs/reports/2022Q4-presentation.pdf)).  
   Ospite: Francesco Avella (LL.M., Managing Partner di Studio Avella e Associati) su
-  "[Manovra Finanziaria e Fiscalità Cripto: quali novità?]({{site.baseurl}}/docs/reports/2022Q4 Francesco Avella.pdf)".
+  "[Manovra Finanziaria e Fiscalità Cripto: quali novità?]({{site.baseurl}}/docs/reports/2022Q4-avella.pdf)".
 - **2022Q3**: presentazione ([video](https://youtu.be/4rVSj83-31Y)
   e [slide]({{site.baseurl}}/docs/reports/2022Q3-presentation.pdf)).  
   Ospiti: Michele Mandelli (Managing Partner, CheckSig)
