@@ -35,6 +35,4 @@ banner:
 
 ### Regulation - US
 
-### Ecosystem - Ransomware
-
 ### Ecosystem - Mining
