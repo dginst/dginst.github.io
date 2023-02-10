@@ -72,4 +72,3 @@ banner:
 ### CheckSig
 
 - [CheckSig ottiene due brevetti per il suo protocollo di custodia cripto - AziendaBanca.it](https://www.aziendabanca.it/notizie/fintech-insurtech/checksig-protocollo-brevettato)
-
