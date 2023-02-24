@@ -53,12 +53,10 @@ banner:
 
 - [Bitcoin-Touting El Salvador President Bukele Won Over Wall Street by Paying Debt - Bloomberg](https://www.bloomberg.com/news/articles/2023-02-16/bitcoin-touting-president-won-over-wall-street-by-paying-bonds)
 
-
 ### Ecosystem - TradFi
 
 - [Credit Suisse leads $65 million Series B in digital asset firm Taurus - The Block](https://www.theblock.co/post/211162/taurus-crypto-series-b-credit-suisse)
 - [Siemens Issues Blockchain Based Euro-Denominated Bond on Polygon Blockchain - CoinDesk](https://www.coindesk.com/business/2023/02/14/siemens-issues-blockchain-based-euro-denominated-bond-on-polygon-blockchain/)
-
 
 ### Tech - Bitcoin
 
