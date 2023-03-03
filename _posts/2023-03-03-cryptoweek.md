@@ -28,7 +28,7 @@ banner:
 - [Crypto Bank Silvergate Downgraded by JPMorgan, Canaccord Amid Doubts of Firm’s Solvency - CoinDesk](https://www.coindesk.com/business/2023/03/02/silvergate-downgraded-by-jpm-canaccord-amid-doubts-of-banks-solvency)
 - [Was Silvergate on Borrowed Time as Regulators Backed Banks Away From Crypto? - CoinDesk](https://www.coindesk.com/policy/2023/03/03/was-silvergate-on-borrowed-time-as-regulators-backed-banks-away-from-crypto)
 - [FTX Crypto Derivatives Unit LedgerX to Use Signature Not Silvergate - Bloomberg](https://www.bloomberg.com/news/articles/2023-02-28/ftx-crypto-derivatives-unit-ledgerx-to-use-signature-not-silvergate)
-- [Crypto Exchange Kraken Ends Some Transactions With Signature](https://news.bloomberglaw.com/banking-law/crypto-exchange-kraken-ends-key-transactions-with-signature-bank)
+- [Crypto Exchange Kraken Ends Some Transactions With Signature - Bloomberg](https://news.bloomberglaw.com/banking-law/crypto-exchange-kraken-ends-key-transactions-with-signature-bank)
 
 ### Ecosystem - FTX
 
@@ -87,7 +87,7 @@ banner:
 ### Ecosystem - Solana
 
 - [Solana Developers Say Reason for Network Outage Still Unclear - CoinDesk](https://www.coindesk.com/tech/2023/02/28/solana-developers-say-reason-for-network-outage-still-unclear)
-- [Solana Status - Cluster Instability](https://status.solana.com/incidents/ymr0gyj9xqyz)
+- [Solana Status: Cluster Instability - Solana](https://status.solana.com/incidents/ymr0gyj9xqyz)
 
 ### Ecosystem - Bitcoin NFT / Ordinals
 
