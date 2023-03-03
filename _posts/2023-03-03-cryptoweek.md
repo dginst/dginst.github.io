@@ -96,3 +96,8 @@ banner:
 ### Tech - Bitcoin
 
 - [Newsletter #240 - Bitcoin Optech](https://bitcoinops.org/en/newsletters/2023/03/01/)
+
+
+### - Digital Gold institute
+
+- [Workshop Bitcoin and Blockchain - DGI](https://www.eventbrite.it/e/biglietti-workshop-bitcoin-blockchain-digital-gold-institute-528519174077)
