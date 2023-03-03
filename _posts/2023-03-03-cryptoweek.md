@@ -84,7 +84,7 @@ banner:
 - [Polygon - Twitter](https://twitter.com/goldk3y_/status/1629007488648630272)
 - [Polygon - Twitter](https://twitter.com/MihailoBjelic/status/1628926312076423170)
 
-### Solana
+### Ecosystem - Solana
 
 - [Solana Developers Say Reason for Network Outage Still Unclear - CoinDesk](https://www.coindesk.com/tech/2023/02/28/solana-developers-say-reason-for-network-outage-still-unclear)
 - [Solana Status - Cluster Instability](https://status.solana.com/incidents/ymr0gyj9xqyz)
