@@ -16,7 +16,7 @@ banner:
     img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-### Ecosystem - Banking Crises
+### Ecosystem - Banking Crisis
 
 [U.S. Crypto Crackdown Sure Looks Like an Attempt to Kill a Promising Industry](https://www.coindesk.com/consensus-magazine/2023/03/30/coindesk-editorial-it-sure-looks-like-the-us-is-trying-to-kill-crypto/)
 [Top U.S. Treasury Official Says Crypto Had No ‘Direct Role’ In Bank Failures](https://www.coindesk.com/policy/2023/03/29/top-us-treasury-official-says-crypto-had-no-direct-role-in-bank-failures/)
