@@ -23,6 +23,12 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
+- **2023Q1**:
+  presentazione ([video](https://www.youtube.com/watch?v=SeDkpIW5oaE),
+  [slide]({{site.baseurl}}/docs/reports/2023Q1-presentation.pdf)
+  e [comunicato stampa](https://docs.google.com/document/d/16PhdGV_dFZIfFNyARuT0X7e0JqI-exZgHP7LIGbweck)).  
+  Ospite: Alberto Grisoni, Direttore di AziendaBanca su
+  "[Tifosi e cronisti: il mondo cripto sui media]({{site.baseurl}}/docs/reports/2023Q1-grisoni.pdf)".
 - **2022Q4**: presentazione (video non disponibile, [slide]({{site.baseurl}}/docs/reports/2022Q4-presentation.pdf)).  
   Ospite: Francesco Avella (LL.M., Managing Partner di Studio Avella e Associati) su
   "[Manovra Finanziaria e Fiscalità Cripto: quali novità?]({{site.baseurl}}/docs/reports/2022Q4-avella.pdf)".
