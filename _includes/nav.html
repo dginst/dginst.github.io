@@ -1,69 +1,92 @@
 <!-- Google Tag Manager -->
-<script>(function (w, d, s, l, i) {
-        w[l] = w[l] || []; w[l].push({
-            'gtm.start':
-                new Date().getTime(), event: 'gtm.js'
-        }); var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-WR2N34H');</script>
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      "gtm.start": new Date().getTime(),
+      event: "gtm.js",
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-WR2N34H");
+</script>
 <!-- End Google Tag Manager -->
 
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="{{ site.baseurl }}/">
-                <img class="navbar-brand page-scroll" src="{{ site.baseurl }}/img/logo/dgi-logo-neg.svg">
-            </a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a class="page-scroll" href="{{ site.baseurl }}/#vision">Vision</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{ site.baseurl }}/#services">Services</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{ site.baseurl }}/cryptoweek">CryptoWeek</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{ site.baseurl }}/reports">Reports</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{ site.baseurl }}/events">Events</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{ site.baseurl }}/news">News</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{ site.baseurl }}/#team">Team</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{ site.baseurl }}/#contacts">Contacts</a>
-                </li>
-            </ul>
-        </div>
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button
+        type="button"
+        class="navbar-toggle collapsed"
+        data-toggle="collapse"
+        data-target="#bs-example-navbar-collapse-1"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="{{ site.baseurl }}/">
+        <img
+          class="navbar-brand page-scroll"
+          src="{{ site.baseurl }}/img/logo/dgi-logo-neg.svg"
+        />
+      </a>
     </div>
 
-    {% if page.url == "/" %}
-
-    <div align='center'>
-        <a href="{{ site.baseurl }}/workshop">
-            <img src="{{ site.baseurl }}/img/events/workshop-banner.jpg" class="img-responsive" height="60">
-        </a>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a class="page-scroll" href="{{ site.baseurl }}/#vision">Vision</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="{{ site.baseurl }}/#services"
+            >Services</a
+          >
+        </li>
+        <li>
+          <a class="page-scroll" href="{{ site.baseurl }}/cryptoweek"
+            >CryptoWeek</a
+          >
+        </li>
+        <li>
+          <a class="page-scroll" href="{{ site.baseurl }}/reports">Reports</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="{{ site.baseurl }}/events">Events</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="{{ site.baseurl }}/news">News</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="{{ site.baseurl }}/#team">Team</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="{{ site.baseurl }}/#contacts"
+            >Contacts</a
+          >
+        </li>
+      </ul>
     </div>
+  </div>
 
-    {% endif %}
+  {% if page.url == "/" %}
 
+  <div align="center">
+    <a href="{{ site.baseurl }}/workshop">
+      <img
+        src="{{ site.baseurl }}/img/events/workshop-banner.png"
+        class="img-responsive"
+        height="60"
+      />
+    </a>
+  </div>
+
+  {% endif %}
 </nav>
