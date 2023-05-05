@@ -18,32 +18,32 @@ banner:
 
 ### Ecosystem - Coinbase
 
-- [Crypto Exchange Coinbase Q1 2023 Revenue Beats Estimates (COIN) - Bloomberg](https://www.bloomberg.com/news/articles/2023-05-04/coinbase-posts-narrower-quarterly-loss-revenue-beats-estimate)
-- [Coinbase responds to the SEC’s Wells notice](https://www.coinbase.com/blog/coinbase-responds-to-the-secs-wells-notice)
-- [Coinbase offers fiery response to SEC Wells notice](https://www.cnbc.com/2023/04/27/coinbase-offers-fiery-response-to-sec-wells-notice-.html)
-- [Coinbase takes another formal step to seek regulatory clarity from SEC for the crypto industry](https://www.coinbase.com/blog/coinbase-takes-another-formal-step-to-seek-regulatory-clarity-from-sec-for)
+- [Crypto Exchange Coinbase Q1 2023 Revenue Beats Estimates - Bloomberg](https://www.bloomberg.com/news/articles/2023-05-04/coinbase-posts-narrower-quarterly-loss-revenue-beats-estimate)
+- [Coinbase responds to the SEC’s Wells notice - Coinbase](https://www.coinbase.com/blog/coinbase-responds-to-the-secs-wells-notice)
+- [Coinbase offers fiery response to SEC Wells notice - CNBC](https://www.cnbc.com/2023/04/27/coinbase-offers-fiery-response-to-sec-wells-notice-.html)
+- [Coinbase takes another formal step to seek regulatory clarity from SEC for the crypto industry - Coinbase](https://www.coinbase.com/blog/coinbase-takes-another-formal-step-to-seek-regulatory-clarity-from-sec-for)
 - [Coinbase to Face Established Rivals in International Push - WSJ](https://www.wsj.com/articles/coinbase-to-face-established-rivals-in-international-push-3d3189ca)
 
 ### Ecosystem - Gemini
 
 - [Gemini looks to mediation in hope of swift resolution to Earn debacle - The Block](https://www.theblock.co/post/228894/gemini-earn-mediation-dcg)
-- [Gemini Earn Updates - Transparency Builds Trust | Gemini](https://www.gemini.com/earn)
+- [Gemini Earn Updates - Gemini](https://www.gemini.com/earn)
 
 ### Ecosystem - Mining
 
-- [The DAME Tax: Making Cryptominers Pay for Costs They Impose on Others | CEA | The White House](https://www.whitehouse.gov/cea/written-materials/2023/05/02/cost-of-cryptomining-dame-tax/)
+- [The DAME Tax: Making Cryptominers Pay for Costs They Impose on Others - The White House](https://www.whitehouse.gov/cea/written-materials/2023/05/02/cost-of-cryptomining-dame-tax/)
 - [DHI confirms that it is mining Digital Assets – The Bhutanese](https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/)
 
 ### Ecosystem - Binance
 
-- [Control of TrueUSD private keys transferred to Techteryx](https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/)
-- [Binance.US calls off $1.3 billion deal for Voyager's assets | Reuters](https://www.reuters.com/markets/deals/binanceus-calls-off-13-bln-deal-voyagers-assets-2023-04-25/)
+- [Control of TrueUSD private keys transferred to Techteryx - Protos](https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/)
+- [Binance.US calls off $1.3 billion deal for Voyager's assets - Reuters](https://www.reuters.com/markets/deals/binanceus-calls-off-13-bln-deal-voyagers-assets-2023-04-25/)
 - [Binance US Ends $1 Billion Agreement to Buy Bankrupt Voyager Digital - Bloomberg](https://www.bloomberg.com/news/articles/2023-04-25/binance-us-terminates-deal-to-buy-bankrupt-crypto-firm-voyager)
-- [Israel Has Seized 190 Crypto Exchange Binance Accounts With Alleged Terrorist Ties Since 2021: Reuters - CoinDesk](https://www.coindesk.com/business/2023/05/05/israel-has-seized-190-binance-accounts-with-alleged-terrorist-ties-since-2021-reuters/)
+- [Israel Has Seized 190 Crypto Exchange Binance Accounts With Alleged Terrorist Ties Since 2021 - CoinDesk](https://www.coindesk.com/business/2023/05/05/israel-has-seized-190-binance-accounts-with-alleged-terrorist-ties-since-2021-reuters/)
 
 ### Ecosystem - Poloniex
 
-- [Settlement Agreement between the U.S. Department of the Treasury’s Office of Foreign Assets Control and Poloniex, LLC | Office of Foreign Assets Control](https://ofac.treasury.gov/recent-actions/20230501_33)
+- [Settlement Agreement between the U.S. Department of the Treasury’s OFAC and Poloniex - OFAC](https://ofac.treasury.gov/recent-actions/20230501_33)
 
 ### Ecosystem - TradFi
 
@@ -69,7 +69,7 @@ banner:
 
 ### Markets - Ethereum
 
-- [Ethereum (ETH) Shanghai Upgrade Brings Record Inflow Into Ether Staking - CoinDesk](https://www.coindesk.com/markets/2023/04/24/ethereum-shanghai-upgrade-brings-record-inflow-of-572k-eth-staked-in-a-week/)
+- [Ethereum Shanghai Upgrade Brings Record Inflow Into Ether Staking - CoinDesk](https://www.coindesk.com/markets/2023/04/24/ethereum-shanghai-upgrade-brings-record-inflow-of-572k-eth-staked-in-a-week/)
 
 ### Ecosystem - PEPE token
 
