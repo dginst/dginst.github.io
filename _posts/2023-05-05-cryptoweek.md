@@ -6,8 +6,8 @@ subtitle: "Il commento di Ferdinando Ametrano alle crypto-news della settimana"
 author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
-youtube: vVzMJIsY6JY
-published: false
+youtube: -OmaQH83V5w
+published: true
 cryptoweek: true
 podcast:
     id: 12696851
