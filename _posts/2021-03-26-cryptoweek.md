@@ -9,8 +9,7 @@ image:
 youtube: cWLIYVkZECc
 published: true
 cryptoweek: true
-podcast:
-    id: 8217722
+podcast: 8217722
 ---
 ### CBDC
 

@@ -9,8 +9,7 @@ image:
 youtube: L7xo8xIHKYo
 published: true
 cryptoweek: true
-podcast:
-    id: 8261625
+podcast: 8261625
 ---
 ### Payments
 

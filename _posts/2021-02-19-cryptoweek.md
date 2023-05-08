@@ -9,8 +9,7 @@ image:
 youtube: RCz99O-Xszk
 published: true
 cryptoweek: true
-podcast:
-    id: 7966633
+podcast: 7966633
 ---
 - [Bitcoin Market Value Tops $1T as Price Passes $53,697](https://www.coindesk.com/bitcoin-1-trillion-market-value)
 - [UK Trading Firm BCB Launches Bitcoin Treasury Service for Crypto-Curious CFOs](https://www.coindesk.com/uk-trading-firm-bcb-launches-bitcoin-treasury-service-for-crypto-curious-cfos)

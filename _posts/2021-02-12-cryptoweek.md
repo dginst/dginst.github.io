@@ -9,6 +9,5 @@ image:
 youtube: sxgGQs7W9Y4
 published: true
 cryptoweek: true
-podcast:
-    id: 7831831
+podcast: 7831831
 ---

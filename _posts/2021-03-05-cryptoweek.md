@@ -9,8 +9,7 @@ image:
 youtube: 6SVoSmLxNhM
 published: true
 cryptoweek: true
-podcast:
-    id: 8083493
+podcast: 8083493
 ---
 ### Bitcoin
 

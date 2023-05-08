@@ -9,8 +9,7 @@ image:
 youtube: AJZIAN-TNDQ
 published: true
 cryptoweek: true
-podcast:
-    id: 8129122
+podcast: 8129122
 ---
 ### JPMorgan
 

@@ -9,8 +9,7 @@ image:
 youtube: DAQlSecIwd8
 published: true
 cryptoweek: true
-podcast:
-    id: 8035698
+podcast: 8035698
 ---
 ### Elon Musk
 
