@@ -44,7 +44,7 @@ banner:
 
 - [Crypto Exchange Binance to Suspend US Dollar Bank Transfers This Week - CoinDesk](https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week)
 - [Binance Signals Full Audit for Crypto’s Biggest Exchange Remains Some Way Off - Bloomberg](https://www.bloomberg.com/news/articles/2023-02-08/binance-signals-full-audit-for-crypto-s-biggest-exchange-remains-some-way-off)
-- [Binance Is Organizing a Consortium to Try to Rebuild Trust in Crypto: Source - CoinDesk](https://www.coindesk.com/business/2023/02/08/binance-is-organizing-a-consortium-to-try-to-rebuild-trust-in-crypto-source)
+- [Binance Is Organizing a Consortium to Try to Rebuild Trust in Crypto - CoinDesk](https://www.coindesk.com/business/2023/02/08/binance-is-organizing-a-consortium-to-try-to-rebuild-trust-in-crypto-source)
 - [Binance Seeks Lobbyist as EU Finalizes Crypto Rules - CoinDesk](https://www.coindesk.com/policy/2023/02/09/binance-recruits-brussels-lobbyist-as-eu-develops-crypto-rules)
 
 ### Ecosystem - DCG

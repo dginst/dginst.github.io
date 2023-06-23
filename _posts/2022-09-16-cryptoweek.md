@@ -37,7 +37,7 @@ banner:
 ### Ecosystem - Staking
 
 - [Ether's New 'Staking' Model Could Draw SEC Attention - WSJ](https://www.wsj.com/articles/ethers-new-staking-model-could-draw-sec-attention-11663266224)
-- [SEC's Gensler Signals Extra Scrutiny for Proof-of-Stake Cryptocurrencies: Report - Coindesk](https://www.coindesk.com/policy/2022/09/15/secs-gensler-signals-extra-scrutiny-for-proof-of-stake-cryptocurrencies-report)
+- [SEC's Gensler Signals Extra Scrutiny for Proof-of-Stake Cryptocurrencies - Coindesk](https://www.coindesk.com/policy/2022/09/15/secs-gensler-signals-extra-scrutiny-for-proof-of-stake-cryptocurrencies-report)
 
 ### Ecosystem - ETH vs BTC
 

@@ -49,7 +49,7 @@ banner:
 ### Ecosystem - Binance
 
 - [SEC Probes Trading Affiliates of Crypto Giant Binance's U.S. Arm - WSJ](https://www.wsj.com/articles/sec-probes-trading-affiliates-of-crypto-giant-binances-u-s-arm-11644948162)
-- [Binance Halts Activities in Israel Following Regulator Intervention: Report](https://www.coindesk.com/policy/2022/02/17/binance-halts-activities-in-israel-following-regulator-intervention-report/)
+- [Binance Halts Activities in Israel Following Regulator Intervention](https://www.coindesk.com/policy/2022/02/17/binance-halts-activities-in-israel-following-regulator-intervention-report/)
 
 ### Regulation - US
 

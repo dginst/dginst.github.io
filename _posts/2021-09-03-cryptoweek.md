@@ -94,7 +94,7 @@ banner:
 
 ### Regulation
 
-- [Treasury Wants Crypto Reporting Rules in $3.5 Trillion Reconciliation Bill: Report - Decrypt](https://decrypt.co/79823/treasury-wants-crypto-reporting-rules-trillion-reconciliation-bill-report)
+- [Treasury Wants Crypto Reporting Rules in $3.5 Trillion Reconciliation Bill - Decrypt](https://decrypt.co/79823/treasury-wants-crypto-reporting-rules-trillion-reconciliation-bill-report)
 - [Crypto Firms Want Fed Payment Systems Access—and Banks Are Resisting - WSJ](https://www.wsj.com/articles/crypto-firms-want-fed-payment-systems-accessand-banks-are-resisting-11630143002#refreshed)
 - [Regulators Investigate Crypto-Exchange Developer Uniswap Labs - WSJ](https://www.wsj.com/articles/regulators-investigate-crypto-exchange-developer-uniswap-labs-11630666800)
 - [SEC Signs Deal To Investigate DeFi Transactions - Forbes](https://www.forbes.com/sites/stevenehrlich/2021/08/27/sec-signs-deal-to-investigate-defi-transactions)

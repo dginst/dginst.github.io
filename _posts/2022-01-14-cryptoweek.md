@@ -22,7 +22,7 @@ banner:
 ### Ecosystem - Crypto-investments
 
 - [Billionaire Investor Bill Miller Now Has 50% of His Personal Wealth in Bitcoin](https://www.coindesk.com/business/2022/01/10/billionaire-investor-bill-miller-now-has-50-of-his-personal-wealth-in-bitcoin)
-- [Binance CEO Zhao Is Worth $96B Excluding Crypto Holdings: Report](https://www.coindesk.com/business/2022/01/10/binance-ceo-zhao-is-worth-96b-excluding-crypto-holdings-report)
+- [Binance CEO Zhao Is Worth $96B Excluding Crypto Holdings](https://www.coindesk.com/business/2022/01/10/binance-ceo-zhao-is-worth-96b-excluding-crypto-holdings-report)
 - [Crypto Prices Move More in Sync With Stocks, Posing New Risks – IMF Blog](https://blogs.imf.org/2022/01/11/crypto-prices-move-more-in-sync-with-stocks-posing-new-risks/)
 
 ### Ecosystem - TradFi

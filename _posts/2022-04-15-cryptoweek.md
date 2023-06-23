@@ -44,7 +44,7 @@ banner:
 ### Ecosystem - VC investments
 
 - [Ava Labs Raises $350M to Build Out Avalanche at $5.25B Valuation - Decrypt](https://decrypt.co/97814/ava-labs-raises-350m-to-build-out-avalanche-at-5-25b-valuation-report)
-- [Ava Labs Set to Raise $350M at $5B Valuation: Report](https://www.coindesk.com/business/2022/04/14/ava-labs-set-to-raise-350m-at-5b-valuation-report)
+- [Ava Labs Set to Raise $350M at $5B Valuation](https://www.coindesk.com/business/2022/04/14/ava-labs-set-to-raise-350m-at-5b-valuation-report)
 - [Avatar Platform Genies Now Worth $1B After $150M Series C Round - Decrypt](https://decrypt.co/97658/avatar-platform-genies-now-worth-1b-after-150m-series-c-round)
 - [Pantera Capital Set to Close $1.3B Blockchain Fund](https://www.coindesk.com/business/2022/04/12/pantera-capital-set-to-close-13b-blockchain-fund-with-follow-up-vehicle-already-in-the-works)
 

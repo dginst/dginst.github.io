@@ -48,7 +48,7 @@ banner:
 
 ### Ecosystem - DeFi
 
-- [DeFi Users Lost $10.5 Billion to Theft and Fraud in 2021, Mostly on Ethereum: Report - Decrypt](https://decrypt.co/86503/defi-users-lost-billion-theft-fraud-2021-mostly-ethereum-report)
+- [DeFi Users Lost $10.5 Billion to Theft and Fraud in 2021, Mostly on Ethereum - Decrypt](https://decrypt.co/86503/defi-users-lost-billion-theft-fraud-2021-mostly-ethereum-report)
 - [Governments Understand DeFi, But are 'Petrified' Of It - Blockworks](https://blockworks.co/governments-understand-defi-but-are-petrified-of-it/)
 - [BlockFi Changes Fees to Cover Ethereum Gas Costs - Decrypt](https://decrypt.co/86809/blockfi-changes-fees-cover-ethereum-gas-costs)
 

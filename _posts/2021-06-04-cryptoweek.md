@@ -61,7 +61,7 @@ banner:
 - [Standard Chartered to launch institutional crypto brokerage and exchange - The Block](https://www.theblockcrypto.com/post/106944/standard-chartered-institutional-crypto-brokerage-exchange-europe)
 - [Standard Chartered and BC Group Partner to Establish Europe-Based Institutional Digital Asset Trading Venture – BC Group](https://bc.group/press-release/standard-chartered-and-bc-group-partner-to-establish-europe-based-institutional-digital-asset-trading-venture/)
 - [Standard Chartered and Northern Trust Partner to Launch Zodia, a Cryptocurrency Custodian for Institutional Investors - Business Wire](https://www.businesswire.com/news/home/20201208006211/en/Standard-Chartered-and-Northern-Trust-Partner-to-Launch-Zodia-a-Cryptocurrency-Custodian-for-Institutional-Investors)
-- [UK's Starling Bank Temporarily Blocks User Payments to Crypto Exchanges: Report - CoinDesk](https://www.coindesk.com/starling-blocks-crypto-exchanges)
+- [UK's Starling Bank Temporarily Blocks User Payments to Crypto Exchanges - CoinDesk](https://www.coindesk.com/starling-blocks-crypto-exchanges)
 - [Alibaba, Google Among More Than 300 Companies Seeking Singapore Crypto Licenses - CoinDesk](https://www.coindesk.com/alibaba-google-among-more-than-300-companies-seeking-singapore-crypto-licenses)
 - [Anchorage Launches ETH-Backed Loans for Institutions - Crypto Briefing](https://cryptobriefing.com/anchorage-launches-eth-backed-loans-for-institutions/)
 - [Anchorage to Offer Ethereum-Backed Loans Through BankProv - CoinDesk](https://www.coindesk.com/anchorage-to-offer-ethereum-backed-loans-through-bankprov)

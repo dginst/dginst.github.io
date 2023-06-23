@@ -39,7 +39,7 @@ podcast: 8217722
 - [Binance adds two former FATF members to its team of advisors (theblockcrypto)](https://www.theblockcrypto.com/linked/99398/binance-former-fatf-members-advisors){:target="_blank"}
 - [Coinbase Settles With CFTC for $6.5M Over Old Trading Practices (coindesk)](https://www.coindesk.com/coinbase-settles-with-cftc-for-6-5m-over-old-trading-practices){:target="_blank"}
 - [CFTC Orders Coinbase Inc. to Pay $6.5 Million for False, Misleading, or Inaccurate Reporting and Wash Trading (CFTC)](https://www.cftc.gov/PressRoom/PressReleases/8369-21){:target="_blank"}
-- [Coinbase Delays Highly Anticipated Direct Listing to April: Report (coindesk)](https://www.coindesk.com/coinbase-delays-highly-anticipated-direct-listing-to-april-report){:target="_blank"}
+- [Coinbase Delays Highly Anticipated Direct Listing to April (coindesk)](https://www.coindesk.com/coinbase-delays-highly-anticipated-direct-listing-to-april-report){:target="_blank"}
 
 ### Market
 

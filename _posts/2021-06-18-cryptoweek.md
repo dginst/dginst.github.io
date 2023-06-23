@@ -106,7 +106,7 @@ banner:
 - [State Street stands up new crypto unit as it eyes potential custody, DeFi products - The Block](https://www.theblockcrypto.com/post/108214/state-street-stands-up-new-crypto-unit-as-it-eyes-potential-custody-defi-products)
 - [Most UK Financial Advisers Would Steer Clear of Crypto and Meme Stocks: Poll - CoinDesk](https://www.coindesk.com/opinium-survey-ifa-crypto-investments)
 - [Hedge funds expect to hold 7% of assets in crypto within five years - Financial Times](https://www.ft.com/content/4f8044bf-8f0f-46b4-9fb7-6d0eba723017)
-- [Hedge Funds See 7.2% of Assets in Crypto by 2026: Report - CoinDesk](https://www.coindesk.com/hedge-fund-crypto-asset-allocation-survey)
+- [Hedge Funds See 7.2% of Assets in Crypto by 2026 - CoinDesk](https://www.coindesk.com/hedge-fund-crypto-asset-allocation-survey)
 - [Index publisher MSCI looking at launch of crypto indexes - Reuters](https://www.reuters.com/business/index-publisher-msci-looking-launch-crypto-indexes-2021-06-17)
 - [Crypto asset manager Bitwise raises $70 million from Kravis, Druckenmiller, Bridgewater CEO McCormick and more - CNBC](https://www.cnbc.com/2021/06/15/crypto-asset-manager-bitwise-raises-70-million-from-kravis-druckenmiller-others.html)
 - [Bitwise raises $70 million from new Wall Street investors - The Block](https://www.theblockcrypto.com/post/108421/bitwise-raises-70-million-from-new-wall-street-investors-including-henry-kravis-and-dan-loeb)

@@ -36,7 +36,7 @@ banner:
 
 ### Ecosystem - Babel
 
-- [Lender Babel Finance Lost $280M Trading Customer Funds: Report - Coindesk](https://www.coindesk.com/business/2022/07/29/babel-finance-lost-280m-trading-customer-funds-report)
+- [Lender Babel Finance Lost $280M Trading Customer Funds - Coindesk](https://www.coindesk.com/business/2022/07/29/babel-finance-lost-280m-trading-customer-funds-report)
 - [Babel Finance lost over $280 million in proprietary trading with customer funds - The Block](https://www.theblock.co/post/160230/babel-finance-crypto-lost-280-million-proprietary-trading-restructuring)
 
 ### Ecosystem - Nomad

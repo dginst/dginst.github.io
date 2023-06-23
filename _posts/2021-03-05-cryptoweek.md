@@ -29,7 +29,7 @@ podcast: 8083493
 ### Coinbase and Exchange Valuations
 
 - [Form S-1 Prospectus (SEC)](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
-- [Kraken Negotiating New Capital Raise at $10B Valuation: Report (coindesk)](https://www.coindesk.com/kraken-exchange-capital-raise)
+- [Kraken Negotiating New Capital Raise at $10B Valuation (coindesk)](https://www.coindesk.com/kraken-exchange-capital-raise)
 
 ### Traditional Finance
 

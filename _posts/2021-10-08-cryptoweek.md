@@ -53,7 +53,7 @@ banner:
 
 ### Regulation - US Crypto Enforcement Team
 
-- [DOJ to Launch National Crypto Enforcement Team: Report - CoinDesk](https://www.coindesk.com/policy/2021/10/06/doj-to-launch-national-crypto-enforcement-team-report/)
+- [DOJ to Launch National Crypto Enforcement Team - CoinDesk](https://www.coindesk.com/policy/2021/10/06/doj-to-launch-national-crypto-enforcement-team-report/)
 - [Department of Justice announces crypto-focused 'enforcement team' - The Block Crypto](https://www.theblockcrypto.com/linked/119648/department-of-justice-announces-crypto-focused-enforcement-team)
 - [U.S. Justice Dept launches new initiatives on cryptocurrencies, contractor hacks - Reuters](https://www.reuters.com/world/us/us-justice-dept-launches-new-initiatives-cryptocurrencies-contractor-hacks-2021-10-06/)
 - [Deputy Attorney General Lisa O. Monaco Announces National Cryptocurrency Enforcement Team - Department of Justice](https://www.justice.gov/opa/pr/deputy-attorney-general-lisa-o-monaco-announces-national-cryptocurrency-enforcement-team)

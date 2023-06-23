@@ -98,7 +98,7 @@ banner:
 ### Ecosystem - BSV Attacked
 
 - [What Is Going On With Craig Wright's Bitcoin SV? - CoinDesk](https://www.coindesk.com/what-is-going-on-with-bitcoin-sv)
-- [BSV Suffers 51% Attack: Report - CoinDesk](https://www.coindesk.com/bsv-suffers-51-attack-report)
+- [BSV Suffers 51% Attack - CoinDesk](https://www.coindesk.com/bsv-suffers-51-attack-report)
 - [Statement on August 2021 block re-organisation attack on the BSV network - Bitcoin Association](https://bitcoinassociation.net/statement-on-august-2021-block-re-organisation-attack-on-the-bitcoin-sv-network/)
 - [1GB BSV Block - Twitter](https://twitter.com/shadders333/status/1423500449034825728)
 

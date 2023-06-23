@@ -20,7 +20,7 @@ banner:
 ### Ecosystem - Binance
 
 - [Crypto exchange Binance temporarily suspends payments from EU's SEPA network - Reuters](https://www.reuters.com/technology/crypto-exchange-binance-temporarily-suspends-payments-eus-sepa-network-ft-2021-07-06/)
-- [Binance Temporarily Stops Payments From EU's Sepa Platform: Report - Coindesk](https://www.coindesk.com/binance-temporarily-stops-payments-from-eus-sepa-platform-report)
+- [Binance Temporarily Stops Payments From EU's Sepa Platform - Coindesk](https://www.coindesk.com/binance-temporarily-stops-payments-from-eus-sepa-platform-report)
 - [Binance 'temporarily suspends' payments from EU's Sepa network - Financial Times](https://www.ft.com/content/bf99e9e3-d104-4a92-81a1-8bd70b884b3f)
 - [Binance crackdown: regulators tussle with 'wild west' of crypto - Financial Times](https://www.ft.com/content/a10c297f-c8dd-48b1-9744-09d4ff2e89ca)
 - [Santander to block payments by UK banking customers to Binance - Financial Times](https://ft.com/content/a699c495-0c18-40af-8d2d-73571daa77a1)
@@ -46,7 +46,7 @@ banner:
 - [Washington is Divided on Crypto, Hearing Reveals - Blockworks](https://blockworks.co/washington-is-divided-on-crypto-hearing-reveals/)
 - [Fed's Powell met with Coinbase CEO on May 11 - Reuters](https://www.reuters.com/business/feds-powell-met-with-coinbase-ceo-may-11-meeting-logs-2021-07-02/)
 - [Crypto lobbyists put DeFi proposals to FATF in open letter - The Block](https://www.theblockcrypto.com/post/110506/crypto-lobbyists-put-defi-proposals-to-fatf-in-open-letter)
-- [EU to Propose New Anti-Money Laundering Body to Crack Down on Crypto: Report - Decrypt](https://decrypt.co/75542/eu-propose-new-anti-money-laundering-body-crack-down-crypto-report)
+- [EU to Propose New Anti-Money Laundering Body to Crack Down on Crypto - Decrypt](https://decrypt.co/75542/eu-propose-new-anti-money-laundering-body-crack-down-crypto-report)
 - [EU to propose new body to tackle dirty money, documents say - Reuters](https://www.reuters.com/business/eu-propose-new-anti-money-laundering-authority-documents-say-2021-07-07/)
 - [EU to create anti-money laundering agency - EU Observer](https://euobserver.com/democracy/152386)
 - [Sen. Warren warns of cryptocurrency risks, presses SEC on oversight authority - Reuters](https://www.reuters.com/technology/sen-warren-warns-cryptocurrency-risks-presses-sec-oversight-authority-2021-07-08/)

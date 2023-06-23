@@ -88,5 +88,5 @@ permalink: /cryptoweekinternal/
 ## Programmazione per il sabato mattina
 
 * Facebook: rilanciare l'ultimo CryptoWeek
-* Linkedin: rilanciare l'ultimo CryptoWeek
+* LinkedIn: rilanciare l'ultimo CryptoWeek
 * Twitter: rilanciare l'ultimo CryptoWeek

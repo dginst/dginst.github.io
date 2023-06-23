@@ -57,7 +57,7 @@ banner:
 
 ### Ecosystem - Goldman Sach Bitcoin-backed loan
 
-- [Goldman Sachs Offers Its First Bitcoin-Backed Loan: Report - Bitcoin Magazine](https://bitcoinmagazine.com/business/goldman-sachs-offers-its-first-bitcoin-backed-loan-report)
+- [Goldman Sachs Offers Its First Bitcoin-Backed Loan - Bitcoin Magazine](https://bitcoinmagazine.com/business/goldman-sachs-offers-its-first-bitcoin-backed-loan-report)
 - [Goldman Sachs Makes Its First Bitcoin-Backed Loan](https://www.coindesk.com/business/2022/04/28/goldman-sachs-makes-its-first-bitcoin-backed-loan-report/)
 
 ### Ecosystem - Bitoin 401(k) plan

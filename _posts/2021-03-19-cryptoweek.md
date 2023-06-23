@@ -34,7 +34,7 @@ podcast: 8173333
 
 - [Morgan Stanley: 'Threshold being reached' on crypto as an investable asset class (The Block)](https://www.theblockcrypto.com/linked/98606/morgan-stanley-crypto-asset-class-threshold){:target="_blank"}
 - [Morgan Stanley becomes the first big U.S. bank to offer its wealthy clients access to bitcoin funds (Cnbc)](https://www.cnbc.com/2021/03/17/bitcoin-morgan-stanley-is-the-first-big-us-bank-to-offer-wealthy-clients-access-to-bitcoin-funds.html){:target="_blank"}
-- [Morgan Stanley to Offer Clients Exposure to Bitcoin Funds: Report (coindesk)](https://www.coindesk.com/morgan-stanley-to-offer-clients-exposure-to-bitcoin-funds-report){:target="_blank"}
+- [Morgan Stanley to Offer Clients Exposure to Bitcoin Funds (coindesk)](https://www.coindesk.com/morgan-stanley-to-offer-clients-exposure-to-bitcoin-funds-report){:target="_blank"}
 - [Morgan Stanley Bidding for South Korean Crypto Exchange Bithumb (cryptobriefing)](https://cryptobriefing.com/morgan-stanley-bidding-south-korean-crypto-exchange-bithumb/){:target="_blank"}
 
 ### Exchanges

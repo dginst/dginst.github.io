@@ -71,7 +71,7 @@ banner:
 
 ### Ecosystem - China
 
-- [China Seeking Judicial Authority to Convict and Sentence Crypto Activities: Report — CoinDesk](https://www.coindesk.com/policy/2021/10/11/china-seeking-judicial-authority-to-convict-and-sentence-crypto-activities-report/)
+- [China Seeking Judicial Authority to Convict and Sentence Crypto Activities — CoinDesk](https://www.coindesk.com/policy/2021/10/11/china-seeking-judicial-authority-to-convict-and-sentence-crypto-activities-report/)
 - [China FUD Over Bitcoin Mining Is 'Now Moot,' Luxor Report Says — CoinDesk](https://www.coindesk.com/business/2021/10/11/china-fud-is-now-moot-for-miners-luxor-says/)
 - [Bitmain suspends bitcoin miner shipments in mainland China - The Block Crypto](https://www.theblockcrypto.com/linked/119996/bitmain-suspend-antminer-shipment-mainland-china)
 
@@ -84,7 +84,7 @@ banner:
 ### Ecosystem - Tether
 
 - [Crypto Mystery: Where's the $69 Billion Backing the Stablecoin Tether? - Bloomberg](https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-the-stablecoin-tether)
-- [Tether Has Loaned $1B to Celsius Network: Report — CoinDesk](https://www.coindesk.com/business/2021/10/07/tether-has-lent-1b-to-celsius-network-report/)
+- [Tether Has Loaned $1B to Celsius Network — CoinDesk](https://www.coindesk.com/business/2021/10/07/tether-has-lent-1b-to-celsius-network-report/)
 - [Celsius Reportedly Borrowed $1B from Tether with Bitcoin as Collateral - Blockworks](https://blockworks.co/celsius-reportedly-borrowed-1b-from-tether-with-bitcoin-as-collateral/)
 - [Tether Responds to Bloomberg BusinessWeek Article - Tether](https://tether.to/tether-responds-to-bloomberg-businessweek-article/)
 

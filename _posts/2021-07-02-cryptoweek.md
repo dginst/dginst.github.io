@@ -35,7 +35,7 @@ banner:
 - [TP ICAP to launch crypto trading platform with Fidelity and others - The Block](https://www.theblockcrypto.com/post/109952/tp-icap-crypto-trading-platform-fidelity-standard-chartered-flow-traders)
 - [TP Icap to launch cryptocurrency trading site - The Times](https://www.thetimes.co.uk/article/tp-icap-to-launch-cryptocurrency-trading-site-ss25f000r)
 - [George Soros' Hedge Fund Given Permission to Trade Bitcoin - Blockworks](https://blockworks.co/george-soros-hedge-fund-given-permission-to-trade-bitcoin/?oly_enc_id=6911D0507689B3P)
-- [Soros Fund Management Is Said to Be Trading Bitcoin: Report - CoinDesk](https://www.coindesk.com/soros-fund-management-is-said-to-be-trading-bitcoin-report)
+- [Soros Fund Management Is Said to Be Trading Bitcoin - CoinDesk](https://www.coindesk.com/soros-fund-management-is-said-to-be-trading-bitcoin-report)
 - [Morgan Stanley Buys Over 28,000 Shares of Grayscale Bitcoin Trust - Nasdaq](https://www.nasdaq.com/articles/morgan-stanley-buys-over-28000-shares-of-grayscale-bitcoin-trust-2021-06-28)
 - [Ricardo B Salinas: first bank in Mexico to accept Bitcoin](https://twitter.com/RicardoBSalinas/status/1409048815722696708)
 
@@ -77,7 +77,7 @@ banner:
 - [Tanzania cbank says it is working on president's cryptocurrency push - Reuters](https://www.reuters.com/technology/tanzania-cbank-says-it-is-working-presidents-cryptocurrency-push-2021-06-25/)
 - [Fed Vice Chair: 'We Should Be Saying Yes' to Stablecoins - CoinDesk](https://www.coindesk.com/fed-vice-chair-we-should-be-saying-yes-to-stablecoins)
 - [Stablecoins could trigger credit market contagion, warns Fitch - FT](https://www.ft.com/content/b734b2e8-db37-46fe-93b1-d47a59f74068)
-- [Swiss National Bank Has No Plans for a Digital Currency: Report - Coindesk](https://www.coindesk.com/swiss-national-bank-has-no-plans-for-a-digital-currency-report)
+- [Swiss National Bank Has No Plans for a Digital Currency - Coindesk](https://www.coindesk.com/swiss-national-bank-has-no-plans-for-a-digital-currency-report)
 - [Bank of Russia Picks Banks to Pilot Digital Ruble - CoinDesk](https://www.coindesk.com/bank-of-russia-picks-banks-to-pilot-digital-ruble-report)
 
 ### Tech

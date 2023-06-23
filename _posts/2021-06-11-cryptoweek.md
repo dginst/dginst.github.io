@@ -80,7 +80,7 @@ banner:
 - [Hardware Bitcoin And Crypto Wallet Manufacturer Ledger Completes $380 Million Fundraising Round - Forbes](https://www.forbes.com/sites/emilymason/2021/06/10/hardware-bitcoin-and-crypto-wallet-manufacturer-ledger-completes-380-million-fundraising-round)
 - [Jack Dorsey: Square's hardware wallet - Twitter](https://twitter.com/jack/status/1400839179513339905)
 - [Solana Is Raising Up to $450 Million to Challenge Ethereum (Updated) - Decrypt](https://decrypt.co/72754/solana-raising-450-million-challenge-ethereum)
-- [BlockFi in Discussions to Raise 'Several Hundred Million' in Latest Round: Report - CoinDesk](https://www.coindesk.com/blockfi-in-discussions-to-raise-several-hundred-million-in-latest-round-report)
+- [BlockFi in Discussions to Raise 'Several Hundred Million' in Latest Round - CoinDesk](https://www.coindesk.com/blockfi-in-discussions-to-raise-several-hundred-million-in-latest-round-report)
 - [Amazon Looks to Hire Blockchain Staffers With Experience of DeFi - CoinDesk](https://www.coindesk.com/amazon-looks-to-hire-blockchain-staffers-with-experience-of-defi)
 
 ### Regulation

@@ -99,7 +99,7 @@ banner:
 - [India to Ban Crypto as Payment Method but Regulate as Asset - CoinDesk](https://www.coindesk.com/policy/2021/11/17/india-to-ban-crypto-as-payment-method-but-regulate-as-asset-report/)
 - [Crypto map: PM's meet calls for 'progressive' steps, caution over hype - The Indian Express](https://indianexpress.com/article/india/narendra-modi-meet-cryptocurrency-money-laundering-terror-financing-risks-7621499/)
 - [Indian Central Bank Governor Says Blockchain Technology Can Thrive Without Cryptocurrencies - CoinDesk](https://www.coindesk.com/policy/2021/11/17/indias-central-bank-governor-says-blockchain-technology-can-thrive-without-cryptocurrencies/)
-- [Indian Central Bank May Pilot Test CBDC in 2022: Report - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indian-central-bank-may-pilot-test-cbdc-in-2022-report/)
+- [Indian Central Bank May Pilot Test CBDC in 2022 - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indian-central-bank-may-pilot-test-cbdc-in-2022-report/)
 - [India's Modi Asks Democracies to Cooperate on Crypto - CoinDesk](https://www.coindesk.com/policy/2021/11/18/indias-modi-calls-on-democracies-to-cooperate-on-crypto/)
 
 ### Ecosystem - Mining

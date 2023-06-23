@@ -26,7 +26,7 @@ banner:
 - [Hash Rate - Blockchain.com](https://www.blockchain.com/charts/hash-rate)
 - [Cryptocurrency Companies Are Leaving China in 'Great Mining Migration' - WSJ](https://www.wsj.com/articles/cryptocurrency-companies-are-leaving-china-in-great-mining-migration-11629624602)
 - [Chinese province to cut off Bitcoin miners from hydropower stations - Cointelegraph](https://cointelegraph.com/news/chinese-province-to-cut-off-bitcoin-miners-from-hydropower-stations)
-- [BlackRock Has Almost $400M Invested in Bitcoin Mining Stocks: Report - CoinDesk](https://www.coindesk.com/blackrock-has-almost-400m-invested-in-bitcoin-mining-stocks-report)
+- [BlackRock Has Almost $400M Invested in Bitcoin Mining Stocks - CoinDesk](https://www.coindesk.com/blackrock-has-almost-400m-invested-in-bitcoin-mining-stocks-report)
 
 ### Ecosystem - Blockstream
 
@@ -146,7 +146,7 @@ banner:
 ### Regulation - CBDC
 
 - [China's digital yuan being used in the futures market for the first time - Global Times](https://www.globaltimes.cn/page/202108/1232348.shtml)
-- [Digital Yuan Used in China's Domestic Futures Market for First Time: Report - CoinDesk](https://www.coindesk.com/china-digital-yuan-dalian-futures-market)
+- [Digital Yuan Used in China's Domestic Futures Market for First Time - CoinDesk](https://www.coindesk.com/china-digital-yuan-dalian-futures-market)
 
 ### Tech - Bitcoin
 

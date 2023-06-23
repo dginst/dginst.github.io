@@ -59,7 +59,7 @@ banner:
 
 - [Government and industry push bitcoin regulation to fight ransomware - Cnbc](https://www.cnbc.com/2021/04/28/government-and-industry-push-bitcoin-regulation-to-fight-ransomware.html)
 - [Turkey's Central Bank Head Says Crypto Rules Coming, Denies Total Ban Ahead - CoinDesk](https://www.coindesk.com/turkeys-central-bank-head-says-crypto-regs-coming-denies-total-ban-ahead)
-- [Proposed Legislation in Germany Could Allow $425B to Flow Into Crypto: Report - Coindesk](https://www.coindesk.com/proposed-legislation-in-germany-could-allow-425b-to-flow-into-crypto-report)
+- [Proposed Legislation in Germany Could Allow $425B to Flow Into Crypto - Coindesk](https://www.coindesk.com/proposed-legislation-in-germany-could-allow-425b-to-flow-into-crypto-report)
 - [Consob e Banca d'Italia mettono in guardia contro i rischi insiti nelle cripto-attività - Banca d'Italia](https://www.bancaditalia.it/media/comunicati/documenti/2021-01/CS_Congiunto_BI_CONSOB_cryptoasset.pdf)
 
 ### Ecosystem
@@ -87,7 +87,7 @@ banner:
 ### Blockchain
 
 - [EIB issues its first ever digital bond on a public blockchain - EIB](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
-- [European Investment Bank to Issue Digital Bonds on Ethereum: Report - Cryptobriefing](https://cryptobriefing.com/european-investment-bank-issue-digital-bonds-ethereum-report/)
+- [European Investment Bank to Issue Digital Bonds on Ethereum - Cryptobriefing](https://cryptobriefing.com/european-investment-bank-issue-digital-bonds-ethereum-report/)
 - [JPMorgan, DBS, and Temasek form new blockchain firm to improve cross-border payments - the Block Crypto](https://www.theblockcrypto.com/linked/103064/jpmorgan-dbs-temasek-blockchain-partior-payments)
 - [Socios.com and New Jersey Devils Join Forces - Nhl](https://www.nhl.com/devils/news/socioscom-and-new-jersey-devils-join-forces/c-324153072)
 

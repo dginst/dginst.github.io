@@ -65,7 +65,7 @@ banner:
 - [DeFi 'Raises Challenges' for Investors, SEC's Gensler Says - CoinDesk](https://www.coindesk.com/defi-raises-challenges-for-investors-regulators-secs-gensler-says)
 - [Gensler says he wants to work with Congress to regulate crypto exchanges - The Block](https://www.theblockcrypto.com/linked/106215/gensler-congress-regulate-crypto-exchanges)
 - [Biden administration is reportedly reviewing 'gaps' in crypto regulation- Cointelegraph](https://cointelegraph.com/news/biden-administration-is-reportedly-reviewing-gaps-in-crypto-regulation)
-- [Iran Bans All Crypto Mining for the Summer: Report - CoinDesk](https://www.coindesk.com/iran-bans-all-crypto-mining-for-the-summer-report)
+- [Iran Bans All Crypto Mining for the Summer - CoinDesk](https://www.coindesk.com/iran-bans-all-crypto-mining-for-the-summer-report)
 - [China crackdown forces crypto mining operators to end operations - Al Jazeera](https://www.aljazeera.com/economy/2021/5/24/china-crackdown-forces-crypto-mining-operators-to-end-operations)
 - [FinCEN seeks presentations on zero-knowledge proofs, other privacy tech for September event - The Block](https://www.theblockcrypto.com/linked/106300/fincen-seeks-presentations-on-zero-knowledge-proofs-other-privacy-tech-for-september-event)
 - [OFAC wants to use blockchain analytics tools from Chainalysis - The Block](https://www.theblockcrypto.com/linked/106282/ofac-blockchain-analytics-tools-chainalysis)

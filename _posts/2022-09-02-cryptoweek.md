@@ -18,7 +18,7 @@ banner:
 ### Ecosystem - Markets
 
 - [Cryptoverse: Bleeding bitcoin's holding out for a hero - Reuters](https://www.reuters.com/markets/europe/cryptoverse-bleeding-bitcoins-holding-out-hero-2022-08-30/)
-- [Crypto.com Ditches $495 Million Sponsorship Deal With Champions League Soccer: Report - Decrypt](https://decrypt.co/108689/crypto-com-ditches-495-million-sponsorship-deal-with-champions-league-soccer-report)
+- [Crypto.com Ditches $495 Million Sponsorship Deal With Champions League Soccer - Decrypt](https://decrypt.co/108689/crypto-com-ditches-495-million-sponsorship-deal-with-champions-league-soccer-report)
 - [Ether Price Could Drop to $1,000 or Below, Chart Shows - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-30/ether-could-drop-to-1-000-or-below-technicals-show-chart)
 - [Ether Futures See Unusually High Liquidations as Funding Rates Point to Bearish Sentiment](https://www.coindesk.com/markets/2022/08/31/ether-futures-see-unusually-high-liquidations-as-funding-rates-point-to-bearish-sentiment/)
 - [Ether, Bitcoin Could See Turbulence as Open Interest Leverage Ratio Soars to Record High](https://www.coindesk.com/markets/2022/08/30/ether-bitcoin-could-see-turbulence-as-open-interest-leverage-ratio-soars-to-record-high)

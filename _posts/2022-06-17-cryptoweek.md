@@ -50,7 +50,7 @@ banner:
 
 - [Crypto fund Three Arrows Capital faces potential insolvency after lender liquidation](https://www.theblock.co/linked/152092/after-facing-hundreds-of-millions-of-dollars-in-liquidations-three-arrows-capitals-future-is-uncertain)
 - [FTX, Deribit and BitMEX liquidated Three Arrows Capital](https://www.theblock.co/post/152665/ftx-deribit-bitmex-liquidated-three-arrows-capital)
-- [BlockFi Liquidated Three Arrows Capital: Report](https://www.coindesk.com/business/2022/06/16/blockfi-liquidated-three-arrows-capital-report)
+- [BlockFi Liquidated Three Arrows Capital](https://www.coindesk.com/business/2022/06/16/blockfi-liquidated-three-arrows-capital-report)
 
 ### Ecosystem - BlockFi
 
