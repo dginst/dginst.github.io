@@ -31,7 +31,7 @@ banner:
 
 ### Markets - Bitcoin
 
-- [Why is Bitcoin (BTC) Liquidity Declining in 2023? Liquidity Problem Offers Clues - Bloomberg](https://www.bloomberg.com/news/articles/2023-04-02/wh-is-bitcoin-btc-liquidity-declining-in-2023-industry-chaos)
+- [Why is Bitcoin Liquidity Declining in 2023? Liquidity Problem Offers Clues - Bloomberg](https://www.bloomberg.com/news/articles/2023-04-02/wh-is-bitcoin-btc-liquidity-declining-in-2023-industry-chaos)
 - [US Government Sells $215M in Seized Silk Road Bitcoin, Plans to Dump Another $1.1 Billion - Decrypt](https://decrypt.co/125081/us-government-dumps-seized-silk-road-bitcoin)
 - [Personal Wealth: Bitcoin Deserves Some Space in Your Portfolio - Bloomberg](https://www.bloomberg.com/opinion/articles/2023-04-05/personal-wealth-bitcoin-deserves-some-space-in-your-portfolio)
 - [Where to Find the Bitcoin White Paper on Your Apple Computer - Blockworks](https://blockworks.co/news/apple-bitcoin-white-paper)

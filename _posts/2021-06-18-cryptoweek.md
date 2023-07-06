@@ -25,7 +25,7 @@ banner:
 
 ### Markets - Elon Musk
 
-- [Bitcoin (BTC) soars after Musk says Tesla could accept the crypto again - CNBC](https://www.cnbc.com/2021/06/14/bitcoin-btc-soars-after-musk-says-tesla-could-accept-the-crypto-again.html)
+- [Bitcoin soars after Musk says Tesla could accept the crypto again - CNBC](https://www.cnbc.com/2021/06/14/bitcoin-btc-soars-after-musk-says-tesla-could-accept-the-crypto-again.html)
 - [Elon Musk: Tesla To Resume Bitcoin Payments - Bitcoin Magazine](https://bitcoinmagazine.com/business/elon-musk-tesla-to-resume-bitcoin-payments)
 - [Elon Musk Flip-Flops on Bitcoin, Yet Again - Blockworks](https://blockworks.co/elon-musk-flip-flops-on-bitcoin-yet-again/)
 - [Twitter CEO Jack Dorsey Reveals Surprise Bitcoin Plan After Elon Musk Sparked Crypto Price Chaos With Ethereum And Dogecoin Support - Forbes](https://www.forbes.com/sites/billybambrough/2021/06/12/twitter-ceo-jack-dorsey-reveals-surprise-bitcoin-plan-after-elon-musk-sparked-crypto-price-chaos-with-ethereum-and-dogecoin-support)

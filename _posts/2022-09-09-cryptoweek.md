@@ -61,7 +61,7 @@ banner:
 ### Ecosystem - El Salvador
 
 - [A year on, El Salvador's bitcoin experiment is stumbling - Reuters](https://www.reuters.com/technology/year-el-salvadors-bitcoin-experiment-is-stumbling-2022-09-07/)
-- [El Salvador Had a Bitcoin (BTC) Revolution. Hardly Anybody Showed Up - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-03/el-salvador-had-a-bitcoin-btc-revolution-hardly-anybody-showed-up)
+- [El Salvador Had a Bitcoin Revolution. Hardly Anybody Showed Up - Bloomberg](https://www.bloomberg.com/news/articles/2022-09-03/el-salvador-had-a-bitcoin-btc-revolution-hardly-anybody-showed-up)
 
 ### Reports
 

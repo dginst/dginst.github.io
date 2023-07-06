@@ -78,4 +78,4 @@ banner:
 
 ### Ecosystem - Mining
 
-- [Bitcoin (BTC) Miner Made Millions in Credits by Shutting Rigs During Texas Heat - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-03/bitcoin-miner-made-millions-by-shutting-rigs-during-texas-heat)
+- [Bitcoin Miner Made Millions in Credits by Shutting Rigs During Texas Heat - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-03/bitcoin-miner-made-millions-by-shutting-rigs-during-texas-heat)

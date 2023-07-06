@@ -23,7 +23,7 @@ banner:
 
 ### Markets
 
-- [Bitcoin (BTC) rises above $48,000 as crypto market tops $2 trillion - CNBC](https://www.cnbc.com/2021/08/16/bitcoin-btc-rises-above-48000-as-crypto-market-tops-2-trillion.html)
+- [Bitcoin rises above $48,000 as crypto market tops $2 trillion - CNBC](https://www.cnbc.com/2021/08/16/bitcoin-btc-rises-above-48000-as-crypto-market-tops-2-trillion.html)
 - [Small Traders Pile Back Into Cryptocurrencies - WSJ](https://www.wsj.com/articles/small-traders-pile-back-into-cryptocurrencies-11628953382)
 
 ### Alt-coins

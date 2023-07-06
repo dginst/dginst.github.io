@@ -61,9 +61,9 @@ banner:
 
 ### Miscellanea
 
-- [Investors Take Bitcoin (BTC) Off Exchanges as Crypto Winter Settles In - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-06/investors-take-bitcoin-off-exchanges-as-crypto-winter-settles-in)
+- [Investors Take Bitcoin Off Exchanges as Crypto Winter Settles In - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-06/investors-take-bitcoin-off-exchanges-as-crypto-winter-settles-in)
 - [Coinbase Says Miners' Sales of Newly Minted Bitcoins Don't Add Significant Market Pressure - coindesk](https://www.coindesk.com/markets/2022/07/04/coinbase-says-miners-sales-of-newly-minted-bitcoins-dont-add-market-pressure)
-- [Bitfinex Hack: How This NYC Couple Allegedly Stole $8B in Bitcoin (BTC) - Bloomberg](https://www.bloomberg.com/news/features/2022-06-30/how-the-world-s-biggest-bitcoin-btc-hack-at-bitfinex-got-botched)
+- [Bitfinex Hack: How This NYC Couple Allegedly Stole $8B in Bitcoin - Bloomberg](https://www.bloomberg.com/news/features/2022-06-30/how-the-world-s-biggest-bitcoin-btc-hack-at-bitfinex-got-botched)
 
 ### Ecosystem - NFT
 

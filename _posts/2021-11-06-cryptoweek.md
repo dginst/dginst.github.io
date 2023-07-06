@@ -19,7 +19,7 @@ banner:
 
 - [October 2021 On-Chain Digest - Kraken](https://kraken.docsend.com/view/z7pn3uzfxhkn9j72)
 - [Bitcoin Exchange Flows - CryptoQuant](https://cryptoquant.com/overview/btc-exchange-flows)
-- [Bitcoin (BTC) - ViewBase](https://www.viewbase.com/coin/bitcoin)
+- [Bitcoin - ViewBase](https://www.viewbase.com/coin/bitcoin)
 - [Outlook Cryptos Nov 2021 - Bloomberg](https://assets.bbhub.io/promo/sites/12/1465773_Crypto-November2021Outlook.pdf?link=button-header)
 - [October 2021 Market Recap and Outlook - Kraken](https://kraken.docsend.com/view/e726hn9bfk765ttz)
 

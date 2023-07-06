@@ -18,7 +18,7 @@ banner:
 ### Regulation - BlackRock ETF
 
 - [BlackRock Close to Filing Bitcoin ETF](https://www.coindesk.com/business/2023/06/15/blackrock-close-to-filing-bitcoin-etf-source/)
-- [BlackRock's iShares Files Paperwork for Spot Bitcoin (BTC) ETF](https://www.coindesk.com/business/2023/06/15/blackrocks-ishares-files-paperwork-for-spot-bitcoin-etf)
+- [BlackRock's iShares Files Paperwork for Spot Bitcoin ETF](https://www.coindesk.com/business/2023/06/15/blackrocks-ishares-files-paperwork-for-spot-bitcoin-etf)
 - [BlackRock Tries to Launch First Spot-Bitcoin ETF With New SEC Filing - Bloomberg](https://www.bloomberg.com/news/articles/2023-06-15/blackrock-tries-for-spot-bitcoin-etf-with-fresh-sec-filing)
 - [BlackRock files for spot bitcoin ETF, Coinbase as crypto custodian](https://www.cnbc.com/2023/06/15/blackrock-files-for-spot-bitcoin-etf-with-coinbase-as-a-crypto-custodian.html)
 

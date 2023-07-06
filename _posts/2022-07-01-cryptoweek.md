@@ -45,7 +45,7 @@ banner:
 - [MicroStrategy Acquires Additional 480 Bitcoins](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-acquires-additional-480-bitcoins_06-29-2022)
 - [Michael Saylor: MicroStrategy's bitcoin true believer - Financial Times](https://www.ft.com/content/53880cca-910a-4e31-96b7-de6e7776ab9b)
 - [What can the past tell us about Bitcoin's future? - Financial Times](https://www.ft.com/content/a8f78e4e-6d79-43e6-9ab6-92be8ee207ee)
-- [Deutsche Bank Sees Bitcoin (BTC) Returning to $28,000 by Year-End - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-29/deutsche-bank-says-bitcoin-could-reach-28-000-by-year-end)
+- [Deutsche Bank Sees Bitcoin Returning to $28,000 by Year-End - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-29/deutsche-bank-says-bitcoin-could-reach-28-000-by-year-end)
 - [The U.S. Dollar Should Be More Like Bitcoin - WSJ](https://www.wsj.com/articles/the-dollar-should-be-more-like-bitcoin-federal-reserve-crypto-store-value-11656427281)
 
 ### Ecosystem - FTX

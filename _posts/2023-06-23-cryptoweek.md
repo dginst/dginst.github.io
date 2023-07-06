@@ -23,7 +23,7 @@ banner:
 ### Regulation - BlackRock ETF
 
 - [Bitcoin Bonanza on Tap if BlackRock ETF Is Approved - WSJ](https://www.wsj.com/articles/bitcoin-bonanza-on-tap-if-blackrock-etf-is-approved-2cb3002)
-- [Bitcoin (BTC) Set for Best Week Since March Fueled by Speculation Over ETFs - Bloomberg](https://www.bloomberg.com/news/articles/2023-06-23/bitcoin-btc-set-for-best-week-since-march-fueled-by-speculation-over-etfs#xj4y7vzkg)
+- [Bitcoin Set for Best Week Since March Fueled by Speculation Over ETFs - Bloomberg](https://www.bloomberg.com/news/articles/2023-06-23/bitcoin-btc-set-for-best-week-since-march-fueled-by-speculation-over-etfs#xj4y7vzkg)
 - [Coin Bureau - Twitter](https://twitter.com/coinbureau/status/1671805994039492609)
 - [WisdomTree, Invesco and BlackRock are now all gunning for a Bitcoin ETF - The Block](https://www.theblock.co/post/235753/wisdomtree-invesco-and-blackrock-are-now-all-gunning-for-a-bitcoin-etf)
 

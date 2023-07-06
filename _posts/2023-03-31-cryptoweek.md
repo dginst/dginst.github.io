@@ -30,7 +30,7 @@ banner:
 
 ### Markets - Bitcoin
 
-- [Bitcoin (BTC) Resumes Pursuit of $30,000 After Binance Legal Tumult - Bloomberg](https://www.bloomberg.com/news/articles/2023-03-29/bitcoin-btc-resumes-pursuit-of-30-000-after-binance-legal-tumult)
+- [Bitcoin Resumes Pursuit of $30,000 After Binance Legal Tumult - Bloomberg](https://www.bloomberg.com/news/articles/2023-03-29/bitcoin-btc-resumes-pursuit-of-30-000-after-binance-legal-tumult)
 - [Bitcoin’s (BTC) Surge Makes It the Best Performing Asset in Q1 2023 - Bloomberg](https://www.bloomberg.com/news/articles/2023-03-31/bitcoin-s-btc-surge-mkes-it-the-best-performing-asset-in-q1-2023)
 - [MicroStrategy Pays Off Silvergate Loan, Buys More Bitcoin](https://www.coindesk.com/business/2023/03/27/microstrategy-pays-off-silvergate-loan-buys-more-bitcoin/)
 

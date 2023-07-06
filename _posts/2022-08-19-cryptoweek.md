@@ -53,7 +53,7 @@ banner:
 
 ### Ecosystem - DeFi lending crisis
 
-- [Crypto lender Hodlnaut lays off staff, reveals police probe | Reuters](https://www.reuters.com/technology/crypto-lender-hodlnaut-lays-off-staff-reveals-police-probe-2022-08-19/)
+- [Crypto lender Hodlnaut lays off staff, reveals police probe - Reuters](https://www.reuters.com/technology/crypto-lender-hodlnaut-lays-off-staff-reveals-police-probe-2022-08-19/)
 - [Bankrupt Crypto Lender Celsius Considers Restructuring Finance Proposals - Bloomberg](https://www.bloomberg.com/news/articles/2022-08-16/bankrupt-crypto-lender-celsius-considers-financing-proposals)
 - [Canadian pension giant writes off $150mn Celsius investment - Financial Times](https://www.ft.com/content/67048159-82aa-4e96-bfb3-f1764f632375)
 - [Alex Mashinsky took control of Celsius trading strategy months before bankruptcy - Financial Times](https://www.ft.com/content/43d4fb5d-72a1-468c-aac8-9e11c4693f4e)

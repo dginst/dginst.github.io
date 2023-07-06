@@ -22,7 +22,7 @@ banner:
 
 ### Regulation - SEC vs Coinbase
 
-- [Coinbase (COIN) Faces SEC Investigation Over Cryptocurrency Listings - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-26/coinbase-faces-sec-investigation-over-cryptocurrency-listings)
+- [Coinbase Faces SEC Investigation Over Cryptocurrency Listings - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-26/coinbase-faces-sec-investigation-over-cryptocurrency-listings)
 - [Coinbase SEC Investigation Is Just Beginning for Crypto Regulation - Bloomberg](https://www.bloomberg.com/opinion/articles/2022-07-28/coinbase-sec-investigation-is-just-beginning-for-crypto-regulation)
 - [Coinbase SEC Probe Into Listed Tokens Has Crypto Traders Concerned - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/crypto-traders-rattled-by-sec-scrutiny-of-coinbase-listed-tokens)
 - [Kraken Under Investigation for Alleged Sanctions Violations - Coindesk](https://www.coindesk.com/policy/2022/07/26/kraken-under-investigation-for-alleged-sanctions-violations-report)

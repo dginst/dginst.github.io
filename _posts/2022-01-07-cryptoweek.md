@@ -24,7 +24,7 @@ banner:
 ### Markets
 
 - [Bitcoin Falls Below $43K, Leads to $800M in Crypto Liquidations - coindesk](https://www.coindesk.com/markets/2022/01/06/bitcoin-falls-below-43k-leads-to-800m-crypto-liquidations)
-- [Crypto: Bitcoin (BTC) price slumps to 3-month low - cnbc](https://www.cnbc.com/2022/01/07/crypto-bitcoin-btc-price-slumps-to-3-month-low.html)
+- [Crypto: Bitcoin price slumps to 3-month low - cnbc](https://www.cnbc.com/2022/01/07/crypto-bitcoin-btc-price-slumps-to-3-month-low.html)
 - [Bitcoin, Ethereum and Stock Prices Fall as Fed Readies Interest Rate Hike - Decrypt](https://decrypt.co/89833/bitcoin-ethereum-stock-prices-fall-fed-readies-interest-rate-hike)
 
 ### Mining

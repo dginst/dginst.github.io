@@ -40,9 +40,9 @@ banner:
 - [SEC.gov - SEC Charges Coinbase for Operating as an Unregistered Securities Exchange, Broker, and Clearing Agency](https://www.sec.gov/news/press-release/2023-102)
 - [SEC Sues Coinbase, Alleges It Is Unregistered Broker - WSJ](https://www.wsj.com/articles/sec-sues-coinbase-says-it-is-unregistered-broker-dealer-95ec0637)
 - [SEC sues Coinbase in widening crackdown on crypto exchanges - Financial Times](https://www.ft.com/content/8b107fe5-e993-4259-8b6c-67e6f35f199f)
-- [Coinbase (COIN) SEC Crypto Charges Pose Threat as Altcoins Deemed Securities - Bloomberg](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-coin-sec-crypto-charges-pose-threat-as-altcoins-deemed-securities)
+- [Coinbase SEC Crypto Charges Pose Threat as Altcoins Deemed Securities - Bloomberg](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-coin-sec-crypto-charges-pose-threat-as-altcoins-deemed-securities)
 - [Coinbase hasn't yet decided about delisting any assets after SEC lawsuit - The Block](https://www.theblock.co/post/233607/coinbase-chief-legal-officer-sec)
-- [Coinbase (COIN) CEO Brian Armstrong Says SEC Started to Change ‘Tone’ Last Year - Bloomberg](https://www.bloomberg.com/news/articles/2023-06-07/coinbase-ceo-says-sec-started-to-change-tone-last-year)
+- [Coinbase CEO Brian Armstrong Says SEC Started to Change ‘Tone’ Last Year - Bloomberg](https://www.bloomberg.com/news/articles/2023-06-07/coinbase-ceo-says-sec-started-to-change-tone-last-year)
 - [Why did the SEC let Coinbase go public?](https://protos.com/why-did-the-sec-let-coinbase-go-public/)
 
 ### Regulation - Cardano
@@ -75,7 +75,7 @@ banner:
 ### Ecosystem - Atomic Wallet Hack
 
 - [Over $35 Million Lost in Atomic Wallet Attack as Exploit Investigation Continues - Decrypt](https://decrypt.co/143362/atomic-wallet-attack-exploit-investigation)
-- [Atomic Wallet Users Hacked for $35M Worth of Bitcoin (BTC), Ether (ETH), Tether (USDT) and Other Tokens - Coindesk](https://www.coindesk.com/tech/2023/06/05/atomic-wallet-users-hacked-for-35m-worth-of-bitcoin-ether-tether-and-other-tokens)
+- [Atomic Wallet Users Hacked for $35M Worth of Bitcoin, Ether (ETH), Tether (USDT) and Other Tokens - Coindesk](https://www.coindesk.com/tech/2023/06/05/atomic-wallet-users-hacked-for-35m-worth-of-bitcoin-ether-tether-and-other-tokens)
 
 ### Ecosystem - Miscellanea
 

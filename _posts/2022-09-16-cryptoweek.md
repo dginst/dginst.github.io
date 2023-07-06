@@ -41,7 +41,7 @@ banner:
 
 ### Ecosystem - ETH vs BTC
 
-- [Ethereum's Merge Is Over. Your Move, Bitcoin (BTC) - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-09-15/ethereum-s-merge-is-over-your-move-bitcoin-btc)
+- [Ethereum's Merge Is Over. Your Move, Bitcoin - Bloomberg](https://www.bloomberg.com/news/newsletters/2022-09-15/ethereum-s-merge-is-over-your-move-bitcoin-btc)
 - [Cryptoverse: Ether snaps at bitcoin's heels in race for crypto crown - Reuters](https://www.reuters.com/technology/cryptoverse-ether-snaps-bitcoins-heels-race-crypto-crown-2022-09-13/)
 
 ### Ecosystem - TradFi

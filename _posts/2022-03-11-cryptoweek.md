@@ -20,7 +20,7 @@ banner:
 - [Bitcoin Price Surges on Biden's Crypto Executive Order - WSJ](https://www.wsj.com/articles/biden-to-order-study-of-cryptocurrency-risk-creation-of-u-s-digital-currency-11646823600)
 - [Bitcoin jumps in value after leaked US Treasury statement calms fears of a crypto clampdown - Euronews](https://www.euronews.com/next/2022/03/09/bitcoin-jumps-in-value-after-leaked-us-treasury-statement-calms-fears-of-a-crypto-clampdow)
 - [Bitcoin surges after Biden signs executive order on digital assets - Reuters](https://www.reuters.com/business/finance/bitcoin-jumps-after-apparent-yellen-statement-quells-us-clampdown-fears-2022-03-09/)
-- [Bitcoin (BTC) jumps as Biden announces cryptocurrency executive order - CNBC](https://www.cnbc.com/2022/03/09/bitcoin-btc-jumps-after-treasury-statement-on-crypto-executive-order.html)
+- [Bitcoin jumps as Biden announces cryptocurrency executive order - CNBC](https://www.cnbc.com/2022/03/09/bitcoin-btc-jumps-after-treasury-statement-on-crypto-executive-order.html)
 - [Biden's crypto order will spark new bull market, says Bitwise's Matt Hougan: CNBC Crypto World - YouTube](https://www.youtube.com/watch?v=8GiPTy0-iTY)
 - [President Biden to Sign Executive Order on Ensuring Responsible Development of Digital Assets - The White House](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/fact-sheet-president-biden-to-sign-executive-order-on-ensuring-responsible-innovation-in-digital-assets/)
 - [Statement by Janet L. Yellen on President Biden's Executive Order - U.S. Department of the Treasury](https://web.archive.org/web/20220309014601/https://home.treasury.gov/news/press-releases/jy0643)

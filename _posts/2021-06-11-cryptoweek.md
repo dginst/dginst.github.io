@@ -18,7 +18,7 @@ banner:
 
 ### Markets
 
-- [Bitcoin (BTC) price slides as US seizes most of Colonial ransom - cnbc](https://www.cnbc.com/2021/06/08/bitcoin-btc-price-slides-as-us-seizes-most-of-colonial-ransom.html)
+- [Bitcoin price slides as US seizes most of Colonial ransom - cnbc](https://www.cnbc.com/2021/06/08/bitcoin-btc-price-slides-as-us-seizes-most-of-colonial-ransom.html)
 - [Some bitcoin miners in Xinjiang have been ordered to shut down - The Block](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
 - [Sichuan takes lenient stance on bitcoin mining amid national crackdown to deal with rainy season's excess hydropower - South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3136357/sichuan-takes-lenient-stance-bitcoin-mining-amid-national)
 - [China Reconsiders Its Central Role in Bitcoin Mining - WSJ](https://www.wsj.com/articles/china-reconsiders-its-central-role-in-bitcoin-mining-11622865618)

@@ -69,7 +69,7 @@ banner:
 ### Ecosystem - Mining
 
 - [Mining the environment – is climate risk priced into crypto-assets? - ECB](https://www.ecb.europa.eu/pub/financial-stability/macroprudential-bulletin/html/ecb.mpbu202207_3~d9614ea8e6.en.html)
-- [Bitcoin (BTC) Miners Shut Off Rigs as Texas Power Grid Nears Brink - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-11/bitcoin-miners-shut-off-rigs-as-texas-power-grid-nears-brink)
+- [Bitcoin Miners Shut Off Rigs as Texas Power Grid Nears Brink - Bloomberg](https://www.bloomberg.com/news/articles/2022-07-11/bitcoin-miners-shut-off-rigs-as-texas-power-grid-nears-brink)
 - [Texas' fragile grid isn't ready for crypto mining's explosive growth - The Verge](https://www.theverge.com/2022/7/14/23206795/bitcoin-crypto-mining-electricity-texas-grid-energy-bills-emissions)
 
 ### Ecosystem - DeFi

@@ -36,7 +36,7 @@ banner:
 ### Coinbase
 
 - [Cathie Wood buys more Coinbase amid crypto plunge - Cnbc](https://www.cnbc.com/2021/05/20/cathie-wood-continues-to-buy-coinbase-amid-crypto-plunge.html)
-- [Coinbase (COIN) earnings Q1 2021 - Cnbc](https://www.cnbc.com/2021/05/13/coinbase-coin-earnings-q1-2021.html)
+- [Coinbase earnings Q1 2021 - Cnbc](https://www.cnbc.com/2021/05/13/coinbase-coin-earnings-q1-2021.html)
 - [Coinbase CFO on crypto investors, dogecoin and growing competition - Cnbc](https://www.cnbc.com/2021/05/13/coinbase-cfo-on-crypto-investors-dogecoin-and-growing-competition.html)
 - [Coinbase to Raise $1.25 Billion in Bond Sale Just 1 Month After Going Public - Decrypt](https://decrypt.co/71189/coinbase-raise-1-25-billion-bond-sale)
 - [Coinbase Announces Proposed Private Offering of $1.25 Billion of Convertible Senior Notes Due 2026 - Coinbase](https://investor.coinbase.com/news/news-details/2021/Coinbase-Announces-Proposed-Private-Offering-of-1.25-Billion-of-Convertible-Senior-Notes-Due-2026/default.aspx)

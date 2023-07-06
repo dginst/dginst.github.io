@@ -63,7 +63,7 @@ banner:
 ### FTX - Contagion: DCG
 
 - [Inside a Once-$10 Billion Crypto Empire That's Suddenly Cracking (DCG) - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-16/inside-a-once-10-billion-crypto-empire-that-s-suddenly-cracking-dcg)
-- [Biggest Crypto Fund (GBTC) Hits Record 42% Discount to Bitcoin (BTC) Value - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-14/-broken-crypto-fund-hits-record-42-discount-as-etfs-hum-along)
+- [Biggest Crypto Fund (GBTC) Hits Record 42% Discount to Bitcoin Value - Bloomberg](https://www.bloomberg.com/news/articles/2022-11-14/-broken-crypto-fund-hits-record-42-discount-as-etfs-hum-along)
 
 ### FTX - Contagion: Gemini
 

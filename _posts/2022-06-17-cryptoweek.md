@@ -19,7 +19,7 @@ banner:
 
 - [Bitcoin tumble leaves the average buyer in the red - Financial Times](https://www.ft.com/content/27cd8e4b-8be4-4efc-875d-bf7671727e9c)
 - [Bitcoin Price (BTCUSD) Falls 10% to $20,824 in Deepening Crypto Sector Crash - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-14/bitcoin-drops-as-much-as-7-5-in-deepening-crypto-sector-selloff)
-- [A Drop in Bitcoin (BTC) Below $20,000 Could Trigger Large Liquidations - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-16/bitcoin-battle-of-leverages-makes-20-000-key-level-to-watch)
+- [A Drop in Bitcoin Below $20,000 Could Trigger Large Liquidations - Bloomberg](https://www.bloomberg.com/news/articles/2022-06-16/bitcoin-battle-of-leverages-makes-20-000-key-level-to-watch)
 - [A crypto cliffhanger brought back from the brink - Financial Times](https://www.ft.com/content/d08e2b58-0b43-486d-897f-d640c13aadff)
 - [Bitcoin miners stung as fallout from price collapse widens - Financial Times](https://www.ft.com/content/60a8a0ad-3946-4aeb-a0f5-f32a1b3d2637)
 - [Why Bitcoin Is Down: Bitcoin's Price Drops 60% Since Fall - Money](https://money.com/why-bitcoin-is-down-panic-2022/)

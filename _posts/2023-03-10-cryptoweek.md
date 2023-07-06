@@ -53,7 +53,7 @@ banner:
 
 ### Market - Selling pressure
 
-- [Bankrupt Mt. Gox’s Biggest Creditor Won’t Sell Returned Bitcoin (BTC) - Bloomberg](https://www.bloomberg.com/news/articles/2023-03-08/bankrupt-mt-gox-s-biggest-creditor-won-t-sell-returned-bitcoin-btc)
+- [Bankrupt Mt. Gox’s Biggest Creditor Won’t Sell Returned Bitcoin - Bloomberg](https://www.bloomberg.com/news/articles/2023-03-08/bankrupt-mt-gox-s-biggest-creditor-won-t-sell-returned-bitcoin-btc)
 - [U.S. Government's $1B Bitcoin Transfer Spooks Investors; Bitcoin Dips - CoinDesk](https://www.coindesk.com/markets/2023/03/09/us-governments-1b-bitcoin-transfer-spooks-investors-bitcoin-dips)
 
 ### Ecosystem - Stablecoins
