@@ -41,7 +41,7 @@ banner:
 ### Ecosystem - Coinbase
 
 - [Coinbase CEO Armstrong Confirms Street Expectations for a 50%-Plus Decline in Revenue in 2022 - CoinDesk](https://www.coindesk.com/business/2022/12/07/coinbase-ceo-armstrong-confirms-street-expectations-for-50-plus-decline-in-revenue-in-2022)
-- [Coinbase CEO Armstrong Sees 2022 Revenue Down 50% or More (COIN) - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-07/coinbase-crypto-ceo-brian-armstrong-sees-revenue-falling-by-half-in-2022)
+- [Coinbase CEO Armstrong Sees 2022 Revenue Down 50% or More - Bloomberg](https://www.bloomberg.com/news/articles/2022-12-07/coinbase-crypto-ceo-brian-armstrong-sees-revenue-falling-by-half-in-2022)
 - [Crypto Exchange Coinbase Asks Users to Switch USDT for USDC - CoinDesk](https://www.coindesk.com/business/2022/12/09/coinbase-asks-users-to-switch-usdt-for-usdc)
 
 ### Ecosystem - Circle

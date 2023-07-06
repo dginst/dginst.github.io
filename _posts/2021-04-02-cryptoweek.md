@@ -35,7 +35,7 @@ podcast: 8261625
 - [Former SEC Chairman Jay Clayton to Advise One River Asset Management on Crypto (coindesk)](https://www.coindesk.com/former-sec-chairman-jay-clayton-to-advise-one-river-asset-management-on-crypto){:target="_blank"}
 - [Bitcoin at 'Inflection Point' as Fiat Debasement Rises: Soros Fund Management CIO (Decrypt)](https://decrypt.co/62981/bitcoin-inflection-point-soros-fund-management-cio){:target="_blank"}
 - [Grayscale's Sonnenshein Addresses GBTC's Collapsing Premium (coindesk)](https://www.coindesk.com/grayscale-sonnenshein-gbtc-collapsing-premium-coindesktv){:target="_blank"}
-- [Coinbase's COIN Stock to Go Live on Nasdaq April 14 (coindesk)](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14){:target="_blank"}
+- [Coinbase's Stock to Go Live on Nasdaq April 14 (coindesk)](https://www.coindesk.com/coinbases-coin-stock-to-go-live-on-nasdaq-april-14){:target="_blank"}
 
 ### CBDC
 
