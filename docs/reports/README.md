@@ -23,6 +23,12 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
+- **2023Q2**:
+  presentazione ([video](https://youtu.be/dYI-JCW4qpw),
+  [slide]({{site.baseurl}}/docs/reports/2023Q2-presentation.pdf)
+  e [comunicato stampa]({{site.baseurl}}/docs/20230713-comunicato-stampa-report-dgi.pdf)).  
+  Ospite: Filippo Annunziata, professore all'Università Bocconi e Ca’ Foscari Venezia, su
+  "[MiCAr e DORA: quali novità per banche ed operatori cripto?]({{site.baseurl}}/docs/reports/2023Q2-annunziata.pdf)".
 - **2023Q1**:
   presentazione ([video](https://www.youtube.com/watch?v=SeDkpIW5oaE),
   [slide]({{site.baseurl}}/docs/reports/2023Q1-presentation.pdf)
