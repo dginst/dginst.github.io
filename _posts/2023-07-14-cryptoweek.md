@@ -22,10 +22,10 @@ banner:
 - [Ripple Ruling Deals a Blow to SEC’s Effort to Regulate Crypto - WSJ](https://www.wsj.com/articles/ripple-wins-early-dismissal-of-some-claims-in-sec-lawsuit-over-xrp-sales-f88f968f)
 - [The Ripple story - BitMEX Blog](https://blog.bitmex.com/the-ripple-story/)
 
-### Regulation - Ripple vs SEC
+### Regulation
 
 - [A Path Forward for Regulating Crypto Markets - WSJ](https://www.wsj.com/articles/regulating-crypto-markets-1e5ec5c5)
-- [(176) Fmr. SEC Chair Jay Clayton on U.S.-China relations: We're overly dependent on 'a vicious competitor' - YouTube](https://www.youtube.com/watch?v=anZ64j1YcU4)
+- [Fmr. SEC Chair Jay Clayton on U.S.-China relations: We're overly dependent on 'a vicious competitor' - YouTube](https://www.youtube.com/watch?v=anZ64j1YcU4)
 
 ### Regulation - Bitcoin Spot ETF
 
