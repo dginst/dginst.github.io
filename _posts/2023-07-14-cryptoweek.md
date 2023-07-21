@@ -7,7 +7,7 @@ author: "Staff"
 image:
     thumb: cryptoweek-post-thumb.jpg
 youtube: hKFdqw7a8Mk
-published: false
+published: true
 cryptoweek: true
 podcast: 13173827
 banner:
