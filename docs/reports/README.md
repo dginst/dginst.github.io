@@ -23,6 +23,13 @@ mercato, ecosistema, tecnologia, regolazione, ecc.
 
 Questi i report finora prodotti:
 
+- **2023Q3**:
+  presentazione
+  ([slide]({{site.baseurl}}/docs/reports/2023Q3-presentation-short.pdf)
+  e
+  [comunicato stampa]({{site.baseurl}}/docs/20231011-comunicato-stampa-report-dgi.pdf)).  
+  Ospite: Silvia Attanasio, Head of Innovation ABI and Chairwoman ABILab,
+  su "_Adelante, con juicio_. Banks and crypto.".
 - **2023Q2**:
   presentazione ([video](https://youtu.be/dYI-JCW4qpw),
   [slide]({{site.baseurl}}/docs/reports/2023Q2-presentation.pdf)
