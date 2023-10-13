@@ -1,7 +1,7 @@
 ---
 layout: cryptoweek
 comments: false
-title: "CryptoWeek #137"
+title: "CryptoWeek #138"
 subtitle: "Il commento di Ferdinando Ametrano alle crypto-news della settimana."
 author: "Staff"
 image:
