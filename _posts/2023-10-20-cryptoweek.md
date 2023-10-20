@@ -15,8 +15,6 @@ banner:
  img: ISP_ON_AIR_LEADERBOARD_728X90.jpg
 ---
 
-## Il commento di Ferdinando Ametrano alle crypto-news della settimana
-
 ### Markets
 
 - [Fidelity Spot Bitcoin ETF Amendment Spurs BTC Jump on SEC Dialog Speculation - CoinDesk](https://www.coindesk.com/markets/2023/10/18/bitcoin-nears-29k-as-fidelity-etf-amendment-bumps-bullish-sentiment/)
