@@ -35,7 +35,7 @@ banner:
 
 - [Post FTX Market Makers Fight to Make it to Crypto Spring - Bloomberg](https://www.bloomberg.com/news/articles/2023-10-31/post-ftx-market-makers-fight-to-make-it-to-crypto-btc-spring)
 - [Should I Buy Bitcoin? Price Gains Fuel Endorsements from Financial Planners - Bloomberg](https://www.bloomberg.com/news/articles/2023-10-31/should-i-buy-bitcoin-price-gains-fuel-endorsements-from-financial-planners)
-- [MicroStrategy Announces Third Quarter 2023 Financial Results; Now Holds 158,400 BTC in Total - MicroStrategy](https://www.microstrategy.com/en/investor-relations/press/microstrategy-announces-third-quarter-2023-financial-results_11-01-2023)
+- [MicroStrategy Now Holds 158,400 BTC in Total - MicroStrategy](https://www.microstrategy.com/en/investor-relations/press/microstrategy-announces-third-quarter-2023-financial-results_11-01-2023)
 - [Bitcoin Swings Driven in Part by Lack of Liquidity - Bloomberg](https://www.bloomberg.com/news/articles/2023-10-30/bitcoin-s-btc-big-moves-are-being-magnified-by-protracted-dearth-of-liquidity)
 
 ### Ecosystem - Bitcoin Paper 15th Anniversary
