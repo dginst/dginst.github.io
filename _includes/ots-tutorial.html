@@ -99,7 +99,8 @@
                 In time, this hash will be attested in a Bitcoin block header
                 and the submission receipt will become upgradable to
                 attestation proof. The submission receipt is not an
-                attestation proof yet, i.e., it cannot be verified immediately:
+                attestation proof yet,
+                i.e., it cannot be verified immediately:
                 it is incomplete as it takes up to few hours for the timestamp
                 to get confirmed by the Bitcoin blockchain.
                 <br>
@@ -261,9 +262,11 @@
                 block header(s), making it a self-contained
                 calendar-independent OTS proof.
                 <br>
-                Even proofs can be updated, if there is a calendar that can add
-                its own attestation to the ones previously provided by other
-                calendars.
+                Even proofs can be updated, if a calendar can add
+                its attestation to
+                the ones previously provided by other calendars.
+                Of course, the earliest attestation is the most relevant:
+                subsequent ones do not add relevant information.
             </p>
             <div class="card-body">
                 <div class="row">
