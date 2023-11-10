@@ -23,8 +23,8 @@
                 </p>
                 <p class="text-muted">
                     A timestamp demonstrates that a document existed in a
-                    specific status prior to a given point in time, providing
-                    a document with a certain sure date (e.g. postmark).
+                    specific status prior to a given point in time,
+                    providing that document with a certain sure date (e.g., postmark).
                     Law requires dates to be certified by
                     public officials and notary services;
                     for digital documents, timestamping is usually based on the
@@ -35,27 +35,27 @@
                     <em>attestation</em> of its <em>hash value</em>
                     in a blockchain transaction.
                     The hash value 'uniquely' identifies the document
-                    (as if it were its digital fingerprint),
+                    (as if it were its unique digital fingerprint),
                     the transaction extends its native blockchain
                     timestamping to the included hash value,
                     therefore proving its
                     existence at a given point in time.
                     As a result,
                     the blockchain attestation of the hash value
-                    proves the existence of the
+                    proves also the existence of the
                     original document itself prior to the timestamp moment.
                 </p>
                 <p class="text-muted">
-                    The timestamping and content of a blockchain transaction
+                    Timestamping and content of a blockchain transaction
                     are secured by the amount of computational effort
-                    performed after its inclusion in a block of the chain.
+                    performed after the transaction inclusion in a block of the chain.
                     Indeed, the more blocks are added to the chain
                     after a given block,
                     the more computationally intensive is
                     tampering with the data of that block; even just trying
                     to alter the timestamp of a transaction
                     becomes technically and economically prohibitive,
-                    especially in the Bitcoin case.
+                    especially in the Bitcoin blockchain case.
                 </p>
                 <p class="text-muted">
                     Although there are many ways to realize a timestamp,
@@ -71,16 +71,17 @@
                     OpenTimestamps attestation proofs can be verified
                     independently from
                     any server, vendor, or centralized infrastructure, simply
-                    using a local copy of the blockchain (e.g. a Bitcoin
+                    using a local copy of the blockchain (e.g., a Bitcoin
                     <a href="http://bitcoincore.org/en/download/">full node</a>).
                     <b>Trust minimization</b> is achieved because of this
                     distributed, decentralized, independent, uncensorable,
                     and cross-jurisdictional design.
                     This webpage interface is just a facility and,
                     since a webpage cannot access the local filesystem,
-                    relies on public Bitcoin block-explorers
-                    (e.g. <a href="http://blockstream.info">blockstream.info</a>)
-                    for verification.
+                    relies for verification
+                    on public Bitcoin block-explorers
+                    (e.g., <a href="http://blockstream.info">blockstream.info</a>)
+                    instead of a local copy of the blockchain.
                 </p>
                 <p class="text-muted">
                     To avoid the inefficiency of one blockchain transaction
@@ -91,10 +92,11 @@
                     and
                     attests only the hash
                     of the Merkle tree root.
-                    Since the inclusion of a
+                    The inclusion of a
                     hash value <em>leaf</em> in a Merkel tree
-                    can be cryptographically proved and is
-                    part of the attestation proof,
+                    can be cryptographically proved and such a proof is
+                    part of the attestation;
+                    as a result,
                     the single <em>attestation</em>
                     of the tree root implicitly attests
                     all the leaves.
@@ -109,17 +111,16 @@
                     or any alternative approach),
                     for <b>convenience</b>
                     there are multiple public OpenTimestamps
-                    <em>calendar servers</em> (e.g.
+                    <em>calendar servers</em> (e.g.,
                     <a href="https://btc.ots.dgi.io">btc.ots.dgi.io</a>),
                     free to use without any registration or API key.
                     A single calendar server can offer its services to
                     multiple remote OpenTimestamps clients: verifiable
-                    timestamp are created almost instantly.
+                    timestamp are created with no cost for the clients.
                     The public free OpenTimestamps calendar servers
                     use Bitcoin as timestamp notary,
-                    i.e. they make the Bitcoin transactions that will
-                    ultimately attest hash values in the Bitcoin blockchain.
-
+                    i.e., they make a Bitcoin transactions
+                    to attest the root hash value in the Bitcoin blockchain.
                 </p>
             </div>
 

@@ -369,9 +369,9 @@ var Document = {
 		if (Proof.exist()) {
 			if (Proof.getHash() == Hashes.get("SHA256")) {
 				if (Proof.stamped()) {
-					verified('The provided file matches the provided attestation proof: same hash values.<br><b>File existence is attested</b> at the above date.')
+					verified('The provided file matches the provided attestation proof: same hash value.<br><b>File existence is attested</b> at the above date.')
 				} else {
-					matched('The provided file matches the provided submission receipt: same hash values.<br>Anyway, <b>attestation is still pending</b>.')
+					matched('The provided file matches the provided submission receipt: same hash value.<br>Anyway, <b>attestation is still pending</b>.')
 				}
 			} else {
 				if (Proof.stamped()) {
@@ -781,7 +781,7 @@ function verifying(text) {
 }
 function stamped(text) {
 	Proof.setStamped()
-	proof_message("STAMPED!", text, 'statuses_success');
+	proof_message("TIMESTAMPED!", text, 'statuses_success');
 }
 
 function document_message(title, text, cssClass, showInfo) {
