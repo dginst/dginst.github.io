@@ -27,15 +27,15 @@ banner:
 
 - [Tether Powers El Salvador's Visionary Freedom Visa Program Through Technology Support - Tether](https://tether.to/en/tether-powers-el-salvadors-visionary-freedom-visa-program-through-technology-support/)
 - [El Salvador Tries to Woo Crypto Millionaires With New ‘Freedom VISA’ - CoinDesk](https://www.coindesk.com/business/2023/12/08/el-salvador-could-rake-in-1b-bitcoin-per-year-with-new-freedom-visa/)
-- [Bitcoin (BTC) Investment Profitable Says Nayib Bukele of El Salvador - CoinDesk](https://www.coindesk.com/markets/2023/12/04/el-salvadors-bitcoin-investment-in-the-black-says-president-bukele/)
+- [Bitcoin Investment Profitable Says Nayib Bukele of El Salvador - CoinDesk](https://www.coindesk.com/markets/2023/12/04/el-salvadors-bitcoin-investment-in-the-black-says-president-bukele/)
 
 ### Ecosystem - Microstrategy
 
-- [MicroStrategy's (MSTR) Bitcoin (BTC) Holdings Profit Tops $2B - CoinDesk](https://www.coindesk.com/markets/2023/12/04/michael-saylors-bitcoin-bet-profit-tops-2b/)
+- [MicroStrategy's Bitcoin Holdings Profit Tops $2B - CoinDesk](https://www.coindesk.com/markets/2023/12/04/michael-saylors-bitcoin-bet-profit-tops-2b/)
 
 ### Ecosystem - Binance and CZ
 
-- [Binance Exchange’s BNB Trails Bitcoin (BTC)-Led Crypto Rally - Bloomberg](https://www.bloomberg.com/news/articles/2023-12-07/binance-exchange-s-bnb-trails-bitcoin-btc-led-crypto-rally)
+- [Binance Exchange’s BNB Trails Bitcoin-Led Crypto Rally - Bloomberg](https://www.bloomberg.com/news/articles/2023-12-07/binance-exchange-s-bnb-trails-bitcoin-btc-led-crypto-rally)
 - [Crypto Exchange Binance Ends Abu Dhabi Investment Management License Application - CoinDesk](https://www.coindesk.com/business/2023/12/08/binance-withdraws-bid-for-abu-dhabi-license-reuters/)
 - [New Binance chief refuses to disclose global headquarters’ location - Financial Times](https://www.ft.com/content/77e9282e-cde2-4ea2-bcbc-eae7c88a7910)
 - [Inside France’s courtship of Binance - Financial Times](https://www.ft.com/content/47fe6542-d000-4051-86d9-feb0055697da)
