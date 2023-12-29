@@ -53,7 +53,7 @@ permalink: /cryptoweekinternal/
   * caricare il file audio nell'episodio già creato in precedenza e pubblicare
   * Creare un nuovo episodio podcast (il titolo senza la parola Cryptoweek, parte con #, la descrizione copiata da <https://www.checksig.com/it/cryptoweek/>, così ha i link)
 * Streamyard: creare nuovo broadcast per la settimana successiva su Facebook, YouTube, LinkedIn, Twitter
-  * titolo: CryptoWeek #148 (22 dicembre 2023)
+  * titolo: CryptoWeek #150 (12 gennaio 2024)
   * descrizione: Il commento di Ferdinando Ametrano alle crypto-news della settimana: ogni venerdì alle 18h in live-streaming su YouTube, LinkedIn, Facebook e Twitter; subito dopo, anche podcast (Spotify, Apple, Amazon, ecc.). <https://checksig.com/it/cryptoweek>
   * foto: dginst.github.io/img/events/2022-cryptoweek-new.jpg
   * banner: I link alle notizie presentate sono nella pagina <www.dgi.io/2022/03/11/cryptoweek>
