@@ -18,8 +18,8 @@ banner:
 ### Markets - Bitcoin ETF
 
 - [Bitcoin Spot-ETF Flow Race Dominated by Fidelity, BlackRock - Bloomberg](https://www.bloomberg.com/news/articles/2024-01-24/fidelity-and-blackrock-are-dominating-the-bitcoin-etf-flow-race)
-- [Grayscale's GBTC Profit Taking Likely Over, Easing Bitcoin (BTC) Selling Pressure: JPMorgan - CoinDesk](https://www.coindesk.com/markets/2024/01/25/grayscales-gbtc-profit-taking-likely-over-easing-bitcoin-selling-pressure-jpmorgan/)
-- [Is the worst over for Bitcoin?](https://www.ft.com/content/f95a648e-3116-4652-bfc8-34624cce3a6d)
+- [Grayscale's GBTC Profit Taking Likely Over, Easing Bitcoin Selling Pressure - CoinDesk](https://www.coindesk.com/markets/2024/01/25/grayscales-gbtc-profit-taking-likely-over-easing-bitcoin-selling-pressure-jpmorgan/)
+- [Is the worst over for Bitcoin? - Financial Times](https://www.ft.com/content/f95a648e-3116-4652-bfc8-34624cce3a6d)
 - [FTX Sold About $1B of Grayscale's Bitcoin ETF - CoinDesk](https://www.coindesk.com/business/2024/01/22/ftx-sold-about-1b-of-grayscales-bitcoin-etf-explaining-much-of-outflow-sources/)
 - [Mt. Gox Bitcoin (BTC) Payments Move Closer - CoinDesk](https://www.coindesk.com/business/2024/01/23/mt-gox-moves-seemingly-closer-to-bitcoin-repayments-for-2014-hack-victims)
 
@@ -29,6 +29,7 @@ banner:
 
 ### Ecosystem - Bitwise Bitcoin ETF Proof-of-Address
 
+- [About Bitwise's shocking single-key security - CheckSig](https://www.checksig.com/2024/01/25/bitcoin-etfs-safe/)
 - [Bitwise - X](https://twitter.com/BitwiseInvest/status/1750224060620111912)
 - [Peter Todd- X](https://twitter.com/peterktodd/status/1750242611959320596)
 - [Hong Kim - X](https://twitter.com/hongkim__/status/1750245579660402724)
