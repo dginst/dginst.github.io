@@ -19,7 +19,7 @@ banner:
 
 - [Bitcoin Price Tops $47,000, Tests January Highs - WSJ](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-09-2024/card/bitcoin-price-tops-46-000-nears-january-highs-bIhHXhMwGr2tW8wWBXpa)
 - [Bitcoin Hovers Near One-Month High on ETF Flows, Halving - Bloomberg](https://www.bloomberg.com/news/articles/2024-02-09/bitcoin-btc-hovers-near-one-month-high-on-etf-flows-halving)
-- [EricBalchunas - X](https://twitter.com/EricBalchunas/status/1755702963778023718)
+- [Eric Balchunas - X](https://twitter.com/EricBalchunas/status/1755702963778023718)
 - [IBIT Bitcoin ETF Ranks Fifth in All ETF Inflows - CoinDesk](https://www.coindesk.com/markets/2024/02/06/blackrocks-bitcoin-etf-inflows-climb-to-fifth-highest-among-all-etfs-in-2024/)
 - [CME Trading Volume Reached Highest in 3 Years After Bitcoin ETF Approval - CoinDesk](https://www.coindesk.com/markets/2024/02/07/cme-trading-volume-reached-highest-in-3-years-after-bitcoin-etf-approval/)
 
@@ -35,7 +35,7 @@ banner:
 - [Ethereum Developers Target March 13 for Milestone 'Dencun' Upgrade on Mainnet - CoinDesk](https://www.coindesk.com/tech/2024/02/08/ethereum-developers-target-march-13-for-milestone-dencun-upgrade-on-mainnet/)
 - [Ben Schiller - X](https://twitter.com/btschiller)
 - [Prometheum Ember Capital is the First SEC Qualified Custodian for Digital Assets Securities - Business Wire](https://www.businesswire.com/news/home/20230523005313/en/Prometheum-Ember-Capital-is-the-First-SEC-Qualified-Custodian-for-Digital-Assets-Securities)
-- [Commission Statement and Request for Comment: Custody of Digital Asset Securities by Special Purpose Broker-Dealers](https://www.sec.gov/files/rules/policy/2020/34-90788.pdf)
+- [Custody of Digital Asset Securities by Special Purpose Broker-Dealers - SEC](https://www.sec.gov/files/rules/policy/2020/34-90788.pdf)
 
 ### Ecosystem -  DeFi
 
