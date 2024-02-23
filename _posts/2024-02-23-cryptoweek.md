@@ -32,7 +32,7 @@ banner:
 
 - [BTC ETF Net Inflows Slow to a Trickle as Price Flattens - CoinDesk](https://www.coindesk.com/markets/2024/02/22/bitcoin-etf-net-inflows-slow-to-a-trickle-as-price-flattens)
 - [EFT Flows - BitMEX Research on X](https://twitter.com/BitMEXResearch/status/1760936963043999792)
-- [BlackRock’s Rick Rieder on Bitcoin, the Fed and His Big Worry in 2024 - WSJ's Take On the Week - WSJ Podcasts](https://www.wsj.com/podcasts/take-on-the-week/blackrocks-rick-rieder-on-bitcoin-the-fed-and-his-big-worry-in-2024/458b3582-d43b-49f5-bc34-9ab04d251f99)
+- [BlackRock’s Rick Rieder on Bitcoin, the Fed and His Big Worry in 2024 - WSJ](https://www.wsj.com/podcasts/take-on-the-week/blackrocks-rick-rieder-on-bitcoin-the-fed-and-his-big-worry-in-2024/458b3582-d43b-49f5-bc34-9ab04d251f99)
 
 ### Market - USDC leaves TRON
 
