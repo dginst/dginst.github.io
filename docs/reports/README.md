@@ -22,15 +22,15 @@ market, ecosystem, technology, regulation, etc.
 It is aimed at entrepreneurs, top managers, journalists, politicians, regulators, professionals, academics, influencers, and decision-makers.
 
 - **2024Q1** #21: Presented at the [Clear Summit 2024](https://clear.checksig.com/summit).
-- **2023Q4** #20: Presented at the [Crypto Asset Lab Conference](https://cryptoassetlab.org/cal2024/)
+- **2023Q4** #20: Presented at the [Crypto Asset Lab Conference 2024](https://cryptoassetlab.org/cal2024/)
   ([slides](https://docs.google.com/presentation/d/1-qtK1i1hG_hI7UXoMVyY9qn-FSQPqZgQHZoBsf7PiEc)).
 - **2023Q3** #19:
   presentation
   [slides]({{site.baseurl}}/docs/reports/2023Q3-presentation-short.pdf)
   and
   [press release [ITA]]({{site.baseurl}}/docs/20231011-comunicato-stampa-report-dgi.pdf).  
-  Guest: Silvia Attanasio, Head of Innovation ABI and Chairwoman ABILab,
-  on "_Adelante, con juicio_. Banks and crypto.".
+  Guest: Silvia Attanasio (Head of Innovation ABI and Chairwoman ABILab)
+  on "_Adelante, con juicio_. Banks and crypto".
 - **2023Q2** #18:
   presentation ([video [ITA]](https://youtu.be/dYI-JCW4qpw),
   [slides]({{site.baseurl}}/docs/reports/2023Q2-presentation.pdf))
@@ -45,7 +45,7 @@ It is aimed at entrepreneurs, top managers, journalists, politicians, regulators
   "[Tifosi e cronisti: il mondo cripto sui media]({{site.baseurl}}/docs/reports/2023Q1-grisoni.pdf)".
 - **2022Q4** #16: presentation [slides]({{site.baseurl}}/docs/reports/2022Q4-presentation.pdf).  
   Guest: Francesco Avella (LL.M., Managing Partner at Studio Avella e Associati) on
-  "[Manovra FinanziariaandFiscalità Cripto: quali novità? [ITA]]({{site.baseurl}}/docs/reports/2022Q4-avella.pdf)".
+  "[Manovra Finanziaria e Fiscalità Cripto: quali novità? [ITA]]({{site.baseurl}}/docs/reports/2022Q4-avella.pdf)".
 - **2022Q3** #15: presentation ([video [ITA]](https://youtu.be/4rVSj83-31Y)
   and [slides]({{site.baseurl}}/docs/reports/2022Q3-presentation.pdf)).  
   Guests: Michele Mandelli (Managing Partner, CheckSig)
@@ -61,12 +61,12 @@ It is aimed at entrepreneurs, top managers, journalists, politicians, regulators
   and presentation ([video [ITA]](https://youtu.be/1qQBQfy5UaY)
   and [slides]({{site.baseurl}}/docs/reports/2021Q4-presentation.pdf)).  
   Guest: Maria Sterpeta Balzano (Director, Deloitte Risk Advisory)
-  on "[Rischi ed opportunità delle tecnologie emergentianddelle cripto – Le due facce della medaglia]({{site.baseurl}}/docs/reports/2021Q4-deloitte.pdf)".
+  on "[Rischi ed opportunità delle tecnologie emergenti e delle cripto – Le due facce della medaglia [ITA]]({{site.baseurl}}/docs/reports/2021Q4-deloitte.pdf)".
 - **2021Q3** #11:
   report ([double page]({{ site.baseurl }}/docs/reports/2021Q3-doppiapagina.pdf))
   and presentation ([video [ITA]](https://youtu.be/1qQBQfy5UaY)
   and [slides]({{site.baseurl}}/docs/reports/2021Q3-presentation.pdf)).  
-  Guests: Paola BonginiandMarco Petracco presentano la terza conferenza del Crypto Asset Lab ([slides Bongini]({{site.baseurl}}/docs/reports/2021Q3-CAL-PB.pdf), [slides Petracco]({{site.baseurl}}/docs/reports/2021Q3-JRC-MB.pdf)).
+  Guests: Paola Bongini and Marco Petracco on the third Crypto Asset Lab conference ([slides Bongini]({{site.baseurl}}/docs/reports/2021Q3-CAL-PB.pdf), [slides Petracco]({{site.baseurl}}/docs/reports/2021Q3-JRC-MB.pdf)).
 - **2021Q2** #10:
   report ([single page]({{ site.baseurl }}/docs/reports/2021Q2_compressed.pdf) or
   [double page]({{ site.baseurl }}/docs/reports/2021Q2-doppiapagina_compressed.pdf)) and
@@ -77,27 +77,27 @@ It is aimed at entrepreneurs, top managers, journalists, politicians, regulators
   Guest: Andrea Cattaneo
   on "I digital-asset nel mondo finanziario europeo".
 - **2021Q1** #9:
-  report ([single page]({{ site.baseurl }}/docs/reports/2021Q1.pdf) o
+  report ([single page]({{ site.baseurl }}/docs/reports/2021Q1.pdf) or
   [double page]({{ site.baseurl }}/docs/reports/2021Q1-doppiapagina.pdf)) and presentation
   ([video [ITA]](https://www.youtube.com/watch?v=pgAlv1ufZdk&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=5)
   and
   [slides]({{site.baseurl}}/docs/reports/2021Q1-presentation.pdf)).  
   Guest: Filippo Annunziata
-  on [MiCAR]({{site.baseurl}}/docs/reports/2021Q1-proposal-for-regulation-on-markets-in-crypto-assets.pdf).
+  on "[Towards an eu legislation of crypto-assets: reflections on the MiCAr proposal]({{site.baseurl}}/docs/reports/2021Q1-proposal-for-regulation-on-markets-in-crypto-assets.pdf)".
 - **2020Q4** #8:
   presentation
   ([video [ITA]](https://www.youtube.com/watch?v=FWTKGh96BHQ&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=4)
   and
   [slides]({{site.baseurl}}/docs/reports/2020Q4-presentation.pdf)).  
   Guest: Andrea Medri
-  on "Il mercato ieriandoggi: 2017and2020 a confronto".
+  on "Il mercato ieri e oggi: 2017 e 2020 a confronto".
 - **2020Q3** #7:
   presentation
   ([video [ITA]](https://www.youtube.com/watch?v=pyqumvWKBnE&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=3)
   and
   [slides]({{site.baseurl}}/docs/reports/2020Q3-presentation.pdf)).  
   Guest: Daniele Bernardi
-  on [Stock to flow]({{site.baseurl}}/docs/reports/2020Q3-stock-to-flow.pdf).
+  on "[Stock to flow]({{site.baseurl}}/docs/reports/2020Q3-stock-to-flow.pdf)".
 - **2020Q2** #6:
   presentation
   ([video [ITA]](https://www.youtube.com/watch?v=m1hoHLewIWo&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=2)
@@ -110,20 +110,20 @@ It is aimed at entrepreneurs, top managers, journalists, politicians, regulators
   [double page]({{ site.baseurl }}/docs/reports/2020Q1-doppiapagina.pdf)) and
    presentation
   ([video [ITA]](https://www.youtube.com/watch?v=0dwp7j0Y2dI&list=PLTLa2tRY91LLDuy9lg50Jf3iZaVOg3mkL&index=1),
-  [slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf)
+  [slides]({{site.baseurl}}/docs/reports/2020Q1-presentation.pdf),
   and
-  [news]({{ site.baseurl }}/2020/04/20/report-q1-presentation)).  
+  [news [ITA]]({{ site.baseurl }}/2020/04/20/report-q1-presentation)).  
   Guest: Francesco Avella
   on "Bitcoin nella dichiarazione dei redditi".
 - **2019Q4** #4:
   [report]({{ site.baseurl }}/docs/reports/2019Q4.pdf),
-  [evidenze]({{site.baseurl}}/docs/reports/2019Q4-presentation.pdf)
+  [slides]({{site.baseurl}}/docs/reports/2019Q4-presentation.pdf)
   and
-  [news]({{ site.baseurl }}/2020/01/31/report-q4).
+  [news [ITA]]({{ site.baseurl }}/2020/01/31/report-q4).
   Guest: Raffaele Mauro on
-  [Quantum Computing]({{site.baseurl}}/docs/reports/2019Q4-quantumcumputing.pdf).
+  "[Quantum Computing]({{site.baseurl}}/docs/reports/2019Q4-quantumcumputing.pdf)".
 - **2019Q3** #3: [report]({{ site.baseurl }}/docs/reports/2019Q3.pdf) and
-  [news]({{ site.baseurl }}/2019/10/31/report-q3.html)
+  [news [ITA]]({{ site.baseurl }}/2019/10/31/report-q3.html)
 - **2019Q2** #2: [report]({{ site.baseurl }}/docs/reports/2019Q2.pdf) and
-  [news]({{ site.baseurl }}/2019/07/31/report-q2.html)
+  [news [ITA]({{ site.baseurl }}/2019/07/31/report-q2.html)
 - **2019Q1** #1: [report]({{ site.baseurl }}/docs/reports/2019Q1.pdf)
