@@ -57,7 +57,7 @@ It is aimed at entrepreneurs, top managers, journalists, politicians, regulators
   on "[Come le banche e il fintech possono stare al passo con l'innovazione [ITA]]({{site.baseurl}}/docs/reports/2022Q2-cilio.pdf)".
 - **2022Q1** #13: Closed door event.
 - **2021Q4** #12: report ([single page]({{ site.baseurl }}/docs/reports/2021Q4.pdf) or
-  [double page]({{ site.baseurl }}/docs/reports/2021Q4-doppiapagina.pdf)),
+  [double page]({{ site.baseurl }}/docs/reports/2021Q4-doppiapagina.pdf))
   and presentation ([video [ITA]](https://youtu.be/1qQBQfy5UaY)
   and [slides]({{site.baseurl}}/docs/reports/2021Q4-presentation.pdf)).  
   Guest: Maria Sterpeta Balzano (Director, Deloitte Risk Advisory)
