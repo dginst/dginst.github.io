@@ -3,7 +3,7 @@ layout: post
 comments: false
 lang: it
 title: "The quarterly reports of the Digital Gold Institute"
-subtitle: "Updates on Bitcoin crypto-assets, andb lockchain"
+subtitle: "Updates on Bitcoin crypto-assets, and blockchain"
 youtube: 
 permalink: /reports/
 ---
