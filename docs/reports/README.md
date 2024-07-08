@@ -22,7 +22,7 @@ market, ecosystem, technology, regulation, etc.
 It is aimed at entrepreneurs, top managers, journalists, politicians, regulators, professionals, academics, influencers, and decision-makers.
 
 - **2024Q2** #12:
-  presentation ([video [ITA]](),
+  presentation ([video [ITA]](https://youtu.be/A0k0kd42pSk),
   [slides]({{site.baseurl}}/docs/reports/2024Q2-presentation.pdf))
   and [press release [ITA]]({{site.baseurl}}/docs/20240709-comunicato-stampa-report-dgi.pdf).  
   Guest: Nicola Benini (IFA Consulting, founder and CEO) on
