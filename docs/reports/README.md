@@ -21,13 +21,14 @@ market, ecosystem, technology, regulation, etc.
 
 It is aimed at entrepreneurs, top managers, journalists, politicians, regulators, professionals, academics, influencers, and decision-makers.
 
-- **2024Q2** #12:
+- **2024Q2** #22:
   presentation ([video [ITA]](https://youtu.be/A0k0kd42pSk),
   [slides]({{site.baseurl}}/docs/reports/2024Q2-presentation.pdf))
   and [press release [ITA]]({{site.baseurl}}/docs/20240709-comunicato-stampa-report-dgi.pdf).  
   Guest: Nicola Benini (IFA Consulting, founder and CEO) on
   "[Bitcoin: una nuova asset class [ITA]]({{site.baseurl}}/docs/reports/2024Q2-benini.pdf)".
-- **2024Q1** #21: Presented at the [Clear Summit 2024](https://clear.checksig.com/summit).
+- **2024Q1** #21: Presented at the [Clear Summit 2024](https://clear.checksig.com/summit)
+  ([video [ITA]](https://www.youtube.com/watch?v=jU8KMyCOnSQ&list=PLtlgRmG7i2ylX5TWvkr8BRO_sgsp_VSja&index=5), [slides](https://clear.checksig.com/20240408summit/mazzocchi.pdf)).
 - **2023Q4** #20: Presented at the [Crypto Asset Lab Conference 2024](https://cryptoassetlab.org/cal2024/)
   ([slides](https://docs.google.com/presentation/d/1-qtK1i1hG_hI7UXoMVyY9qn-FSQPqZgQHZoBsf7PiEc)).
 - **2023Q3** #19:
