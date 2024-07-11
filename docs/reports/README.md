@@ -24,7 +24,7 @@ It is aimed at entrepreneurs, top managers, journalists, politicians, regulators
 - **2024Q2** #22:
   presentation ([video [ITA]](https://youtu.be/A0k0kd42pSk),
   [slides]({{site.baseurl}}/docs/reports/2024Q2-presentation.pdf))
-  and [press release [ITA]]({{site.baseurl}}/docs/20240709-comunicato-stampa-report-dgi.pdf).  
+  and [press release [ITA]]({{site.baseurl}}/docs/20240711-comunicato-stampa-report-dgi.pdf).  
   Guest: Nicola Benini (IFA Consulting, founder and CEO) on
   "[Bitcoin: una nuova asset class [ITA]]({{site.baseurl}}/docs/reports/2024Q2-benini.pdf)".
 - **2024Q1** #21: Presented at the [Clear Summit 2024](https://clear.checksig.com/summit)
