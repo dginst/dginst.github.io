@@ -22,7 +22,7 @@ market, ecosystem, technology, regulation, etc.
 It is aimed at entrepreneurs, top managers, journalists, politicians, regulators, professionals, academics, influencers, and decision-makers.
 
 - **2024Q3** #23:
-  presentation ([video](https://www.youtube.com/live/dWmLE9vaW4Q),
+  presentation ([video](https://youtube.com/live/NdS2LdI2IeY),
   [slides]({{site.baseurl}}/docs/reports/2024Q3-presentation.pdf))
   and [press release]({{site.baseurl}}/docs/20241008-dgi_report_[ENG].pdf).  
   Guest: Blake Heimann (Wisdom Tree, Senior Associate, Quant Research) on
