@@ -21,6 +21,15 @@ market, ecosystem, technology, regulation, etc.
 
 It is aimed at entrepreneurs, top managers, journalists, politicians, regulators, professionals, academics, influencers, and decision-makers.
 
+- **2025Q3** #27:
+  presentation ([video](https://youtu.be/PrGj6pgtZlE),
+  [slides](https://docs.google.com/presentation/d/1MOytv4UXbm75C_Cr9QzqxgDE9hvHR5DYfIOcXynT9HM/edit?usp=sharing)
+  and [press release](https://docs.google.com/document/d/1S7RH4lDe0N3J6sY9DM_ReKErrSbo6QeuyLjhD4DczNU/edit?usp=sharing).  
+  Guest: Alex Pezzoli (Brightside Capital SA, founder and Ceo) on
+  "["Oro e Bitcoin nello scenario di svalutazione delle valute fiat"]({{site.baseurl}}/docs/reports/2025Q3-pezzoli.pdf)".
+- **2025Q2** #26:
+- **2025Q1** #25:
+- **2024Q4** #24:
 - **2024Q3** #23:
   presentation ([video](https://youtube.com/live/NdS2LdI2IeY),
   [slides]({{site.baseurl}}/docs/reports/2024Q3-presentation.pdf))
