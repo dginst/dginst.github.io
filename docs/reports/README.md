@@ -21,6 +21,10 @@ market, ecosystem, technology, regulation, etc.
 
 It is aimed at entrepreneurs, top managers, journalists, politicians, regulators, professionals, academics, influencers, and decision-makers.
 
+- **2026Q1** #28:
+  presentation ([video [ITA]](https://www.youtube.com/watch?v=H0p2ch98yY4&t=3060s),
+  [slides]({{site.baseurl}}/docs/reports/2026Q1-presentation.pdf)).  
+  Guest: Daniele Bernardi (Diaman Partners, CEO).
 - **2025Q3** #27:
   presentation ([video](https://youtu.be/PrGj6pgtZlE),
   [slides](https://docs.google.com/presentation/d/1MOytv4UXbm75C_Cr9QzqxgDE9hvHR5DYfIOcXynT9HM/edit?usp=sharing)
